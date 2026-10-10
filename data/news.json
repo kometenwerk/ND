@@ -2275,7 +2275,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 13 und 17 Grad. Die Vorhersage für morgen,",
+   "d": "1d4cb2396a.mp3",
+   "l": 19.87,
+   "s": [
+    0.25,
+    4.05,
+    10.74,
+    14.13,
+    17.19
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/",
@@ -3924,16 +3936,16 @@
     {
      "k": "Die Regierung der Vereinigten Staaten hat neue Sanktionen gegen den Internationa",
      "d": "7fd98a25fa.mp3",
-     "l": 53.17,
+     "l": 52.28,
      "s": [
       0.25,
-      7.5,
-      15.62,
-      19.71,
-      26.06,
-      31.45,
-      36.99,
-      44.21
+      7.28,
+      15.35,
+      19.72,
+      25.79,
+      31.13,
+      36.28,
+      43.37
      ]
     },
     {
@@ -4505,6 +4517,89 @@
       0.25,
       3.24
      ]
+    },
+    {
+     "k": "Der erste Hurrikan der diesjährigen Saison im Atlantik traf am späten Freitagabe",
+     "d": "ed4fa26968.mp3",
+     "l": 67.35,
+     "s": [
+      0.25,
+      10.1,
+      15.23,
+      24.54,
+      33.75,
+      44.45,
+      53.46,
+      61.62
+     ]
+    },
+    {
+     "k": "Bei dem Durchzug des Sturms wurden nach Angaben des Guardian mindestens vier Men",
+     "d": "42a3bfed19.mp3",
+     "l": 66.4,
+     "s": [
+      0.25,
+      5.95,
+      14.18,
+      23.22,
+      33.83,
+      42.04,
+      51.12,
+      60.73
+     ]
+    },
+    {
+     "k": "Isaias ist laut Tagesschau/ARD und BBC der erste benannte Hurrikan der diesjähri",
+     "d": "659606428c.mp3",
+     "l": 59.34,
+     "s": [
+      0.25,
+      7.56,
+      16.81,
+      28.4,
+      36.79,
+      45.48,
+      48.6,
+      56.84
+     ]
+    },
+    {
+     "k": "Ein Hurrikan ist ein tropischer Wirbelsturm mit hohen Windgeschwindigkeiten und ",
+     "d": "dd741bd848.mp3",
+     "l": 35.87,
+     "s": [
+      0.25,
+      5.8,
+      15.22,
+      27.26
+     ]
+    },
+    {
+     "k": "Ron DeSantis, der Gouverneur von Florida, rief die Bevölkerung laut Tagesschau/A",
+     "d": "29b29288c5.mp3",
+     "l": 82.38,
+     "s": [
+      0.25,
+      14.39,
+      25.42,
+      32.27,
+      43.81,
+      51.9,
+      66.24,
+      78.2
+     ]
+    },
+    {
+     "k": "Der Sturm bewegt sich nach Angaben der Tagesschau/ARD und der BBC weiter über La",
+     "d": "60c0fc0238.mp3",
+     "l": 46.63,
+     "s": [
+      0.25,
+      7.73,
+      18.52,
+      27.61,
+      36.14
+     ]
     }
    ]
   },
@@ -4977,6 +5072,80 @@
      "s": [
       0.25,
       3.31
+     ]
+    },
+    {
+     "k": "Der ehemalige Bundeskanzler Gerhard Schröder hat sich nach Angaben der beteiligt",
+     "d": "f2840851ca.mp3",
+     "l": 54.61,
+     "s": [
+      0.25,
+      8.19,
+      11.56,
+      17.28,
+      21.46,
+      29.81,
+      38.42,
+      44.76
+     ]
+    },
+    {
+     "k": "Infolge des Besuchs in Moskau drängen mehrere Politiker auf einen Ausschluss Ger",
+     "d": "5d1a9731fd.mp3",
+     "l": 55.45,
+     "s": [
+      0.25,
+      8.48,
+      16.74,
+      22.34,
+      26.11,
+      30.91,
+      38.98,
+      47.25
+     ]
+    },
+    {
+     "k": "Bundeskanzler Friedrich Merz äußerte sich nach Angaben der Tagesschau/ARD über s",
+     "d": "cbab28c5fc.mp3",
+     "l": 56.69,
+     "s": [
+      0.25,
+      8.73,
+      15.27,
+      22.26,
+      29.87,
+      37.14,
+      43.61,
+      52.19
+     ]
+    },
+    {
+     "k": "Die Kontakte zwischen Gerhard Schröder und Wladimir Putin bestehen seit vielen J",
+     "d": "e2ac9065d2.mp3",
+     "l": 53.25,
+     "s": [
+      0.25,
+      5.27,
+      11.95,
+      20.17,
+      23.68,
+      32.79,
+      39.98,
+      43.24
+     ]
+    },
+    {
+     "k": "Die politische Debatte über den Umgang mit Gerhard Schröder dürfte die Parteigre",
+     "d": "188e6d8932.mp3",
+     "l": 40.79,
+     "s": [
+      0.25,
+      7.01,
+      14.14,
+      17.3,
+      22.1,
+      27.11,
+      33.02
      ]
     }
    ]
@@ -5506,6 +5675,87 @@
       0.25,
       3.48
      ]
+    },
+    {
+     "k": "In Mecklenburg-Vorpommern haben die Delegierten der Grünen auf einem Kleinen Par",
+     "d": "f770616bb5.mp3",
+     "l": 59.71,
+     "s": [
+      0.25,
+      7.73,
+      16.88,
+      24.5,
+      30.62,
+      35.72,
+      42.96,
+      51.1
+     ]
+    },
+    {
+     "k": "Die Verhandlungen sollen von einer übergeordneten Hauptgruppe geführt werden, de",
+     "d": "ad864c3576.mp3",
+     "l": 65.17,
+     "s": [
+      0.25,
+      8.72,
+      13.07,
+      20.75,
+      29.81,
+      38.67,
+      44.42,
+      54.6
+     ]
+    },
+    {
+     "k": "Auslöser der aktuellen Regierungsbildung war die Landtagswahl in Mecklenburg-Vor",
+     "d": "fe981dfef9.mp3",
+     "l": 54.55,
+     "s": [
+      0.25,
+      6.17,
+      7.4,
+      14.01,
+      25.09,
+      31.03,
+      36.63,
+      44.54
+     ]
+    },
+    {
+     "k": "Koalitionsverhandlungen bezeichnen vertiefte Gespräche zwischen Parteien mit dem",
+     "d": "b4d958d83a.mp3",
+     "l": 7.43,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Die Grünen-Fraktionsvorsitzende Claudia Müller erklärte vor den Delegierten laut",
+     "d": "f634694f4e.mp3",
+     "l": 55.54,
+     "s": [
+      0.25,
+      8.71,
+      16.5,
+      21.67,
+      31.17,
+      40.24,
+      47.6
+     ]
+    },
+    {
+     "k": "Am Montag sollen die formellen Koalitionsgespräche im Schweriner Schloss beginne",
+     "d": "a227719230.mp3",
+     "l": 33.77,
+     "s": [
+      0.25,
+      4.98,
+      6.27,
+      11.68,
+      21.44,
+      24.73,
+      26.04
+     ]
     }
    ]
   },
@@ -5815,6 +6065,30 @@
      "s": [
       0.25,
       3.31
+     ]
+    },
+    {
+     "k": "Der US-Präsident hat nach eigenen Angaben mit Wladimir Putin die Anlieferung von",
+     "d": "9d51f9dd3c.mp3",
+     "l": 28.35,
+     "s": [
+      0.25,
+      6.1,
+      10.3,
+      14.82,
+      22.08
+     ]
+    },
+    {
+     "k": "Betroffen sind vor allem Teile Alabamas, Floridas und Georgias. Gestern hatte US",
+     "d": "3bf914749b.mp3",
+     "l": 28.57,
+     "s": [
+      0.25,
+      4.63,
+      9.52,
+      15.74,
+      18.35
      ]
     }
    ]
@@ -6207,6 +6481,63 @@
      "s": [
       0.25,
       3.42
+     ]
+    },
+    {
+     "k": "Der internationale Flughafen King Khalid nahe der saudi-arabischen Hauptstadt Ri",
+     "d": "621c4f3b9a.mp3",
+     "l": 46.22,
+     "s": [
+      0.25,
+      7.51,
+      14.01,
+      17.4,
+      24.7,
+      32.04,
+      36.5,
+      41.47
+     ]
+    },
+    {
+     "k": "Laut Berichten der Nachrichtenagentur AFP und des Magazins Spiegel ereignete sic",
+     "d": "3d0e94fe62.mp3",
+     "l": 45.88,
+     "s": [
+      0.25,
+      8.72,
+      14.05,
+      19.82,
+      23.75,
+      31.3,
+      35.89,
+      40.78
+     ]
+    },
+    {
+     "k": "Der Konflikt im Jemen dauert seit Jahren an und erlebte nach dem Beginn eines Ko",
+     "d": "a49f13f412.mp3",
+     "l": 46.19,
+     "s": [
+      0.25,
+      7.47,
+      12.37,
+      20.28,
+      28.64,
+      34.12,
+      41.24
+     ]
+    },
+    {
+     "k": "Donald Trump erklärte laut The Guardian, er prüfe, ob die Vereinigten Staaten mi",
+     "d": "c124bcc5af.mp3",
+     "l": 43.66,
+     "s": [
+      0.25,
+      9.66,
+      12.32,
+      19.7,
+      26.88,
+      36.56
      ]
     }
    ]
@@ -6767,6 +7098,20 @@
       32.4,
       45.62,
       55.38
+     ]
+    },
+    {
+     "k": "In der Region Saporischschja sollten die Such- und Rettungsmaßnahmen an den besc",
+     "d": "d836281231.mp3",
+     "l": 50.26,
+     "s": [
+      0.25,
+      11.82,
+      17.97,
+      23.85,
+      32.17,
+      40.29,
+      45.87
      ]
     }
    ]
