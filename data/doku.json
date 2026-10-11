@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-11T05:39:11.207Z",
+ "stand": "2026-10-11T12:42:02.304Z",
  "inArbeit": {
   "id": "die-geschichte-unserer-schrift",
   "titel": "Die Geschichte unserer Schrift",
@@ -155,7 +155,84 @@
     "wikipedia": "Keilschrift",
     "fokus": "In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit.",
     "versuche": 0,
-    "fehlgeschlagen": false
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Nach der lateinischen Schrift blicken wir nun auf die Anfänge zurück. In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit. Die sogenannte Keilschrift wurde vom vierten Jahrtausend vor Christus bis mindestens in das erste Jahrhundert nach Christus benutzt. Sie diente im Vorderen Orient zum Schreiben mehrerer Sprachen. Die Bezeichnung beruht auf waagrechten, senkrechten und schrägen Keilen. Typische Textträger sind Tontafeln. Diese wurden beschrieben durch das Eindrücken eines Schreibgriffels in den weichen Ton. Die Keilschrift wurde von den Sumerern erfunden. Später verwendeten sie zahlreiche Völker des Alten Orients.",
+     "Die sumerische Keilschrift entstand etwa um das Jahr dreiTausend dreiHundert vor Christus in Sumer in Mesopotamien. Sie war zunächst eine Bilderschrift aus rund neunHundert Piktogrammen und Ideogrammen. Diese wurden in Ton geritzt. In Kisch wurden Kalksteintäfelchen mit den ältesten Zeichen gefunden. Später erhielten die Zeichen ihre typische Form durch das Eindrücken von Keilen mit einem stumpfen Schreibgriffel. Die Tempelbürokratie erzeugte mehr Schriftstücke. Das rief eine Rationalisierung des Schreibprozesses hervor. Um das Jahr zweiTausend siebenHundert vor Christus war dieser Schritt erreicht.",
+     "Um das Jahr zweiTausend dreiHundert fünfzig vor Christus drang das Volk der Akkader nach Sumer vor. Sie übernahmen die Herrschaft und damit auch Schrift und Kultur. Unter den Herrschern breiteten sich Sprache und Schrift weiter aus. Auch die Hethiter adaptierten die Keilschrift. Sie benutzten sie neben ihren eigenen Hieroglyphen. Im Jahr einsTausend siebenHundert zweiundneunzig vor Christus bestieg Hammurapi den babylonischen Thron. Er dehnte das Herrschaftsgebiet aus. Schließlich verdrängten andere Schriftformen die Keilschrift nach und nach. Später entstand auch eine persische Keilschrift unter Dareios dem Ersten im Jahr fünfHunderteinundzwanzig vor Christus.",
+     "Die Entschlüsselung der Keilschrift begann im Jahr sechszehnHunderteinundzwanzig. Der Italiener Pietro della Valle kopierte erstmals Keilschriftzeichen richtig. Engelbert Kaempfer prägte im Jahr sechszehnHundertfünfundachtzig die Bezeichnung Keilschrift. Dem deutschen Philologen Georg Friedrich Grotefend gelang im Sommer des Jahres achtzehnHundert zwei die Entschlüsselung eines großen Teils des Zeicheninventars. Einen wichtigen Durchbruch brachte die Behistun-Inschrift. Diese wurde von Henry Creswicke Rawlinson kopiert. Im Jahr achtzehnHundert siebenundfünfzig wurde die akkadische Keilschrift durch übereinstimmende Übersetzungen verschiedener Gelehrter endgültig als entzÃüffert bestätigt.",
+     "Die Schriftkultur stand zunächst nur der Tempeladministration zur Verfügung. Sie diente für das Steuerwesen und die Verwaltung. Später entstanden auch wissenschaftliche Schriften und unterhaltende Literatur. Dazu gehört das Gilgamesch-Epos als berühmtestes literarisches Werk Altbabylons. Es bildete sich ein privilegierter Stand des Schreibers heraus. Diese Schreiber verfügten über ein hohes Ansehen. Die Entwicklungsgeschichte lässt sich über Tontafeln mit Abschriften von Schülern nachvollziehen. Ursprünglich handelte es sich um Piktogramme. Später entwickelten sich daraus Ideogramme und Zeichen mit Lautwerten. Damit schließt sich das Kapitel über die Keilschrift und führt weiter zu den nächsten Schritten der Schriftgeschichte."
+    ],
+    "fakten": [
+     [
+      "Erfindung der sumerischen Keilschrift etwa um",
+      "3300 v. Chr."
+     ],
+     [
+      "Beginn der persischen Keilschrift unter Dareios I. im Jahr",
+      "521 v. Chr."
+     ],
+     [
+      "Entschlüsselung durch Georg Friedrich Grotefend im Sommer",
+      "1802"
+     ],
+     [
+      "Bestätigung der Entschlüsselung der akkadischen Keilschrift im Jahr",
+      "1857"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Keilschrift",
+      "Ein altes Schriftsystem aus dem Vorderen Orient, bei dem waagrechte, senkrechte und schräge Keile in Ton gedrückt wurden."
+     ],
+     [
+      "Piktogramm",
+      "Ein vereinfachtes Bildzeichen, das einen Gegenstand oder ein Wesen darstellt."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Keilschrift",
+     "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
+    },
+    "quelle": {
+     "titel": "Keilschrift",
+     "url": "https://de.wikipedia.org/wiki/Keilschrift"
+    },
+    "woerter": 426,
+    "bildInfos": [
+     {
+      "titel": "Persépolis. Inscription.jpg",
+      "beschreibung": "Persépolis (Iran). Inscription cunéiforme. VIe-Ve s. av. J.-C. Photo Ginolerhino 2002.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pers%C3%A9polis._Inscription.jpg/1280px-Pers%C3%A9polis._Inscription.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pers%C3%A9polis._Inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis._Inscription.jpg",
+      "urheber": "No machine-readable author provided. Ginolerhino assumed (based on copyright claims).",
+      "lizenz": "CC BY 2.5",
+      "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+      "artikel": "Persische Keilschrift",
+      "sprache": "de",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
+     }
+    ],
+    "bildInfo": {
+     "titel": "Persépolis. Inscription.jpg",
+     "beschreibung": "Persépolis (Iran). Inscription cunéiforme. VIe-Ve s. av. J.-C. Photo Ginolerhino 2002.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pers%C3%A9polis._Inscription.jpg/1280px-Pers%C3%A9polis._Inscription.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pers%C3%A9polis._Inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis._Inscription.jpg",
+     "urheber": "No machine-readable author provided. Ginolerhino assumed (based on copyright claims).",
+     "lizenz": "CC BY 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+     "artikel": "Persische Keilschrift",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
+    }
    },
    {
     "ueberschrift": "Die Welt der Hieroglyphen",

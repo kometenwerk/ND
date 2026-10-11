@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sun, 11 Oct 2026 05:39:11 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 12:42:02 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-11</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Angriff auf den Flughafen in Riad · Verhandlungen über den mehrjährigen Finanzrahmen der Europäischen Union · Das Jugendwort des Jahres 2026 · Auswirkungen des Wirbelsturms Isaias im Südosten der Vereinigten Staaten · Koalitionsverhandlungen zwischen SPD, Linken und Grünen in Mecklenburg-Vorpommern</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Angriff auf den Flughafen in Riad · Verhandlungen über den mehrjährigen Finanzrahmen der Europäischen Union · Das Jugendwort des Jahres 2026 · Auswirkungen des Wirbelsturms Isaias im Südosten der Vereinigten Staaten · Koalitionsverhandlungen zwischen SPD, Linken und Grünen in Mecklenburg-Vorpommern</itunes:summary>
+    <pubDate>Sun, 11 Oct 2026 05:39:11 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-11</guid>
+    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-hauptausgabe-2026-10-11.mp3" length="4156077" type="audio/mpeg"/>
+    <itunes:duration>00:11:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Luftangriffe auf Saporischschja und Drohnen im Süden Russlands</title>
     <description>Der Podcast beleuchtet die jüngsten Luftangriffe auf Saporischschja und Gegenangriffe in Russland. Zudem wird über politische Reaktionen auf Diesellieferungen gesprochen.</description>
@@ -56,17 +67,6 @@
     <guid isPermaLink="false">wissen-wie-augen-in-der-natur-funktionieren</guid>
     <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/eb80713d69.mp3" length="189021" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-10</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Vergabe des Friedensnobelpreises an Navi Pillay und US-Sanktionen gegen Strafgerichtshof · Koalitionsverhandlungen in Mecklenburg-Vorpommern vereinbart · Tropensturm „Isaias“ trifft auf die US-Golfküste und führt zu Stromausfällen · Rückzug eines Leasingangebots für den Dienstwagen des Landtagspräsidenten in Sachsen-Anhalt · Zwei Behördenmitarbeiter bei Waffenkontrolle in Berngau getötet</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Vergabe des Friedensnobelpreises an Navi Pillay und US-Sanktionen gegen Strafgerichtshof · Koalitionsverhandlungen in Mecklenburg-Vorpommern vereinbart · Tropensturm „Isaias“ trifft auf die US-Golfküste und führt zu Stromausfällen · Rückzug eines Leasingangebots für den Dienstwagen des Landtagspräsidenten in Sachsen-Anhalt · Zwei Behördenmitarbeiter bei Waffenkontrolle in Berngau getötet</itunes:summary>
-    <pubDate>Sat, 10 Oct 2026 08:26:01 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-10</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-hauptausgabe-2026-10-10.mp3" length="3876141" type="audio/mpeg"/>
-    <itunes:duration>00:10:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
