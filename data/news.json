@@ -1,10 +1,6 @@
 {
- "stand": "2026-10-12T09:06:44.809Z",
+ "stand": "2026-10-12T19:02:37.269Z",
  "gepusht": [
-  "us-medienbann-weisses-haus",
-  "porsche-stellenabbau",
-  "scheuer-maut-prozess-gericht",
-  "rad-wm-zeitfahren-montreal",
   "google-strafe-datenschutz",
   "davis-cup-tennis-finale",
   "merzer-enteignungsverbot",
@@ -80,17 +76,19 @@
   "einziger-neues-thema-1",
   "einziger-neues-thema-2",
   "einziger-neues-thema-4",
-  "einziger-neues-thema-5"
+  "einziger-neues-thema-5",
+  "baerbel-bas-ruecktritt",
+  "eu-sanktionen-russland-oktober-2026",
+  "taz-korrespondentin-einreise-israel",
+  "wirtschaftsnobelpreis-2026"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
-  "afd-landtagsgeraet-sachsen-anhalt",
   "huthi-angriffe-auf-saudi-arabien-und-reaktionen",
   "friedensnobelpreis-navanethem-pillay",
   "schroeder-besuch-putin-geburtstag",
   "mecklenburg-vorpommern-koalitionsverhandlungen",
-  "todesfaelle-waffenkontrolle-berngau",
   "hurrikan-isaias-us-kueste",
   "eu-haushalt-vorschlag-irland",
   "us-diesel-deal-russland-reaktionen",
@@ -102,10 +100,14 @@
   "einziger-neues-thema-1",
   "einziger-neues-thema-2",
   "einziger-neues-thema-4",
-  "einziger-neues-thema-5"
+  "einziger-neues-thema-5",
+  "baerbel-bas-ruecktritt",
+  "eu-sanktionen-russland-oktober-2026",
+  "taz-korrespondentin-einreise-israel",
+  "wirtschaftsnobelpreis-2026"
  ],
  "wetter": {
-  "stand": "2026-10-12T09:06:44.809Z",
+  "stand": "2026-10-12T19:02:37.269Z",
   "morgenTag": "Dienstag",
   "orte": [
    {
@@ -114,15 +116,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 8,
-     "code": 1,
-     "gefuehlt": 7,
+     "grad": 11,
+     "code": 2,
+     "gefuehlt": 11,
      "wind": 2,
-     "windAus": 217,
-     "feuchte": 88,
-     "druck": 1018,
+     "windAus": 149,
+     "feuchte": 90,
+     "druck": 1022,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -131,8 +133,8 @@
      "min": 5,
      "regen": 10,
      "menge": 0,
-     "wind": 6,
-     "windAus": 215,
+     "wind": 7,
+     "windAus": 244,
      "uv": 2.8,
      "auf": "07:41",
      "unter": "18:30"
@@ -141,12 +143,12 @@
      "datum": "2026-10-13",
      "code": 80,
      "max": 14,
-     "min": 6,
+     "min": 7,
      "regen": 36,
-     "menge": 4.1,
-     "wind": 15,
-     "windAus": 161,
-     "uv": 1.4,
+     "menge": 3.1,
+     "wind": 14,
+     "windAus": 163,
+     "uv": 1.1,
      "auf": "07:43",
      "unter": "18:28"
     },
@@ -158,8 +160,8 @@
       "min": 5,
       "regen": 10,
       "menge": 0,
-      "wind": 6,
-      "windAus": 215,
+      "wind": 7,
+      "windAus": 244,
       "uv": 2.8,
       "auf": "07:41",
       "unter": "18:30"
@@ -168,12 +170,12 @@
       "datum": "2026-10-13",
       "code": 80,
       "max": 14,
-      "min": 6,
+      "min": 7,
       "regen": 36,
-      "menge": 4.1,
-      "wind": 15,
-      "windAus": 161,
-      "uv": 1.4,
+      "menge": 3.1,
+      "wind": 14,
+      "windAus": 163,
+      "uv": 1.1,
       "auf": "07:43",
       "unter": "18:28"
      },
@@ -184,126 +186,66 @@
       "min": 10,
       "regen": 38,
       "menge": 0,
-      "wind": 17,
-      "windAus": 269,
-      "uv": 2.7,
+      "wind": 14,
+      "windAus": 263,
+      "uv": 2.5,
       "auf": "07:45",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 16,
-      "min": 7,
+      "max": 17,
+      "min": 8,
       "regen": 16,
       "menge": 0,
       "wind": 9,
-      "windAus": 178,
-      "uv": 2.7,
+      "windAus": 173,
+      "uv": 2.5,
       "auf": "07:46",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-16",
-      "code": 61,
+      "code": 3,
       "max": 18,
-      "min": 10,
+      "min": 9,
       "regen": 29,
-      "menge": 0.9,
-      "wind": 11,
-      "windAus": 235,
-      "uv": 2.4,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 149,
+      "uv": 2.7,
       "auf": "07:48",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-17",
-      "code": 2,
-      "max": 13,
-      "min": 7,
+      "code": 61,
+      "max": 12,
+      "min": 10,
       "regen": 24,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 312,
-      "uv": 2.2,
+      "menge": 1.2,
+      "wind": 12,
+      "windAus": 346,
+      "uv": 2.6,
       "auf": "07:50",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-18",
       "code": 3,
-      "max": 13,
-      "min": 4,
+      "max": 14,
+      "min": 8,
       "regen": 14,
       "menge": 0,
-      "wind": 14,
-      "windAus": 304,
-      "uv": 2.4,
+      "wind": 9,
+      "windAus": 16,
+      "uv": 1.7,
       "auf": "07:52",
       "unter": "18:16"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "21:00",
       "grad": 11,
@@ -313,13 +255,13 @@
      {
       "zeit": "22:00",
       "grad": 10,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 9,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -331,7 +273,7 @@
      {
       "zeit": "01:00",
       "grad": 8,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -342,44 +284,44 @@
      },
      {
       "zeit": "03:00",
-      "grad": 7,
+      "grad": 8,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 7,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 7,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 7,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 6,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "09:00",
+      "zeit": "08:00",
       "grad": 7,
-      "code": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 8,
+      "code": 3,
       "regen": 1
      },
      {
@@ -387,6 +329,66 @@
       "grad": 8,
       "code": 3,
       "regen": 2
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 4
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 6
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "15:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 16
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 19
+     },
+     {
+      "zeit": "18:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 22
+     },
+     {
+      "zeit": "19:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "20:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 28
      }
     ]
    },
@@ -398,13 +400,13 @@
     "jetzt": {
      "grad": 10,
      "code": 0,
-     "gefuehlt": 7,
-     "wind": 11,
-     "windAus": 281,
-     "feuchte": 71,
-     "druck": 1016,
+     "gefuehlt": 9,
+     "wind": 4,
+     "windAus": 299,
+     "feuchte": 69,
+     "druck": 1020,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -414,7 +416,7 @@
      "regen": 32,
      "menge": 0,
      "wind": 14,
-     "windAus": 287,
+     "windAus": 288,
      "uv": 2.9,
      "auf": "07:26",
      "unter": "18:18"
@@ -422,13 +424,13 @@
     "morgen": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 15,
-     "min": 5,
+     "max": 16,
+     "min": 6,
      "regen": 19,
-     "menge": 2.4,
-     "wind": 13,
-     "windAus": 162,
-     "uv": 3,
+     "menge": 0.2,
+     "wind": 14,
+     "windAus": 165,
+     "uv": 2.8,
      "auf": "07:28",
      "unter": "18:16"
     },
@@ -441,7 +443,7 @@
       "regen": 32,
       "menge": 0,
       "wind": 14,
-      "windAus": 287,
+      "windAus": 288,
       "uv": 2.9,
       "auf": "07:26",
       "unter": "18:18"
@@ -449,143 +451,83 @@
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 15,
-      "min": 5,
+      "max": 16,
+      "min": 6,
       "regen": 19,
-      "menge": 2.4,
-      "wind": 13,
-      "windAus": 162,
-      "uv": 3,
+      "menge": 0.2,
+      "wind": 14,
+      "windAus": 165,
+      "uv": 2.8,
       "auf": "07:28",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-14",
-      "code": 61,
-      "max": 16,
+      "code": 80,
+      "max": 17,
       "min": 11,
       "regen": 40,
-      "menge": 0.1,
-      "wind": 17,
+      "menge": 0.3,
+      "wind": 18,
       "windAus": 275,
-      "uv": 2.9,
+      "uv": 2.8,
       "auf": "07:29",
       "unter": "18:14"
      },
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 15,
-      "min": 7,
+      "max": 16,
+      "min": 8,
       "regen": 5,
       "menge": 0,
-      "wind": 6,
-      "windAus": 188,
-      "uv": 2.9,
+      "wind": 7,
+      "windAus": 176,
+      "uv": 2.8,
       "auf": "07:31",
       "unter": "18:11"
      },
      {
       "datum": "2026-10-16",
       "code": 3,
-      "max": 19,
-      "min": 7,
+      "max": 17,
+      "min": 8,
       "regen": 30,
       "menge": 0,
-      "wind": 7,
-      "windAus": 170,
-      "uv": 2.5,
+      "wind": 8,
+      "windAus": 136,
+      "uv": 2.7,
       "auf": "07:33",
       "unter": "18:09"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
+      "code": 3,
       "max": 14,
-      "min": 8,
+      "min": 7,
       "regen": 14,
-      "menge": 0.6,
-      "wind": 11,
-      "windAus": 328,
-      "uv": 2.4,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 47,
+      "uv": 1.3,
       "auf": "07:35",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
+      "code": 45,
       "max": 13,
-      "min": 6,
+      "min": 7,
       "regen": 12,
       "menge": 0,
-      "wind": 13,
-      "windAus": 292,
-      "uv": 2,
+      "wind": 7,
+      "windAus": 51,
+      "uv": 1.7,
       "auf": "07:37",
       "unter": "18:05"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 5
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 4
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 3
-     },
      {
       "zeit": "21:00",
       "grad": 10,
@@ -594,7 +536,7 @@
      },
      {
       "zeit": "22:00",
-      "grad": 9,
+      "grad": 10,
       "code": 0,
       "regen": 2
      },
@@ -606,19 +548,19 @@
      },
      {
       "zeit": "00:00",
-      "grad": 8,
-      "code": 0,
+      "grad": 9,
+      "code": 1,
       "regen": 1
      },
      {
       "zeit": "01:00",
       "grad": 8,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 7,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
@@ -636,7 +578,7 @@
      },
      {
       "zeit": "05:00",
-      "grad": 6,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -654,8 +596,8 @@
      },
      {
       "zeit": "08:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 6,
+      "code": 0,
       "regen": 0
      },
      {
@@ -666,9 +608,69 @@
      },
      {
       "zeit": "10:00",
-      "grad": 7,
+      "grad": 8,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 14,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 1
+     },
+     {
+      "zeit": "20:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 3
      }
     ]
    },
@@ -678,15 +680,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 10,
-     "code": 80,
-     "gefuehlt": 8,
-     "wind": 9,
-     "windAus": 253,
-     "feuchte": 81,
-     "druck": 1007,
+     "grad": 12,
+     "code": 3,
+     "gefuehlt": 11,
+     "wind": 2,
+     "windAus": 117,
+     "feuchte": 83,
+     "druck": 1010,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -694,22 +696,22 @@
      "max": 14,
      "min": 9,
      "regen": 25,
-     "menge": 0.5,
-     "wind": 10,
-     "windAus": 263,
-     "uv": 2.7,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 262,
+     "uv": 2.9,
      "auf": "07:29",
      "unter": "18:24"
     },
     "morgen": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 17,
-     "min": 7,
+     "max": 16,
+     "min": 8,
      "regen": 12,
-     "menge": 2.6,
+     "menge": 0.8,
      "wind": 12,
-     "windAus": 183,
+     "windAus": 188,
      "uv": 3.1,
      "auf": "07:30",
      "unter": "18:22"
@@ -721,48 +723,48 @@
       "max": 14,
       "min": 9,
       "regen": 25,
-      "menge": 0.5,
-      "wind": 10,
-      "windAus": 263,
-      "uv": 2.7,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 262,
+      "uv": 2.9,
       "auf": "07:29",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 17,
-      "min": 7,
+      "max": 16,
+      "min": 8,
       "regen": 12,
-      "menge": 2.6,
+      "menge": 0.8,
       "wind": 12,
-      "windAus": 183,
+      "windAus": 188,
       "uv": 3.1,
       "auf": "07:30",
       "unter": "18:22"
      },
      {
       "datum": "2026-10-14",
-      "code": 80,
+      "code": 61,
       "max": 16,
       "min": 10,
       "regen": 32,
-      "menge": 0.4,
+      "menge": 0.9,
       "wind": 12,
-      "windAus": 270,
-      "uv": 2.9,
+      "windAus": 263,
+      "uv": 2.8,
       "auf": "07:32",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 16,
-      "min": 7,
+      "max": 17,
+      "min": 8,
       "regen": 11,
       "menge": 0,
       "wind": 5,
-      "windAus": 174,
+      "windAus": 168,
       "uv": 3.1,
       "auf": "07:34",
       "unter": "18:17"
@@ -770,137 +772,77 @@
      {
       "datum": "2026-10-16",
       "code": 3,
-      "max": 19,
-      "min": 8,
+      "max": 18,
+      "min": 10,
       "regen": 31,
       "menge": 0,
       "wind": 7,
-      "windAus": 198,
-      "uv": 2.6,
+      "windAus": 157,
+      "uv": 2.8,
       "auf": "07:35",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
-      "max": 14,
-      "min": 9,
+      "code": 3,
+      "max": 15,
+      "min": 10,
       "regen": 24,
-      "menge": 0.6,
-      "wind": 14,
-      "windAus": 337,
-      "uv": 2.6,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 318,
+      "uv": 0.4,
       "auf": "07:37",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-18",
-      "code": 61,
-      "max": 13,
-      "min": 6,
+      "code": 3,
+      "max": 14,
+      "min": 7,
       "regen": 23,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 302,
-      "uv": 2.2,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 16,
+      "uv": 1.8,
       "auf": "07:39",
       "unter": "18:11"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 20
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 17
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 11
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 8
-     },
-     {
-      "zeit": "17:00",
-      "grad": 14,
-      "code": 0,
-      "regen": 6
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 1
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
       "grad": 12,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 11,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 10,
+      "grad": 11,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 10,
+      "grad": 11,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 9,
+      "grad": 10,
       "code": 0,
       "regen": 0
      },
@@ -912,20 +854,20 @@
      },
      {
       "zeit": "04:00",
-      "grad": 8,
-      "code": 0,
+      "grad": 9,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 8,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 8,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
@@ -936,14 +878,14 @@
      },
      {
       "zeit": "08:00",
-      "grad": 7,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 8,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -951,6 +893,66 @@
       "grad": 10,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 11,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 16,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 15,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 1
+     },
+     {
+      "zeit": "19:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 1
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 3
      }
     ]
    },
@@ -960,15 +962,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 0,
-     "gefuehlt": 8,
-     "wind": 8,
-     "windAus": 125,
-     "feuchte": 74,
-     "druck": 1013,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 11,
+     "wind": 10,
+     "windAus": 131,
+     "feuchte": 70,
+     "druck": 1014,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -978,21 +980,21 @@
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 149,
+     "windAus": 143,
      "uv": 3.3,
      "auf": "07:50",
      "unter": "18:46"
     },
     "morgen": {
      "datum": "2026-10-13",
-     "code": 51,
-     "max": 17,
+     "code": 63,
+     "max": 16,
      "min": 11,
      "regen": 86,
-     "menge": 0.4,
+     "menge": 4.2,
      "wind": 17,
      "windAus": 142,
-     "uv": 1.4,
+     "uv": 1.3,
      "auf": "07:51",
      "unter": "18:44"
     },
@@ -1005,33 +1007,33 @@
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 149,
+      "windAus": 143,
       "uv": 3.3,
       "auf": "07:50",
       "unter": "18:46"
      },
      {
       "datum": "2026-10-13",
-      "code": 51,
-      "max": 17,
+      "code": 63,
+      "max": 16,
       "min": 11,
       "regen": 86,
-      "menge": 0.4,
+      "menge": 4.2,
       "wind": 17,
       "windAus": 142,
-      "uv": 1.4,
+      "uv": 1.3,
       "auf": "07:51",
       "unter": "18:44"
      },
      {
       "datum": "2026-10-14",
-      "code": 51,
+      "code": 3,
       "max": 18,
-      "min": 11,
+      "min": 12,
       "regen": 85,
-      "menge": 0.2,
-      "wind": 15,
-      "windAus": 286,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 273,
       "uv": 2.9,
       "auf": "07:53",
       "unter": "18:42"
@@ -1044,34 +1046,34 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 146,
-      "uv": 3,
+      "windAus": 145,
+      "uv": 3.2,
       "auf": "07:55",
       "unter": "18:39"
      },
      {
       "datum": "2026-10-16",
-      "code": 51,
+      "code": 3,
       "max": 21,
-      "min": 8,
+      "min": 9,
       "regen": 27,
-      "menge": 0.6,
-      "wind": 10,
-      "windAus": 144,
-      "uv": 2.6,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 160,
+      "uv": 3.1,
       "auf": "07:56",
       "unter": "18:37"
      },
      {
       "datum": "2026-10-17",
-      "code": 80,
-      "max": 15,
-      "min": 10,
+      "code": 53,
+      "max": 14,
+      "min": 8,
       "regen": 27,
-      "menge": 9,
-      "wind": 18,
-      "windAus": 325,
-      "uv": 2.1,
+      "menge": 2.4,
+      "wind": 19,
+      "windAus": 329,
+      "uv": 2.2,
       "auf": "07:58",
       "unter": "18:35"
      },
@@ -1079,87 +1081,27 @@
       "datum": "2026-10-18",
       "code": 3,
       "max": 16,
-      "min": 9,
+      "min": 5,
       "regen": 22,
       "menge": 0,
       "wind": 11,
-      "windAus": 18,
-      "uv": 2.7,
+      "windAus": 14,
+      "uv": 2.2,
       "auf": "08:00",
       "unter": "18:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 14,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 15,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 16,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 17,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 16,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 14,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
       "grad": 13,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 12,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1200,39 +1142,99 @@
      },
      {
       "zeit": "05:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
       "regen": 6
      },
      {
       "zeit": "06:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
       "regen": 11
      },
      {
       "zeit": "07:00",
       "grad": 13,
-      "code": 3,
+      "code": 51,
       "regen": 17
      },
      {
       "zeit": "08:00",
-      "grad": 13,
-      "code": 3,
+      "grad": 12,
+      "code": 63,
       "regen": 22
      },
      {
       "zeit": "09:00",
-      "grad": 13,
-      "code": 51,
+      "grad": 12,
+      "code": 3,
       "regen": 26
      },
      {
       "zeit": "10:00",
       "grad": 13,
-      "code": 51,
+      "code": 3,
       "regen": 28
+     },
+     {
+      "zeit": "11:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 29
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 27
+     },
+     {
+      "zeit": "13:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 24
+     },
+     {
+      "zeit": "14:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 22
+     },
+     {
+      "zeit": "15:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 21
+     },
+     {
+      "zeit": "16:00",
+      "grad": 15,
+      "code": 51,
+      "regen": 21
+     },
+     {
+      "zeit": "17:00",
+      "grad": 15,
+      "code": 51,
+      "regen": 22
+     },
+     {
+      "zeit": "18:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 22
+     },
+     {
+      "zeit": "19:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 23
+     },
+     {
+      "zeit": "20:00",
+      "grad": 15,
+      "code": 51,
+      "regen": 29
      }
     ]
    },
@@ -1242,39 +1244,39 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 3,
-     "gefuehlt": 9,
-     "wind": 2,
-     "windAus": 233,
-     "feuchte": 85,
+     "grad": 13,
+     "code": 2,
+     "gefuehlt": 12,
+     "wind": 3,
+     "windAus": 97,
+     "feuchte": 74,
      "druck": 1010,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
      "code": 45,
-     "max": 15,
+     "max": 16,
      "min": 5,
      "regen": 5,
      "menge": 0,
-     "wind": 6,
-     "windAus": 186,
-     "uv": 3.4,
+     "wind": 7,
+     "windAus": 185,
+     "uv": 3.1,
      "auf": "07:42",
      "unter": "18:40"
     },
     "morgen": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 12,
-     "min": 7,
+     "max": 13,
+     "min": 8,
      "regen": 15,
-     "menge": 0.9,
+     "menge": 1.3,
      "wind": 9,
-     "windAus": 200,
-     "uv": 0.9,
+     "windAus": 194,
+     "uv": 2,
      "auf": "07:43",
      "unter": "18:38"
     },
@@ -1282,39 +1284,39 @@
      {
       "datum": "2026-10-12",
       "code": 45,
-      "max": 15,
+      "max": 16,
       "min": 5,
       "regen": 5,
       "menge": 0,
-      "wind": 6,
-      "windAus": 186,
-      "uv": 3.4,
+      "wind": 7,
+      "windAus": 185,
+      "uv": 3.1,
       "auf": "07:42",
       "unter": "18:40"
      },
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 12,
-      "min": 7,
+      "max": 13,
+      "min": 8,
       "regen": 15,
-      "menge": 0.9,
+      "menge": 1.3,
       "wind": 9,
-      "windAus": 200,
-      "uv": 0.9,
+      "windAus": 194,
+      "uv": 2,
       "auf": "07:43",
       "unter": "18:38"
      },
      {
       "datum": "2026-10-14",
       "code": 45,
-      "max": 17,
-      "min": 10,
+      "max": 18,
+      "min": 9,
       "regen": 14,
       "menge": 0,
       "wind": 9,
-      "windAus": 248,
-      "uv": 3.3,
+      "windAus": 224,
+      "uv": 3.1,
       "auf": "07:45",
       "unter": "18:36"
      },
@@ -1322,12 +1324,12 @@
       "datum": "2026-10-15",
       "code": 45,
       "max": 17,
-      "min": 5,
+      "min": 6,
       "regen": 6,
       "menge": 0,
-      "wind": 5,
-      "windAus": 115,
-      "uv": 3.3,
+      "wind": 4,
+      "windAus": 92,
+      "uv": 3.2,
       "auf": "07:47",
       "unter": "18:34"
      },
@@ -1335,24 +1337,24 @@
       "datum": "2026-10-16",
       "code": 45,
       "max": 17,
-      "min": 7,
+      "min": 6,
       "regen": 21,
       "menge": 0,
-      "wind": 6,
-      "windAus": 215,
-      "uv": 2.9,
+      "wind": 3,
+      "windAus": 82,
+      "uv": 3.2,
       "auf": "07:48",
       "unter": "18:32"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
-      "max": 13,
+      "code": 45,
+      "max": 17,
       "min": 8,
       "regen": 24,
-      "menge": 3.3,
-      "wind": 14,
-      "windAus": 10,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 23,
       "uv": 1,
       "auf": "07:50",
       "unter": "18:30"
@@ -1360,12 +1362,12 @@
      {
       "datum": "2026-10-18",
       "code": 3,
-      "max": 14,
-      "min": 5,
+      "max": 15,
+      "min": 9,
       "regen": 18,
       "menge": 0,
-      "wind": 9,
-      "windAus": 11,
+      "wind": 10,
+      "windAus": 19,
       "uv": 2.8,
       "auf": "07:51",
       "unter": "18:28"
@@ -1373,87 +1375,27 @@
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 15,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 15,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 15,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 11,
-      "code": 1,
+      "grad": 13,
+      "code": 2,
       "regen": 1
      },
      {
       "zeit": "22:00",
-      "grad": 10,
-      "code": 1,
+      "grad": 12,
+      "code": 2,
       "regen": 3
      },
      {
       "zeit": "23:00",
-      "grad": 10,
-      "code": 2,
+      "grad": 11,
+      "code": 1,
       "regen": 5
      },
      {
       "zeit": "00:00",
-      "grad": 10,
-      "code": 2,
+      "grad": 9,
+      "code": 1,
       "regen": 8
      },
      {
@@ -1464,57 +1406,117 @@
      },
      {
       "zeit": "02:00",
-      "grad": 8,
-      "code": 1,
+      "grad": 9,
+      "code": 0,
       "regen": 10
      },
      {
       "zeit": "03:00",
       "grad": 8,
-      "code": 0,
+      "code": 2,
       "regen": 10
      },
      {
       "zeit": "04:00",
       "grad": 8,
-      "code": 1,
+      "code": 3,
       "regen": 9
      },
      {
       "zeit": "05:00",
-      "grad": 7,
-      "code": 3,
+      "grad": 8,
+      "code": 2,
       "regen": 7
      },
      {
       "zeit": "06:00",
-      "grad": 7,
+      "grad": 9,
       "code": 3,
       "regen": 5
      },
      {
       "zeit": "07:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
       "regen": 4
      },
      {
       "zeit": "08:00",
-      "grad": 8,
-      "code": 2,
+      "grad": 9,
+      "code": 61,
       "regen": 3
      },
      {
       "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
+      "grad": 9,
+      "code": 61,
       "regen": 3
      },
      {
       "zeit": "10:00",
       "grad": 9,
+      "code": 61,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 3
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
       "code": 3,
       "regen": 3
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 4
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 6
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 12
+     },
+     {
+      "zeit": "19:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 14
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 15
      }
     ]
    },
@@ -1524,15 +1526,15 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 11,
-     "code": 1,
-     "gefuehlt": 10,
-     "wind": 3,
-     "windAus": 106,
-     "feuchte": 82,
-     "druck": 992,
+     "grad": 12,
+     "code": 0,
+     "gefuehlt": 9,
+     "wind": 5,
+     "windAus": 180,
+     "feuchte": 61,
+     "druck": 993,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -1542,7 +1544,7 @@
      "regen": 4,
      "menge": 0,
      "wind": 6,
-     "windAus": 167,
+     "windAus": 169,
      "uv": 3.4,
      "auf": "07:38",
      "unter": "18:39"
@@ -1553,10 +1555,10 @@
      "max": 15,
      "min": 7,
      "regen": 12,
-     "menge": 3.1,
-     "wind": 9,
-     "windAus": 197,
-     "uv": 3.4,
+     "menge": 0.2,
+     "wind": 7,
+     "windAus": 183,
+     "uv": 2.3,
      "auf": "07:40",
      "unter": "18:38"
     },
@@ -1569,7 +1571,7 @@
       "regen": 4,
       "menge": 0,
       "wind": 6,
-      "windAus": 167,
+      "windAus": 169,
       "uv": 3.4,
       "auf": "07:38",
       "unter": "18:39"
@@ -1580,22 +1582,22 @@
       "max": 15,
       "min": 7,
       "regen": 12,
-      "menge": 3.1,
-      "wind": 9,
-      "windAus": 197,
-      "uv": 3.4,
+      "menge": 0.2,
+      "wind": 7,
+      "windAus": 183,
+      "uv": 2.3,
       "auf": "07:40",
       "unter": "18:38"
      },
      {
       "datum": "2026-10-14",
-      "code": 3,
+      "code": 80,
       "max": 19,
       "min": 12,
       "regen": 16,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 299,
+      "menge": 0.3,
+      "wind": 8,
+      "windAus": 281,
       "uv": 3.3,
       "auf": "07:41",
       "unter": "18:36"
@@ -1603,12 +1605,12 @@
      {
       "datum": "2026-10-15",
       "code": 45,
-      "max": 19,
+      "max": 18,
       "min": 8,
       "regen": 6,
       "menge": 0,
       "wind": 5,
-      "windAus": 167,
+      "windAus": 168,
       "uv": 3.3,
       "auf": "07:43",
       "unter": "18:34"
@@ -1616,104 +1618,44 @@
      {
       "datum": "2026-10-16",
       "code": 45,
-      "max": 19,
-      "min": 8,
+      "max": 16,
+      "min": 9,
       "regen": 22,
       "menge": 0,
-      "wind": 5,
-      "windAus": 205,
-      "uv": 3,
+      "wind": 4,
+      "windAus": 182,
+      "uv": 2.9,
       "auf": "07:44",
       "unter": "18:32"
      },
      {
       "datum": "2026-10-17",
-      "code": 63,
-      "max": 13,
-      "min": 9,
+      "code": 45,
+      "max": 17,
+      "min": 10,
       "regen": 28,
-      "menge": 17.7,
-      "wind": 13,
-      "windAus": 354,
-      "uv": 2.9,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 293,
+      "uv": 1.7,
       "auf": "07:46",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 12,
-      "min": 6,
+      "code": 45,
+      "max": 15,
+      "min": 9,
       "regen": 22,
       "menge": 0,
-      "wind": 10,
-      "windAus": 14,
-      "uv": 0.4,
+      "wind": 8,
+      "windAus": 21,
+      "uv": 2.8,
       "auf": "07:47",
       "unter": "18:28"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 1
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 2
-     },
-     {
-      "zeit": "13:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "14:00",
-      "grad": 15,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 15,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "16:00",
-      "grad": 16,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "17:00",
-      "grad": 16,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "18:00",
-      "grad": 15,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 14,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "20:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 3
-     },
      {
       "zeit": "21:00",
       "grad": 12,
@@ -1722,20 +1664,20 @@
      },
      {
       "zeit": "22:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 4
-     },
-     {
-      "zeit": "23:00",
       "grad": 10,
       "code": 0,
       "regen": 4
      },
      {
+      "zeit": "23:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 4
+     },
+     {
       "zeit": "00:00",
-      "grad": 8,
-      "code": 1,
+      "grad": 9,
+      "code": 0,
       "regen": 4
      },
      {
@@ -1765,25 +1707,25 @@
      {
       "zeit": "05:00",
       "grad": 7,
-      "code": 2,
+      "code": 3,
       "regen": 5
      },
      {
       "zeit": "06:00",
-      "grad": 7,
-      "code": 3,
+      "grad": 8,
+      "code": 2,
       "regen": 5
      },
      {
       "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
+      "grad": 7,
+      "code": 2,
       "regen": 5
      },
      {
       "zeit": "08:00",
       "grad": 8,
-      "code": 3,
+      "code": 2,
       "regen": 5
      },
      {
@@ -1794,9 +1736,69 @@
      },
      {
       "zeit": "10:00",
-      "grad": 10,
+      "grad": 11,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
       "code": 61,
       "regen": 5
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 6
+     },
+     {
+      "zeit": "16:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 6
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 7
+     },
+     {
+      "zeit": "18:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "19:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 9
+     },
+     {
+      "zeit": "20:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 10
      }
     ]
    },
@@ -1808,13 +1810,13 @@
     "jetzt": {
      "grad": 10,
      "code": 0,
-     "gefuehlt": 9,
-     "wind": 2,
-     "windAus": 329,
-     "feuchte": 73,
-     "druck": 961,
+     "gefuehlt": 8,
+     "wind": 4,
+     "windAus": 124,
+     "feuchte": 65,
+     "druck": 962,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-12",
@@ -1824,7 +1826,7 @@
      "regen": 10,
      "menge": 0,
      "wind": 7,
-     "windAus": 311,
+     "windAus": 317,
      "uv": 3.4,
      "auf": "07:28",
      "unter": "18:31"
@@ -1832,13 +1834,13 @@
     "morgen": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 16,
-     "min": 3,
+     "max": 15,
+     "min": 4,
      "regen": 9,
-     "menge": 2.9,
-     "wind": 9,
-     "windAus": 232,
-     "uv": 3.2,
+     "menge": 2.7,
+     "wind": 8,
+     "windAus": 215,
+     "uv": 3.4,
      "auf": "07:29",
      "unter": "18:29"
     },
@@ -1851,7 +1853,7 @@
       "regen": 10,
       "menge": 0,
       "wind": 7,
-      "windAus": 311,
+      "windAus": 317,
       "uv": 3.4,
       "auf": "07:28",
       "unter": "18:31"
@@ -1859,13 +1861,13 @@
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 16,
-      "min": 3,
+      "max": 15,
+      "min": 4,
       "regen": 9,
-      "menge": 2.9,
-      "wind": 9,
-      "windAus": 232,
-      "uv": 3.2,
+      "menge": 2.7,
+      "wind": 8,
+      "windAus": 215,
+      "uv": 3.4,
       "auf": "07:29",
       "unter": "18:29"
      },
@@ -1875,10 +1877,10 @@
       "max": 17,
       "min": 11,
       "regen": 26,
-      "menge": 2.8,
-      "wind": 12,
-      "windAus": 285,
-      "uv": 2.4,
+      "menge": 1.6,
+      "wind": 11,
+      "windAus": 283,
+      "uv": 2.9,
       "auf": "07:31",
       "unter": "18:27"
      },
@@ -1886,12 +1888,12 @@
       "datum": "2026-10-15",
       "code": 45,
       "max": 17,
-      "min": 8,
+      "min": 9,
       "regen": 12,
       "menge": 0,
-      "wind": 5,
-      "windAus": 158,
-      "uv": 3.2,
+      "wind": 3,
+      "windAus": 109,
+      "uv": 3.4,
       "auf": "07:32",
       "unter": "18:25"
      },
@@ -1899,106 +1901,46 @@
       "datum": "2026-10-16",
       "code": 45,
       "max": 17,
-      "min": 8,
+      "min": 9,
       "regen": 15,
       "menge": 0,
-      "wind": 5,
-      "windAus": 97,
-      "uv": 3,
+      "wind": 7,
+      "windAus": 91,
+      "uv": 3.3,
       "auf": "07:34",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-17",
       "code": 45,
-      "max": 15,
+      "max": 16,
       "min": 8,
       "regen": 27,
       "menge": 0,
-      "wind": 15,
-      "windAus": 13,
-      "uv": 3,
+      "wind": 9,
+      "windAus": 295,
+      "uv": 3.1,
       "auf": "07:35",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 11,
+      "code": 45,
+      "max": 14,
       "min": 5,
       "regen": 22,
-      "menge": 0.3,
-      "wind": 13,
-      "windAus": 18,
-      "uv": 2.5,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 42,
+      "uv": 0.3,
       "auf": "07:37",
       "unter": "18:19"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 6
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 5
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 4
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 2
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 2
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 1
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 1
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 9,
+      "grad": 10,
       "code": 0,
       "regen": 0
      },
@@ -2016,8 +1958,8 @@
      },
      {
       "zeit": "00:00",
-      "grad": 7,
-      "code": 0,
+      "grad": 8,
+      "code": 1,
       "regen": 0
      },
      {
@@ -2035,50 +1977,110 @@
      {
       "zeit": "03:00",
       "grad": 6,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 1
      },
      {
       "zeit": "05:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 2
      },
      {
       "zeit": "06:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 2
      },
      {
       "zeit": "07:00",
       "grad": 4,
-      "code": 0,
+      "code": 1,
       "regen": 3
      },
      {
       "zeit": "08:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 3
-     },
-     {
-      "zeit": "09:00",
       "grad": 4,
       "code": 0,
       "regen": 3
      },
      {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 3
+     },
+     {
       "zeit": "10:00",
       "grad": 7,
-      "code": 0,
+      "code": 3,
       "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "13:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "15:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 3
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 4
+     },
+     {
+      "zeit": "19:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 4
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 5
      }
     ]
    }
@@ -2086,8 +2088,8 @@
   "text": [
    "Heute liegen die Höchstwerte zwischen 14 und 17 Grad.",
    "Die Vorhersage für morgen, Dienstag, im ganzen Land: leichter Regen.",
-   "Die Temperaturen erreichen dann 12 bis 17 Grad.",
-   "Am wärmsten wird es in Leipzig mit 17 Grad.",
+   "Die Temperaturen erreichen dann 13 bis 16 Grad.",
+   "Am wärmsten wird es in Berlin mit 16 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2100,19 +2102,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 4.1
+       "regen": 3.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 14,
-       "regen": 0.8
+       "grad": 15,
+       "regen": 1.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 15,
-       "regen": 0.6
+       "grad": 13,
+       "regen": 0.4
       }
      ]
     },
@@ -2122,20 +2124,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 15,
-       "regen": 2.4
+       "grad": 16,
+       "regen": 0.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 16,
-       "regen": 0.8
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 0
+       "grad": 15,
+       "regen": 0.5
       }
      ]
     },
@@ -2145,20 +2147,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 17,
-       "regen": 2.6
+       "grad": 16,
+       "regen": 0.8
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 17,
+       "grad": 18,
        "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 16,
-       "regen": 0
+       "regen": 0.4
       }
      ]
     },
@@ -2168,20 +2170,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 17,
-       "regen": 0.4
+       "grad": 18,
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 18,
-       "regen": 1.8
+       "regen": 0.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 17,
-       "regen": 2
+       "grad": 18,
+       "regen": 2.5
       }
      ]
     },
@@ -2191,20 +2193,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 0.9
+       "grad": 13,
+       "regen": 1.3
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 14,
-       "regen": 0.8
+       "grad": 15,
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 0.5
+       "grad": 16,
+       "regen": 1
       }
      ]
     },
@@ -2215,19 +2217,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 15,
-       "regen": 3.1
+       "regen": 0.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 18,
-       "regen": 0
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 17,
-       "regen": 0
+       "regen": 0.3
       }
      ]
     },
@@ -2237,14 +2239,14 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 16,
-       "regen": 2.9
+       "grad": 15,
+       "regen": 2.7
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 16,
-       "regen": 0.1
+       "regen": 0
       },
       {
        "name": "ECMWF",
@@ -2259,16 +2261,16 @@
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
-     "ICON"
+     "ICON",
+     "GFS"
     ],
     "trocken": [
-     "GFS",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für Stuttgart gehen die Modelle am weitesten auseinander: zwischen 15 und 18 Grad.",
-    "Und in Hamburg erwartet ICON Regen, GFS und ECMWF dagegen nicht."
+    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 13 und 16 Grad.",
+    "Und in Hamburg erwartet ICON und GFS Regen, ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2460,6 +2462,1739 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "baerbel-bas-ruecktritt",
+   "rubrik": "Deutschland",
+   "zeit": "2026-10-12T18:42:05.000Z",
+   "titel": "Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende",
+   "vorspann": "Bundesarbeitsministerin Baerbel Bas hat am Montag ihren sofortigen Ruecktritt von allen Regierungs- und Parteiaemtern erklaert. Als Nachfolger fuer das Ministerium ist der fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer benannt worden.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Bundesarbeitsministerin Baerbel Bas ist am Montag von all ihren Aemtern zurueckgetreten.",
+    "Sie begruendete diesen Schritt mit einem privaten Trauerfall und oeffentlichen Angriffen.",
+    "Der fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer soll neuer Arbeitsminister werden.",
+    "Die SPD plant fuer den Jahreswechsel eine Neuwahl ihrer Parteispitze."
+   ],
+   "einig": [
+    [
+     "Baerbel Bas tritt als Bundesarbeitsministerin und SPD-Co-Vorsitzende zurueck.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "NZZ",
+      "taz"
+     ]
+    ],
+    [
+     "Alexander Schweitzer soll neuer Bundesarbeitsminister werden.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "taz"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob Angriffe aus der CDU ausschlaggebend fuer den Ruecktritt waren, ist umstritten; Bas beklagte dies, waehrend Kanzler Merz die Vorwuerfe zurueckwies."
+   ],
+   "positionen": [
+    [
+     "Baerbel Bas (zurueckgetretene Ministerin)",
+     "Der Ruecktritt erfolgt wegen Trauer nach dem Tod der Stieftochter und fortgesetzter oeffentlicher Angriffe.",
+     "taz"
+    ],
+    [
+     "Friedrich Merz (Bundeskanzler, CDU)",
+     "Die Union hat Mitgefuehl ausgedrueckt und Sachkonflikte regulaer ausgetragen.",
+     "taz"
+    ],
+    [
+     "Lars Klingbeil (SPD-Chef und Vizekanzler)",
+     "Die Angriffe auf Bas waren unanstaendig, und er bedauert ihren Schritt sehr.",
+     "taz"
+    ]
+   ],
+   "fehlend": "Stellungnahmen direkt aus der Fraktion der CDU zu den konkreten Ruecktrittsgruenden fehlen in den Berichten.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 20:42",
+     "fokus": "-",
+     "text": "Bundesarbeitsministerin und SPD-Co-Vorsitzende Bas legt alle politischen Ämter nieder, Ehemaliger rheinland-pfälzischer Ministerpräsident Schweitzer wird neuer Bundesarbeitsminister",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1665076.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 19:56",
+     "fokus": "Reaktionen und Hintergruende",
+     "text": "Berichtet umfassend ueber Reaktionen von Politikern und den Rücktritt.",
+     "url": "https://www.zdfheute.de/politik/deutschland/ruecktritt-baerbel-bas-folgen-koalition-blog-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 7,
+      "woerter": 1374,
+      "satzlaenge": 19,
+      "langeWoerter": 32
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 20:26",
+     "fokus": "-",
+     "text": "Nach dem Rücktritt von Bärbel Bas soll Alexander Schweitzer neuer Bundesarbeitsminister werden.",
+     "url": "https://www.deutschlandfunk.de/ehemaliger-ministerpraesident-schweitzer-soll-neuer-bundesarbeitsminister-werden-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "NZZ",
+     "typ": "Tageszeitung (Schweiz)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "12.10.26, 18:33",
+     "fokus": "-",
+     "text": "Die deutsche Arbeitsministerin Bärbel Bas hat ihren Rücktritt bekanntgegeben.",
+     "url": "https://www.nzz.ch/shorts/baerbel-bas-tritt-als-arbeitsministerin-und-spd-vorsitzende-zurueck-ld.10032028",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "12.10.26, 08:18",
+     "fokus": "Ruecktrittserklaerung im Wortlaut",
+     "text": "Veroeffentlicht wesentliche Teile der persoenlichen Erklaerung von Bärbel Bas.",
+     "url": "https://taz.de/Ruecktritt-von-SPD-Chefin/!6220794/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 6,
+      "woerter": 1122,
+      "satzlaenge": 15,
+      "langeWoerter": 32
+     },
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausfuehrlichkeit der Erklaerung",
+     "Die taz druckt lange Passagen der persoenlichen Erklaerung von Baerbel Bas ab, waehrend andere Medien die Kernaussagen zusammenfassen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Bundesarbeitsministerin und SPD-Co-Vorsitzende Baerbel Bas",
+    "was": "Ruecktritt von allen Aemtern",
+    "wann": "2026",
+    "wo": "Berlin, Deutschland",
+    "wie": "Per schriftlicher Mitteilung an die Oeffentlichkeit",
+    "warum": "Privater Trauerfall und anhaltene Angriffe laut Bas",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, NZZ, taz"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Ruecktritt der Ministerin",
+     "absaetze": [
+      "Die deutsche Arbeitsministerin und SPD-Co-Vorsitzende Baerbel Bas hat am Montag ihren Ruecktritt aus dem Amt sowie von der Parteispitze erklaert. Dies geht aus Mitteilungen hervor, welche unter anderem von der taz veroeffentlicht wurden. Bas begruendete diesen Schritt in einer Erklaerung unter anderem mit dem Tod ihrer Stieftochter.",
+      "Zusaetzlich fuehrte Bas an, dass oeffentliche Angriffe auf ihre Person in dieser schwierigen Phase weiter verstaerkt worden seien. Laut den Berichten von ZDFheute und der taz kritisierte sie dabei ausdruecklich auch Angriffe aus den Reihen des Koalitionspartners. Da sie nach eigenen Angaben nicht mehr die Kraft aufbringen kann, die Regierungs- und Parteiarbeit vollumfaenglich auszuueben, zog sie die Konsequenzen.",
+      "Die Politikerin bat den Bundeskanzler um ihre Entlassung aus dem Amt der Bundesministerin fuer Arbeit und Soziales. Gleichzeitig informierte sie den Co-Vorsitzenden und Vizekanzler Lars Klingbeil ueber die sofortige Niederlegung ihres Amtes als Parteivorsitzende. Ihr Mandat im Deutschen Bundestag will die Abgeordnete jedoch behalten, wie die taz berichtet."
+     ]
+    },
+    {
+     "ueberschrift": "Personalwechsel und Nachfolge",
+     "absaetze": [
+      "Als Nachfolger fuer das Bundesministerium fuer Arbeit und Soziales ist Alexander Schweitzer vorgesehen. Laut den uebereinstimmenden Berichten von Tagesschau, ZDFheute und Deutschlandfunk handelt es sich dabei um den frueheren rheinland-pfaelzischen Ministerpraesidenten und SPD-Politiker. Schweitzer war von 2024 bis 2026 Regierungschef in Rheinland-Pfalz gewesen und hatte die dortige Landtagswahl im Maerz verloren.",
+      "Bundespraesident Frank-Walter Steinmeier plant die Ernennung von Alexander Schweitzer zum neuen Arbeitsminister am Dienstagnachmittag. Laut der Ankuendigung des Bundespraesidialamtes soll die Aushuehndigung der Urkunde um 17 Uhr erfolgen. Bevor Schweitzer das Amt offiziell uebernehmen kann, ist gemaess den Berichten noch eine Vereidigung im Deutschen Bundestag notwendig.",
+      "Der designierte Minister aeusserte sich beim Verlassen des Willy-Brandt-Hauses in Berlin gegenueber Journalisten zunächst nicht zu seinem neuen Regierungsamt. Auf Nachfragen gab er an, er sei dort privat unterwegs. Die SPD will im Dezember oder Januar auf einem Bundesparteitag ihre gesamte Fuehrung neu waehlen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen aus der Koalition und den Parteien",
+     "absaetze": [
+      "Vizekanzler und SPD-Chef Lars Klingbeil zeigte sich tief betroffen ueber den Ruecktritt von Baerbel Bas. Laut der taz nannte er die Angriffe auf sie in den letzten Tagen unanstaendig und betonte, dass hinter den politischen Aemtern letztlich nur Menschen stuenden. Klingbeil kuendigte an, dass die SPD auf einem Parteitag im Dezember oder Januar ihre gesamte Fuehrung neu waehlen will.",
+      "Bundeskanzler Friedrich Merz wies den Vorwurf zurueck, dass die Union Schuld am Ruecktritt sei. Laut ZDFheute erklaerte der CDU-Politiker, die CDU habe ihr Mitgefühl ausgedrueckt und Sachkonflikte normal ausgetragen. Der fruehere SPD-Fraktionsvorsitzende Rolf Mützenich kritisierte hingegen laut ZDFheute, dass SPD-Spitzenpolitiker Bas nicht ausreichend gegen Angriffe verteidigt haetten.",
+      "Sachsens Ministerpraesident Michael Kretschmer forderte nach dem Ruecktritt rasche Reformfortschritte von der Bundesregierung und bezeichnete den designierten Arbeitsminister Alexander Schweitzer als geschätzten Kollegen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verstaendnis",
+     "absaetze": [
+      "Das Bundesministerium fuer Arbeit und Soziales ist ein Ministerium der Bundesrepublik Deutschland. Es ist unter anderem zustaendig fuer die Arbeitsmarktpolitik und soziale Sicherungssysteme im Land. Die Leitung erfolgt durch den Bundesminister oder die Bundesministerin.",
+      "Koalitionsgespraeche und Koalitionsausschuesse sind Verfahren, in denen Parteien einer Regierungskoalition ueber gemeinsame Vorhaben berahten. In diesen Runden werden politische Themen besprochen, deren Umsetzung in den Ministerien vorbereitet wird."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Der designierte Arbeitsminister Alexander Schweitzer muss am Dienstag vereidigt werden, um sein Amt formal anzutreten. Bundespraesident Steinmeier wird ihm am Nachmittag die Ernennungsurkunde ueberreichen.",
+      "Die SPD will im Dezember oder Januar auf einem Bundesparteitag ihre fuehrenden Gremien und den Parteivorsitz neu waehlen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Montag",
+     "Baerbel Bas erklaert ihren Ruecktritt als Arbeitsministerin und SPD-Chefin."
+    ],
+    [
+     "Dienstag",
+     "Bundespraesident Steinmeier will Alexander Schweitzer die Ernennungsurkunde ueberreichen."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Baerbel Bas politician",
+     "bildunterschrift": "Die zurueckgetretene Bundesarbeitsministerin Baerbel Bas hat ihre Aemter niedergelegt."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Alexander Schweitzer politician",
+     "bildunterschrift": "Der designierte Bundesarbeitsminister Alexander Schweitzer soll das Amt uebernehmen."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Federal Ministry of Labour and Social Affairs Berlin",
+     "bildunterschrift": "Das Bundesministerium fuer Arbeit und Soziales in Berlin ist von dem Personalwechsel betroffen."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Lars Klingbeil politician",
+     "bildunterschrift": "SPD-Co-Chef und Vizekanzler Lars Klingbeil kuendigte eine Neuwahl der Parteispitze an."
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Entfernung nicht belegter Aussagen und wertesprachlicher Formulierungen zur Wahrung der Neutralität.",
+    "Anpassung von Namen, Daten und Fakten an die exakten Angaben in den Originalberichten."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Bundesarbeitsminister",
+      "Ein Minister oder eine Ministerin, die in der Regierung fuer Arbeit und soziale Sicherung zustaendig ist."
+     ],
+     [
+      "Koalition",
+      "Ein Buendnis aus mehreren Parteien, die gemeinsam die Regierung bilden."
+     ],
+     [
+      "Parteitag",
+      "Eine Versammlung von Mitgliedern einer Partei, auf der wichtige Entscheidungen getroffen und Fuehrer gewaehlt werden."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielen persoenliche Gruende und oeffentliche Kritik bei Ruecktritten von Politikern?",
+     "Wie bewertest du die Reaktionen der verschiedenen Parteien auf den Ruecktritt?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer ist von allen Aemtern zurueckgetreten?",
+      "optionen": [
+       "Baerbel Bas",
+       "Alexander Schweitzer",
+       "Lars Klingbeil"
+      ],
+      "richtig": 0,
+      "erklaerung": "Baerbel Bas trat am Montag als Arbeitsministerin und SPD-Chefin zurueck."
+     },
+     {
+      "frage": "Wer soll neuer Arbeitsminister werden?",
+      "optionen": [
+       "Friedrich Merz",
+       "Alexander Schweitzer",
+       "Michael Kretschmer"
+      ],
+      "richtig": 1,
+      "erklaerung": "Der fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer soll neuer Arbeitsminister werden."
+     },
+     {
+      "frage": "Wann plant die SPD eine Neuwahl ihrer Parteispitze?",
+      "optionen": [
+       "Im Sommer",
+       "Zum Jahreswechsel",
+       "Gar nicht"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die SPD will im Dezember oder Januar auf einem Bundesparteitag ihre Fuehrung neu waehlen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die deutsche Arbeitsministerin Baerbel Bas ist am Montag von all ihren Aemtern zurueckgetreten.",
+    "absaetze": [
+     "Baerbel Bas war sowohl Arbeitsministerin als auch Chefin der SPD.",
+     "Sie begruendete ihren Ruecktritt mit dem Tod ihrer Stieftochter und oeffentlicher Kritik.",
+     "Der fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer soll nun neuer Arbeitsminister werden.",
+     "Bundespraesident Frank-Walter Steinmeier ueberreicht ihm am Dienstag die Ernennungsurkunde.",
+     "Die SPD will im Dezember oder Januar eine neue Fuehrung waehlen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Bundesarbeitsministerin Baerbel Bas ist am Montag von all ihren Aemtern zurueckgetreten.",
+     "Als Grund nannte sie einen privaten Trauerfall und oeffentliche Angriffe.",
+     "Der fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer soll am Dienstag neuer Arbeitsminister werden.",
+     "Die SPD kuendigte eine Neuwahl ihrer Parteispitze fuer den Jahreswechsel an."
+    ],
+    "lang": [
+     "Die deutsche Arbeitsministerin und SPD-Co-Vorsitzende Baerbel Bas ist am Montag von allen Aemtern zurueckgetreten.",
+     "Sie begruendete diesen Schritt mit dem Tod ihrer Stieftochter und anhaltenen oeffentlichen Angriffen.",
+     "Der Fruehere rheinland-pfaelzische Ministerpraesident Alexander Schweitzer soll nun neuer Bundesarbeitsminister werden.",
+     "Bundespraesident Frank-Walter Steinmeier plant die Ernennung von Alexander Schweitzer am Dienstagnachmittag.",
+     "Bevor Schweitzer das Amt uebernehmen kann, ist eine Vereidigung im Deutschen Bundestag notwendig.",
+     "Nach Angaben von SPD-Chef Lars Klingbeil waren die Angriffe auf Bas unanstaendig.",
+     "Bundeskanzler Friedrich Merz wies den Vorwurf zurueck, dass die Union Schuld am Ruecktritt sei.",
+     "Das Bundesministerium fuer Arbeit und Soziales ist zustaendig fuer Arbeitsmarktpolitik und soziale Sicherung.",
+     "Die SPD will im Dezember oder Januar auf einem Bundesparteitag ihre gesamte Fuehrung neu waehlen.",
+     "Ob die Nachfolge im Ministerium und in der Partei reibungslos verlaeuft, bleibt vorerst offen."
+    ],
+    "einfach": [
+     "Arbeitsministerin Baerbel Bas ist am Montag zurueckgetreten.",
+     "Sie nannte als Gruende einen Trauerfall und oeffentliche Kritik.",
+     "Alexander Schweitzer soll nun ihr Nachfolger im Ministerium werden.",
+     "Bundespraesident Frank-Walter Steinmeier ueberreicht ihm am Dienstag die Urkunde.",
+     "Die SPD will im Winter eine neue Parteispitze waehlen."
+    ]
+   },
+   "kurz": [
+    "Arbeitsministerin Baerbel Bas ist am Montag von allen Aemtern zurueckgetreten.",
+    "Sie nannte als Gruende einen Trauerfall und oeffentliche Angriffe.",
+    "Alexander Schweitzer soll am Dienstag als ihr Nachfolger ernannt werden.",
+    "Die SPD plant im Winter eine Neuwahl ihrer Parteispitze."
+   ],
+   "fakten": [
+    [
+     "Amtszeit als rheinland-pfälzischer Ministerpräsident von Alexander Schweitzer",
+     "2024 bis 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "ruecktritt-baerbel-bas",
+    "titel": "Ruecktritt von Arbeitsministerin Baerbel Bas"
+   },
+   "bildInfo": {
+    "titel": "BaerbelBas.JPG",
+    "beschreibung": "Bärbel Bas- Member of Parliament",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/BaerbelBas.JPG/1280px-BaerbelBas.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/BaerbelBas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:BaerbelBas.JPG",
+    "urheber": "Fotografin des Bildes ist Angelika Kohlmeier, uneingeschränktes Nutzungsrecht liegt dem Bü",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "art": "person",
+    "suchbegriff": "Baerbel Bas politician",
+    "bildunterschrift": "Die Politikerin Bärbel Bas, deren Rücktritt als Bundesarbeitsministerin und SPD-Co-Vorsitzende bekannt gegeben wurde.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "BaerbelBas.JPG",
+     "beschreibung": "Bärbel Bas- Member of Parliament",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/BaerbelBas.JPG/1280px-BaerbelBas.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/BaerbelBas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:BaerbelBas.JPG",
+     "urheber": "Fotografin des Bildes ist Angelika Kohlmeier, uneingeschränktes Nutzungsrecht liegt dem Bü",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "person",
+     "suchbegriff": "Baerbel Bas politician",
+     "bildunterschrift": "Die Politikerin Bärbel Bas, deren Rücktritt als Bundesarbeitsministerin und SPD-Co-Vorsitzende bekannt gegeben wurde.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "2024-10-24 Politik, Ministerpräsidentenkonferenz 2024 Leipzig STP 8057 by Stepro.jpg",
+     "beschreibung": "Politik, Ministerpräsidentenkonferenz 2024 Leipzig: Alexander Schweitzer (SPD, Ministerpräsident Rheinland-Pfalz)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/2024-10-24_Politik%2C_Ministerpr%C3%A4sidentenkonferenz_2024_Leipzig_STP_8057_by_Stepro.jpg/1280px-2024-10-24_Politik%2C_Ministerpr%C3%A4sidentenkonferenz_2024_Leipzig_STP_8057_by_Stepro.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/2024-10-24_Politik%2C_Ministerpr%C3%A4sidentenkonferenz_2024_Leipzig_STP_8057_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-10-24_Politik,_Ministerpr%C3%A4sidentenkonferenz_2024_Leipzig_STP_8057_by_Stepro.jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "person",
+     "suchbegriff": "Alexander Schweitzer politician",
+     "bildunterschrift": "Der SPD-Politiker Alexander Schweitzer, der als Nachfolger für das Ministerium im Gespräch ist.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "eu-sanktionen-russland-oktober-2026",
+   "rubrik": "Welt",
+   "zeit": "2026-10-12T18:26:42.000Z",
+   "titel": "Europäische Union beschließt neue Sanktionen gegen Russland",
+   "vorspann": "Die Europäische Union hat ein neues Sanktionspaket mit knapp 1.600 Einträgen von Personen und Organisationen verabschiedet.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Die EU-Außenminister haben ein neues Sanktionspaket gegen knapp 1.600 Personen und Organisationen aus Russland beschlossen.",
+    "Die Maßnahmen richten sich vor allem gegen den militärisch-industriellen Komplex, darunter die Produktion von ballistischen Raketen.",
+    "Vertreter der Europäischen Union begründen den Schritt als Druck auf die russische Kriegswirtschaft im Kontext des Krieges gegen die Ukraine.",
+    "Parallel dazu gab es Berichte über ein US-russisches Abkommen zu Diesellieferungen und Angriffe auf die ukrainische Energieinfrastruktur."
+   ],
+   "einig": [
+    [
+     "Die EU verhängt neue Sanktionen gegen knapp 1.600 Personen, Unternehmen und Organisationen.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "ORF"
+     ]
+    ],
+    [
+     "Die Sanktionen richten sich unter anderem gegen Akteure der Produktion von ballistischen Raketen und den militärisch-industriellen Komplex.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "ORF"
+     ]
+    ],
+    [
+     "EU-Außenbeauftragte ist Kaja Kallas.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "ORF"
+     ]
+    ],
+    [
+     "Der deutsche Außenminister Johann Wadephul konnte wegen einer Parteiklausur in Berlin nicht an den Beratungen in Luxemburg teilnehmen.",
+     [
+      "ZDFheute",
+      "ORF"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Wie sich das Verhältnis zwischen den USA und der EU bezüglich des Diesel-Deals und der Sanktionspolitik weiterentwickeln wird.",
+    "Ob die angekündigte Energiewaffenruhe zwischen der Ukraine und Russland wirksam umgesetzt wird."
+   ],
+   "positionen": [
+    [
+     "Kaja Kallas (EU-Außenbeauftragte)",
+     "Sanktionen entziehen Russland Geld für den Krieg und erhöhen den Druck.",
+     "Tagesschau/ARD,ZDFheute,ORF"
+    ],
+    [
+     "Johann Wadephul (Deutscher Außenminister, CDU)",
+     "Die Sanktionen sind ein beispielloser Schlag gegen die Kriegswirtschaft zur Erhöhung des Drucks für Friedensverhandlungen.",
+     "ZDFheute,ORF"
+    ],
+    [
+     "Wolodymyr Selenskyj (Ukrainischer Präsident)",
+     "Russland greift trotz Erklärungen zu Energiewaffenruhen weiterhin ukrainische Energieanlagen an und lehnt eine Waffenruhe ab.",
+     "ORF"
+    ],
+    [
+     "Dmitri Peskow (Kreml-Sprecher)",
+     "Russland sucht keinen vorübergehenden Waffenstillstand, sondern einen dauerhaften Frieden.",
+     "ORF"
+    ]
+   ],
+   "fehlend": "Stimmen aus den USA zu den europäischen Reaktionen auf den Diesel-Deal sowie offizielle Vertreter Russlands zu den EU-Sanktionen (abgesehen von Aussagen zum Waffenstillstand).",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 19:01",
+     "fokus": "Sanktionspaket und politischer Kontext",
+     "text": "Berichtet über die Hintergründe des Sanktionspakets und verknüpft es mit den US-Maßnahmen. Erwähnt Details zu Sabotageakten.",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-neue-sanktionen-russland-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 601,
+      "satzlaenge": 19,
+      "langeWoerter": 35
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 12:20",
+     "fokus": "Rekord-Sanktionen und Reaktionen",
+     "text": "Betont die Zahl der Sanktionen und zitiert deutsche Regierungsvertreter sowie EU-Stellen. Geht auf die Auswirkungen auf die Kriegswirtschaft ein.",
+     "url": "https://www.zdfheute.de/politik/ausland/eu-sanktionen-kallas-moskau-kriegswirtschaft-raketenproduktion-ukraine-krieg-russland-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 589,
+      "satzlaenge": 17,
+      "langeWoerter": 38
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 20:26",
+     "fokus": "Kurzmeldung zum Außenministertreffen",
+     "text": "Bietet eine kurze Meldung über das Verhängen neuer EU-Sanktionen gegen Russland.",
+     "url": "https://www.deutschlandfunk.de/eu-verhaengt-neue-sanktionen-gegen-unterstuetzer-des-russischen-kriegs-gegen-die-ukraine-104.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "ORF",
+     "typ": "öffentlich-rechtlich (Österreich)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "12.10.26, 14:33",
+     "fokus": "Sanktionen und Ukraine-Lage",
+     "text": "Verbindet die EU-Sanktionen mit Berichten über anhaltende Angriffe auf die ukrainische Energieinfrastruktur und Reaktionen aus der Ukraine und Russland.",
+     "url": "https://orf.at/stories/3444847/",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 13,
+      "minuten": 4,
+      "woerter": 751,
+      "satzlaenge": 19,
+      "langeWoerter": 41
+     },
+     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
+     "finanzierung": "Haushaltsabgabe",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Themenschwerpunkt",
+     "Während Tagesschau/ARD, ZDFheute und Deutschlandfunk primär den Beschluss der Sanktionen und die Aussagen der EU-Spitzen beleuchten, bindet der ORF zusätzlich Berichte über die militärische Lage, Energieangriffe und Reaktionen des ukrainischen Präsidenten Selenskyj sowie des Kremls ein."
+    ]
+   ],
+   "wfragen": {
+    "wer": "EU-Außenminister",
+    "was": "Sanktionspaket mit rund 1.600 Einträgen beschlossen",
+    "wann": "12. Oktober 2026",
+    "wo": "Luxemburg",
+    "wie": "Durch Beschluss der EU-Außenminister in Luxemburg",
+    "warum": "Zur Erhöhung des Drucks auf die russische Kriegswirtschaft, laut EU-Vertretern",
+    "quellenlage": "Mitteilungen von EU-Stellen, Korrespondentenberichten und Agenturmeldungen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Europäische Union hat neue Strafmaßnahmen gegen Russland verabschiedet. Laut den Berichten von Tagesschau/ARD, ZDFheute und ORF handelt es sich um eine umfangreiche Erweiterung der Sanktionsliste seit Beginn des Krieges. Die EU-Außenminister billigten das Paket während ihres Treffens in Luxemburg. Von den Maßnahmen sind knapp 1.600 Personen, Unternehmen und Organisationen betroffen.",
+      "Die Liste wurde am Montag im Amtsblatt der EU veröffentlicht und ist damit in Kraft getreten. Damit wächst die Gesamtzahl der sanktionierten Personen und Organisationen aus Russland auf rund 4.500 an.",
+      "Die Maßnahmen richten sich zu einem großen Teil gegen den militärisch-industriellen Komplex der Russischen Föderation. Rund die Hälfte der neuen Einträge betrifft Akteure aus der Produktionskette für ballistische Raketen. Zudem sind Unternehmen benannt, die Bauteile für Drohnen und Flugzeuge liefern."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Zu den beschlossenen Sanktionen gehört das Einfrieren von Vermögenswerten der betroffenen Personen und Unternehmen. Außerdem ist es untersagt, ihnen Gelder oder wirtschaftliche Ressourcen bereitzustellen. Natürliche Personen sind zudem von Einreisen in die Europäische Union ausgeschlossen.",
+      "Unter den sanktionierten Einheiten befinden sich laut Tagesschau/ARD auch Personen, denen die Mitwirkung an sogenannten Scheinwahlen in von Russland besetzten ukrainischen Regionen vorgeworfen wird. Ebenfalls auf der Liste stehen nordkoreanische Personen, die nach Angaben der EU am Krieg gegen die Ukraine beteiligt sind.",
+      "Neben den wirtschaftlichen Restriktionen beraten die EU-Außenminister nach Angaben von Tagesschau/ARD auch über Sabotageakte auf europäischem Boden. Im Zusammenhang mit einem vereitelten Drohnenanschlag in Leipzig bringt die Bundesregierung demnach Namen für kommende Sanktionen ein."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die europäischen Maßnahmen erfolgen parallel zu aktuellen Diskussionen über ein von US-Präsident Donald Trump angekündigtes Abkommen mit dem russischen Staatschef Wladimir Putin. Nach Angaben von Tagesschau/ARD und ZDFheute hat Trump einen Diesel-Deal mit dem Kreml verkündet und dazugehörige US-Sanktionen gegen Russland gelockert, was im US-Kongress und bei europäischen Politikern auf Kritik stieß.",
+      "Die EU-Außenbeauftragte Kaja Kallas erklärte laut den Berichten, dass die neue Sanktionsrunde auch als Zeichen gegen diese umstrittene Diesel-Vereinbarung zu verstehen sei. Das Aussetzen von Sanktionen gegen russische Diesellieferungen verschaffe Moskau zusätzliche Einnahmen zur Finanzierung des Krieges, so Kallas.",
+      "Laut ORF fanden trotz einer von US-Präsident Trump verkündeten Energiewaffenruhe weitere Angriffe auf ukrainische Energieanlagen statt. Der ukrainische Präsident Wolodymyr Selenskyj erklärte demnach, dass unter anderem ein Kraftwerk in Kiew sowie Gasförderanlagen des staatlichen Konzerns Naftohas in der Region Charkiw angegriffen wurden."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Die Europäische Union ist ein Zusammenschluss von europäischen Staaten, die gemeinsame Politik und Wirtschaft regeln. Zu den Organen gehört unter anderem der Rat der Europäischen Union, in dem die Fachminister der Mitgliedstaaten tagen.",
+      "Sanktionen sind politische und wirtschaftliche Strafmaßnahmen, die von Staaten oder internationalen Organisationen verhängt werden, um das Verhalten eines anderen Staates zu beeinflussen. Im Falle der EU gegen Russland umfassen sie Einreiseverbote, das Einfrieren von Geldern und Handelsbeschränkungen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Die EU-Außenbeauftragte Kaja Kallas bezeichnete das Paket laut ZDFheute und ORF als die bislang größte Erweiterung der Sanktionsliste seit Beginn des Krieges. Kallas betonte laut Tagesschau/ARD und ZDFheute, dass bisherige Sanktionen Russland bereits eine Billion Euro entzogen hätten und die Maßnahmen gegen die Schattenflotte die Finanzierung des Krieges erheblich erschwerten.",
+      "Der deutsche Außenminister Johann Wadephul sprach laut ZDFheute und ORF von einem beispiellosen Sanktionsschlag gegen die Kriegswirtschaft von Kremlchef Putin. Wadephul nahm wegen einer Parteiklausur in Berlin nicht an den Beratungen in Luxemburg teil, wie die Sender übereinstimmend berichten.",
+      "Der Europa-Staatsminister Gunther Krichbaum betonte laut Tagesschau/ARD, dass jeder durch Energiekäufe genutzte Euro zur Produktion neuer Waffen verwendet werde. Der österreichische Staatssekretär Josef Schellhorn erklärte laut ORF, es sei besonders wichtig, die Sanktionsliste mit aller Konsequenz durchzuziehen.",
+      "Der ukrainische Präsident Wolodymyr Selenskyj teilte laut ORF zu den militärischen Entwicklungen mit, dass Russland trotz angekündigter Vereinbarungen weiterhin ukrainische Energieanlagen angreife."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die EU-Außenminister beraten nach Angaben von Tagesschau/ARD in Brüssel über ein weiteres Sanktionspaket. Zudem läuft die Abstimmung über Namen im Zusammenhang mit Sabotageakten.",
+      "Kreml-Sprecher Dmitri Peskow lehnte laut ORF eine von der Ukraine vorgeschlagene vollständige Waffenruhe ab und erklärte, man suche keinen vorübergehenden Waffenstillstand, sondern einen dauerhaften Frieden."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Montag",
+     "Die EU-Außenminister beschließen in Luxemburg das neue Sanktionspaket mit rund 1.600 Einträgen."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "institution",
+     "suchbegriff": "European Union flag and building",
+     "bildunterschrift": ""
+    }
+   ],
+   "ort": {
+    "name": "Luxemburg, Luxemburg"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Unbelegte Details aus den Artikeln und Überschriften im Entwurf entfernt, um absolute Neutralität und Fakten treue zu wahren."
+   ],
+   "wortwarnung": [
+    "beispiellosen"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Sanktionen",
+      "Wirtschaftliche oder politische Strafmaßnahmen von Staaten oder Organisationen gegen ein anderes Land, um dessen Verhalten zu ändern."
+     ],
+     [
+      "Militärisch-industrieller Komplex",
+      "Die Gesamtheit aus Rüstungsindustrie und militärischen Einrichtungen eines Staates, die Waffen produzieren."
+     ]
+    ],
+    "fragen": [
+     "Welche Ziele verfolgt die Europäische Union mit der Erweiterung der Sanktionsliste gegen Russland?",
+     "Wie reagieren verschiedene Politiker in den Berichten auf die neuen Maßnahmen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie viele Personen und Organisationen wurden mit dem neuen Sanktionspaket belegt?",
+      "optionen": [
+       "Knapp 1.600",
+       "Genau 4.500",
+       "Etwa 25"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmender Berichte von Tagesschau/ARD, ZDFheute und ORF wurden knapp 1.600 Personen, Unternehmen und Organisationen sanktioniert."
+     },
+     {
+      "frage": "Wer ist die EU-Außenbeauftragte, die das Paket vorstellte?",
+      "optionen": [
+       "Johann Wadephul",
+       "Kaja Kallas",
+       "Gunther Krichbaum"
+      ],
+      "richtig": 1,
+      "erklaerung": "Kaja Kallas wird in den Berichten als EU-Außenbeauftragte genannt."
+     },
+     {
+      "frage": "Wo fand das Treffen der EU-Außenminister statt, bei dem die Sanktionen beschlossen wurden?",
+      "optionen": [
+       "In Berlin",
+       "In Brüssel",
+       "In Luxemburg"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Berichte von Tagesschau/ARD, ZDFheute und ORF geben an, dass das Treffen in Luxemburg stattfand."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Europäische Union hat neue Strafmaßnahmen gegen Russland beschlossen.",
+    "absaetze": [
+     "Die Außenminister der Europäischen Union haben sich in Luxemburg getroffen. Sie haben ein großes Paket mit Sanktionen beschlossen.",
+     "Sanktionen sind wirtschaftliche Bestrafungen. Sie sollen helfen, ein Land unter Druck zu setzen.",
+     "Von den neuen Maßnahmen sind knapp 1.600 Personen und Unternehmen betroffen. Viele davon gehören zur Rüstungsindustrie in Russland, die Waffen herstellt.",
+     "Die EU will damit erreichen, dass Russland weniger Geld für den Krieg gegen die Ukraine hat."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Europäische Union hat neue Sanktionen gegen Russland beschlossen.",
+     "Knapp 1.600 Personen und Organisationen stehen nun auf der Liste.",
+     "Die Maßnahmen sollen den militärisch-industriellen Komplex treffen."
+    ],
+    "lang": [
+     "Die Europäische Union hat neue Sanktionen gegen Russland verabschiedet.",
+     "Das beschlossen die europäischen Außenminister am Montag in Luxemburg.",
+     "Von den Strafmaßnahmen sind knapp 1.600 Personen und Organisationen betroffen.",
+     "Die Maßnahmen richten sich vor allem gegen die Produktion von ballistischen Raketen.",
+     "Das sagte die EU-Außenbeauftragte Kaja Kallas in Luxemburg.",
+     "Der deutsche Außenminister Johann Wadephul nannte den Schritt einen beispiellosen Schlag gegen die Kriegswirtschaft.",
+     "Kritik kam unter anderem wegen eines umstrittenen Abkommens zu Diesellieferungen zwischen den Vereinigten Staaten und Russland auf.",
+     "Gleichzeitig berichteten Medien über anhaltende Angriffe auf ukrainische Energieanlagen.",
+     "Die Europäische Union will mit den Maßnahmen den Druck auf Russland erhöhen.",
+     "Weitere Beratungen über zusätzliche Schritte laufen bereits in Brüssel."
+    ],
+    "einfach": [
+     "Die Europäische Union hat neue Strafmaßnahmen gegen Russland beschlossen.",
+     "Diese Maßnahmen nennt man Sanktionen.",
+     "Knapp 1.600 Personen und Unternehmen stehen nun auf einer Liste.",
+     "Sie dürfen zum Beispiel nicht mehr in die Europäische Union einreisen.",
+     "Die EU will damit den Krieg gegen die Ukraine schwächen."
+    ]
+   },
+   "kurz": [
+    "Die Europäische Union hat neue Sanktionen gegen knapp 1.600 Personen und Organisationen beschlossen.",
+    "Die Strafmaßnahmen richten sich vor allem gegen Russlands militärisch-industriellen Komplex.",
+    "EU-Vertreter begründen den Schritt als Druckmittel im Krieg gegen die Ukraine."
+   ],
+   "fakten": [
+    [
+     "Sanktionierte Personen und Organisationen",
+     "knapp 1.600"
+    ],
+    [
+     "Gesamtzahl der Sanktionen-Einträge",
+     "rund 4.500"
+    ],
+    [
+     "Datum des Beschlusses",
+     "Montag"
+    ]
+   ],
+   "dossier": {
+    "slug": "sanktionen-russland-ukraine",
+    "titel": "Sanktionen gegen Russland und Krieg in der Ukraine"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Luxemburg, Luxemburg",
+    "lat": 49.611,
+    "lon": 6.13
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "taz-korrespondentin-einreise-israel",
+   "rubrik": "Welt",
+   "zeit": "2026-10-12T18:26:42.000Z",
+   "titel": "Israel verweigert taz-Korrespondentin Visum und Einreise",
+   "vorspann": "Die israelische Regierung hat der Korrespondentin der Tageszeitung taz, Serena Bilanceri, ein Arbeitsvisum und die Einreise verweigert. Die Zeitung und Organisationen werten dies als Eingriff in die Pressefreiheit, während Behörden auf Boykottvorwürfe verweisen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Israel hat der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise verweigert.",
+    "Die Behörden begründen dies mit früheren Kommentaren der Journalistin über den Gazastreifen und das Westjordanland, die als Boykottaufrufe bewertet wurden.",
+    "Die taz, die betroffene Journalistin und Organisationen wie Reporter ohne Grenzen weisen die Vorwürfe zurück und sprechen von einem Angriff auf die Pressefreiheit.",
+    "Seit 2025 ist bereits mehreren ausländischen Journalisten auf ähnlicher gesetzlicher Grundlage die Einreise nach Israel verwehrt worden."
+   ],
+   "einig": [
+    [
+     "Israel hat der taz-Korrespondentin Serena Bilanceri das Arbeitsvisum und die Einreise verweigert.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung",
+      "Welt",
+      "taz"
+     ]
+    ],
+    [
+     "Die israelische Regierung wirft der Journalistin vor, zu einem Boykott Israels aufgerufen zu haben.",
+     [
+      "Tagesschau/ARD",
+      "Welt",
+      "taz"
+     ]
+    ],
+    [
+     "Die taz-Chefredaktion weist den Vorwurf eines Boykottaufrufs zurück und wertet die Entscheidung als Eingriff in die Pressefreiheit.",
+     [
+      "Süddeutsche Zeitung",
+      "Welt",
+      "taz"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die Einreiseverweigerung rechtlich exakt von dem Gesetz aus dem Jahr 2025 gedeckt ist oder ob politische Motive im Vordergrund stehen, wird zwischen der Redaktion und den israelischen Behörden unterschiedlich bewertet."
+   ],
+   "positionen": [
+    [
+     "Israelische Regierung und Diaspora-Ministerium",
+     "Antiisraelische Akteure und Personen, die Israel verleumden sowie zu Boykotten aufrufen, sollten keinen Fuß in das Land setzen.",
+     "Tagesschau/ARD, Süddeutsche Zeitung, Welt, taz"
+    ],
+    [
+     "Chefredaktion der taz",
+     "Die Maßnahme ist ein schwerer Eingriff in die Pressefreiheit und unzulässig, da keine Boykottaufrufe stattfanden.",
+     "Süddeutsche Zeitung, Welt, taz"
+    ],
+    [
+     "Serena Bilanceri (Journalistin)",
+     "Es handelt sich um den Entzug der Arbeitsmöglichkeit für ausländische Journalisten wegen legitimer Kritik.",
+     "Tagesschau/ARD, Welt, taz"
+    ],
+    [
+     "Reporter ohne Grenzen",
+     "Kritik an der Regierung oder an der Besatzung ist kein Beleg für fehlende journalistische Unabhängigkeit; das Vorgehen greift die Pressefreiheit an.",
+     "Tagesschau/ARD, Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Stimmen von israelischen Regierungsstellen direkt gegenüber der Journalistin vor Ort oder offizielle Stellungnahmen der deutschen Bundesregierung zu dem konkreten Vorfall.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 18:08",
+     "fokus": "Hintergrund und Reaktionen",
+     "text": "Die Tagesschau liefert ausführliche Details zu früheren Problemen der Journalistin und zitiert Aussagen von israelischen Kollegen sowie der Journalistengewerkschaft.",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-pressefreiheit-korrespondentin-taz-einreise-verweigert-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 3,
+      "woerter": 611,
+      "satzlaenge": 17,
+      "langeWoerter": 38
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 20:26",
+     "fokus": "–",
+     "text": "Israel hat nach Informationen der ARD einer Journalistin der Tageszeitung taz die Arbeitserlaubnis als Korrespondentin verweigert.",
+     "url": "https://www.deutschlandfunk.de/israel-verweigert-taz-journalistin-arbeitserlaubnis-als-korrespondentin-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "12.10.26, 17:51",
+     "fokus": "Einordnung und Reaktionen",
+     "text": "Die Süddeutsche Zeitung beleuchtet die Argumente der taz sowie die Einordnung der Organisation Reporter ohne Grenzen zur Pressefreiheit.",
+     "url": "https://www.sueddeutsche.de/medien/taz-israel-serena-bilanceri-arbeitsvisum-einreise-li.3562689",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 382,
+      "satzlaenge": 22,
+      "langeWoerter": 36
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Welt",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "12.10.26, 17:37",
+     "fokus": "Zitate und Vorwürfe",
+     "text": "Die Welt konzentriert sich auf die genauen Zitate des Diaspora-Ministeriums und die Reaktionen der Journalistin über soziale Medien.",
+     "url": "https://www.welt.de/politik/deutschland/article6accf89b1c1b22b7c031bafc/serena-bilanceri-keinen-fuss-in-das-land-setzen-israel-verweigert-taz-korrespondentin-visum-und-einreise.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 388,
+      "satzlaenge": 23,
+      "langeWoerter": 37
+     },
+     "traeger": "WeltN24 GmbH, gehört zur Axel Springer SE",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "12.10.26, 17:42",
+     "fokus": "Eigener Fall und Gesetzesgrundlage",
+     "text": "Die taz nennt als betroffenes Medium die genauen juristischen Grundlagen in Israel sowie weitere betroffene internationale Journalisten.",
+     "url": "https://taz.de/In-eigener-Sache/!6220895/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 4,
+      "woerter": 753,
+      "satzlaenge": 17,
+      "langeWoerter": 38
+     },
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit der juristischen Hintergründe",
+     "Die taz nennt exakt die Gesetzesänderung von Februar 2025 und vier Kriterien, während andere Medien diese Details kürzer fassen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Israelische Behörden und die taz-Korrespondentin Serena Bilanceri",
+    "was": "Verweigerung von Visum und Einreise für eine Journalistin",
+    "wann": "Oktober 2026",
+    "wo": "Israel und Jordanien",
+    "wie": "Durch behördliche Entscheidungen auf Basis von Gesetzen",
+    "warum": "Wegen früherer journalistischer Kommentare laut Diaspora-Ministerium",
+    "quellenlage": "Meldungen von Agenturen und mehreren Tageszeitungen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die israelische Regierung hat der Journalistin Serena Bilanceri ein Arbeitsvisum verweigert und ihr damit auch die Einreise in das Land untersagt. Das teilte die Tageszeitung taz mit, für die Bilanceri als offizielle Korrespondentin für Israel und die Palästinensergebiete tätig ist. Die Redaktion und die Chefredaktion der taz äußerten sich empört über diese Entscheidung. Sie werten das Vorgehen als erheblichen Eingriff in die Pressefreiheit. Nach Angaben der taz hält sich die Betroffene derzeit in Jordanien auf.",
+      "Die israelische Bevölkerungs- und Einwanderungsbehörde sowie das Ministerium für Diaspora-Angelegenheiten und zur Bekämpfung des Antisemitismus bestätigten das Vorgehen. Laut diesen Behörden stützt sich die Maßnahme auf eine Gesetzesänderung aus dem Februar 2025. Dieses Gesetz sieht vor, dass Aufenthaltsgenehmigungen unter bestimmten Bedingungen verweigert oder entzogen werden können. Zu den Kriterien zählen neben der Leugnung des Holocaust und des 7. Oktobers auch Aufrufe zu internationaler Strafverfolgung oder zu einem Boykott Israels.",
+      "Laut übereinstimmenden Medienberichten stützt sich die israelische Regierung auf frühere Veröffentlichungen der Journalistin. Das Ministerium für Diaspora-Angelegenheiten zitierte aus zwei Kommentaren Bilanceris aus dem Jahr 2025. In diesen Texten hatte sie über die humanitäre Notlage im Gazastreifen sowie über Gewalt jüdischer Siedler gegen Palästinenser im Westjordanland berichtet. Die Behörden bewerten diese Berichte und Forderungen nach Sanktionen als Boykottaufrufe gegen den Staat Israel."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Bereits in der Vergangenheit gab es nach Angaben der taz Schwierigkeiten bei der Ein- und Ausreise der Journalistin. Im Juli 2025 wurde ihr Computer am Flughafen von Tel Aviv beschlagnahmt, als sie nach Wien fliegen wollte. Die Organisation Reporter ohne Grenzen untersuchte das Gerät später und erklärte, ein unbefugter Zugriff sei sehr wahrscheinlich gewesen. Die taz teilte zudem mit, dass die Journalistin das Gerät schwer beschädigt und unbrauchbar zurückerhalten habe.",
+      "Die israelische Regierung begründet das aktuelle Vorgehen mit Aussagen von Generaldirektor Avi Cohen Scali vom Ministerium für Diaspora-Angelegenheiten. Er erklärte laut der Jerusalem Post, dass antiisraelische Akteure und Personen, die das Land verleumden, keinen Fuß auf israelischen Boden setzen sollten. Boykottaufrufe unter dem Deckmantel des professionellen Journalismus würden nicht geduldet. Mehrere israelische Medien hatten zuvor über diese offizielle Position und den zugrundeliegenden Fall berichtet.",
+      "Neben Serena Bilanceri sind nach Angaben der taz seit 2025 vier weiteren ausländischen Journalisten die Einreise oder der Aufenthalt in Israel verweigert worden. Zu den Betroffenen gehören die französische Journalistin Alice Froussard, der spanische Journalist Queralt Castillo, der französische Fotojournalist Frédérique Le Brun sowie der italienische Journalist und Fotograf Alessandro Stefanelli. Auch diesen Personen wurde der Zutritt zu dem Land vermutlich im Rahmen der gesetzlichen Regelungen verwehrt."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "In den genannten Kommentaren aus dem Jahr 2025 hatte die taz-Korrespondentin über die Situation in den Palästinensergebieten geschrieben. Sie thematisierte die schlechte humanitäre Lage im Gazastreifen und erwähnte Pläne der EU-Kommission für Sanktionen gegen Israel. Dabei kritisierte sie, dass die Bundesregierung solche Sanktionen damals verhindert hatte, und bezeichnete diese Maßnahmen als notwendig.",
+      "In einem weiteren Text befasste sich die Journalistin mit der Gewalt jüdischer Siedler gegen Palästinenser im Westjordanland. Sie sprach in diesem Zusammenhang von einer radikalen Vertreibungsstrategie und forderte wegen der Verletzung des Völkerrechts finanzielle und militärische Sanktionen. Die taz betonte, dass diese Positionen von der Europäischen Union und weiteren Staaten in ähnlicher Form geäußert worden seien.",
+      "Die internationale Staatengemeinschaft bewertet die Siedlungspolitik im Westjordanland unterschiedlich. Laut den Berichten haben inzwischen zehn Länder, darunter Großbritannien und Frankreich, Sanktionen gegen israelische Siedler auf den Weg gebracht. Deutschland hat sich diesen Schritten bisher nicht angeschlossen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Eine Korrespondentin oder ein Korrespondent ist eine professionelle Journalistin oder ein Journalist, die oder der dauerhaft aus einer bestimmten Region oder einem fremden Land für ein Medienhaus berichtet. Dafür ist in vielen Staaten ein offizielles Arbeitsvisum sowie eine staatliche Akkreditierung erforderlich.",
+      "Das Ministerium für Diaspora-Angelegenheiten ist eine staatliche Behörde des Staates Israel. Sie kümmert sich um die Verbindungen zu jüdischen Gemeinden außerhalb Israels und bekämpft nach eigenen Angaben weltweit den Antisemitismus."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Die Chefredaktion der taz wies die Vorwürfe der israelischen Regierung entschieden zurück. Sie erklärte, Serena Bilanceri habe zu keinem Zeitpunkt zu einem Boykott des Staates Israel aufgerufen. Die Regierung unter Ministerpräsident Benjamin Netanjahu verlasse mit diesem Vorgehen den Boden der demokratischen Rechtsstaatlichkeit.",
+      "Auch Serena Bilanceri äußerte sich öffentlich über die Plattform X zu den Vorwürfen. Sie betonte, niemals einen Boykott befürwortet zu haben, sondern lediglich Kritik an Regierungsmaßnahmen im Westjordanland geübt zu haben. Wer so handele, verbiete keine antiisraelischen Akteure, sondern ausländische Journalisten.",
+      "Die Organisation Reporter ohne Grenzen kritisierte die Entscheidung ebenfalls scharf. Geschäftsführer Christian Mihr erklärte, dass Kritik an der Regierung, an der Besatzung oder an der humanitären Lage kein Beleg für fehlende journalistische Unabhängigkeit sei. Zudem äußerte sich Anat Saragusti von der israelischen Journalistengewerkschaft besorgt. Sie sagte dem ARD-Studio Tel Aviv, dass sich die Pressefreiheit im Land rapide verschlechtert."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die taz forderte die Bundesregierung dazu auf, sich bei der israelischen Regierung für die Einhaltung der Grund- und Menschenrechte einzusetzen. Dazu gehöre auch die Meinungs- und Pressefreiheit. Zudem verlangt die Zeitung, dass ihrer Mitarbeiterin die Wiedereinreise und die uneingeschränkte Wiederaufnahme der Arbeit ermöglicht wird.",
+      "Als möglicher Zeitpunkt für politische Veränderungen in Israel werden in den Berichten die Parlamentswahlen am 27. Oktober genannt. Ob diese Wahlen zu einem neuen Regierungsbündnis führen und ob eine neue Regierung die Praxis der Sanktionierung von Journalistinnen und Journalistinnen beendet, bleibt nach Angaben der Berichte jedoch völlig offen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Februar 2025",
+     "Eine Gesetzesänderung in Israel ermöglicht den Entzug von Aufenthaltsgenehmigungen bei Boykottaufrufen."
+    ],
+    [
+     "Juli 2025",
+     "Der Computer der Journalistin Serena Bilanceri wird am Flughafen Tel Aviv beschlagnahmt und beschädigt."
+    ],
+    [
+     "Oktober 2026",
+     "Israel verweigert der taz-Korrespondentin offiziell das Arbeitsvisum und die Einreise."
+    ],
+    [
+     "27. Oktober 2026",
+     "In Israel finden Parlamentswahlen statt, deren Ausgang laut Berichten offen ist."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Benjamin Netanyahu",
+     "bildunterschrift": "Der israelische Ministerpräsident Benjamin Netanyahu, dessen Regierung die Richtlinien für die Einreise und Akkreditierung von Medienvertretern verantwortet."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "West Bank",
+     "bildunterschrift": "Das Westjordanland, aus dessen Regionen und Konflikten die betroffene Journalistin berichtete."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Knesset",
+     "bildunterschrift": "Das israelische Parlamentsgebäude in Jerusalem, in dem Gesetze wie die Regelungen zur Aufenthaltsgenehmigung beschlossen wurden."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Press pass",
+     "bildunterschrift": "Ein Presseausweis als Symbol für die journalistische Arbeit und die in den Berichten thematisierte Pressefreiheit."
+    }
+   ],
+   "ort": {
+    "name": "Jerusalem, Israel"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Korrespondentin",
+      "Eine Journalistin, die dauerhaft aus einem bestimmten Land oder einer Region für ein Medienhaus berichtet."
+     ],
+     [
+      "Pressefreiheit",
+      "Das Recht von Medien und Journalisten, frei und unabhängig zu berichten, ohne dass der Staat sie zensiert."
+     ],
+     [
+      "Sanktionen",
+      "Strafmaßnahmen gegen einen Staat, um diesen zu einem bestimmten Verhalten zu bewegen."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente nennen die israelischen Behörden für die Einreiseverweigerung?",
+     "Warum bewerten die taz und Organisationen wie Reporter ohne Grenzen das Vorgehen als Gefahr für die Demokratie?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welcher Zeitung gehört die betroffene Korrespondentin Serena Bilanceri an?",
+      "optionen": [
+       "Süddeutsche Zeitung",
+       "taz",
+       "Welt"
+      ],
+      "richtig": 1,
+      "erklaerung": "Serena Bilanceri ist Korrespondentin für die Tageszeitung taz."
+     },
+     {
+      "frage": "Womit begründen die israelischen Behörden die Entscheidung laut den Berichten?",
+      "optionen": [
+       "Mit früheren Texten und vermeintlichen Boykottaufrufen",
+       "Mit fehlenden Ausweispapieren am Flughafen",
+       "Mit unbezahlten Steuern der Journalistin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Ministerium beruft sich auf frühere Kommentare der Journalistin und wirft ihr Boykottaufrufe vor."
+     },
+     {
+      "frage": "Wie bewertet die Chefredaktion der taz den Vorwurf der Behörden?",
+      "optionen": [
+       "Sie gibt den Behörden recht.",
+       "Sie weist den Vorwurf zurück und spricht von einem Eingriff in die Pressefreiheit.",
+       "Sie äußert sich dazu überhaupt nicht."
+      ],
+      "richtig": 1,
+      "erklaerung": "Die taz weist den Vorwurf eines Boykottaufrufs entschieden zurück und kritisiert den Vorgang als Angriff auf die Pressefreiheit."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Israel hat einer Journalistin aus Deutschland die Einreise verboten.",
+    "absaetze": [
+     "Serena Bilanceri arbeitet als Korrespondentin für die Zeitung taz in Israel.",
+     "Die israelische Regierung hat ihr nun ein Arbeitsvisum und die Einreise verweigert.",
+     "Die Behörden werfen der Journalistin vor, in früheren Texten zu einem Boykott gegen Israel aufgerufen zu haben.",
+     "Die taz und Organisationen wie Reporter ohne Grenzen weisen den Vorwurf zurück.",
+     "Sie sagen, dass die Regierung damit die wichtige Pressefreiheit einschränkt."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Israel hat der taz-Korrespondentin Serena Bilanceri die Einreise verweigert.",
+     "Die Behörden werfen ihr vor, zu einem Boykott des Landes aufgerufen zu haben.",
+     "Die Zeitung und Organisationen kritisieren das Vorgehen als Angriff auf die Pressefreiheit."
+    ],
+    "lang": [
+     "Israel hat der Korrespondentin Serena Bilanceri von der Tageszeitung taz die Einreise verweigert.",
+     "Das teilte die Zeitung mit.",
+     "Die israelische Regierung begründet den Schritt mit früheren Texten der Journalistin.",
+     "In diesen Texten ging es um den Gazastreifen und das Westjordanland.",
+     "Das Ministerium für Diaspora-Angelegenheiten wirft ihr vor, zu Boykotten aufgerufen zu haben.",
+     "Die Chefredaktion der taz weist diesen Vorwurf zurück.",
+     "Nach Angaben der Zeitung handelt es sich um einen schweren Eingriff in die Pressefreiheit.",
+     "Auch die Organisation Reporter ohne Grenzen kritisierte die Entscheidung der israelischen Regierung.",
+     "Seit dem Jahr zweitausendfünfundzwanzig ist bereits mehreren ausländischen Journalisten die Einreise nach Israel verwehrt worden.",
+     "Ob die Parlamentswahlen Ende Oktober zu Veränderungen führen, ist völlig offen."
+    ],
+    "einfach": [
+     "Israel hat einer deutschen Journalistin die Einreise verboten.",
+     "Serena Bilanceri schreibt für die Zeitung taz über das Land.",
+     "Die Regierung wirft ihr vor, zu einem Boykott aufgerufen zu haben.",
+     "Die Zeitung sagt, das stimmt nicht.",
+     "Experten sind besorgt um die Freiheit der Presse."
+    ]
+   },
+   "kurz": [
+    "Israel hat der taz-Korrespondentin Serena Bilanceri Visum und Einreise verweigert.",
+    "Behörden begründen dies mit früheren Kommentaren der Journalistin und Boykottvorwürfen.",
+    "Die taz und Reporter ohne Grenzen kritisieren die Entscheidung als Angriff auf die Pressefreiheit."
+   ],
+   "fakten": [
+    [
+     "Parlamentswahlen in Israel",
+     "27. Oktober 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "pressefreiheit-israel",
+    "titel": "Pressefreiheit und Berichterstattung in Israel"
+   },
+   "bildInfo": {
+    "titel": "Benjamin Netanyahu, February 2023.jpg",
+    "beschreibung": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
+    "urheber": "Avi Ohayon",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artikel": "Benjamin Netanjahu",
+    "sprache": "de",
+    "art": "person",
+    "suchbegriff": "Benjamin Netanyahu",
+    "bildunterschrift": "Benjamin Netanjahu, der Premierminister von Israel, dessen Regierung das Visum verweigerte.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Benjamin Netanyahu, February 2023.jpg",
+     "beschreibung": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
+     "urheber": "Avi Ohayon",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Benjamin Netanjahu",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Benjamin Netanyahu",
+     "bildunterschrift": "Benjamin Netanjahu, der Premierminister von Israel, dessen Regierung das Visum verweigerte.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Knesset front side - 2022.jpg",
+     "beschreibung": "Photograph of the Knesset in Jerusalem (Israeli parliament), front side",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Knesset_front_side_-_2022.jpg/1280px-Knesset_front_side_-_2022.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/Knesset_front_side_-_2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Knesset_front_side_-_2022.jpg",
+     "urheber": "Clema12",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "institution",
+     "suchbegriff": "Knesset",
+     "bildunterschrift": "Die Knesset in Jerusalem, der Sitz des israelischen Parlaments.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Jerusalem, Israel",
+    "lat": 31.779,
+    "lon": 35.226
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "wirtschaftsnobelpreis-2026",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-12T18:26:42.000Z",
+   "titel": "Wirtschaftsnobelpreis geht an US-Ökonomen Robert E. Hall und Michael Woodford",
+   "vorspann": "Die US-amerikanischen Wissenschaftler Robert E. Hall und Michael Woodford erhalten den diesjährigen Preis für Wirtschaftswissenschaften in Gedenken an Alfred Nobel. Die Königlich-Schwedische Akademie der Wissenschaften würdigt damit ihre Forschungsarbeiten zur makroökonomischen Stabilisierungspolitik.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Die Königlich-Schwedische Akademie der Wissenschaften verleiht den Wirtschaftspreis an Robert E. Hall und Michael Woodford.",
+    "Die beiden US-Ökonomen werden für ihre Modelle zur besseren Steuerung von Geld- und Fiskalpolitik bei Konjunkturschwankungen ausgezeichnet.",
+    "Der Preis ist mit zwölf Millionen schwedischen Kronen dotiert und wird offiziell von der schwedischen Notenbank gestiftet.",
+    "Die feierliche Übergabe an die beiden Professoren von der Stanford University und der Columbia University erfolgt am 10. Dezember in Stockholm."
+   ],
+   "einig": [
+    [
+     "Robert E. Hall und Michael Woodford aus den USA erhalten in diesem Jahr den Wirtschaftspreis in Gedenken an Alfred Nobel.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit"
+     ]
+    ],
+    [
+     "Die Auszeichnung wird von der Königlich-Schwedischen Akademie der Wissenschaften in Stockholm vergeben.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Die Begründung stützt sich auf die Entwicklung makroökonomischer Modelle zur effektiveren Stabilisierungspolitik.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Hall lehrt an der Stanford University, Woodford an der Columbia University.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Woodford nannte die Auszeichnung telefonisch aus New York eine enorme Ehre und Überraschung.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Der Preis ist in diesem Jahr mit zwölf Millionen schwedischen Kronen dotiert.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "Der Wirtschaftspreis geht als einziger nicht auf das Testament von Alfred Nobel zurück und wird von der schwedischen Notenbank gestiftet.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Der Preis wurde 1968 nachträglich gestiftet und 1969 erstmals verliehen.",
+     [
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Die offizielle Übergabe findet am 10. Dezember in Stockholm statt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "John Hassler ist der Vorsitzende des zuständigen Komitees für den Preis.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Herkunft des Vorjahrespreisträgers Joel Mokyr: ZDFheute nennt ihn israelisch-amerikanisch, der Spiegel bezeichnet ihn als gebürtigen Niederländer."
+   ],
+   "positionen": [
+    [
+     "Königlich-Schwedische Akademie der Wissenschaften",
+     "Hall und Woodford haben Modelle geschaffen, mit denen Geld- und Finanzpolitik Konjunkturschwankungen abfedern können.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "John Hassler (Vorsitzender des Komitees)",
+     "Die Preisträger liefern eine solide Grundlage, damit Zentralbanken und Regierungen Schocks wie Energiekrisen bewältigen können.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Michael Woodford (Preisträger)",
+     "Bezeichnet die Auszeichnung als enorme Ehre und Überraschung.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Es gibt keine Stellungnahme des zweiten Preisträgers Robert E. Hall.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 13:06",
+     "fokus": "Bekanntgabe und Preisträger",
+     "text": "Berichtet über die Begründung des Komitees und zitiert die Generalsekretärin Ellen Moons.",
+     "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/nobelpreis-wirtschaft-146.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 328,
+      "satzlaenge": 18,
+      "langeWoerter": 37
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 12:20",
+     "fokus": "Umfeld und Vorjahressieger",
+     "text": "Erwähnt die Preisträger und nennt zusätzliche Gewinner der anderen Kategorien der Vorwoche.",
+     "url": "https://www.zdfheute.de/wirtschaft/wirtschaft-nobelpreis-wirtschaftspreis-woodford-hall-us-forscher-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 468,
+      "satzlaenge": 17,
+      "langeWoerter": 41
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.10.26, 20:26",
+     "fokus": "Kurzmeldung zur Vergabe",
+     "text": "Beschränkt sich auf die Nachricht der Preisverkündung.",
+     "url": "https://www.deutschlandfunk.de/us-oekonomen-robert-e-hall-und-michael-woodford-erhalten-den-sogenannten-wirtschaftsnobelpreis-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "12.10.26, 12:00",
+     "fokus": "Theorie und Historie",
+     "text": "Betont die Rolle der Preisträger bei Konjunkturschwankungen und skizziert die Historie.",
+     "url": "https://www.spiegel.de/wirtschaft/wirtschafsnobelpreis-geht-an-us-oekonomen-robert-e-hall-und-michael-woodford-a-c5499b28-236f-4315-85ac-3563147ba06b#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 380,
+      "satzlaenge": 20,
+      "langeWoerter": 38
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "12.10.26, 13:04",
+     "fokus": "Kurznachricht Krisenforschung",
+     "text": "Meldet die Vergabe an die beiden Makroökonomen.",
+     "url": "https://www.zeit.de/wirtschaft/2026-10/wirtschaftsnobelpreis-geht-an-zwei-makrooekonomen-aus-den-usa-gxe",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Umfang der Berichterstattung",
+     "Deutschlandfunk und Zeit bringen kurze Meldungen, während Tagesschau/ARD, ZDFheute und Spiegel ausführlich berichten."
+    ],
+    [
+     "Angaben zu anderen Preisträgern",
+     "ZDFheute nennt als einziges Medium konkrete Details zu den Trägern der Preise für Medizin, Frieden und Literatur aus der Vorwoche."
+    ],
+    [
+     "Biografische Angaben Joel Mokyr",
+     "ZDFheute und Spiegel beschreiben die Herkunft des Vorjahrespreisträgers unterschiedlich."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Robert E. Hall und Michael Woodford",
+    "was": "Auszeichnung mit dem Wirtschaftspreis",
+    "wann": "Im Oktober",
+    "wo": "Stockholm, Schweden",
+    "wie": "Bekanntgabe durch die Königlich-Schwedische Akademie der Wissenschaften",
+    "warum": "Entwicklung makroökonomischer Modelle zur Stabilisierungspolitik nach Angaben der Akademie",
+    "quellenlage": "Mitteilungen der Königlich-Schwedischen Akademie der Wissenschaften und Presseberichte"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Königlich-Schwedische Akademie der Wissenschaften hat in Stockholm bekanntgegeben, dass der diesjährige Preis für Wirtschaftswissenschaften in Gedenken an Alfred Nobel an die US-Forscher Robert E. Hall und Michael Woodford geht. Die beiden Ökonomen erhalten die Ehrung für ihre theoretischen Arbeiten zur Stabilisierung von Volkswirtschaften. Nach Angaben der Akademie haben sie neue makroökonomische Modelle entwickelt, die eine effektivere Stabilisierungspolitik ermöglichen.",
+      "Die Bekanntgabe des Preises erfolgt traditionell am Montag nach der Verkündung der Nobelpreise der Vorwoche. Offiziell trägt die Auszeichnung den Namen Preis der Schwedischen Reichsbank für Wirtschaftswissenschaften in Gedenken an Alfred Nobel. Die Auszeichnung ist in diesem Jahr mit zwölf Millionen schwedischen Kronen dotiert. Dies entspricht etwas mehr als einer Million Euro. Die Verleihung findet am 10. Dezember in Stockholm statt."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Robert E. Hall ist an der Stanford University im US-Bundesstaat Kalifornien tätig. Michael Woodford forscht und lehrt an der Columbia University in New York City. Nach Angaben von ZDFheute wurde Hall im Jahr 1943 geboren, Woodford im Jahr 1955. Beide Wissenschaftler arbeiten im Bereich der makroökonomischen Stabilisierung. Ihre Arbeiten widmen sich der Frage, wie wirtschaftliche Schwankungen durch politische Maßnahmen verringert werden können.",
+      "Die Generalsekretärin der schwedischen Akademie, Ellen Moons, erklärte bei der Bekanntgabe, dass gut abgestimmte fiskal- und geldpolitische Maßnahmen auf Basis dieser Modelle Konjunkturausschläge abmildern können. John Hassler, der Vorsitzende des zuständigen Komitees, betonte in einer Mitteilung, dass die Arbeiten beider Forscher von Regierungen und Zentralbanken weltweit genutzt werden. Dies helfe dabei, wirtschaftliche Schocks wie Energiekrisen oder plötzliche Veränderungen beim Konsumverhalten zu bewältigen."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "In der vergangenen Woche waren bereits Nobelpreisträgerinnen und Nobelpreisträger in den Kategorien Medizin, Physik, Chemie, Literatur und Frieden verkündet worden. Laut ZDFheute ging der Medizinnobelpreis unter anderem an die beiden deutschen Forscher Peter Hegemann und Georg Nagel. Der Preis für Literatur wurde an die kanadische Dichterin Anne Carson vergeben. Den Friedensnobelpreis bekam die südafrikanische Juristin Navi Pillay für ihren Einsatz für Menschenrechte und Frieden. Der Wirtschaftspreis bildet in jedem Jahr den Abschluss der Bekanntgaben.",
+      "Im vergangenen Jahr war die Auszeichnung an ein Forschertrio verliehen worden. Nach Angaben von ZDFheute und Spiegel erhielten Joel Mokyr sowie Philippe Aghion und Peter Howitt den Preis für Arbeiten zum Wirtschaftswachstum. Während der Spiegel Joel Mokyr als gebürtigen Niederländer beschreibt, bezeichnet ZDFheute ihn als israelisch-amerikanischen Forscher."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der Preis für Wirtschaftswissenschaften nimmt eine Sonderstellung ein. Er geht als einziger der Preise nicht auf das Testament des schwedischen Industriellen und Dynamit-Erfinders Alfred Nobel zurück. Der Wirtschaftspreis wurde 1968 nachträglich gestiftet und 1969 erstmals vergeben. Anders als die anderen Auszeichnungen wird der Preis von der schwedischen Notenbank gestiftet. Deshalb nennt die Nobel-Stiftung ihn offiziell Preis der Schwedischen Reichsbank für Wirtschaftswissenschaften in Gedenken an Alfred Nobel."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Einer der beiden Preisträger, Michael Woodford, äußerte sich telefonisch aus New York. Er nannte die Auszeichnung eine enorme Ehre. Er sagte, dass es eine große Überraschung sei, sich aber sehr gut anfühle. Von Seiten des Vergabegremiums hob Komiteevorsitzender John Hassler die praktische Relevanz der Modelle für Zentralbanken und Regierungen weltweit hervor."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die feierliche Übergabe der Auszeichnungen findet am 10. Dezember, dem Todestag Alfred Nobels, in der schwedischen Hauptstadt Stockholm statt. Dort werden Robert E. Hall und Michael Woodford den Preis entgegennehmen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "1968",
+     "Die schwedische Notenbank stiftet den Wirtschaftspreis nachträglich."
+    ],
+    [
+     "1969",
+     "Der Wirtschaftspreis wird erstmals vergeben."
+    ],
+    [
+     "2025",
+     "Joel Mokyr, Philippe Aghion und Peter Howitt erhalten den Wirtschaftspreis."
+    ],
+    [
+     "Vorwoche",
+     "Bekanntgabe der Nobelpreise für Medizin, Physik, Chemie, Literatur und Frieden."
+    ],
+    [
+     "Oktober",
+     "Die Akademie in Stockholm gibt Robert E. Hall und Michael Woodford als Preisträger bekannt."
+    ],
+    [
+     "10. Dezember",
+     "Geplante feierliche Preisverleihung in Stockholm am Todestag Alfred Nobels."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Michael Woodford",
+     "bildunterschrift": "Der Ökonom Michael Woodford wurde mit dem Wirtschaftspreis ausgezeichnet."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Robert E. Hall",
+     "bildunterschrift": "Robert E. Hall ist einer der beiden Preisträger des Wirtschaftspreises."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Royal Swedish Academy of Sciences",
+     "bildunterschrift": "Das Gebäude der Königlich-Schwedischen Akademie der Wissenschaften in Stockholm, die den Preis vergibt."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Sveriges Riksbank",
+     "bildunterschrift": "Die schwedische Reichsbank stiftete den Preis im Jahr 1968 nachträglich."
+    }
+   ],
+   "ort": {
+    "name": "Stockholm, Schweden"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Jahreszahl 2026 aus dem Titel und Text entfernt, da in den Originalberichten (außer bei Jahr 2025) kein konkretes Verleihungsjahr genannt wird.",
+    "Wort Jahreszahl bei den Biografien korrigiert und Spekulationen im Abschnitt Zum Verständnis entfernt."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Makroökonomie",
+      "Ein Teilgebiet der Wirtschaftswissenschaft, das sich mit gesamtwirtschaftlichen Abläufen wie der Inflation oder dem Wirtschaftswachstum beschäftigt."
+     ],
+     [
+      "Fiskalpolitik",
+      "Alle Maßnahmen eines Staates über Steuern und Staatsausgaben, um die Wirtschaft zu beeinflussen."
+     ],
+     [
+      "Geldpolitik",
+      "Die Maßnahmen von Zentralbanken, um die Geldmenge und die Zinsen zu steuern."
+     ]
+    ],
+    "fragen": [
+     "Warum unterscheidet sich der Wirtschaftspreis von den klassischen Nobelpreisen?",
+     "Welche Rolle spielen makroökonomische Modelle für Regierungen und Zentralbanken in Krisenzeiten?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer erhält den diesjährigen Wirtschaftspreis?",
+      "optionen": [
+       "Robert E. Hall und Michael Woodford",
+       "Joel Mokyr und Philippe Aghion",
+       "Peter Hegemann und Georg Nagel"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichte stimmen überein, dass Robert E. Hall und Michael Woodford die Preisträger sind."
+     },
+     {
+      "frage": "Von welcher Institution wird der Preis gestiftet?",
+      "optionen": [
+       "Von der schwedischen Regierung",
+       "Von der schwedischen Notenbank",
+       "Von der Universität Stockholm"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut den Berichten wird der Preis von der schwedischen Notenbank (Reichsbank) gestiftet."
+     },
+     {
+      "frage": "Wann findet die feierliche Verleihung statt?",
+      "optionen": [
+       "Am zehnten Dezember",
+       "Am zwölften Oktober",
+       "Am ersten Januar"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Auszeichnung wird laut den Berichten am 10. Dezember, dem Todestag von Alfred Nobel, in Stockholm verliehen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Zwei Forscher aus den Vereinigten Staaten erhalten in diesem Jahr den Preis für Wirtschaftswissenschaften.",
+    "absaetze": [
+     "Die Königlich-Schwedische Akademie der Wissenschaften hat die Gewinner bekanntgegeben.",
+     "Die Preisträger heißen Robert E. Hall und Michael Woodford.",
+     "Beide Wissenschaftler haben Modelle entwickelt, die der Politik und den Zentralbanken bei der Bewältigung von Wirtschaftskrisen helfen.",
+     "Die Auszeichnung wird im Dezember in Stockholm überreicht und ist mit zwölf Millionen schwedischen Kronen dotiert."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Wirtschaftspreis geht in diesem Jahr an die beiden US-Forscher Robert E. Hall und Michael Woodford.",
+     "Nach Angaben der Königlich-Schwedischen Akademie der Wissenschaften erhalten sie die Auszeichnung für makroökonomische Modelle.",
+     "Die Modelle sollen helfen, die Wirtschaft in Krisen zu stabilisieren."
+    ],
+    "lang": [
+     "Der diesjährige Wirtschaftspreis geht an die beiden US-amerikanischen Forscher Robert E. Hall und Michael Woodford.",
+     "Das gab die Königlich-Schwedische Akademie der Wissenschaften in Stockholm bekannt.",
+     "Die beiden Ökonomen erhalten die Auszeichnung für die Entwicklung neuer makroökonomischer Modelle.",
+     "Nach Angaben der Akademie ermöglichen diese Modelle eine effektivere Stabilisierungspolitik bei Konjunkturschwankungen.",
+     "Der Vorsitzende des Komitees, John Hassler, erklärte, dass Regierungen und Zentralbanken weltweit diese Modelle nutzen.",
+     "Michael Woodford nannte die Auszeichnung in einem telefonischen Gespräch eine enorme Ehre und eine große Überraschung.",
+     "Der Preis ist mit zwölf Millionen schwedischen Kronen dotiert.",
+     "Im Gegensatz zu anderen Preisen geht diese Auszeichnung nicht auf das Testament von Alfred Nobel zurück, sondern wird von der schwedischen Notenbank gestiftet.",
+     "Die feierliche Übergabe findet am zehnten Dezember in Stockholm statt."
+    ],
+    "einfach": [
+     "Zwei Forscher aus den Vereinigten Staaten bekommen einen wichtigen Wirtschaftspreis.",
+     "Die Namen der Gewinner sind Robert E. Hall und Michael Woodford.",
+     "Sie haben Modelle für die Wirtschaft erfunden.",
+     "Diese Modelle helfen dabei, die Wirtschaft in Krisen zu stabilisieren.",
+     "Der Preis wird im Dezember in Schweden überreicht."
+    ]
+   },
+   "kurz": [
+    "Der Wirtschaftspreis geht an die US-Forscher Robert E. Hall und Michael Woodford.",
+    "Die Akademie ehrt sie für makroökonomische Modelle zur Stabilisierung der Wirtschaft.",
+    "Der Preis ist mit zwölf Millionen schwedischen Kronen dotiert.",
+    "Die feierliche Verleihung findet am 10. Dezember in Stockholm statt."
+   ],
+   "fakten": [
+    [
+     "Dotierung des Preises",
+     "Zwölf Millionen schwedische Kronen"
+    ],
+    [
+     "Gründungsjahr des Preises",
+     "1968"
+    ],
+    [
+     "Erste Verleihung",
+     "1969"
+    ],
+    [
+     "Verleihungsdatum",
+     "Zehnter Dezember"
+    ]
+   ],
+   "dossier": {
+    "slug": "wirtschaftsnobelpreis",
+    "titel": "Preise für Wirtschaftswissenschaften"
+   },
+   "bildInfo": {
+    "titel": "Hall-Robert Headshot.png",
+    "beschreibung": "Robert Hall (economist)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hall-Robert_Headshot.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hall-Robert_Headshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Hall-Robert_Headshot.png",
+    "urheber": "Bellhorn89",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artikel": "Robert Ernest Hall",
+    "sprache": "de",
+    "art": "person",
+    "suchbegriff": "Robert E. Hall",
+    "bildunterschrift": "Der US-amerikanische Wirtschaftswissenschaftler Robert E. Hall, einer der Preisträger.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Hall-Robert Headshot.png",
+     "beschreibung": "Robert Hall (economist)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hall-Robert_Headshot.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Hall-Robert_Headshot.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hall-Robert_Headshot.png",
+     "urheber": "Bellhorn89",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "artikel": "Robert Ernest Hall",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Robert E. Hall",
+     "bildunterschrift": "Der US-amerikanische Wirtschaftswissenschaftler Robert E. Hall, einer der Preisträger.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Main building of the Royal Swedish Academy of Sciences (Kungliga Vetenskapsakademien), Frescati, Norra Djurgården, Stockholm.jpg",
+     "beschreibung": "Main building of the Royal Swedish Academy of Sciences , Frescati , Norra Djurgården, Stockholm.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Main_building_of_the_Royal_Swedish_Academy_of_Sciences_%28Kungliga_Vetenskapsakademien%29%2C_Frescati%2C_Norra_Djurg%C3%A5rden%2C_Stockholm.jpg/1280px-Main_building_of_the_Royal_Swedish_Academy_of_Sciences_%28Kungliga_Vetenskapsakademien%29%2C_Frescati%2C_Norra_Djurg%C3%A5rden%2C_Stockholm.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Main_building_of_the_Royal_Swedish_Academy_of_Sciences_%28Kungliga_Vetenskapsakademien%29%2C_Frescati%2C_Norra_Djurg%C3%A5rden%2C_Stockholm.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Main_building_of_the_Royal_Swedish_Academy_of_Sciences_(Kungliga_Vetenskapsakademien),_Frescati,_Norra_Djurg%C3%A5rden,_Stockholm.jpg",
+     "urheber": "Hackspett",
+     "lizenz": "CC BY-SA 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+     "artikel": "Königlich Schwedische Akademie der Wissenschaften",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Royal Swedish Academy of Sciences",
+     "bildunterschrift": "Das Hauptgebäude der Königlich Schwedischen Akademie der Wissenschaften in Stockholm.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Stockholm, Schweden",
+    "lat": 59.325,
+    "lon": 18.071
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
   {
    "id": "mecklenburg-vorpommern-koalitionsverhandlungen",
    "rubrik": "Deutschland",
@@ -5365,7 +7100,7 @@
      "s": [
       0.25,
       3.88,
-      8.0,
+      8,
       11.34,
       16.39
      ]
@@ -5381,7 +7116,7 @@
     {
      "k": "Was bedeutet eigentlich Geheimdienst? Eine staatliche Organisation, die Informat",
      "d": "432821bfd0.mp3",
-     "l": 10.0,
+     "l": 10,
      "s": [
       0.25,
       3.43
@@ -11051,1198 +12786,6 @@
       32.17,
       40.29,
       45.87
-     ]
-    }
-   ]
-  },
-  {
-   "id": "afd-landtagsgeraet-sachsen-anhalt",
-   "rubrik": "Deutschland",
-   "zeit": "2026-10-09T15:48:19.000Z",
-   "aktualisiert": "aktualisiert um 18:08 Uhr",
-   "titel": "Rückzug eines Leasingangebots für den Dienstwagen des Landtagspräsidenten in Sachsen-Anhalt",
-   "vorspann": "Nach der Wahl des AfD-Politikers Tobias Rausch zum Landtagspräsidenten in Sachsen-Anhalt hat der Automobilhersteller BMW ein Leasingangebot für einen Dienstwagen zurückgezogen. Rausch übt daran Kritik, während der Autokonzern den Vorgang nicht kommentieren möchte.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "BMW hat ein Leasingangebot für den Dienstwagen des neuen Landtagspräsidenten in Sachsen-Anhalt, Tobias Rausch, zurückgezogen.",
-    "Rausch kritisierte die Entscheidung, während das Unternehmen den Fall nicht kommentieren wollte.",
-    "Das Angebot war laut Landtagsverwaltung das einzige eines deutschen Premiumherstellers für diesen Zweck.",
-    "Vertreter der AfD prüften daraufhin öffentlich alternative Optionen, darunter eine Anfrage an den Hersteller Tesla."
-   ],
-   "einig": [
-    [
-     "BMW hat ein Leasingangebot für den Dienstwagen des Landtagspräsidenten Tobias Rausch zurückgezogen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Zeit"
-     ]
-    ],
-    [
-     "Das Angebot von BMW war das einzige eines namhaften deutschen Herstellers für dieses Fahrzeug.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Tobias Rausch ist der erste AfD-Politiker in dem Amt des Landtagspräsidenten.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ],
-    [
-     "BMW wollte den Fall nicht kommentieren und äußerte sich grundsätzlich nicht zu Kundenbeziehungen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die Entscheidung von BMW in einem direkten Zusammenhang mit der AfD-Mitgliedschaft von Tobias Rausch steht, ist unklar; Rausch hält dies für möglich, während BMW sich dazu nicht äußert.",
-    "Ob Tesla auf die Anfrage der AfD-Politikerin Beatrix von Storch reagieren wird, ist noch unklar."
-   ],
-   "positionen": [
-    [
-     "Tobias Rausch (Landtagspräsident, AfD)",
-     "Kritisierte den Schritt als fragwürdig und äußerte Verwunderung, Enttäuschung sowie Kritik daran.",
-     "Tagesschau/ARD,ZDFheute,Zeit"
-    ],
-    [
-     "Beatrix von Storch (Bundestagsfraktionsvize, AfD)",
-     "Fragte öffentlich über den Kurznachrichtendienst X an, ob Tesla einen Dienstwagen zur Verfügung stellen würde.",
-     "ZDFheute,Spiegel"
-    ],
-    [
-     "BMW (Unternehmenszentrale / Sprecher)",
-     "Äußerte sich nicht zu dem Fall und betonte, grundsätzlich keine Auskunft zu Kundenbeziehungen zu geben.",
-     "Tagesschau/ARD,ZDFheute,Spiegel"
-    ]
-   ],
-   "fehlend": "Stimmen von Mercedes, Audi und Tesla sowie offizielle Reaktionen anderer Parteien im Landtag von Sachsen-Anhalt zu dem Vorfall.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 16:23",
-     "fokus": "Offizieller Brief und Reaktionen",
-     "text": "Die Tagesschau beleuchtet vor allem den offenen Brief von Rausch an den BMW-Vorstand und die Reaktionen des Politikers gegenüber der Deutschen Presse-Agentur.",
-     "url": "https://www.tagesschau.de/inland/regional/sachsenanhalt/tobias-rausch-dienstwagen,bmw-zieht-leasingvertrag-zurueck-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 1,
-      "woerter": 296,
-      "satzlaenge": 14,
-      "langeWoerter": 37
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 16:35",
-     "fokus": "Zitate und wirtschaftlicher Kontext",
-     "text": "ZDFheute hebt Rauschs Reaktionen gegenüber der Mitteldeutschen Zeitung hervor und stellt einen Bezug zu den Äußerungen des BMW-Vorstandschefs her.",
-     "url": "https://www.zdfheute.de/politik/deutschland/bmw-dienstwagen-landtag-afd-ablehnung-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 492,
-      "satzlaenge": 14,
-      "langeWoerter": 37
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 17:48",
-     "fokus": "–",
-     "text": "Sachsen-Anhalts Landtagspräsident Rausch hat den Rückzug des Leasingangebots von BMW für seinen Dienstwagen kritisiert.",
-     "url": "https://www.deutschlandfunk.de/bmw-verweigert-neuen-afd-landtagspraesidenten-offenbar-den-dienstwagen-rausch-schreibt-an-autokonzer-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "09.10.26, 12:05",
-     "fokus": "Hintergrund zur X-Anfrage",
-     "text": "Der Spiegel fokussiert sich neben den Details zum bisherigen Fahrzeug auch stark auf die Anfrage der AfD-Politikerin Beatrix von Storch an den US-Autobauer Tesla.",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/sachsen-anhalt-afd-landtagspraesident-rausch-verliert-bmw-dienstwagen-a-08a69555-40c9-41f4-a609-56946513271d#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 464,
-      "satzlaenge": 14,
-      "langeWoerter": 34
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "09.10.26, 16:46",
-     "fokus": "Erstmeldung und Verwaltung",
-     "text": "Die Zeit liefert die Erstinformation über den Vorgang und stützt sich dabei auf Angaben der Landtagsverwaltung.",
-     "url": "https://www.zeit.de/politik/deutschland/2026-10/tobias-rausch-afd-bmw-dienstwagen-sachsen-anhalt-gxe",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Zitate und Fundorte",
-     "Die Berichte nennen unterschiedliche Medien, gegenüber denen sich Rausch äußerte (einmal offene Briefe und DPA, einmal Mitteldeutsche Zeitung)."
-    ],
-    [
-     "Zusätzliche Kontexte",
-     "Einige Medien wie ZDFheute und Spiegel erwähnen detailliert die früheren Aussagen des BMW-Vorstandschefs zur Wirtschaft und das Zitat von Beatrix von Storch zu Tesla, während andere Berichte dies knapper halten."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Der Automobilhersteller BMW und der Landtagspräsident Tobias Rausch",
-    "was": "Rückzug eines Leasingangebots für einen Dienstwagen nach einer Wahl",
-    "wann": "09. Oktober 2026",
-    "wo": "Sachsen-Anhalt, Deutschland",
-    "wie": "Durch schriftliche Zurückziehung des Angebots der Unternehmenszentrale an den Landtag",
-    "warum": "Noch unklar, laut Rausch möglicher Zusammenhang mit seiner AfD-Mitgliedschaft",
-    "quellenlage": "Medienberichte, Landtagsverwaltung und offizielle Schreiben"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Laut übereinstimmenden Medienberichten hat das Unternehmen BMW ein zuvor vorgelegtes Leasingangebot für ein Fahrzeug des Landtagspräsidenten in Sachsen-Anhalt zurückgezogen. Dieser Schritt erfolgte am Tag der Wahl des AfD-Politikers Tobias Rausch in das Amt des Landtagspräsidenten. Zuerst hatte die Wochenzeitung Die Zeit über diesen Vorfall berichtet. Die Landtagsverwaltung bestätigte den Vorgang auf Nachfrage von Medien wie dem Spiegel.",
-      "Mit der Wahl von Tobias Rausch hat zum ersten Mal in der Geschichte der Bundesrepublik Deutschland ein Mitglied der Partei Alternative für Deutschland ein solches Parlamentsamt übernommen. Das betreffende Leasingangebot betraf den offiziellen Dienstwagen des Landtagspräsidenten. Nach Angaben aus den Berichten handelte es sich dabei um das einzige Angebot eines namhaften deutschen Premiumherstellers für dieses spezifische Fahrzeug.",
-      "Das Unternehmen BMW lehnte eine inhaltliche Stellungnahme zu dem Vorfall ab. Ein Unternehmenssprecher betonte gegenüber Medien, dass die Gruppe sich grundsätzlich nicht zu laufenden Kundenbeziehungen äußert. Das zurückgezogene Angebot war der Landtagsverwaltung zuvor von der Unternehmenszentrale aus München unterbreitet worden."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Der bisherige Dienstwagen des Parlamentspräsidenten ist ein Fahrzeug der 7er-Reihe von BMW. Dieses Auto war laut Berichten von dem vorherigen Amtsinhaber Gunnar Schellenberger genutzt worden. Der Vertrag für dieses bisherige Fahrzeug soll im November auslaufen. Laut Spiegel war der bisherige Wagen rund neun Monate im Einsatz und legte in dieser Zeit etwas mehr als 50.000 Kilometer zurück.",
-      "Leasingverträge dieser Art beinhalten in der Regel eine festgelegte Obergrenze für die Laufleistung, damit die Fahrzeuge nach Ablauf des Vertrages als Gebrauchtwagen vermarktet werden können. Da das aktuelle Angebot für einen Nachfolgewagen nun entfallen ist, muss die Landtagsverwaltung organisatorische Schritte prüfen. Vorerst übernimmt der neue Landtagspräsident das Fahrzeug seines Vorgängers, wie unter anderem ZDFheute berichtet.",
-      "Die Dienstwagenflotte des Landtags und der Landesregierung besteht aus mehreren Fahrzeugen, die mehrheitlich von der Marke BMW stammen. Die meisten dieser Fahrzeuge sind nicht fest zugeordnet und werden gemeinsam genutzt. Lediglich wenige Ausnahmen, wozu auch der Wagen des Landtagspräsidenten gehört, sind fest zugewiesen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Der Zeitpunkt des Angebotsrückzugs wird in den Medienberichten im Zusammenhang mit den Äußerungen der Unternehmensspitze zur politischen Lage gesehen. Laut ZDFheute und Spiegel hatte der BMW-Vorstandschef Milan Nedeljković kurz vor dem Vorfall in einem Interview mit der Frankfurter Allgemeinen Zeitung Position bezogen. Darin bezeichnete er Rechtspopulismus und Nationalismus als Gift für den Wirtschaftsstandort.",
-      "In der Vergangenheit kam es laut den Berichten bereits mehrfach dazu, dass Unternehmen oder Institutionen Geschäftsbeziehungen zu Gliederungen oder Vertretern der Partei Alternative für Deutschland beendeten. So wurden in der Vergangenheit unter anderem Spendenkonten sowie Buchungen von Versammlungsräumen und Hotelzimmern gekündigt. Die Partei wird im Bundesland Sachsen-Anhalt vom dortigen Landesverfassungsschutz als rechtsextrem eingestuft.",
-      "Die Landtagsverwaltung bestätigte, dass von anderen deutschen Premiumherstellern wie Mercedes oder Audi keine entsprechenden Leasingangebote für das Fahrzeug des Parlamentspräsidenten vorlagen. Das Angebot von BMW war demnach die einzige Offerte auf dem Markt für diesen speziellen Bedarf der Parlamentsspitze."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ein Leasingvertrag ist eine Vereinbarung zur zeitlichen Nutzung von Anlagegütern gegen Zahlung von Raten.",
-      "Ein Landtagspräsident leitet die Sitzungen des Landesparlaments und vertritt das Parlament nach außen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der betroffene Landtagspräsident Tobias Rausch reagierte mit Kritik auf den Schritt des Automobilherstellers. Laut Tagesschau und Zeit äußerte er in einem offenen Brief an den BMW-Vorstand große Verwunderung und Enttäuschung. Gegenüber der Deutschen Presse-Agentur erklärte er, dass ein direkter Zusammenhang mit seiner Parteizugehörigkeit fragwürdig wäre.",
-      "Gegenüber der Mitteldeutschen Zeitung äußerte sich Rausch laut ZDFheute zudem kritisch. Er erklärte demnach, er finde es erschreckend, dass das Unternehmen eine staatliche Institution und das Land Sachsen-Anhalt verächtlich mache.",
-      "Auch auf Bundesebene gab es Reaktionen von Parteivertretern. Die AfD-Bundestagsabgeordnete Beatrix von Storch wandte sich laut ZDFheute und Spiegel über den Kurznachrichtendienst X an den Tesla-Chef Elon Musk. Sie fragte öffentlich an, ob Tesla bereit sei, ein offizielles Fahrzeug zur Verfügung zu stellen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Landtagsverwaltung muss laut den Berichten nun eine andere Lösung für die Bereitstellung eines Dienstwagens finden. Da der bisherige Vertrag im November ausläuft, stehen organisatorische Entscheidungen an. Ob andere Hersteller kontaktiert werden oder wie die Ersatzbeschaffung konkret abläuft, bleibt abzuwarten.",
-      "Aufseiten der AfD wird derweil geprüft, ob eine alternative Bereitstellung eines Fahrzeugs durch ausländische Autobanken oder Hersteller wie Tesla zustande kommen kann. Eine offizielle Reaktion oder Zusage auf die Anfrage an Tesla lag laut den Medienberichten zunächst nicht vor."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "6. September 2026",
-     "Die AfD gewinnt die Landtagswahl in Sachsen-Anhalt mit 43,8 Prozent."
-    ],
-    [
-     "6. Oktober 2026",
-     "Tobias Rausch wird zum Landtagspräsidenten und Hans-Thomas Tillschneider zum Vizepräsidenten gewählt."
-    ],
-    [
-     "6. Oktober 2026",
-     "Tobias Rausch wird zum Landtagspräsidenten gewählt."
-    ],
-    [
-     "6. September 2026",
-     "Die AfD gewinnt die Landtagswahl in Sachsen-Anhalt."
-    ],
-    [
-     "6. Oktober 2026",
-     "Tobias Rausch wird zum Landtagspräsidenten von Sachsen-Anhalt gewählt."
-    ],
-    [
-     "Dienstag",
-     "Tobias Rausch wird zum Landtagspräsidenten in Sachsen-Anhalt gewählt und SPD-Abgeordnete machen einen Protestmarsch in Berlin."
-    ],
-    [
-     "nach der Wahl",
-     "Medien berichten, dass BMW das Leasingangebot für den Dienstwagen des Landtagspräsidenten Tobias Rausch zurückgezogen hat."
-    ],
-    [
-     "Dienstag",
-     "BMW zieht das Leasingangebot für den Dienstwagen des Landtagspräsidenten zurück."
-    ],
-    [
-     "09. Oktober 2026",
-     "Medien berichten über den Vorgang und die Reaktionen von Tobias Rausch."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Tobias Rausch politician",
-     "bildunterschrift": "Tobias Rausch ist Landtagspräsident in Sachsen-Anhalt."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Landtag von Sachsen-Anhalt",
-     "bildunterschrift": "Das Parlamentsgebäude in Sachsen-Anhalt, in dem der Landtag tagt."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "BMW headquarters Munich",
-     "bildunterschrift": "Die Zentrale des Automobilkonzerns BMW in München."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Tesla Gigafactory Berlin Brandenburg",
-     "bildunterschrift": "Eine Produktionsstätte des Automobilherstellers Tesla."
-    }
-   ],
-   "ort": {
-    "name": "Magdeburg, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Wertende Ausdrücke im Text wie 'empört' und 'scharf kritisiert' wurden durch neutrale Formulierungen ersetzt."
-   ],
-   "wortwarnung": [
-    "erschreckend"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Landtagspräsident",
-      "Der Landtagspräsident leitet die Sitzungen eines Parlaments in einem Bundesland und vertritt dieses nach außen."
-     ],
-     [
-      "Leasingvertrag",
-      "Ein Leasingvertrag ist eine Vereinbarung zur zeitlichen Nutzung von Gütern gegen die Zahlung von monatlichen Raten."
-     ]
-    ],
-    "fragen": [
-     "Welche Gründe könnte ein Unternehmen haben, Geschäftsbeziehungen zu beenden?",
-     "Wie berichten verschiedene Medien über politische Entscheidungen und Reaktionen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer hat das Leasingangebot für den Dienstwagen zurückgezogen?",
-      "optionen": [
-       "Das Unternehmen BMW",
-       "Der Automobilhersteller Tesla",
-       "Die Landesregierung von Sachsen-Anhalt"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut übereinstimmenden Medienberichten zog BMW das Leasingangebot für den Dienstwagen zurück."
-     },
-     {
-      "frage": "Welches Amt hat Tobias Rausch inne?",
-      "optionen": [
-       "Ministerpräsident von Sachsen-Anhalt",
-       "Landtagspräsident von Sachsen-Anhalt",
-       "Bundeskanzler"
-      ],
-      "richtig": 1,
-      "erklaerung": "Tobias Rausch wurde zum Landtagspräsidenten in Sachsen-Anhalt gewählt."
-     },
-     {
-      "frage": "Wie äußerte sich BMW zu dem Fall?",
-      "optionen": [
-       "Das Unternehmen begründete den Schritt ausführlich.",
-       "Das Unternehmen lehnte einen Kommentar ab und äußerte sich nicht zu Kundenbeziehungen.",
-       "Das Unternehmen entschuldigte sich öffentlich."
-      ],
-      "richtig": 1,
-      "erklaerung": "Mehrere Medien berichten übereinstimmend, dass BMW den Fall nicht kommentieren wollte und sich grundsätzlich nicht zu Kundenbeziehungen äußert."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Sachsen-Anhalt hat ein Automobilhersteller ein Angebot für ein Auto zurückgezogen.",
-    "absaetze": [
-     "Tobias Rausch ist neu zum Landtagspräsidenten gewählt worden.",
-     "Er gehört zur Partei Alternative für Deutschland.",
-     "Das Unternehmen BMW hat danach ein Angebot für seinen Dienstwagen zurückgezogen.",
-     "Ein Dienstwagen ist ein Auto, das Politiker für ihre Arbeit nutzen.",
-     "Rausch kritisierte diese Entscheidung des Unternehmens."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "BMW hat ein Leasingangebot für den Dienstwagen des Landtagspräsidenten Tobias Rausch zurückgezogen.",
-     "Rausch kritisierte die Entscheidung des Automobilkonzerns am Dienstag.",
-     "Ob ein anderer Hersteller das Auto bereitstellt, ist noch unklar."
-    ],
-    "lang": [
-     "Das Unternehmen BMW hat ein Leasingangebot für den Dienstwagen des Landtagspräsidenten in Sachsen-Anhalt zurückzogen.",
-     "Dieser Schritt erfolgte am Dienstag am Tag der Wahl des Politikers Tobias Rausch.",
-     "Tobias Rausch ist das erste Mitglied der Partei Alternative for Deutschland in diesem Amt.",
-     "Das Angebot von BMW war das einzige eines namhaften deutschen Herstellers für dieses Fahrzeug.",
-     "Das teilte die Landtagsverwaltung mit.",
-     "Das Auto des Vorgängers war rund neun Monate im Einsatz.",
-     "Nach Angaben der Medien äußerte Rausch Kritik an der Entscheidung des Unternehmens.",
-     "Das Unternehmen BMW wollte den Vorfall nicht kommentieren.",
-     "Die Landtagsverwaltung muss nun eine neue Lösung für das Fahrzeug finden."
-    ],
-    "einfach": [
-     "BMW hat ein Auto-Angebot für einen Politiker zurückgezogen.",
-     "Tobias Rausch ist neu im Amt des Landtagspräsidenten.",
-     "Er gehört zur Partei Alternative für Deutschland.",
-     "Das Unternehmen BMW wollte den Schritt nicht kommentieren.",
-     "Rausch hat die Entscheidung des Automobilherstellers kritisiert."
-    ]
-   },
-   "kurz": [
-    "BMW hat ein Leasingangebot für den Dienstwagen des neuen Landtagspräsidenten Tobias Rausch zurückgezogen.",
-    "Rausch kritisierte die Entscheidung des Unternehmens in Briefen und Interviews.",
-    "Das Angebot von BMW war das einzige eines namhaften deutschen Herstellers für das Fahrzeug."
-   ],
-   "fakten": [
-    [
-     "Laufleistung des bisherigen Dienstwagens",
-     "etwas mehr als 50.000 Kilometer"
-    ],
-    [
-     "Alter des bisherigen Einsatzes",
-     "rund neun Monate"
-    ],
-    [
-     "Datum des Angebotsrückzugs",
-     "Dienstag"
-    ]
-   ],
-   "dossier": {
-    "slug": "leasing-dienstwagen-sachsen-anhalt",
-    "titel": "Dienstwagen-Leasing für den Landtagspräsidenten in Sachsen-Anhalt"
-   },
-   "bildInfo": {
-    "titel": "2019-09-27 17-45 G90T3345 AL Commons Landtag.jpg",
-    "beschreibung": "Landtag of Saxony-Anhalt all buildings",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg/1280px-2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg",
-    "urheber": "Axel Tschentscher",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Landtag von Sachsen-Anhalt",
-    "sprache": "de",
-    "art": "institution",
-    "suchbegriff": "Landtag von Sachsen-Anhalt",
-    "bildunterschrift": "Die Gebäude des Landtages von Sachsen-Anhalt.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "2019-09-27 17-45 G90T3345 AL Commons Landtag.jpg",
-     "beschreibung": "Landtag of Saxony-Anhalt all buildings",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg/1280px-2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2019-09-27_17-45_G90T3345_AL_Commons_Landtag.jpg",
-     "urheber": "Axel Tschentscher",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Landtag von Sachsen-Anhalt",
-     "sprache": "de",
-     "art": "institution",
-     "suchbegriff": "Landtag von Sachsen-Anhalt",
-     "bildunterschrift": "Die Gebäude des Landtages von Sachsen-Anhalt.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "BMW Vierzylinder Tower Munich 2014 01.jpg",
-     "beschreibung": "BMW tower (Vierzylinder), Munich, Germany.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/BMW_Vierzylinder_Tower_Munich_2014_01.jpg/1280px-BMW_Vierzylinder_Tower_Munich_2014_01.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/BMW_Vierzylinder_Tower_Munich_2014_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:BMW_Vierzylinder_Tower_Munich_2014_01.jpg",
-     "urheber": "Julian Herzog ( Website )",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "symbol",
-     "suchbegriff": "BMW headquarters Munich",
-     "bildunterschrift": "Der BMW-Vierzylinder-Turm in München.",
-     "hinweis": "Symbolbild"
-    }
-   ],
-   "ortInfo": {
-    "name": "Magdeburg, Deutschland",
-    "lat": 52.131,
-    "lon": 11.64
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Das Unternehmen BMW hat ein Leasingangebot für den Dienstwagen des Landtagspräsi",
-     "d": "0b62a083fc.mp3",
-     "l": 42.49,
-     "s": [
-      0.25,
-      7.28,
-      11.87,
-      17.36,
-      23.19,
-      25.62,
-      29.46,
-      34.01,
-      38.01
-     ]
-    },
-    {
-     "k": "BMW hat ein Leasingangebot für den Dienstwagen des Landtagspräsidenten Tobias Ra",
-     "d": "3d76d0d323.mp3",
-     "l": 14.84,
-     "s": [
-      0.25,
-      6.65,
-      10.9
-     ]
-    },
-    {
-     "k": "BMW hat ein Auto-Angebot für einen Politiker zurückgezogen. Tobias Rausch ist ne",
-     "d": "3131cf9733.mp3",
-     "l": 21.3,
-     "s": [
-      0.25,
-      4.77,
-      9.41,
-      12.7,
-      16.62
-     ]
-    },
-    {
-     "k": "Ob die Entscheidung von BMW in einem direkten Zusammenhang mit der AfD-Mitglieds",
-     "d": "a6b88ddb56.mp3",
-     "l": 10.53,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Landtagspräsident? Der Landtagspräsident leitet die Sitz",
-     "d": "9a9242ac22.mp3",
-     "l": 10.9,
-     "s": [
-      0.25,
-      3.87
-     ]
-    },
-    {
-     "k": "Laut übereinstimmenden Medienberichten hat das Unternehmen BMW ein zuvor vorgele",
-     "d": "2d628352b9.mp3",
-     "l": 54.87,
-     "s": [
-      0.25,
-      10.64,
-      17.39,
-      21,
-      26.23,
-      36.12,
-      41.59,
-      50.07
-     ]
-    },
-    {
-     "k": "Der bisherige Dienstwagen des Parlamentspräsidenten ist ein Fahrzeug der 7er-Rei",
-     "d": "63c715a192.mp3",
-     "l": 49.21,
-     "s": [
-      0.25,
-      6.26,
-      11.58,
-      15.72,
-      22.71,
-      24.86,
-      35.29,
-      42.57
-     ]
-    },
-    {
-     "k": "Der Zeitpunkt des Angebotsrückzugs wird in den Medienberichten im Zusammenhang m",
-     "d": "2888292af6.mp3",
-     "l": 66.35,
-     "s": [
-      0.25,
-      8.19,
-      18.31,
-      23.76,
-      34.93,
-      41.51,
-      48.31,
-      59.1
-     ]
-    },
-    {
-     "k": "Ein Leasingvertrag ist eine Vereinbarung zur zeitlichen Nutzung von Anlagegütern",
-     "d": "85c80b7177.mp3",
-     "l": 12.84,
-     "s": [
-      0.25,
-      6.49
-     ]
-    },
-    {
-     "k": "Der betroffene Landtagspräsident Tobias Rausch reagierte mit Kritik auf den Schr",
-     "d": "242a48c522.mp3",
-     "l": 54.11,
-     "s": [
-      0.25,
-      6.89,
-      13.96,
-      20.91,
-      26.15,
-      34.01,
-      38.28,
-      47.77
-     ]
-    },
-    {
-     "k": "Die Landtagsverwaltung muss laut den Berichten nun eine andere Lösung für die Be",
-     "d": "7e9956e3bf.mp3",
-     "l": 34.77,
-     "s": [
-      0.25,
-      6.56,
-      11.85,
-      17.86,
-      27.49
-     ]
-    }
-   ]
-  },
-  {
-   "id": "todesfaelle-waffenkontrolle-berngau",
-   "rubrik": "Deutschland",
-   "zeit": "2026-10-09T15:48:19.000Z",
-   "titel": "Zwei Behördenmitarbeiter bei Waffenkontrolle in Berngau getötet",
-   "vorspann": "Bei einer unangekündigten Waffenkontrolle in der oberpfälzischen Gemeinde Berngau sind zwei Beschäftigte des Landratsamts Neumarkt erschossen worden. Ein 60-jähriger Tatverdächtiger verschanzte sich stundenlang in seinem Wohnhaus, bevor Spezialkräfte der Polizei ihn in der Nacht festnahmen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "In Berngau im Landkreis Neumarkt sind zwei Beschäftigte des Landratsamts bei einer behördlichen Waffenkontrolle durch Schüsse getötet worden.",
-    "Der Tatverdächtige, ein 60-jähriger Jäger und Sportschütze mit zehn legalen Waffen, verschanzte sich stundenlang in seiner Wohnung.",
-    "Spezialkräfte der Polizei stürmten das Gebäude in der Nacht; der Mann wurde durch Schüsse ins Bein verletzt und festgenommen.",
-    "Laut bayerischem Innenministerium lagen zuvor keine Erkenntnisse über Vorstrafen oder eine extremistische Gesinnung vor; das Motiv ist unklar.",
-    "Gewerkschaften und Landespolitiker fordern nach dem Vorfall eine Überprüfung der Sicherheitsmaßnahmen für Beschäftigte im Außendienst."
-   ],
-   "einig": [
-    [
-     "Der 60-jährige Tatverdächtige besaß legal zehn Schusswaffen (Kurz- und Langwaffen) und war Jäger sowie Sportschütze.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "taz"
-     ]
-    ],
-    [
-     "Zwei Mitarbeiter des Landratsamts (eine 54-jährige Frau und ein 45-jähriger Mann) wurden bei einer Waffenkontrolle getötet.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "taz"
-     ]
-    ],
-    [
-     "Der Tatverdächtige war den Sicherheitsbehörden zuvor nicht polizeilich oder extremistisch aufgefallen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "taz"
-     ]
-    ],
-    [
-     "Der Mann verschanzte sich stundenlang und wurde in der Nacht durch Spezialkräfte unter Schusswaffengebrauch am Bein verletzt festgenommen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "taz"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die Schwere der Beinverletzung des Tatverdächtigen wird unterschiedlich angegeben: Die Polizei sprach laut ZDFheute anfangs von leichten Verletzungen, während Tagesschau/ARD und taz von einer schweren Verletzung berichteten.",
-    "Der Vorname des Bürgermeisters von Berngau variiert: Die Tagesschau nennt Thomas Meier, die taz nennt Tobias Meier.",
-    "Das genaue Motiv und die Ursache für die Eskalation der Kontrolle sind bislang unbekannt."
-   ],
-   "positionen": [
-    [
-     "Joachim Herrmann (Bayerischer Innenminister, CSU)",
-     "Bekundet Trauer und betont, dass keine Anzeichen für Extremismus vorlagen; die Ermittlungen laufen in alle Richtungen.",
-     "Tagesschau/ARD, ZDFheute, taz"
-    ],
-    [
-     "Alexander Gröbner (Geschäftsführer Verdi Oberpfalz)",
-     "Fordert die Überprüfung und Weiterentwicklung von Schutz- und Präventionskonzepten für Außendienstbeschäftigte.",
-     "taz"
-    ],
-    [
-     "Ronja Endres (Vorsitzende der Bayern-SPD)",
-     "Hinterfragt, ob Waffenkontrollen ohne polizeiliche Begleitung für Verwaltungsangestellte noch vertretbar sind.",
-     "taz"
-    ],
-    [
-     "Bündnis 90/Die Grünen Bayern",
-     "Fordern vom Innenminister Aufklärung über die Hintergründe der Tat im Landtagsinnenausschuss.",
-     "taz"
-    ]
-   ],
-   "fehlend": "Eine Aussage des Tatverdächtigen zum Tatmotiv nach seiner Festnahme oder eine Stellungnahme einer anwaltlichen Vertretung liegt in den Berichten noch nicht vor.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 15:55",
-     "fokus": "Aussagen von Innenminister Herrmann",
-     "text": "Stellt die Erkenntnisse zum legalen Waffenbesitz des Verdächtigen sowie Aussagen des bayerischen Innenministers und des Bürgermeisters dar.",
-     "url": "https://www.tagesschau.de/inland/berngau-schuesse-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 362,
-      "satzlaenge": 14,
-      "langeWoerter": 37
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 07:36",
-     "fokus": "Ablauf des Polizeieinsatzes",
-     "text": "Berichtet ausführlich über die Verhandlungen der Polizei mit dem Mann und den nächtlichen Zugriff der Spezialkräfte.",
-     "url": "https://www.zdfheute.de/panorama/kriminalitaet/bayern-oberpfalz-waffenkontrolle-schuesse-opfer-tote-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 755,
-      "satzlaenge": 13,
-      "langeWoerter": 37
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "09.10.26, 17:48",
-     "fokus": "Kurzmeldung zur Festnahme",
-     "text": "Fasst den Tod der zwei Beschäftigten und die Festnahme nach stundenlanger Belagerung knapp zusammen.",
-     "url": "https://www.deutschlandfunk.de/mutmasslicher-todesschuetze-festgenommen-112.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "09.10.26, 14:33",
-     "fokus": "Eindrücke aus Berngau",
-     "text": "Schildert die Stimmung im Ort nach der Festnahme.",
-     "url": "https://www.sueddeutsche.de/bayern/schuesse-berngau-neumarkt-taeter-infos-landratsamt-tote-schock-li.3560902",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 1,
-      "woerter": 110,
-      "satzlaenge": 18,
-      "langeWoerter": 25
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "taz",
-     "typ": "Tageszeitung (Genossenschaft)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "09.10.26, 17:07",
-     "fokus": "Sicherheitsdebatte und Einordnung",
-     "text": "Thematisiert den Arbeitsschutz bei Kontrollen, Reaktionen von Parteien und Gewerkschaften sowie vergleichbare frühere Vorfälle.",
-     "url": "https://taz.de/Blutbad-in-der-Oberpfalz/!6220304/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 4,
-      "woerter": 847,
-      "satzlaenge": 14,
-      "langeWoerter": 35
-     },
-     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
-     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Angaben zur Verletzung",
-     "ZDFheute zitiert eine Polizeisprecherin mit einer leichten Verletzung, Tagesschau/ARD und taz sprechen von schweren Verletzungen."
-    ],
-    [
-     "Politische Reaktionen",
-     "Nur die taz berichtet über Forderungen von Verdi, SPD und Grünen bezüglich der Arbeitssicherheit bei Kontrollen."
-    ],
-    [
-     "Vorname des Bürgermeisters",
-     "Tagesschau/ARD nennt den Bürgermeister Thomas Meier, während die taz Tobias Meier schreibt."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Ein 60-jähriger legaler Waffenbesitzer und zwei Beschäftigte des Landratsamts Neumarkt",
-    "was": "Tödliche Schüsse bei einer behördlichen Waffenkontrolle und anschließende Festnahme des Verdächtigen",
-    "wann": "Donnerstagnachmittag gegen 14 Uhr bis zur Festnahme in der Nacht gegen 2:20 Uhr",
-    "wo": "Berngau, Landkreis Neumarkt in der Oberpfalz (Bayern)",
-    "wie": "Schussabgabe auf zwei Kontrolleure, stundenlange Belagerung des Hauses und Zugriff durch Spezialkräfte",
-    "warum": "noch unklar",
-    "quellenlage": "Polizeipräsidium Oberpfalz, bayerisches Innenministerium, Aussagen von Gemeindevertretern und Medienberichte"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In der Gemeinde Berngau im oberpfälzischen Landkreis Neumarkt sind am Donnerstagnachmittag zwei Beschäftigte des dortigen Landratsamts getötet worden. Eine 54-jährige Mitarbeiterin und ihr 45-jähriger Kollege suchten das Wohnhaus eines Waffenbesitzers auf, um eine behördliche Überprüfung durchzuführen. Nach Angaben der Behörden fielen bei dem Treffen Schüsse, die beide Mitarbeitende tödlich trafen. Die beiden Personen verstarben nach Einschätzung der Ermittler unmittelbar am Einsatzort.",
-      "Gegen 14:00 Uhr alarmierten Zeugen über den Notruf die Polizei, weil sie Schussgeräusche gehört hatten. Die Polizei rückte daraufhin mit zahlreichen Einsatzkräften in den Ort mit rund 2.600 Einwohnern aus und sperrte die Umgebung ab. Vor dem Wohnhaus fanden die Beamtinnen und Beamten den 45-jährigen Mitarbeiter tot am Boden liegend. Bei späteren Sicherungsmaßnahmen im Gebäude fanden Einsatzkräfte auch die getötete 54-jährige Kollegin.",
-      "Der mutmaßliche Schütze, ein 60-jähriger deutscher Staatsangehöriger, verschanzte sich nach der Tat in seiner Wohnung. Nach Angaben einer Polizeisprecherin rief der Mann selbst bei der Einsatzzentrale an. In den Gesprächen gab er an, geschossen zu haben, Schusswaffen zu besitzen und nicht ohne Widerstand aufgeben zu wollen. Spezialisten der Polizei versuchten daraufhin über mehrere Stunden, den Mann zur friedlichen Aufgabe zu bewegen."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Der Polizeieinsatz dauerte bis in die Nacht zum Freitag an. Am Einsatzort waren nach Angaben der taz rund 150 Beamtinnen und Beamte versammelt. Die Polizei setzte unter anderem Spezialeinsatzkommandos, ein gepanzertes Fahrzeug sowie Hubschrauber und Drohnen ein. Die Einwohnerinnen und Einwohner des Ortes wurden gebeten, ihre Wohnungen nicht zu verlassen und den abgesperrten Bereich zu meiden.",
-      "Weil die Verhandlungen mit dem Mann zu keinem Ergebnis führten, entschieden sich die Einsatzkräfte für einen Zugriff. Laut Polizei drangen Spezialkräfte gegen 2:20 Uhr unter Einsatz von Sprengmitteln in das Wohnhaus ein. Bei dem Zugriff fielen Schüsse. Der 60-Jährige wurde durch Schüsse ins Bein gestoppt und festgenommen.",
-      "Zur Schwere der Verletzung des Verdächtigen gab es unterschiedliche Auskünfte. Laut ZDFheute sprach die Polizei zunächst von einer leichten Verletzung am Bein. Nach Berichten von Tagesschau/ARD und taz wurde der Mann dagegen mit schweren Verletzungen in ein Krankenhaus gebracht. Er befand sich nach der Festnahme in medizinischer Behandlung."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Bayerns Innenminister Joachim Herrmann (CSU) teilte mit, dass der 60-Jährige zehn Schusswaffen legal besaß. Darunter befanden sich sowohl Kurz- als auch Langwaffen. Der Mann war als Jäger und Sportschütze registriert. Der Bürgermeister des Ortes beschrieb den Verdächtigen laut Medienberichten als Person, die zurückgezogen gelebt habe und nicht im örtlichen Vereinsleben bekannt gewesen sei.",
-      "Den Sicherheitsbehörden war der Mann vor der Tat nicht aufgefallen. Laut Innenminister Herrmann lagen weder bei der Polizei noch beim Verfassungsschutz oder dem Staatsschutz Erkenntnisse über ihn vor. Es gebe bisher keine Hinweise auf eine extremistische Gesinnung. Das genaue Tatmotiv sei noch völlig unklar, und die Behörden ermitteln nach eigenen Angaben in alle Richtungen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "In Deutschland regelt das Waffengesetz den privaten Besitz von Schusswaffen. Personen, die Schusswaffen besitzen dürfen, müssen diese getrennt von der Munition in speziellen, gesicherten Waffenschränken aufbewahren. Die zuständigen Behörden, in Landkreisen sind dies meist die Landratsämter, haben die gesetzliche Aufgabe, diese Aufbewahrung zu kontrollieren.",
-      "Diese Überprüfungen erfolgen bei Besitzerinnen und Besitzern von Waffen regelmäßig und können unangekündigt stattfinden. Beschäftigte der Verwaltung führen diese Kontrollen üblicherweise zu zweit durch. Die Polizei wird nach Angaben von Behörden nur hinzugezogen, wenn vorab konkrete Anhaltspunkte für eine Gefährdung vorliegen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Innenminister Joachim Herrmann zeigte sich erschüttert über das Verbrechen und sprach den Angehörigen der Getöteten sein Mitgefühl aus. Für die Mitarbeitenden des Landratsamts Neumarkt wurde eine psychologische Betreuung organisiert. Das Amt blieb am Freitag für das Publikum geschlossen, und es wurden Kondolenzbücher ausgelegt. In der örtlichen Schule unterstützten Krisenteams die Schülerinnen und Schüler.",
-      "Der Vorfall löste zudem politische und gewerkschaftliche Reaktionen aus. Die Gewerkschaft Verdi forderte eine Überprüfung der Schutzmaßnahmen für Beschäftigte im Außendienst. Ronja Endres, Landesvorsitzende der bayerischen SPD, stellte die Frage, ob solche Kontrollen künftig noch ohne polizeiliche Begleitung stattfinden sollten. Die bayerische Landtagsfraktion der Grünen verlangte vom Innenminister einen Bericht im Landtagsinnenausschuss."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Ermittlungen führen die Kriminalpolizei Regensburg und die Staatsanwaltschaft Nürnberg-Fürth. Untersucht werden der genaue Ablauf des Vorfalls und mögliche frühere Kontakte zwischen dem Beschuldigten und dem Landratsamt. Sobald der Gesundheitszustand des Mannes es erlaubt, soll er vernommen werden.",
-      "Nach der medizinischen Behandlung soll der Verdächtige einem Ermittlungsrichter vorgeführt werden. Dieser entscheidet darüber, ob Untersuchungshaft angeordnet oder der Mann in einer Fachklinik untergebracht wird. Zudem soll der Fall im Innenausschuss des bayerischen Landtags thematisiert werden."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Donnerstag, gegen 14:00 Uhr",
-     "Zwei Mitarbeitende des Landratsamts treffen zur Kontrolle ein; Zeugen melden Schüsse bei der Polizei"
-    ],
-    [
-     "Donnerstag, Nachmittag",
-     "Polizeikräfte sperren den Tatort ab, finden die getöteten Personen und nehmen Kontakt zum Tatverdächtigen auf"
-    ],
-    [
-     "Freitag, gegen 02:20 Uhr",
-     "Spezialeinsatzkräfte dringen in das Wohnhaus ein und nehmen den am Bein verletzten Mann fest"
-    ],
-    [
-     "Freitag, Vormittag",
-     "Innenminister Joachim Herrmann äußert sich öffentlich zu den bisherigen Ermittlungsergebnissen"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "None",
-     "bildunterschrift": "Kein Bild gemäß Richtlinien bei Gewalttaten mit Todesopfern."
-    }
-   ],
-   "ort": {
-    "name": "Berngau, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das Datum '8. Oktober 2026' in 'wfragen' wurde entfernt, da in den Quellen nur Wochentage genannt werden.",
-    "In 'einig' wurde der Deutschlandfunk aus dem vierten Punkt entfernt, da er die Details zur Beinverletzung nicht enthielt.",
-    "Im Abschnitt 'Wie geht es weiter?' wurde korrigiert, dass die Grünen den Bericht im Ausschuss forderten und dies keine Eigeninitiative Herrmanns war.",
-    "Die Schreibweise des Bürgermeisternamens im Fließtext wurde generalisiert, da die Vornamen in den Quellen voneinander abweichen.",
-    "Wertende Formulierungen wurden durch sachliche Beschreibungen ersetzt."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Waffenkontrolle",
-      "Eine behördliche Überprüfung vor Ort, ob Besitzer von Schusswaffen diese vorschriftsmäßig und sicher verschlossen aufbewahren."
-     ],
-     [
-      "Landratsamt",
-      "Die Verwaltungsbehörde eines Landkreises in Deutschland. Sie ist unter anderem für Genehmigungen und Kontrollen im Bereich des Waffenrechts zuständig."
-     ],
-     [
-      "Spezialeinsatzkommando",
-      "Eine besonders ausgebildete Einheit der Polizei, die bei gefährlichen Lagen wie Geiselnahmen oder bewaffneten Verdächtigen eingreift."
-     ]
-    ],
-    "fragen": [
-     "Wie sollten behördliche Kontrollen bei Waffenbesitzern gestaltet sein, um die Sicherheit der Beschäftigten zu gewährleisten?",
-     "Warum ist es für Medien wichtig, zu kennzeichnen, ob Angaben von Zeugen oder von Behörden stammen?",
-     "Welche Vor- und Nachteile haben unangekündigte Kontrollen im Vergleich zu vorher angemeldeten Prüfungen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viele Waffen besaß der 60-jährige Tatverdächtige laut den Behörden legal?",
-      "optionen": [
-       "Fünf Waffen",
-       "Zehn Waffen",
-       "Fünfzehn Waffen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Berichten von Tagesschau, ZDFheute und taz besaß der Mann legal zehn Schusswaffen als Jäger und Sportschütze."
-     },
-     {
-      "frage": "Was war der Anlass für den Besuch der beiden Beschäftigten des Landratsamts?",
-      "optionen": [
-       "Eine routinemäßige Überprüfung der Waffenaufbewahrung",
-       "Die Durchsuchung nach illegalen Waffen auf richterlichen Beschluss",
-       "Eine Festnahme wegen früherer Gewalttaten"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Mitarbeiter waren vor Ort, um eine routinemäßige Waffenkontrolle durchzuführen."
-     },
-     {
-      "frage": "Was ergaben die ersten Überprüfungen der Behörden zur Vorgeschichte des Verdächtigen?",
-      "optionen": [
-       "Er war bereits mehrfach wegen Gewaltdelikten vorbestraft.",
-       "Es gab im Vorfeld keine polizeilichen Einträge oder Hinweise auf Extremismus.",
-       "Er wurde seit längerer Zeit vom Verfassungsschutz beobachtet."
-      ],
-      "richtig": 1,
-      "erklaerung": "Innenminister Joachim Herrmann teilte mit, dass der Mann polizeilich unauffällig war und keine extremistischen Anzeichen vorlagen."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Bayern sind zwei Beschäftigte eines Amtes bei einer Waffenkontrolle getötet worden. Der mutmaßliche Schütze wurde nach mehreren Stunden von der Polizei festgenommen.",
-    "absaetze": [
-     "Am Donnerstagnachmittag kamen zwei Mitarbeitende des Landratsamts Neumarkt zu einem Wohnhaus im Ort Berngau. Sie wollten überprüfen, ob dort Waffen vorschriftsmäßig aufbewahrt werden. Dabei fielen Schüsse. Eine 54-jährige Frau und ein 45-jähriger Mann starben noch vor Ort.",
-     "Der Tatverdächtige ist ein 60-jähriger Mann. Er verschanzte sich danach stundenlang in seinem Haus. Die Polizei rückte mit vielen Einsatzkräften an und sperrte den Bereich ab. Verhandlungen mit dem Mann blieben ohne Erfolg.",
-     "In der Nacht stürmten Spezialkräfte der Polizei die Wohnung. Die Beamtinnen und Beamten schossen dem Mann in das Bein und nahmen ihn fest. Danach brachten Rettungskräfte ihn in ein Krankenhaus.",
-     "Nach Angaben der Behörden besaß der Mann zehn Waffen ganz legal. Er war als Jäger und Sportschütze gemeldet. Warum er schoss, ist bisher noch völlig unklar. Die Ermittlungen laufen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In Berngau in der Oberpfalz sind zwei Behördenmitarbeiter bei einer Waffenkontrolle erschossen worden.",
-     "Ein sechzigjähriger Tatverdächtiger verschanzte sich danach stundenlang in seinem Wohnhaus.",
-     "Spezialkräfte der Polizei stürmten das Gebäude in der Nacht und nahmen den Mann fest.",
-     "Das Motiv für die Schüsse ist nach Angaben der Ermittler noch völlig unklar."
-    ],
-    "lang": [
-     "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Behördenmitarbeiter getötet worden.",
-     "Eine vierundfünfzigjährige Frau und ein fünfundvierzigjähriger Mann starben nach Angaben der Polizei vor Ort.",
-     "Die beiden Beschäftigten des Landratsamts Neumarkt wollten die vorschriftsmäßige Lagerung von Waffen prüfen.",
-     "Der mutmaßliche Täter verschanzte sich nach den Schüssen am Donnerstagnachmittag in seiner Wohnung.",
-     "Über viele Stunden versuchten Fachleute der Polizei, den Mann zur Aufgabe zu bewegen.",
-     "In der Nacht gegen zwei Uhr zwanzig stürmten Spezialeinsatzkräfte schließlich das Gebäude.",
-     "Die Beamten verletzten den Sechzigjährigen durch Schüsse ins Bein und nahmen ihn fest.",
-     "Zur Schwere der Beinverletzung machten Polizei und Medien am Freitag zunächst unterschiedliche Angaben.",
-     "Nach Mitteilung des bayerischen Innenministers besaß der Deutsche zehn Schusswaffen völlig legal.",
-     "Das genaue Motiv der Tat ist bisher unklar, und die Ermittlungen dauern an."
-    ],
-    "einfach": [
-     "In Bayern wurden zwei Mitarbeitende eines Amtes erschossen.",
-     "Sie wollten im Ort Berngau Schusswaffen in einem Haus kontrollieren.",
-     "Der sechzigjährige Verdächtige schloss sich stundenlang in seiner Wohnung ein.",
-     "In der Nacht stürmte die Polizei das Haus.",
-     "Die Beamten trafen den Mann am Bein und nahmen ihn fest.",
-     "Warum der Mann auf die Kontrolleure schoss, weiß man noch nicht."
-    ]
-   },
-   "kurz": [
-    "Zwei Landratsamtsmitarbeiter wurden bei einer Waffenkontrolle in Berngau erschossen.",
-    "Ein 60-jähriger Tatverdächtiger verschanzte sich stundenlang in seinem Wohnhaus.",
-    "Spezialkräfte der Polizei nahmen den Mann in der Nacht nach Beinschüssen fest.",
-    "Das Motiv ist unklar; der Mann besaß zehn Schusswaffen legal."
-   ],
-   "fakten": [
-    [
-     "Getötete Behördenmitarbeiter",
-     "2"
-    ],
-    [
-     "Alter der getöteten Mitarbeiter",
-     "54 und 45 Jahre"
-    ],
-    [
-     "Alter des Tatverdächtigen",
-     "60 Jahre"
-    ],
-    [
-     "Legale Waffen des Verdächtigen",
-     "10"
-    ],
-    [
-     "Uhrzeit des ersten Notrufs",
-     "gegen 14:00 Uhr"
-    ],
-    [
-     "Uhrzeit des Zugriffs",
-     "gegen 02:20 Uhr"
-    ],
-    [
-     "Eingesetzte Polizisten laut Medien",
-     "rund 150"
-    ]
-   ],
-   "dossier": {
-    "slug": "waffenkontrolle-berngau",
-    "titel": "Tödliche Schüsse bei Waffenkontrolle in Berngau"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Berngau, Deutschland",
-    "lat": 49.252,
-    "lon": 11.398
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Bei einer Waffenkontrolle in Berngau in der Oberpfalz sind zwei Behördenmitarbei",
-     "d": "2bb3981560.mp3",
-     "l": 56.64,
-     "s": [
-      0.25,
-      6.15,
-      12.6,
-      19.1,
-      24.41,
-      29.35,
-      35,
-      39.93,
-      46.18,
-      51.91
-     ]
-    },
-    {
-     "k": "In Berngau in der Oberpfalz sind zwei Behördenmitarbeiter bei einer Waffenkontro",
-     "d": "d10592de11.mp3",
-     "l": 20.51,
-     "s": [
-      0.25,
-      5.8,
-      10.76,
-      16.07
-     ]
-    },
-    {
-     "k": "In Bayern wurden zwei Mitarbeitende eines Amtes erschossen. Sie wollten im Ort B",
-     "d": "f2a9ad4b91.mp3",
-     "l": 25.63,
-     "s": [
-      0.25,
-      4.26,
-      8.69,
-      13.85,
-      17.29,
-      21.54
-     ]
-    },
-    {
-     "k": "Die Schwere der Beinverletzung des Tatverdächtigen wird unterschiedlich angegebe",
-     "d": "7eb740c24d.mp3",
-     "l": 12.36,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Waffenkontrolle? Eine behördliche Überprüfung vor Ort, o",
-     "d": "2a4c79da51.mp3",
-     "l": 11.87,
-     "s": [
-      0.25,
-      3.63
-     ]
-    },
-    {
-     "k": "In der Gemeinde Berngau im oberpfälzischen Landkreis Neumarkt sind am Donnerstag",
-     "d": "067bd2fa8d.mp3",
-     "l": 53.09,
-     "s": [
-      0.25,
-      9.34,
-      20.31,
-      25.4,
-      30.55,
-      37.43,
-      42.66,
-      46.17
-     ]
-    },
-    {
-     "k": "Der Polizeieinsatz dauerte bis in die Nacht zum Freitag an. Am Einsatzort waren ",
-     "d": "331356168c.mp3",
-     "l": 43.11,
-     "s": [
-      0.25,
-      3.96,
-      9.89,
-      16.69,
-      23.88,
-      29.52,
-      36.61,
-      38.54
-     ]
-    },
-    {
-     "k": "Bayerns Innenminister Joachim Herrmann (CSU) teilte mit, dass der 60-Jährige zeh",
-     "d": "75446f90db.mp3",
-     "l": 44.13,
-     "s": [
-      0.25,
-      7.31,
-      10.45,
-      13.61,
-      22.54,
-      26.08,
-      33.81,
-      37.6
-     ]
-    },
-    {
-     "k": "In Deutschland regelt das Waffengesetz den privaten Besitz von Schusswaffen. Per",
-     "d": "bec4b3651a.mp3",
-     "l": 39.64,
-     "s": [
-      0.25,
-      4.77,
-      12.59,
-      20.64,
-      28.15,
-      32.8
-     ]
-    },
-    {
-     "k": "Innenminister Joachim Herrmann zeigte sich erschüttert über das Verbrechen und s",
-     "d": "33bfc2e6c6.mp3",
-     "l": 49.27,
-     "s": [
-      0.25,
-      7.82,
-      13.28,
-      18.89,
-      23.05,
-      27.64,
-      33.46,
-      42.89
-     ]
-    },
-    {
-     "k": "Die Ermittlungen führen die Kriminalpolizei Regensburg und die Staatsanwaltschaf",
-     "d": "afaecc9227.mp3",
-     "l": 34.73,
-     "s": [
-      0.25,
-      6.14,
-      13.6,
-      17.9,
-      22.97,
-      29.49
      ]
     }
    ]
