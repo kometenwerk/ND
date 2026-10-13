@@ -2278,7 +2278,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 14 und 17 Grad. Die Vorhersage für morgen,",
+   "d": "1f54c4173c.mp3",
+   "l": 19.47,
+   "s": [
+    0.25,
+    3.98,
+    10.52,
+    13.75,
+    16.92
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/",
@@ -12820,16 +12832,16 @@
     {
      "k": "Die Regierung der Vereinigten Staaten hat neue Sanktionen gegen den Internationa",
      "d": "7fd98a25fa.mp3",
-     "l": 52.1,
+     "l": 51.91,
      "s": [
       0.25,
-      7.43,
-      15.21,
-      19.63,
-      25.61,
-      30.81,
-      36.04,
-      43.14
+      7.21,
+      15.0,
+      19.37,
+      25.49,
+      30.59,
+      35.85,
+      42.94
      ]
     },
     {
