@@ -2278,7 +2278,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 14 und 17 Grad. Die Vorhersage für morgen,",
+   "d": "21314c7b2d.mp3",
+   "l": 17.42,
+   "s": [
+    0.25,
+    3.85,
+    8.15,
+    11.5,
+    14.5
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/",
@@ -6209,6 +6221,24 @@
       58.35,
       63.74
      ]
+    },
+    {
+     "k": "Das Kriegsrecht ist ein rechtlicher Ausnahmezustand in einem Staat, der in Krise",
+     "d": "ba4d54cc5a.mp3",
+     "l": 19.82,
+     "s": [
+      0.25,
+      8.5
+     ]
+    },
+    {
+     "k": "Laut Tagesschau wartet die Ukraine nun auf Details von der amerikanischen Seite ",
+     "d": "9fb65095d1.mp3",
+     "l": 16.85,
+     "s": [
+      0.25,
+      7.34
+     ]
     }
    ]
   },
@@ -6777,6 +6807,89 @@
       3.53,
       8.73
      ]
+    },
+    {
+     "k": "Mehrere Mitglieder des US-Senats aus den Reihen der Demokraten und der Republika",
+     "d": "2bca835072.mp3",
+     "l": 54.16,
+     "s": [
+      0.25,
+      10.17,
+      17.45,
+      22.66,
+      27.42,
+      34.23,
+      40.3,
+      47.57
+     ]
+    },
+    {
+     "k": "Das überparteiliche Schreiben stammt von drei demokratischen und vier republikan",
+     "d": "d1ff695902.mp3",
+     "l": 47.07,
+     "s": [
+      0.25,
+      5.95,
+      12.13,
+      19.5,
+      25.9,
+      33.97,
+      37.33,
+      42.6
+     ]
+    },
+    {
+     "k": "Der Schritt von US-Präsident Trump steht im Zusammenhang mit der wirtschaftliche",
+     "d": "b81ff46791.mp3",
+     "l": 45.05,
+     "s": [
+      0.25,
+      5.97,
+      11.81,
+      15.55,
+      22.6,
+      32.45,
+      35.69,
+      39.62
+     ]
+    },
+    {
+     "k": "Der Kongress der Vereinigten Staaten ist das Parlament des Landes und besteht au",
+     "d": "9084ca7841.mp3",
+     "l": 43.0,
+     "s": [
+      0.25,
+      7.16,
+      13.98,
+      21.81,
+      29.24,
+      33.34
+     ]
+    },
+    {
+     "k": "Die sieben unterzeichnenden Senatoren Richard Blumenthal, Jeanne Shaheen, Ron Wy",
+     "d": "1c21b3709e.mp3",
+     "l": 43.68,
+     "s": [
+      0.25,
+      12.54,
+      19.96,
+      29.11,
+      35.09
+     ]
+    },
+    {
+     "k": "Nach Angaben von US-Präsident Trump sollen nach den ersten 300. 000 Tonnen Diese",
+     "d": "fb3e546259.mp3",
+     "l": 32.95,
+     "s": [
+      0.25,
+      4.72,
+      8.36,
+      15.86,
+      20.04,
+      24.47
+     ]
     }
    ]
   },
@@ -7235,6 +7348,87 @@
       0.25,
       3.16
      ]
+    },
+    {
+     "k": "Bei der Ironman-Weltmeisterschaft auf Hawaii übernahm die Norwegerin Solveig Løv",
+     "d": "4672f3f1ab.mp3",
+     "l": 42.69,
+     "s": [
+      0.25,
+      10.44,
+      15.63,
+      18.17,
+      24.17,
+      29.31,
+      35.2,
+      38.23
+     ]
+    },
+    {
+     "k": "Das Rennen der Männer auf Hawaii brachte Aufgaben von Mitfavoriten mit sich. Der",
+     "d": "159af289fd.mp3",
+     "l": 53.23,
+     "s": [
+      0.25,
+      4.58,
+      12.44,
+      17.84,
+      24.2,
+      29.72,
+      34.15,
+      41.04
+     ]
+    },
+    {
+     "k": "In der Fußball-Bundesliga stellte der FC Augsburg im Spiel gegen den FC Bayern M",
+     "d": "2ce0cdecef.mp3",
+     "l": 52.29,
+     "s": [
+      0.25,
+      6.82,
+      15.63,
+      22.02,
+      26.32,
+      35.86,
+      44.18,
+      48.45
+     ]
+    },
+    {
+     "k": "Die Ironman-Weltmeisterschaft auf Hawaii gilt als anspruchsvoller Wettkampf im T",
+     "d": "832a3c63fa.mp3",
+     "l": 38.71,
+     "s": [
+      0.25,
+      5.92,
+      13.65,
+      18.81,
+      23.79,
+      29.38,
+      32.78
+     ]
+    },
+    {
+     "k": "Der Ironman ist ein Langdistanz-Triathlon, bei dem die Disziplinen Schwimmen, Ra",
+     "d": "e1085847c7.mp3",
+     "l": 27.23,
+     "s": [
+      0.25,
+      7.51,
+      14.72,
+      19.57
+     ]
+    },
+    {
+     "k": "Patrick Lange erklärte vor dem Start laut FAZ, dass für ihn das Hinfahren und Da",
+     "d": "f85f79a80a.mp3",
+     "l": 26.97,
+     "s": [
+      0.25,
+      6.48,
+      12.55,
+      21.89
+     ]
     }
    ]
   },
@@ -7673,6 +7867,51 @@
      "s": [
       0.25,
       3.43
+     ]
+    },
+    {
+     "k": "Die polnische Polizei hat einen etwa 60 Jahre alten Mann im Südwesten Polens fes",
+     "d": "4bc4c73395.mp3",
+     "l": 40.99,
+     "s": [
+      0.25,
+      5.58,
+      9.54,
+      13.52,
+      21.01,
+      27.45,
+      33.54,
+      36.65
+     ]
+    },
+    {
+     "k": "Innenminister Marcin Kierwinski und der für Geheimdienste zuständige Minister To",
+     "d": "92af1007fc.mp3",
+     "l": 50.87,
+     "s": [
+      0.25,
+      8.72,
+      14.18,
+      22.79,
+      28.34,
+      34.17,
+      41.43,
+      46.16
+     ]
+    },
+    {
+     "k": "Zu den Hintergründen des Festgenommenen äußerte sich der Innenminister in ersten",
+     "d": "4e58fa7d4c.mp3",
+     "l": 38.71,
+     "s": [
+      0.25,
+      5.78,
+      11.33,
+      14.32,
+      19.01,
+      24.9,
+      29.32,
+      35.75
      ]
     }
    ]
@@ -12093,23 +12332,6 @@
    "version": 5,
    "ton": [
     {
-     "k": "Die Regierung der Vereinigten Staaten hat neue Sanktionen gegen den Internationa",
-     "d": "c0944d404b.mp3",
-     "l": 58.98,
-     "s": [
-      0.25,
-      7.08,
-      11.3,
-      16.18,
-      23.17,
-      28.26,
-      34.72,
-      41.55,
-      47.49,
-      53.22
-     ]
-    },
-    {
      "k": "Die USA haben neue Sanktionen gegen den Internationalen Strafgerichtshof angekün",
      "d": "6f3c808e33.mp3",
      "l": 19.48,
@@ -12147,6 +12369,21 @@
      "s": [
       0.25,
       4.73
+     ]
+    },
+    {
+     "k": "Die Regierung der Vereinigten Staaten hat neue Sanktionen gegen den Internationa",
+     "d": "7fd98a25fa.mp3",
+     "l": 52.2,
+     "s": [
+      0.25,
+      7.06,
+      14.78,
+      19.34,
+      25.19,
+      30.49,
+      35.84,
+      43.22
      ]
     },
     {

@@ -175,7 +175,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Schwarzes Loch krümmt die Raumzeit so stark, dass kein Licht entweichen kann."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Schwarzes Loch ist ein Objekt mit extrem starker Schwerkraft. Nichts kann di",
+     "d": "75373aecf6.mp3",
+     "l": 33.33,
+     "s": [
+      0.25,
+      4.07,
+      7.28,
+      10.95,
+      15.82,
+      20.11,
+      24.15,
+      29.8
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-ein-reissverschluss",
@@ -336,7 +353,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Reißverschluss besteht aus zwei Seitenteilen mit Zähnen und einem Schieber."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Reißverschluss verbindet Kleidung oder Taschen schnell und einfach miteinand",
+     "d": "1c985d5825.mp3",
+     "l": 36.62,
+     "s": [
+      0.25,
+      5.5,
+      9.69,
+      13.16,
+      17.41,
+      20.54,
+      25.52,
+      31.38
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-blindenschrift",
@@ -1250,24 +1284,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Regenbogen zeigt sich als farbiges Lichtband am Himmel."
-   },
-   "ton": [
-    {
-     "k": "Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht in einem von de",
-     "d": "c662fe0987.mp3",
-     "l": 29.97,
-     "s": [
-      0.25,
-      3.38,
-      6.84,
-      10.56,
-      14.26,
-      17.41,
-      21.34,
-      25.72
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-entsteht-eigentlich-ein-ohrwurm",
