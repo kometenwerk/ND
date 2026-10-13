@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Tue, 13 Oct 2026 09:20:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 17:33:49 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-13</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende · Europäische Union beschließt neue Sanktionen gegen Russland · Israel verweigert taz-Korrespondentin Visum und Einreise · Wirtschaftsnobelpreis geht an US-Ökonomen Robert E. Hall und Michael Woodford</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende · Europäische Union beschließt neue Sanktionen gegen Russland · Israel verweigert taz-Korrespondentin Visum und Einreise · Wirtschaftsnobelpreis geht an US-Ökonomen Robert E. Hall und Michael Woodford</itunes:summary>
+    <pubDate>Tue, 13 Oct 2026 09:20:26 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-13</guid>
+    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-hauptausgabe-2026-10-13.mp3" length="3864045" type="audio/mpeg"/>
+    <itunes:duration>00:10:44</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Rücktritt von Bärbel Bas und Nachfolge von Alexander Schweitzer</title>
     <description>Bundesarbeitsministerin Bärbel Bas ist am Montag von all ihren Ämtern zurückgetreten. Neuer Arbeitsminister soll Alexander Schweitzer werden.</description>
@@ -45,17 +56,6 @@
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-reissverschluss</guid>
     <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/1c985d5825.mp3" length="220125" type="audio/mpeg"/>
     <itunes:duration>00:00:37</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-12</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Koalitionsverhandlungen in Mecklenburg-Vorpommern begonnen · Erneute Angriffe auf Flughäfen in Saudi-Arabien und diplomatische Reaktionen · Auseinandersetzung über ukrainische Führung und verkündete Energie-Waffenruhe · US-Senatoren bezeichnen Trumps geplante Diesel-Importe aus Russland als rechtswidrig · Ergebnisse der Ironman-Weltmeisterschaft auf Hawaii sowie Bundesliga-Ereignisse</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Koalitionsverhandlungen in Mecklenburg-Vorpommern begonnen · Erneute Angriffe auf Flughäfen in Saudi-Arabien und diplomatische Reaktionen · Auseinandersetzung über ukrainische Führung und verkündete Energie-Waffenruhe · US-Senatoren bezeichnen Trumps geplante Diesel-Importe aus Russland als rechtswidrig · Ergebnisse der Ironman-Weltmeisterschaft auf Hawaii sowie Bundesliga-Ereignisse</itunes:summary>
-    <pubDate>Mon, 12 Oct 2026 09:06:44 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-12</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-hauptausgabe-2026-10-12.mp3" length="3978525" type="audio/mpeg"/>
-    <itunes:duration>00:11:03</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

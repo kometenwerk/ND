@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-13T09:20:26.160Z",
+ "stand": "2026-10-13T17:33:49.662Z",
  "gepusht": [
   "davis-cup-tennis-finale",
   "merzer-enteignungsverbot",
@@ -93,7 +93,6 @@
   "eu-haushalt-vorschlag-irland",
   "us-diesel-deal-russland-reaktionen",
   "jugendwort-des-jahres-2026-ragebait",
-  "angriffe-saporischschja",
   "trump-fordert-selenskyj-abloesung",
   "ironman-wm-hawaii-luis-philipp",
   "cdu-praesidium-klausur-merz-kritik",
@@ -108,7 +107,7 @@
   "starlink-station-polen-festnahmen"
  ],
  "wetter": {
-  "stand": "2026-10-13T09:20:26.160Z",
+  "stand": "2026-10-13T17:33:49.662Z",
   "morgenTag": "Mittwoch",
   "orte": [
    {
@@ -117,236 +116,188 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 9,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 7,
-     "wind": 13,
-     "windAus": 139,
-     "feuchte": 83,
-     "druck": 1020,
+     "gefuehlt": 12,
+     "wind": 12,
+     "windAus": 195,
+     "feuchte": 84,
+     "druck": 1015,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
-     "code": 61,
-     "max": 14,
+     "code": 80,
+     "max": 15,
      "min": 5,
-     "regen": 100,
-     "menge": 1.5,
-     "wind": 16,
-     "windAus": 158,
+     "regen": 95,
+     "menge": 0.1,
+     "wind": 18,
+     "windAus": 166,
      "uv": 1.6,
      "auf": "07:43",
      "unter": "18:28"
     },
     "morgen": {
      "datum": "2026-10-14",
-     "code": 80,
+     "code": 3,
      "max": 16,
      "min": 10,
-     "regen": 72,
-     "menge": 0.1,
-     "wind": 14,
-     "windAus": 268,
-     "uv": 2.7,
+     "regen": 5,
+     "menge": 0,
+     "wind": 17,
+     "windAus": 265,
+     "uv": 2.6,
      "auf": "07:45",
      "unter": "18:26"
     },
     "tage": [
      {
       "datum": "2026-10-13",
-      "code": 61,
-      "max": 14,
+      "code": 80,
+      "max": 15,
       "min": 5,
-      "regen": 100,
-      "menge": 1.5,
-      "wind": 16,
-      "windAus": 158,
+      "regen": 95,
+      "menge": 0.1,
+      "wind": 18,
+      "windAus": 166,
       "uv": 1.6,
       "auf": "07:43",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-14",
-      "code": 80,
+      "code": 3,
       "max": 16,
       "min": 10,
-      "regen": 72,
-      "menge": 0.1,
-      "wind": 14,
-      "windAus": 268,
-      "uv": 2.7,
+      "regen": 5,
+      "menge": 0,
+      "wind": 17,
+      "windAus": 265,
+      "uv": 2.6,
       "auf": "07:45",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 16,
-      "min": 7,
+      "max": 17,
+      "min": 8,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 177,
-      "uv": 2.2,
+      "wind": 11,
+      "windAus": 178,
+      "uv": 2.4,
       "auf": "07:46",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-16",
-      "code": 3,
+      "code": 61,
       "max": 20,
-      "min": 10,
-      "regen": 43,
-      "menge": 0,
-      "wind": 11,
-      "windAus": 192,
-      "uv": 2.6,
+      "min": 12,
+      "regen": 48,
+      "menge": 2.1,
+      "wind": 12,
+      "windAus": 199,
+      "uv": 2.7,
       "auf": "07:48",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
+      "code": 3,
       "max": 14,
       "min": 8,
-      "regen": 42,
-      "menge": 0.6,
-      "wind": 11,
-      "windAus": 346,
+      "regen": 51,
+      "menge": 1,
+      "wind": 13,
+      "windAus": 321,
       "uv": 2.6,
       "auf": "07:50",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-18",
-      "code": 2,
+      "code": 3,
       "max": 12,
-      "min": 6,
-      "regen": 8,
+      "min": 4,
+      "regen": 5,
       "menge": 0,
-      "wind": 14,
-      "windAus": 34,
-      "uv": 2.5,
+      "wind": 7,
+      "windAus": 319,
+      "uv": 2.4,
       "auf": "07:52",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-19",
-      "code": 2,
-      "max": 12,
-      "min": 4,
-      "regen": 10,
+      "code": 3,
+      "max": 14,
+      "min": 6,
+      "regen": 8,
       "menge": 0,
-      "wind": 11,
-      "windAus": 30,
-      "uv": 1.3,
+      "wind": 16,
+      "windAus": 60,
+      "uv": 2.4,
       "auf": "07:54",
       "unter": "18:14"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 21
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 19
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 22
-     },
-     {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 25
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "16:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 6
-     },
-     {
-      "zeit": "17:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 22
-     },
-     {
       "zeit": "19:00",
-      "grad": 12,
+      "grad": 14,
       "code": 3,
-      "regen": 50
+      "regen": 35
      },
      {
       "zeit": "20:00",
-      "grad": 12,
+      "grad": 14,
       "code": 3,
-      "regen": 73
+      "regen": 48
      },
      {
       "zeit": "21:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 90
+      "grad": 14,
+      "code": 80,
+      "regen": 95
      },
      {
       "zeit": "22:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 100
+      "grad": 15,
+      "code": 2,
+      "regen": 25
      },
      {
       "zeit": "23:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 100
+      "grad": 15,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 14,
-      "code": 3,
-      "regen": 72
+      "code": 1,
+      "regen": 5
      },
      {
       "zeit": "01:00",
       "grad": 14,
       "code": 1,
-      "regen": 30
+      "regen": 3
      },
      {
       "zeit": "02:00",
       "grad": 13,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 13,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -357,39 +308,87 @@
      },
      {
       "zeit": "05:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 4
+      "grad": 12,
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 5
+      "grad": 12,
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 6
+      "grad": 12,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 11,
       "code": 3,
-      "regen": 6
+      "regen": 3
      },
      {
       "zeit": "09:00",
       "grad": 11,
       "code": 3,
-      "regen": 4
+      "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 12,
       "code": 3,
-      "regen": 1
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 14,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -399,39 +398,39 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 9,
-     "code": 2,
-     "gefuehlt": 6,
-     "wind": 6,
-     "windAus": 153,
-     "feuchte": 72,
-     "druck": 1022,
+     "grad": 14,
+     "code": 3,
+     "gefuehlt": 11,
+     "wind": 11,
+     "windAus": 165,
+     "feuchte": 58,
+     "druck": 1018,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 15,
+     "max": 16,
      "min": 3,
-     "regen": 18,
-     "menge": 0.2,
+     "regen": 38,
+     "menge": 0.4,
      "wind": 13,
-     "windAus": 161,
-     "uv": 2.9,
+     "windAus": 166,
+     "uv": 3,
      "auf": "07:28",
      "unter": "18:16"
     },
     "morgen": {
      "datum": "2026-10-14",
      "code": 61,
-     "max": 16,
+     "max": 17,
      "min": 10,
-     "regen": 94,
-     "menge": 2.3,
-     "wind": 19,
-     "windAus": 278,
-     "uv": 2.5,
+     "regen": 98,
+     "menge": 0.7,
+     "wind": 18,
+     "windAus": 277,
+     "uv": 2.7,
      "auf": "07:29",
      "unter": "18:14"
     },
@@ -439,39 +438,39 @@
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 15,
+      "max": 16,
       "min": 3,
-      "regen": 18,
-      "menge": 0.2,
+      "regen": 38,
+      "menge": 0.4,
       "wind": 13,
-      "windAus": 161,
-      "uv": 2.9,
+      "windAus": 166,
+      "uv": 3,
       "auf": "07:28",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-14",
       "code": 61,
-      "max": 16,
+      "max": 17,
       "min": 10,
-      "regen": 94,
-      "menge": 2.3,
-      "wind": 19,
-      "windAus": 278,
-      "uv": 2.5,
+      "regen": 98,
+      "menge": 0.7,
+      "wind": 18,
+      "windAus": 277,
+      "uv": 2.7,
       "auf": "07:29",
       "unter": "18:14"
      },
      {
       "datum": "2026-10-15",
-      "code": 45,
+      "code": 3,
       "max": 16,
       "min": 7,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 196,
-      "uv": 2.6,
+      "wind": 9,
+      "windAus": 181,
+      "uv": 2.4,
       "auf": "07:31",
       "unter": "18:11"
      },
@@ -479,10 +478,10 @@
       "datum": "2026-10-16",
       "code": 3,
       "max": 19,
-      "min": 5,
-      "regen": 4,
+      "min": 6,
+      "regen": 8,
       "menge": 0,
-      "wind": 9,
+      "wind": 10,
       "windAus": 155,
       "uv": 2.7,
       "auf": "07:33",
@@ -490,158 +489,110 @@
      },
      {
       "datum": "2026-10-17",
-      "code": 3,
+      "code": 61,
       "max": 14,
-      "min": 8,
-      "regen": 20,
+      "min": 7,
+      "regen": 40,
       "menge": 0,
-      "wind": 12,
-      "windAus": 340,
-      "uv": 2.7,
+      "wind": 13,
+      "windAus": 311,
+      "uv": 1.8,
       "auf": "07:35",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 14,
-      "min": 8,
-      "regen": 10,
+      "code": 45,
+      "max": 13,
+      "min": 6,
+      "regen": 5,
       "menge": 0,
-      "wind": 14,
-      "windAus": 31,
-      "uv": 1.5,
+      "wind": 6,
+      "windAus": 346,
+      "uv": 2.4,
       "auf": "07:37",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 14,
-      "min": 5,
+      "max": 13,
+      "min": 8,
       "regen": 8,
       "menge": 0,
-      "wind": 9,
-      "windAus": 32,
-      "uv": 1.3,
+      "wind": 11,
+      "windAus": 60,
+      "uv": 2.4,
       "auf": "07:38",
       "unter": "18:03"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 6
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 4
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 2
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 5
-     },
-     {
       "zeit": "19:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 11
+      "grad": 14,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "20:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 16
+      "grad": 14,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
-      "regen": 15
+      "regen": 3
      },
      {
       "zeit": "22:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 12
+      "grad": 14,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "23:00",
-      "grad": 12,
+      "grad": 14,
       "code": 61,
-      "regen": 18
+      "regen": 38
      },
      {
       "zeit": "00:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 44
+      "regen": 40
      },
      {
       "zeit": "01:00",
-      "grad": 12,
+      "grad": 13,
       "code": 61,
-      "regen": 78
+      "regen": 98
      },
      {
       "zeit": "02:00",
-      "grad": 12,
+      "grad": 14,
       "code": 61,
-      "regen": 94
+      "regen": 45
      },
      {
       "zeit": "03:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 73
+      "grad": 14,
+      "code": 1,
+      "regen": 3
      },
      {
       "zeit": "04:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 34
+      "grad": 13,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 4
+      "grad": 13,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "06:00",
@@ -652,24 +603,72 @@
      {
       "zeit": "07:00",
       "grad": 12,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 11,
+      "grad": 12,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 11,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 12,
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 17,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 17,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 16,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 15,
       "code": 3,
       "regen": 0
      }
@@ -681,26 +680,26 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 11,
-     "code": 2,
-     "gefuehlt": 9,
-     "wind": 8,
-     "windAus": 177,
-     "feuchte": 70,
-     "druck": 1013,
+     "grad": 15,
+     "code": 3,
+     "gefuehlt": 12,
+     "wind": 11,
+     "windAus": 207,
+     "feuchte": 61,
+     "druck": 1009,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
-     "code": 61,
-     "max": 16,
+     "code": 45,
+     "max": 17,
      "min": 7,
-     "regen": 20,
-     "menge": 0.7,
-     "wind": 13,
+     "regen": 35,
+     "menge": 0,
+     "wind": 11,
      "windAus": 193,
-     "uv": 3.2,
+     "uv": 3.1,
      "auf": "07:30",
      "unter": "18:22"
     },
@@ -708,11 +707,11 @@
      "datum": "2026-10-14",
      "code": 61,
      "max": 16,
-     "min": 10,
-     "regen": 100,
-     "menge": 2.2,
-     "wind": 14,
-     "windAus": 272,
+     "min": 9,
+     "regen": 90,
+     "menge": 0.4,
+     "wind": 13,
+     "windAus": 269,
      "uv": 2.9,
      "auf": "07:32",
      "unter": "18:19"
@@ -720,14 +719,14 @@
     "tage": [
      {
       "datum": "2026-10-13",
-      "code": 61,
-      "max": 16,
+      "code": 45,
+      "max": 17,
       "min": 7,
-      "regen": 20,
-      "menge": 0.7,
-      "wind": 13,
+      "regen": 35,
+      "menge": 0,
+      "wind": 11,
       "windAus": 193,
-      "uv": 3.2,
+      "uv": 3.1,
       "auf": "07:30",
       "unter": "18:22"
      },
@@ -735,11 +734,11 @@
       "datum": "2026-10-14",
       "code": 61,
       "max": 16,
-      "min": 10,
-      "regen": 100,
-      "menge": 2.2,
-      "wind": 14,
-      "windAus": 272,
+      "min": 9,
+      "regen": 90,
+      "menge": 0.4,
+      "wind": 13,
+      "windAus": 269,
       "uv": 2.9,
       "auf": "07:32",
       "unter": "18:19"
@@ -748,11 +747,11 @@
       "datum": "2026-10-15",
       "code": 3,
       "max": 16,
-      "min": 6,
+      "min": 7,
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 184,
+      "windAus": 178,
       "uv": 2.9,
       "auf": "07:34",
       "unter": "18:17"
@@ -760,26 +759,26 @@
      {
       "datum": "2026-10-16",
       "code": 3,
-      "max": 19,
+      "max": 20,
       "min": 7,
-      "regen": 2,
+      "regen": 9,
       "menge": 0,
       "wind": 7,
-      "windAus": 180,
-      "uv": 2.9,
+      "windAus": 184,
+      "uv": 3,
       "auf": "07:35",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-17",
-      "code": 3,
-      "max": 13,
-      "min": 9,
-      "regen": 43,
+      "code": 61,
+      "max": 14,
+      "min": 7,
+      "regen": 44,
       "menge": 0.3,
-      "wind": 12,
-      "windAus": 337,
-      "uv": 1.6,
+      "wind": 13,
+      "windAus": 317,
+      "uv": 1.2,
       "auf": "07:37",
       "unter": "18:13"
      },
@@ -787,53 +786,149 @@
       "datum": "2026-10-18",
       "code": 3,
       "max": 12,
-      "min": 8,
-      "regen": 23,
+      "min": 5,
+      "regen": 12,
       "menge": 0,
-      "wind": 11,
-      "windAus": 30,
-      "uv": 2.4,
+      "wind": 8,
+      "windAus": 19,
+      "uv": 1.8,
       "auf": "07:39",
       "unter": "18:11"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 12,
+      "max": 13,
       "min": 7,
       "regen": 10,
       "menge": 0,
-      "wind": 10,
-      "windAus": 42,
-      "uv": 1.7,
+      "wind": 14,
+      "windAus": 62,
+      "uv": 2.7,
       "auf": "07:40",
       "unter": "18:09"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 10,
+      "zeit": "19:00",
+      "grad": 15,
       "code": 3,
-      "regen": 9
+      "regen": 5
+     },
+     {
+      "zeit": "20:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "21:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "23:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "00:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 30
+     },
+     {
+      "zeit": "01:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 90
+     },
+     {
+      "zeit": "02:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 40
+     },
+     {
+      "zeit": "03:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "04:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 11,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 1,
+      "regen": 3
+     },
+     {
+      "zeit": "10:00",
+      "grad": 13,
+      "code": 1,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 12,
+      "grad": 15,
       "code": 2,
-      "regen": 7
+      "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 4
+      "grad": 16,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 15,
-      "code": 2,
-      "regen": 2
+      "grad": 16,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "15:00",
@@ -844,115 +939,19 @@
      {
       "zeit": "16:00",
       "grad": 16,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 2
+      "grad": 16,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 6
-     },
-     {
-      "zeit": "19:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 12
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 16
-     },
-     {
-      "zeit": "21:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 15
-     },
-     {
-      "zeit": "22:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 13
-     },
-     {
-      "zeit": "23:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 20
-     },
-     {
-      "zeit": "00:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 47
-     },
-     {
-      "zeit": "01:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 83
-     },
-     {
-      "zeit": "02:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "03:00",
-      "grad": 12,
+      "grad": 15,
       "code": 2,
-      "regen": 78
-     },
-     {
-      "zeit": "04:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 37
-     },
-     {
-      "zeit": "05:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 6
-     },
-     {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 12,
-      "code": 1,
       "regen": 0
      }
     ]
@@ -963,26 +962,26 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
-     "code": 3,
-     "gefuehlt": 9,
-     "wind": 13,
-     "windAus": 134,
-     "feuchte": 79,
+     "grad": 15,
+     "code": 51,
+     "gefuehlt": 15,
+     "wind": 9,
+     "windAus": 140,
+     "feuchte": 90,
      "druck": 1014,
-     "niederschlag": 0,
-     "tag": 1
+     "niederschlag": 0.1,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
-     "code": 63,
+     "code": 53,
      "max": 16,
      "min": 11,
-     "regen": 84,
-     "menge": 5.8,
+     "regen": 94,
+     "menge": 1.5,
      "wind": 16,
-     "windAus": 137,
-     "uv": 0.9,
+     "windAus": 132,
+     "uv": 0.7,
      "auf": "07:51",
      "unter": "18:44"
     },
@@ -990,11 +989,11 @@
      "datum": "2026-10-14",
      "code": 3,
      "max": 18,
-     "min": 12,
-     "regen": 30,
+     "min": 13,
+     "regen": 26,
      "menge": 0,
-     "wind": 15,
-     "windAus": 270,
+     "wind": 14,
+     "windAus": 272,
      "uv": 3.2,
      "auf": "07:53",
      "unter": "18:42"
@@ -1002,14 +1001,14 @@
     "tage": [
      {
       "datum": "2026-10-13",
-      "code": 63,
+      "code": 53,
       "max": 16,
       "min": 11,
-      "regen": 84,
-      "menge": 5.8,
+      "regen": 94,
+      "menge": 1.5,
       "wind": 16,
-      "windAus": 137,
-      "uv": 0.9,
+      "windAus": 132,
+      "uv": 0.7,
       "auf": "07:51",
       "unter": "18:44"
      },
@@ -1017,11 +1016,11 @@
       "datum": "2026-10-14",
       "code": 3,
       "max": 18,
-      "min": 12,
-      "regen": 30,
+      "min": 13,
+      "regen": 26,
       "menge": 0,
-      "wind": 15,
-      "windAus": 270,
+      "wind": 14,
+      "windAus": 272,
       "uv": 3.2,
       "auf": "07:53",
       "unter": "18:42"
@@ -1029,12 +1028,12 @@
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 20,
+      "max": 21,
       "min": 10,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 151,
+      "windAus": 139,
       "uv": 3.1,
       "auf": "07:55",
       "unter": "18:39"
@@ -1042,12 +1041,12 @@
      {
       "datum": "2026-10-16",
       "code": 51,
-      "max": 21,
+      "max": 22,
       "min": 9,
-      "regen": 57,
-      "menge": 0.3,
-      "wind": 18,
-      "windAus": 183,
+      "regen": 33,
+      "menge": 0.6,
+      "wind": 17,
+      "windAus": 162,
       "uv": 3.1,
       "auf": "07:56",
       "unter": "18:37"
@@ -1056,24 +1055,24 @@
       "datum": "2026-10-17",
       "code": 51,
       "max": 14,
-      "min": 8,
-      "regen": 55,
-      "menge": 1.2,
-      "wind": 18,
-      "windAus": 324,
+      "min": 7,
+      "regen": 41,
+      "menge": 1,
+      "wind": 17,
+      "windAus": 333,
       "uv": 2.8,
       "auf": "07:58",
       "unter": "18:35"
      },
      {
       "datum": "2026-10-18",
-      "code": 53,
-      "max": 11,
+      "code": 51,
+      "max": 10,
       "min": 6,
-      "regen": 14,
-      "menge": 1.8,
+      "regen": 19,
+      "menge": 2.4,
       "wind": 12,
-      "windAus": 9,
+      "windAus": 18,
       "uv": 2.8,
       "auf": "08:00",
       "unter": "18:33"
@@ -1083,134 +1082,86 @@
       "code": 53,
       "max": 14,
       "min": 7,
-      "regen": 16,
-      "menge": 5.1,
+      "regen": 13,
+      "menge": 3,
       "wind": 14,
-      "windAus": 42,
-      "uv": 2.4,
+      "windAus": 53,
+      "uv": 2.7,
       "auf": "08:01",
       "unter": "18:31"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 84
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 71
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 48
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 31
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 24
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 51,
-      "regen": 22
-     },
-     {
-      "zeit": "17:00",
-      "grad": 14,
-      "code": 51,
-      "regen": 27
-     },
-     {
-      "zeit": "18:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 44
-     },
-     {
       "zeit": "19:00",
       "grad": 15,
       "code": 3,
-      "regen": 68
+      "regen": 78
      },
      {
       "zeit": "20:00",
       "grad": 15,
-      "code": 53,
-      "regen": 82
+      "code": 51,
+      "regen": 94
      },
      {
       "zeit": "21:00",
       "grad": 15,
-      "code": 63,
-      "regen": 77
+      "code": 51,
+      "regen": 85
      },
      {
       "zeit": "22:00",
-      "grad": 16,
-      "code": 53,
-      "regen": 63
+      "grad": 15,
+      "code": 0,
+      "regen": 64
      },
      {
       "zeit": "23:00",
       "grad": 16,
-      "code": 1,
-      "regen": 47
+      "code": 0,
+      "regen": 43
      },
      {
       "zeit": "00:00",
       "grad": 15,
-      "code": 3,
-      "regen": 30
+      "code": 0,
+      "regen": 26
      },
      {
       "zeit": "01:00",
       "grad": 15,
-      "code": 3,
-      "regen": 13
+      "code": 0,
+      "regen": 11
      },
      {
       "zeit": "02:00",
-      "grad": 15,
-      "code": 3,
+      "grad": 14,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 14,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 13,
-      "code": 3,
+      "grad": 14,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1221,20 +1172,68 @@
      },
      {
       "zeit": "08:00",
-      "grad": 12,
-      "code": 1,
+      "grad": 13,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 12,
-      "code": 1,
+      "grad": 13,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 14,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 16,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 17,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 18,
       "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 18,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1245,26 +1244,26 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 9,
-     "code": 61,
-     "gefuehlt": 8,
-     "wind": 2,
-     "windAus": 180,
-     "feuchte": 83,
-     "druck": 1012,
-     "niederschlag": 0.1,
-     "tag": 1
+     "grad": 14,
+     "code": 3,
+     "gefuehlt": 13,
+     "wind": 5,
+     "windAus": 233,
+     "feuchte": 86,
+     "druck": 1011,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
-     "code": 80,
-     "max": 11,
-     "min": 7,
-     "regen": 57,
-     "menge": 2,
-     "wind": 8,
-     "windAus": 201,
-     "uv": 0.7,
+     "code": 61,
+     "max": 14,
+     "min": 6,
+     "regen": 55,
+     "menge": 0.9,
+     "wind": 9,
+     "windAus": 206,
+     "uv": 0.6,
      "auf": "07:43",
      "unter": "18:38"
     },
@@ -1272,11 +1271,11 @@
      "datum": "2026-10-14",
      "code": 45,
      "max": 18,
-     "min": 8,
-     "regen": 55,
+     "min": 9,
+     "regen": 18,
      "menge": 0,
-     "wind": 9,
-     "windAus": 256,
+     "wind": 8,
+     "windAus": 218,
      "uv": 3.2,
      "auf": "07:45",
      "unter": "18:36"
@@ -1284,14 +1283,14 @@
     "tage": [
      {
       "datum": "2026-10-13",
-      "code": 80,
-      "max": 11,
-      "min": 7,
-      "regen": 57,
-      "menge": 2,
-      "wind": 8,
-      "windAus": 201,
-      "uv": 0.7,
+      "code": 61,
+      "max": 14,
+      "min": 6,
+      "regen": 55,
+      "menge": 0.9,
+      "wind": 9,
+      "windAus": 206,
+      "uv": 0.6,
       "auf": "07:43",
       "unter": "18:38"
      },
@@ -1299,11 +1298,11 @@
       "datum": "2026-10-14",
       "code": 45,
       "max": 18,
-      "min": 8,
-      "regen": 55,
+      "min": 9,
+      "regen": 18,
       "menge": 0,
-      "wind": 9,
-      "windAus": 256,
+      "wind": 8,
+      "windAus": 218,
       "uv": 3.2,
       "auf": "07:45",
       "unter": "18:36"
@@ -1311,25 +1310,25 @@
      {
       "datum": "2026-10-15",
       "code": 45,
-      "max": 17,
-      "min": 5,
+      "max": 16,
+      "min": 6,
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 112,
-      "uv": 3.2,
+      "windAus": 168,
+      "uv": 3.1,
       "auf": "07:47",
       "unter": "18:34"
      },
      {
       "datum": "2026-10-16",
       "code": 45,
-      "max": 16,
-      "min": 5,
-      "regen": 14,
+      "max": 19,
+      "min": 4,
+      "regen": 22,
       "menge": 0,
-      "wind": 5,
-      "windAus": 166,
+      "wind": 8,
+      "windAus": 223,
       "uv": 3.2,
       "auf": "07:48",
       "unter": "18:32"
@@ -1337,186 +1336,186 @@
      {
       "datum": "2026-10-17",
       "code": 61,
-      "max": 13,
-      "min": 8,
-      "regen": 47,
-      "menge": 6.3,
-      "wind": 15,
-      "windAus": 23,
-      "uv": 3.1,
+      "max": 15,
+      "min": 6,
+      "regen": 41,
+      "menge": 0.9,
+      "wind": 14,
+      "windAus": 356,
+      "uv": 0.8,
       "auf": "07:50",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 11,
-      "min": 8,
-      "regen": 26,
-      "menge": 5.7,
-      "wind": 12,
-      "windAus": 27,
-      "uv": 1.9,
-      "auf": "07:52",
+      "max": 10,
+      "min": 6,
+      "regen": 17,
+      "menge": 0.5,
+      "wind": 11,
+      "windAus": 23,
+      "uv": 0.8,
+      "auf": "07:51",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
-      "code": 61,
-      "max": 10,
-      "min": 9,
-      "regen": 25,
-      "menge": 9.3,
-      "wind": 13,
-      "windAus": 27,
-      "uv": 1.7,
+      "code": 3,
+      "max": 18,
+      "min": 7,
+      "regen": 18,
+      "menge": 0,
+      "wind": 15,
+      "windAus": 36,
+      "uv": 2.8,
       "auf": "07:53",
       "unter": "18:26"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 12
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 18
-     },
-     {
-      "zeit": "13:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 26
-     },
-     {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 33
-     },
-     {
-      "zeit": "15:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 35
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 27
-     },
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "18:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 13
-     },
-     {
       "zeit": "19:00",
-      "grad": 11,
+      "grad": 14,
       "code": 3,
-      "regen": 7
+      "regen": 5
      },
      {
       "zeit": "20:00",
-      "grad": 11,
+      "grad": 13,
       "code": 3,
-      "regen": 8
+      "regen": 5
      },
      {
       "zeit": "21:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 22
+      "grad": 13,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 11,
+      "grad": 13,
       "code": 3,
-      "regen": 44
+      "regen": 15
      },
      {
       "zeit": "23:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 57
-     },
-     {
-      "zeit": "00:00",
-      "grad": 12,
+      "grad": 14,
       "code": 3,
       "regen": 55
      },
      {
+      "zeit": "00:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 18
+     },
+     {
       "zeit": "01:00",
-      "grad": 12,
+      "grad": 14,
       "code": 2,
-      "regen": 46
+      "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 35
+      "grad": 13,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 10,
-      "code": 45,
-      "regen": 23
+      "grad": 13,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 10,
-      "code": 45,
-      "regen": 10
+      "grad": 12,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 9,
+      "grad": 11,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 9,
+      "grad": 10,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 8,
+      "grad": 10,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 8,
+      "grad": 10,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 9,
+      "grad": 10,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 9,
+      "grad": 11,
       "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 13,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 17,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -1527,278 +1526,278 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 11,
+     "grad": 16,
      "code": 3,
-     "gefuehlt": 9,
-     "wind": 5,
-     "windAus": 176,
-     "feuchte": 68,
-     "druck": 995,
+     "gefuehlt": 16,
+     "wind": 3,
+     "windAus": 207,
+     "feuchte": 75,
+     "druck": 994,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
-     "code": 61,
-     "max": 14,
+     "code": 80,
+     "max": 17,
      "min": 6,
-     "regen": 37,
-     "menge": 0.9,
-     "wind": 8,
-     "windAus": 184,
-     "uv": 1.4,
+     "regen": 35,
+     "menge": 0.3,
+     "wind": 6,
+     "windAus": 185,
+     "uv": 1.2,
      "auf": "07:40",
      "unter": "18:38"
     },
     "morgen": {
      "datum": "2026-10-14",
-     "code": 61,
-     "max": 18,
-     "min": 12,
-     "regen": 78,
-     "menge": 0.4,
-     "wind": 7,
-     "windAus": 283,
-     "uv": 2.8,
+     "code": 80,
+     "max": 19,
+     "min": 11,
+     "regen": 38,
+     "menge": 0.5,
+     "wind": 8,
+     "windAus": 269,
+     "uv": 3.2,
      "auf": "07:41",
      "unter": "18:36"
     },
     "tage": [
      {
       "datum": "2026-10-13",
-      "code": 61,
-      "max": 14,
+      "code": 80,
+      "max": 17,
       "min": 6,
-      "regen": 37,
-      "menge": 0.9,
-      "wind": 8,
-      "windAus": 184,
-      "uv": 1.4,
+      "regen": 35,
+      "menge": 0.3,
+      "wind": 6,
+      "windAus": 185,
+      "uv": 1.2,
       "auf": "07:40",
       "unter": "18:38"
      },
      {
       "datum": "2026-10-14",
-      "code": 61,
-      "max": 18,
-      "min": 12,
-      "regen": 78,
-      "menge": 0.4,
-      "wind": 7,
-      "windAus": 283,
-      "uv": 2.8,
+      "code": 80,
+      "max": 19,
+      "min": 11,
+      "regen": 38,
+      "menge": 0.5,
+      "wind": 8,
+      "windAus": 269,
+      "uv": 3.2,
       "auf": "07:41",
       "unter": "18:36"
      },
      {
       "datum": "2026-10-15",
       "code": 45,
-      "max": 19,
+      "max": 20,
       "min": 7,
       "regen": 0,
       "menge": 0,
-      "wind": 5,
-      "windAus": 183,
+      "wind": 7,
+      "windAus": 175,
       "uv": 3.3,
       "auf": "07:43",
       "unter": "18:34"
      },
      {
       "datum": "2026-10-16",
-      "code": 45,
-      "max": 19,
+      "code": 80,
+      "max": 23,
       "min": 8,
-      "regen": 8,
-      "menge": 0,
-      "wind": 4,
-      "windAus": 185,
-      "uv": 3.3,
+      "regen": 9,
+      "menge": 0.4,
+      "wind": 7,
+      "windAus": 221,
+      "uv": 3.2,
       "auf": "07:44",
       "unter": "18:32"
      },
      {
       "datum": "2026-10-17",
-      "code": 51,
-      "max": 14,
+      "code": 61,
+      "max": 16,
       "min": 9,
-      "regen": 75,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 354,
-      "uv": 0.2,
+      "regen": 53,
+      "menge": 4.6,
+      "wind": 12,
+      "windAus": 320,
+      "uv": 1.6,
       "auf": "07:46",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 11,
-      "min": 9,
-      "regen": 40,
-      "menge": 0,
-      "wind": 12,
-      "windAus": 42,
-      "uv": 1.4,
+      "code": 61,
+      "max": 10,
+      "min": 7,
+      "regen": 38,
+      "menge": 3.1,
+      "wind": 9,
+      "windAus": 9,
+      "uv": 1,
       "auf": "07:47",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 14,
+      "max": 18,
       "min": 9,
-      "regen": 30,
-      "menge": 0.3,
-      "wind": 10,
-      "windAus": 49,
-      "uv": 0.7,
+      "regen": 20,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 63,
+      "uv": 2.9,
       "auf": "07:49",
       "unter": "18:26"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 11,
+      "zeit": "19:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "20:00",
+      "grad": 16,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 16,
+      "code": 80,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 16,
       "code": 3,
       "regen": 5
      },
      {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 9
+      "zeit": "23:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
      },
      {
-      "zeit": "13:00",
-      "grad": 12,
+      "zeit": "00:00",
+      "grad": 15,
       "code": 3,
-      "regen": 7
+      "regen": 5
      },
      {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 61,
+      "zeit": "01:00",
+      "grad": 15,
+      "code": 3,
       "regen": 3
      },
      {
-      "zeit": "15:00",
-      "grad": 12,
+      "zeit": "02:00",
+      "grad": 15,
       "code": 3,
-      "regen": 6
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 61,
       "regen": 15
      },
      {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 22
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 25
-     },
-     {
-      "zeit": "19:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 26
-     },
-     {
-      "zeit": "20:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 27
-     },
-     {
-      "zeit": "21:00",
-      "grad": 13,
+      "zeit": "03:00",
+      "grad": 15,
       "code": 3,
       "regen": 30
      },
      {
-      "zeit": "22:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 34
-     },
-     {
-      "zeit": "23:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 37
-     },
-     {
-      "zeit": "00:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 39
-     },
-     {
-      "zeit": "01:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 41
-     },
-     {
-      "zeit": "02:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 45
-     },
-     {
-      "zeit": "03:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 58
-     },
-     {
       "zeit": "04:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 74
+      "grad": 15,
+      "code": 80,
+      "regen": 38
      },
      {
       "zeit": "05:00",
       "grad": 15,
-      "code": 3,
-      "regen": 78
+      "code": 2,
+      "regen": 13
      },
      {
       "zeit": "06:00",
-      "grad": 14,
+      "grad": 15,
       "code": 2,
-      "regen": 57
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 14,
-      "code": 1,
-      "regen": 24
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 13,
-      "code": 1,
+      "grad": 14,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 12,
+      "grad": 14,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 14,
+      "grad": 15,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 18,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 18,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 19,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 19,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 19,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 18,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1809,39 +1808,39 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 10,
-     "code": 2,
-     "gefuehlt": 9,
-     "wind": 1,
-     "windAus": 56,
-     "feuchte": 69,
-     "druck": 965,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 12,
+     "wind": 6,
+     "windAus": 210,
+     "feuchte": 75,
+     "druck": 964,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-13",
      "code": 61,
-     "max": 14,
+     "max": 15,
      "min": 3,
-     "regen": 75,
-     "menge": 5.5,
-     "wind": 8,
-     "windAus": 211,
-     "uv": 3.4,
+     "regen": 98,
+     "menge": 1.8,
+     "wind": 10,
+     "windAus": 216,
+     "uv": 3,
      "auf": "07:29",
      "unter": "18:29"
     },
     "morgen": {
      "datum": "2026-10-14",
      "code": 80,
-     "max": 16,
+     "max": 18,
      "min": 10,
-     "regen": 92,
-     "menge": 0.3,
-     "wind": 11,
-     "windAus": 288,
-     "uv": 2.8,
+     "regen": 68,
+     "menge": 1.5,
+     "wind": 12,
+     "windAus": 285,
+     "uv": 2,
      "auf": "07:31",
      "unter": "18:27"
     },
@@ -1849,38 +1848,38 @@
      {
       "datum": "2026-10-13",
       "code": 61,
-      "max": 14,
+      "max": 15,
       "min": 3,
-      "regen": 75,
-      "menge": 5.5,
-      "wind": 8,
-      "windAus": 211,
-      "uv": 3.4,
+      "regen": 98,
+      "menge": 1.8,
+      "wind": 10,
+      "windAus": 216,
+      "uv": 3,
       "auf": "07:29",
       "unter": "18:29"
      },
      {
       "datum": "2026-10-14",
       "code": 80,
-      "max": 16,
+      "max": 18,
       "min": 10,
-      "regen": 92,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 288,
-      "uv": 2.8,
+      "regen": 68,
+      "menge": 1.5,
+      "wind": 12,
+      "windAus": 285,
+      "uv": 2,
       "auf": "07:31",
       "unter": "18:27"
      },
      {
       "datum": "2026-10-15",
       "code": 45,
-      "max": 17,
+      "max": 18,
       "min": 6,
       "regen": 0,
       "menge": 0,
       "wind": 4,
-      "windAus": 129,
+      "windAus": 155,
       "uv": 3.4,
       "auf": "07:32",
       "unter": "18:25"
@@ -1888,26 +1887,26 @@
      {
       "datum": "2026-10-16",
       "code": 45,
-      "max": 16,
-      "min": 8,
-      "regen": 0,
+      "max": 20,
+      "min": 6,
+      "regen": 3,
       "menge": 0,
-      "wind": 5,
-      "windAus": 94,
+      "wind": 6,
+      "windAus": 235,
       "uv": 3.4,
       "auf": "07:34",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-17",
-      "code": 45,
-      "max": 14,
-      "min": 9,
-      "regen": 57,
-      "menge": 0,
-      "wind": 6,
-      "windAus": 7,
-      "uv": 2.9,
+      "code": 61,
+      "max": 12,
+      "min": 7,
+      "regen": 58,
+      "menge": 5.9,
+      "wind": 11,
+      "windAus": 318,
+      "uv": 3.2,
       "auf": "07:35",
       "unter": "18:21"
      },
@@ -1916,181 +1915,181 @@
       "code": 3,
       "max": 14,
       "min": 7,
-      "regen": 49,
-      "menge": 0,
+      "regen": 56,
+      "menge": 0.4,
       "wind": 13,
-      "windAus": 69,
-      "uv": 0.2,
+      "windAus": 65,
+      "uv": 2.7,
       "auf": "07:37",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 12,
+      "max": 15,
       "min": 7,
-      "regen": 37,
+      "regen": 24,
       "menge": 0,
-      "wind": 10,
-      "windAus": 78,
-      "uv": 1.7,
+      "wind": 18,
+      "windAus": 81,
+      "uv": 3,
       "auf": "07:38",
       "unter": "18:17"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 6
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 2
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 22
-     },
-     {
       "zeit": "19:00",
-      "grad": 12,
+      "grad": 13,
       "code": 61,
-      "regen": 40
+      "regen": 88
      },
      {
       "zeit": "20:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 55
+      "grad": 13,
+      "code": 3,
+      "regen": 80
      },
      {
       "zeit": "21:00",
-      "grad": 11,
+      "grad": 13,
       "code": 61,
-      "regen": 65
+      "regen": 70
      },
      {
       "zeit": "22:00",
-      "grad": 11,
+      "grad": 13,
       "code": 61,
-      "regen": 72
+      "regen": 58
      },
      {
       "zeit": "23:00",
-      "grad": 12,
+      "grad": 13,
       "code": 61,
-      "regen": 75
+      "regen": 78
      },
      {
       "zeit": "00:00",
       "grad": 12,
       "code": 80,
-      "regen": 74
+      "regen": 43
      },
      {
       "zeit": "01:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 70
+      "grad": 13,
+      "code": 80,
+      "regen": 28
      },
      {
       "zeit": "02:00",
       "grad": 13,
       "code": 3,
-      "regen": 65
+      "regen": 48
      },
      {
       "zeit": "03:00",
       "grad": 13,
-      "code": 61,
-      "regen": 59
+      "code": 3,
+      "regen": 45
      },
      {
       "zeit": "04:00",
       "grad": 13,
       "code": 3,
-      "regen": 53
+      "regen": 13
      },
      {
       "zeit": "05:00",
       "grad": 13,
-      "code": 3,
-      "regen": 53
+      "code": 61,
+      "regen": 20
      },
      {
       "zeit": "06:00",
       "grad": 13,
-      "code": 3,
-      "regen": 66
+      "code": 80,
+      "regen": 68
      },
      {
       "zeit": "07:00",
       "grad": 13,
-      "code": 80,
-      "regen": 85
+      "code": 61,
+      "regen": 60
      },
      {
       "zeit": "08:00",
       "grad": 13,
       "code": 3,
-      "regen": 92
+      "regen": 53
      },
      {
       "zeit": "09:00",
       "grad": 13,
       "code": 3,
-      "regen": 77
+      "regen": 28
      },
      {
       "zeit": "10:00",
       "grad": 13,
       "code": 3,
-      "regen": 51
+      "regen": 8
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 17,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 18,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 17,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 17,
+      "code": 3,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 11 und 16 Grad.",
-   "Die Vorhersage für morgen, Mittwoch, im ganzen Land: leichter Regen.",
-   "Die Temperaturen erreichen dann 16 bis 18 Grad.",
-   "Am wärmsten wird es in Köln mit 18 Grad.",
+   "Heute liegen die Höchstwerte zwischen 14 und 17 Grad.",
+   "Die Vorhersage für morgen, Mittwoch: im Norden und Osten leichter Regen, im Süden und Westen Regenschauer.",
+   "Die Temperaturen erreichen dann 16 bis 19 Grad.",
+   "Am wärmsten wird es in Stuttgart mit 19 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2103,7 +2102,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 16,
-       "regen": 0.1
+       "regen": 0
       },
       {
        "name": "GFS",
@@ -2115,7 +2114,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 2
+       "regen": 0.1
       }
      ]
     },
@@ -2125,8 +2124,8 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 16,
-       "regen": 2.3
+       "grad": 17,
+       "regen": 0.7
       },
       {
        "name": "GFS",
@@ -2138,7 +2137,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 2
+       "regen": 1.2
       }
      ]
     },
@@ -2149,19 +2148,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 16,
-       "regen": 2.2
+       "regen": 0.4
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 17,
-       "regen": 0.8
+       "regen": 0.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 16,
-       "regen": 2.6
+       "regen": 2.5
       }
      ]
     },
@@ -2171,7 +2170,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 16,
+       "grad": 17,
        "regen": 0
       },
       {
@@ -2184,7 +2183,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 17,
-       "regen": 0.9
+       "regen": 0.1
       }
      ]
     },
@@ -2201,13 +2200,13 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 19,
-       "regen": 0.1
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 17,
-       "regen": 1.6
+       "regen": 0.1
       }
      ]
     },
@@ -2217,20 +2216,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 18,
-       "regen": 0.4
+       "grad": 19,
+       "regen": 0.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 19,
-       "regen": 0.7
+       "grad": 20,
+       "regen": 0.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 18,
-       "regen": 0.8
+       "regen": 1.7
       }
      ]
     },
@@ -2240,27 +2239,27 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 16,
-       "regen": 0.3
+       "grad": 18,
+       "regen": 1.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 16,
-       "regen": 3.4
+       "grad": 15,
+       "regen": 4.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 16,
-       "regen": 5.8
+       "grad": 17,
+       "regen": 1.1
       }
      ]
     }
    ],
-   "spanneGrad": 2,
+   "spanneGrad": 3,
    "uneinigRegen": {
-    "ort": "Hamburg",
+    "ort": "Berlin",
     "nass": [
      "ECMWF"
     ],
@@ -2270,8 +2269,8 @@
     ]
    },
    "saetze": [
-    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 16 und 18 Grad.",
-    "Und in Hamburg erwartet ECMWF Regen, ICON und GFS dagegen nicht."
+    "Für München gehen die Modelle am weitesten auseinander: zwischen 15 und 18 Grad.",
+    "Und in Berlin erwartet ECMWF Regen, ICON und GFS dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2279,19 +2278,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 11 und 16 Grad. Die Vorhersage für morgen,",
-   "d": "6bf78d052b.mp3",
-   "l": 17.68,
-   "s": [
-    0.25,
-    4.04,
-    8.41,
-    12.16,
-    15.12
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/",
@@ -13461,580 +13448,6 @@
       22.1,
       27.11,
       33.02
-     ]
-    }
-   ]
-  },
-  {
-   "id": "angriffe-saporischschja",
-   "rubrik": "Welt",
-   "zeit": "2026-10-10T14:16:50.000Z",
-   "titel": "Russische Luftangriffe auf Saporischschja und Gegenschläge auf russischem Gebiet gemeldet",
-   "vorspann": "Bei Angriffen mit Lenkbomben auf die ukrainische Stadt Saporischschja sind nach Behördenangaben mehrere Menschen getötet und verletzt worden. Gleichzeitig meldeten russische Stellen ukrainische Angriffe mit unbemannten Fluggeräten auf Einrichtungen im Süden Russlands.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "sehr schwer",
-    "fuerWen": "Fachsprache – ohne Vorwissen mühsam"
-   },
-   "zusammenfassung": [
-    "Russische Streitkräfte haben die Stadt Saporischschja und weitere ukrainische Gebiete mit Lenkbomben, Drohnen und Raketen angegriffen.",
-    "Nach ukrainischen Behördenangaben starben in Saporischschja mindestens zwölf bis siebzehn Menschen, darunter drei Kinder; mehrere Personen wurden verletzt.",
-    "Die Ukraine attackierte russische Gebiete mit Hunderten Drohnen, wobei in der Region Rostow Brände und Infrastrukturschäden entstanden.",
-    "Der ukrainische Präsident Selenskyj kritisierte eine von US-Präsident Trump angekündigte Vereinbarung über Diesellieferungen aus Russland scharf.",
-    "In Miami berieten Delegationen aus den USA und Europa unterdessen über Unterstützungsmaßnahmen für die Ukraine und den Schutz der Energieversorgung."
-   ],
-   "einig": [
-    [
-     "Russland griff Saporischschja mit fünf Lenkbomben bzw. Gleitbomben an und traf Wohngebäude.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "BBC"
-     ]
-    ],
-    [
-     "Unter den Todesopfern in Saporischschja befinden sich drei Kinder bzw. Minderjährige.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "Süddeutsche Zeitung",
-      "BBC"
-     ]
-    ],
-    [
-     "In der Nacht wurden insgesamt 13 ukrainische Regionen aus der Luft angegriffen.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "BBC"
-     ]
-    ],
-    [
-     "US-Präsident Trump kündigte ein Abkommen über russische Diesellieferungen an, was von Selenskyj kritisiert wurde.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "FAZ",
-      "BBC"
-     ]
-    ],
-    [
-     "Russische Behörden meldeten den Angriff von rund 560 Drohnen auf russisches Gebiet und Schäden in der Region Rostow.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Zahl der Todesopfer in Saporischschja: Reuters und ukrainische Behörden nannten mindestens 12 Tote (Tagesschau/ARD, Spiegel), die Süddeutsche Zeitung und BBC sprachen von mindestens 15 Toten, die Nachrichtenagentur AP von 17 Toten (Tagesschau/ARD).",
-    "Die Zahl der Verletzten in Saporischschja: Tagesschau/ARD und Spiegel berichten von mindestens 14, BBC berichtet von mindestens 16 Verletzten."
-   ],
-   "positionen": [
-    [
-     "Wolodymyr Selenskyj (Präsident der Ukraine)",
-     "Kritisiert die US-Vereinbarung über russischen Diesel scharf und sieht Angriffe als Zeichen dafür, dass Russland Druckminderung für weitere Kriegsführung nutzt.",
-     "Tagesschau/ARD, Spiegel, FAZ, BBC"
-    ],
-    [
-     "Donald Trump (Präsident der Vereinigten Staaten)",
-     "Hat mit Wladimir Putin eine Lieferung von über 300.000 Tonnen Diesel vereinbart, um Kraftstoffpreise zu dämpfen.",
-     "Tagesschau/ARD, Spiegel, FAZ, BBC"
-    ],
-    [
-     "Regina Chartschenko (Amtierende Bürgermeisterin von Saporischschja)",
-     "Berichtet über schwere Schäden an Wohngebäuden, eingestürzte Etagen und laufende Rettungseinsätze nach den Bombenabwürfen.",
-     "BBC"
-    ],
-    [
-     "Juri Sljussar (Gouverneur der Region Rostow)",
-     "Meldet ukrainische Angriffe mit über 100 abgewehrten Drohnen, verletzte Personen sowie Schäden an Häusern und einer Brücke.",
-     "Tagesschau/ARD, Spiegel"
-    ],
-    [
-     "Russisches Verteidigungsministerium",
-     "Gibt an, in der Nacht 560 ukrainische Drohnen über russischem Staatsgebiet und der Krim unschädlich gemacht zu haben.",
-     "Tagesschau/ARD, Spiegel"
-    ]
-   ],
-   "fehlend": "Eine direkte Stellungnahme der russischen Regierung zum konkreten Vorwurf des Angriffs auf Wohngebäude in Saporischschja an diesem Tag.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "10.10.26, 15:52",
-     "fokus": "Angriffe und Konferenz Miami",
-     "text": "Stellt die Angriffe auf Saporischschja und Kiew den Verhandlungen über Hilfen in Miami gegenüber. Nennt Details zu Infrastrukturschäden und verschiedenen Opferangaben.",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-saporischschja-104.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 12,
-      "minuten": 3,
-      "woerter": 530,
-      "satzlaenge": 16,
-      "langeWoerter": 39
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "10.10.26, 13:12",
-     "fokus": "Selenskyjs Vorwürfe und Gegenangriffe",
-     "text": "Hebt die Reaktionen Selenskyjs auf die US-Diesel-Entscheidung hervor. Berichtet zudem ausführlich über Brandherde und Drohnenangriffe im russischen Gebiet Rostow.",
-     "url": "https://www.spiegel.de/ausland/ukraine-wirft-russland-gleitbomben-angriff-auf-wohnhaeuser-vor-a-577571e4-55bd-4c5f-a5fa-8a125a7c1435#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 2,
-      "woerter": 350,
-      "satzlaenge": 15,
-      "langeWoerter": 38
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "10.10.26, 13:09",
-     "fokus": "Kurzmeldung zu Opferzahlen",
-     "text": "Gibt im Rahmen eines Newsblogs eine Zusammenfassung der Opferzahlen in Saporischschja und verweist auf die Schwierigkeit unabhängiger Prüfungen.",
-     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-news-angriffe-saporischschja-li.3549696",
-     "video": false,
-     "lesbar": {
-      "stufe": "sehr schwer",
-      "fuerWen": "Fachsprache – ohne Vorwissen mühsam",
-      "klasse": 14,
-      "minuten": 1,
-      "woerter": 63,
-      "satzlaenge": 16,
-      "langeWoerter": 48
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "10.10.26, 15:09",
-     "fokus": "US-Politik und Sanktionswende",
-     "text": "Erwähnt die Angriffe in Saporischschja kurz und legt das Augenmerk auf die Ankündigung der US-Diesellieferungen trotz Sanktionen.",
-     "url": "https://www.faz.net/video/ukraine-angriff-auf-saporischschja-gespraeche-ueber-kriegsende-201305899.html",
-     "video": true,
-     "lesbar": null,
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "10.10.26, 16:16",
-     "fokus": "Zivile Folgen und Rettung",
-     "text": "Konzentriert sich auf die Zerstörungen in Wohngebäuden und zitiert die amtierende Bürgermeisterin vor Ort. Bietet Kontext zu vorherigen Angriffen der vergangenen Tage.",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 597,
-      "satzlaenge": 22,
-      "langeWoerter": 30
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [],
-   "wfragen": {
-    "wer": "Russische Streitkräfte und ukrainische Streitkräfte",
-    "was": "Gegenseitige Angriffe mit Bomben, Drohnen und Raketen",
-    "wann": "Samstagmorgen, 10. Oktober 2026",
-    "wo": "Saporischschja, Kiew und Region Rostow",
-    "wie": "Mit Lenkbomben, Drohnen und ballistischen Raketen",
-    "warum": "Militärische Angriffe im seit 2022 andauernden Konflikt",
-    "quellenlage": "Behördenangaben beider Länder, Regionalpolitiker, Rettungsdienste und UN-Berichte"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Am frühen Samstagmorgen ist die ukrainische Großstadt Saporischschja im Südosten des Landes nach behördlichen Angaben Ziel von russischen Luftangriffen geworden. Die örtliche Polizei und der ukrainische Präsident Wolodymyr Selenskyj teilten mit, dass russische Kräfte fünf Lenkbomben auf Wohngebiete abgeworfen hätten. Dabei wurden mindestens zwei Wohngebäude direkt getroffen und stark beschädigt. Nach Angaben der amtierenden Bürgermeisterin Regina Chartschenko wurde das Erdgeschoss eines Gebäudes getroffen, woraufhin die darüberliegenden Stockwerke einstürzten.",
-      "Über die genaue Anzahl der Todesopfer in Saporischschja gibt es unterschiedliche Angaben. Die Nachrichtenagentur Reuters und Präsident Selenskyj berichteten von mindestens zwölf Toten, während die Süddeutsche Zeitung und der Sender BBC von mindestens 15 Todesopfern sprachen. Die Nachrichtenagentur AP nannte laut Tagesschau 17 Tote. Übereinstimmend wurde berichtet, dass sich unter den getöteten Personen drei Minderjährige befinden.",
-      "Neben den Todesopfern wurden zahlreiche Verletzte registriert. Ukrainische Stellen nannten zwischen 14 und mindestens 16 verletzte Personen. Da vermutet wurde, dass sich weitere Menschen unter den Trümmern der eingestürzten Gebäude befinden, dauerten die Bergungsarbeiten an. Nach Angaben von Chartschenko waren mehr als 80 Rettungskräfte an den Suchmaßnahmen vor Ort beteiligt."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Die Angriffe beschränkten sich nicht auf die Stadt Saporischschja allein. Nach Angaben der Nachrichtenagentur dpa und Aussagen von Präsident Selenskyj wurden in derselben Nacht insgesamt 13 ukrainische Regionen aus der Luft angegriffen. Getroffen wurden dabei Wohnhäuser, Transportwege und Einrichtungen der Infrastruktur. In der Hauptstadt Kiew wurden laut Bürgermeister Vitali Klitschko Angriffe mit Drohnen und ballistischen Raketen verzeichnet, bei denen unter anderem ein Restaurant getroffen und sechs Menschen verletzt wurden, von denen fünf in Krankenhäuser gebracht werden mussten.",
-      "Durch die Angriffe auf Kiew kam es zu Ausfällen in der Grundversorgung der Bevölkerung. Der staatliche Stromnetzbetreiber Ukrenergo und der Versorger DTEK berichteten von Schäden an der Energieinfrastruktur, wodurch ein Großteil der Verbraucher in der Hauptstadt und der Umgebung ohne Strom war. Zudem kam es infolge der Stromausfälle zu Einschränkungen bei der städtischen Wasserversorgung, und es wurden Notabschaltungen vorgenommen. Die Stadt Saporischschja selbst, die mehr als 700.000 Einwohner zählt, liegt weniger als 20 Kilometer von der Frontlinie entfernt und gerät regelmäßig unter Beschuss.",
-      "Gleichzeitig meldete die russische Seite militärische Gegenangriffe der Ukraine auf eigenem Staatsgebiet. Das russische Verteidigungsministerium in Moskau gab an, in der Nacht 560 ukrainische Drohnen über russischen Regionen und der annektierten Halbinsel Krim abgewehrt zu haben. Der Gouverneur der südrussischen Region Rostow, Juri Sljussar, meldete, dass über seinem Gebiet mehr als 100 Drohnen abgefangen worden seien. Durch die Angriffe seien Brände ausgebrochen, Wohnhäuser sowie eine Eisenbahnbrücke beschädigt worden, und sechs Menschen hätten medizinische Hilfe benötigt.",
-      "Zusätzlich meldeten russische Stellen Vorfälle in weiteren Ortschaften der Region. In der Stadt Asow wurden laut Behördenangaben zwei Schiffe beschädigt. Auf Daten der Nasa-Website Firms, die weltweite Brandherde über Satelliten aufzeichnet, waren Feuer am Standort eines ölverarbeitenden Betriebs im Gebiet Rostow zu sehen. Die Ukraine begründet solche Angriffe auf Raffinerien und Depots im russischen Hinterland damit, Einnahmen und Ressourcen der gegnerischen Streitkräfte schwächen zu wollen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die militärischen Auseinandersetzungen zwischen den beiden Staaten dauern seit dem Beginn der großangelegten russischen Invasion im Februar 2022 an. Nach UN-Angaben stieg die Zahl der zivilen Opfer in der Ukraine in den ersten acht Monaten des Jahres 2026 um 55 Prozent an. Bereits in den Tagen vor den aktuellen Ereignissen gab es Berichte über schwere Zerstörungen. So starben laut Berichten am Donnerstag mindestens 33 Menschen bei einem Bombenabwurf auf Busse in Kramatorsk, und am Vortag wurden 22 Menschen bei einem Raketentreffer auf ein Wohnhaus in Pryluky getötet.",
-      "Mit dem nahenden Winter rückte die Zerstörung von Versorgungsleitungen und Kraftwerken erneut in den Mittelpunkt der gegenseitigen Gefechte. Die Regierung in Kiew wirft den russischen Truppen vor, gezielt Einrichtungen der Strom- und Wasserversorgung zu beschießen, um die Zivilbevölkerung zu belasten, was von Moskau bestritten wird. Gleichzeitig setzt die Ukraine nach Angaben von Beobachtern vermehrt auf Drohnenangriffe gegen die russische Öl- und Kommunikationsinfrastruktur, darunter auch Angriffe auf Rechenzentren des russischen Technologiekonzerns Yandex.",
-      "Parallel zu den Kämpfen fanden auf diplomatischer Ebene Beratungen über den weiteren Fortgang des Konflikts statt. In der US-Metropole Miami trafen sich Delegationen, um über Unterstützungsleistungen für die Ukraine und den Schutz der Energieinfrastruktur im Winter zu sprechen. Auf US-Seite nahmen der Sondergesandte Steve Witkoff, Donald Trumps Schwiegersohn Jared Kushner sowie Vertreter des Nationalen Sicherheitsrats und des Finanzministeriums an den Treffen teil. Auch Vertreter aus europäischen Staaten reisten für die zweitägigen Gespräche an."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Als sogenannte Gleitbomben oder Lenkbomben werden Sprengkörper bezeichnet, die aus Flugzeugen abgeworfen werden und dank ausklappbarer Tragflächen sowie Steuerungssystemen über längere Strecken zu einem Ziel gleiten können. Diese Waffen ermöglichen es Militärflugzeugen, Angriffe aus größerer Entfernung auszuführen, ohne sich direkt in die Reichweite der gegnerischen Flugabwehr begeben zu müssen. Der Einsatz solcher Waffen führt durch ihre hohe Sprengkraft häufig zu großflächigen Beschädigungen an Gebäuden.",
-      "Sanktionen sind wirtschaftliche oder politische Maßnahmen, die von Staaten verhängt werden, um ein anderes Land zu einer Änderung seines Verhaltens zu bewegen oder dessen finanzielle Mittel für eine Kriegsführung einzuschränken. Dazu gehören etwa Verbote für den Handel mit bestimmten Gütern wie Erdölprodukten. Werden Handelsbeschränkungen gelockert oder Verträge über Lieferungen geschlossen, führt dies zu veränderten Einnahmemöglichkeiten für den Exporteur auf den internationalen Märkten."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Präsident Wolodymyr Selenskyj äußerte sich ablehnend zu einer Ankündigung von US-Präsident Donald Trump bezüglich künftiger russischer Öllieferungen. Trump hatte zuvor erklärt, er habe mit dem russischen Präsidenten Wladimir Putin eine Vereinbarung über die Lieferung von mehr als 300.000 Tonnen Diesel für die USA und den Weltmarkt getroffen. Selenskyj bezeichnete dieses Geschäft sinngemäß als ein Entgegenkommen gegenüber Moskau und erklärte, die neuen Angriffe auf ukrainische Städte seien die russische Antwort auf die Lockerung von Handelsbeschränkungen.",
-      "US-Sondergesandter Steve Witkoff bewertete die Beratungen der internationalen Delegationen in Miami auf der Plattform X hingegen positiv und sprach von konstruktiven Gesprächen über Maßnahmen zur Stärkung der ukrainischen Infrastruktur. Aus den Vereinigten Staaten wurde berichtet, dass innenpolitische Gründe wie die Entwicklung der Kraftstoffpreise vor anstehenden Wahlen die Diskussionen um Rohstoffimporte beeinflussen. Die russische Führung wies Vorwürfe gezielter Angriffe auf Zivilisten in früheren Mitteilungen zurück und verwies auf eigene Abwehrerfolge gegen ukrainische Drohnen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "In der Region Saporischschja sollten die Such- und Rettungsmaßnahmen an den beschädigten Gebäudeteilen den gesamten Tag über fortgeführt werden, um unter den Trümmern nach möglichen Überlebenden oder weiteren Opfern zu suchen. Nach Angaben der örtlichen Verwaltung soll die genaue Identität aller betroffenen Bewohner überprüft werden. Gleichzeitig arbeiten die Energieversorger in Kiew an der Wiederherstellung der Strom- und Wasserversorgung.",
-      "Auf diplomatischer Ebene sollten die Gespräche über Hilfen für die Ukraine in Miami planmäßig für einen zweiten Beratungstag fortgesetzt werden. Dabei stehen weitere konkrete Schritte zur Absicherung der Energieinfrastruktur vor den Wintermonaten auf der Tagesordnung der Delegationen. Zudem kündigte die US-Führung an, dass der vereinbarten ersten Diesellieferung von 300.000 Tonnen aus Russland weitere Lieferungen folgen könnten."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Mittwoch vor dem 10.10.2026",
-     "22 Menschen sterben laut BBC bei einem Raketentreffer auf ein Wohnhaus in Pryluky."
-    ],
-    [
-     "Donnerstag vor dem 10.10.2026",
-     "Bei einem Angriff mit Lenkbomben in Kramatorsk werden laut BBC 33 Menschen getötet."
-    ],
-    [
-     "Freitag, 09.10.2026",
-     "In Miami beginnen internationale Beratungen über die Ukraine; Trump verkündet eine Diesel-Vereinbarung mit Putin."
-    ],
-    [
-     "Samstag, 10.10.2026",
-     "Russland greift Saporischschja und Kiew an; die Ukraine führt Drohnenangriffe auf Rostow durch; Gespräche in Miami werden fortgesetzt."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Kein Bild gemäß Richtlinien bei Ereignissen mit Todesopfern und Verletzten."
-    }
-   ],
-   "ort": {
-    "name": "Saporischschja, Ukraine"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Im Artikel unter 'Das ist passiert' wurde die falsche Zuordnung der Opferzahlen korrigiert: AP nannte 17 Tote und nicht 15, während die Süddeutsche Zeitung und BBC von mindestens 15 Toten sprachen."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Gleitbombe",
-      "Eine schwere Fliegerbombe mit Flügeln und Steuerung. Flugzeuge können sie aus großer Entfernung abwerfen, damit sie zum Ziel gleitet."
-     ],
-     [
-      "Infrastruktur",
-      "Wichtige Anlagen, die ein Land zum Funktionieren braucht. Dazu gehören Stromnetze, Wasserleitungen, Schienen und Brücken."
-     ],
-     [
-      "Sanktionen",
-      "Wirtschaftliche Strafmaßnahmen von Staaten gegen ein anderes Land. Sie verbieten zum Beispiel den Verkauf oder Einkauf bestimmter Waren."
-     ]
-    ],
-    "fragen": [
-     "Warum unterscheiden sich die Opferzahlen in den ersten Stunden nach einem Angriff häufig zwischen verschiedenen Quellen?",
-     "Welche Auswirkungen können Angriffe auf Stromnetze und Heizkraftwerke für die Zivilbevölkerung im Winter haben?",
-     "Wie hängen internationale Wirtschaftsverträge wie Diesellieferungen mit militärischen Konflikten zusammen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Mit wie vielen Lenkbomben bzw. Gleitbomben griff Russland Wohngebiete in Saporischschja an?",
-      "optionen": [
-       "Mit zwei Bomben",
-       "Mit fünf Bomben",
-       "Mit zehn Bomben"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Berichten von Tagesschau/ARD, Spiegel und BBC warfen russische Streitkräfte fünf Bomben auf Saporischschja ab."
-     },
-     {
-      "frage": "Wie viele Kinder bzw. Minderjährige befanden sich laut übereinstimmenden Berichten unter den Todesopfern?",
-      "optionen": [
-       "Drei Kinder",
-       "Fünf Kinder",
-       "Keine Kinder"
-      ],
-      "richtig": 0,
-      "erklaerung": "Tagesschau/ARD, Spiegel, Süddeutsche Zeitung und BBC berichteten übereinstimmend von drei getöteten Kindern bzw. Minderjährigen."
-     },
-     {
-      "frage": "Über welches Abkommen von US-Präsident Donald Trump beschwerte sich der ukrainische Präsident Selenskyj?",
-      "optionen": [
-       "Über Waffenlieferungen an russische Truppen",
-       "Über eine Vereinbarung zu russischen Diesellieferungen",
-       "Über den Abbruch aller Friedensgespräche in Miami"
-      ],
-      "richtig": 1,
-      "erklaerung": "Trump kündigte Diesellieferungen aus Russland für die USA und den Weltmarkt an, was Selenskyj scharf kritisierte."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In der Ukraine und in Russland gab es in der Nacht schwere Angriffe aus der Luft. In der ukrainischen Stadt Saporischschja starben dabei viele Menschen in Wohnhäusern.",
-    "absaetze": [
-     "Am Samstagmorgen warfen russische Flugzeuge schwere Bomben auf die ukrainische Stadt Saporischschja. Dabei wurden Wohnhäuser getroffen und zerstört. Behörden berichten von mindestens zwölf Toten, darunter auch drei Kinder. Viele weitere Menschen wurden verletzt. Helfer suchen in den Trümmern nach Überlebenden.",
-     "Auch die ukrainische Hauptstadt Kiew wurde mit Drohnen und Raketen angegriffen. Dadurch fielen in vielen Stadtteilen der Strom und das Wasser aus. Insgesamt wurden in dieser Nacht 13 ukrainische Regionen attackiert.",
-     "Gleichzeitig griff die Ukraine Ziele in Russland mit vielen unbemannten Drohnen an. In der russischen Region Rostow fingen dadurch Gebäude Feuer, und eine Brücke wurde beschädigt.",
-     "Der ukrainische Präsident Selenskyj kritisierte den US-Präsidenten Trump. Trump will wieder Diesel aus Russland kaufen. Selenskyj sagt, dass Russland dadurch mehr Geld für den Krieg bekommt."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Russische Fliegerbomben haben am Samstag Wohngebäude in der ukrainischen Stadt Saporischschja getroffen.",
-     "Ukrainische Behörden melden mindestens zwölf Todesopfer, darunter drei Kinder, sowie viele Verletzte.",
-     "Gleichzeitig meldete Russland schwere ukrainische Angriffe mit Hunderten Drohnen auf die Region Rostow.",
-     "Die Suche nach möglichen Verschütteten unter den Trümmern in Saporischschja dauert an."
-    ],
-    "lang": [
-     "Russland und die Ukraine haben sich in der Nacht gegenseitig aus der Luft angegriffen.",
-     "In der ukrainischen Stadt Saporischschja trafen russische Lenkbomben am frühen Samstagmorgen mehrere Wohnhäuser.",
-     "Ukrainische Drohnen griffen nach russischen Angaben zeitgleich Ziele im südrussischen Gebiet Rostow an.",
-     "In Saporischschja starben nach ukrainischen Behördenangaben mindestens zwölf Menschen, darunter drei Kinder.",
-     "Die amtierende Bürgermeisterin Regina Chartschenko berichtete, dass Rettungskräfte nach weiteren Verschütteten suchen.",
-     "Der russische Gouverneur Juri Sljussar meldete Brände, sowie Schäden an Häusern und einer Brücke.",
-     "Zu den Todesopfern in Saporischschja nennen Nachrichtenagenturen und Behörden unterschiedliche Zahlen zwischen zwölf und siebzehn.",
-     "Die Angriffe auf die Energieversorgung nehmen zu, während der bevorstehende Winter die Lage verschärft.",
-     "In Miami beraten Delegationen aus den Vereinigten Staaten und Europa weiter über Hilfen für die Ukraine.",
-     "Die Bergungsarbeiten in den zerstörten Wohngebieten von Saporischschja dauern derweil an."
-    ],
-    "einfach": [
-     "Russland hat Wohnungen in der ukrainischen Stadt Saporischschja bombardiert.",
-     "Dabei starben nach ukrainischen Angaben mindestens zwölf Menschen.",
-     "Unter den getöteten Personen sind auch drei Kinder.",
-     "Auch die Ukraine griff Ziele im Nachbarland mit vielen Drohnen an.",
-     "Drohnen sind unbemannte Flugzeuge, die Sprengstoff tragen können.",
-     "Rettungskräfte suchen in Saporischschja weiter nach Überlebenden unter Trümmern."
-    ]
-   },
-   "kurz": [
-    "Russische Fliegerbomben trafen Wohngebäude in Saporischschja; mindestens zwölf bis siebzehn Menschen starben.",
-    "Ukrainische Angriffe mit Hunderten Drohnen beschädigten Infrastruktur in der russischen Region Rostow.",
-    "Selenskyj kritisierte ein von Trump angekündigtes Dieselgeschäft zwischen den USA und Russland.",
-    "In Miami beraten westliche Delegierte über Schutzmaßnahmen für die ukrainische Energieversorgung."
-   ],
-   "fakten": [
-    [
-     "Abgeworfene Lenkbomben auf Saporischschja",
-     "5"
-    ],
-    [
-     "Todesopfer in Saporischschja (je nach Quelle)",
-     "mindestens 12 bis 17"
-    ],
-    [
-     "Getötete Minderjährige in Saporischschja",
-     "3"
-    ],
-    [
-     "Attackierte ukrainische Regionen in der Nacht",
-     "13"
-    ],
-    [
-     "Vom russischen Verteidigungsministerium gemeldete Drohnen",
-     "560"
-    ],
-    [
-     "Vereinbarte Diesellieferung laut Donald Trump",
-     "mehr als 300.000 Tonnen"
-    ]
-   ],
-   "dossier": {
-    "slug": "krieg-in-der-ukraine",
-    "titel": "Krieg in der Ukraine"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Saporischschja, Ukraine",
-    "lat": 47.851,
-    "lon": 35.118
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Russland und die Ukraine haben sich in der Nacht gegenseitig aus der Luft angegr",
-     "d": "8455268886.mp3",
-     "l": 61.62,
-     "s": [
-      0.25,
-      5.16,
-      11.92,
-      18.15,
-      24.1,
-      30.56,
-      36.69,
-      44.48,
-      49.78,
-      56.08
-     ]
-    },
-    {
-     "k": "Russische Fliegerbomben haben am Samstag Wohngebäude in der ukrainischen Stadt S",
-     "d": "4615521c0d.mp3",
-     "l": 22.35,
-     "s": [
-      0.25,
-      5.81,
-      11.8,
-      17.66
-     ]
-    },
-    {
-     "k": "Russland hat Wohnungen in der ukrainischen Stadt Saporischschja bombardiert. Dab",
-     "d": "0c9bfadbac.mp3",
-     "l": 28.84,
-     "s": [
-      0.25,
-      5.38,
-      9.84,
-      13.82,
-      18.15,
-      23.27
-     ]
-    },
-    {
-     "k": "Die genaue Zahl der Todesopfer in Saporischschja: Reuters und ukrainische Behörd",
-     "d": "fa0c2c47bf.mp3",
-     "l": 15.78,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Gleitbombe? Eine schwere Fliegerbombe mit Flügeln und St",
-     "d": "fcfcb6620e.mp3",
-     "l": 13.09,
-     "s": [
-      0.25,
-      3.42,
-      7.15
-     ]
-    },
-    {
-     "k": "Am frühen Samstagmorgen ist die ukrainische Großstadt Saporischschja im Südosten",
-     "d": "29753692fd.mp3",
-     "l": 57.47,
-     "s": [
-      0.25,
-      8.62,
-      17.63,
-      22.1,
-      31.12,
-      36.25,
-      47.38,
-      51.67
-     ]
-    },
-    {
-     "k": "Die Angriffe beschränkten sich nicht auf die Stadt Saporischschja allein. Nach A",
-     "d": "647b04fed9.mp3",
-     "l": 60.25,
-     "s": [
-      0.25,
-      3.9,
-      13.91,
-      19.1,
-      32.38,
-      37.21,
-      48.73,
-      56.44
-     ]
-    },
-    {
-     "k": "Die militärischen Auseinandersetzungen zwischen den beiden Staaten dauern seit d",
-     "d": "47c0174a9c.mp3",
-     "l": 75.31,
-     "s": [
-      0.25,
-      10.05,
-      19.6,
-      24.9,
-      38.29,
-      45.77,
-      56.24,
-      68.61
-     ]
-    },
-    {
-     "k": "Als sogenannte Gleitbomben oder Lenkbomben werden Sprengkörper bezeichnet, die a",
-     "d": "d025956c40.mp3",
-     "l": 53.98,
-     "s": [
-      0.25,
-      12.28,
-      21.8,
-      28.31,
-      38.97,
-      43.92
-     ]
-    },
-    {
-     "k": "Präsident Wolodymyr Selenskyj äußerte sich ablehnend zu einer Ankündigung von US",
-     "d": "e542d93db3.mp3",
-     "l": 64.98,
-     "s": [
-      0.25,
-      9.18,
-      17,
-      20.82,
-      32.4,
-      45.62,
-      55.38
-     ]
-    },
-    {
-     "k": "In der Region Saporischschja sollten die Such- und Rettungsmaßnahmen an den besc",
-     "d": "d836281231.mp3",
-     "l": 50.26,
-     "s": [
-      0.25,
-      11.82,
-      17.97,
-      23.85,
-      32.17,
-      40.29,
-      45.87
      ]
     }
    ]
