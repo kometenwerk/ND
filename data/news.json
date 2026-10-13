@@ -2279,7 +2279,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 11 und 16 Grad. Die Vorhersage für morgen,",
+   "d": "6bf78d052b.mp3",
+   "l": 17.68,
+   "s": [
+    0.25,
+    4.04,
+    8.41,
+    12.16,
+    15.12
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/",
@@ -2293,156 +2305,156 @@
   },
   "ansagen": [
    {
-    "k": "Nachrichten-Heft. Die Hauptausgabe vom Montag, 12. Oktober. Es liest die Compute",
-    "d": "e388c7b0ef.mp3",
-    "l": 7.07,
+    "k": "Nachrichten-Heft. Die Hauptausgabe vom Dienstag, 13. Oktober. Es liest die Compu",
+    "d": "facdec8d3f.mp3",
+    "l": 7.31,
     "s": [
      0.25,
-     4.57
+     4.66
     ]
    },
    {
-    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Montag, 12. Oktober. Es liest die",
-    "d": "9c5def6e71.mp3",
-    "l": 7.59,
+    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Dienstag, 13. Oktober. Es liest d",
+    "d": "5e3681c04d.mp3",
+    "l": 7.46,
     "s": [
      0.25,
-     5.11
+     4.97
     ]
    },
    {
-    "k": "Nachrichten-Heft. Einfach erklärt vom Montag, 12. Oktober. Es liest die Computer",
-    "d": "e4c65e602b.mp3",
-    "l": 8.28,
+    "k": "Nachrichten-Heft. Einfach erklärt vom Dienstag, 13. Oktober. Es liest die Comput",
+    "d": "f3b159ca1b.mp3",
+    "l": 8.85,
     "s": [
      0.25,
-     5.26
+     5.74
     ]
    },
    {
-    "k": "Nachrichten-Heft. Kurzmeldungen vom Montag, 12. Oktober. Es liest die Computerst",
-    "d": "d4fe7567e1.mp3",
-    "l": 7.11,
+    "k": "Nachrichten-Heft. Kurzmeldungen vom Dienstag, 13. Oktober. Es liest die Computer",
+    "d": "7f65c44660.mp3",
+    "l": 7.2,
     "s": [
      0.25,
-     4.6
+     4.58
     ]
    },
    {
-    "k": "Nachrichten-Heft. Der Wochenrückblick vom Montag, 12. Oktober. Es liest die Comp",
-    "d": "ae166031ef.mp3",
-    "l": 6.97,
+    "k": "Nachrichten-Heft. Der Wochenrückblick vom Dienstag, 13. Oktober. Es liest die Co",
+    "d": "accf70f744.mp3",
+    "l": 7.53,
     "s": [
      0.25,
-     4.56
+     5.1
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Montag, 12. Oktober. Es liest die",
-    "d": "15a23ae06c.mp3",
-    "l": 7.49,
+    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Dienstag, 13. Oktober. Es liest d",
+    "d": "19e62e7edf.mp3",
+    "l": 8.03,
     "s": [
      0.25,
-     4.92
+     5.6
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Montag, 12. Oktober. Es liest die ",
-    "d": "97fbe3f5a1.mp3",
-    "l": 7.44,
+    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Dienstag, 13. Oktober. Es liest di",
+    "d": "370901d375.mp3",
+    "l": 7.81,
     "s": [
      0.25,
-     4.98
+     5.24
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Montag, 12. Oktober. Es liest die",
-    "d": "6ccd14a0b5.mp3",
-    "l": 7.56,
+    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Dienstag, 13. Oktober. Es liest d",
+    "d": "f56a0a551c.mp3",
+    "l": 8.08,
     "s": [
      0.25,
-     4.98
+     5.32
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Montag, 12. Oktober. Es liest ",
-    "d": "056cf0c890.mp3",
-    "l": 7.66,
+    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Dienstag, 13. Oktober. Es lies",
+    "d": "3fa745e8a7.mp3",
+    "l": 8.1,
     "s": [
      0.25,
-     5.21
+     5.59
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Montag, 12. Oktober. Es liest ",
-    "d": "9bfa77a23b.mp3",
-    "l": 7.44,
+    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Dienstag, 13. Oktober. Es lies",
+    "d": "b9eb37c754.mp3",
+    "l": 8.19,
     "s": [
      0.25,
-     5.05
+     5.6
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Montag, 12. Oktober. Es l",
-    "d": "adbd743d99.mp3",
-    "l": 8.14,
+    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Dienstag, 13. Oktober. Es",
+    "d": "ff55f4273f.mp3",
+    "l": 8.6,
     "s": [
      0.25,
-     5.44
+     6.06
     ]
    },
    {
-    "k": "Nachrichten-Heft. Deutschland vom Montag, 12. Oktober. Es liest die Computerstim",
-    "d": "d603b78dd5.mp3",
-    "l": 6.67,
+    "k": "Nachrichten-Heft. Deutschland vom Dienstag, 13. Oktober. Es liest die Computerst",
+    "d": "88589f9ac4.mp3",
+    "l": 7.16,
     "s": [
      0.25,
-     4.13
+     4.65
     ]
    },
    {
-    "k": "Nachrichten-Heft. Welt vom Montag, 12. Oktober. Es liest die Computerstimme Thor",
-    "d": "fc98ac84e5.mp3",
-    "l": 6.67,
+    "k": "Nachrichten-Heft. Welt vom Dienstag, 13. Oktober. Es liest die Computerstimme Th",
+    "d": "02efae455f.mp3",
+    "l": 6.56,
     "s": [
      0.25,
-     4.22
+     4.18
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wirtschaft vom Montag, 12. Oktober. Es liest die Computerstimm",
-    "d": "394dd600fa.mp3",
-    "l": 6.75,
+    "k": "Nachrichten-Heft. Wirtschaft vom Dienstag, 13. Oktober. Es liest die Computersti",
+    "d": "2a5b881250.mp3",
+    "l": 7.26,
     "s": [
      0.25,
-     4.29
+     4.46
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wissen und Klima vom Montag, 12. Oktober. Es liest die Compute",
-    "d": "2189c9f2c3.mp3",
-    "l": 7.37,
+    "k": "Nachrichten-Heft. Wissen und Klima vom Dienstag, 13. Oktober. Es liest die Compu",
+    "d": "5ed6e24bb1.mp3",
+    "l": 7.4,
     "s": [
      0.25,
-     4.8
+     4.72
     ]
    },
    {
-    "k": "Nachrichten-Heft. Sport vom Montag, 12. Oktober. Es liest die Computerstimme Tho",
-    "d": "adf60a462a.mp3",
-    "l": 7.04,
+    "k": "Nachrichten-Heft. Sport vom Dienstag, 13. Oktober. Es liest die Computerstimme T",
+    "d": "4753f8ce24.mp3",
+    "l": 7.06,
     "s": [
      0.25,
-     4.42
+     4.35
     ]
    },
    {
-    "k": "Nachrichten-Heft. Region vom Montag, 12. Oktober. Es liest die Computerstimme Th",
-    "d": "5a56d4639e.mp3",
-    "l": 7.01,
+    "k": "Nachrichten-Heft. Region vom Dienstag, 13. Oktober. Es liest die Computerstimme ",
+    "d": "d2d3df964d.mp3",
+    "l": 7.15,
     "s": [
      0.25,
-     4.17
+     4.53
     ]
    },
    {
@@ -2786,7 +2798,140 @@
     "lat": 52.546,
     "lon": 21.207
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Nach einem Brand in einer polnischen Starlink-Station hat die deutsche Polizei z",
+     "d": "e63b242c6b.mp3",
+     "l": 42.94,
+     "s": [
+      0.25,
+      6.67,
+      12.64,
+      17.15,
+      22.96,
+      27.11,
+      31.77,
+      36.98
+     ]
+    },
+    {
+     "k": "Die deutsche Polizei hat zwei Verdächtige nach einem Brand in einer polnischen S",
+     "d": "a5685635be.mp3",
+     "l": 16.89,
+     "s": [
+      0.25,
+      6.13,
+      11.73
+     ]
+    },
+    {
+     "k": "Deutsche Polizisten haben zwei Männer festgenommen. Die Männer kommen aus der Tü",
+     "d": "44f7ccead8.mp3",
+     "l": 22.6,
+     "s": [
+      0.25,
+      3.69,
+      6.31,
+      10.53,
+      14.35,
+      18.9
+     ]
+    },
+    {
+     "k": "Ob ein dritter Verdächtiger in Berlin gefasst wurde (laut Bild-Zeitung bei Deuts",
+     "d": "fcb4318a0d.mp3",
+     "l": 6.86,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Starlink? Ein Satelliten-Kommunikationssystem des US-Unt",
+     "d": "0a0681684c.mp3",
+     "l": 11.54,
+     "s": [
+      0.25,
+      3.24
+     ]
+    },
+    {
+     "k": "Ende September kam es in einer Anlage des Satelliten-Kommunikationssystems Starl",
+     "d": "e5c5f4ac89.mp3",
+     "l": 45.69,
+     "s": [
+      0.25,
+      6.46,
+      15.3,
+      19.66,
+      23.49,
+      28.51,
+      34.76
+     ]
+    },
+    {
+     "k": "Die deutsche Polizei hat nun zwei Verdächtige festgenommen, wie Polens Regierung",
+     "d": "5034ce7086.mp3",
+     "l": 45.92,
+     "s": [
+      0.25,
+      6.92,
+      12.91,
+      19.92,
+      23.66,
+      31.27,
+      36.24,
+      41.84
+     ]
+    },
+    {
+     "k": "Das Raumfahrtunternehmen SpaceX schaltete die Starlink-Dienste für die Ukraine n",
+     "d": "074e502025.mp3",
+     "l": 43.53,
+     "s": [
+      0.25,
+      9.75,
+      14.29,
+      21.98,
+      30.55,
+      36.83
+     ]
+    },
+    {
+     "k": "Starlink ist ein Satelliten-Kommunikationssystem, das Internetverbindungen über ",
+     "d": "390b70646c.mp3",
+     "l": 26.39,
+     "s": [
+      0.25,
+      7.05,
+      15.14,
+      18.24
+     ]
+    },
+    {
+     "k": "Polens Regierungschef Donald Tusk sprach auf der Plattform X von einem weiteren ",
+     "d": "5aec3951be.mp3",
+     "l": 50.17,
+     "s": [
+      0.25,
+      6.51,
+      14.14,
+      24.5,
+      33.31,
+      42.36
+     ]
+    },
+    {
+     "k": "Die festgenommenen mutmaßlichen Täter sollen einem Haftrichter vorgeführt werden",
+     "d": "9aab593a46.mp3",
+     "l": 17.3,
+     "s": [
+      0.25,
+      5.02,
+      12.83
+     ]
+    }
+   ]
   },
   {
    "id": "baerbel-bas-ruecktritt",
@@ -12688,16 +12833,16 @@
     {
      "k": "Die Regierung der Vereinigten Staaten hat neue Sanktionen gegen den Internationa",
      "d": "7fd98a25fa.mp3",
-     "l": 52.2,
+     "l": 52.1,
      "s": [
       0.25,
-      7.06,
-      14.78,
-      19.34,
-      25.19,
-      30.49,
-      35.84,
-      43.22
+      7.43,
+      15.21,
+      19.63,
+      25.61,
+      30.81,
+      36.04,
+      43.14
      ]
     },
     {
