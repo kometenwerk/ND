@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Wed, 14 Oct 2026 07:31:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:39:09 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,24 +16,24 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-10-14</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Vatikan bestätigt Lungenkrebs bei Papst Leo XIV. nach Operation · Sondierungsgespräche in Berlin unterbrochen · Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Internationaler Währungsfonds hebt Konjunkturprognosen für Deutschland und den Euroraum an</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Vatikan bestätigt Lungenkrebs bei Papst Leo XIV. nach Operation · Sondierungsgespräche in Berlin unterbrochen · Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Internationaler Währungsfonds hebt Konjunkturprognosen für Deutschland und den Euroraum an</itunes:summary>
+    <pubDate>Wed, 14 Oct 2026 07:31:31 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-14</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-14.mp3" length="3877149" type="audio/mpeg"/>
+    <itunes:duration>00:10:46</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>Visum verweigert</title>
     <description>Israel verweigert der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise. Wir beleuchten die Hintergründe und die Reaktionen.</description>
     <itunes:summary>Israel verweigert der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise. Wir beleuchten die Hintergründe und die Reaktionen.</itunes:summary>
     <pubDate>Tue, 13 Oct 2026 21:34:57 GMT</pubDate>
     <guid isPermaLink="false">podcast-taz-korrespondentin-einreise-israel</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-taz-korrespondentin-einreise-israel.mp3" length="2563629" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-taz-korrespondentin-einreise-israel.mp3" length="2563629" type="audio/mpeg"/>
     <itunes:duration>00:05:20</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-13</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende · Europäische Union beschließt neue Sanktionen gegen Russland · Israel verweigert taz-Korrespondentin Visum und Einreise · Wirtschaftsnobelpreis geht an US-Ökonomen Robert E. Hall und Michael Woodford</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende · Europäische Union beschließt neue Sanktionen gegen Russland · Israel verweigert taz-Korrespondentin Visum und Einreise · Wirtschaftsnobelpreis geht an US-Ökonomen Robert E. Hall und Michael Woodford</itunes:summary>
-    <pubDate>Tue, 13 Oct 2026 09:20:26 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-13</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-hauptausgabe-2026-10-13.mp3" length="3864045" type="audio/mpeg"/>
-    <itunes:duration>00:10:44</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
@@ -43,7 +43,7 @@
     <itunes:summary>Bundesarbeitsministerin Bärbel Bas ist am Montag von all ihren Ämtern zurückgetreten. Neuer Arbeitsminister soll Alexander Schweitzer werden.</itunes:summary>
     <pubDate>Mon, 12 Oct 2026 23:12:19 GMT</pubDate>
     <guid isPermaLink="false">podcast-baerbel-bas-ruecktritt</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-baerbel-bas-ruecktritt.mp3" length="3419181" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-baerbel-bas-ruecktritt.mp3" length="3419181" type="audio/mpeg"/>
     <itunes:duration>00:07:07</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -54,7 +54,7 @@
     <itunes:summary>Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.</itunes:summary>
     <pubDate>Mon, 12 Oct 2026 19:07:36 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-schwarzes-loch</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/75373aecf6.mp3" length="200397" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/75373aecf6.mp3" length="200397" type="audio/mpeg"/>
     <itunes:duration>00:00:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -65,7 +65,7 @@
     <itunes:summary>Der Reißverschluss verbindet Kleidungsstücke und Taschen ganz ohne Mühe. Dahinter steckt eine clevere Technik aus kleinen Zähnen.</itunes:summary>
     <pubDate>Mon, 12 Oct 2026 09:12:43 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-reissverschluss</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/1c985d5825.mp3" length="220125" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/1c985d5825.mp3" length="220125" type="audio/mpeg"/>
     <itunes:duration>00:00:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -76,7 +76,7 @@
     <itunes:summary>Nach mehreren Angriffen auf den Flughafen in Riad melden Behörden zahlreiche Opfer. Wir ordnen die Bestätigungen der Huthi-Miliz, die Reaktionen der Koalition und die offenen Fragen ein.</itunes:summary>
     <pubDate>Sun, 11 Oct 2026 20:34:10 GMT</pubDate>
     <guid isPermaLink="false">podcast-huthi-angriffe-auf-saudi-arabien-und-reaktionen</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-huthi-angriffe-auf-saudi-arabien-und-reaktionen.mp3" length="6874797" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-huthi-angriffe-auf-saudi-arabien-und-reaktionen.mp3" length="6874797" type="audio/mpeg"/>
     <itunes:duration>00:14:19</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -87,7 +87,7 @@
     <itunes:summary>Die Brailleschrift hilft blinden und stark sehbehinderten Menschen beim Lesen. Sie besteht aus tastbaren Punkten auf dem Papier.</itunes:summary>
     <pubDate>Sun, 11 Oct 2026 12:59:10 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-blindenschrift</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/30d8a8e86a.mp3" length="171021" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/30d8a8e86a.mp3" length="171021" type="audio/mpeg"/>
     <itunes:duration>00:00:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -98,7 +98,7 @@
     <itunes:summary>Der Podcast beleuchtet die jüngsten Luftangriffe auf Saporischschja und Gegenangriffe in Russland. Zudem wird über politische Reaktionen auf Diesellieferungen gesprochen.</itunes:summary>
     <pubDate>Sat, 10 Oct 2026 20:20:31 GMT</pubDate>
     <guid isPermaLink="false">podcast-angriffe-saporischschja</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-angriffe-saporischschja.mp3" length="3288429" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-angriffe-saporischschja.mp3" length="3288429" type="audio/mpeg"/>
     <itunes:duration>00:06:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -109,7 +109,7 @@
     <itunes:summary>Hieroglyphen sind Schriftzeichen mit einem bildhaften Charakter. Der Begriff wird oft für die ägyptische Schrift verwendet.</itunes:summary>
     <pubDate>Sat, 10 Oct 2026 20:10:32 GMT</pubDate>
     <guid isPermaLink="false">wissen-was-sind-hieroglyphen-und-wie-funktionierten-sie</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/e6b1bb260e.mp3" length="191613" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e6b1bb260e.mp3" length="191613" type="audio/mpeg"/>
     <itunes:duration>00:00:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -120,7 +120,7 @@
     <itunes:summary>Schwerelosigkeit beschreibt einen Zustand, in dem die Gewichtskraft auf einen Körper nicht spürbar ist. Dieser Zustand tritt zum Beispiel bei einem freien Fall oder im antriebslosen Flug im Weltraum auf.</itunes:summary>
     <pubDate>Sat, 10 Oct 2026 15:27:23 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-eine-schwerelosigkeit-im-weltall</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/e83284bde3.mp3" length="187869" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e83284bde3.mp3" length="187869" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -131,7 +131,7 @@
     <itunes:summary>Nach der Wahl von Tobias Rausch zum Landtagspräsidenten in Sachsen-Anhalt zog BMW ein Leasingangebot zurück. Wir besprechen die Hintergründe.</itunes:summary>
     <pubDate>Fri, 09 Oct 2026 21:24:45 GMT</pubDate>
     <guid isPermaLink="false">podcast-afd-landtagsgeraet-sachsen-anhalt</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-afd-landtagsgeraet-sachsen-anhalt.mp3" length="3548205" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-afd-landtagsgeraet-sachsen-anhalt.mp3" length="3548205" type="audio/mpeg"/>
     <itunes:duration>00:07:23</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
@@ -142,7 +142,7 @@
     <itunes:summary>Die kanadische Schriftstellerin Anne Carson erhält den Literaturnobelpreis zweitausendsechsundzwanzig für ihr kühnes Gesamtwerk. In dieser Folge besprechen wir die Reaktionen, die Hintergründe und das geheime Auswahlverfahren der Schwedischen Akademie.</itunes:summary>
     <pubDate>Thu, 08 Oct 2026 21:31:07 GMT</pubDate>
     <guid isPermaLink="false">podcast-kanadierin-anne-carson-erhaelt-literaturnobelpreis</guid>
-    <enclosure url="https://raw.githubusercontent.com/nilsscherer3008-design/ND/ton/folge-podcast-kanadierin-anne-carson-erhaelt-literaturnobelpreis.mp3" length="6747693" type="audio/mpeg"/>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-kanadierin-anne-carson-erhaelt-literaturnobelpreis.mp3" length="6747693" type="audio/mpeg"/>
     <itunes:duration>00:14:03</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
