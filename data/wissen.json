@@ -199,7 +199,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
-   }
+   },
+   "ton": [
+    {
+     "k": "Die Enigma ist eine berühmte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhu",
+     "d": "769a94d409.mp3",
+     "l": 37.05,
+     "s": [
+      0.25,
+      5.32,
+      11.7,
+      15.77,
+      20.75,
+      24.78,
+      28.78,
+      32.99
+     ]
+    }
+   ]
   },
   {
    "id": "wie-entstehen-eigentlich-ebbe-und-flut",
@@ -380,7 +397,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Gezeiten lassen das Wasser an den Küsten steigen und fallen."
-   }
+   },
+   "ton": [
+    {
+     "k": "Die Gezeiten bestimmen das regelmäßige Steigen und Sinken des Meeres an den Küst",
+     "d": "36ec91fb92.mp3",
+     "l": 33.94,
+     "s": [
+      0.25,
+      5.34,
+      8.79,
+      11.92,
+      15.97,
+      20.69,
+      23.52,
+      29.06
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-pantomime",
@@ -1320,24 +1354,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Reißverschluss besteht aus zwei Seitenteilen mit Zähnen und einem Schieber."
-   },
-   "ton": [
-    {
-     "k": "Ein Reißverschluss verbindet Kleidung oder Taschen schnell und einfach miteinand",
-     "d": "1c985d5825.mp3",
-     "l": 36.62,
-     "s": [
-      0.25,
-      5.5,
-      9.69,
-      13.16,
-      17.41,
-      20.54,
-      25.52,
-      31.38
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-funktioniert-eigentlich-die-blindenschrift",
