@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-14T18:33:06.183Z",
+ "stand": "2026-10-15T13:21:43.899Z",
  "inArbeit": {
   "id": "die-geschichte-unserer-schrift",
   "titel": "Die Geschichte unserer Schrift",
@@ -246,9 +246,52 @@
     "ueberschrift": "Der Weg zum Alphabet",
     "wikipedia": "Phönizisches Alphabet",
     "fokus": "Phönizische Händler vereinfachten das Schreiben durch die Erfindung von Lautzeichen.",
-    "zuDuenn": 2,
+    "zuDuenn": 3,
     "versuche": 1,
-    "fehlgeschlagen": false
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Die Entwicklung führt uns weiter zum phönizischen Alphabet als nächster großer Kulturstufe der Schriftgeschichte.",
+     "Laut dem Wikipedia-Artikel Phönizische Schrift verwendeten die Phönizier diese linksläufige Konsonantenschrift mit zweiundzwanzig Zeichen vom elften bis zum zweiten Jahrhundert vor Christus.",
+     "Das älteste Zeugnis ist laut dem Wikipedia-Artikel Phönizische Schrift eine Inschrift auf dem Sarkophag des Ahiram von Byblos um tausend vor Christus im heutigen Libanon.",
+     "Laut dem Wikipedia-Artikel Phönizische Schrift entwickelte sich die Schrift spätestens im elften Jahrhundert vor Christus durch Abstrahierung der protosinaitischen Schrift.",
+     "Das phönizische Alphabet ist laut dem Wikipedia-Artikel Phönizische Schrift die Grundlage vieler anderer Alphabete wie des aramäischen, griechischen, hebräischen und arabischen Alphabets.",
+     "Damit bildet diese Kulturtechnik die Grundlage für fast alle heute gebrauchten alphabetischen Schriften der Welt.",
+     "Im nächsten Kapitel blicken wir auf die weitere Zukunft der Schrift und ihre modernen Formen."
+    ],
+    "fakten": [
+     [
+      "Anzahl der Zeichen der phönizischen Schrift",
+      "zweiundzwanzig"
+     ],
+     [
+      "Zeitraum der Verwendung im Libanon, in Palästina, in Syrien und in Karthago",
+      "elfte bis zweite Jahrhundert vor Christus"
+     ],
+     [
+      "Alter des ältesten Zeugnisses auf dem Sarkophag des Ahiram von Byblos",
+      "um tausend vor Christus"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Konsonantenschrift",
+      "Eine Schriftart, in der hauptsächlich Konsonanten geschrieben werden und Vokale oft fehlen."
+     ],
+     [
+      "Unicode",
+      "Ein weltweiter Standard zur elektronischen Codierung von Schriftzeichen."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Phönizische Schrift",
+     "bildunterschrift": "Das phönizische Alphabet diente als wichtige Grundlage für viele spätere Schriftsysteme."
+    },
+    "quelle": {
+     "titel": "Phönizische Schrift",
+     "url": "https://de.wikipedia.org/wiki/Ph%C3%B6nizische_Schrift"
+    },
+    "woerter": 133
    },
    {
     "ueberschrift": "Die griechische Anpassung",

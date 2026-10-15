@@ -2,136 +2,150 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Wed, 14 Oct 2026 20:21:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 13:21:43 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Sachsen-Anhalt fordert Stopp von Ukraine-Hilfen und Sanktionen</title>
     <description>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</description>
     <itunes:summary>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</itunes:summary>
-    <pubDate>Wed, 14 Oct 2026 20:21:14 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 20:21:14 GMT</pubDate>
     <guid isPermaLink="false">podcast-sachsen-anhalt-ukraine-hilfen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-sachsen-anhalt-ukraine-hilfen.mp3" length="6784173" type="audio/mpeg"/>
     <itunes:duration>00:14:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Wie funktioniert eigentlich die Pantomime?</title>
+    <description>Pantomime ist eine Form der darstellenden Kunst ganz ohne Worte. Dabei drücken Künstler Handlungen und Gefühle nur mit Mimik und Gestik aus.</description>
+    <itunes:summary>Pantomime ist eine Form der darstellenden Kunst ganz ohne Worte. Dabei drücken Künstler Handlungen und Gefühle nur mit Mimik und Gestik aus.</itunes:summary>
+    <pubDate>Wed, 14 Oct 2026 18:37:40 GMT</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-pantomime</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/4808199982.mp3" length="202701" type="audio/mpeg"/>
+    <itunes:duration>00:00:34</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Wie entsteht eigentlich eine Polarlichter-Erscheinung im Weltall?</title>
+    <description>Polarlichter sind farbige Leuchterscheinungen am Nachthimmel in der Nähe der Pole. Sie entstehen durch geladene Teilchen der Sonne und das Erdmagnetfeld.</description>
+    <itunes:summary>Polarlichter sind farbige Leuchterscheinungen am Nachthimmel in der Nähe der Pole. Sie entstehen durch geladene Teilchen der Sonne und das Erdmagnetfeld.</itunes:summary>
+    <pubDate>Wed, 14 Oct 2026 13:50:07 GMT</pubDate>
+    <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-eine-polarlichter-erscheinung-im-wel</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e4e12da40d.mp3" length="157341" type="audio/mpeg"/>
+    <itunes:duration>00:00:26</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Wie entsteht eigentlich eine Supernova?</title>
+    <description>Eine Supernova ist das helle Aufleuchten eines großen Sterns am Ende seiner Lebenszeit durch eine Explosion. Dabei wird der Stern selbst vernichtet.</description>
+    <itunes:summary>Eine Supernova ist das helle Aufleuchten eines großen Sterns am Ende seiner Lebenszeit durch eine Explosion. Dabei wird der Stern selbst vernichtet.</itunes:summary>
+    <pubDate>Wed, 14 Oct 2026 07:46:44 GMT</pubDate>
+    <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-eine-supernova</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/6eba39275f.mp3" length="200397" type="audio/mpeg"/>
+    <itunes:duration>00:00:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hauptausgabe vom 2026-10-14</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Vatikan bestätigt Lungenkrebs bei Papst Leo XIV. nach Operation · Sondierungsgespräche in Berlin unterbrochen · Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Internationaler Währungsfonds hebt Konjunkturprognosen für Deutschland und den Euroraum an</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Vatikan bestätigt Lungenkrebs bei Papst Leo XIV. nach Operation · Sondierungsgespräche in Berlin unterbrochen · Festnahmen in Deutschland nach Brand in Starlink-Station in Polen · Internationaler Währungsfonds hebt Konjunkturprognosen für Deutschland und den Euroraum an</itunes:summary>
-    <pubDate>Wed, 14 Oct 2026 07:31:31 +0000</pubDate>
+    <pubDate>Wed, 14 Oct 2026 07:31:31 GMT</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-14</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-14.mp3" length="3877149" type="audio/mpeg"/>
     <itunes:duration>00:10:46</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Visum verweigert</title>
     <description>Israel verweigert der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise. Wir beleuchten die Hintergründe und die Reaktionen.</description>
     <itunes:summary>Israel verweigert der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise. Wir beleuchten die Hintergründe und die Reaktionen.</itunes:summary>
-    <pubDate>Tue, 13 Oct 2026 21:34:57 +0000</pubDate>
+    <pubDate>Tue, 13 Oct 2026 21:34:57 GMT</pubDate>
     <guid isPermaLink="false">podcast-taz-korrespondentin-einreise-israel</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-taz-korrespondentin-einreise-israel.mp3" length="2563629" type="audio/mpeg"/>
     <itunes:duration>00:05:20</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Rücktritt von Bärbel Bas und Nachfolge von Alexander Schweitzer</title>
     <description>Bundesarbeitsministerin Bärbel Bas ist am Montag von all ihren Ämtern zurückgetreten. Neuer Arbeitsminister soll Alexander Schweitzer werden.</description>
     <itunes:summary>Bundesarbeitsministerin Bärbel Bas ist am Montag von all ihren Ämtern zurückgetreten. Neuer Arbeitsminister soll Alexander Schweitzer werden.</itunes:summary>
-    <pubDate>Mon, 12 Oct 2026 23:12:19 +0000</pubDate>
+    <pubDate>Mon, 12 Oct 2026 23:12:19 GMT</pubDate>
     <guid isPermaLink="false">podcast-baerbel-bas-ruecktritt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-baerbel-bas-ruecktritt.mp3" length="3419181" type="audio/mpeg"/>
     <itunes:duration>00:07:07</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Schwarzes Loch?</title>
     <description>Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.</description>
     <itunes:summary>Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.</itunes:summary>
-    <pubDate>Mon, 12 Oct 2026 19:07:36 +0000</pubDate>
+    <pubDate>Mon, 12 Oct 2026 19:07:36 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-schwarzes-loch</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/75373aecf6.mp3" length="200397" type="audio/mpeg"/>
     <itunes:duration>00:00:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich ein Reißverschluss?</title>
     <description>Der Reißverschluss verbindet Kleidungsstücke und Taschen ganz ohne Mühe. Dahinter steckt eine clevere Technik aus kleinen Zähnen.</description>
     <itunes:summary>Der Reißverschluss verbindet Kleidungsstücke und Taschen ganz ohne Mühe. Dahinter steckt eine clevere Technik aus kleinen Zähnen.</itunes:summary>
-    <pubDate>Mon, 12 Oct 2026 09:12:43 +0000</pubDate>
+    <pubDate>Mon, 12 Oct 2026 09:12:43 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-reissverschluss</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/1c985d5825.mp3" length="220125" type="audio/mpeg"/>
     <itunes:duration>00:00:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Angriffe auf den Flughafen Riad und die Folgen</title>
     <description>Nach mehreren Angriffen auf den Flughafen in Riad melden Behörden zahlreiche Opfer. Wir ordnen die Bestätigungen der Huthi-Miliz, die Reaktionen der Koalition und die offenen Fragen ein.</description>
     <itunes:summary>Nach mehreren Angriffen auf den Flughafen in Riad melden Behörden zahlreiche Opfer. Wir ordnen die Bestätigungen der Huthi-Miliz, die Reaktionen der Koalition und die offenen Fragen ein.</itunes:summary>
-    <pubDate>Sun, 11 Oct 2026 20:34:10 +0000</pubDate>
+    <pubDate>Sun, 11 Oct 2026 20:34:10 GMT</pubDate>
     <guid isPermaLink="false">podcast-huthi-angriffe-auf-saudi-arabien-und-reaktionen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-huthi-angriffe-auf-saudi-arabien-und-reaktionen.mp3" length="6874797" type="audio/mpeg"/>
     <itunes:duration>00:14:19</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wie funktioniert eigentlich die Blindenschrift?</title>
-    <description>Die Brailleschrift hilft blinden und stark sehbehinderten Menschen beim Lesen. Sie besteht aus tastbaren Punkten auf dem Papier.</description>
-    <itunes:summary>Die Brailleschrift hilft blinden und stark sehbehinderten Menschen beim Lesen. Sie besteht aus tastbaren Punkten auf dem Papier.</itunes:summary>
-    <pubDate>Sun, 11 Oct 2026 12:59:10 +0000</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-blindenschrift</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/30d8a8e86a.mp3" length="171021" type="audio/mpeg"/>
-    <itunes:duration>00:00:28</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Luftangriffe auf Saporischschja und Drohnen im Süden Russlands</title>
     <description>Der Podcast beleuchtet die jüngsten Luftangriffe auf Saporischschja und Gegenangriffe in Russland. Zudem wird über politische Reaktionen auf Diesellieferungen gesprochen.</description>
     <itunes:summary>Der Podcast beleuchtet die jüngsten Luftangriffe auf Saporischschja und Gegenangriffe in Russland. Zudem wird über politische Reaktionen auf Diesellieferungen gesprochen.</itunes:summary>
-    <pubDate>Sat, 10 Oct 2026 20:20:31 +0000</pubDate>
+    <pubDate>Sat, 10 Oct 2026 20:20:31 GMT</pubDate>
     <guid isPermaLink="false">podcast-angriffe-saporischschja</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-angriffe-saporischschja.mp3" length="3288429" type="audio/mpeg"/>
     <itunes:duration>00:06:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Was sind Hieroglyphen und wie funktionierten sie?</title>
-    <description>Hieroglyphen sind Schriftzeichen mit einem bildhaften Charakter. Der Begriff wird oft für die ägyptische Schrift verwendet.</description>
-    <itunes:summary>Hieroglyphen sind Schriftzeichen mit einem bildhaften Charakter. Der Begriff wird oft für die ägyptische Schrift verwendet.</itunes:summary>
-    <pubDate>Sat, 10 Oct 2026 20:10:32 +0000</pubDate>
-    <guid isPermaLink="false">wissen-was-sind-hieroglyphen-und-wie-funktionierten-sie</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e6b1bb260e.mp3" length="191613" type="audio/mpeg"/>
-    <itunes:duration>00:00:32</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wie entsteht eigentlich eine Schwerelosigkeit im Weltall?</title>
-    <description>Schwerelosigkeit beschreibt einen Zustand, in dem die Gewichtskraft auf einen Körper nicht spürbar ist. Dieser Zustand tritt zum Beispiel bei einem freien Fall oder im antriebslosen Flug im Weltraum auf.</description>
-    <itunes:summary>Schwerelosigkeit beschreibt einen Zustand, in dem die Gewichtskraft auf einen Körper nicht spürbar ist. Dieser Zustand tritt zum Beispiel bei einem freien Fall oder im antriebslosen Flug im Weltraum auf.</itunes:summary>
-    <pubDate>Sat, 10 Oct 2026 15:27:23 +0000</pubDate>
-    <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-eine-schwerelosigkeit-im-weltall</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e83284bde3.mp3" length="187869" type="audio/mpeg"/>
-    <itunes:duration>00:00:31</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Rückzug des BMW-Leasingangebots in Sachsen-Anhalt</title>
     <description>Nach der Wahl von Tobias Rausch zum Landtagspräsidenten in Sachsen-Anhalt zog BMW ein Leasingangebot zurück. Wir besprechen die Hintergründe.</description>
     <itunes:summary>Nach der Wahl von Tobias Rausch zum Landtagspräsidenten in Sachsen-Anhalt zog BMW ein Leasingangebot zurück. Wir besprechen die Hintergründe.</itunes:summary>
-    <pubDate>Fri, 09 Oct 2026 21:24:45 +0000</pubDate>
+    <pubDate>Fri, 09 Oct 2026 21:24:45 GMT</pubDate>
     <guid isPermaLink="false">podcast-afd-landtagsgeraet-sachsen-anhalt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-afd-landtagsgeraet-sachsen-anhalt.mp3" length="3548205" type="audio/mpeg"/>
     <itunes:duration>00:07:23</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
