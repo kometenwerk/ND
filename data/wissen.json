@@ -1,6 +1,206 @@
 {
- "stand": "2026-10-15T13:21:43.899Z",
+ "stand": "2026-10-15T18:14:18.019Z",
  "stuecke": [
+  {
+   "id": "wie-funktionierte-die-geheimschrift-enigma",
+   "zeit": "2026-10-15T18:18:30.070Z",
+   "bereich": "Geschichte",
+   "titel": "Wie funktionierte die Geheimschrift Enigma?",
+   "vorspann": "Die Enigma ist eine bekannte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert. Im Zweiten Weltkrieg nutzten die Achsenmächte sie für ihre Nachrichten.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Im Ersten Weltkrieg suchten deutsche Militärs nach einem Ersatz für unsichere manuelle Verschlüsselungsverfahren. Erfinder der Enigma ist Arthur Scherbius, dessen erstes Patent vom 23. Februar 1918 stammt. Nach dem Krieg wurde die Maschine für zivile Anwendungen vermarktet, was jedoch kein kommerzieller Erfolg wurde. Schließlich sahen die deutschen Militärs die maschinelle Verschlüsselung als die sicherste Lösung an. Im Jahr 1926 setzte die Reichsmarine ein Enigma-Modell versuchsweise ein und ab 1927 wurde es im Geheimen gefertigt. Am 1. Juni 1930 wurde dieses Modell unter dem Namen Enigma I von der Reichswehr offiziell in Dienst gestellt.",
+      "Die Enigma I war das während des Zweiten Weltkriegs auf deutscher Seite am häufigsten benutzte Maschinenschlüsselverfahren. Neben der Enigma I kamen auch andere Modelle wie die Enigma-G oder die Enigma-M4 zum Einsatz. Eine Enigma I wiegt inklusive Holzgehäuse rund zwölf Kilogramm und besteht aus einer Tastatur, einem Walzensatz und einem Glühlampenfeld. Beim Drücken einer Buchstabentaste leuchtet eine Anzeigelampe auf, die der Verschlüsselung des gedruckten Buchstabens entspricht. Nach Ende des Krieges wurden einige Maschinen in der Schweiz weiterverwendet und in Norwegen als Norenigma eingesetzt."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Alle Enigma-Glühlampenchiffriermaschinen bestehen aus einer Tastatur zur Buchstabeneingabe, einem Walzensatz zur Verschlüsselung und einem Glühlampenfeld zur Anzeige. Bei der Enigma I sind es drei Walzen, die nebeneinander unabhängig drehbar angeordnet sind. Drückt man eine Buchstabentaste, fließt elektrischer Strom durch den Walzensatz und lässt eine Anzeigelampe aufleuchten. Bei jedem Tastendruck drehen sich die Walzen weiter, wodurch sich das geheime Schlüsselalphabet nach jedem Buchstaben ändert. Als zusätzliche kryptographische Komplikation ist an der Gerätefront ein Steckerbrett mit doppelpoligen Steckbuchsen angebracht.",
+      "Der Benutzer wählte nach Vorgabe einer geheimen Schlüsseltabelle drei Walzen aus und setzte diese nach einer vorgeschriebenen Anordnung ein. Der Tagesschlüssel wurde beim Heer um Mitternacht gewechselt und bei der Luftwaffe um drei Uhr nachts. Die Ringe an jedem Walzenkörper bestimmen den Rotationsversatz zwischen der inneren Verdrahtung und den außen zu sehenden Buchstaben oder Zahlen. Der Strom fließt beim Tastendruck durch das Steckerbrett, durchläuft alle drei Walzen, erreicht die Umkehrwalze und fließt ein zweites Mal durch den Walzensatz zurück. Am Ende leuchtet die Anzeigelampe auf, die den verschlüsselten Buchstaben anzeigt."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Über die Enigma gibt es offizielle historische Aufzeichnungen und Patente wie das erste Patent von Arthur Scherbius vom 23. Februar 1918. Zudem ist bekannt, dass den Alliierten die Entzifferung der Funksprüche gelang, was bis 1974 geheim gehalten wurde."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Erstes Patent von Arthur Scherbius",
+     "23. Februar 1918"
+    ],
+    [
+     "Offizielle Indienststellung der Enigma I",
+     "1. Juni 1930"
+    ],
+    [
+     "Gewicht der Enigma I mit Holzgehäuse",
+     "rund 12 kg"
+    ],
+    [
+     "Hergestellte Enigma-Maschinen insgesamt",
+     "etwa 40.000"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Enigma",
+     "Eine Sammelbezeichnung für eine Reihe von Rotor-Chiffriermaschinen zur Verschlüsselung von Nachrichten."
+    ],
+    [
+     "Walzensatz",
+     "Ein Satz aus mehreren drehbaren Walzen, der den elektrischen Strom bei der Verschlüsselung umleitet."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann wurde die Enigma I von der Reichswehr in Dienst gestellt?",
+     "optionen": [
+      "1. Juni 1930",
+      "23. Februar 1918",
+      "9. Juli 1923"
+     ],
+     "richtig": 0,
+     "erklaerung": "Laut dem Text wurde die Enigma I am 1. Juni 1930 offiziell in Dienst gestellt."
+    }
+   ],
+   "video": [
+    "Die Enigma ist eine berühmte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert.",
+    "Arthur Scherbius erfand die Maschine, deren erstes Patent von achtzehnte Februar neunzehnhundertachtzehn stammt.",
+    "Im Zweiten Weltkrieg nutzte die Wehrmacht vor allem die Enigma I.",
+    "Die Maschine besteht aus einer Tastatur, einem Walzensatz und einem Glühlampenfeld.",
+    "Beim Tippen eines Buchstabens fließt Strom durch rotierende Walzen.",
+    "Dadurch leuchtet eine andere Lampe auf und verschlüsselt den Buchstaben.",
+    "Zusätzlich verändert das Steckerbrett an der Front die elektrischen Verbindungen.",
+    "Tagesschlüssel bestimmten die genaue Einstellung der Walzen für den Betrieb."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Enigma (Maschine)",
+    "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
+   },
+   "quelle": {
+    "titel": "Enigma (Maschine)",
+    "url": "https://de.wikipedia.org/wiki/Enigma_(Maschine)",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 381,
+   "bildInfos": [
+    {
+     "titel": "Enigma (20967055154).jpg",
+     "beschreibung": "Bletchley Park , Bletchley, Milton Keynes, Buckinghamshire, England.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Enigma_%2820967055154%29.jpg/1280px-Enigma_%2820967055154%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Enigma_%2820967055154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Enigma_(20967055154).jpg",
+     "urheber": "William Warby from London, England",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "Enigma (Maschine)",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
+    },
+    {
+     "titel": "Alan Turing az 1930-as években.jpg",
+     "beschreibung": "Alan Turing az 1930-as években.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Alan_Turing_az_1930-as_%C3%A9vekben.jpg",
+     "urheber": "Unknown author Unknown author",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Alan Turing az 1930-as években."
+    },
+    {
+     "titel": "Bletchley Park Mansion.jpg",
+     "beschreibung": "Bletchley Park Mansion. This house was the headquarters for British codebreakers during World War II. The mansion is a Grade II Listed Building in England.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bletchley_Park_Mansion.jpg/1280px-Bletchley_Park_Mansion.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bletchley_Park_Mansion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
+     "urheber": "DeFacto",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Bletchley Park Mansion. This house was the headquarters for British codebreakers during World War II. The mansion is a Grade II Listed Building in England."
+    },
+    {
+     "titel": "Bundesarchiv Bild 101I-769-0229-10A, Frankreich, Guderian, \"Enigma\" cropped.jpg",
+     "beschreibung": "SdKfz.251/3 ausf. A armoured command vehicle",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bundesarchiv_Bild_101I-769-0229-10A%2C_Frankreich%2C_Guderian%2C_%22Enigma%22_cropped.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bundesarchiv_Bild_101I-769-0229-10A%2C_Frankreich%2C_Guderian%2C_%22Enigma%22_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22_cropped.jpg",
+     "urheber": "Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_\"Enigma\".jpg : Borchert, Erich ",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "SdKfz.251/3 ausf. A armoured command vehicle"
+    },
+    {
+     "titel": "Bundesarchiv Bild 101II-MW-4222-02A, \"Enigma\" auf U-Boot U-124.jpg",
+     "beschreibung": "\"Enigma\" auf U-Boot U-124",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_101II-MW-4222-02A%2C_%22Enigma%22_auf_U-Boot_U-124.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_101II-MW-4222-02A%2C_%22Enigma%22_auf_U-Boot_U-124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101II-MW-4222-02A,_%22Enigma%22_auf_U-Boot_U-124.jpg",
+     "urheber": "Dietrich",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "\"Enigma\" auf U-Boot U-124"
+    },
+    {
+     "titel": "DDayMuseumEnigmaMach.jpg",
+     "beschreibung": "ENIGMA machine on display in National World War II Museum, New Orleans .",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DDayMuseumEnigmaMach.jpg/1280px-DDayMuseumEnigmaMach.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/DDayMuseumEnigmaMach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:DDayMuseumEnigmaMach.jpg",
+     "urheber": "Infrogmation of New Orleans",
+     "lizenz": "GFDL",
+     "lizenzUrl": "http://www.gnu.org/copyleft/fdl.html",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "ENIGMA machine on display in National World War II Museum, New Orleans ."
+    },
+    {
+     "titel": "Der Schlüssel M - Verfahren M Allgemein (MDvNr 32-1) booklet.jpg",
+     "beschreibung": "Nazi German secret instruction order M.Dv.Nr. 31/1 - Key M - 1940. Cover page. Instructions for Enigma encryption within the German navy.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_%28MDvNr_32-1%29_booklet.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_%28MDvNr_32-1%29_booklet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_(MDvNr_32-1)_booklet.jpg",
+     "urheber": "Deutsche Kriegsmarine",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Nazi German secret instruction order M.Dv.Nr. 31/1 - Key M - 1940. Cover page. Instructions for Enigma encryption within the German navy."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Enigma (20967055154).jpg",
+    "beschreibung": "Bletchley Park , Bletchley, Milton Keynes, Buckinghamshire, England.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Enigma_%2820967055154%29.jpg/1280px-Enigma_%2820967055154%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Enigma_%2820967055154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Enigma_(20967055154).jpg",
+    "urheber": "William Warby from London, England",
+    "lizenz": "CC BY 2.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+    "artikel": "Enigma (Maschine)",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
+   }
+  },
   {
    "id": "wie-entstehen-eigentlich-ebbe-und-flut",
    "zeit": "2026-10-15T13:26:02.695Z",
@@ -6750,164 +6950,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Herz ist ein muskuläres Hohlorgan, das den Blutkreislauf antreibt."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-die-briefmarke",
-   "zeit": "2026-09-26T17:14:23.718Z",
-   "bereich": "Gesellschaft und Zusammenleben",
-   "titel": "Wie funktioniert eigentlich die Briefmarke?",
-   "vorspann": "Eine Briefmarke zeigt, dass die Gebühr für den Brief bezahlt wurde. Sie wird auf den Umschlag geklebt und mit einem Stempel entwertet.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Eine Briefmarke ist laut dem Wikipedia-Artikel eine Bestätigung eines postalischen Beförderungsunternehmens. Sie zeigt an, dass der aufgedruckte Betrag für die Leistung bezahlt wurde. Meistens wird sie auf Papier gedruckt und ist rechteckig. Auf der Rückseite hat sie eine Gummierung oder ist selbstklebend.",
-      "Durch das Trennen aus einem perforierten Bogen entsteht die typische Zähnung an den Rändern. Heute nutzt man Briefmarken fast nur noch für privat versendete Poststücke. Bei gewerblicher Post wurden sie meistens von Frankiermaschinen oder Daten-Verarbeitung-Freimachung verdrängt."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Die Grundidee der Erfindung war laut dem Wikipedia-Artikel, dass der Absender das Briefporto bezahlt und nicht mehr der Empfänger. Das war das erste Prepaid-System mit Vorauszahlung. Die erste aufklebbare Briefmarke wurde ab dem ersten Mai 1840 im Vereinigten Königreich herausgegeben.",
-      "In Deutschland werden Briefmarken nach Angaben aus dem Artikel von der Deutschen Post AG vertrieben. Die heutigen Briefmarken werden nach Weisung des Bundesministeriums der Finanzen hergestellt und an die Deutsche Post AG ausgeliefert. Der BGH hat in einem Urteil entschieden, dass Briefmarken kleine Inhaberpapiere im Sinne des Paragraphen 807 BGB sind.",
-      "Die Post will die Beförderungsleistung gegenüber jedem erbringen, der gültige Briefmarken in Höhe des vorgesehenen Entgelts auf die Sendung klebt. Danach dient die Briefmarke nur noch der Kontrolle, ob das Geld im Voraus gezahlt wurde. Der Besitz der Briefmarke ist zur Geltendmachung des Beförderungsanspruchs erforderlich."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Der Wikipedia-Artikel berichtet über die Geschichte der Briefmarke vor und nach der offiziellen Einführung im Jahr 1840. Zudem nennt er historische Dokumente, Gesetze und Verordnungen wie das Reichs-Strafgesetzbuch von 1871 und das Postgesetz. Auch Gerichtsurteile, wie das des BGH vom elften Oktober 2005, liefern genaue Informationen zur rechtlichen Funktion."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Einführung der ersten Briefmarke",
-     "1840"
-    ],
-    [
-     "Erste deutsche Briefmarke (Schwarzer Einser)",
-     "1849"
-    ],
-    [
-     "Privatisierung der Deutschen Bundespost",
-     "1995"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Briefmarke",
-     "Eine Bestätigung über die Zahlung des Portos für ein Poststück."
-    ],
-    [
-     "Perforation",
-     "Eine Lochung in Papier, die das Trennen von Briefmarken erleichtert."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann wurde die erste aufklebbare Briefmarke im Vereinigten Königreich herausgegeben?",
-     "optionen": [
-      "1840",
-      "1849",
-      "1995"
-     ],
-     "richtig": 0,
-     "erklaerung": "Laut dem Artikel wurde die erste aufklebbare Briefmarke ab dem ersten Mai 1840 im Vereinigten Königreich herausgegeben."
-    }
-   ],
-   "video": [
-    "Eine Briefmarke bestätigt die Zahlung für die Beförderung eines Briefes.",
-    "Früher zahlte oft der Empfänger das Porto für einen Brief.",
-    "Mit der Briefmarke wurde ein System der Vorauszahlung geschaffen.",
-    "Sir Rowland Hill gilt als Urheber der Briefmarke im Vereinigten Königreich.",
-    "Im Jahr 1840 erschien dort die erste aufklebbare Briefmarke der Welt.",
-    "Die erste deutsche Briefschraube oder Briefmarke war der Schwarze Einser im Jahr 1849.",
-    "Heute werden Briefmarken nach Weisung des Bundesministeriums der Finanzen hergestellt.",
-    "Gerichte stufen Briefmarken als kleine Inhaberpapiere ein."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Briefmarke",
-    "bildunterschrift": "Eine Briefmarke weist die Bezahlung des Portos nach."
-   },
-   "quelle": {
-    "titel": "Briefmarke",
-    "url": "https://de.wikipedia.org/wiki/Briefmarke",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 263,
-   "bildInfos": [
-    {
-     "titel": "Briefumschlag Mobile Briefmarke Deutsche Post 2020.jpg",
-     "beschreibung": "Briefumschlag, frankiert mit der mobilen Briefmarke, ein Produkt der Deutschen Post",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg/1280px-Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg",
-     "urheber": "Raimond Spekking",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Mobile Briefmarke",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Briefmarke weist die Bezahlung des Portos nach."
-    },
-    {
-     "titel": "80c Gewitter Matrixmarke.jpg",
-     "beschreibung": "Datamatrix-Briefmarke der Deutschen Post",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/80c_Gewitter_Matrixmarke.jpg/1280px-80c_Gewitter_Matrixmarke.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/80c_Gewitter_Matrixmarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:80c_Gewitter_Matrixmarke.jpg",
-     "urheber": "Sarang",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Datamatrix-Briefmarke der Deutschen Post"
-    },
-    {
-     "titel": "Austrian KK 1 heller Porto Stamp Portrait of Emperor Charles VI Nachmarke.jpg",
-     "beschreibung": "Austria-Hungary Porto Stamp",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Austrian_KK_1_heller_Porto_Stamp_Portrait_of_Emperor_Charles_VI_Nachmarke.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Austrian_KK_1_heller_Porto_Stamp_Portrait_of_Emperor_Charles_VI_Nachmarke.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Austrian_KK_1_heller_Porto_Stamp_Portrait_of_Emperor_Charles_VI_Nachmarke.jpg",
-     "urheber": "Österreich-Ungarn",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Austria-Hungary Porto Stamp"
-    },
-    {
-     "titel": "Briefmarkenpapier.jpg",
-     "beschreibung": "Unterschied zwischen Kreide- und Normalpapier Quelle: selbst fotografiert",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Briefmarkenpapier.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Briefmarkenpapier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Briefmarkenpapier.jpg",
-     "urheber": "Peterwuttke at German Wikipedia",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Unterschied zwischen Kreide- und Normalpapier Quelle: selbst fotografiert"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Briefumschlag Mobile Briefmarke Deutsche Post 2020.jpg",
-    "beschreibung": "Briefumschlag, frankiert mit der mobilen Briefmarke, ein Produkt der Deutschen Post",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg/1280px-Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Briefumschlag_Mobile_Briefmarke_Deutsche_Post_2020.jpg",
-    "urheber": "Raimond Spekking",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Mobile Briefmarke",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Briefmarke weist die Bezahlung des Portos nach."
    }
   }
  ]

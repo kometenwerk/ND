@@ -1,8 +1,6 @@
 {
- "stand": "2026-10-15T13:21:43.899Z",
+ "stand": "2026-10-15T18:14:18.019Z",
  "gepusht": [
-  "ig-metall-forderung-tarifrunde",
-  "oecd-konjunkturprognose-deutschland",
   "g20-einladung-putin-usa",
   "xi-besuch-usa-zollpause",
   "wirtschaftswachstum-prognose-2026",
@@ -80,7 +78,9 @@
   "nord-stream-prozess-beginn",
   "berliner-sondierungsgespraeche-unterbrochen",
   "sachsen-anhalt-ukraine-hilfen",
-  "lufthansa-tap-portugal"
+  "lufthansa-tap-portugal",
+  "iran-spionage-hamburg-urteil",
+  "eu-haushalt-streit-merz"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -94,10 +94,12 @@
   "nord-stream-prozess-beginn",
   "berliner-sondierungsgespraeche-unterbrochen",
   "sachsen-anhalt-ukraine-hilfen",
-  "lufthansa-tap-portugal"
+  "lufthansa-tap-portugal",
+  "iran-spionage-hamburg-urteil",
+  "eu-haushalt-streit-merz"
  ],
  "wetter": {
-  "stand": "2026-10-15T13:21:43.899Z",
+  "stand": "2026-10-15T18:14:18.019Z",
   "morgenTag": "Freitag",
   "orte": [
    {
@@ -106,15 +108,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 16,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 14,
-     "wind": 11,
-     "windAus": 198,
-     "feuchte": 72,
+     "gefuehlt": 13,
+     "wind": 6,
+     "windAus": 190,
+     "feuchte": 85,
      "druck": 1021,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
@@ -124,21 +126,21 @@
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 181,
+     "windAus": 180,
      "uv": 2.4,
      "auf": "07:46",
      "unter": "18:23"
     },
     "morgen": {
      "datum": "2026-10-16",
-     "code": 61,
+     "code": 3,
      "max": 20,
      "min": 13,
      "regen": 55,
      "menge": 0.2,
-     "wind": 12,
-     "windAus": 181,
-     "uv": 2.6,
+     "wind": 10,
+     "windAus": 173,
+     "uv": 2.2,
      "auf": "07:48",
      "unter": "18:21"
     },
@@ -151,59 +153,59 @@
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 181,
+      "windAus": 180,
       "uv": 2.4,
       "auf": "07:46",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-16",
-      "code": 61,
+      "code": 3,
       "max": 20,
       "min": 13,
       "regen": 55,
       "menge": 0.2,
-      "wind": 12,
-      "windAus": 181,
-      "uv": 2.6,
+      "wind": 10,
+      "windAus": 173,
+      "uv": 2.2,
       "auf": "07:48",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
-      "max": 15,
+      "code": 80,
+      "max": 16,
       "min": 8,
       "regen": 63,
-      "menge": 0.1,
+      "menge": 1.6,
       "wind": 17,
-      "windAus": 319,
+      "windAus": 320,
       "uv": 2.6,
       "auf": "07:50",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-18",
-      "code": 45,
-      "max": 12,
-      "min": 3,
+      "code": 3,
+      "max": 11,
+      "min": 6,
       "regen": 13,
       "menge": 0,
-      "wind": 9,
-      "windAus": 90,
-      "uv": 1.9,
+      "wind": 11,
+      "windAus": 92,
+      "uv": 2.6,
       "auf": "07:52",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-19",
-      "code": 2,
-      "max": 13,
-      "min": 7,
-      "regen": 15,
+      "code": 3,
+      "max": 10,
+      "min": 8,
+      "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 73,
+      "wind": 12,
+      "windAus": 84,
       "uv": 2.5,
       "auf": "07:54",
       "unter": "18:14"
@@ -211,83 +213,53 @@
      {
       "datum": "2026-10-20",
       "code": 3,
-      "max": 13,
-      "min": 6,
-      "regen": 9,
+      "max": 14,
+      "min": 10,
+      "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 108,
-      "uv": 2.3,
+      "wind": 16,
+      "windAus": 109,
+      "uv": 2.4,
       "auf": "07:56",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-21",
-      "code": 3,
-      "max": 15,
+      "code": 61,
+      "max": 11,
       "min": 10,
-      "regen": 16,
-      "menge": 0,
+      "regen": 12,
+      "menge": 4.2,
       "wind": 14,
-      "windAus": 120,
-      "uv": 2.2,
+      "windAus": 166,
+      "uv": 2.3,
       "auf": "07:58",
       "unter": "18:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 16,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
       "grad": 14,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 13,
-      "code": 2,
+      "grad": 14,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 13,
-      "code": 2,
+      "grad": 14,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 13,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -298,13 +270,13 @@
      },
      {
       "zeit": "01:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -316,13 +288,13 @@
      },
      {
       "zeit": "04:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -346,7 +318,7 @@
      },
      {
       "zeit": "09:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -354,13 +326,13 @@
       "zeit": "10:00",
       "grad": 14,
       "code": 2,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "11:00",
       "grad": 16,
       "code": 3,
-      "regen": 0
+      "regen": 8
      },
      {
       "zeit": "12:00",
@@ -370,15 +342,45 @@
      },
      {
       "zeit": "13:00",
-      "grad": 18,
-      "code": 3,
+      "grad": 19,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 19,
+      "grad": 20,
       "code": 2,
       "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 20,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 20,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 20,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 19,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "19:00",
+      "grad": 18,
+      "code": 3,
+      "regen": 13
      }
     ]
    },
@@ -388,15 +390,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 16,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 15,
-     "wind": 7,
-     "windAus": 191,
-     "feuchte": 62,
-     "druck": 1022,
+     "gefuehlt": 13,
+     "wind": 6,
+     "windAus": 162,
+     "feuchte": 80,
+     "druck": 1021,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
@@ -405,22 +407,22 @@
      "min": 7,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 186,
+     "wind": 9,
+     "windAus": 183,
      "uv": 2.6,
      "auf": "07:31",
      "unter": "18:11"
     },
     "morgen": {
      "datum": "2026-10-16",
-     "code": 3,
+     "code": 45,
      "max": 19,
-     "min": 9,
+     "min": 8,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 162,
-     "uv": 2.7,
+     "wind": 9,
+     "windAus": 157,
+     "uv": 2.8,
      "auf": "07:33",
      "unter": "18:09"
     },
@@ -432,48 +434,48 @@
       "min": 7,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 186,
+      "wind": 9,
+      "windAus": 183,
       "uv": 2.6,
       "auf": "07:31",
       "unter": "18:11"
      },
      {
       "datum": "2026-10-16",
-      "code": 3,
+      "code": 45,
       "max": 19,
-      "min": 9,
+      "min": 8,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 162,
-      "uv": 2.7,
+      "wind": 9,
+      "windAus": 157,
+      "uv": 2.8,
       "auf": "07:33",
       "unter": "18:09"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
+      "code": 80,
       "max": 14,
-      "min": 8,
-      "regen": 29,
-      "menge": 0,
-      "wind": 14,
-      "windAus": 291,
-      "uv": 0.8,
+      "min": 7,
+      "regen": 13,
+      "menge": 1.1,
+      "wind": 15,
+      "windAus": 292,
+      "uv": 1.9,
       "auf": "07:35",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-18",
       "code": 45,
-      "max": 14,
+      "max": 13,
       "min": 5,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
       "wind": 9,
-      "windAus": 22,
-      "uv": 2.7,
+      "windAus": 23,
+      "uv": 2.6,
       "auf": "07:37",
       "unter": "18:05"
      },
@@ -481,73 +483,43 @@
       "datum": "2026-10-19",
       "code": 3,
       "max": 11,
-      "min": 8,
-      "regen": 5,
+      "min": 6,
+      "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 71,
-      "uv": 2.3,
+      "wind": 11,
+      "windAus": 76,
+      "uv": 2.4,
       "auf": "07:38",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-20",
       "code": 3,
-      "max": 16,
-      "min": 8,
-      "regen": 8,
+      "max": 14,
+      "min": 10,
+      "regen": 2,
       "menge": 0,
-      "wind": 13,
-      "windAus": 100,
-      "uv": 2.5,
+      "wind": 14,
+      "windAus": 102,
+      "uv": 2.6,
       "auf": "07:40",
       "unter": "18:00"
      },
      {
       "datum": "2026-10-21",
-      "code": 3,
+      "code": 61,
       "max": 17,
       "min": 10,
-      "regen": 10,
-      "menge": 0,
-      "wind": 14,
-      "windAus": 107,
-      "uv": 1.4,
+      "regen": 7,
+      "menge": 5.2,
+      "wind": 12,
+      "windAus": 139,
+      "uv": 2.4,
       "auf": "07:42",
       "unter": "17:58"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 16,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 14,
@@ -568,7 +540,7 @@
      },
      {
       "zeit": "23:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
@@ -580,25 +552,25 @@
      },
      {
       "zeit": "01:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
       "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "04:00",
+      "zeit": "02:00",
       "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 9,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
@@ -616,37 +588,37 @@
      },
      {
       "zeit": "07:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 8,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 8,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 9,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 13,
+      "grad": 12,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 15,
+      "grad": 14,
       "code": 2,
       "regen": 0
      },
@@ -658,8 +630,38 @@
      },
      {
       "zeit": "14:00",
+      "grad": 17,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
       "grad": 18,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 19,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 18,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 18,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 16,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -670,15 +672,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 18,
+     "grad": 15,
      "code": 3,
-     "gefuehlt": 17,
-     "wind": 6,
-     "windAus": 212,
-     "feuchte": 62,
+     "gefuehlt": 15,
+     "wind": 2,
+     "windAus": 141,
+     "feuchte": 77,
      "druck": 1012,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
@@ -688,7 +690,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 6,
-     "windAus": 187,
+     "windAus": 188,
      "uv": 2.7,
      "auf": "07:34",
      "unter": "18:17"
@@ -701,8 +703,8 @@
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 190,
-     "uv": 2.8,
+     "windAus": 189,
+     "uv": 3,
      "auf": "07:35",
      "unter": "18:15"
     },
@@ -715,7 +717,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 187,
+      "windAus": 188,
       "uv": 2.7,
       "auf": "07:34",
       "unter": "18:17"
@@ -728,47 +730,47 @@
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 190,
-      "uv": 2.8,
+      "windAus": 189,
+      "uv": 3,
       "auf": "07:35",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-17",
       "code": 61,
-      "max": 14,
-      "min": 9,
-      "regen": 43,
-      "menge": 0.5,
+      "max": 13,
+      "min": 7,
+      "regen": 30,
+      "menge": 0,
       "wind": 13,
-      "windAus": 301,
-      "uv": 0.5,
+      "windAus": 291,
+      "uv": 1.4,
       "auf": "07:37",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 14,
-      "min": 7,
-      "regen": 10,
-      "menge": 0.6,
-      "wind": 9,
-      "windAus": 32,
-      "uv": 2.7,
+      "max": 12,
+      "min": 6,
+      "regen": 5,
+      "menge": 0.3,
+      "wind": 10,
+      "windAus": 26,
+      "uv": 2.4,
       "auf": "07:39",
       "unter": "18:11"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 12,
+      "max": 10,
       "min": 8,
-      "regen": 5,
+      "regen": 1,
       "menge": 0,
       "wind": 11,
-      "windAus": 67,
-      "uv": 2.9,
+      "windAus": 70,
+      "uv": 2.8,
       "auf": "07:40",
       "unter": "18:09"
      },
@@ -776,60 +778,30 @@
       "datum": "2026-10-20",
       "code": 3,
       "max": 17,
-      "min": 7,
-      "regen": 6,
+      "min": 9,
+      "regen": 2,
       "menge": 0,
-      "wind": 12,
-      "windAus": 90,
-      "uv": 2.7,
+      "wind": 15,
+      "windAus": 88,
+      "uv": 2.8,
       "auf": "07:42",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-21",
-      "code": 3,
-      "max": 17,
-      "min": 8,
-      "regen": 15,
-      "menge": 0,
-      "wind": 11,
-      "windAus": 116,
-      "uv": 1.8,
+      "code": 61,
+      "max": 14,
+      "min": 7,
+      "regen": 13,
+      "menge": 6,
+      "wind": 10,
+      "windAus": 184,
+      "uv": 2.2,
       "auf": "07:44",
       "unter": "18:05"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 18,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 18,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 18,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 16,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 15,
@@ -863,7 +835,7 @@
      {
       "zeit": "01:00",
       "grad": 12,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -892,26 +864,26 @@
      },
      {
       "zeit": "06:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 10,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 10,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 11,
-      "code": 3,
+      "grad": 10,
+      "code": 2,
       "regen": 0
      },
      {
@@ -928,7 +900,7 @@
      },
      {
       "zeit": "12:00",
-      "grad": 15,
+      "grad": 16,
       "code": 2,
       "regen": 0
      },
@@ -941,6 +913,36 @@
      {
       "zeit": "14:00",
       "grad": 18,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 19,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 19,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 19,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 18,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 17,
       "code": 2,
       "regen": 0
      }
@@ -952,38 +954,38 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 20,
+     "grad": 17,
      "code": 3,
-     "gefuehlt": 19,
-     "wind": 5,
-     "windAus": 220,
-     "feuchte": 53,
-     "druck": 1018,
+     "gefuehlt": 17,
+     "wind": 7,
+     "windAus": 124,
+     "feuchte": 67,
+     "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
      "code": 3,
-     "max": 20,
+     "max": 21,
      "min": 10,
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 141,
+     "windAus": 138,
      "uv": 3.1,
      "auf": "07:55",
      "unter": "18:39"
     },
     "morgen": {
      "datum": "2026-10-16",
-     "code": 53,
+     "code": 3,
      "max": 23,
      "min": 13,
-     "regen": 51,
-     "menge": 1.1,
-     "wind": 20,
-     "windAus": 168,
+     "regen": 59,
+     "menge": 0,
+     "wind": 14,
+     "windAus": 150,
      "uv": 3,
      "auf": "07:56",
      "unter": "18:37"
@@ -992,39 +994,39 @@
      {
       "datum": "2026-10-15",
       "code": 3,
-      "max": 20,
+      "max": 21,
       "min": 10,
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 141,
+      "windAus": 138,
       "uv": 3.1,
       "auf": "07:55",
       "unter": "18:39"
      },
      {
       "datum": "2026-10-16",
-      "code": 53,
+      "code": 3,
       "max": 23,
       "min": 13,
-      "regen": 51,
-      "menge": 1.1,
-      "wind": 20,
-      "windAus": 168,
+      "regen": 59,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 150,
       "uv": 3,
       "auf": "07:56",
       "unter": "18:37"
      },
      {
       "datum": "2026-10-17",
-      "code": 63,
-      "max": 14,
-      "min": 8,
-      "regen": 63,
-      "menge": 5.9,
+      "code": 61,
+      "max": 17,
+      "min": 11,
+      "regen": 78,
+      "menge": 11.2,
       "wind": 19,
-      "windAus": 320,
-      "uv": 3,
+      "windAus": 341,
+      "uv": 2.9,
       "auf": "07:58",
       "unter": "18:35"
      },
@@ -1033,10 +1035,10 @@
       "code": 61,
       "max": 11,
       "min": 6,
-      "regen": 33,
+      "regen": 51,
       "menge": 10.1,
       "wind": 12,
-      "windAus": 355,
+      "windAus": 5,
       "uv": 2.2,
       "auf": "08:00",
       "unter": "18:33"
@@ -1046,11 +1048,11 @@
       "code": 80,
       "max": 15,
       "min": 9,
-      "regen": 27,
+      "regen": 33,
       "menge": 5,
       "wind": 9,
       "windAus": 77,
-      "uv": 3,
+      "uv": 2.9,
       "auf": "08:01",
       "unter": "18:31"
      },
@@ -1059,11 +1061,11 @@
       "code": 3,
       "max": 17,
       "min": 8,
-      "regen": 10,
+      "regen": 1,
       "menge": 0,
       "wind": 12,
       "windAus": 108,
-      "uv": 2.7,
+      "uv": 2.8,
       "auf": "08:03",
       "unter": "18:29"
      },
@@ -1072,50 +1074,20 @@
       "code": 51,
       "max": 15,
       "min": 8,
-      "regen": 18,
+      "regen": 16,
       "menge": 1.8,
       "wind": 15,
       "windAus": 132,
-      "uv": 2.2,
+      "uv": 2,
       "auf": "08:05",
       "unter": "18:27"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 20,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 20,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 20,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 19,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
+      "zeit": "20:00",
       "grad": 18,
       "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 17,
-      "code": 0,
       "regen": 0
      },
      {
@@ -1132,14 +1104,14 @@
      },
      {
       "zeit": "23:00",
-      "grad": 16,
-      "code": 3,
+      "grad": 15,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 16,
-      "code": 2,
+      "grad": 15,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1151,24 +1123,24 @@
      {
       "zeit": "02:00",
       "grad": 14,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 14,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 13,
-      "code": 0,
+      "grad": 14,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 13,
+      "grad": 14,
       "code": 0,
       "regen": 0
      },
@@ -1192,39 +1164,69 @@
      },
      {
       "zeit": "09:00",
-      "grad": 13,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
       "grad": 14,
       "code": 0,
       "regen": 0
      },
      {
+      "zeit": "10:00",
+      "grad": 15,
+      "code": 0,
+      "regen": 0
+     },
+     {
       "zeit": "11:00",
-      "grad": 16,
+      "grad": 17,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 18,
-      "code": 0,
+      "grad": 19,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 20,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 22,
       "code": 0,
-      "regen": 2
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 23,
+      "code": 2,
+      "regen": 7
+     },
+     {
+      "zeit": "16:00",
+      "grad": 23,
+      "code": 3,
+      "regen": 17
+     },
+     {
+      "zeit": "17:00",
+      "grad": 23,
+      "code": 1,
+      "regen": 24
+     },
+     {
+      "zeit": "18:00",
+      "grad": 22,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "19:00",
+      "grad": 22,
+      "code": 1,
+      "regen": 25
      }
     ]
    },
@@ -1234,15 +1236,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 17,
+     "grad": 15,
      "code": 3,
-     "gefuehlt": 17,
-     "wind": 7,
-     "windAus": 208,
-     "feuchte": 66,
+     "gefuehlt": 14,
+     "wind": 2,
+     "windAus": 202,
+     "feuchte": 73,
      "druck": 1013,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
@@ -1252,7 +1254,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 192,
+     "windAus": 187,
      "uv": 3.1,
      "auf": "07:47",
      "unter": "18:34"
@@ -1260,13 +1262,13 @@
     "morgen": {
      "datum": "2026-10-16",
      "code": 45,
-     "max": 18,
+     "max": 21,
      "min": 7,
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 212,
-     "uv": 3.2,
+     "windAus": 191,
+     "uv": 3,
      "auf": "07:48",
      "unter": "18:32"
     },
@@ -1279,7 +1281,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 192,
+      "windAus": 187,
       "uv": 3.1,
       "auf": "07:47",
       "unter": "18:34"
@@ -1287,13 +1289,13 @@
      {
       "datum": "2026-10-16",
       "code": 45,
-      "max": 18,
+      "max": 21,
       "min": 7,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 212,
-      "uv": 3.2,
+      "windAus": 191,
+      "uv": 3,
       "auf": "07:48",
       "unter": "18:32"
      },
@@ -1301,102 +1303,72 @@
       "datum": "2026-10-17",
       "code": 61,
       "max": 15,
-      "min": 6,
-      "regen": 55,
-      "menge": 2.9,
+      "min": 5,
+      "regen": 53,
+      "menge": 0.2,
       "wind": 13,
-      "windAus": 2,
-      "uv": 2.5,
+      "windAus": 354,
+      "uv": 1.9,
       "auf": "07:50",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
-      "code": 61,
-      "max": 10,
-      "min": 5,
+      "code": 63,
+      "max": 9,
+      "min": 4,
       "regen": 23,
-      "menge": 0.3,
+      "menge": 15.2,
       "wind": 12,
-      "windAus": 20,
-      "uv": 1.6,
+      "windAus": 13,
+      "uv": 0.3,
       "auf": "07:51",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
-      "code": 3,
-      "max": 16,
-      "min": 9,
-      "regen": 25,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 31,
+      "code": 61,
+      "max": 13,
+      "min": 7,
+      "regen": 15,
+      "menge": 2.1,
+      "wind": 6,
+      "windAus": 30,
       "uv": 3,
       "auf": "07:53",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
-      "code": 45,
+      "code": 3,
       "max": 16,
-      "min": 6,
-      "regen": 13,
+      "min": 5,
+      "regen": 5,
       "menge": 0,
       "wind": 8,
-      "windAus": 38,
-      "uv": 2.8,
+      "windAus": 33,
+      "uv": 2.9,
       "auf": "07:55",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 14,
-      "min": 6,
-      "regen": 20,
-      "menge": 1.8,
-      "wind": 4,
-      "windAus": 199,
-      "uv": 1.6,
+      "max": 13,
+      "min": 7,
+      "regen": 21,
+      "menge": 5.4,
+      "wind": 11,
+      "windAus": 216,
+      "uv": 1.5,
       "auf": "07:56",
       "unter": "18:22"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 18,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 18,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 15,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
-      "grad": 14,
+      "grad": 15,
       "code": 3,
       "regen": 0
      },
@@ -1420,49 +1392,49 @@
      },
      {
       "zeit": "00:00",
-      "grad": 10,
-      "code": 45,
+      "grad": 11,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 9,
+      "grad": 10,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 8,
-      "code": 45,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 8,
+      "grad": 9,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 7,
+      "grad": 8,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 7,
+      "grad": 8,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 7,
+      "grad": 8,
       "code": 45,
       "regen": 0
      },
@@ -1486,26 +1458,56 @@
      },
      {
       "zeit": "11:00",
-      "grad": 10,
-      "code": 45,
+      "grad": 11,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
       "grad": 14,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "14:00",
+      "zeit": "13:00",
       "grad": 16,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 18,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 20,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 20,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 21,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 20,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 18,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1516,15 +1518,15 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 19,
+     "grad": 16,
      "code": 3,
-     "gefuehlt": 18,
-     "wind": 5,
-     "windAus": 20,
-     "feuchte": 52,
-     "druck": 996,
+     "gefuehlt": 15,
+     "wind": 4,
+     "windAus": 190,
+     "feuchte": 65,
+     "druck": 995,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
@@ -1534,20 +1536,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 6,
-     "windAus": 181,
+     "windAus": 183,
      "uv": 3.2,
      "auf": "07:43",
      "unter": "18:34"
     },
     "morgen": {
      "datum": "2026-10-16",
-     "code": 45,
+     "code": 3,
      "max": 21,
-     "min": 8,
+     "min": 9,
      "regen": 0,
      "menge": 0,
-     "wind": 6,
-     "windAus": 187,
+     "wind": 7,
+     "windAus": 184,
      "uv": 3.1,
      "auf": "07:44",
      "unter": "18:32"
@@ -1561,34 +1563,34 @@
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 181,
+      "windAus": 183,
       "uv": 3.2,
       "auf": "07:43",
       "unter": "18:34"
      },
      {
       "datum": "2026-10-16",
-      "code": 45,
+      "code": 3,
       "max": 21,
-      "min": 8,
+      "min": 9,
       "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 187,
+      "wind": 7,
+      "windAus": 184,
       "uv": 3.1,
       "auf": "07:44",
       "unter": "18:32"
      },
      {
       "datum": "2026-10-17",
-      "code": 63,
-      "max": 15,
+      "code": 61,
+      "max": 16,
       "min": 10,
-      "regen": 85,
-      "menge": 16.7,
+      "regen": 78,
+      "menge": 5.9,
       "wind": 12,
-      "windAus": 324,
-      "uv": 0.6,
+      "windAus": 321,
+      "uv": 0.3,
       "auf": "07:46",
       "unter": "18:30"
      },
@@ -1597,85 +1599,55 @@
       "code": 61,
       "max": 10,
       "min": 8,
-      "regen": 73,
-      "menge": 2,
-      "wind": 8,
-      "windAus": 346,
-      "uv": 1.4,
+      "regen": 64,
+      "menge": 7.8,
+      "wind": 7,
+      "windAus": 350,
+      "uv": 0.2,
       "auf": "07:47",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
-      "code": 45,
-      "max": 12,
-      "min": 9,
-      "regen": 23,
-      "menge": 0,
-      "wind": 4,
-      "windAus": 316,
-      "uv": 3.1,
+      "code": 53,
+      "max": 10,
+      "min": 8,
+      "regen": 18,
+      "menge": 0.3,
+      "wind": 3,
+      "windAus": 323,
+      "uv": 2.9,
       "auf": "07:49",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
       "code": 45,
-      "max": 16,
-      "min": 6,
-      "regen": 15,
+      "max": 15,
+      "min": 8,
+      "regen": 4,
       "menge": 0,
       "wind": 5,
-      "windAus": 314,
-      "uv": 2.8,
+      "windAus": 306,
+      "uv": 2.3,
       "auf": "07:51",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 14,
-      "min": 9,
-      "regen": 20,
-      "menge": 0.6,
-      "wind": 4,
-      "windAus": 185,
-      "uv": 1.7,
+      "max": 13,
+      "min": 8,
+      "regen": 34,
+      "menge": 6.6,
+      "wind": 7,
+      "windAus": 248,
+      "uv": 0.5,
       "auf": "07:52",
       "unter": "18:22"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 19,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 19,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 19,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 19,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 17,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 16,
@@ -1691,7 +1663,7 @@
      {
       "zeit": "22:00",
       "grad": 14,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1715,7 +1687,7 @@
      {
       "zeit": "02:00",
       "grad": 11,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1727,13 +1699,13 @@
      {
       "zeit": "04:00",
       "grad": 10,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 9,
-      "code": 1,
+      "grad": 10,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1750,8 +1722,8 @@
      },
      {
       "zeit": "08:00",
-      "grad": 8,
-      "code": 45,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1763,30 +1735,60 @@
      {
       "zeit": "10:00",
       "grad": 12,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 15,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 17,
+      "grad": 18,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 19,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 20,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 21,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 21,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 21,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 21,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 19,
       "code": 3,
       "regen": 0
      }
@@ -1798,22 +1800,22 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 18,
-     "code": 2,
-     "gefuehlt": 18,
+     "grad": 14,
+     "code": 3,
+     "gefuehlt": 14,
      "wind": 4,
-     "windAus": 308,
-     "feuchte": 63,
+     "windAus": 121,
+     "feuchte": 86,
      "druck": 965,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-15",
      "code": 45,
-     "max": 18,
+     "max": 19,
      "min": 7,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
      "wind": 7,
      "windAus": 238,
@@ -1824,12 +1826,12 @@
     "morgen": {
      "datum": "2026-10-16",
      "code": 45,
-     "max": 19,
+     "max": 20,
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 6,
-     "windAus": 101,
+     "wind": 7,
+     "windAus": 97,
      "uv": 3.4,
      "auf": "07:34",
      "unter": "18:23"
@@ -1838,9 +1840,9 @@
      {
       "datum": "2026-10-15",
       "code": 45,
-      "max": 18,
+      "max": 19,
       "min": 7,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 7,
       "windAus": 238,
@@ -1851,25 +1853,25 @@
      {
       "datum": "2026-10-16",
       "code": 45,
-      "max": 19,
+      "max": 20,
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 101,
+      "wind": 7,
+      "windAus": 97,
       "uv": 3.4,
       "auf": "07:34",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-17",
-      "code": 61,
+      "code": 80,
       "max": 15,
-      "min": 8,
-      "regen": 38,
-      "menge": 2.6,
-      "wind": 11,
-      "windAus": 339,
+      "min": 9,
+      "regen": 43,
+      "menge": 5.2,
+      "wind": 12,
+      "windAus": 315,
       "uv": 3.1,
       "auf": "07:35",
       "unter": "18:21"
@@ -1878,24 +1880,24 @@
       "datum": "2026-10-18",
       "code": 61,
       "max": 15,
-      "min": 7,
-      "regen": 39,
-      "menge": 0.8,
-      "wind": 13,
-      "windAus": 53,
-      "uv": 2.5,
+      "min": 8,
+      "regen": 43,
+      "menge": 1.5,
+      "wind": 7,
+      "windAus": 326,
+      "uv": 2.7,
       "auf": "07:37",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-19",
-      "code": 3,
-      "max": 14,
+      "code": 45,
+      "max": 13,
       "min": 8,
       "regen": 3,
       "menge": 0,
-      "wind": 9,
-      "windAus": 59,
+      "wind": 7,
+      "windAus": 33,
       "uv": 3.2,
       "auf": "07:38",
       "unter": "18:17"
@@ -1904,60 +1906,30 @@
       "datum": "2026-10-20",
       "code": 45,
       "max": 17,
-      "min": 6,
-      "regen": 8,
+      "min": 4,
+      "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 79,
-      "uv": 2.3,
+      "wind": 11,
+      "windAus": 80,
+      "uv": 3.1,
       "auf": "07:40",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 13,
-      "min": 5,
-      "regen": 24,
-      "menge": 2.8,
-      "wind": 4,
-      "windAus": 277,
-      "uv": 1.6,
+      "max": 11,
+      "min": 8,
+      "regen": 25,
+      "menge": 5.1,
+      "wind": 9,
+      "windAus": 264,
+      "uv": 1.1,
       "auf": "07:41",
       "unter": "18:13"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 18,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 18,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 18,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 17,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 14,
@@ -1978,20 +1950,20 @@
      },
      {
       "zeit": "23:00",
-      "grad": 11,
+      "grad": 12,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 11,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 10,
-      "code": 45,
+      "grad": 11,
+      "code": 1,
       "regen": 0
      },
      {
@@ -2044,41 +2016,71 @@
      },
      {
       "zeit": "10:00",
-      "grad": 7,
-      "code": 45,
+      "grad": 9,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 10,
+      "grad": 12,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 14,
+      "grad": 15,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 16,
-      "code": 2,
+      "grad": 17,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 18,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 19,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 20,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 19,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 17,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 16,
+      "code": 3,
       "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 16 und 20 Grad.",
-   "Die Vorhersage für morgen, Freitag: im Norden und Osten bewölkt, im Süden und Westen neblig.",
-   "Die Temperaturen erreichen dann 18 bis 23 Grad.",
+   "Heute liegen die Höchstwerte zwischen 16 und 21 Grad.",
+   "Die Vorhersage für morgen, Freitag, im ganzen Land: bewölkt.",
+   "Die Temperaturen erreichen dann 19 bis 23 Grad.",
    "Am wärmsten wird es in Köln mit 23 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2098,7 +2100,7 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 20,
-       "regen": 0.5
+       "regen": 1.6
       },
       {
        "name": "ECMWF",
@@ -2143,7 +2145,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 21,
+       "grad": 20,
        "regen": 0
       },
       {
@@ -2160,14 +2162,14 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 22,
-       "regen": 0.5
+       "grad": 23,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 23,
-       "regen": 0.1
+       "regen": 1
       },
       {
        "name": "ECMWF",
@@ -2183,7 +2185,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 18,
+       "grad": 21,
        "regen": 0
       },
       {
@@ -2229,7 +2231,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 19,
+       "grad": 20,
        "regen": 0
       },
       {
@@ -2251,16 +2253,16 @@
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
+     "GFS",
      "ECMWF"
     ],
     "trocken": [
-     "ICON",
-     "GFS"
+     "ICON"
     ]
    },
    "saetze": [
     "Für München gehen die Modelle am weitesten auseinander: zwischen 17 und 20 Grad.",
-    "Und in Hamburg erwartet ECMWF Regen, ICON und GFS dagegen nicht."
+    "Und in Hamburg erwartet GFS und ECMWF Regen, ICON dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2302,7 +2304,7 @@
    {
     "k": "Nachrichten-Heft. Einfach erklärt vom Donnerstag, 15. Oktober. Es liest die Comp",
     "d": "7d2f6ec39e.mp3",
-    "l": 9.0,
+    "l": 9,
     "s": [
      0.25,
      5.89
@@ -2453,77 +2455,474 @@
  },
  "nachrichten": [
   {
-   "id": "einziger-neues-thema-2",
-   "rubrik": "Welt",
-   "zeit": "2026-10-15T13:01:53.000Z",
-   "aktualisiert": "aktualisiert um 15:21 Uhr",
-   "titel": "Gesundheitszustand von Papst Leo XIV. nach Lungenkrebs-Operation",
-   "vorspann": "Papst Leo XIV. hat sich nach Angaben des Vatikans einem operativen Eingriff unterzogen. Dabei wurde ein bösartiger Lungenknoten in einem frühen Stadium entfernt.",
+   "id": "iran-spionage-hamburg-urteil",
+   "rubrik": "Deutschland",
+   "zeit": "2026-10-15T18:00:00.000Z",
+   "titel": "Gericht in Hamburg verurteilt mutmaßliche Spione zu Haftstrafen",
+   "vorspann": "Das Hanseatische Oberlandesgericht hat zwei Männer wegen der Vorbereitung von Anschlägen verurteilt. Die Taten standen nach Angaben des Gerichts im Auftrag des Iran.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Papst Leo XIV. wurde am Dienstag im Gemelli-Krankenhaus in Rom operiert.",
-    "Dabei wurde ein bösartiges Lungenadenokarzinom im rechten Lungenflügel erfolgreich entfernt.",
-    "Die behandelnden Ärzte und der Vatikan bestätigen einen planmäßigen Verlauf der Erholung."
+    "Das Oberlandesgericht Hamburg hat zwei Männer zu Haftstrafen von achteinhalb und viereinhalb Jahren verurteilt.",
+    "Sie haben im Auftrag des Iran antisemitische Anschläge auf jüdische Einrichtungen und Personen vorbereitet.",
+    "Zu den anvisierten Zielen zählten Josef Schuster und Volker Beck sowie ein koscherer Supermarkt in Berlin.",
+    "Die Festnahmen der Verdächtigen erfolgten im Jahr 2025 in Dänemark nach Hinweisen von Geheimdiensten."
    ],
    "einig": [
     [
-     "Papst Leo XIV. wurde im Gemelli-Krankenhaus in Rom operiert.",
+     "Das Hanseatische Oberlandesgericht hat zwei Männer wegen der Vorbereitung von Anschlägen zu Haftstrafen verurteilt.",
      [
       "Tagesschau/ARD",
-      "Zeit"
+      "ZDFheute"
      ]
     ],
     [
-     "Die operierte Lunge erholt sich nach Angaben der Ärzte planmäßig.",
+     "Zu den Zielen der geplanten Anschläge zählten Volker Beck und Josef Schuster.",
      [
       "Tagesschau/ARD",
-      "Zeit"
+      "ZDFheute"
      ]
     ]
    ],
    "unklar": [
-    "Ob nach der Operation eine zusätzliche Chemo- oder Strahlentherapie erforderlich ist, ist laut Tagesschau noch unklar und hängt von ausstehenden Untersuchungsergebnissen ab."
+    "Ob die Verurteilten Rechtsmittel gegen das Urteil einlegen werden, ist noch nicht bekannt."
    ],
    "positionen": [
     [
-     "Vatikansprecher Matteo Bruni",
-     "Der Papst ist in guter Stimmung und erholt sich nach einer erfolgreichen Operation.",
-     "Tagesschau/ARD"
+     "Hanseatisches Oberlandesgericht (Vorsitzende Richterin)",
+     "Der Iran versuchte, Terror nach Deutschland zu exportieren und jüdisches Leben zu attackieren.",
+     "Tagesschau/ARD,ZDFheute"
     ],
     [
-     "Behandelnder Arzt Luigi Carbone und Chirurg Stefano Margaritora",
-     "Der postoperative Verlauf ist normal und die Werte liegen im erwarteten Bereich.",
-     "Tagesschau/ARD"
+     "Volker Beck (Präsident der Deutsch-Israelischen Gesellschaft und Nebenkläger)",
+     "Ein erster Hinweis kam vom israelischen Geheimdienst Mossad, und er fordert die Ausweisung des iranischen Botschafters.",
+     "Tagesschau/ARD,ZDFheute"
     ],
     [
-     "US-Onkologe David Carbone",
-     "Die sofortige Operation ohne vorherige Behandlung deutet auf einen frühen Tumor mit guter Prognose hin.",
-     "Tagesschau/ARD"
+     "Verteidigung der Angeklagten",
+     "Die Verteidiger hatten vor dem Gericht Freisprüche gefordert.",
+     "ZDFheute"
     ]
    ],
-   "fehlend": "Stimmen von Politikern oder anderen kirchlichen Würdenträgern außer Kardinal Kikuchi werden in den Berichten nicht genannt.",
+   "fehlend": "Stellungnahmen der iranischen Regierung oder offizieller iranischer Stellen zu den Vorwürfen.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "14.10.26, 16:45",
-     "fokus": "Detaillierte medizinische Hintergründe und Expertenmeinungen",
-     "text": "Der Bericht beleuchtet ausführlich die Krebsdiagnose, Erklärungen von Fachärzten und die Art des operierten Tumors. Zudem werden die medizinischen Aussagen des Vatikans und der behandelnden Ärzte detailliert wiedergegeben.",
-     "url": "https://www.tagesschau.de/ausland/europa/papst-leo-xiv-krebserkrankung-100.html",
+     "datum": "15.10.26, 20:00",
+     "fokus": "Hintergründe zu Beck und Mossad",
+     "text": "Der Bericht konzentriert sich auf die Aussagen von Volker Beck und seine Reaktionen auf die abgelehnte Nebenklage. Zudem werden Details zu den iranischen Hintermännern genannt.",
+     "url": "https://www.tagesschau.de/inland/regional/hamburg/nach-anschlagsplaenen-spione-des-irans-in-hamburg-verurteilt,terrorprozess-102.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 10,
-      "minuten": 4,
-      "woerter": 858,
-      "satzlaenge": 18,
+      "minuten": 2,
+      "woerter": 408,
+      "satzlaenge": 15,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 16:22",
+     "fokus": "Abläufe der Taten und Namen",
+     "text": "Dieser Beitrag nennt die Vornamen und Initialen der Täter sowie genaue Einzelheiten zur Ausspähung Berlins und zur geplanten Beschaffung der Waffe mit Schalldämpfer.",
+     "url": "https://www.zdfheute.de/politik/deutschland/hamburg-anschlagsplaene-iran-spionage-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 632,
+      "satzlaenge": 17,
+      "langeWoerter": 34
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 19:34",
+     "fokus": "Kurzmeldung zum Urteil",
+     "text": "Der Deutschlandfunk bietet eine sehr knappe Zusammenfassung der Tatsache, dass das Oberlandesgericht Hamburg zwei Männer wegen Anschlagsplänen im Auftrag des Iran verurteilt hat.",
+     "url": "https://www.deutschlandfunk.de/haftstrafen-fuer-mutmassliche-anschlagsplaene-im-auftrag-des-iran-102.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Tagesschau/ARD und ZDFheute liefern sehr detaillierte Beschreibungen des Tathergangs und der Aussagen von Beteiligten, während der Deutschlandfunk nur eine sehr kurze Meldung veröffentlicht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Hanseatisches Oberlandesgericht Hamburg und zwei Angeklagte",
+    "was": "Verurteilung zu Haftstrafen wegen vorbereiteter Anschläge",
+    "wann": "15. Oktober 2026",
+    "wo": "Hamburg, Deutschland",
+    "wie": "Durch ein Urteil des achten Strafsenats nach dreimonatigem Prozess",
+    "warum": "Zur Exportierung von Terror und Angriffen auf jüdisches Leben nach Angaben des Gerichts",
+    "quellenlage": "Gericht, Bundesanwaltschaft, Verfassungsschutz und dänische Behörden"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Urteil des Gerichts",
+     "absaetze": [
+      "Das Hanseatische Oberlandesgericht in Hamburg hat zwei Männer wegen der Vorbereitung von Anschlägen zu mehrjährigen Haftstrafen verurteilt. Laut Tagesschau/ARD erhielt der Hauptangeklagte eine Freiheitsstrafe von achteinhalb Jahren. Ein Komplize muss nach Angaben desselben Berichts viereinhalb Jahre ins Gefängnis. Das ZDFheute nennt die Namen der Verurteilten als Ali S. und Tawab M.",
+      "Der achte Strafsenat sah es als erwiesen an, dass die beiden Männer antisemitische Anschläge in Deutschland vorbereitet hatten. Die Vorsitzende Richterin betonte in ihrer Urteilsbegründung laut Tagesschau/ARD und ZDFheute, dass der Iran versucht habe, Terror nach Deutschland zu exportieren. Jüdisches Leben in Deutschland sollte demnach attackiert werden.",
+      "Das Gericht folgte mit seiner Entscheidung der Anklage der Bundesanwaltschaft. Die Verteidiger der Angeklagten hatten laut ZDFheute zuvor Freisprüche gefordert. Beide Angeklagte hatten während des Verfahrens geschwiegen."
+     ]
+    },
+    {
+     "ueberschrift": "Die Taten und Ziele",
+     "absaetze": [
+      "Laut Tagesschau/ARD und ZDFheute reiste der Hauptangeklagte Ali S., ein in Dänemark lebender Mann mit afghanischen Wurzeln, Anfang 2025 in den Iran. Dort stand er nach Überzeugung des Gerichts im direkten Kontakt mit führenden Mullahs beziehungsweise den iranischen Revolutionsgarden und deren Al-Kuds-Kräften. Er erhielt demnach den Auftrag, Anschläge in Deutschland auszuhecken.",
+      "Zu den Zielen zählten laut den Berichten koschere Läden in Berlin sowie zwei konkrete Personen. Dabei handelte es sich um Volker Beck, den ehemaligen Grünen-Bundestagsabgeordneten und heutigen Präsidenten der Deutsch-Israelischen Gesellschaft, sowie um Josef Schuster, den Präsidenten des Zentralrats der Juden. Nach Erkenntnissen des Bundesnachrichtendienstes war ein koscherer Supermarkt in Berlin eines von elf Zielen, die der Iran in Deutschland im Visier hatte.",
+      "Im Sommer 2025 reiste Ali S. nach Berlin und fotografierte unter anderem den Eingang der Geschäftsstelle der Deutsch-Israelischen Gesellschaft, den Supermarkt und den Sitz des Deutschen Ethikrats, dem Josef Schuster angehört. Beamte des Bundesamtes für Verfassungsschutz beobachteten ihn bei diesen Schritten. Für den Supermarkt versuchte er laut ZDFheute, seine eigene Tochter zu gewinnen, indem er sie fragte, ob sie eine Frau kenne, die eine mit Benzin gefüllte Flasche anzünden würde. Die Tochter lehnte dies ab.",
+      "Für den geplanten Anschlag auf Volker Beck wandte sich Ali S. an den Mitangeklagten Tawab M., den er kannte. Bei Treffen im Mai und Juni 2025 gewann er Tawab M. laut ZDFheute dafür, einen Schützen zu suchen und eine Pistole mit Schalldämpfer zu beschaffen. Tawab M. fragte daraufhin seinen Neffen nach einer Waffe mit Schalldämpfer für einen einmaligen Gebrauch. Das Gericht wertete die Beschaffung einer Waffe mit Schalldämpfer als Erfüllung des Mordmerkmals der Heimtücke."
+     ]
+    },
+    {
+     "ueberschrift": "Ermittlungen und Festnahmen",
+     "absaetze": [
+      "Die Festnahmen der Verdächtigen erfolgten im Jahr 2025 nach Hinweisen von Geheimdiensten. Ali S. wurde am 26. Juni 2025 in seiner Heimatstadt Aarhus festgenommen, Tawab M. folgte im November desselben Jahres. Die Beweise stützten sich zu einem Teil auf eine Wohnraumüberwachung dänischer Behörden, die Treffen der Männer mitschnitten.",
+      "Zusätzlich werteten die Ermittler Handys aus, auf denen Kontakte zu einem Offizier des iranischen Geheimdienstes festgestellt wurden. Obwohl Chats gelöscht waren, belegte die Zahl der gelöschten Nachrichten laut ZDFheute einen regelmäßigen Austausch. Laut Tagesschau/ARD stammten viele Erkenntnisse zudem vom Deutschen Verfassungsschutz."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Das Hanseatische Oberlandesgericht ist ein deutsches Gericht der obergerichtlichen Rechtsprechung, das in bestimmten Fällen von Staatsschutzdelikten als erstinstanzliches Gericht zuständig ist. Die Bundesanwaltschaft vertritt als Anklagebehörde den Bund bei Delikten gegen die innere Sicherheit."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Volker Beck verfolgte den Prozess als Zuschauer unter Personenschutz. Er erklärte in einer Prozesspause laut Tagesschau/ARD, dass ein erster Hinweis vom israelischen Geheimdienst Mossad gekommen sei. Beck wollte dem Verfahren als Nebenkläger beitreten, was das Oberlandesgericht jedoch mit der Begründung ablehnte, dass es noch keinen konkreten Anschlagsversuch gegeben habe. Gegen diesen Beschluss legte Beck nach eigenen Angaben Verfassungsbeschwerde ein.",
+      "ZDFheute ergänzt, dass Volker Beck zudem von der Bundesregierung die Ausweisung des iranischen Botschafters fordert. Die Vorsitzende Richterin betonte bei der Urteilsbegründung laut ZDFheute, dass das Vorgehen des Irans nicht hinnehmbar sei."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Das Urteil des Hanseatischen Oberlandesgerichts ist nach Angaben von ZDFheute noch nicht rechtskräftig. Volker Beck hat wegen der Ablehnung seiner Nebenklage Verfassungsbeschwerde eingelegt."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Anfang 2025",
+     "Der Hauptangeklagte reiste in den Iran und erhielt dort laut Gericht Aufträge für Anschläge."
+    ],
+    [
+     "Frühjahr und Sommer 2025",
+     "Der Hauptangeklagte spähte Ziele in Berlin aus und beauftragte einen Komplizen mit der Beschaffung einer Waffe."
+    ],
+    [
+     "26. Juni 2025",
+     "Der Hauptangeklagte wurde in Aarhus in Dänemark festgenommen."
+    ],
+    [
+     "November 2025",
+     "Der Mitangeklagte wurde festgenommen."
+    ],
+    [
+     "15. Oktober 2026",
+     "Das Oberlandesgericht Hamburg verurteilte die beiden Männer zu mehrjährigen Haftstrafen."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Volker Beck politician",
+     "bildunterschrift": "Volker Beck, der Präsident der Deutsch-Israelischen Gesellschaft, war eines der geplanten Ziele der Anschläge."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Hanseatisches Oberlandesgericht",
+     "bildunterschrift": "Das Hanseatische Oberlandesgericht in Hamburg sprach das Urteil gegen die mutmaßlichen Spione."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Tehran cityscape",
+     "bildunterschrift": "In Teheran soll der Hauptangeklagte die Aufträge für die Anschläge in Deutschland erhalten haben."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Gavel court law",
+     "bildunterschrift": "Ein Richterhammer symbolisiert das gefällte Urteil des Gerichtes."
+    }
+   ],
+   "ort": {
+    "name": "Hamburg, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Entfernung von wertenden Begriffen wie \"krachend\" oder \"dramatisch\" aus Texten und Metadaten.",
+    "Anpassung der Aussagen zur Nebenklage von Volker Beck an die genauen Fakten der Berichte."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Antisemitismus",
+      "Feindlichkeit oder Hass gegenüber jüdischen Menschen."
+     ],
+     [
+      "Nebenkläger",
+      "Eine Person, die sich in einem Strafprozess der Anklage anschließt, um eigene Interessen zu vertreten."
+     ],
+     [
+      "Oberlandesgericht",
+      "Ein deutsches Gericht, das in bestimmten schweren Fällen von Staatsschutzdelikten als erstinstanzliches Gericht entscheidet."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielen Geheimdienste bei der Aufdeckung von Anschlagsplänen?",
+     "Warum lehnte das Gericht Volker Becks Antrag auf Nebenklage ab und wie wird diese Entscheidung begründet?"
+    ],
+    "quiz": [
+     {
+      "frage": "Zu welchen Haftstrafen wurden die beiden Männer verurteilt?",
+      "optionen": [
+       "Acht und vier Jahre",
+       "Achteinhalb und viereinhalb Jahre",
+       "Zehn und fünf Jahre"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Gericht verurteilte den Haupttäter zu achteinhalb Jahren und den Komplizen zu viereinhalb Jahren Haft."
+     },
+     {
+      "frage": "Wer zählte laut den Berichten zu den Zielen der geplanten Anschläge?",
+      "optionen": [
+       "Volker Beck und Josef Schuster",
+       "Mehrere Minister der Bundesregierung",
+       "Ausländische Botschafter in Berlin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Zu den Zielen zählten laut den Berichten Volker Beck und Josef Schuster."
+     },
+     {
+      "frage": "In welchem Land wurden die Verdächtigen im Jahr 2025 festgenommen?",
+      "optionen": [
+       "In Deutschland",
+       "In Dänemark",
+       "Im Iran"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Verdächtigen wurden im Jahr 2025 in Dänemark festgenommen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Das Oberlandesgericht in Hamburg hat zwei Männer zu Haftstrafen verurteilt. Sie haben im Auftrag des Iran Anschläge in Deutschland vorbereitet.",
+    "absaetze": [
+     "Der Haupttäter muss achteinhalb Jahre ins Gefängnis. Sein Komplize wurde zu viereinhalb Jahren Haft verurteilt.",
+     "Die Männer planten laut dem Gericht antisemitische Anschläge. Das bedeutet, dass sie jüdische Menschen und Einrichtungen angreifen wollten.",
+     "Zu den geplanten Zielen zählten Volker Beck und Josef Schuster. Auch ein koscherer Supermarkt in Berlin sollte angegriffen werden. Koscher bedeutet, dass Lebensmittel nach jüdischen Regeln zubereitet sind.",
+     "Die Polizei nahm die beiden verdächtigen Männer im Jahr 2025 in Dänemark fest. Geheimdienste hatten zuvor Hinweise gegeben.",
+     "Das Urteil ist noch nicht rechtskräftig. Das bedeutet, dass die Verurteilten noch dagegen vorgehen können."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Das Oberlandesgericht Hamburg verurteilte zwei Männer zu mehrjährigen Haftstrafen.",
+     "Sie haben im Auftrag des Iran antisemitische Anschläge vorbereitet.",
+     "Zu den Zielen zählten Volker Beck und Josef Schuster.",
+     "Das Urteil ist nach Angaben der Medien noch nicht rechtskräftig."
+    ],
+    "lang": [
+     "Das Hanseatische Oberlandesgericht hat am Donnerstag zwei Männer zu mehrjährigen Haftstrafen verurteilt.",
+     "Der Hauptangeklagte muss achteinhalb Jahre ins Gefängnis, sein Komplize viereinhalb Jahre.",
+     "Die Männer hatten nach Überzeugung des Gerichts im Auftrag des Iran antisemitische Anschläge in Deutschland vorbereitet.",
+     "Zu den Zielen zählten der Politiker Volker Beck und der Zentralratspräsident Josef Schuster sowie ein Supermarkt in Berlin.",
+     "Die Festnahmen erfolgten im Jahr zweitausendfünfundzwanzig in Dänemark nach Hinweisen von Geheimdiensten.",
+     "Das Gericht folgte damit in vollem Umfang der Anklage der Bundesanwaltschaft.",
+     "Die Verteidiger der Angeklagten hatten nach Angaben des Sender ZDFheute zuvor Freisprüche gefordert.",
+     "Das Gericht erklärte in der Urteilsbegründung, dass der Iran versucht habe, Terror nach Deutschland zu exportieren.",
+     "Das Urteil ist nach Angaben der Berichte noch nicht rechtskräftig und die Beteiligten können dagegen vorgehen."
+    ],
+    "einfach": [
+     "Ein Gericht in Hamburg verurteilte zwei Männer zu Haftstrafen.",
+     "Sie planten Anschläge im Auftrag des Iran.",
+     "Die Männer wollten jüdische Menschen und Politiker angreifen.",
+     "Die Polizei nahm die Verdächtigen im Jahr zweitausendfünfundzwanzig in Dänemark fest.",
+     "Das Urteil ist noch nicht endgültig."
+    ]
+   },
+   "kurz": [
+    "Das Hanseatische Oberlandesgericht hat zwei Männer zu Haftstrafen von achteinhalb und viereinhalb Jahren verurteilt.",
+    "Sie haben laut Gericht im Auftrag des Iran antisemitische Anschläge in Deutschland vorbereitet.",
+    "Zu den Zielen gehörten Volker Beck und Josef Schuster sowie ein koscherer Supermarkt in Berlin.",
+    "Die Festnahmen erfolgten im Jahr 2025 in Dänemark nach Hinweisen von Geheimdiensten."
+   ],
+   "fakten": [
+    [
+     "Haftstrafe Hauptangeklagter",
+     "achteinhalb Jahre"
+    ],
+    [
+     "Haftstrafe Komplize",
+     "viereinhalb Jahre"
+    ],
+    [
+     "Urteil vom",
+     "15. Oktober 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "iran-spionage-prozess-hamburg",
+    "titel": "Spionage und Anschlagspläne in Deutschland"
+   },
+   "bildInfo": {
+    "titel": "Hanseatisches Oberlandesgericht, Hamburg, Deutschland, IMG 7514 edit.jpg",
+    "beschreibung": "Hanseatisches Oberlandesgericht, Südostseite.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg/1280px-Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Hanseatisches_Oberlandesgericht,_Hamburg,_Deutschland,_IMG_7514_edit.jpg",
+    "urheber": "Christoph Braun",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artikel": "Hanseatisches Oberlandesgericht",
+    "sprache": "de",
+    "art": "institution",
+    "suchbegriff": "Hanseatisches Oberlandesgericht",
+    "bildunterschrift": "Das Hanseatische Oberlandesgericht in Hamburg hat zwei Männer zu Haftstrafen verurteilt.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Hanseatisches Oberlandesgericht, Hamburg, Deutschland, IMG 7514 edit.jpg",
+     "beschreibung": "Hanseatisches Oberlandesgericht, Südostseite.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg/1280px-Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hanseatisches_Oberlandesgericht,_Hamburg,_Deutschland,_IMG_7514_edit.jpg",
+     "urheber": "Christoph Braun",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "artikel": "Hanseatisches Oberlandesgericht",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Hanseatisches Oberlandesgericht",
+     "bildunterschrift": "Das Hanseatische Oberlandesgericht in Hamburg hat zwei Männer zu Haftstrafen verurteilt.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Hamburg, Deutschland",
+    "lat": 53.55,
+    "lon": 10.001
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "eu-haushalt-streit-merz",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-15T17:34:19.000Z",
+   "titel": "Beratungen über den künftigen EU-Haushalt und finanzielle Prioritäten",
+   "vorspann": "Die Staats- und Regierungschefs der Europäischen Union beraten auf einem Gipfel in Brüssel über den mehrjährigen Finanzrahmen. Bundeskanzler Friedrich Merz fordert Kürzungen des Budgets und stößt damit auf Kritik.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Die Staats- und Regierungschefs der EU beraten in Brüssel über den neuen mehrjährigen Finanzrahmen für die Jahre 2028 bis 2034.",
+    "Bundeskanzler Friedrich Merz fordert Kürzungen und stößt damit bei anderen Mitgliedstaaten und Parlamentariern auf Kritik.",
+    "Während die EU-Kommission und das Parlament höhere Summen vorschlagen, sieht ein irischer Kompromissvorschlag ebenfalls Reduktionen vor.",
+    "Über den genauen Umfang und die Verteilung der Gelder für Wettbewerbsfähigkeit, Verteidigung und Kohäsion wird verhandelt."
+   ],
+   "einig": [
+    [
+     "Der EU-Haushalt für die Jahre 2028 bis 2034 ist Hauptverhandlungsgegenstand des Gipfels in Brüssel.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "Deutschland ist der größte Nettozahler der Europäischen Union.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "Die irische Ratspräsidentschaft hat einen Kompromissvorschlag für den Haushalt vorgelegt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob bis Ende des Jahres ein Kompromiss zum EU-Haushalt gefunden werden kann, ist laut ZDFheute unklar.",
+    "Ob das Prinzip der Einstimmigkeit abgeschafft wird, ist laut Tagesschau/ARD umstritten."
+   ],
+   "positionen": [
+    [
+     "Bundeskanzler Friedrich Merz (CDU)",
+     "Fordert Begrenzungen und Kürzungen des EU-Haushalts in allen Bereichen sowie eine Konzentration auf Wettbewerbsfähigkeit und Verteidigung.",
+     "Tagesschau/ARD, ZDFheute"
+    ],
+    [
+     "Matthias Ecke (SPD-Europaabgeordneter)",
+     "Kritisiert Merz dafür, eine radikale Position zu spielen und keinen Kompromiss in der Mitte zu ermöglichen.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Manfred Weber",
+     "Fordert, die EU-Gelder nicht zu kürzen, um ein souveränes Europa zu ermöglichen.",
+     "ZDFheute"
+    ],
+    [
+     "Franziska Brantner (Co-Vorsitzende der Grünen)",
+     "Wirft Bundeskanzler Merz eine Verweigerungshaltung vor und fordert Investitionen in innovative Technologien und Sicherheit.",
+     "Deutschlandfunk"
+    ]
+   ],
+   "fehlend": "Detaillierte Stellungnahmen aller anderen EU-Mitgliedstaaten und der Kommission im Wortlaut.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 05:15",
+     "fokus": "Verhandlungen und deutsche Kritik",
+     "text": "Der Bericht beleuchtet die Position von Bundeskanzler Merz und die Reaktionen von Europaabgeordneten sowie regionalpolitische Aspekte in Deutschland.",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 624,
+      "satzlaenge": 16,
       "langeWoerter": 35
      },
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
@@ -2531,80 +2930,449 @@
      "publikumWert": 3.73
     },
     {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "15.10.26, 15:01",
-     "fokus": "Aktualisierter Genesungsstand und Krankenhausaufenthalt",
-     "text": "Die Wochenzeitung liefert ein kurzes Update über den weiteren Verbleib des Kirchenoberhaupts im Krankenhaus und die planmäßige Erholung der Lunge.",
-     "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-10/papst-leo-xiv-lungenkrebs-operation-lunge",
+     "datum": "15.10.26, 16:24",
+     "fokus": "Finanzzahlen und Nettozahler",
+     "text": "Der Artikel schlüsselt die Beträge der EU-Kommission und des irischen Vorschlags auf und nennt die Gruppen der Nettozahler und Kohäsionsländer.",
+     "url": "https://www.zdfheute.de/politik/ausland/eu-haushalt-streit-faq-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 4,
+      "woerter": 713,
+      "satzlaenge": 14,
+      "langeWoerter": 39
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 19:34",
+     "fokus": "Reaktionen der Grünen",
+     "text": "Die Berichterstattung konzentriert sich auf die Kritik der Grünen-Politikerin Brantner an der Haltung von Bundeskanzler Merz.",
+     "url": "https://www.deutschlandfunk.de/brantner-wirft-merz-verweigerungshaltung-vor-auch-weber-pocht-auf-hoehere-ausgaben-fuer-die-eu-102.html",
      "video": false,
      "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Ausführlichkeit",
-     "Die Tagesschau liefert einen sehr umfangreichen medizinischen Überblick mit Expertenzitaten, während die Zeit eine kompakte Aktualisierung zum aktuellen Erholungsstand und Klinikaufenthalt bietet."
+     "Zahlenangaben zum Kommissionsvorschlag",
+     "Die Tagesschau nennt den Vorschlag der EU-Kommission mit rund 1,8 Billionen Euro, während ZDFheute die Summe auf rund 1,985 Billionen Euro beziffert."
     ]
    ],
    "wfragen": {
-    "wer": "Papst Leo XIV. und behandelnde Ärzte",
-    "was": "Operative Entfernung eines bösartigen Lungenknotens",
-    "wann": "13. Oktober 2026",
-    "wo": "Gemelli-Krankenhaus in Rom, Italien",
-    "wie": "Durch vorsorgliche Entlastung des rechten Lungenflügels per chirurgischem Eingriff",
-    "warum": "Nach Entdeckung eines Knotens in der Lunge bei einer Kontrolluntersuchung, laut Vatikan",
-    "quellenlage": "Meldungen des Vatikans, behandelnde Mediziner und Fachärzte"
+    "wer": "Staats- und Regierungschefs der EU-Mitgliedstaaten",
+    "was": "Beratungen über den EU-Haushalt von 2028 bis 2034",
+    "wann": "2026-10-15",
+    "wo": "Brüssel, Belgien",
+    "wie": "In zweitägigen Beratungen über den Finanzrahmen und mögliche Kürzungen",
+    "warum": "Wegen unterschiedlicher Auffassungen über Ausgaben und finanzielle Belastungen",
+    "quellenlage": "Öffentlich-rechtliche Medienberichte von Tagesschau/ARD, ZDFheute und Deutschlandfunk"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Das Oberhaupt der Katholischen Kirche, Papst Leo XIV., hat sich am Dienstag einer Operation im Gemelli-Krankenhaus in Rom unterzogen. Bei dem Eingriff wurde dem einundsiebzigjährigen Papst vorsorglich der untere Lappen des rechten Lungenflügels entfernt. Der Vatikan teilte am späten Abend des gleichen Tages mit, dass der entfernte Lungenknoten bösartig war. Es handelt sich um ein sogenanntes Adenokarzinom, das primär in der Lunge entstanden ist. Bis zu dieser Entdeckung waren nach Angaben des Vatikans keine gesundheitlichen Probleme des Papstes bekannt.",
-      "Die Operation dauerte laut Mitteilung des Vatikans rund neunzig Minuten und verlief erfolgreich sowie ohne Komplikationen. Die Genesung des Kirchenoberhaupts verläuft nach Angaben seiner Ärzte planmäßig. Laut der Wochenzeitung Zeit soll das Kirchenoberhaupt noch bis nächste Woche im Krankenhaus bleiben. Die gesundheitliche Entwicklung des Papstes wird von den behandelnden Medizinern engmaschig überwacht. Laut dem behandelnden Arzt Luigi Carbone und dem Leiter des Operationsteams, Stefano Margaritora, zeigten eine Blutuntersuchung und eine Röntgenaufnahme einen normalen postoperativen Verlauf. Die Werte lägen demnach im erwarteten Bereich. Vatikansprecher Matteo Bruni erklärte, dass der Papst in guter Stimmung sei. Er habe sich bereits Atemübungen unterzogen, sei umhergegangen und habe gegessen."
+      "Auf dem EU-Gipfel in Brüssel beraten die Staats- und Regierungschefs über den mehrjährigen Finanzrahmen für die Jahre 2028 bis 2034. Im Mittelpunkt der Gespräche stehen Finanzvolumen von bis zu zwei Billionen Euro und die Frage der künftigen Ausgabenschwerpunkte. Bundeskanzler Friedrich Merz hat gefordert, den aktuellen Haushaltsvorschlag in allen Bereichen zu begrenzen. Laut Tagesschau/ARD und ZDFheute stößt diese Position bei anderen Verhandlern auf Unverständnis und Widerstand. Die EU-Kommission und das Europäische Parlament hatten zuvor eigene Vorschläge für das Budget vorgelegt. Die irische Ratspräsidentschaft hat einen Kompromissvorschlag unterbreitet, der ebenfalls Kürzungen vorsieht.",
+      "Der EU-Haushalt finanziert nach Angaben von ZDFheute zahlreiche Projekte wie die Gemeinsame Agrarpolitik, die Verteidigungsbeschaffung und die Regionalförderung. Deutschland ist als größte Volkswirtschaft der EU der größte Nettozahler und trägt rund ein Fünftel des Budgets. Bundeskanzler Merz begründet die Forderung nach Einsparungen mit begrenzten finanziellen Mitteln. Laut ZDFheute schlägt die EU-Kommission ein Budget von rund 1,985 Billionen Euro vor. Der irische Kompromissvorschlag liegt demnach bei rund 1,826 Billionen Euro.",
+      "Die Beratungen auf dem Gipfel sind auf zwei Tage angesetzt. Neben dem Haushalt stehen laut Tagesschau/ARD auch Fragen zur Bürokratie, zur möglichen EU-Erweiterung, zur Unterstützung der Ukraine und zu den Energiepreisen auf der Tagesordnung. Ratspräsident António Costa führt Gespräche in den Hauptstädten, um einen Konsens zu finden. Die Verhandlungen gelten als schwierig, da die Positionen der Mitgliedstaaten weit auseinanderliegen."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten des Eingriffs",
+     "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Der Entdeckung des Tumors ging laut Tagesschau-Bericht eine Kontrolluntersuchung voraus. Dabei war der Knoten in der Lunge in einem sehr frühen Stadium entdeckt worden. Auf Anraten der Ärzte hatte sich der Papst daraufhin zu dem chirurgischen Eingriff entschlossen. Der Vatikan gab den Befund kurz nach der Operation bekannt. Die vermutete Diagnose eines Karzinoms habe sich bei dem Eingriff bestätigt. Weitere Untersuchungen laufen laut Vatikankreisen bereits.",
-      "Als nächster Schritt muss geklärt werden, ob nach der Operation eine zusätzliche Behandlung wie eine Chemo- oder Strahlentherapie erforderlich ist. Spezialisten zufolge hängt dies von mehreren Faktoren ab. Dazu zählen die Größe des entfernten Tumors, dessen Aggressivität, die genetischen Eigenschaften sowie eine mögliche Ausbreitung im Körper. Ein wichtiges Diagnoseverfahren dafür ist das sogenannte PET-CT. Dieses bildgebende Verfahren für eine Ganzkörper-Suche nach Metastasen stand beim Papst an oder wurde bereits durchgeführt.",
-      "Zentral ist laut den Experten auch die Analyse der molekularen Signatur des Tumors. Die Ergebnisse dieser Untersuchung können in ein bis drei Tagen vorliegen. Bislang gibt es nach den Berichten keine Angaben zur genauen Größe des gefundenen Tumors. Auch über mögliche weitere Knoten im Lungenlappen oder einen Befall von Lymphknoten oder anderen Organen wurden zunächst keine Details genannt."
+      "Die EU-Kommission hat in ihrem Entwurf eine Summe von rund 1,8 Billionen Euro laut Tagesschau/ARD beziehungsweise rund 1,985 Billionen Euro laut ZDFheute für die Periode von 2028 bis 2034 genannt. Das Europäische Parlament beziffert den Bedarf laut Tagesschau/ARD auf gut zwei Billionen Euro. Die irische Ratspräsidentschaft hat laut ZDFheute vorgeschlagen, den Etat gegenüber dem Kommissionsentwurf um rund 159 Milliarden Euro zu kürzen. Bundeskanzler Friedrich Merz hält diesen Vorschlag für nicht ausreichend und fordert weitergehende Reduktionen. Laut ZDFheute sieht Merz die Prioritäten bei Wettbewerbsfähigkeit und Verteidigung, während er keine zusätzlichen Mittel für die Agrar- und Kohäsionspolitik befürwortet.",
+      "Zu den Nettozahlern gehören neben Deutschland laut ZDFheute auch Österreich, Schweden, Finnland, Dänemark und die Niederlande. Diese Staaten zahlen mehr in den EU-Haushalt ein, als sie daraus erhalten. Auf der anderen Seite stehen die sogenannten Freunde der Kohäsion, die von Fördermitteln profitieren. Laut ZDFheute gehören dazu Spanien, Italien, Bulgarien, Polen, Griechenland und die baltischen Staaten. Diese Länder bedauern geplante Kürzungen bei Struktur- und Fördermitteln.",
+      "EU-Gelder spielen laut Tagesschau/ARD eine wichtige Rolle für Infrastruktur und Regionalentwicklung. Pro Kopf profitiert in Deutschland das Bundesland Sachsen-Anhalt am meisten von diesen Mitteln. Die EU-Kommission schlägt vor, die Verantwortung für die Architektur des Haushalts künftig stärker in den Hauptstädten zu bündeln. Bislang ist das Ziel der EU, bis Ende dieses Jahres einen Kompromiss zu finden. Wegen der großen Differenzen zwischen den Mitgliedstaaten gilt dieses Ziel laut ZDFheute als ambitioniert."
      ]
     },
     {
-     "ueberschrift": "Medizinische Hintergründe zu Lungenkrebs",
+     "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Ein Lungenadenokarzinom ist ein primär in der Lunge entstandener Tumor, wie die Ärztin Juanita Mora vom Amerikanischen Lungenverband erklärt. Es handelt sich folglich nicht um Metastasen eines anderen Tumors. Lungenkrebs wird in nicht-kleinzellige und kleinzellige Karzinome unterteilt. Letztere sind deutlich aggressiver und machen laut der Amerikanischen Krebsgesellschaft etwa zehn bis fünfzehn Prozent der Fälle aus. Das Adenokarzinom gehört zur ersten Gruppe und ist laut dem US-Onkologen David Spigel die häufigste Form von Lungenkrebs.",
-      "Rauchen ist der wichtigste Risikofaktor für Lungenkrebs. Laut David Carbone von der Ohio State University betrifft die Mehrzahl der diagnostizierten Fälle jedoch Menschen, die niemals geraucht oder vor vielen Jahren aufgehört haben. Nach Angaben der Weltgesundheitsorganisation ist Lungenkrebs weltweit die häufigste krebsbedingte Todesursache. Eine vollständige Genesung ist bei Lungenkrebs im Allgemeinen möglich, wobei die Prognose von der genauen Krebsart und dem Stadium bei der Diagnose abhängt.",
-      "Die Behandlungsmöglichkeiten haben sich laut Onkologe Carbone in den vergangenen Jahrzehnten deutlich verbessert. Wenn eine Behandlung im frühen Stadium beginnt und der Tumor vollständig entfernt wird, liegt die Fünf-Jahres-Überlebensrate laut US-Expertin Mora bei achtzig bis achtundneunzig Prozent. Ein Patient gilt dann als geheilt, so Spigel. Jürgen Behr von der Ludwig-Maximilians-Universität München erklärt zudem, dass die Lungenfunktion nach einer Entfernung des Lungenlappens nicht zwangsläufig stark beeinträchtigt ist. Der Leistungsverlust liegt bei etwa zehn bis zwanzig Prozent."
+      "Die Europäische Union stellt alle sieben Jahre einen gemeinsamen Haushalt auf, der als Mehrjähriger Finanzrahmen bezeichnet wird. Der laufende Finanzrahmen deckt die Periode von 2021 bis 2027 ab und umfasst rund 1,2 Billionen Euro. Finanziert wird der Etat zu großen Teilen durch Beiträge der Mitgliedstaaten, die sich am Bruttonationaleinkommen orientieren. Zusätzlich fließen Eigenmittel wie Zölle direkt nach Brüssel. Deutschland trägt als größte Wirtschaftsnation den absolut höchsten Beitrag bei, profitiert laut ZDFheute als Exportland jedoch auch am stärksten vom Binnenmarkt.",
+      "Die Diskussionen über den künftigen Haushalt finden vor dem Hintergrund veränderter Rahmenbedingungen statt. Laut ZDFheute setzt die Politik der USA die Europäer unter Druck. Zudem verweisen verschiedene Akteure auf den Bedarf an höheren Investitionen in Sicherheit, Verteidigung und innovative Technologien. Laut Deutschlandfunk fordert die Co-Vorsitzende der Grünen, Franziska Brantner, angesichts dieser Herausforderungen höhere Ausgaben in diesen Bereichen."
      ]
     },
     {
-     "ueberschrift": "Reaktionen und Einschätzungen von Experten",
+     "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Verschiedene medizinische Experten haben sich zu dem Fall geäußert. Der US-Onkologe David Carbone wertet die Tatsache, dass der Papst direkt operiert wurde, als positive Nachricht. Wäre der Krebs auf Lymphknoten in der Mitte des Brustkorbs übergegriffen, hätte vor der Operation eine Behandlung erfolgen müssen, was hier nicht der Fall war. Dies deute auf einen Tumor im sehr frühen Stadium mit einer recht guten Prognose hin, so Carbone.",
-      "Jürgen Behr von der LMU München erläuterte das diagnostische Vorgehen und die Erholungsaussichten. Im besten Fall sei der Papst nach dem Eingriff bereits geheilt und es stehe lediglich Nachsorge an, so Behr. Sollten jedoch Metastasen gefunden werden, seien weitere Therapien denkbar. Bei mehreren Metastasen sei eine Heilung jedoch sehr unwahrscheinlich, und es gehe primär um eine Lebensverlängerung und Linderung von Beschwerden.",
-      "Der Vatikan informierte die Öffentlichkeit kontinuierlich über den Zustand des Kirchenoberhaupts. Nach Angaben von Vatikansprecher Matteo Bruni befindet sich der Papst in guter Stimmung. Die behandelnden Ärzte Luigi Carbone und Stefano Margaritora bestätigten einen planmäßigen postoperativen Verlauf."
+      "Der mehrjährige Finanzrahmen legt die Obergrenzen für die Ausgaben der Europäischen Union für einen Zeitraum fest. In der Praxis umfasst dieser Zeitraum in der EU sieben Jahre. Der Haushalt dient dazu, die politischen Ziele und Programme der Gemeinschaft planbar zu finanzieren. Dazu gehören Strukturhilfen, landwirtschaftliche Subventionen und Forschungsförderung.",
+      "Nettozahler sind Mitgliedstaaten, deren finanzielle Beiträge an den EU-Haushalt höher sind als die Summe der Mittel, die sie aus dem Haushalt zurückerhalten. Die Kohäsionspolitik der EU hat das Ziel, wirtschaftliche und soziale Unterschiede zwischen den Regionen abzubauen."
      ]
     },
     {
-     "ueberschrift": "Ausblick auf die kommenden Wochen",
+     "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Das Kirchenoberhaupt wird nach Angaben der Zeit voraussichtlich bis nächste Woche im Krankenhaus verbleiben. Der Vatikan meldete am Tag nach dem Eingriff eine ruhige Nacht des Papstes im Krankenhaus. Zusätzliche Behandlungen wie eine Chemo- oder Strahlentherapie hängen von den ausstehenden Ergebnissen weiterer Untersuchungen ab. Dazu zählen die Analysen der Gewebeproben, der molekularen Signatur sowie bildgebende Verfahren. Der Vatikan und das Behandlungsteam kündigten an, den Genesungsverlauf weiterhin zu begleiten und über die gesundheitliche Entwicklung zu informieren."
+      "Bundeskanzler Friedrich Merz erklärte vorab laut Tagesschau/ARD und ZDFheute, dass die verfügbaren Mittel begrenzt seien und der aktuelle Vorschlag in allen Bereichen begrenzt werden müsse. Sollte kein neuer Finanzrahmen zustande kommen, wäre dies laut Merz für Deutschland zwar finanziell günstig, würde aber die Handlungsfähigkeit Europas einschränken. Zur Stärkung dieser Handlungsfähigkeit schlug Merz laut Tagesschau/ARD die Abschaffung des Einstimmigkeitsprinzips vor.",
+      "Kritik an der Haltung des Kanzlers kam aus dem Europäischen Parlament. Der SPD-Europaabgeordnete Matthias Ecke warf Merz laut Tagesschau/ARD vor, mit dem Feuer zu spielen und eine radikale Position zu verfolgen, statt einen Kompromiss in der Mitte zu ermöglichen. Europaparlamentarier wandten zudem ein, das Budget steige kaufkraftbereinigt nicht so stark an wie behauptet. Manfred Weber betonte laut ZDFheute, ein souveränes Europa sei nur ohne Kürzungen der EU-Gelder möglich.",
+      "Die Co-Vorsitzende der Grünen, Franziska Brantner, warf Bundeskanzler Merz laut Deutschlandfunk eine Verweigerungshaltung vor. Europa müsse in geopolitisch turbulenten Zeiten souveräner werden und in innovative Technologien sowie Sicherheit investieren. Der Grünen-Europaabgeordnete Rasmus Andresen gab laut Tagesschau/ARD zu bedenken, dass der EU-Haushalt etwa doppelt so groß sei wie der Haushalt größerer deutscher Bundesländer."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die Staats- und Regierungschefs setzen ihre Beratungen auf dem zweitägigen EU-Gipfel in Brüssel fort. Ratspräsident António Costa führt Gespräche in den Hauptstädten, um einen Konsens zwischen den unterschiedlichen Positionen herzustellen. Bis Ende des Jahres wird angestrebt, eine Einigung über den neuen mehrjährigen Finanzrahmen zu erzielen."
      ]
     }
    ],
    "zeitleiste": [
     [
-     "Bis 20. Oktober 2026",
-     "Absage aller öffentlichen Audienzen und Termine zur Erholung des Pontifex."
+     "2026-10-15",
+     "Beginn des zweitägigen EU-Gipfels in Brüssel mit Beratungen über den Haushalt."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz vertritt auf dem EU-Gipfel deutsche Sparforderungen beim Haushalt."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "European Council Brussels building",
+     "bildunterschrift": "Das Gebäude des Europäischen Rates in Brüssel, in dem die Staats- und Regierungschefs tagen."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Euro sign Frankfurt",
+     "bildunterschrift": "Das Euro-Symbol als Vertreter der gemeinsamen europäischen Währung und Finanzthemen."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "António Costa politician",
+     "bildunterschrift": "EU-Ratspräsident António Costa führt Gespräche, um einen Konsens im Haushaltsstreit zu erreichen."
+    }
+   ],
+   "ort": {
+    "name": "Brüssel, Belgien"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Nicht belegbare Wertungen und Begriffe aus dem Entwurf entfernt, Zeitangabe in Zum Verständnis korrigiert."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Mehrjähriger Finanzrahmen",
+      "Das ist der langfristige Haushalt der Europäischen Union, der die Einnahmen und Ausgaben für einen Zeitraum von sieben Jahren regelt."
+     ],
+     [
+      "Nettozahler",
+      "Das sind Mitgliedstaaten, die mehr Geld in den EU-Haushalt einzahlen, als sie selbst als Fördergelder zurückerhalten."
+     ],
+     [
+      "Kohäsionspolitik",
+      "Eine Politik der Europäischen Union, die wirtschaftliche und soziale Unterschiede zwischen den Regionen verringern soll."
+     ]
     ],
+    "fragen": [
+     "Welche Argumente führen Befürworter und Gegner von Kürzungen im EU-Haushalt an?",
+     "Welche Rolle spielt Deutschland als Nettozahler bei den Haushaltsverhandlungen der Europäischen Union?"
+    ],
+    "quiz": [
+     {
+      "frage": "Für welchen Zeitraum wird der neue EU-Haushalt verhandelt?",
+      "optionen": [
+       "2021 bis 2027",
+       "2028 bis 2034",
+       "2030 bis 2040"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD und ZDFheute wird über den Haushalt für die Jahre 2028 bis 2034 verhandelt."
+     },
+     {
+      "frage": "Wer hat einen Kompromissvorschlag mit Kürzungen für den Haushalt vorgelegt?",
+      "optionen": [
+       "Die irische Ratspräsidentschaft",
+       "Die Bundesregierung",
+       "Das Europäische Parlament"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichten zufolge hat die irische Ratspräsidentschaft einen Kompromissvorschlag vorgelegt."
+     },
+     {
+      "frage": "Welches Land ist laut den Berichten der größte Nettozahler der EU?",
+      "optionen": [
+       "Frankreich",
+       "Deutschland",
+       "Italien"
+      ],
+      "richtig": 1,
+      "erklaerung": "Tagesschau/ARD und ZDFheute berichten übereinstimmend, dass Deutschland der größte Nettozahler der Europäischen Union ist."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In Brüssel sprechen die Politiker der Europäischen Union über viel Geld. Es geht um den gemeinsamen Haushalt für die kommenden Jahre.",
+    "absaetze": [
+     "Die Staats- und Regierungschefs der EU sind zu einem zweitägigen Gipfel in Brüssel zusammengekommen. Im Mittelpunkt steht der Haushalt der Europäischen Union für die Jahre 2028 bis 2034.",
+     "Der deutsche Bundeskanzler Friedrich Merz fordert, dass die EU deutlich weniger Geld ausgibt. Andere Politiker kritisieren diese Forderung und werfen ihm eine harte Haltung vor.",
+     "Die EU-Kommission und das Parlament hatten zuvor höhere Summen vorgeschlagen. Die irische Ratspräsidentschaft hat einen Kompromiss mit niedrigeren Beträgen vorgelegt, über den nun beraten wird."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Staats- und Regierungschefs der Europäischen Union beraten in Brüssel über den Haushalt für die Jahre 2028 bis 2034. Bundeskanzler Friedrich Merz fordert dabei deutliche Kürzungen. Über den genauen Umfang des Geldes gibt es heftigen Streit."
+    ],
+    "lang": [
+     "Die Staats- und Regierungschefs der Europäischen Union beraten auf einem Gipfel in Brüssel über den neuen Haushalt.",
+     "Das Treffen findet am fünfzehnten Oktober zweitausendsechsundzwanzig statt und dauert ausnahmsweise zwei Tage.",
+     "Im Mittelpunkt der Gespräche steht der mehrjährige Finanzrahmen für die Jahre 2028 bis 2034.",
+     "Bundeskanzler Friedrich Merz fordert nach Angaben von Tagesschau und ZDFheute eine Begrenzung der Ausgaben in allen Bereichen.",
+     "Die Europäische Kommission schlägt laut ZDFheute ein Budget von rund eins Komma neun acht fünf Billionen Euro vor.",
+     "Die irische Ratspräsidentschaft hat einen Kompromissvorschlag vorgelegt, der geringere Ausgaben vorsieht.",
+     "Kritik an der Haltung von Merz kommt unter anderem von dem SPD-Europaabgeordneten Matthias Ecke und der Grünen-Politikerin Franziska Brantner.",
+     "Die Europäische Union stellt alle sieben Jahre einen gemeinsamen Haushalt auf, um politische Ziele zu finanzieren.",
+     "Bis Ende des Jahres wollen die Mitgliedstaaten einen Kompromiss finden."
+    ],
+    "einfach": [
+     "In Brüssel sprechen die Politiker der Europäischen Union über den Haushalt.",
+     "Es geht um das Geld für die Jahre 2028 bis 2034.",
+     "Bundeskanzler Friedrich Merz fordert, dass die EU viel Geld einspart.",
+     "Andere Politiker finden diese Forderung nicht gut.",
+     "Bis zum Ende des Jahres wollen die Länder eine Lösung finden."
+    ]
+   },
+   "kurz": [
+    "Die EU-Staats- und Regierungschefs beraten in Brüssel über den Haushalt von 2028 bis 2034.",
+    "Bundeskanzler Friedrich Merz fordert drastische Kürzungen und stößt damit auf Kritik.",
+    "Die irische Ratspräsidentschaft schlägt einen Kompromiss mit geringeren Ausgaben vor."
+   ],
+   "fakten": [
+    [
+     "Zeitraum des neuen Haushalts",
+     "2028 bis 2034"
+    ],
+    [
+     "Vorschlag der EU-Kommission",
+     "rund 1,985 Billionen Euro"
+    ],
+    [
+     "Irischer Kompromissvorschlag",
+     "rund 1,826 Billionen Euro"
+    ]
+   ],
+   "dossier": {
+    "slug": "eu-haushalt-2028-2034",
+    "titel": "EU-Haushalt und Finanzplanung"
+   },
+   "bildInfo": {
+    "titel": "2024-08-21 Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024 STP 3111 by Stepro.jpg",
+    "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg/1280px-2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Event,_CDU,_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+    "urheber": "Steffen Prößdorf",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "art": "person",
+    "suchbegriff": "Friedrich Merz politician",
+    "bildunterschrift": "Bundeskanzler Friedrich Merz, hier bei einer Wahlkampfveranstaltung, fordert Kürzungen im EU-Haushalt.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2024-08-21 Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024 STP 3111 by Stepro.jpg",
+     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg/1280px-2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Event,_CDU,_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz, hier bei einer Wahlkampfveranstaltung, fordert Kürzungen im EU-Haushalt.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Brüssel, Belgien",
+    "lat": 50.847,
+    "lon": 4.352
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "einziger-neues-thema-2",
+   "rubrik": "Welt",
+   "zeit": "2026-10-15T14:05:00.000Z",
+   "aktualisiert": "aktualisiert um 20:14 Uhr",
+   "titel": "Gesundheitszustand von Papst Leo XIV. nach Lungenkrebs-Operation",
+   "vorspann": "Papst Leo XIV. hat sich in einer Klinik in Rom einem operativen Eingriff wegen Lungenkrebs unterzogen. Nach Angaben des Vatikans erholt sich der 71-Jährige planmäßig von der Operation.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Papst Leo XIV. wurde am rechten Lungenflügel operiert.",
+    "Bei dem Eingriff wurde ein Lungenknoten in einem frühen Stadium entfernt.",
+    "Der 71-Jährige erholt sich im Krankenhaus in Rom nach Angaben der Ärzte gut.",
+    "Alle Audienzen sind bis zum 20. Oktober abgesagt."
+   ],
+   "einig": [
+    [
+     "Papst Leo XIV. wurde an der Lunge operiert.",
+     [
+      "ZDFheute",
+      "Tagesschau/ARD"
+     ]
+    ],
+    [
+     "Dem Papst wurde der untere Lappen des rechten Lungenflügels entfernt.",
+     [
+      "ZDFheute",
+      "Tagesschau/ARD"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Was aus den für November geplanten Reisen des Papstes in mehrere Länder Südamerikas wird, ist laut ZDFheute derzeit unklar."
+   ],
+   "positionen": [
+    [
+     "Ärzte Luigi Carbone und Stefano Margaritora",
+     "Die operierte Lunge hat sich gut erholt, die Genesung schreitet wie erwartet voran.",
+     "ZDFheute"
+    ],
+    [
+     "Mediziner Christoph Specht",
+     "Nach allem, was man bisher wisse, spreche sehr viel für eine sehr gute Prognose.",
+     "ZDFheute"
+    ],
+    [
+     "Vatikanexpertin Elise Ann Allen",
+     "Der Papst wird so schnell wie möglich wieder arbeiten wollen, ist aber auch vorsichtig.",
+     "ZDFheute"
+    ],
+    [
+     "Bischof Heiner Wilmer",
+     "Wünscht Gottes Segen und eine rasche Genesung im Namen der Deutschen Bischofskonferenz.",
+     "ZDFheute"
+    ]
+   ],
+   "fehlend": "Es fehlen direkte Stellungnahmen von Regierungen oder anderen internationalen Staatschefs.",
+   "medien": [
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 16:05",
+     "fokus": "Medizinische Details und Reaktionen",
+     "text": "Der Bericht enthält ausführliche Erklärungen zu der Krebsart, Aussagen von Medizinern sowie Reaktionen von Bischöfen und Experten.",
+     "url": "https://www.zdfheute.de/panorama/prominente/papst-op-krankenhaus-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 4,
+      "woerter": 714,
+      "satzlaenge": 16,
+      "langeWoerter": 33
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "14.10.26, 15:53",
+     "fokus": "Kurze Meldung des Eingriffs",
+     "text": "Die Meldung konzentriert sich auf die Tatsache der Operation und die Entfernung des Lungenlappens.",
+     "url": "https://www.tagesschau.de/video/video-1666086.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "ZDFheute liefert einen sehr langen Hintergrundbericht mit medizinischen Erklärungen, während die Tagesschau/ARD eine kurze Meldung veröffentlicht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Papst Leo XIV.",
+    "was": "Erholung nach Lungenkrebs-Operation",
+    "wann": "Oktober",
+    "wo": "Rom, Italien",
+    "wie": "Operativer Eingriff zur Entfernung eines Lungenlappens",
+    "warum": "Entdeckung eines Lungenknotens in frühem Stadium, laut Vatikan",
+    "quellenlage": "ZDFheute und Tagesschau/ARD"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Papst Leo XIV. hat nach einer Operation wegen Lungenkrebs seine Arbeit im Krankenhaus wieder aufgenommen. Die operierte Lunge habe sich gut erholt, teilten seine Ärzte mit. Papst Leo XIV. ist erfolgreich an der Lunge operiert worden. Der 71-Jährige hat sich in einer Klinik in Rom einem Eingriff zur Entfernung eines Knotens unterzogen.",
+      "Die Ärzte von Papst Leo XIV. haben sich zwei Tage nach seiner Krebsoperation optimistisch über die Genesung des 71-Jährigen geäußert. Ein Röntgenbild habe gezeigt, dass sich die operierte Lunge gut erhole, teilten Luigi Carbone und Stefano Margaritora am Donnerstag in einer vom Vatikan veröffentlichten Erklärung mit. Heute Morgen wurden Routine-Untersuchungen vorgenommen, die normale Ergebnisse zeigten, hieß es weiter.",
+      "Die Genesung des Papstes schreite wie erwartet voran. Der Heilige Stuhl hatte bereits zuvor erklärt, dass sich der Pontifex weiterhin gut von seiner Krebsoperation erhole. Er hat eine gute Nacht im Krankenhaus verbracht, ist aufgestanden und hat gefrühstückt, hieß es in einer Mitteilung im Onlinedienst Telegram."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Während am Mittwoch zunächst nur von Physiotherapie für die Atmung die Rede war, macht der 71-Jährige inzwischen Bewegungsübungen für den ganzen Körper. Insgesamt verlaufe die postoperative Phase planmäßig, so der Vatikan. Papst Leo XIV. hat Lungenkrebs - laut Vatikan in einem frühen Stadium.",
+      "Nach allem, was man bisher wisse, spreche sehr viel für eine sehr gute Prognose, sagte der Mediziner Christoph Specht laut ZDFheute. Um eine vollständige Entfernung eines Adenokarzinoms der Lunge sicherzustellen, war dem Oberhaupt der katholischen Kirche während des 90-minütigen Eingriffs der Unterlappen des rechten Lungenflügels entfernt worden.",
+      "Nach Angaben aus Vatikankreisen laufen weitere Untersuchungen, die klären sollen, ob sich womöglich Metastasen in anderen Körperteilen gebildet haben. Der Krebs sei aber in einem frühen Stadium erkannt worden, hieß es. Bis zum 20. Oktober hat Leo XIV. alle Audienzen abgesagt. Was aus seinen für November geplanten Reisen in mehrere Länder Südamerikas wird, ist derzeit unklar."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Ich glaube, er wird, soweit er es kann, gleich wieder loslegen wollen, sagte die US-Vatikanexpertin Elise Ann Allen, die eine Biographie über den Papst verfasst hat, der Nachrichtenagentur AFP laut ZDFheute. Aber er ist auch sehr vorsichtig. Leo kennt seine Grenzen und hört auf sie.",
+      "Papst Leo XIV. hatte selbst bekanntgegeben, dass Ärzte kürzlich einen Knoten in seiner Lunge festgestellt haben. Dieser sei in einem frühen Stadium. Die Deutsche Bischofskonferenz wünsche Leo Gottes Segen und eine rasche Genesung, erklärte der Konferenzvorsitzende, Bischof Heiner Wilmer, in sozialen Medien.",
+      "Der 71 Jahre alte Pontifex hatte am Sonntag bekanntgegeben, dass bei ihm ein Knoten in der Lunge entdeckt worden sei. Dieser sei bei Kontrollen in einem sehr frühen Stadium gefunden worden und gut lokalisiert. Dem Rat seiner Ärzte folgend habe er sich entschlossen, sich operieren zu lassen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ein Lungenadenokarzinom ist ein primär in der Lunge entstandener Tumor. Lungenkrebs wird in zwei Hauptgruppen unterteilt: die sogenannten nicht-kleinzelligen Karzinome und die kleinzelligen Karzinome.",
+      "Das Lungenadenokarzinom gehört zur ersten Gruppe. Lungenkrebs ist laut WHO weltweit die häufigste krebsbedingte Todesursache."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Der Leiter der Thoraxchirurgie am Europäischen Institut für Onkologie in Mailand, Lorenzo Spaggiari, sagte laut ZDFheute, in solchen lokalen Fällen gebe es gute Behandlungsmöglichkeiten. Spaggiari ist an der Behandlung des Papstes nicht beteiligt, kennt aber das Ärzteteam an der Gemelli-Klinik.",
+      "Als der Eingriff am Dienstagnachmittag begann, beteten Mitarbeiter des Krankenhauses in der Kapelle den Rosenkranz. Bischöfe in Rom sandten dem Kirchenoberhaupt Genesungswünsche. Die Deutsche Bischofskonferenz wünsche Leo Gottes Segen und eine rasche Genesung, erklärte der Konferenzvorsitzende, Bischof Heiner Wilmer, in sozialen Medien.",
+      "Die Bischöfe beteten dafür, dass er mit neuer Kraft schon bald wieder seinen Aufgaben nachkommen kann. Mit seiner Bekanntgabe hat Leo eine für einen Papst ungewöhnliche Offenheit im Umgang mit seiner Gesundheit gezeigt."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Bis zum 20. Oktober hat Leo XIV. alle Audienzen abgesagt. Was aus seinen für November geplanten Reisen in mehrere Länder Südamerikas wird, ist derzeit unklar. Nach Angaben aus Vatikankreisen laufen weitere Untersuchungen, die klären sollen, ob sich Metastasen gebildet haben.",
+      "Die Ärzte erklärten, dass die Genesung planmäßig voranschreite und die operierte Lunge sich gut erhole. Der Papst hat seine Arbeit im Krankenhaus wieder aufgenommen und führt Bewegungsübungen aus."
+     ]
+    }
+   ],
+   "zeitleiste": [
     [
      "November 2026",
      "Geplante zweiwöchige Reise des Papstes nach Uruguay, Argentinien und Peru."
@@ -2620,14 +3388,6 @@
     [
      "November 2026",
      "Geplante Auslandsreise nach Uruguay, Argentinien und Peru."
-    ],
-    [
-     "Sonntag",
-     "Papst Leo XIV. gibt bekannt, dass ein Lungenknoten in einem frühen Stadium entdeckt wurde."
-    ],
-    [
-     "Dienstag",
-     "Der Papst wird in der Gemelli-Klinik in Rom operiert; der untere rechte Lungenlappen wird entfernt."
     ],
     [
      "Mai 2025",
@@ -2648,23 +3408,35 @@
     [
      "Mittwoch, 14. Oktober 2026",
      "Der Vatikan meldet eine ruhige Nacht des Papstes und plant eine Erholung."
+    ],
+    [
+     "Sonntag",
+     "Papst Leo XIV. gibt bekannt, dass ein Lungenknoten in einem frühen Stadium entdeckt wurde."
+    ],
+    [
+     "Dienstag",
+     "Der Papst wird in der Gemelli-Klinik in Rom operiert; der untere rechte Lungenlappen wird entfernt."
+    ],
+    [
+     "Bis zum 20. Oktober",
+     "Absage aller Audienzen des Papstes."
     ]
    ],
    "bilder": [
     {
      "art": "person",
      "suchbegriff": "Pope Leo XIV",
-     "bildunterschrift": "Papst Leo XIV. ist das Oberhaupt der Katholischen Kirche und wurde im Gemelli-Krankenhaus operiert."
+     "bildunterschrift": "Papst Leo XIV., das Oberhaupt der katholischen Kirche."
     },
     {
      "art": "ort",
-     "suchbegriff": "Agostino Gemelli University Polyclinic",
-     "bildunterschrift": "Das Gemelli-Krankenhaus in Rom, in dem der chirurgische Eingriff an der Lunge des Papstes durchgeführt wurde."
+     "suchbegriff": "Gemelli Hospital Rome",
+     "bildunterschrift": "Die Gemelli-Klinik in Rom, in der der Papst operiert wurde."
     },
     {
      "art": "institution",
      "suchbegriff": "Vatican City",
-     "bildunterschrift": "Der Vatikan veröffentlichte die offiziellen Mitteilungen zum gesundheitlichen Zustand des Papstes."
+     "bildunterschrift": "Der Vatikan, von dem aus Erklärungen zum Gesundheitszustand veröffentlicht wurden."
     }
    ],
    "ort": {
@@ -2672,120 +3444,114 @@
    },
    "geprueft": true,
    "korrekturen": [
-    "Entfernung von nicht belegten Datumsangaben und Terminen wie dem 20. Oktober 2026 oder der November-Reise aus dem Nachrichtentext, da diese im Entwurf nicht streng aus den offiziellen Berichten belegt waren.",
-    "Anpassung von Zahlenwörtern für die Vorlesbarkeit im Videotext."
+    "Entfernung von Jahreszahlen bei Daten ohne Jahr in den Quellen, um keine Fakten zu erfinden.",
+    "Anpassung von Aussagen in den Absätzen an den reinen Text der Originalberichte."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
-      "Adenokarzinom",
-      "Ein bösartiger Tumor, der in Drüsenzellen entsteht und in diesem Fall in der Lunge gewachsen ist."
+      "Lungenadenokarzinom",
+      "Ein bösartiger Tumor, der direkt in der Lunge entsteht."
      ],
      [
       "Metastasen",
-      "Tochtergeschwulste oder Absiedlungen eines Tumors, die sich über Blut- oder Lymphbahnen im Körper ausbreiten."
-     ],
-     [
-      "PET-CT",
-      "Ein bildgebendes Diagnoseverfahren in der Medizin, mit dem der Körper nach Krebszellen und Metastasen abgesucht wird."
+      "Tochtergeschwulste oder Absiedlungen eines Krebses in anderen Körperteilen."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen behandelnde Ärzte und Vatikansprecher bei der offiziellen Berichterstattung über die Gesundheit des Papstes?",
-     "Wie unterscheiden sich die Informationen von Medien wie der Tagesschau und der Zeit in ihrer Ausführlichkeit?"
+     "Welche Bedeutung hat es, dass der Papst seine Krebserkrankung offen bekannt gab?",
+     "Wie unterscheidet sich die Berichterstattung zwischen einem langen Hintergrundbericht und einer Kurzmeldung?"
     ],
     "quiz": [
      {
-      "frage": "In welchem Krankenhaus wurde Papst Leo XIV. operiert?",
+      "frage": "Welcher Teil des Körpers wurde dem Papst operiert?",
       "optionen": [
-       "Im Gemelli-Krankenhaus in Rom",
-       "In der Universitätsklinik München",
-       "Im Vatikan-Krankenhaus"
+       "Das Herz",
+       "Der rechte Lungenflügel",
+       "Der Magen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten von ZDFheute und Tagesschau/ARD wurde dem Papst der untere Lappen des rechten Lungenflügels entfernt."
+     },
+     {
+      "frage": "Wie lange sind laut den Berichten alle Audienzen abgesagt?",
+      "optionen": [
+       "Bis zum 20. Oktober",
+       "Bis zum Ende des Jahres",
+       "Bis nächste Woche"
       ],
       "richtig": 0,
-      "erklaerung": "Laut übereinstimmender Berichte von Tagesschau und Zeit fand die Operation im Gemelli-Krankenhaus in Rom statt."
+      "erklaerung": "Im Text wird genannt, dass alle Audienzen bis zum 20. Oktober abgesagt wurden."
      },
      {
-      "frage": "Welche Art von Tumor wurde bei dem Papst entfernt?",
+      "frage": "In welchem Stadium wurde der Krebs nach Angaben des Vatikans entdeckt?",
       "optionen": [
-       "Ein kleinzelliges Karzinom",
-       "Ein Lungenadenokarzinom",
-       "Ein gutartiger Knoten"
+       "In einem sehr späten Stadium",
+       "In einem frühen Stadium",
+       "Der Krebs war bereits gestreut"
       ],
       "richtig": 1,
-      "erklaerung": "Der Vatikan teilte mit, dass es sich um ein Adenokarzinom als bösartigen Lungenknoten handelt."
-     },
-     {
-      "frage": "Wie verlief die Operation nach Angaben des Vatikans?",
-      "optionen": [
-       "Mit schweren Komplikationen",
-       "Erfolgreich und ohne Komplikationen",
-       "Die Operation wurde abgebrochen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Der Vatikan teilte mit, dass die rund neunzigminütige Operation erfolgreich und ohne Komplikationen verlaufen ist."
+      "erklaerung": "Der Vatikan und die behandelnden Ärzte gaben an, dass der Krebs in einem frühen Stadium erkannt wurde."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Papst Leo XIV. wurde am Dienstag in Rom operiert. Dabei wurde ihm ein bösartiger Tumor aus der Lunge entfernt.",
+    "vorspann": "Papst Leo XIV. wurde an der Lunge operiert. Nun erholt er sich im Krankenhaus in Rom.",
     "absaetze": [
-     "Der Papst ist einundsiebzig Jahre alt. Bei einer Untersuchung hatten Ärzte einen Knoten in seiner Lunge entdeckt.",
-     "Die Operation im Gemelli-Krankenhaus in Rom dauerte neunzig Minuten. Nach Angaben des Vatikans verlief der Eingriff ohne Komplikationen.",
-     "Der Vatikan und die behandelnden Ärzte erklären, dass sich der Papst planmäßig erholt. Er ist in guter Stimmung und geht bereits wieder umher.",
-     "Ob der Papst noch eine weitere Therapie wie eine Bestrahlung braucht, untersuchen die Ärzte zurzeit noch. Bis nächste Woche bleibt er im Krankenhaus."
+     "Der Papst ist einundsiebzig Jahre alt. Bei ihm wurde Lungenkrebs in einem frühen Stadium festgestellt.",
+     "Ärzte haben ihm bei einer Operation den Unterlappen des rechten Lungenflügels entfernt.",
+     "Nach Angaben des Vatikans erholt sich der Papst gut von dem Eingriff. Er hat bereits seine Arbeit im Krankenhaus wieder aufgenommen.",
+     "Alle Audienzen und Termine des Papstes sind bis zum zwanzigsten Oktober abgesagt. Ob Reisen im November stattfinden, ist noch unklar."
     ]
    },
    "video": {
     "kurz": [
-     "Papst Leo XIV. wurde am Dienstag in Rom am Dienstag operiert.",
-     "Ärzte entfernten einen bösartigen Lungenknoten in einem frühen Stadium.",
-     "Nach Angaben des Vatikans verläuft die Erholung planmäßig."
+     "Papst Leo XIV. wurde nach einer Lungenkrebs-Operation erfolgreich behandelt.",
+     "Dem einundsiebzigjährigen Kirchenoberhaupt wurde ein Lungenlappen entfernt.",
+     "Nach Angaben des Vatikans erholt er sich planmäßig im Krankenhaus."
     ],
     "lang": [
-     "Papst Leo XIV. hat sich am Dienstag in Rom einer Operation unterzogen.",
-     "Das Oberhaupt der Katholischen Kirche wurde im Gemelli-Krankenhaus operiert.",
-     "Dabei wurde ihm nach Angaben des Vatikans der untere Lappen des rechten Lungenflügels entfernt.",
-     "Der Vatikan teilte mit, dass der entfernte Lungenknoten bösartig war und es sich um ein Adenokarzinom handelt.",
-     "Die Operation dauerte rund neunzig Minuten und verlief nach Angaben des Vatikans ohne Komplikationen.",
-     "Der behandelnde Arzt Luigi Carbone erklärte, dass der postoperative Verlauf normal ist und die Werte im erwarteten Bereich liegen.",
-     "Vatikansprecher Matteo Bruni sagte, dass der Papst in guter Stimmung ist und sich planmäßig erholt.",
-     "Die Zeit berichtete, dass das Kirchenoberhaupt voraussichtlich bis nächste Woche im Krankenhaus bleibt.",
-     "Ob der Papst zusätzliche Therapien wie eine Chemo- oder Strahlentherapie benötigt, ist nach Angaben von Fachleuten noch unklar.",
-     "Weitere Untersuchungen und Gewebeanalysen sollen in den kommenden Tagen genauere Ergebnisse liefern."
+     "Papst Leo XIV. hat nach einer Operation wegen Lungenkrebs seine Arbeit im Krankenhaus wieder aufgenommen.",
+     "Der einundsiebzigjährige Papst wurde am Dienstag in einer Klinik in Rom operiert.",
+     "Dabei wurde ihm der untere Lappen des rechten Lungenflügels entfernt.",
+     "Nach Angaben seiner Ärzte Luigi Carbone und Stefano Margaritora erholt sich die Lunge gut.",
+     "Die Ärzte erklärten in einer Mitteilung, dass die Genesung wie erwartet voran schreite.",
+     "Der Vatikan teilte mit, dass der Papst bereits wieder aufgestanden ist und arbeitet.",
+     "Bis zum zwanzigsten Oktober sind alle Audienzen des Papstes abgesagt.",
+     "Was aus den für November geplanten Reisen nach Südamerika wird, ist derzeit unklar."
     ],
     "einfach": [
-     "Papst Leo XIV. wurde am Dienstag in Rom operiert.",
-     "Ärzte entfernten einen bösartigen Knoten aus seiner Lunge.",
-     "Die Operation dauerte neunzig Minuten und lief ohne Komplikationen.",
-     "Der Vatikan und die Ärzte sagen, dass es dem Papst gut geht.",
-     "Er erholt sich planmäßig und bleibt noch im Krankenhaus.",
-     "Ob er eine weitere Behandlung braucht, wird noch untersucht."
+     "Papst Leo XIV. wurde an der Lunge operiert.",
+     "Bei ihm wurde Lungenkrebs in einem frühen Stadium entdeckt.",
+     "Ärzte haben ihm einen Teil der rechten Lunge entfernt.",
+     "Der Vatikan teilt mit, dass es dem Papst gut geht.",
+     "Er arbeitet schon wieder im Krankenhaus in Rom."
     ]
    },
    "kurz": [
-    "Papst Leo XIV. wurde am Dienstag im Gemelli-Krankenhaus in Rom operiert.",
-    "Ein bösartiger Lungenknoten wurde in einem frühen Stadium erfolgreich entfernt.",
-    "Der Vatikan und die Ärzte bestätigen eine planmäßige und gute Erholung."
+    "Papst Leo XIV. wurde wegen Lungenkrebs in Rom operiert.",
+    "Dem einundsiebzigjährigen Papst wurde der Unterlappen des rechten Lungenflügels entfernt.",
+    "Nach Angaben des Vatikans verläuft die Genesung planmäßig und er arbeitet wieder im Krankenhaus.",
+    "Alle Audienzen sind bis zum zwanzigsten Oktober abgesagt."
    ],
    "fakten": [
     [
      "Alter des Papstes",
-     "71 Jahre"
+     "71"
     ],
     [
-     "Dauer der Operation",
+     "Dauer des Eingriffs",
      "90 Minuten"
     ],
     [
-     "Fünf-Jahres-Überlebensrate bei früher Behandlung",
-     "80 bis 98 Prozent"
+     "Absage der Audienzen bis zum",
+     "20. Oktober"
     ]
    ],
    "dossier": {
-    "slug": "papst-leo-gesundheit",
-    "titel": "Gesundheitszustand von Papst Leo XIV."
+    "slug": "gesundheit-papst-leo",
+    "titel": "Gesundheit von Papst Leo XIV."
    },
    "bildInfo": {
     "titel": "Leo XIV (13 October 2025).jpg",
@@ -2856,138 +3622,7 @@
     "lat": 41.893,
     "lon": 12.483
    },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Papst Leo XIV. hat sich am Dienstag in Rom einer Operation unterzogen. Das Oberh",
-     "d": "9be411458f.mp3",
-     "l": 60.98,
-     "s": [
-      0.25,
-      5.66,
-      9.96,
-      15.19,
-      21.61,
-      27.64,
-      35.39,
-      41.62,
-      47.06,
-      54.57
-     ]
-    },
-    {
-     "k": "Papst Leo XIV. wurde am Dienstag in Rom am Dienstag operiert. Ärzte entfernten e",
-     "d": "0e5181403c.mp3",
-     "l": 13.43,
-     "s": [
-      0.25,
-      5.03,
-      9.6
-     ]
-    },
-    {
-     "k": "Papst Leo XIV. wurde am Dienstag in Rom operiert. Ärzte entfernten einen bösarti",
-     "d": "fcde2a02fb.mp3",
-     "l": 28.11,
-     "s": [
-      0.25,
-      5.49,
-      9.68,
-      14.89,
-      20.23,
-      24.1
-     ]
-    },
-    {
-     "k": "Ob nach der Operation eine zusätzliche Chemo- oder Strahlentherapie erforderlich",
-     "d": "f07bcbff04.mp3",
-     "l": 10.15,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Adenokarzinom? Ein bösartiger Tumor, der in Drüsenzellen",
-     "d": "74577eb026.mp3",
-     "l": 9.9,
-     "s": [
-      0.25,
-      3.51
-     ]
-    },
-    {
-     "k": "Das Oberhaupt der Katholischen Kirche, Papst Leo XIV. , hat sich am Dienstag ein",
-     "d": "54812d45b2.mp3",
-     "l": 45.37,
-     "s": [
-      0.25,
-      4.33,
-      8.82,
-      15.42,
-      21.34,
-      26.63,
-      32.74,
-      40.49
-     ]
-    },
-    {
-     "k": "Der Entdeckung des Tumors ging laut Tagesschau-Bericht eine Kontrolluntersuchung",
-     "d": "db859e4f92.mp3",
-     "l": 38.82,
-     "s": [
-      0.25,
-      5.49,
-      9.92,
-      15.18,
-      18.8,
-      23.2,
-      27.08,
-      34.79
-     ]
-    },
-    {
-     "k": "Ein Lungenadenokarzinom ist ein primär in der Lunge entstandener Tumor, wie die ",
-     "d": "52d91cbc3d.mp3",
-     "l": 52.39,
-     "s": [
-      0.25,
-      8.62,
-      12.78,
-      17.67,
-      25.46,
-      32.76,
-      36.01,
-      45.53
-     ]
-    },
-    {
-     "k": "Verschiedene medizinische Experten haben sich zu dem Fall geäußert. Der US-Onkol",
-     "d": "51cc670032.mp3",
-     "l": 50.42,
-     "s": [
-      0.25,
-      4.14,
-      11.19,
-      19.65,
-      25.22,
-      31.03,
-      37.06,
-      41.79
-     ]
-    },
-    {
-     "k": "Das Kirchenoberhaupt wird nach Angaben der Zeit voraussichtlich bis nächste Woch",
-     "d": "34ce67d237.mp3",
-     "l": 32.82,
-     "s": [
-      0.25,
-      6.04,
-      11.09,
-      18.2,
-      24.35
-     ]
-    }
-   ]
+   "version": 5
   },
   {
    "id": "sachsen-anhalt-ukraine-hilfen",
@@ -3548,98 +4183,66 @@
   {
    "id": "zuckersteuer-bundeskabinett",
    "rubrik": "Wirtschaft",
-   "zeit": "2026-10-14T21:04:00.000Z",
-   "aktualisiert": "aktualisiert um 15:21 Uhr",
-   "titel": "Bundeskabinett beschließt Gesetzentwurf zur Einführung einer Zuckersteuer",
-   "vorspann": "Das Bundeskabinett hat einen Regelungsvorschlag zur Einführung einer Steuer auf zuckergesüßte Getränke beschlossen. Die Abgabe soll am 1. Juli 2027 in Kraft treten und zur Finanzierung des Gesundheitssystems beitragen.",
+   "zeit": "2026-10-15T05:19:20.000Z",
+   "aktualisiert": "aktualisiert um 20:14 Uhr",
+   "titel": "Gesetzentwurf zur Einführung einer Zuckersteuer beschlossen",
+   "vorspann": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Steuer für zuckerhaltige Getränke verabschiedet. Die Koalition hatte sich zuvor auf entsprechende Steuersätze geeinigt.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Das Bundeskabinett hat laut übereinstimmenden Berichten einen Gesetzentwurf zur Einführung einer Zuckersteuer auf gezuckerte Getränke beschlossen.",
-    "Die Abgabe soll am 1. Juli 2027 in Kraft treten und zwei Stufen umfassen, um Einnahmen für den Bund zu generieren und das Gesundheitssystem zu entlasten.",
-    "Kleine Hersteller mit einer Produktion von bis zu einer Million Litern sollen von der Steuer befreit werden, sofern die EU-Kommission zustimmt.",
-    "Während Verbraucherschützer die Pläne begrüßen und auf Rezepturänderungen der Industrie hoffen, fordert die CSU eine Verschiebung des Starts auf das Jahr 2028."
+    "Das Bundeskabinett hat den Gesetzentwurf zur Zuckersteuer verabschiedet.",
+    "Die Steuer soll für zuckerhaltige Getränke wie Limo, Eistees oder Energydrinks gelten.",
+    "Während Foodwatch die Pläne begrüßt, fordert die CSU eine Verschiebung auf 2028."
    ],
    "einig": [
     [
-     "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Steuer auf zuckergesüßte Getränke beschlossen.",
+     "Das Bundeskabinett hat den Gesetzentwurf zur Zuckersteuer verabschiedet.",
      [
-      "Tagesschau/ARD",
-      "ZDFheute"
+      "ZDFheute",
+      "Tagesschau/ARD"
      ]
     ],
     [
-     "Die Einführung der neuen Steuer ist für den 1. Juli 2027 geplant.",
+     "Die Steuer richtet sich gegen zuckerhaltige Getränke wie Limo, Eistees oder Energydrinks.",
      [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ],
-    [
-     "Lars Klingbeil ist der zuständige Bundesfinanzminister.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
+      "ZDFheute",
+      "Tagesschau/ARD"
      ]
     ]
    ],
    "unklar": [
-    "Ob der Starttermin am 1. Juli 2027 beibehalten wird oder durch die CSU-Forderung auf 2028 verschoben wird.",
-    "Ob die Europäische Kommission die geplante Steuerbefreiung für kleine Hersteller bis zu einer Million Liter genehmigen wird."
+    "Ob die Einführung tatsächlich zum 1. Juli 2027 stattfindet oder von der CSU auf 2028 verschoben wird, ist umstritten."
    ],
    "positionen": [
     [
-     "Bundesfinanzministerium (Lars Klingbeil)",
-     "Die Steuer stabilisiert das Gesundheitssystem, bringt Einnahmen und schafft Gerechtigkeit durch Belastung der Verursacher.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "CDU/CSU (Agrarminister und Alexander Hoffmann)",
-     "Teile der Union sprachen sich in einem Brief gegen die Steuer aus; die CSU fordert eine Verschiebung auf 2028 zur Entlastung der Unternehmen.",
-     "Tagesschau/ARD,ZDFheute"
-    ],
-    [
      "Foodwatch (Luise Molling)",
-     "Begrüßt die Steuer, sieht darin einen Ausgleich sozialer Ungleichheit und erwartet sinkende Zuckergehalte statt stark steigender Preise.",
+     "Die Zuckersteuer gleicht soziale Ungerechtigkeiten aus, bekämpft Adipositas und führt eher zu besseren Rezepturen als zu höheren Preisen.",
+     "ZDFheute"
+    ],
+    [
+     "CSU (Alexander Hoffmann)",
+     "Der Starttermin der Steuer soll auf 2028 verschoben werden, um den Unternehmen mehr Zeit zur Rezepturanpassung zu geben.",
+     "ZDFheute"
+    ],
+    [
+     "Finanzminister Lars Klingbeil (SPD)",
+     "Es wird keine Zuckersteuer auf Light-Produkte geben.",
      "ZDFheute"
     ]
    ],
-   "fehlend": "Stimmen der Getränkeindustrie und der Wirtschaftsverbände direkt zu den aktuellen Beschlüssen.",
+   "fehlend": "Stellungnahmen von Vertretern der Getränkeindustrie fehlen in den Berichten.",
    "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "14.10.26, 12:32",
-     "fokus": "Umfassende Hintergründe und Details",
-     "text": "Der Bericht beleuchtet ausführlich die Vorgeschichte, die genauen Steuermuffen, gesundheitliche Studien sowie Daten zum weltweiten und deutschen Zuckerkonsum.",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/zuckersteuer-einigung-folgen-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 796,
-      "satzlaenge": 15,
-      "langeWoerter": 33
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
     {
      "name": "ZDFheute",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "14.10.26, 23:04",
-     "fokus": "Interviews und Reaktionen von Foodwatch",
-     "text": "Der Bericht konzentriert sich stark auf die Einordnung durch die Verbraucherschutzorganisation Foodwatch und thematisiert mögliche Preisentwicklungen sowie den Streit um den Starttermin.",
+     "fokus": "Interview und politische Debatte",
+     "text": "Der Bericht konzentriert sich stark auf Aussagen von Foodwatch-Vertreterin Luise Molling und beleuchtet die Debatte um den Zeitplan sowie soziale Aspekte.",
      "url": "https://www.zdfheute.de/politik/deutschland/zuckersteuer-getraenke-foodwatch-interview-100.html",
      "video": false,
      "lesbar": {
@@ -3654,69 +4257,67 @@
      "traeger": "ZDF, Anstalt des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
      "publikumWert": 3.66
+    },
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "15.10.26, 07:19",
+     "fokus": "Chronologie und gesetzlicher Rahmen",
+     "text": "Die Tagesschau liefert vor allem den zeitlichen Ablauf des Gesetzgebungsverfahrens.",
+     "url": "https://www.tagesschau.de/multimedia/podcast/15-minuten/15-minuten-podcast-alkoholverbot-zuckersteuer-akkus-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
     }
    ],
    "unterschiede": [
     [
-     "Fokus der Berichterstattung",
-     "Tagesschau/ARD liefert umfassende Hintergrunddaten zu Konsum und Studien, während ZDFheute den Schwerpunkt auf die Aussagen von Foodwatch und die Kritik am Zeitplan legt."
+     "Ausführlichkeit",
+     "ZDFheute enthält ein ausführliches Interview mit Foodwatch, während Tagesschau/ARD den Fokus auf die Kurzmeldung legt."
     ]
    ],
    "wfragen": {
-    "wer": "Bundeskabinett, Finanzminister Lars Klingbeil",
-    "was": "Beschluss eines Gesetzentwurfs für eine Zuckersteuer",
-    "wann": "14.10.2026",
-    "wo": "Berlin, Deutschland",
-    "wie": "Durch ein zweistufiges Modell basierend auf dem Zuckergehalt",
-    "warum": "Zur Stabilisierung des Gesundheitssystems und Senkung des Konsums nach Angaben des Bundesfinanzministeriums",
-    "quellenlage": "Tagesschau/ARD, ZDFheute"
+    "wer": "Bundesfinanzminister Lars Klingbeil und das Bundeskabinett",
+    "was": "Verabschiedung eines Gesetzentwurfs zur Zuckersteuer",
+    "wann": "Mittwoch",
+    "wo": "Deutschland",
+    "wie": "Durch Steuersätze von 26 oder 32 Cent pro Liter",
+    "warum": "Zur Reduzierung des Zuckergehalts und zum Ausgleich sozialer Ungleichheit laut Foodwatch",
+    "quellenlage": "ZDFheute und Tagesschau/ARD"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Das Bundeskabinett hat einen Regelungsvorschlag zur Einführung einer Steuer auf zuckergesüßte Getränke beschlossen. Der Streit innerhalb der Koalition über diese Abgabe ist damit nach Angaben der Tagesschau/ARD beigelegt worden. Die geplante Steuer soll am 1. Juli 2027 in Kraft treten und dazu beitragen, die Kosten im Gesundheitssystem zu stabilisieren. Das Bundesfinanzministerium hat die entsprechenden Eckpunkte des Gesetzentwurfs vorgelegt. Die Bundestagsfraktionen von Union und SPD sollen den Entwurf nun im Parlament beraten und umsetzen.",
-      "Die Einführung der Steuer wurde in Deutschland über Jahre hinweg diskutiert. Bislang hatte die Bundesregierung laut Tagesschau/ARD vor allem auf das Prinzip der Freiwilligkeit gesetzt. Internationale Vorbilder wie Großbritannien haben eine solche Abgabe bereits eingeführt. Laut den Berichten gab es innerhalb der Koalition Widerstände gegen den Entwurf von Finanzminister Lars Klingbeil. Das Kanzleramt bremste den Entwurf zunächst aus, und Teile der Union sperrten sich gegen die Pläne.",
-      "Neun Agrar- und Verbraucherschutzminister der Union aus den Bundesländern hatten sich kurz vor dem Beschluss in einem Brief an Bundeskanzler Friedrich Merz gegen die Steuer ausgesprochen. Auch die SPD forderte in der Diskussion Klarheit darüber, wie ohne diese Einnahmen der Finanzbedarf gedeckt werden soll. Schließlich konnte ein Kompromiss gefunden werden, der nun im Kabinett verabschiedet wurde. Die Maßnahme soll den Bund im Jahr 2027 schätzungsweise 690 Millionen Euro einbringen."
+      "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer verabschiedet. Dies geht aus Berichten von ZDFheute und Tagesschau/ARD hervor. Zuvor hatte sich die Koalition auf dieses Vorhaben verständigt. Die Steuer soll auf zuckerhaltige Getränke erhoben werden.",
+      "Zu den betroffenen Getränken gehören laut ZDFheute Limonaden, Eistees und Energydrinks. Voraussetzung für die Erhebung der Steuer ist das Erreichen eines bestimmten Zuckergehälters. Die Steuersätze sind auf 26 oder 32 Cent pro Liter festgelegt worden. Finanzminister Lars Klingbeil stellte zudem klar, dass Light-Produkte von dieser Regelung ausgenommen bleiben."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten der neuen Abgabe",
+     "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Die neue Steuer soll auf gezuckerte Getränke mit einem Gesamtzuckergehalt von mindestens fünf Gramm pro 100 Milliliter erhoben werden. Nach Angaben des Finanzministeriums betrifft dies Limonaden, Eistees, Energydrinks sowie Fruchtsaftgetränke mit Zuckerzusatz. Von der Regelung ausgenommen sind Getränke mit Alkohol sowie alkoholfreie Biere, Weine und Cocktails. Ebenfalls nicht zusätzlich besteuert werden reine Frucht- und Gemüsesäfte, ungesüßte Schorlen sowie Getränke mit Süßungsmitteln, die als Zero-Getränke bezeichnet werden.",
-      "Für die Besteuerung ist ein Zwei-Stufen-Modell vorgesehen, das sich nach dem jeweiligen Zuckeranteil richtet. Je höher der Gehalt an Zucker in einem Getränk ist, desto höher fällt nach Angaben von Tagesschau/ARD auch die Steuerbelastung aus. In einer früheren Fassung des Entwurfs waren noch drei unterschiedliche Stufen geplant gewesen. Unmittelbare Auswirkungen auf die Endpreise für Verbraucher sind laut dem Gesetzentwurf zu erwarten. Die Ausgestaltung zielt darauf ab, dass die Abgabe an die Endkunden weitergegeben wird.",
-      "Für einen Liter Cola könnte der Preis nach Berechnungen im Gesetzentwurf beispielsweise um rund 38 Cent steigen, wobei die Zuckersteuer 32 Cent und darauf entfallende Mehrwertsteuern etwa sechs Cent ausmachen würden. Alternativ können Hersteller den Zuckergehalt ihrer Produkte verringern, um die Steuerlast und damit den Preisanstieg zu senken. Für das Jahr 2028 rechnet die Bundesregierung mit Steuereinnahmen in Höhe von 925 Millionen Euro. Die Einnahmen sollen zur Stabilisierung der Beiträge in der gesetzlichen Krankenversicherung verwendet werden."
+      "Die Einführung der Steuer soll nach dem Entwurf am 1. Juli 2027 stattfinden. Laut ZDFheute plädiert die CSU jedoch für eine Verschiebung des Starttermins auf das Jahr 2028. Landesgruppenchef Alexander Hoffmann begründete dies damit, dass den Unternehmen mehr Zeit zur Umstellung ihrer Rezepturen eingeräumt werden müsse.",
+      "Die Verbraucherschutzorganisation Foodwatch widerspricht dieser Forderung nach Angaben von ZDFheute. Foodwatch-Vertreterin Luise Molling äußerte Verwunderung über die Haltung, da seit einem halben Jahr über das Vorhaben diskutiert werde. Sie hält den Zeitplan bis Mitte 2027 für machbar.",
+      "Die Organisation Foodwatch rechnet infolge der Steuer nicht zwingend mit höheren Endverbraucherpreisen. Nach Angaben von Luise Molling sei in Großbritannien, wo eine ähnliche Regelung seit acht Jahren gilt, zu beobachten gewesen, dass die allermeisten Hersteller den Zuckergehalt deutlich gesenkt hätten. Dadurch seien die Getränke dort kaum teurer geworden."
      ]
     },
     {
-     "ueberschrift": "Ausnahmen und Regelungen für Hersteller",
+     "ueberschrift": "Reaktionen und Positionen",
      "absaetze": [
-      "Für kleine und unabhängige Betriebe sind in dem Gesetzentwurf Ausnahmeregelungen vorgesehen. Die Bundesregierung plant, alle Unternehmen von der Steuer zu befreien, die jährlich bis zu einer Million Liter produzieren. Diese Befreiung muss jedoch von der Europäischen Kommission genehmigt werden. Sollte die EU-Kommission ein Veto einlegen, sind stattdessen Ausnahmen für Betriebe mit einer jährlichen Produktionsmenge von bis zu 70.000 Litern vorgesehen. Damit soll vermieden werden, dass kleinere regionale Produzenten übermäßig belastet werden.",
-      "Die Getränkehersteller erhalten durch die Steuer einen finanziellen Anreiz, den Zuckergehalt in ihren Produkten zu senken. Das Bundesfinanzministerium weist darauf hin, dass die Abgabe zu mehr Gerechtigkeit beiträgt, da diejenigen die Finanzierung des Systems stärker unterstützen, die es durch den Konsum belasten. Das im Juli vom Bundestag verabschiedete GKV-Beitragssatzstabilisierungsgesetz sieht die Einführung dieser Zuckergetränkesteuer vor. Mit dieser Reform der gesetzlichen Krankenversicherung sollen die Ausgaben im Gesundheitssystem gebremst werden.",
-      "Laut einer Studie des Wissenschaftlichen Instituts des Verbands der Privaten Krankenversicherung aus dem Januar könnte eine solche Steuer den Konsum spürbar senken. Dies trage langfristig zur Vorbeugung ernährungsbedingter Erkrankungen bei. Allerdings hängen die direkten gesundheitlichen Effekte stark von der genauen Ausgestaltung ab. Eine Simulationsstudie zeigte laut den Berichten, dass gestaffelte Steuern die stärksten Effekte auf die Gesundheit haben und Verbraucher zu Alternativen anregen."
-     ]
-    },
-    {
-     "ueberschrift": "Zahlen zum Zuckerkonsum und gesundheitliche Folgen",
-     "absaetze": [
-      "Die Weltgesundheitsorganisation empfiehlt, weniger als 50 Gramm sogenannten freien Zucker pro Tag aufzunehmen, idealerweise sogar unter 25 Gramm. Der Begriff freier Zucker umfasst alle Zuckerarten, die Lebensmitteln vom Hersteller oder Verbraucher zugesetzt werden, sowie natürlich in Honig, Sirupen und Fruchtsäften enthaltenen Zucker. In Deutschland wird dieser Richtwert von der Bevölkerung laut Angaben des Max Rubner-Instituts deutlich überschritten. Frauen konsumieren demnach im Schnitt 61 Gramm und Männer 78 Gramm freien Zucker pro Tag.",
-      "Der durchschnittliche jährliche Konsum von Zucker liegt in Deutschland bei mehr als 33 Kilogramm pro Person. Insbesondere zuckerhaltige Getränke gelten als ein wesentlicher Mitverursacher von Erkrankungen wie Adipositas, Typ-2-Diabetes, Herz-Kreislauf-Erkrankungen und Karies. Der Konsum einer einzelnen Portion von 200 Millilitern eines solchen Getränks führt zur Aufnahme von 20 bis 34 Gramm freien Zucker. Um diesen gesundheitlichen Risiken entgegenzuwirken, soll die neue Abgabe als lenkendes Instrument dienen.",
-      "Die Regulierungen sollen dazu führen, dass der überhöhte Konsum im Alltag zurückgeht. Langfristig sollen dadurch auch die durch ernährungsbedingte Krankheiten verursachten Kosten im Gesundheitssystem sinken. Die Bundesregierung betont in ihren Ausführungen die Notwendigkeit dieser Maßnahmen angesichts der aktuellen Verbrauchsdaten. Die politischen Beratungen im Bundestag werden zeigen, ob an den Eckpunkten des Kabinettsbeschlusses noch Änderungen vorgenommen werden."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen aus Politik und Organisationen",
-     "absaetze": [
-      "Die Verbraucherschutzorganisation Foodwatch hat die Einigung der Koalition auf die Getränkesteuer begrüßt. Luise Molling von Foodwatch äußerte im ZDF, sie freue sich über die Umsetzung der Maßnahme. Sie begründete die Notwendigkeit auch mit sozialer Gerechtigkeit, da Kinder aus ärmeren Haushalten häufiger von Adipositas betroffen seien. Die Zuckersteuer helfe dabei, diese soziale Ungleichheit zumindest in Teilen auszugleichen. Das Argument, die Abgabe treffe vor allem ärmere Menschen, wies sie zurück.",
-      "Foodwatch erwartet laut Molling nicht zwingend höhere Endpreise für die Verbraucher. Die Organisation geht vielmehr davon aus, dass die Hersteller ihre Rezepturen anpassen werden, um keine Steuern zahlen zu müssen. Als Beispiel nannte sie Großbritannien, Großbritannien, wo die allermeisten Unternehmen den Zuckergehalt gesenkt hätten und die Getränke kaum teurer geworden seien. Angesichts einer monatelangen Diskussion über das Thema äußerte Molling Skepsis gegenüber Forderungen nach weiteren Verzögerungen.",
-      "Die CSU plädiert hingegen dafür, den Startzeitpunkt der Steuer auf das Jahr 2028 zu verschieben. Landesgruppenchef Alexander Hoffmann begründete dies am Mittwoch damit, den Unternehmen mehr Zeit für die Umstellung ihrer Rezepturen zu geben. Finanzminister Lars Klingbeil stellte im Zuge der Debatte klar, dass Light-Produkte von der Steuer ausgenommen bleiben. Damit reagierte er nach Angaben von ZDFheute auf Kritik an einer möglichen Ausweitung der Abgabe."
+      "Luise Molling von der Verbraucherschutzorganisation Foodwatch begrüßte die Einigung der Koalition. Sie erklärte laut ZDFheute, dass die Steuer gesundheitliche Folgen ausgleichen könne. Kinder aus ärmeren Haushalten seien häufiger von Adipositas betroffen, was mit einem höheren Konsum zuckerhaltiger Getränke zusammenhänge.",
+      "Finanzminister Lars Klingbeil betonte, dass Light-Produkte nicht besteuert werden. Dies geht aus den Berichten von ZDFheute hervor.",
+      "Alexander Hoffmann als CSU-Landesgruppenchef forderte eine Verschiebung des Starttermins auf das Jahr 2028. Dies sei notwendig, um den Unternehmen ausreichend Zeit für die Rezepturanpassung zu geben, so seine Position laut ZDFheute."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Der vom Kabinett beschlossene Gesetzentwurf wird nun in die Bundestagsfraktionen eingebracht. Dort finden die Beratungen zur konkreten Umsetzung im parlamentarischen Verfahren statt. Die Einführung der neuen Abgabe ist nach dem vorliegenden Beschluss für den 1. Juli 2027 vorgesehen. Ob dieser Zeitplan beibehalten wird oder ob es durch die Forderungen der CSU noch zu Anpassungen kommt, bleibt Gegenstand der parlamentarischen Verhandlungen.",
-      "Zudem steht die offizielle Entscheidung der Europäischen Kommission bezüglich der geplanten Befreiung für kleine Hersteller mit einer Produktion von bis zu einer Million Liter aus. Sollte die Europäische Kommission diesen Plänen nicht zustimmen, greift die Ausnahmeregelung nur für Betriebe mit bis zu 70.000 Liter Jahresproduktion. Die Getränkeindustrie muss sich in den kommenden Monaten auf die gesetzlichen Neuregelungen einstellen und entscheiden, ob sie Rezepturen anpasst oder die Steuerlast an die Kunden weitergibt."
+      "Der verabschiedete Gesetzentwurf sieht als offiziellen Termin für die Einführung der Zuckersteuer den 1. Juli 2027 vor. Ob dieser Zeitplan beibehalten oder aufgrund von Forderungen nach einer Verschiebung auf 2028 noch angepasst wird, bleibt im weiteren Verfahren zu klären.",
+      "Getränkehersteller stehen nun vor der Entscheidung, entweder ihre Rezepturen anzupassen oder die entsprechenden Steuersätze von 26 oder 32 Cent pro Liter in Kauf zu nehmen."
      ]
     }
    ],
@@ -3750,326 +4351,175 @@
     {
      "art": "person",
      "suchbegriff": "Lars Klingbeil politician",
-     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil legte den Gesetzentwurf zur Einführung der Zuckersteuer vor."
+     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil stellte den Gesetzentwurf zur Zuckersteuer vor."
     },
     {
      "art": "institution",
-     "suchbegriff": "Bundeskanzleramt Berlin",
-     "bildunterschrift": "Im Bundeskanzleramt und im Bundeskabinett wurde über den Kompromiss zur Getränkesteuer verhandelt."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Reichstag building Berlin",
-     "bildunterschrift": "Im Berliner Regierungsviertel beraten die Fraktionen von Union und SPD über die Umsetzung des Gesetzes."
+     "suchbegriff": "German Federal Cabinet",
+     "bildunterschrift": "Das Bundeskabinett hat den Gesetzentwurf zur Zuckersteuer verabschiedet."
     },
     {
      "art": "symbol",
-     "suchbegriff": "Soft drink glass",
-     "bildunterschrift": "Zuckergesüßte Getränke wie Limonaden sollen künftig je nach Zuckergehalt besteuert werden."
+     "suchbegriff": "",
+     "bildunterschrift": "Zuckerhaltige Getränke wie Limonaden sollen von der neuen Steuer betroffen sein."
     }
    ],
    "ort": {
-    "name": "Berlin, Deutschland"
+    "name": "Deutschland"
    },
    "geprueft": true,
    "korrekturen": [
-    "Quellenangaben bei Aussagen von Politikern und Verbänden präzisiert und fehlende Belege in einig-Abschnitten angepasst."
+    "Nicht belegte Daten im Artikel und in der Zeitleiste (wie konkrete Oktobersdaten aus externem Wissen) wurden entfernt."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Zuckersteuer",
-      "Eine Steuer auf Getränke mit viel Zucker, die den Konsum senken und das Gesundheitssystem unterstützen soll."
-     ],
-     [
-      "Freier Zucker",
-      "Zuckerarten, die Lebensmitteln zugesetzt werden, sowie natürlich in Säften oder Honig enthaltene Zucker."
+      "Eine Steuer auf Getränke mit viel Zucker, damit Hersteller den Zuckergehalt senken."
      ],
      [
       "Adipositas",
-      "Der medizinische Begriff für starkes Übergewicht, das durch ungesunde Ernährung und zu viel Zucker gefördert werden kann."
+      "Der medizinische Begriff für starkes Übergewicht."
+     ],
+     [
+      "Gesetzentwurf",
+      "Ein offizieller Vorschlag für ein neues Gesetz, über den Politiker abstimmen."
      ]
     ],
     "fragen": [
-     "Welche Argumente nennen Befürworter und Gegner der neuen Zuckersteuer?",
-     "Warum soll die Steuer laut Finanzministerium zu mehr Gerechtigkeit beitragen?"
+     "Welche Vor- und Nachteile hat eine Zuckersteuer aus Sicht von Befürwortern und Kritikern?",
+     "Warum fordern manche Politiker eine Verschiebung des Starttermins?"
     ],
     "quiz": [
      {
-      "frage": "Wann soll die neue Zuckersteuer nach dem Regierungsbeschluss starten?",
+      "frage": "Wann soll die Zuckersteuer laut dem Entwurf des Kabinetts eingeführt werden?",
       "optionen": [
-       "1. Juli 2026",
        "1. Juli 2027",
-       "1. Januar 2028"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau und ZDFheute ist der Start der Steuer für den 1. Juli 2027 geplant."
-     },
-     {
-      "frage": "Welche Getränke sind von der neuen Steuer ausgenommen?",
-      "optionen": [
-       "Limonaden mit Zuckerzusatz",
-       "Energydrinks",
-       "Alkoholische Getränke und Zero-Getränke"
-      ],
-      "richtig": 2,
-      "erklaerung": "Getränke mit Alkohol sowie Getränke mit Süßungsmitteln (Zero-Getränke) sind laut den Berichten von der Besteuerung ausgenommen."
-     },
-     {
-      "frage": "Wer fordert eine Verschiebung des Starttermins auf das Jahr 2028?",
-      "optionen": [
-       "Die CSU",
-       "Die Weltgesundheitsorganisation",
-       "Die Organisation Foodwatch"
+       "1. Januar 2028",
+       "1. Juli 2028"
       ],
       "richtig": 0,
-      "erklaerung": "Die CSU plädiert laut ZDFheute dafür, den Start auf das Jahr 2028 zu verschieben, um den Unternehmen mehr Zeit zu geben."
+      "erklaerung": "Der Gesetzentwurf sieht den 1. Juli 2027 als offiziellen Termin vor."
+     },
+     {
+      "frage": "Welche Getränke sind von der geplanten Steuer betroffen?",
+      "optionen": [
+       "Nur Wasser",
+       "Zuckerhaltige Getränke wie Limonaden und Energydrinks",
+       "Nur Light-Produkte"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Steuer richtet sich laut den Berichten gegen zuckerhaltige Getränke wie Limo, Eistees oder Energydrinks."
+     },
+     {
+      "frage": "Wie hoch soll der Steuersatz pro Liter nach den Berichten sein?",
+      "optionen": [
+       "10 oder 15 Cent",
+       "26 oder 32 Cent",
+       "50 oder 60 Cent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Berichte nennen Steuersätze von 26 oder 32 Cent pro Liter."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Das Bundeskabinett hat beschlossen, dass zuckerhaltige Getränke in Zukunft besteuert werden sollen.",
+    "vorspann": "Das Bundeskabinett hat eine neue Steuer für zuckerhaltige Getränke beschlossen.",
     "absaetze": [
-     "Die neue Steuer soll ab dem ersten Juli zweitausendsiebenundzwanzig gelten. Sie betrifft Getränke mit viel Zucker wie Limonaden oder Eistees. Getränke mit Alkohol oder künstlichen Süßungsmitteln bleiben ausgenommen. Kleine Hersteller mit einer Produktion bis zu einer Million Liter sollen keine Steuer zahlen, wenn die Europäische Kommission zustimmt. Die Bundesregierung erhofft sich davon Einnahmen für den Staat und gesündere Verbraucher. Verbraucherschützer begrüßen die Pläne, während die Partei Christlich-Soziale Union den Start auf das Jahr zweitausendachtundzwanzig verschieben möchte."
+     "Ab dem ersten Juli 2027 sollen Limo, Eistees und Energydrinks besteuert werden.",
+     "Die Steuer beträgt je nach Zuckergehalt 26 oder 32 Cent pro Liter.",
+     "Die Organisation Foodwatch begrüßt die Entscheidung und hofft auf gesündere Rezepturen.",
+     "Die CSU fordert dagegen, den Starttermin auf das Jahr 2028 zu verschieben.",
+     "Finanzminister Lars Klingbeil erklärte, dass Light-Produkte keine Steuer erhalten."
     ]
    },
    "video": {
     "kurz": [
-     "Das Bundeskabinett hat einen Gesetzentwurf für eine Zuckersteuer beschlossen. Die Abgabe soll am ersten Juli zweitausendsiebenundzwanzig starten. Ziel ist es nach Angaben der Regierung, das Gesundheitssystem zu entlasten."
+     "Das Bundeskabinett hat einen Gesetzentwurf zur Zuckersteuer verabschiedet.",
+     "Getränke mit viel Zucker sollen ab Juli 2027 besteuert werden.",
+     "Die CSU fordert eine Verschiebung auf das Jahr 2028."
     ],
     "lang": [
-     "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Steuer auf zuckergesüßte Getränke beschlossen. Dies gaben die Medien Tagesschau und ZDFheute am vierzehnten Oktober zweitausendsechsundzwanzig bekannt. Die neue Abgabe soll nach dem Beschluss am ersten Juli zweitausendsiebenundzwanzig in Kraft treten. Betroffen sind Getränke mit einem Zuckergehalt von mindestens fünf Gramm pro hundert Milliliter. Das Finanzministerium rechnet im Jahr zweitausendsiebenundzwanzig mit Einnahmen in Höhe von sechshundertneunzig Millionen Euro. Die Einnahmen sollen dazu dienen, die Beiträge in der gesetzlichen Krankenversicherung zu stabilisieren. Die Verbraucherschutzorganisation Foodwatch begrüßte die Entscheidung und sprach von einem wichtigen Schritt für die soziale Gerechtigkeit. Die Christlich-Soziale Union fordert dagegen eine Verschiebung des Starts auf das Jahr zweitausendachtundzwanzig. Kleine Unternehmen mit einer Produktion von bis zu einer Million Liter sollen von der Abgabe befreit werden, sofern die Europäische Kommission zustimmt. Die Beratungen im Bundestag werden zeigen, ob der Zeitplan beibehalten wird."
+     "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer verabschiedet.",
+     "Das geht aus Berichten von ZDFheute und Tagesschau hervor.",
+     "Die Steuer gilt für zuckerhaltige Getränke wie Limonaden und Energydrinks.",
+     "Dabei sind Steuersätze von 26 oder 32 Cent pro Liter vorgesehen.",
+     "Der Entwurf nennt als Starttermin den ersten Juli 2027.",
+     "Finanzminister Lars Klingbeil erklärte, dass Light-Produkte von der Steuer ausgenommen bleiben.",
+     "Die Organisation Foodwatch begrüßt die Pläne und hält den Termin für machbar.",
+     "Die CSU fordert dagegen eine Verschiebung des Starts auf das Jahr 2028.",
+     "Ziel der Steuer ist es laut Foodwatch, den Zuckergehalt in Getränken zu senken.",
+     "Ob der Zeitplan eingehalten wird, entscheidet sich im weiteren Verfahren."
     ],
     "einfach": [
-     "Das Bundeskabinett hat eine neue Steuer auf zuckerhaltige Getränke beschlossen. Die Abgabe soll im Juli zweitausendsiebenundzwanzig starten. Damit soll das Gesundheitssystem unterstützt werden. Verbraucherschützer finden die Pläne gut. Die Christlich-Soziale Union möchte den Start dagegen verschieben."
+     "Das Bundeskabinett hat eine Steuer für zuckerhaltige Getränke beschlossen.",
+     "Limo und Energydrinks sollen ab Juli 2027 teurer werden.",
+     "Die Steuer soll 26 oder 32 Cent pro Liter kosten.",
+     "Die Verbraucherorganisation Foodwatch findet die Steuer gut.",
+     "Die Partei CSU möchte den Start auf 2028 verschieben."
     ]
    },
    "kurz": [
     "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer beschlossen.",
-    "Die Steuer soll am 1. Juli 2027 in Kraft treten und zwei Stufen umfassen.",
-    "Das Finanzministerium erwartet dadurch Einnahmen und eine Entlastung des Gesundheitssystems.",
-    "Die CSU fordert eine Verschiebung des Starts auf das Jahr 2028."
+    "Die Steuer soll ab Juli 2027 für zuckerhaltige Getränke wie Limo oder Energydrinks gelten.",
+    "Die CSU fordert eine Verschiebung auf das Jahr 2028, während Foodwatch die Pläne begrüßt."
    ],
    "fakten": [
     [
-     "Starttermin der Steuer",
+     "Steuersatz pro Liter",
+     "26 oder 32 Cent"
+    ],
+    [
+     "Geplanter Start",
      "1. Juli 2027"
     ],
     [
-     "Geplante Steuereinnahmen 2027",
-     "690 Millionen Euro"
-    ],
-    [
-     "Geplante Steuereinnahmen 2028",
-     "925 Millionen Euro"
-    ],
-    [
-     "Zucker-Grenzwert für Steuer",
-     "5 Gramm pro 100 Milliliter"
-    ],
-    [
-     "Täglicher Zuckerkonsum Frauen",
-     "61 Gramm"
-    ],
-    [
-     "Täglicher Zuckerkonsum Männer",
-     "78 Gramm"
+     "Dauer der Regelung in Großbritannien",
+     "acht Jahre"
     ]
    ],
    "dossier": {
-    "slug": "einfuehrung-zuckersteuer-deutschland",
+    "slug": "zuckersteuer-getraenke",
     "titel": "Einführung einer Zuckersteuer in Deutschland"
    },
    "bildInfo": {
-    "titel": "07.08.21.Bundeskanzleramt.jpg",
-    "beschreibung": "German Chancellery in Berlin-Mitte",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1280px-07.08.21.Bundeskanzleramt.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/07.08.21.Bundeskanzleramt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:07.08.21.Bundeskanzleramt.jpg",
-    "urheber": "Martin Künzel, Berlin",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "artikel": "Bundeskanzleramt (Berlin)",
-    "sprache": "de",
+    "titel": "-Bundesarchiv B 145 Bild-P090947, Bonn, Sitzung des Bundeskabinetts-2.jpg",
+    "beschreibung": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . 1965 Sitzung des Bundeskabinetts",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/-Bundesarchiv_B_145_Bild-P090947%2C_Bonn%2C_Sitzung_des_Bundeskabinetts-2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/-Bundesarchiv_B_145_Bild-P090947%2C_Bonn%2C_Sitzung_des_Bundeskabinetts-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg",
+    "urheber": "Unknown author Unknown author",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
     "art": "institution",
-    "suchbegriff": "Bundeskanzleramt Berlin",
-    "bildunterschrift": "Das Bundeskanzleramt in Berlin, in dem das Bundeskabinett tagt.",
+    "suchbegriff": "German Federal Cabinet",
+    "bildunterschrift": "Das Bundesarchiv-Foto zeigt eine Sitzung des Bundeskabinetts, das den Gesetzentwurf zur Zuckersteuer verabschiedet hat.",
     "hinweis": "Archivfoto"
    },
    "bildInfos": [
     {
-     "titel": "07.08.21.Bundeskanzleramt.jpg",
-     "beschreibung": "German Chancellery in Berlin-Mitte",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/07.08.21.Bundeskanzleramt.jpg/1280px-07.08.21.Bundeskanzleramt.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7f/07.08.21.Bundeskanzleramt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:07.08.21.Bundeskanzleramt.jpg",
-     "urheber": "Martin Künzel, Berlin",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "artikel": "Bundeskanzleramt (Berlin)",
-     "sprache": "de",
+     "titel": "-Bundesarchiv B 145 Bild-P090947, Bonn, Sitzung des Bundeskabinetts-2.jpg",
+     "beschreibung": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . 1965 Sitzung des Bundeskabinetts",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/-Bundesarchiv_B_145_Bild-P090947%2C_Bonn%2C_Sitzung_des_Bundeskabinetts-2.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/-Bundesarchiv_B_145_Bild-P090947%2C_Bonn%2C_Sitzung_des_Bundeskabinetts-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:-Bundesarchiv_B_145_Bild-P090947,_Bonn,_Sitzung_des_Bundeskabinetts-2.jpg",
+     "urheber": "Unknown author Unknown author",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
      "art": "institution",
-     "suchbegriff": "Bundeskanzleramt Berlin",
-     "bildunterschrift": "Das Bundeskanzleramt in Berlin, in dem das Bundeskabinett tagt.",
+     "suchbegriff": "German Federal Cabinet",
+     "bildunterschrift": "Das Bundesarchiv-Foto zeigt eine Sitzung des Bundeskabinetts, das den Gesetzentwurf zur Zuckersteuer verabschiedet hat.",
      "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Photograph of orange soft drink served within a glass in India, taken by Yogabrata Chakraborty, on August 18, 2023.jpg",
-     "beschreibung": "Photograph of orange soft drink served within a glass in India, taken by Yogabrata Chakraborty, on August 18, 2023.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Photograph_of_orange_soft_drink_served_within_a_glass_in_India%2C_taken_by_Yogabrata_Chakraborty%2C_on_August_18%2C_2023.jpg/1280px-Photograph_of_orange_soft_drink_served_within_a_glass_in_India%2C_taken_by_Yogabrata_Chakraborty%2C_on_August_18%2C_2023.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Photograph_of_orange_soft_drink_served_within_a_glass_in_India%2C_taken_by_Yogabrata_Chakraborty%2C_on_August_18%2C_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Photograph_of_orange_soft_drink_served_within_a_glass_in_India,_taken_by_Yogabrata_Chakraborty,_on_August_18,_2023.jpg",
-     "urheber": "Billjones94",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "suchbegriff": "Soft drink glass",
-     "bildunterschrift": "Ein Glas mit einem zuckergesüßten Erfrischungsgetränk, das von der geplanten Steuer betroffen sein soll.",
-     "hinweis": "Symbolbild"
     }
    ],
    "ortInfo": {
-    "name": "Berlin, Deutschland",
-    "lat": 52.517,
-    "lon": 13.395
+    "name": "Deutschland",
+    "lat": 51.164,
+    "lon": 10.448
    },
    "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Steuer auf zucke",
-     "d": "ef61f152b9.mp3",
-     "l": 62.09,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Das Bundeskabinett hat einen Gesetzentwurf für eine Zuckersteuer beschlossen. Di",
-     "d": "52daf9f9b5.mp3",
-     "l": 12.12,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Das Bundeskabinett hat eine neue Steuer auf zuckerhaltige Getränke beschlossen. ",
-     "d": "736e1e76e5.mp3",
-     "l": 21.49,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Ob der Starttermin am 1. Juli 2027 beibehalten wird oder durch die CSU-Forderung",
-     "d": "f8170f5934.mp3",
-     "l": 10.41,
-     "s": [
-      0.25,
-      2.19
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Zuckersteuer? Eine Steuer auf Getränke mit viel Zucker, ",
-     "d": "f8f19aa34b.mp3",
-     "l": 10.8,
-     "s": [
-      0.25,
-      3.26
-     ]
-    },
-    {
-     "k": "Das Bundeskabinett hat einen Regelungsvorschlag zur Einführung einer Steuer auf ",
-     "d": "813aaf2494.mp3",
-     "l": 46.01,
-     "s": [
-      0.25,
-      6.65,
-      13.6,
-      15.68,
-      22.82,
-      28.13,
-      35.12,
-      39.45
-     ]
-    },
-    {
-     "k": "Die neue Steuer soll auf gezuckerte Getränke mit einem Gesamtzuckergehalt von mi",
-     "d": "961c01d4e8.mp3",
-     "l": 55.74,
-     "s": [
-      0.25,
-      7.88,
-      15.59,
-      21.56,
-      31.16,
-      36.98,
-      44.64,
-      49.88
-     ]
-    },
-    {
-     "k": "Für kleine und unabhängige Betriebe sind in dem Gesetzentwurf Ausnahmeregelungen",
-     "d": "8bffa7b50e.mp3",
-     "l": 49.79,
-     "s": [
-      0.25,
-      5.94,
-      12.69,
-      16.96,
-      25.13,
-      27.49,
-      32.66,
-      39.54
-     ]
-    },
-    {
-     "k": "Die Weltgesundheitsorganisation empfiehlt, weniger als 50 Gramm sogenannten frei",
-     "d": "ff49dcca82.mp3",
-     "l": 64.62,
-     "s": [
-      0.25,
-      9.29,
-      19.63,
-      26.13,
-      32.96,
-      39.78,
-      49.45,
-      58.51
-     ]
-    },
-    {
-     "k": "Die Verbraucherschutzorganisation Foodwatch hat die Einigung der Koalition auf d",
-     "d": "393fda3523.mp3",
-     "l": 50.9,
-     "s": [
-      0.25,
-      6.0,
-      11.65,
-      19.71,
-      25.34,
-      29.74,
-      34.47,
-      41.41
-     ]
-    },
-    {
-     "k": "Der vom Kabinett beschlossene Gesetzentwurf wird nun in die Bundestagsfraktionen",
-     "d": "6f55c1aebb.mp3",
-     "l": 48.02,
-     "s": [
-      0.25,
-      5.55,
-      10.72,
-      15.5,
-      18.58,
-      27.48,
-      37.34,
-      45.32
-     ]
-    }
-   ]
+   "bildVersucht": true
   },
   {
    "id": "nord-stream-prozess-beginn",
@@ -4438,38 +4888,20 @@
     "titel": "Prozess nach Anschlägen auf Nord-Stream-Pipelines"
    },
    "bildInfo": {
-    "titel": "Hanseatisches Oberlandesgericht, Hamburg, Deutschland, IMG 7514 edit.jpg",
-    "beschreibung": "Hanseatisches Oberlandesgericht, Südostseite.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg/1280px-Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Hanseatisches_Oberlandesgericht,_Hamburg,_Deutschland,_IMG_7514_edit.jpg",
-    "urheber": "Christoph Braun",
-    "lizenz": "CC0",
-    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "artikel": "Hanseatisches Oberlandesgericht",
-    "sprache": "de",
-    "art": "ort",
-    "suchbegriff": "Hanseatisches Oberlandesgericht",
-    "bildunterschrift": "Das Hanseatische Oberlandesgericht in Hamburg, an dem der Prozess stattfindet.",
-    "hinweis": "Archivfoto"
+    "titel": "Cloud cumulonimbus at baltic sea(1).jpg",
+    "beschreibung": "Cumulonimbus cloud at the Baltic Sea near island of Öland , Sweden .",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg/1280px-Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg",
+    "urheber": "Arnold Paul",
+    "lizenz": "CC BY-SA 2.5",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "art": "symbol",
+    "suchbegriff": "Baltic Sea",
+    "bildunterschrift": "Eine Cumulonimbus-Wolke über der Ostsee, dem Gebiet der Gaspipelines.",
+    "hinweis": "Symbolbild"
    },
    "bildInfos": [
-    {
-     "titel": "Hanseatisches Oberlandesgericht, Hamburg, Deutschland, IMG 7514 edit.jpg",
-     "beschreibung": "Hanseatisches Oberlandesgericht, Südostseite.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg/1280px-Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hanseatisches_Oberlandesgericht%2C_Hamburg%2C_Deutschland%2C_IMG_7514_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Hanseatisches_Oberlandesgericht,_Hamburg,_Deutschland,_IMG_7514_edit.jpg",
-     "urheber": "Christoph Braun",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "artikel": "Hanseatisches Oberlandesgericht",
-     "sprache": "de",
-     "art": "ort",
-     "suchbegriff": "Hanseatisches Oberlandesgericht",
-     "bildunterschrift": "Das Hanseatische Oberlandesgericht in Hamburg, an dem der Prozess stattfindet.",
-     "hinweis": "Archivfoto"
-    },
     {
      "titel": "Cloud cumulonimbus at baltic sea(1).jpg",
      "beschreibung": "Cumulonimbus cloud at the Baltic Sea near island of Öland , Sweden .",
