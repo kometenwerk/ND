@@ -2270,7 +2270,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 16 und 21 Grad. Die Vorhersage für morgen,",
+   "d": "ef0e6dbfad.mp3",
+   "l": 18.59,
+   "s": [
+    0.25,
+    4.39,
+    8.53,
+    12.67,
+    16.01
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2836,7 +2848,141 @@
     "lon": 10.001
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Das Hanseatische Oberlandesgericht hat am Donnerstag zwei Männer zu mehrjährigen",
+     "d": "1ae104c73b.mp3",
+     "l": 55.52,
+     "s": [
+      0.25,
+      6.85,
+      12.3,
+      19.1,
+      26.36,
+      32.34,
+      36.67,
+      42.72,
+      49.24
+     ]
+    },
+    {
+     "k": "Das Oberlandesgericht Hamburg verurteilte zwei Männer zu mehrjährigen Haftstrafe",
+     "d": "fe5a99c475.mp3",
+     "l": 16.78,
+     "s": [
+      0.25,
+      5.14,
+      9.29,
+      12.95
+     ]
+    },
+    {
+     "k": "Ein Gericht in Hamburg verurteilte zwei Männer zu Haftstrafen. Sie planten Ansch",
+     "d": "ab3b4b6100.mp3",
+     "l": 22.06,
+     "s": [
+      0.25,
+      4.66,
+      8.18,
+      12.45,
+      18.73
+     ]
+    },
+    {
+     "k": "Ob die Verurteilten Rechtsmittel gegen das Urteil einlegen werden, ist noch nich",
+     "d": "1d17e49ee2.mp3",
+     "l": 5.61,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Antisemitismus? Feindlichkeit oder Hass gegenüber jüdisc",
+     "d": "926a751d97.mp3",
+     "l": 7.73,
+     "s": [
+      0.25,
+      3.77
+     ]
+    },
+    {
+     "k": "Das Hanseatische Oberlandesgericht in Hamburg hat zwei Männer wegen der Vorberei",
+     "d": "7e199d6fb4.mp3",
+     "l": 46.35,
+     "s": [
+      0.25,
+      8.11,
+      14.22,
+      19.16,
+      23.13,
+      24.52,
+      31.79,
+      42.2
+     ]
+    },
+    {
+     "k": "Laut Tagesschau/ARD und ZDFheute reiste der Hauptangeklagte Ali S. , ein in Däne",
+     "d": "dcb7027ab4.mp3",
+     "l": 55.3,
+     "s": [
+      0.25,
+      5.71,
+      12.23,
+      21.31,
+      25.31,
+      31.01,
+      42.84,
+      51.38
+     ]
+    },
+    {
+     "k": "Die Festnahmen der Verdächtigen erfolgten im Jahr 2025 nach Hinweisen von Geheim",
+     "d": "ef144afac9.mp3",
+     "l": 38.57,
+     "s": [
+      0.25,
+      6.67,
+      7.7,
+      9.8,
+      15.1,
+      17.46,
+      23.94,
+      31.43
+     ]
+    },
+    {
+     "k": "Das Hanseatische Oberlandesgericht ist ein deutsches Gericht der obergerichtlich",
+     "d": "3c9032fe74.mp3",
+     "l": 16.69,
+     "s": [
+      0.25,
+      10.4
+     ]
+    },
+    {
+     "k": "Volker Beck verfolgte den Prozess als Zuschauer unter Personenschutz. Er erklärt",
+     "d": "a102cb28ab.mp3",
+     "l": 40.28,
+     "s": [
+      0.25,
+      4.31,
+      12.08,
+      21.06,
+      25.74,
+      32.62
+     ]
+    },
+    {
+     "k": "Das Urteil des Hanseatischen Oberlandesgerichts ist nach Angaben von ZDFheute no",
+     "d": "e1ed25709c.mp3",
+     "l": 11.72,
+     "s": [
+      0.25,
+      6.55
+     ]
+    }
+   ]
   },
   {
    "id": "eu-haushalt-streit-merz",
@@ -3207,7 +3353,145 @@
     "lon": 4.352
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Die Staats- und Regierungschefs der Europäischen Union beraten auf einem Gipfel ",
+     "d": "6a37bbbb6d.mp3",
+     "l": 64.46,
+     "s": [
+      0.25,
+      7.05,
+      14.18,
+      22.33,
+      30.19,
+      37.84,
+      44.13,
+      52.96,
+      60.03
+     ]
+    },
+    {
+     "k": "Die Staats- und Regierungschefs der Europäischen Union beraten in Brüssel über d",
+     "d": "ab0bcb0ed8.mp3",
+     "l": 16.59,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "In Brüssel sprechen die Politiker der Europäischen Union über den Haushalt. Es g",
+     "d": "1f3cf95997.mp3",
+     "l": 25.39,
+     "s": [
+      0.25,
+      5.93,
+      12.72,
+      18.21,
+      21.55
+     ]
+    },
+    {
+     "k": "Ob bis Ende des Jahres ein Kompromiss zum EU-Haushalt gefunden werden kann, ist ",
+     "d": "b715156a03.mp3",
+     "l": 7.08,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Mehrjähriger Finanzrahmen? Das ist der langfristige Haus",
+     "d": "b87c99fc7d.mp3",
+     "l": 12.88,
+     "s": [
+      0.25,
+      4.09
+     ]
+    },
+    {
+     "k": "Auf dem EU-Gipfel in Brüssel beraten die Staats- und Regierungschefs über den me",
+     "d": "bab5276797.mp3",
+     "l": 60.49,
+     "s": [
+      0.25,
+      10.06,
+      17.74,
+      24.07,
+      32.2,
+      38.23,
+      44.35,
+      53.74
+     ]
+    },
+    {
+     "k": "Die EU-Kommission hat in ihrem Entwurf eine Summe von rund 1,8 Billionen Euro la",
+     "d": "19c529feff.mp3",
+     "l": 68.79,
+     "s": [
+      0.25,
+      16.86,
+      23.13,
+      33.48,
+      40.0,
+      50.24,
+      57.94,
+      62.53
+     ]
+    },
+    {
+     "k": "Die Europäische Union stellt alle sieben Jahre einen gemeinsamen Haushalt auf, d",
+     "d": "a674c0569c.mp3",
+     "l": 57.56,
+     "s": [
+      0.25,
+      7.79,
+      17.82,
+      25.22,
+      28.78,
+      39.02,
+      44.77,
+      49.39
+     ]
+    },
+    {
+     "k": "Der mehrjährige Finanzrahmen legt die Obergrenzen für die Ausgaben der Europäisc",
+     "d": "cada96afe3.mp3",
+     "l": 37.41,
+     "s": [
+      0.25,
+      6.88,
+      10.86,
+      16.61,
+      21.57,
+      30.22
+     ]
+    },
+    {
+     "k": "Bundeskanzler Friedrich Merz erklärte vorab laut Tagesschau/ARD und ZDFheute, da",
+     "d": "ef2d06d679.mp3",
+     "l": 66.12,
+     "s": [
+      0.25,
+      12.21,
+      21.27,
+      28.66,
+      33.07,
+      44.49,
+      51.24,
+      58.39
+     ]
+    },
+    {
+     "k": "Die Staats- und Regierungschefs setzen ihre Beratungen auf dem zweitägigen EU-Gi",
+     "d": "121b60d1d7.mp3",
+     "l": 20.35,
+     "s": [
+      0.25,
+      6.14,
+      14.0
+     ]
+    }
+   ]
   },
   {
    "id": "einziger-neues-thema-2",
@@ -3622,7 +3906,132 @@
     "lat": 41.893,
     "lon": 12.483
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Papst Leo XIV. wurde nach einer Lungenkrebs-Operation erfolgreich behandelt. Dem",
+     "d": "4595c22f21.mp3",
+     "l": 13.52,
+     "s": [
+      0.25,
+      5.24,
+      9.22
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. wurde an der Lunge operiert. Bei ihm wurde Lungenkrebs in einem f",
+     "d": "8b635b7fb1.mp3",
+     "l": 21.01,
+     "s": [
+      0.25,
+      4.69,
+      9.15,
+      13.13,
+      17.63
+     ]
+    },
+    {
+     "k": "Was aus den für November geplanten Reisen des Papstes in mehrere Länder Südameri",
+     "d": "7805ef0f15.mp3",
+     "l": 8.33,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Lungenadenokarzinom? Ein bösartiger Tumor, der direkt in",
+     "d": "63d0966ea7.mp3",
+     "l": 8.34,
+     "s": [
+      0.25,
+      3.96
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. hat nach einer Operation wegen Lungenkrebs seine Arbeit im Kranke",
+     "d": "80267c6796.mp3",
+     "l": 31.94,
+     "s": [
+      0.25,
+      2.16,
+      6.99,
+      10.67,
+      12.62,
+      15.65,
+      22.17,
+      24.96
+     ]
+    },
+    {
+     "k": "Während am Mittwoch zunächst nur von Physiotherapie für die Atmung die Rede war,",
+     "d": "578a6f2ada.mp3",
+     "l": 52.44,
+     "s": [
+      0.25,
+      9.27,
+      13.91,
+      15.74,
+      19.36,
+      27.68,
+      39.38,
+      48.11
+     ]
+    },
+    {
+     "k": "Ich glaube, er wird, soweit er es kann, gleich wieder loslegen wollen, sagte die",
+     "d": "93606aad7d.mp3",
+     "l": 44.08,
+     "s": [
+      0.25,
+      12.75,
+      14.76,
+      17.54,
+      19.59,
+      24.78,
+      27.08,
+      36.43
+     ]
+    },
+    {
+     "k": "Ein Lungenadenokarzinom ist ein primär in der Lunge entstandener Tumor. Lungenkr",
+     "d": "adebf020c7.mp3",
+     "l": 20.23,
+     "s": [
+      0.25,
+      4.6,
+      11.63,
+      14.63
+     ]
+    },
+    {
+     "k": "Der Leiter der Thoraxchirurgie am Europäischen Institut für Onkologie in Mailand",
+     "d": "c2c0318618.mp3",
+     "l": 50.56,
+     "s": [
+      0.25,
+      12.5,
+      18.57,
+      25.26,
+      28.97,
+      38.34,
+      43.85
+     ]
+    },
+    {
+     "k": "Bis zum 20. Oktober hat Leo XIV. alle Audienzen abgesagt. Was aus seinen für Nov",
+     "d": "735e356f9b.mp3",
+     "l": 30.58,
+     "s": [
+      0.25,
+      1.74,
+      3.91,
+      5.95,
+      12.38,
+      19.32,
+      25.51
+     ]
+    }
+   ]
   },
   {
    "id": "sachsen-anhalt-ukraine-hilfen",
@@ -4519,7 +4928,104 @@
     "lon": 10.448
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Zuckersteuer verabschiedet. Geträ",
+     "d": "00a123fb6c.mp3",
+     "l": 14.07,
+     "s": [
+      0.25,
+      4.42,
+      9.39
+     ]
+    },
+    {
+     "k": "Das Bundeskabinett hat eine Steuer für zuckerhaltige Getränke beschlossen. Limo ",
+     "d": "86f07a331c.mp3",
+     "l": 26.5,
+     "s": [
+      0.25,
+      5.45,
+      11.11,
+      16.54,
+      21.02
+     ]
+    },
+    {
+     "k": "Ob die Einführung tatsächlich zum 1. Juli 2027 stattfindet oder von der CSU auf ",
+     "d": "d0feddea7b.mp3",
+     "l": 11.27,
+     "s": [
+      0.25,
+      2.99
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Zuckersteuer? Eine Steuer auf Getränke mit viel Zucker, ",
+     "d": "50a90308b5.mp3",
+     "l": 9.15,
+     "s": [
+      0.25,
+      3.37
+     ]
+    },
+    {
+     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer ver",
+     "d": "6de7b5dcbf.mp3",
+     "l": 41.01,
+     "s": [
+      0.25,
+      5.27,
+      10.03,
+      13.72,
+      17.04,
+      23.11,
+      28.77,
+      34.65
+     ]
+    },
+    {
+     "k": "Die Einführung der Steuer soll nach dem Entwurf am 1. Juli 2027 stattfinden. Lau",
+     "d": "5ee3d9770f.mp3",
+     "l": 46.62,
+     "s": [
+      0.25,
+      3.59,
+      6.69,
+      14.38,
+      22.31,
+      28.41,
+      35.98,
+      40.63
+     ]
+    },
+    {
+     "k": "Luise Molling von der Verbraucherschutzorganisation Foodwatch begrüßte die Einig",
+     "d": "e8ef9c6d1c.mp3",
+     "l": 42.34,
+     "s": [
+      0.25,
+      6.08,
+      11.51,
+      19.03,
+      23.73,
+      26.9,
+      34.55
+     ]
+    },
+    {
+     "k": "Der verabschiedete Gesetzentwurf sieht als offiziellen Termin für die Einführung",
+     "d": "ea5a4d5a85.mp3",
+     "l": 30.1,
+     "s": [
+      0.25,
+      6.49,
+      9.21,
+      19.02
+     ]
+    }
+   ]
   },
   {
    "id": "nord-stream-prozess-beginn",
@@ -6007,6 +6513,42 @@
       41.31,
       48.15,
       49.91
+     ]
+    },
+    {
+     "k": "Der offizielle Zuschlag bedeutet noch nicht den sofortigen Abschluss des Eigentü",
+     "d": "20d09d87b3.mp3",
+     "l": 66.78,
+     "s": [
+      0.25,
+      5.71,
+      12.18,
+      18.33,
+      30.15,
+      38.15,
+      44.88,
+      54.06
+     ]
+    },
+    {
+     "k": "Die portugiesische Regierung hatte die Fluggesellschaft TAP im Jahr 2020 während",
+     "d": "9c5bb302d9.mp3",
+     "l": 32.4,
+     "s": [
+      0.25,
+      11.0,
+      21.76
+     ]
+    },
+    {
+     "k": "In den Berichten von Tagesschau/ARD und ZDFheute werden neben dem Verkauf von TA",
+     "d": "34bfdab292.mp3",
+     "l": 41.98,
+     "s": [
+      0.25,
+      9.67,
+      18.47,
+      28.27
      ]
     }
    ]
