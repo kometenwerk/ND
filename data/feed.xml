@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 16 Oct 2026 07:05:19 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 12:23:40 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-16</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schüsse an Grundschule in Oregon: Fünf Tote nach Schusswaffenangriff · Bundestag beschließt stufenweise Erhöhung der Tabaksteuer · Bundestag entscheidet über die Einführung der Frühstartrente für Kinder · Deutschland und Frankreich verhandeln über Aufweichung der EU-Vorgaben für Verbrennungsmotoren · Gericht in Hamburg verurteilt mutmaßliche Spione zu Haftstrafen</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schüsse an Grundschule in Oregon: Fünf Tote nach Schusswaffenangriff · Bundestag beschließt stufenweise Erhöhung der Tabaksteuer · Bundestag entscheidet über die Einführung der Frühstartrente für Kinder · Deutschland und Frankreich verhandeln über Aufweichung der EU-Vorgaben für Verbrennungsmotoren · Gericht in Hamburg verurteilt mutmaßliche Spione zu Haftstrafen</itunes:summary>
+    <pubDate>Fri, 16 Oct 2026 07:05:19 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-16</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-16.mp3" length="3891405" type="audio/mpeg"/>
+    <itunes:duration>00:10:49</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Wirtschaftspreis in Stockholm geht an Hall und Woodford</title>
     <description>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</description>
@@ -45,17 +56,6 @@
     <guid isPermaLink="false">wissen-wie-entstehen-eigentlich-ebbe-und-flut</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/36ec91fb92.mp3" length="204141" type="audio/mpeg"/>
     <itunes:duration>00:00:34</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-15</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gesundheitszustand von Papst Leo XIV. nach Lungenkrebs-Operation · Landtag von Sachsen-Anhalt beschließt Antrag zu Ukraine-Hilfen · Bundeskabinett beschließt Gesetzentwurf zur Einführung einer Zuckersteuer · Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Sondierungsgespräche in Berlin nach Unterbrechung</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gesundheitszustand von Papst Leo XIV. nach Lungenkrebs-Operation · Landtag von Sachsen-Anhalt beschließt Antrag zu Ukraine-Hilfen · Bundeskabinett beschließt Gesetzentwurf zur Einführung einer Zuckersteuer · Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg · Sondierungsgespräche in Berlin nach Unterbrechung</itunes:summary>
-    <pubDate>Thu, 15 Oct 2026 13:21:43 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-15</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-15.mp3" length="4014525" type="audio/mpeg"/>
-    <itunes:duration>00:11:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
