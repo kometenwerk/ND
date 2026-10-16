@@ -1,6 +1,202 @@
 {
- "stand": "2026-10-15T18:14:18.019Z",
+ "stand": "2026-10-16T07:05:19.592Z",
  "stuecke": [
+  {
+   "id": "warum-hat-der-saturn-eigentlich-ringe",
+   "zeit": "2026-10-16T07:12:35.138Z",
+   "bereich": "Weltall",
+   "titel": "Warum hat der Saturn eigentlich Ringe?",
+   "vorspann": "Der Planet Saturn besitzt ein riesiges Ringsystem aus unzähligen Eis- und Gesteinsbrocken. Forschende haben verschiedene Theorien entwickelt, wie diese extrem dünne Scheibe entstanden ist.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Ringe des Saturn sind das auffälligste Merkmal des Planeten und bereits ab vierzigfacher Vergrößerung im Fernrohr sichtbar. Aus der Ferne wirken sie wie eine feste Scheibe, bestehen aber in Wahrheit aus sehr vielen einzelnen Partikeln. Diese Teilchen bestehen im Wesentlichen aus Eis und Gestein. Ihre Größe reicht von winzigen Staubteilchen bis hin zu Brocken von einigen Metern. Bei einem Durchmesser von fast einer Million Kilometern sind die Ringe mit zehn bis hundert Metern Dicke erstaunlich dünn.",
+      "Das Ringsystem liegt genau in der Äquatorebene des Saturns und wirft Schatten auf die Planetenoberfläche. Umgekehrt wirft auch der Saturn seinen Schatten auf die Ringe. Insgesamt umfasst die Masse aller Ringe etwa dreißig Billiarden Tonnen. Das entspricht ungefähr der Masse eines Asteroiden mit fast dreihundert Kilometern Durchmesser. Große und kleine Lücken unterteilen das System in mehr als einhunderttausend einzelne Unterringe."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Jeder einzelne Brocken kreist für sich um das Zentrum des Saturns und pendelt dabei leicht auf und ab. Durch inelastische Stöße mit anderen Teilchen verringert sich diese Auf- und Abbewegung ständig. Aus diesem Grund bleibt die Ringscheibe dauerhaft so extrem flach. Die Ringe sind nach der Reihenfolge ihrer Entdeckung von innen nach außen mit Buchstaben benannt. Zwischen ihnen befinden sich Lücken, die durch die Schwerkraft der zahlreichen Monde des Saturns entstehen.",
+      "Einige kleine Monde kreisen direkt an den Rändern oder in den Lücken des Systems und werden Hirtenmonde genannt. Sie stabilisieren die Kanten der Ringe durch ihre Gravitation. Zudem erzeugen größere Brocken innerhalb der Ringe manchmal besondere Strömungsmuster, die Fachleute als Propeller bezeichnen. Neben den Hauptringen gibt es sehr weit entfernte Staubringe. Dazu gehört ein riesiger Ring, der vermutlich aus ausgestoßenem Material des Mondes Phoebe besteht."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Galileo Galilei sah die Ringe im Juli 1610 mit einem der ersten Teleskope, hielt sie damals aber noch für Henkel. Erst Christiaan Huygens beschrieb 1655 korrekt, dass ein dünner, flacher Ring den Saturn berührungslos umgibt. Giovanni Domenico Cassini entdeckte 1675 die bekannteste Teilung im Ringsystem und vermutete bereits einzelne Partikel. Im neunzehnten Jahrhundert wies James Clerk Maxwell mathematisch nach, dass die Ringe aus vielen nicht zusammenhängenden Körpern bestehen müssen. Später lieferten Raumsonden wie Pioneer 11, Voyager 1, Voyager 2 und die Raumsonde Cassini detaillierte Daten und Bilder vor Ort."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Die genaue Entstehung der Saturnringe ist in der Wissenschaft noch nicht abschließend geklärt. Eine Theorie von Édouard Albert Roche besagt, dass ein früherer Mond dem Saturn zu nahe kam und durch Gezeitenkräfte zerbrach. Eine Abwandlung vermutet den Zusammenstoß eines Mondes mit einem Kometen oder Asteroiden. Nach einer anderen Ansicht entstanden die Ringe zeitgleich mit dem Saturn aus derselben Materiewolke. Diskutiert wird außerdem die genaue Ursache für die elektrische Aufladung von Staubteilchen, die zeitweise dunkle Speichen auf den Ringen erzeugen."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Dicke der Ringe",
+     "10 bis 100 Meter"
+    ],
+    [
+     "Durchmesser des Ringsystems",
+     "fast 1 Million Kilometer"
+    ],
+    [
+     "Gesamtmasse der Ringe",
+     "30 Billiarden Tonnen"
+    ],
+    [
+     "Anzahl einzelner Ringe",
+     "mehr als 100.000"
+    ],
+    [
+     "Neigung der Ringebene zur Bahnebene",
+     "26,73 Grad"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Hirtenmonde",
+     "Kleine Monde, die direkt in den Lücken oder an den Rändern der Ringe kreisen. Durch ihre Schwerkraft halten sie die Ringstrukturen stabil."
+    ],
+    [
+     "Roche-Grenze",
+     "Der kritische Abstand, bei dem die Gezeitenkräfte eines Planeten so stark werden, dass ein herannahender Mond auseinanderbricht."
+    ],
+    [
+     "Cassini-Teilung",
+     "Eine markante Lücke im Ringsystem, die den hellen A-Ring vom dunkleren B-Ring trennt."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Woraus bestehen die Ringe des Saturns hauptsächlich?",
+     "optionen": [
+      "Aus einer festen, zusammenhängenden Metallplatte",
+      "Aus Eis- und Gesteinspartikeln verschiedener Größe",
+      "Ausschließlich aus heißen Gasen und Dämpfen"
+     ],
+     "richtig": 1,
+     "erklaerung": "Die Ringe bestehen aus unzähligen einzelnen Eis- und Gesteinsbrocken, die von Staubkorngröße bis zu mehreren Metern reichen."
+    },
+    {
+     "frage": "Wer deutete die Ringe im Jahr 1610 zunächst als Henkel?",
+     "optionen": [
+      "Galileo Galilei",
+      "Christiaan Huygens",
+      "James Clerk Maxwell"
+     ],
+     "richtig": 0,
+     "erklaerung": "Galileo Galilei entdeckte die Ringe mit einem frühen Teleskop, hielt sie damals jedoch noch für Henkel am Planeten."
+    },
+    {
+     "frage": "Warum ist das Ringsystem des Saturns so extrem dünn?",
+     "optionen": [
+      "Weil starke Sonnenwinde alle oberen Teilchen wegblasen",
+      "Weil die Schwerkraft der Erde die Brocken glattzieht",
+      "Weil inelastische Stöße der Brocken ihre vertikalen Bewegungen dämpfen"
+     ],
+     "richtig": 2,
+     "erklaerung": "Jeder Brocken pendelt vertikal, doch Zusammenstöße reduzieren diese Auf- und Abbewegung und halten die Scheibe flach."
+    }
+   ],
+   "video": [
+    "Der Saturn besitzt das bekannteste und größte Ringsystem in unserem Sonnensystem.",
+    "Aus der Ferne betrachtet wirken die Ringe wie eine geschlossene feste Scheibe.",
+    "In Wahrheit bestehen sie aus unzähligen einzelnen Brocken aus Eis und Gestein.",
+    "Die Größe dieser Teilchen reicht von feinem Staub bis zu einigen Metern.",
+    "Obwohl das Ringsystem riesig ist, misst seine Dicke nur zehn bis einhundert Meter.",
+    "Zusammenstöße der kreisenden Brocken sorgen dafür, dass die Ringe so extrem flach bleiben.",
+    "Kleine Monde kreisen zwischen den Ringen und halten deren Kanten stabil.",
+    "Die Ringe entstanden möglicherweise, als ein früherer Mond durch Gezeitenkräfte zerbrach.",
+    "Forschende untersuchen bis heute, wie alt das Ringsystem tatsächlich ist."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Ringe des Saturn",
+    "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
+   },
+   "quelle": {
+    "titel": "Ringe des Saturn",
+    "url": "https://de.wikipedia.org/wiki/Ringe_des_Saturn",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 441,
+   "bildInfos": [
+    {
+     "titel": "PIA01966 Saturn and its Ring System.jpg",
+     "beschreibung": "Voyager 2 returned this view of Saturn and its ring system Aug. 11 1981, when the spacecraft was 13.9 million kilometers (8.6 million miles) away and approaching the large, gaseous planet at about l m",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:PIA01966_Saturn_and_its_Ring_System.jpg",
+     "urheber": "NASA/JPL",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Ringe des Saturn",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
+    },
+    {
+     "titel": "A Ring propeller \"Santos-Dumont\" (PIA 21433).jpg",
+     "beschreibung": "Uploader's notes : the original NASA image has been modified by cropping, removal of artifacts and converting from TIFF to JPG format. Original caption released with image : NASA's Cassini spacecraft ",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/A_Ring_propeller_%22Santos-Dumont%22_%28PIA_21433%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/A_Ring_propeller_%22Santos-Dumont%22_%28PIA_21433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:A_Ring_propeller_%22Santos-Dumont%22_(PIA_21433).jpg",
+     "urheber": "NASA / Jet Propulsion Lab-Caltech / Space Science Institute",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Uploader's notes : the original NASA image has been modified by cropping, removal of artifacts and converting from TIFF to JPG format. Original caption released with image : NASA's Cassini spacecraft "
+    },
+    {
+     "titel": "Calypso crop resize sharp.jpg",
+     "beschreibung": "This raw, unprocessed image of Calypso was taken by Cassini on Feb. 13, 2010. The image was taken with the Cassini spacecraft narrow-angle camera on Feb. 13, 2010 using a spectral filter sensitive to ",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Calypso_crop_resize_sharp.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Calypso_crop_resize_sharp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Calypso_crop_resize_sharp.jpg",
+     "urheber": "NASA / JPL / Space Science Institute",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "This raw, unprocessed image of Calypso was taken by Cassini on Feb. 13, 2010. The image was taken with the Cassini spacecraft narrow-angle camera on Feb. 13, 2010 using a spectral filter sensitive to "
+    },
+    {
+     "titel": "Dione-PIA07746.jpg",
+     "beschreibung": "Saturnmond Dione, Mosaikbild von der Raumsonde Cassini, Entfernung im Bereich 27 180 bis 55 280km",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dione-PIA07746.jpg/1280px-Dione-PIA07746.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dione-PIA07746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Dione-PIA07746.jpg",
+     "urheber": "Antonsusi ( talk )",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Saturnmond Dione, Mosaikbild von der Raumsonde Cassini, Entfernung im Bereich 27 180 bis 55 280km"
+    }
+   ],
+   "bildInfo": {
+    "titel": "PIA01966 Saturn and its Ring System.jpg",
+    "beschreibung": "Voyager 2 returned this view of Saturn and its ring system Aug. 11 1981, when the spacecraft was 13.9 million kilometers (8.6 million miles) away and approaching the large, gaseous planet at about l m",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:PIA01966_Saturn_and_its_Ring_System.jpg",
+    "urheber": "NASA/JPL",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Ringe des Saturn",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
+   }
+  },
   {
    "id": "wie-funktionierte-die-geheimschrift-enigma",
    "zeit": "2026-10-15T18:18:30.070Z",
@@ -6810,163 +7006,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Gewitter zeigt sich oft durch dunkle Wolken und Blitze."
-   }
-  },
-  {
-   "id": "wie-schlaegt-eigentlich-unser-herz",
-   "zeit": "2026-09-26T20:07:42.206Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Wie schlägt eigentlich unser Herz?",
-   "vorspann": "Das Herz ist ein muskuläres Organ, das Blut durch den Körper pumpt. Es sichert so die Versorgung aller Organe.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Das Herz ist ein muskuläres Hohlorgan bei verschiedenen Tiergruppen. Es sorgt dafür, dass Blut oder Hämolymphe in den Kreislauf strömt. Höherentwickelte Herzen arbeiten wie eine Verdrängerpumpe. Dabei wird Flüssigkeit ventilgesteuert aus Blutgefäßen angesaugt.",
-      "Die Lehre von Struktur, Funktion und Erkrankungen des Herzens nennt man Kardiologie. Ein Leben ohne Herz ist für höhere Tiere und den Menschen nicht möglich. Künstliche Herzen können den Verlust der natürlichen Funktionen jedoch in gewissen Grenzen ausgleichen."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Die Herzen von Mensch und Säugetier haben vier Herzhöhlen. Dazu gehören zwei Vorhöfe und zwei Kammern. Bei myogenen Herzen wird der elektrische Impuls spontan und rhythmisch in Schrittmacherzellen ausgelöst. Bei neurogenen Herzen erfolgt der Impuls durch Nervenzellen.",
-      "Die Herzfrequenz großer Arten ist innerhalb einer Tiergruppe im Allgemeinen niedriger als bei kleineren Arten. Bei Säugern liegen die Werte zwischen sechs Schlägen pro Minute beim Blauwal und eintausend Schlägen pro Minute bei der Etruskerspitzmaus. Eine Ausnahme ist die Giraffe mit einhundertsiebzig Schlägen pro Minute."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Denker der Antike wie Empedokles und Aristoteles sahen das Herz als Zentralorgan des Körpers an. Der arabische Arzt Ibn an-Nafīs beschrieb das Herz im dreizehnten Jahrhundert als Erster anatomisch richtig. Der englische Arzt William Harvey zeigte später, dass die Kontraktionen des Herzens die Bewegung des Bluts durch den Kreislauf antreiben."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Herzfrequenz Blauwal",
-     "6 Schläge pro Minute"
-    ],
-    [
-     "Herzfrequenz Etruskerspitzmaus",
-     "1000 Schläge pro Minute"
-    ],
-    [
-     "Herzfrequenz Giraffe",
-     "170 Schläge pro Minute"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Kardiologie",
-     "Die Lehre von Struktur, Funktion und Erkrankungen des Herzens."
-    ],
-    [
-     "Herzhöhlen",
-     "Die Innenräume des Herzens, unterteilt in Vorhöfe und Kammern."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Welches Tier hat laut Text eine Herzfrequenz von eintausend Schlägen pro Minute?",
-     "optionen": [
-      "Blauwal",
-      "Etruskerspitzmaus",
-      "Giraffe"
-     ],
-     "richtig": 1,
-     "erklaerung": "Die Etruskerspitzmaus hat im ausgewachsenen Zustand in Ruhe eine Herzfrequenz von eintausend Schlägen pro Minute."
-    }
-   ],
-   "video": [
-    "Das Herz ist ein muskuläres Hohlorgan im Körper.",
-    "Es pumpt Blut durch den Kreislauf und versorgt alle Organe.",
-    "Menschen und Säugetiere haben ein Herz mit vier Herzhöhlen.",
-    "Dazu gehören zwei Vorhöfe und zwei Kammern.",
-    "Der arabische Arzt Ibn an-Nafīs beschrieb das Herz als Erster anatomisch richtig.",
-    "William Harvey zeigte die Wirkung des Herzens auf den Blutkreislauf.",
-    "Die Herzfrequenz unterscheidet sich je nach Tierart stark.",
-    "Ein Blauwal hat sechs Schläge pro Minute."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Herz",
-    "bildunterschrift": "Das Herz ist ein muskuläres Hohlorgan, das den Blutkreislauf antreibt."
-   },
-   "quelle": {
-    "titel": "Herz",
-    "url": "https://de.wikipedia.org/wiki/Herz",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 203,
-   "bildInfos": [
-    {
-     "titel": "Dog heart 2.jpg",
-     "beschreibung": "Dog heart from left. 1 left ventricle, 2 paraconal interventricular groove, 3 right ventricle, 4 arterial cone, 5 pulmonal trunc, 6 arterial ligament, 7 aortic arch, 8 brachiocephalic trunc, 9 left su",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_heart_2.jpg/1280px-Dog_heart_2.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dog_heart_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Dog_heart_2.jpg",
-     "urheber": "User:Uwe Gille",
-     "lizenz": "CC BY 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
-     "artikel": "Herz",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Das Herz ist ein muskuläres Hohlorgan, das den Blutkreislauf antreibt."
-    },
-    {
-     "titel": "07 Hegasy Herzzyklus Wiki DE CCBYSA.png",
-     "beschreibung": "Der Herzzyklus: Blutfluss, Klappenstellung und EKG",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/07_Hegasy_Herzzyklus_Wiki_DE_CCBYSA.png/1280px-07_Hegasy_Herzzyklus_Wiki_DE_CCBYSA.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/07_Hegasy_Herzzyklus_Wiki_DE_CCBYSA.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:07_Hegasy_Herzzyklus_Wiki_DE_CCBYSA.png",
-     "urheber": "Guido4",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Der Herzzyklus: Blutfluss, Klappenstellung und EKG"
-    },
-    {
-     "titel": "Anatomy Heart Latin Tiesworks.jpg",
-     "beschreibung": "Anatomy of the Human Heart",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Anatomy_Heart_Latin_Tiesworks.jpg/1280px-Anatomy_Heart_Latin_Tiesworks.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Anatomy_Heart_Latin_Tiesworks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Anatomy_Heart_Latin_Tiesworks.jpg",
-     "urheber": "Tvanbr",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Anatomy of the Human Heart"
-    },
-    {
-     "titel": "Bourgery Angiologie.jpg",
-     "beschreibung": "Herzklappen und Bindegewebe",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bourgery_Angiologie.jpg/1280px-Bourgery_Angiologie.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bourgery_Angiologie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bourgery_Angiologie.jpg",
-     "urheber": "Nicolas Henri Jacob",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Herzklappen und Bindegewebe"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Dog heart 2.jpg",
-    "beschreibung": "Dog heart from left. 1 left ventricle, 2 paraconal interventricular groove, 3 right ventricle, 4 arterial cone, 5 pulmonal trunc, 6 arterial ligament, 7 aortic arch, 8 brachiocephalic trunc, 9 left su",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Dog_heart_2.jpg/1280px-Dog_heart_2.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dog_heart_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Dog_heart_2.jpg",
-    "urheber": "User:Uwe Gille",
-    "lizenz": "CC BY 2.5",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
-    "artikel": "Herz",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Das Herz ist ein muskuläres Hohlorgan, das den Blutkreislauf antreibt."
    }
   }
  ]
