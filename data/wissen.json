@@ -1,6 +1,209 @@
 {
- "stand": "2026-10-17T13:41:33.789Z",
+ "stand": "2026-10-17T17:06:15.097Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-menschliche-riechen",
+   "zeit": "2026-10-17T17:21:09.767Z",
+   "bereich": "Körper und Gesundheit",
+   "titel": "Wie funktioniert eigentlich das menschliche Riechen?",
+   "vorspann": "Der Geruchssinn hilft Menschen dabei, die Welt mit der Nase wahrzunehmen. Bereits bei der Geburt ist dieser Sinn weitgehend ausgebildet.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die olfaktorische Wahrnehmung ist die wissenschaftliche Bezeichnung für den Geruchssinn. Bei Menschen spielt dieser Sinn im Vergleich zu einigen Tieren eine geringere Rolle. Viele wild lebende Tierarten sind auf ihren Geruchssinn angewiesen, um Nahrung zu finden oder Feinde zu erkennen. Dagegen haben Menschen ein vergleichsweise schwaches Geruchsvermögen, das auch als Mikrosmie bezeichnet wird.",
+      "Die Riechschleimhaut des Menschen befindet sich am Dach der Nasenhöhle und hat eine Fläche von fünf Quadratmetern. In ihr liegen etwa zwanzig bis dreißig Millionen Riechzellen. Diese Zellen sind mit spezifischen Rezeptoren ausgestattet. Der Geruchssinn ist bei der Geburt bereits weitgehend ausgebildet. Zudem werden die menschlichen Riechzellen alle dreißig bis sechzig Tage erneuert."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Geruchsaktive Substanzen müssen flüchtig sein, damit sie die Nase erreichen. Moleküle von Riechstoffen lösen sich in einer Schleimschicht, die die Riechschleimhaut bedeckt. Dort heften sie sich an spezifische Rezeptormoleküle in der Membran von Riechzellen an. Durch diese Bindung wird ein G-Protein aktiviert und eine Signalkaskade im Inneren der Zelle in Gang gesetzt.",
+      "In der Zelle erhöht sich daraufhin der Spiegel bestimmter Ionen, wodurch die Zelle depolarisiert wird und ein Aktionspotential auslöst. Diese Signale werden über die Riechfäden als Nervenfasern zum Riechkolben im Gehirn geleitet. Dort beginnt die zentralnervöse Verarbeitung der Geruchsmuster. Von dort aus bestehen Verbindungen zu anderen Hirnregionen wie dem Hypothalamus."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Forscher messen die Geruchsempfindung über die sogenannte Geruchsschwelle einer Substanz. Dabei wird zwischen der Wahrnehmungsschwelle und der Erkennungsschwelle unterschieden. Bei besonders geruchsaktiven Substanzen genügen zehn bis hundert Millionen Moleküle für eine Wahrnehmung. Um einen Stoff an seinem Geruch zu erkennen, muss die Konzentration deutlich höher sein."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Die Zusammenhänge zwischen den chemisch-physikalischen Eigenschaften von Riechstoffen und den resultierenden Riechempfindungen sind nach Angaben aus dem Text noch unzureichend erforscht. Auch eine alternative Theorie zu Molekülschwingungen wird seit ihrer Veröffentlichung kontrovers diskutiert."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Fläche der menschlichen Riechschleimhaut",
+     "5 cm²"
+    ],
+    [
+     "Anzahl der Riechzellen beim Menschen",
+     "20 bis 30 Millionen"
+    ],
+    [
+     "Erneuerung der Riechzellen",
+     "alle 30 bis 60 Tage"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Olfaktorische Wahrnehmung",
+     "Dies ist der Fachbegriff für die Wahrnehmung von Gerüchen."
+    ],
+    [
+     "Mikrosmie",
+     "So wird ein vergleichsweise schwaches Geruchsvermögen bei Menschen und bestimmten Tieren genannt."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wo befindet sich die Riechschleimhaut des Menschen?",
+     "optionen": [
+      "Am Dach der Nasenhöhle",
+      "In der Mitte der Zunge",
+      "Am Eingang des Ohrs"
+     ],
+     "richtig": 0,
+     "erklaerung": "Laut dem Artikel liegt die Riechschleimhaut des Menschen am Dach der Nasenhöhle."
+    }
+   ],
+   "video": [
+    "Der Geruchssinn wird in der Wissenschaft als olfaktorische Wahrnehmung bezeichnet.",
+    "Menschen besitzen ein vergleichsweise schwaches Geruchsvermögen.",
+    "Die Riechschleimhaut liegt am Dach der Nasenhöhle.",
+    "Dort befinden sich bis zu dreißig Millionen Riechzellen.",
+    "Geruchsstoffe müssen flüchtig sein, um sie riechen zu können.",
+    "Die Moleküle binden sich an Rezeptoren in der Schleimschicht.",
+    "Dadurch entstehen elektrische Signale im Körper.",
+    "Diese Signale wandern direkt weiter zum Riechkolben im Gehirn.",
+    "Dort findet die Auswertung der Gerüche statt."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Olfaktorische Wahrnehmung",
+    "bildunterschrift": "Die olfaktorische Wahrnehmung beschreibt die Fähigkeit von Menschen und Tieren, Gerüche zu erkennen."
+   },
+   "quelle": {
+    "titel": "Olfaktorische Wahrnehmung",
+    "url": "https://de.wikipedia.org/wiki/Olfaktorische_Wahrnehmung",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 287,
+   "bildInfos": [
+    {
+     "titel": "Makart Fuenf Sinne.jpg",
+     "beschreibung": "German : Die fünf Sinne: Tasten , Sehen , Hören , Riechen , Schmecken . The five senses title QS:P1476,de:\"Die fünf Sinne: Tasten , Sehen , Hören , Riechen , Schmecken .\" label QS:Lde,\"Die fünf Sinne:",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Makart_Fuenf_Sinne.jpg/1280px-Makart_Fuenf_Sinne.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Makart_Fuenf_Sinne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Makart_Fuenf_Sinne.jpg",
+     "urheber": "Hans Makart",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Sinn (Wahrnehmung)",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die olfaktorische Wahrnehmung beschreibt die Fähigkeit von Menschen und Tieren, Gerüche zu erkennen."
+    },
+    {
+     "titel": "3D Medical Animation Nose Top section.jpg",
+     "beschreibung": "3D Medical Animation Still Shot Depicting Nose & its Basic Internal Structure.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/3D_Medical_Animation_Nose_Top_section.jpg/1280px-3D_Medical_Animation_Nose_Top_section.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/3D_Medical_Animation_Nose_Top_section.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_Nose_Top_section.jpg",
+     "urheber": "https://www.scientificanimations.com",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "3D Medical Animation Still Shot Depicting Nose & its Basic Internal Structure."
+    },
+    {
+     "titel": "Chemoelektrische Auslösung einer Erregung in Riechsinneszellen.JPG",
+     "beschreibung": "Chemoelektrische Auslösung einer Erregung in Riechsinneszellen",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chemoelektrische_Ausl%C3%B6sung_einer_Erregung_in_Riechsinneszellen.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Chemoelektrische_Ausl%C3%B6sung_einer_Erregung_in_Riechsinneszellen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Chemoelektrische_Ausl%C3%B6sung_einer_Erregung_in_Riechsinneszellen.JPG",
+     "urheber": "Ppeedddeerr",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Chemoelektrische Auslösung einer Erregung in Riechsinneszellen"
+    },
+    {
+     "titel": "Gray771.png",
+     "beschreibung": "Nerves of septum of nose. Right side.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gray771.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gray771.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Gray771.png",
+     "urheber": "Henry Vandyke Carter",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Nerves of septum of nose. Right side."
+    },
+    {
+     "titel": "Hundenase Samoyede asb 10-2004 PICT5579.JPG",
+     "beschreibung": "Hundenase eines Samoyeden",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hundenase_Samoyede_asb_10-2004_PICT5579.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hundenase_Samoyede_asb_10-2004_PICT5579.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hundenase_Samoyede_asb_10-2004_PICT5579.JPG",
+     "urheber": "Agon S. Buchholz ( asb )",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Hundenase eines Samoyeden"
+    },
+    {
+     "titel": "Nasopalatine and vomeronasal duct.png",
+     "beschreibung": "Potiquet’s 1891 anatomical illustration shows the openings of both the nasopalatine duct and vomeronasal organ. Captions: 1) pad made of Jacobson’s cartilage; 2) opening of Jacobson’s canal, into whic",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nasopalatine_and_vomeronasal_duct.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Nasopalatine_and_vomeronasal_duct.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Nasopalatine_and_vomeronasal_duct.png",
+     "urheber": "Potiquet M.",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Potiquet’s 1891 anatomical illustration shows the openings of both the nasopalatine duct and vomeronasal organ. Captions: 1) pad made of Jacobson’s cartilage; 2) opening of Jacobson’s canal, into whic"
+    },
+    {
+     "titel": "Nostrils by David Shankbone.jpg",
+     "beschreibung": "Nostrils by David Shankbone",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Nostrils_by_David_Shankbone.jpg/1280px-Nostrils_by_David_Shankbone.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Nostrils_by_David_Shankbone.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Nostrils_by_David_Shankbone.jpg",
+     "urheber": "David Shankbone",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Nostrils by David Shankbone"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Makart Fuenf Sinne.jpg",
+    "beschreibung": "German : Die fünf Sinne: Tasten , Sehen , Hören , Riechen , Schmecken . The five senses title QS:P1476,de:\"Die fünf Sinne: Tasten , Sehen , Hören , Riechen , Schmecken .\" label QS:Lde,\"Die fünf Sinne:",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Makart_Fuenf_Sinne.jpg/1280px-Makart_Fuenf_Sinne.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Makart_Fuenf_Sinne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Makart_Fuenf_Sinne.jpg",
+    "urheber": "Hans Makart",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Sinn (Wahrnehmung)",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Die olfaktorische Wahrnehmung beschreibt die Fähigkeit von Menschen und Tieren, Gerüche zu erkennen."
+   }
+  },
   {
    "id": "wie-und-warum-chamaeleons-ihre-farbe-wechseln",
    "zeit": "2026-10-17T13:49:12.705Z",
@@ -6839,192 +7042,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Muskelkater entsteht oft nach ungewohnten oder sehr hohen körperlichen Belastungen."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-ein-pass",
-   "zeit": "2026-09-29T08:31:39.949Z",
-   "bereich": "Gesellschaft und Zusammenleben",
-   "titel": "Wie funktioniert eigentlich ein Pass?",
-   "vorspann": "Ein Reisepass ist ein amtlicher Ausweis für das Reisen in andere Länder. Seit vielen Jahrhunderten nutzen Staaten verschiedene Dokumente zur Kontrolle.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Ein Reisepass wird von einem Staat herausgegeben, dessen Staatsangehörigkeit der Inhaber besitzt. Er berechtigt zum grenzüberschreitenden Reisen und zur Rückkehr in das eigene Land. Der Pass bleibt das Eigentum des jeweiligen Staates. Er dient der Identifizierung und Legitimation gegenüber Behörden und anderen Personen.",
-      "Die meisten Reisepässe enthalten Angaben zur Person und leere Seiten für Vermerke wie Visa. Seit Beginn der zweitausender Jahre gibt es zunehmend biometrische Reisepässe. Dabei werden Personendaten in elektronischer Form im Pass abgelegt. Für Reisen von Repräsentanten gibt es spezielle Pässe wie den Dienstpass oder den Diplomatenpass."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Das Wort Pass leitet sich von dem lateinischen Wort für durchgehen ab. Schon im Altertum gab es Dokumente für Reisen. In der westlichen Han-Dynastie waren Pässe ein wichtiger Teil der Verwaltung. Sie erforderten Angaben zum Alter und zu Körpermerkmalen.",
-      "Im Mittelalter ordnete der König Ratchis Passvorschriften an. Ab dem fünfzehnten Jahrhundert wurden besondere Kennzeichen zur Identifizierung in Dokumente aufgenommen. Mit der französischen Revolution wurde das Passwesen weiter vorangetrieben. Nach dem Ausbruch des Ersten Weltkrieges wurden Passkontrollen in Europa wieder eingeführt.",
-      "Im Jahr neunzehnhundertachtundsechzig wurde ein einheitliches Passgesetz für den Bund erlassen. Nach dem Ersten Weltkrieg wurde der Nansen-Pass für staatenlose Flüchtlinge eingeführt. Im Jahr neunzehnhundert einundachtzig glichen die EG-Mitgliedsstaaten die Gestaltung der Reisepässe an."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Die Geschichte der Pässe ist in historischen Texten und Dokumenten überliefert. Dazu gehören der Tanach, Gesetze aus verschiedenen Jahrhunderten und alte Urkunden. Der älteste erhaltene Reisepass aus dem Jahr vierzehnhundertdreiunddreißig befindet sich im Hessischen Staatsarchiv Marburg."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der bereitgestellte Text enthält keine Angaben darüber, welche Fragen in der Forschung noch unbeantwortet sind."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Jahr des ältesten erhaltenen Reisepasses im Staatsarchiv Marburg",
-     "1433"
-    ],
-    [
-     "Einführung des Nansen-Passes für staatenlose Flüchtlinge",
-     "1922"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Biometrischer Reisepass",
-     "Ein Pass, bei dem Personendaten in elektronischer Form abgelegt sind."
-    ],
-    [
-     "Nansen-Pass",
-     "Ein Reisedokument, das im Jahr neunzehnhundertundzweiundzwanzig für staatenlose russische Flüchtlinge eingeführt wurde."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wem gehört ein Reisepass laut dem Text?",
-     "optionen": [
-      "Dem jeweiligen Staat",
-      "Dem Inhaber des Passes",
-      "Der Europäischen Union"
-     ],
-     "richtig": 0,
-     "erklaerung": "Der Pass bleibt laut dem Artikel Eigentum des jeweiligen Staates."
-    }
-   ],
-   "video": [
-    "Ein Reisepass ist ein amtlicher Ausweis für das Reisen in andere Länder.",
-    "Er wird von dem Staat herausgegeben, dessen Staatsangehörigkeit man besitzt.",
-    "Der Pass bleibt immer das Eigentum des jeweiligen Staates.",
-    "Schon im Altertum gab es in China Pässe mit Körpermerkmalen.",
-    "Im Mittelalter wurden Dokumente für Reisende und Pilger immer wichtiger.",
-    "Nach der französischen Revolution wurden die Vorschriften mehrfach verändert.",
-    "Seit den zweitausender Jahren gibt es elektronische biometrische Pässe.",
-    "Frühere Dokumente enthielten oft Stempel oder Siegel zur Identifizierung."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Reisepass",
-    "bildunterschrift": "Ein Reisepass ist ein amtlicher Ausweis für das Reisen über Grenzen hinweg."
-   },
-   "quelle": {
-    "titel": "Reisepass",
-    "url": "https://de.wikipedia.org/wiki/Reisepass",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 255,
-   "bildInfos": [
-    {
-     "titel": "Reisepass Bundesrepublik Deutschland – Einband Vorderseite 2017.jpg",
-     "beschreibung": "Deutscher Reisepass (Muster 2017), Einband.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg",
-     "urheber": "Bundesrepublik Deutschland, Bundesministerium des Innern",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Deutscher Reisepass",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein Reisepass ist ein amtlicher Ausweis für das Reisen über Grenzen hinweg."
-    },
-    {
-     "titel": "Afghan Passport.jpg",
-     "beschreibung": "New eletronic readable passports issued by Afghan Ministry of Interior",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Afghan_Passport.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/78/Afghan_Passport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Afghan_Passport.jpg",
-     "urheber": "Afghan Freelancer",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "New eletronic readable passports issued by Afghan Ministry of Interior"
-    },
-    {
-     "titel": "Albanian biometric passport (crop).jpg",
-     "beschreibung": "Albanian biometric passport",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Albanian_biometric_passport_%28crop%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Albanian_biometric_passport_%28crop%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Albanian_biometric_passport_(crop).jpg",
-     "urheber": "Government of Albania",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Albanian biometric passport"
-    },
-    {
-     "titel": "Belgian Passport 2008 cover.jpg",
-     "beschreibung": "Image of cover of Belgian passport issued since 2008.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Belgian_Passport_2008_cover.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Belgian_Passport_2008_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Belgian_Passport_2008_cover.jpg",
-     "urheber": "Eurokid238",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Image of cover of Belgian passport issued since 2008."
-    },
-    {
-     "titel": "Cover of East Timorese Passport.jpg",
-     "beschreibung": "Front cover of an East Timorese passport",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cover_of_East_Timorese_Passport.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cover_of_East_Timorese_Passport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Cover_of_East_Timorese_Passport.jpg",
-     "urheber": "Noble",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Front cover of an East Timorese passport"
-    },
-    {
-     "titel": "Czech passport 2007 cover.jpg",
-     "beschreibung": "Biometric Passport of the Czech Republic issued in 2007",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Czech_passport_2007_cover.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Czech_passport_2007_cover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Czech_passport_2007_cover.jpg",
-     "urheber": "Krokodyl",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Biometric Passport of the Czech Republic issued in 2007"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Reisepass Bundesrepublik Deutschland – Einband Vorderseite 2017.jpg",
-    "beschreibung": "Deutscher Reisepass (Muster 2017), Einband.",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Reisepass_Bundesrepublik_Deutschland_%E2%80%93_Einband_Vorderseite_2017.jpg",
-    "urheber": "Bundesrepublik Deutschland, Bundesministerium des Innern",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Deutscher Reisepass",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein Reisepass ist ein amtlicher Ausweis für das Reisen über Grenzen hinweg."
    }
   }
  ]
