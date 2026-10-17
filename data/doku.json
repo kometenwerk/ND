@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-16T07:05:19.592Z",
+ "stand": "2026-10-17T04:17:44.414Z",
  "inArbeit": {
   "id": "die-geschichte-unserer-schrift",
   "titel": "Die Geschichte unserer Schrift",
@@ -408,8 +408,85 @@
     "wikipedia": "Rosettastein",
     "fokus": "Forscher konnten dank historischer Funde längst vergessene Schriften lesen.",
     "versuche": 2,
-    "zuDuenn": 2,
-    "fehlgeschlagen": false
+    "zuDuenn": 3,
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Nach der Entwicklung von Systemen wie der lateinischen Schrift folgt nun die Entzifferung alter Schriften.",
+     "Im Jahr einhundertneunzig vor Christus wurde in Ägypten ein Stein aus Granodiorit erstellt.",
+     "Der Text stammt aus der Zeit von König Ptolemaios dem Fünften.",
+     "Ein französischer Offizier namens Pierre François Xavier Bouchard fand den Stein am fünfzehnten Juli neunzehnhundertneunzig?",
+     "Laut dem British Museum sind die genauen Umstände der Entdeckung sehr unklar.",
+     "Nach der Kapitulation von Alexandria im Jahr achtzehnhunderteins beschlagnahmte das britische Militär den Stein.",
+     "Seit achtzehnhundertzwei befindet sich das Objekt im British Museum in London.",
+     "Der Stein enthält denselben Text in drei verschiedenen Schriften.",
+     "In der Mitte befindet sich die ägyptische Gebrauchsschrift namens Demotisch.",
+     "Dadurch bot der Stein einen wichtigen Schlüssel zur Entzifferung der alten ägyptischen Schriften.",
+     "Silvestre de Sacy versuchte den demotischen Text durch Vergleiche zu deuten.",
+     "Im Jahr achtzehnhundertzwei gelang es Johan David Åkerblad, demotische Namen zu lesen.",
+     "Thomas Young entzifferte ebenfalls Königsnamen und Begriffe in den Texten.",
+     "Jean François Champollion kündigte im Jahr achtzehnhundertzweiundzwanzig die Transliteration der ägyptischen Schriften an.",
+     "Damit gelang ihm die Entzifferung der demotischen Schrift sowie der Hieroglyphen.",
+     "Nach dieser Entdeckung konnten Archäologen viele weitere ägyptische Inschriften lesen.",
+     "Moderne Projekte und Technologien nutzen den Namen dieses historischen Fundes für ihre Arbeit."
+    ],
+    "fakten": [
+     [
+      "Entstehungsjahr des Dekrets",
+      "196 v. Chr."
+     ],
+     [
+      "Entdeckung des Steins",
+      "15. Juli 1799"
+     ],
+     [
+      "Transport nach London",
+      "1801"
+     ],
+     [
+      "Ausstellung im British Museum ab",
+      "1802"
+     ],
+     [
+      "Entzifferung durch Champollion",
+      "1822"
+     ],
+     [
+      "Höhe des Steins",
+      "112,3 cm"
+     ],
+     [
+      "Gewicht des Steins",
+      "762 kg"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Stein von Rosette",
+      "Ein Steinfragment mit einem mehrsprachigen Text aus dem antiken Ägypten."
+     ],
+     [
+      "Hieroglyphen",
+      "Die frühe ägyptische Sakralschrift aus Bildzeichen."
+     ],
+     [
+      "Demotisch",
+      "Eine spätere ägyptische Gebrauchsschrift."
+     ],
+     [
+      "Altgriechisch",
+      "Die in der ptolemäischen Verwaltung gebräuchliche Sprache auf dem Stein."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Stein von Rosette",
+     "bildunterschrift": "Der Stein von Rosette im British Museum war der Schlüssel zur Entzifferung der Hieroglyphen."
+    },
+    "quelle": {
+     "titel": "Stein von Rosette",
+     "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
+    },
+    "woerter": 203
    },
    {
     "ueberschrift": "Die Entwicklung des Buchdrucks",
