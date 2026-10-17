@@ -1,6 +1,193 @@
 {
- "stand": "2026-10-17T04:17:44.414Z",
+ "stand": "2026-10-17T09:16:58.883Z",
  "stuecke": [
+  {
+   "id": "wie-entsteht-eigentlich-eine-optische-taeuschung",
+   "zeit": "2026-10-17T09:22:29.834Z",
+   "bereich": "Sprache und Kultur",
+   "titel": "Wie entsteht eigentlich eine optische Täuschung?",
+   "vorspann": "Optische Täuschungen verändern unsere Sicht auf Linien, Farben und Formen. Das Gehirn interpretiert dabei unvollständige Informationen unserer Sinne.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Eine optische Täuschung ist eine Täuschung der visuellen Wahrnehmung. Sie kann nahezu alle Aspekte des Sehens betreffen. Dazu gehören Tiefenillusionen, Farbillusionen, geometrische Illusionen und Bewegungsillusionen.",
+      "Die Wahrnehmung beruht auf unvollständiger Information. Deshalb scheint das Sehsystem falsche Annahmen über die Natur des Sehreizes zu treffen."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Bei optischen Täuschungen nehmen wir Dinge anders wahr, als sie nachweislich sind. Ein Beispiel dafür ist die Müller-Lyer-Täuschung, bei der gleich lange Strecken unterschiedlich lang wirken. Auch die Helligkeits- und Farbgebung umliegender Flächen beeinflusst stark unsere Wahrnehmung.",
+      "Ein weiteres Beispiel ist das Hermann-Gitter. In den Schnittpunkten der weißen Linien sieht man schattenartige Flecken, allerdings nur dort, wohin man nicht direkt schaut.",
+      "Zusätzlich spielen Kontraste eine wichtige Rolle. Bei der Café-Wall-Illusion wirken gerade Linien durch Helligkeitsunterschiede und Schatten keilförmig oder gekrümmt."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Optische Täuschungen werden in der Wahrnehmungspsychologie untersucht. Aus ihnen lassen sich Rückschlüsse über die Verarbeitung von Sinnesreizen im Gehirn gewinnen.",
+      "Systematisch produziert und analysiert wurden optische Täuschungen zuerst in der Gestaltpsychologie. Zudem wurden viele Täuschungen im Laufe der Zeit von Forschern wie Hugo Münsterberg oder Ewald Hering beschrieben und benannt."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Bisher wurde in Lehrbüchern angenommen, dass der Effekt des Hermann-Gitters auf lateraler Hemmung beruht, doch inzwischen gilt diese Theorie als widerlegt, da sich die Illusion bei bestimmten Änderungen auflöst."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Jahr der ersten Beschreibung der Münsterberg-Täuschung",
+     "1874"
+    ],
+    [
+     "Vorstellung des Hermann-Gitters",
+     "1870"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Optische Täuschung",
+     "Eine Täuschung der visuellen Wahrnehmung, bei der das Sehsystem falsche Annahmen über einen Sehreiz trifft."
+    ],
+    [
+     "Wahrnehmungspsychologie",
+     "Ein Wissenschaftsbereich, in dem untersucht wird, wie Sinnesreize im Gehirn verarbeitet werden."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Worauf beruht die Wahrnehmung laut dem Artikel?",
+     "optionen": [
+      "Auf unvollständiger Information",
+      "Auf perfekten Messungen des Auges",
+      "Auf rein zufälligen Prozessen"
+     ],
+     "richtig": 0,
+     "erklaerung": "Optische Täuschungen beruhen auf der Tatsache, dass unsere Wahrnehmung auf unvollständiger Information beruht."
+    }
+   ],
+   "video": [
+    "Eine optische Täuschung täuscht unsere visuelle Wahrnehmung.",
+    "Dabei macht das Gehirn falsche Annahmen über gesehene Reize.",
+    "Das betrifft Linien, Farben, Längen und Helligkeiten.",
+    "Ein bekanntes Beispiel ist das Hermann-Gitter mit seinen schattenhaften Flecken.",
+    "Früher dachte man, dafür sei die laterale Hemmung verantwortlich.",
+    "Inzwischen gilt diese gängige Theorie jedoch als widerlegt.",
+    "Wissenschaftler untersuchen solche Phänomene in der Wahrnehmungspsychologie.",
+    "So lernen sie mehr über die Verarbeitung von Sinnesreizen."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Optische Täuschung",
+    "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
+   },
+   "quelle": {
+    "titel": "Optische Täuschung",
+    "url": "https://de.wikipedia.org/wiki/Optische_T%C3%A4uschung",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 203,
+   "bildInfos": [
+    {
+     "titel": "Man photographing himself in hotel bathroom with mirrors all around to generate illusion (cropped).jpg",
+     "beschreibung": "Man photographing himself in a cornered mirror to generate a multiple reflection",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg/1280px-Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_(cropped).jpg",
+     "urheber": "Pittigrilli",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Optische Täuschung",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
+    },
+    {
+     "titel": "Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
+     "beschreibung": "Aer.lingus.a320-200.ei-cva.planform.arp",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aer.lingus.a320-200.ei-cva.planform.arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Aer.lingus.a320-200.ei-cva.planform.arp"
+    },
+    {
+     "titel": "Bezold Effekt Balken.png",
+     "beschreibung": "Die blauen Balken werden in Kombination mit den weißen Zwischenräumen in der linken Hälfte heller wahrgenommen als mit den schwarzen Zwischenräumen in der rechten Hälfte.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bezold_Effekt_Balken.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bezold_Effekt_Balken.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bezold_Effekt_Balken.png",
+     "urheber": "Mabit1",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die blauen Balken werden in Kombination mit den weißen Zwischenräumen in der linken Hälfte heller wahrgenommen als mit den schwarzen Zwischenräumen in der rechten Hälfte."
+    },
+    {
+     "titel": "Bezold Effekt Kreise.png",
+     "beschreibung": "Die grünen Kreisringe werden in der weißen Umgebung der linken Hälfte heller wahrgenommen als in der braunen Umgebung der rechten Hälfte.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bezold_Effekt_Kreise.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bezold_Effekt_Kreise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bezold_Effekt_Kreise.png",
+     "urheber": "Mabit1",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die grünen Kreisringe werden in der weißen Umgebung der linken Hälfte heller wahrgenommen als in der braunen Umgebung der rechten Hälfte."
+    },
+    {
+     "titel": "FerromagnetischerWerkstoff.png",
+     "beschreibung": "Ferromagnetischer Werkstoff",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/FerromagnetischerWerkstoff.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/FerromagnetischerWerkstoff.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:FerromagnetischerWerkstoff.png",
+     "urheber": "Ty von Sevelingen",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ferromagnetischer Werkstoff"
+    },
+    {
+     "titel": "Hahnentrittmuster.jpg",
+     "beschreibung": "„shepherd's check“? „houndstooth“? (Example for an optical illusion in everyday life: the pattern seems to be tilt to the right.)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hahnentrittmuster.jpg/1280px-Hahnentrittmuster.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Hahnentrittmuster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hahnentrittmuster.jpg",
+     "urheber": "Thomas Schoch",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "„shepherd's check“? „houndstooth“? (Example for an optical illusion in everyday life: the pattern seems to be tilt to the right.)"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Man photographing himself in hotel bathroom with mirrors all around to generate illusion (cropped).jpg",
+    "beschreibung": "Man photographing himself in a cornered mirror to generate a multiple reflection",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg/1280px-Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_(cropped).jpg",
+    "urheber": "Pittigrilli",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Optische Täuschung",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-die-gebaerdensprache",
    "zeit": "2026-10-17T04:23:20.749Z",
@@ -6791,181 +6978,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Eine historische Enigma-Maschine mit Tastatur und Lampenfeld."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-die-geheimsprache",
-   "zeit": "2026-09-27T14:00:58.012Z",
-   "bereich": "Sprache und Kultur",
-   "titel": "Wie funktioniert eigentlich die Geheimsprache?",
-   "vorspann": "Kryptographie ist die Wissenschaft der Verschlüsselung von Informationen. Heute sorgt sie dafür, dass Daten im Internet sicher sind.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Der Begriff Kryptographie bedeutet Geheimschrift. Früher ging es vor allem darum, Nachrichten so zu verändern, dass andere sie nicht lesen konnten. Heute befasst sich die Kryptographie allgemein mit dem Thema Informationssicherheit. Das Ziel ist es, Informationssysteme vor Manipulation und unbefugtem Lesen zu schützen.",
-      "Die moderne Kryptographie verfolgt vier Hauptziele. Dazu gehören Vertraulichkeit, Integrität, Authentizität und Verbindlichkeit. Vertraulichkeit bedeutet, dass nur berechtigte Personen Daten lesen dürfen. Integrität stellt sicher, dass Daten unverändert bleiben. Authentizität sorgt dafür, dass der Absender erkennbar ist. Verbindlichkeit bedeutet, dass der Absender seine Urheberschaft nicht abstreiten kann."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Früher wurden bei klassischen Verfahren vollständige Buchstaben oder Buchstabengruppen ersetzt. Bei der Transposition werden die Buchstaben anders angeordnet. Bei der Substitution werden Buchstaben durch andere Symbole ersetzt. Bekannte Beispiele dafür sind die Caesar-Verschlüsselung und die Vigenère-Verschlüsselung.",
-      "Moderne Verfahren arbeiten mit den einzelnen Bits von Daten. Symmetrische Verfahren verwenden einen geheimen Schlüssel für alle Operationen. Asymmetrische Verfahren nutzen ein Paar aus einem privaten und einem öffentlichen Schlüssel. Ein Beispiel für ein modernes asymmetrisches Verfahren ist die Public-Key-Kryptographie.",
-      "Die Sicherheit der meisten asymmetrischen Systeme beruht auf mathematischen Problemen wie der Primfaktorzerlegung. Es ist sehr leicht, zwei große Primzahlen zu multiplizieren. Umgekehrt ist es extrem schwierig, aus dem Produkt wieder die ursprünglichen Primfaktoren zu berechnen."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Der früheste belegbare Einsatz von Kryptographie findet sich im dritten Jahrtausend vor Christus in der altägyptischen Kryptographie des Alten Reiches. Im Mittelalter nutzten hebräische Gelehrte Zeichentausch-Algorithmen. Auch für den diplomatischen Briefwechsel und für heilkundliche Texte gab es damals Geheimschriften.",
-      "Im Zweiten Weltkrieg wurden mechanische Schlüsselmaschinen wie die Enigma eingesetzt. Diese Maschine wurde durch polnische und britische Codeknacker gebrochen. Im Jahr 1949 veröffentlichte Claude Shannon einen wichtigen Artikel zur mathematischen Basis der Kryptographie. Später folgten weitere Entwicklungen wie der Data Encryption Standard und asymmetrische Verfahren."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der Wikipedia-Artikel nennt keine offenen Forschungsfragen, bei denen die Wissenschaft noch ratlos ist."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Einsatz von Kryptographie im Alten Reich",
-     "drittes Jahrtausend v. Chr."
-    ],
-    [
-     "Veröffentlichung von Claude Shannon",
-     "1949"
-    ],
-    [
-     "Veröffentlichung des Artikels von Whitfield Diffie und Martin Hellman",
-     "1976"
-    ],
-    [
-     "Veröffentlichung des britischen GCHQ-Dokuments",
-     "17. Dezember 1997"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Kryptographie",
-     "Die Wissenschaft der Verschlüsselung von Informationen und der Informationssicherheit."
-    ],
-    [
-     "Kryptoanalyse",
-     "Die Erforschung von Methoden, um kryptographische Verfahren zu knacken und zu entschlüsseln."
-    ],
-    [
-     "Steganographie",
-     "Verfahren, die den Kanal verbergen, über den kommuniziert wird, um die Vertraulichkeit zu schützen."
-    ],
-    [
-     "Symmetrische Verfahren",
-     "Verfahren, die einen geheimen Schlüssel für die Ver- und Entschlüsselung verwenden."
-    ],
-    [
-     "Asymmetrische Verfahren",
-     "Verfahren, die ein Paar aus einem privaten und einem öffentlichen Schlüssel nutzen."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Was bedeutet der Begriff Kryptographie ursprünglich?",
-     "optionen": [
-      "Geheimschrift",
-      "Bilderrätsel",
-      "Zahlenlehre"
-     ],
-     "richtig": 0,
-     "erklaerung": "Der Begriff Kryptographie bedeutet laut dem Artikel Geheimschrift."
-    },
-    {
-     "frage": "Wer entwickelte den DES-Algorithmus?",
-     "optionen": [
-      "IBM und die National Security Agency",
-      "Whitfield Diffie und Martin Hellman",
-      "Claude Shannon"
-     ],
-     "richtig": 0,
-     "erklaerung": "Der DES-Algorithmus wurde von IBM und der National Security Agency entwickelt."
-    },
-    {
-     "frage": "Worauf beruht die Sicherheit der meisten asymmetrischen Kryptosysteme?",
-     "optionen": [
-      "Auf der Schwierigkeit mathematischer Probleme wie der Primfaktorzerlegung",
-      "Auf der Verwendung von geheimen Papierbriefen",
-      "Auf der Geheimhaltung des genutzten Alphabets"
-     ],
-     "richtig": 0,
-     "erklaerung": "Die Sicherheit beruht auf der Schwierigkeit von Problemen wie der Primfaktorzerlegung und diskreten Logarithmen."
-    }
-   ],
-   "video": [
-    "Kryptographie ist die Wissenschaft der Verschlüsselung von Informationen.",
-    "Schon im dritten Jahrtausend vor Christus nutzten Menschen Geheimschriften.",
-    "Früher wurden ganze Buchstaben durch Substitution oder Transposition ersetzt.",
-    "Moderne Verfahren arbeiten mit Computern und einzelnen Bits von Daten.",
-    "Symmetrische Verfahren verwenden einen einzigen geheimen Schlüssel für alles.",
-    "Asymmetrische Verfahren nutzen einen privaten und einen öffentlichen Schlüssel.",
-    "Die Sicherheit basiert oft auf der schwierigen Zerlegung großer Zahlen.",
-    "So schützt die Kryptographie unsere heutigen Daten und Nachrichten."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Kryptographie",
-    "bildunterschrift": "Kryptographie befasst sich mit der sicheren Verschlüsselung und Übertragung von Informationen."
-   },
-   "quelle": {
-    "titel": "Kryptographie",
-    "url": "https://de.wikipedia.org/wiki/Kryptographie",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 299,
-   "bildInfos": [
-    {
-     "titel": "2008-09 Kaiserschloss Kryptologen.JPG",
-     "beschreibung": "Poznań monument (center) to Polish cryptologists whose breaking of Germany's Enigma machine ciphers",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2008-09_Kaiserschloss_Kryptologen.JPG/1280px-2008-09_Kaiserschloss_Kryptologen.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2008-09_Kaiserschloss_Kryptologen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2008-09_Kaiserschloss_Kryptologen.JPG",
-     "urheber": "Ziko",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "artikel": "Kryptologie",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Kryptographie befasst sich mit der sicheren Verschlüsselung und Übertragung von Informationen."
-    },
-    {
-     "titel": "Feistel.png",
-     "beschreibung": "Figure of Feistel Structure of Block Ciphers",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Feistel.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Feistel.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Feistel.png",
-     "urheber": "Yoshitaka Ikeda",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Figure of Feistel Structure of Block Ciphers"
-    }
-   ],
-   "bildInfo": {
-    "titel": "2008-09 Kaiserschloss Kryptologen.JPG",
-    "beschreibung": "Poznań monument (center) to Polish cryptologists whose breaking of Germany's Enigma machine ciphers",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2008-09_Kaiserschloss_Kryptologen.JPG/1280px-2008-09_Kaiserschloss_Kryptologen.JPG",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2008-09_Kaiserschloss_Kryptologen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:2008-09_Kaiserschloss_Kryptologen.JPG",
-    "urheber": "Ziko",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artikel": "Kryptologie",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Kryptographie befasst sich mit der sicheren Verschlüsselung und Übertragung von Informationen."
    }
   }
  ]

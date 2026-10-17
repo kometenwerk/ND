@@ -1,9 +1,6 @@
 {
- "stand": "2026-10-17T04:17:44.414Z",
+ "stand": "2026-10-17T09:16:58.883Z",
  "gepusht": [
-  "ki-agent-hackt-australisches-regierungsportal",
-  "hitze-schwaecht-europaeische-wirtschaft",
-  "tankrabatt-oktober-dezember-2026",
   "vw-audi-seat-rueckruf-lenkung",
   "heidenau-stolpersteine-verbot",
   "schulstreik-gegen-wehrpflicht",
@@ -80,7 +77,10 @@
   "grundschul-schiesserei-oregon",
   "tabaksteuer-erhoehung-bundestag",
   "fruehstartrente-bundestag",
-  "verbrenner-aus-aufweichung-deutschland-frankreich"
+  "verbrenner-aus-aufweichung-deutschland-frankreich",
+  "trump-russland-sanktionen-ausgesetzt",
+  "trump-sprecherin-zacharia-ruecktritt",
+  "bundesliga-frankfurt-koeln"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -95,10 +95,13 @@
   "grundschul-schiesserei-oregon",
   "tabaksteuer-erhoehung-bundestag",
   "fruehstartrente-bundestag",
-  "verbrenner-aus-aufweichung-deutschland-frankreich"
+  "verbrenner-aus-aufweichung-deutschland-frankreich",
+  "trump-russland-sanktionen-ausgesetzt",
+  "trump-sprecherin-zacharia-ruecktritt",
+  "bundesliga-frankfurt-koeln"
  ],
  "wetter": {
-  "stand": "2026-10-17T04:17:44.414Z",
+  "stand": "2026-10-17T09:16:58.883Z",
   "morgenTag": "Sonntag",
   "orte": [
    {
@@ -110,23 +113,23 @@
      "grad": 11,
      "code": 3,
      "gefuehlt": 9,
-     "wind": 13,
-     "windAus": 342,
-     "feuchte": 87,
-     "druck": 1019,
+     "wind": 14,
+     "windAus": 341,
+     "feuchte": 81,
+     "druck": 1021,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
-     "code": 80,
+     "code": 63,
      "max": 14,
      "min": 10,
      "regen": 100,
-     "menge": 12.6,
-     "wind": 16,
-     "windAus": 349,
-     "uv": 2.6,
+     "menge": 13,
+     "wind": 17,
+     "windAus": 354,
+     "uv": 2.5,
      "auf": "07:50",
      "unter": "18:19"
     },
@@ -134,26 +137,26 @@
      "datum": "2026-10-18",
      "code": 80,
      "max": 14,
-     "min": 9,
-     "regen": 98,
-     "menge": 8.7,
-     "wind": 19,
-     "windAus": 54,
-     "uv": 2.5,
+     "min": 10,
+     "regen": 88,
+     "menge": 3.7,
+     "wind": 20,
+     "windAus": 59,
+     "uv": 1.8,
      "auf": "07:52",
      "unter": "18:16"
     },
     "tage": [
      {
       "datum": "2026-10-17",
-      "code": 80,
+      "code": 63,
       "max": 14,
       "min": 10,
       "regen": 100,
-      "menge": 12.6,
-      "wind": 16,
-      "windAus": 349,
-      "uv": 2.6,
+      "menge": 13,
+      "wind": 17,
+      "windAus": 354,
+      "uv": 2.5,
       "auf": "07:50",
       "unter": "18:19"
      },
@@ -161,12 +164,12 @@
       "datum": "2026-10-18",
       "code": 80,
       "max": 14,
-      "min": 9,
-      "regen": 98,
-      "menge": 8.7,
-      "wind": 19,
-      "windAus": 54,
-      "uv": 2.5,
+      "min": 10,
+      "regen": 88,
+      "menge": 3.7,
+      "wind": 20,
+      "windAus": 59,
+      "uv": 1.8,
       "auf": "07:52",
       "unter": "18:16"
      },
@@ -178,7 +181,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 15,
-      "windAus": 83,
+      "windAus": 81,
       "uv": 2.5,
       "auf": "07:54",
       "unter": "18:14"
@@ -187,25 +190,25 @@
       "datum": "2026-10-20",
       "code": 3,
       "max": 10,
-      "min": 3,
-      "regen": 2,
+      "min": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 89,
-      "uv": 2.1,
+      "wind": 12,
+      "windAus": 86,
+      "uv": 2,
       "auf": "07:56",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-21",
-      "code": 61,
-      "max": 14,
+      "code": 3,
+      "max": 11,
       "min": 8,
-      "regen": 25,
-      "menge": 3.9,
-      "wind": 11,
-      "windAus": 146,
-      "uv": 1.5,
+      "regen": 23,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 111,
+      "uv": 1.3,
       "auf": "07:58",
       "unter": "18:10"
      },
@@ -213,173 +216,173 @@
       "datum": "2026-10-22",
       "code": 61,
       "max": 13,
-      "min": 9,
-      "regen": 37,
-      "menge": 1.8,
-      "wind": 20,
+      "min": 8,
+      "regen": 28,
+      "menge": 0.3,
+      "wind": 14,
       "windAus": 232,
-      "uv": 1.4,
+      "uv": 2.2,
       "auf": "08:00",
-      "unter": "18:08"
+      "unter": "18:07"
      },
      {
       "datum": "2026-10-23",
-      "code": 61,
+      "code": 3,
       "max": 15,
-      "min": 9,
-      "regen": 26,
-      "menge": 0,
-      "wind": 17,
-      "windAus": 182,
-      "uv": 1.8,
-      "auf": "08:01",
+      "min": 6,
+      "regen": 21,
+      "menge": 1.8,
+      "wind": 18,
+      "windAus": 174,
+      "uv": 0.4,
+      "auf": "08:02",
       "unter": "18:05"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 72
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 55
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 38
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 21
-     },
-     {
       "zeit": "11:00",
       "grad": 11,
-      "code": 3,
-      "regen": 8
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 12,
       "code": 3,
-      "regen": 2
+      "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "14:00",
       "grad": 13,
       "code": 3,
-      "regen": 4
+      "regen": 15
      },
      {
       "zeit": "15:00",
       "grad": 14,
       "code": 3,
-      "regen": 17
+      "regen": 40
      },
      {
       "zeit": "16:00",
       "grad": 14,
       "code": 3,
-      "regen": 36
+      "regen": 58
      },
      {
       "zeit": "17:00",
-      "grad": 14,
+      "grad": 13,
       "code": 3,
-      "regen": 47
+      "regen": 65
      },
      {
       "zeit": "18:00",
       "grad": 13,
-      "code": 3,
-      "regen": 42
+      "code": 2,
+      "regen": 60
      },
      {
       "zeit": "19:00",
       "grad": 12,
       "code": 3,
-      "regen": 30
+      "regen": 40
      },
      {
       "zeit": "20:00",
       "grad": 11,
-      "code": 2,
+      "code": 61,
       "regen": 25
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 3,
-      "regen": 37
+      "code": 61,
+      "regen": 38
      },
      {
       "zeit": "22:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 56
+      "grad": 10,
+      "code": 61,
+      "regen": 40
      },
      {
       "zeit": "23:00",
       "grad": 10,
       "code": 61,
-      "regen": 73
+      "regen": 63
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 61,
-      "regen": 84
+      "regen": 78
      },
      {
       "zeit": "01:00",
       "grad": 10,
       "code": 61,
-      "regen": 93
+      "regen": 80
      },
      {
       "zeit": "02:00",
       "grad": 10,
       "code": 61,
-      "regen": 98
+      "regen": 85
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 61,
-      "regen": 97
+      "regen": 88
      },
      {
       "zeit": "04:00",
-      "grad": 9,
-      "code": 80,
-      "regen": 92
+      "grad": 10,
+      "code": 61,
+      "regen": 75
      },
      {
       "zeit": "05:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 86
+      "regen": 48
+     },
+     {
+      "zeit": "06:00",
+      "grad": 11,
+      "code": 80,
+      "regen": 43
+     },
+     {
+      "zeit": "07:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 30
+     },
+     {
+      "zeit": "09:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "10:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 10
      }
     ]
    },
@@ -389,26 +392,26 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 10,
-     "code": 2,
-     "gefuehlt": 9,
-     "wind": 3,
-     "windAus": 172,
-     "feuchte": 94,
-     "druck": 1013,
+     "grad": 12,
+     "code": 3,
+     "gefuehlt": 11,
+     "wind": 9,
+     "windAus": 308,
+     "feuchte": 85,
+     "druck": 1014,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
      "code": 3,
-     "max": 13,
-     "min": 10,
-     "regen": 51,
+     "max": 14,
+     "min": 9,
+     "regen": 48,
      "menge": 0,
-     "wind": 14,
-     "windAus": 313,
-     "uv": 0.5,
+     "wind": 13,
+     "windAus": 312,
+     "uv": 0.4,
      "auf": "07:35",
      "unter": "18:07"
     },
@@ -417,11 +420,11 @@
      "code": 3,
      "max": 16,
      "min": 11,
-     "regen": 11,
+     "regen": 3,
      "menge": 0,
-     "wind": 12,
-     "windAus": 61,
-     "uv": 2.4,
+     "wind": 14,
+     "windAus": 77,
+     "uv": 2.2,
      "auf": "07:37",
      "unter": "18:05"
     },
@@ -429,13 +432,13 @@
      {
       "datum": "2026-10-17",
       "code": 3,
-      "max": 13,
-      "min": 10,
-      "regen": 51,
+      "max": 14,
+      "min": 9,
+      "regen": 48,
       "menge": 0,
-      "wind": 14,
-      "windAus": 313,
-      "uv": 0.5,
+      "wind": 13,
+      "windAus": 312,
+      "uv": 0.4,
       "auf": "07:35",
       "unter": "18:07"
      },
@@ -444,11 +447,11 @@
       "code": 3,
       "max": 16,
       "min": 11,
-      "regen": 11,
+      "regen": 3,
       "menge": 0,
-      "wind": 12,
-      "windAus": 61,
-      "uv": 2.4,
+      "wind": 14,
+      "windAus": 77,
+      "uv": 2.2,
       "auf": "07:37",
       "unter": "18:05"
      },
@@ -456,50 +459,50 @@
       "datum": "2026-10-19",
       "code": 3,
       "max": 13,
-      "min": 6,
+      "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 71,
-      "uv": 2.6,
+      "wind": 13,
+      "windAus": 65,
+      "uv": 2.4,
       "auf": "07:38",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-20",
       "code": 3,
-      "max": 12,
-      "min": 4,
-      "regen": 12,
+      "max": 10,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
-      "wind": 13,
-      "windAus": 87,
-      "uv": 2.2,
+      "wind": 11,
+      "windAus": 80,
+      "uv": 2.5,
       "auf": "07:40",
       "unter": "18:00"
      },
      {
       "datum": "2026-10-21",
-      "code": 61,
-      "max": 14,
-      "min": 9,
-      "regen": 27,
-      "menge": 6,
-      "wind": 11,
-      "windAus": 117,
-      "uv": 2.3,
+      "code": 3,
+      "max": 13,
+      "min": 7,
+      "regen": 13,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 101,
+      "uv": 2.4,
       "auf": "07:42",
       "unter": "17:58"
      },
      {
       "datum": "2026-10-22",
       "code": 61,
-      "max": 13,
-      "min": 9,
-      "regen": 41,
-      "menge": 6.3,
-      "wind": 16,
-      "windAus": 249,
+      "max": 15,
+      "min": 6,
+      "regen": 29,
+      "menge": 0.6,
+      "wind": 11,
+      "windAus": 247,
       "uv": 1.7,
       "auf": "07:44",
       "unter": "17:56"
@@ -507,33 +510,147 @@
      {
       "datum": "2026-10-23",
       "code": 3,
-      "max": 16,
-      "min": 7,
-      "regen": 18,
-      "menge": 0.3,
-      "wind": 12,
-      "windAus": 181,
-      "uv": 2.3,
+      "max": 15,
+      "min": 6,
+      "regen": 29,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 186,
+      "uv": 1.4,
       "auf": "07:46",
       "unter": "17:54"
      }
     ],
     "stunden": [
      {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "13:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "18:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "01:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
       "zeit": "06:00",
-      "grad": 10,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 10,
-      "code": 2,
+      "grad": 12,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 10,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
@@ -541,127 +658,13 @@
       "zeit": "09:00",
       "grad": 11,
       "code": 3,
-      "regen": 6
+      "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 14
-     },
-     {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 24
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 27
-     },
-     {
-      "zeit": "15:00",
       "grad": 11,
       "code": 3,
-      "regen": 34
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 43
-     },
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 49
-     },
-     {
-      "zeit": "18:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 51
-     },
-     {
-      "zeit": "19:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 49
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 45
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 36
-     },
-     {
-      "zeit": "22:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "23:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 16
-     },
-     {
-      "zeit": "00:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 11
-     },
-     {
-      "zeit": "01:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "02:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 6
-     },
-     {
-      "zeit": "03:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "04:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "05:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 4
+      "regen": 0
      }
     ]
    },
@@ -671,66 +674,66 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 12,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 12,
-     "wind": 6,
-     "windAus": 256,
-     "feuchte": 84,
-     "druck": 1005,
+     "gefuehlt": 11,
+     "wind": 13,
+     "windAus": 329,
+     "feuchte": 85,
+     "druck": 1006,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
-     "code": 61,
+     "code": 3,
      "max": 14,
      "min": 10,
-     "regen": 65,
-     "menge": 1.3,
+     "regen": 40,
+     "menge": 0,
      "wind": 13,
-     "windAus": 309,
-     "uv": 0.5,
+     "windAus": 302,
+     "uv": 0.4,
      "auf": "07:37",
      "unter": "18:13"
     },
     "morgen": {
      "datum": "2026-10-18",
-     "code": 61,
+     "code": 3,
      "max": 14,
-     "min": 10,
-     "regen": 13,
+     "min": 9,
+     "regen": 3,
      "menge": 0,
      "wind": 11,
-     "windAus": 48,
-     "uv": 2.7,
+     "windAus": 53,
+     "uv": 2.4,
      "auf": "07:39",
      "unter": "18:11"
     },
     "tage": [
      {
       "datum": "2026-10-17",
-      "code": 61,
+      "code": 3,
       "max": 14,
       "min": 10,
-      "regen": 65,
-      "menge": 1.3,
+      "regen": 40,
+      "menge": 0,
       "wind": 13,
-      "windAus": 309,
-      "uv": 0.5,
+      "windAus": 302,
+      "uv": 0.4,
       "auf": "07:37",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-18",
-      "code": 61,
+      "code": 3,
       "max": 14,
-      "min": 10,
-      "regen": 13,
+      "min": 9,
+      "regen": 3,
       "menge": 0,
       "wind": 11,
-      "windAus": 48,
-      "uv": 2.7,
+      "windAus": 53,
+      "uv": 2.4,
       "auf": "07:39",
       "unter": "18:11"
      },
@@ -738,51 +741,51 @@
       "datum": "2026-10-19",
       "code": 3,
       "max": 13,
-      "min": 6,
-      "regen": 2,
+      "min": 5,
+      "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 69,
-      "uv": 2.8,
+      "windAus": 73,
+      "uv": 2.2,
       "auf": "07:40",
       "unter": "18:09"
      },
      {
       "datum": "2026-10-20",
-      "code": 61,
-      "max": 12,
-      "min": 6,
-      "regen": 10,
+      "code": 3,
+      "max": 11,
+      "min": 3,
+      "regen": 3,
       "menge": 0,
       "wind": 12,
-      "windAus": 80,
+      "windAus": 76,
       "uv": 2.8,
       "auf": "07:42",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-21",
-      "code": 61,
-      "max": 12,
+      "code": 45,
+      "max": 13,
       "min": 6,
-      "regen": 33,
-      "menge": 9.5,
-      "wind": 14,
-      "windAus": 272,
-      "uv": 2.1,
+      "regen": 13,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 141,
+      "uv": 2.4,
       "auf": "07:44",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-22",
       "code": 61,
-      "max": 14,
-      "min": 8,
-      "regen": 37,
-      "menge": 1.5,
-      "wind": 18,
-      "windAus": 244,
-      "uv": 2,
+      "max": 15,
+      "min": 7,
+      "regen": 40,
+      "menge": 1.2,
+      "wind": 15,
+      "windAus": 250,
+      "uv": 2.5,
       "auf": "07:46",
       "unter": "18:03"
      },
@@ -790,160 +793,160 @@
       "datum": "2026-10-23",
       "code": 3,
       "max": 15,
-      "min": 7,
-      "regen": 18,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 177,
-      "uv": 2.5,
+      "min": 4,
+      "regen": 31,
+      "menge": 0.3,
+      "wind": 9,
+      "windAus": 192,
+      "uv": 1.3,
       "auf": "07:47",
       "unter": "18:01"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "10:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 12
-     },
-     {
       "zeit": "11:00",
       "grad": 13,
       "code": 3,
-      "regen": 20
+      "regen": 3
      },
      {
       "zeit": "12:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 30
+      "regen": 13
      },
      {
       "zeit": "13:00",
       "grad": 12,
-      "code": 61,
-      "regen": 42
+      "code": 3,
+      "regen": 25
      },
      {
       "zeit": "14:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 51
+      "grad": 12,
+      "code": 3,
+      "regen": 35
      },
      {
       "zeit": "15:00",
       "grad": 11,
-      "code": 61,
-      "regen": 59
+      "code": 3,
+      "regen": 40
      },
      {
       "zeit": "16:00",
       "grad": 11,
-      "code": 61,
-      "regen": 65
+      "code": 3,
+      "regen": 25
      },
      {
       "zeit": "17:00",
       "grad": 11,
-      "code": 61,
-      "regen": 65
+      "code": 3,
+      "regen": 5
      },
      {
       "zeit": "18:00",
       "grad": 11,
-      "code": 61,
-      "regen": 57
+      "code": 3,
+      "regen": 13
      },
      {
       "zeit": "19:00",
       "grad": 11,
-      "code": 61,
-      "regen": 43
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "20:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 31
+      "grad": 11,
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "21:00",
       "grad": 10,
-      "code": 61,
-      "regen": 24
+      "code": 3,
+      "regen": 5
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 3,
-      "regen": 20
+      "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 10,
       "code": 3,
-      "regen": 16
+      "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 3,
-      "regen": 13
+      "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 61,
-      "regen": 12
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 10,
-      "code": 61,
-      "regen": 10
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 3,
-      "regen": 9
+      "regen": 3
      },
      {
       "zeit": "04:00",
       "grad": 10,
       "code": 3,
-      "regen": 7
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 10,
       "code": 3,
-      "regen": 6
+      "regen": 3
+     },
+     {
+      "zeit": "06:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -957,35 +960,35 @@
      "code": 3,
      "gefuehlt": 10,
      "wind": 16,
-     "windAus": 324,
-     "feuchte": 87,
-     "druck": 1015,
+     "windAus": 337,
+     "feuchte": 83,
+     "druck": 1017,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
      "code": 61,
      "max": 16,
-     "min": 11,
+     "min": 10,
      "regen": 92,
-     "menge": 6.7,
+     "menge": 3.5,
      "wind": 21,
-     "windAus": 332,
-     "uv": 2.7,
+     "windAus": 328,
+     "uv": 2,
      "auf": "07:58",
      "unter": "18:35"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 63,
-     "max": 12,
-     "min": 8,
+     "max": 13,
+     "min": 9,
      "regen": 59,
-     "menge": 10.4,
-     "wind": 11,
-     "windAus": 321,
-     "uv": 2.5,
+     "menge": 15.5,
+     "wind": 10,
+     "windAus": 2,
+     "uv": 2.8,
      "auf": "08:00",
      "unter": "18:33"
     },
@@ -994,32 +997,32 @@
       "datum": "2026-10-17",
       "code": 61,
       "max": 16,
-      "min": 11,
+      "min": 10,
       "regen": 92,
-      "menge": 6.7,
+      "menge": 3.5,
       "wind": 21,
-      "windAus": 332,
-      "uv": 2.7,
+      "windAus": 328,
+      "uv": 2,
       "auf": "07:58",
       "unter": "18:35"
      },
      {
       "datum": "2026-10-18",
       "code": 63,
-      "max": 12,
-      "min": 8,
+      "max": 13,
+      "min": 9,
       "regen": 59,
-      "menge": 10.4,
-      "wind": 11,
-      "windAus": 321,
-      "uv": 2.5,
+      "menge": 15.5,
+      "wind": 10,
+      "windAus": 2,
+      "uv": 2.8,
       "auf": "08:00",
       "unter": "18:33"
      },
      {
       "datum": "2026-10-19",
-      "code": 3,
-      "max": 16,
+      "code": 51,
+      "max": 18,
       "min": 9,
       "regen": 47,
       "menge": 0,
@@ -1031,152 +1034,122 @@
      },
      {
       "datum": "2026-10-20",
-      "code": 2,
+      "code": 3,
       "max": 14,
-      "min": 7,
+      "min": 6,
       "regen": 14,
       "menge": 0,
-      "wind": 13,
-      "windAus": 115,
+      "wind": 14,
+      "windAus": 114,
       "uv": 2.9,
       "auf": "08:03",
       "unter": "18:29"
      },
      {
       "datum": "2026-10-21",
-      "code": 55,
+      "code": 53,
       "max": 12,
       "min": 9,
       "regen": 61,
-      "menge": 10.8,
-      "wind": 15,
-      "windAus": 172,
-      "uv": 0.7,
+      "menge": 9.3,
+      "wind": 14,
+      "windAus": 146,
+      "uv": 2.2,
       "auf": "08:05",
       "unter": "18:27"
      },
      {
       "datum": "2026-10-22",
-      "code": 51,
-      "max": 13,
-      "min": 9,
+      "code": 3,
+      "max": 15,
+      "min": 7,
       "regen": 39,
-      "menge": 0.3,
-      "wind": 14,
-      "windAus": 243,
-      "uv": 1.2,
+      "menge": 0,
+      "wind": 16,
+      "windAus": 234,
+      "uv": 1.7,
       "auf": "08:06",
       "unter": "18:25"
      },
      {
       "datum": "2026-10-23",
       "code": 51,
-      "max": 12,
-      "min": 8,
+      "max": 11,
+      "min": 6,
       "regen": 37,
-      "menge": 0.9,
-      "wind": 15,
-      "windAus": 164,
-      "uv": 1.6,
+      "menge": 1.8,
+      "wind": 20,
+      "windAus": 166,
+      "uv": 1.1,
       "auf": "08:08",
       "unter": "18:23"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 70
-     },
-     {
-      "zeit": "07:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 66
-     },
-     {
-      "zeit": "08:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 61
-     },
-     {
-      "zeit": "09:00",
-      "grad": 12,
-      "code": 53,
-      "regen": 53
-     },
-     {
-      "zeit": "10:00",
-      "grad": 12,
-      "code": 53,
-      "regen": 44
-     },
-     {
       "zeit": "11:00",
       "grad": 12,
-      "code": 51,
+      "code": 3,
       "regen": 39
      },
      {
       "zeit": "12:00",
-      "grad": 13,
-      "code": 3,
+      "grad": 12,
+      "code": 51,
       "regen": 41
      },
      {
       "zeit": "13:00",
       "grad": 13,
-      "code": 3,
+      "code": 51,
       "regen": 48
      },
      {
       "zeit": "14:00",
       "grad": 13,
-      "code": 3,
+      "code": 51,
       "regen": 55
      },
      {
       "zeit": "15:00",
-      "grad": 14,
+      "grad": 12,
       "code": 3,
       "regen": 65
      },
      {
       "zeit": "16:00",
       "grad": 13,
-      "code": 53,
+      "code": 3,
       "regen": 76
      },
      {
       "zeit": "17:00",
-      "grad": 14,
-      "code": 0,
+      "grad": 13,
+      "code": 1,
       "regen": 78
      },
      {
       "zeit": "18:00",
-      "grad": 12,
-      "code": 61,
+      "grad": 13,
+      "code": 3,
       "regen": 62
      },
      {
       "zeit": "19:00",
-      "grad": 11,
-      "code": 1,
+      "grad": 12,
+      "code": 0,
       "regen": 36
      },
      {
       "zeit": "20:00",
       "grad": 11,
-      "code": 1,
+      "code": 0,
       "regen": 16
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 2,
+      "code": 3,
       "regen": 7
      },
      {
@@ -1187,14 +1160,14 @@
      },
      {
       "zeit": "23:00",
-      "grad": 11,
-      "code": 3,
+      "grad": 10,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 11,
-      "code": 3,
+      "grad": 10,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1205,27 +1178,57 @@
      },
      {
       "zeit": "02:00",
-      "grad": 9,
-      "code": 1,
+      "grad": 10,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
       "grad": 9,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "04:00",
-      "grad": 8,
+      "zeit": "05:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
       "code": 0,
       "regen": 0
      },
      {
-      "zeit": "05:00",
-      "grad": 8,
-      "code": 0,
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 1
      }
     ]
    },
@@ -1237,103 +1240,103 @@
     "jetzt": {
      "grad": 13,
      "code": 61,
-     "gefuehlt": 13,
-     "wind": 3,
-     "windAus": 6,
-     "feuchte": 92,
-     "druck": 1008,
+     "gefuehlt": 11,
+     "wind": 11,
+     "windAus": 354,
+     "feuchte": 77,
+     "druck": 1010,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
      "code": 61,
-     "max": 15,
-     "min": 10,
-     "regen": 75,
-     "menge": 2.7,
-     "wind": 16,
-     "windAus": 352,
-     "uv": 1.9,
+     "max": 14,
+     "min": 9,
+     "regen": 95,
+     "menge": 1.5,
+     "wind": 13,
+     "windAus": 354,
+     "uv": 0.7,
      "auf": "07:50",
      "unter": "18:30"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 61,
-     "max": 11,
+     "max": 13,
      "min": 8,
-     "regen": 33,
-     "menge": 0,
-     "wind": 12,
-     "windAus": 13,
-     "uv": 0.7,
-     "auf": "07:52",
+     "regen": 15,
+     "menge": 0.1,
+     "wind": 9,
+     "windAus": 25,
+     "uv": 1.2,
+     "auf": "07:51",
      "unter": "18:28"
     },
     "tage": [
      {
       "datum": "2026-10-17",
       "code": 61,
-      "max": 15,
-      "min": 10,
-      "regen": 75,
-      "menge": 2.7,
-      "wind": 16,
-      "windAus": 352,
-      "uv": 1.9,
+      "max": 14,
+      "min": 9,
+      "regen": 95,
+      "menge": 1.5,
+      "wind": 13,
+      "windAus": 354,
+      "uv": 0.7,
       "auf": "07:50",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 11,
+      "max": 13,
       "min": 8,
-      "regen": 33,
-      "menge": 0,
-      "wind": 12,
-      "windAus": 13,
-      "uv": 0.7,
-      "auf": "07:52",
+      "regen": 15,
+      "menge": 0.1,
+      "wind": 9,
+      "windAus": 25,
+      "uv": 1.2,
+      "auf": "07:51",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
-      "code": 61,
-      "max": 15,
-      "min": 7,
-      "regen": 19,
-      "menge": 0.3,
+      "code": 3,
+      "max": 17,
+      "min": 6,
+      "regen": 15,
+      "menge": 0,
       "wind": 11,
-      "windAus": 34,
-      "uv": 2.8,
+      "windAus": 37,
+      "uv": 3,
       "auf": "07:53",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
-      "code": 61,
+      "code": 3,
       "max": 13,
       "min": 3,
-      "regen": 8,
-      "menge": 0.9,
+      "regen": 2,
+      "menge": 0,
       "wind": 9,
-      "windAus": 52,
-      "uv": 2.9,
+      "windAus": 56,
+      "uv": 3,
       "auf": "07:55",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
-      "code": 63,
-      "max": 11,
-      "min": 8,
-      "regen": 47,
-      "menge": 12,
-      "wind": 10,
-      "windAus": 217,
-      "uv": 0.7,
+      "code": 3,
+      "max": 13,
+      "min": 3,
+      "regen": 41,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 27,
+      "uv": 0.6,
       "auf": "07:56",
       "unter": "18:22"
      },
@@ -1341,173 +1344,173 @@
       "datum": "2026-10-22",
       "code": 3,
       "max": 14,
-      "min": 3,
-      "regen": 38,
+      "min": 2,
+      "regen": 41,
       "menge": 0,
-      "wind": 16,
-      "windAus": 218,
-      "uv": 1.5,
+      "wind": 12,
+      "windAus": 236,
+      "uv": 2.4,
       "auf": "07:58",
       "unter": "18:20"
      },
      {
       "datum": "2026-10-23",
       "code": 61,
-      "max": 16,
-      "min": 5,
-      "regen": 23,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 170,
-      "uv": 2.5,
+      "max": 15,
+      "min": 0,
+      "regen": 28,
+      "menge": 3.9,
+      "wind": 12,
+      "windAus": 187,
+      "uv": 0.5,
       "auf": "08:00",
       "unter": "18:18"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "07:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 10
-     },
-     {
-      "zeit": "08:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 20
-     },
-     {
-      "zeit": "09:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 40
-     },
-     {
-      "zeit": "10:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 64
-     },
-     {
       "zeit": "11:00",
-      "grad": 12,
+      "grad": 13,
       "code": 61,
-      "regen": 75
+      "regen": 38
      },
      {
       "zeit": "12:00",
       "grad": 13,
       "code": 61,
-      "regen": 62
+      "regen": 28
      },
      {
       "zeit": "13:00",
       "grad": 13,
       "code": 61,
-      "regen": 37
+      "regen": 10
      },
      {
       "zeit": "14:00",
       "grad": 14,
       "code": 3,
-      "regen": 18
+      "regen": 8
      },
      {
       "zeit": "15:00",
       "grad": 14,
       "code": 3,
-      "regen": 14
+      "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 14,
       "code": 3,
-      "regen": 16
+      "regen": 3
      },
      {
       "zeit": "17:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
-      "regen": 16
+      "regen": 0
      },
      {
       "zeit": "18:00",
       "grad": 13,
       "code": 2,
-      "regen": 12
+      "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 6
+      "grad": 12,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 11,
       "code": 3,
-      "regen": 2
+      "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 10,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 10,
-      "code": 3,
+      "grad": 9,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 9,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 1
+      "grad": 9,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 2
+      "grad": 9,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
-      "regen": 2
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
-      "regen": 2
+      "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
-      "regen": 2
+      "regen": 3
+     },
+     {
+      "zeit": "06:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "09:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 10
      }
     ]
    },
@@ -1517,38 +1520,38 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 16,
-     "code": 3,
-     "gefuehlt": 15,
-     "wind": 4,
-     "windAus": 261,
-     "feuchte": 78,
-     "druck": 990,
-     "niederschlag": 0,
-     "tag": 0
+     "grad": 13,
+     "code": 61,
+     "gefuehlt": 11,
+     "wind": 10,
+     "windAus": 312,
+     "feuchte": 88,
+     "druck": 991,
+     "niederschlag": 0.3,
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
      "code": 80,
      "max": 16,
      "min": 10,
-     "regen": 100,
-     "menge": 11.7,
-     "wind": 14,
-     "windAus": 314,
-     "uv": 0.4,
+     "regen": 90,
+     "menge": 12.9,
+     "wind": 12,
+     "windAus": 317,
+     "uv": 0.5,
      "auf": "07:46",
      "unter": "18:30"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 61,
-     "max": 11,
-     "min": 8,
-     "regen": 98,
-     "menge": 3.3,
-     "wind": 8,
-     "windAus": 341,
+     "max": 12,
+     "min": 9,
+     "regen": 85,
+     "menge": 2.1,
+     "wind": 9,
+     "windAus": 350,
      "uv": 0.5,
      "auf": "07:47",
      "unter": "18:28"
@@ -1559,23 +1562,23 @@
       "code": 80,
       "max": 16,
       "min": 10,
-      "regen": 100,
-      "menge": 11.7,
-      "wind": 14,
-      "windAus": 314,
-      "uv": 0.4,
+      "regen": 90,
+      "menge": 12.9,
+      "wind": 12,
+      "windAus": 317,
+      "uv": 0.5,
       "auf": "07:46",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 11,
-      "min": 8,
-      "regen": 98,
-      "menge": 3.3,
-      "wind": 8,
-      "windAus": 341,
+      "max": 12,
+      "min": 9,
+      "regen": 85,
+      "menge": 2.1,
+      "wind": 9,
+      "windAus": 350,
       "uv": 0.5,
       "auf": "07:47",
       "unter": "18:28"
@@ -1583,115 +1586,85 @@
      {
       "datum": "2026-10-19",
       "code": 45,
-      "max": 15,
-      "min": 9,
-      "regen": 29,
+      "max": 17,
+      "min": 8,
+      "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 30,
-      "uv": 2.8,
+      "wind": 10,
+      "windAus": 56,
+      "uv": 3.1,
       "auf": "07:49",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
-      "code": 3,
-      "max": 14,
-      "min": 5,
-      "regen": 6,
-      "menge": 0.6,
-      "wind": 3,
-      "windAus": 57,
-      "uv": 3.1,
+      "code": 61,
+      "max": 13,
+      "min": 3,
+      "regen": 8,
+      "menge": 0.4,
+      "wind": 9,
+      "windAus": 90,
+      "uv": 2.9,
       "auf": "07:51",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
-      "code": 80,
-      "max": 10,
-      "min": 8,
-      "regen": 57,
-      "menge": 12.6,
+      "code": 61,
+      "max": 14,
+      "min": 6,
+      "regen": 45,
+      "menge": 1.5,
       "wind": 9,
-      "windAus": 250,
-      "uv": 0.5,
+      "windAus": 290,
+      "uv": 0.4,
       "auf": "07:52",
       "unter": "18:22"
      },
      {
       "datum": "2026-10-22",
-      "code": 3,
-      "max": 13,
-      "min": 5,
-      "regen": 51,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 219,
-      "uv": 2.3,
+      "code": 61,
+      "max": 12,
+      "min": 3,
+      "regen": 44,
+      "menge": 3.3,
+      "wind": 13,
+      "windAus": 259,
+      "uv": 2.6,
       "auf": "07:54",
       "unter": "18:20"
      },
      {
       "datum": "2026-10-23",
       "code": 3,
-      "max": 18,
-      "min": 1,
-      "regen": 17,
-      "menge": 0,
+      "max": 15,
+      "min": -1,
+      "regen": 21,
+      "menge": 0.4,
       "wind": 10,
-      "windAus": 174,
-      "uv": 2.8,
+      "windAus": 195,
+      "uv": 0.9,
       "auf": "07:55",
       "unter": "18:18"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 59
-     },
-     {
-      "zeit": "07:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 39
-     },
-     {
-      "zeit": "08:00",
-      "grad": 15,
-      "code": 61,
-      "regen": 25
-     },
-     {
-      "zeit": "09:00",
-      "grad": 14,
-      "code": 55,
-      "regen": 25
-     },
-     {
-      "zeit": "10:00",
+      "zeit": "11:00",
       "grad": 13,
       "code": 61,
-      "regen": 32
-     },
-     {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 43
+      "regen": 63
      },
      {
       "zeit": "12:00",
       "grad": 12,
       "code": 61,
-      "regen": 60
+      "regen": 75
      },
      {
       "zeit": "13:00",
-      "grad": 12,
+      "grad": 13,
       "code": 61,
       "regen": 80
      },
@@ -1699,97 +1672,127 @@
       "zeit": "14:00",
       "grad": 12,
       "code": 61,
-      "regen": 94
+      "regen": 83
      },
      {
       "zeit": "15:00",
       "grad": 11,
       "code": 61,
-      "regen": 97
+      "regen": 88
      },
      {
       "zeit": "16:00",
       "grad": 11,
       "code": 61,
-      "regen": 94
+      "regen": 90
      },
      {
       "zeit": "17:00",
       "grad": 11,
       "code": 61,
-      "regen": 92
+      "regen": 85
      },
      {
       "zeit": "18:00",
       "grad": 11,
       "code": 61,
-      "regen": 93
+      "regen": 80
      },
      {
       "zeit": "19:00",
       "grad": 10,
       "code": 61,
-      "regen": 94
+      "regen": 70
      },
      {
       "zeit": "20:00",
       "grad": 10,
       "code": 61,
-      "regen": 96
+      "regen": 58
      },
      {
       "zeit": "21:00",
       "grad": 10,
       "code": 61,
-      "regen": 98
+      "regen": 53
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 68
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 61,
-      "regen": 100
+      "code": 55,
+      "regen": 85
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 61,
-      "regen": 98
+      "regen": 83
      },
      {
       "zeit": "01:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 95
+      "regen": 85
      },
      {
       "zeit": "02:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 92
+      "regen": 75
      },
      {
       "zeit": "03:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 91
+      "regen": 75
      },
      {
       "zeit": "04:00",
       "grad": 9,
       "code": 61,
-      "regen": 89
+      "regen": 85
      },
      {
       "zeit": "05:00",
       "grad": 9,
       "code": 61,
-      "regen": 84
+      "regen": 80
+     },
+     {
+      "zeit": "06:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 58
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 30
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 38
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
      }
     ]
    },
@@ -1799,91 +1802,91 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 12,
+     "grad": 15,
      "code": 3,
-     "gefuehlt": 11,
-     "wind": 5,
-     "windAus": 240,
-     "feuchte": 81,
-     "druck": 959,
+     "gefuehlt": 15,
+     "wind": 7,
+     "windAus": 299,
+     "feuchte": 77,
+     "druck": 958,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
-     "code": 3,
+     "code": 80,
      "max": 16,
      "min": 10,
-     "regen": 20,
-     "menge": 0,
+     "regen": 45,
+     "menge": 0.1,
      "wind": 12,
-     "windAus": 305,
-     "uv": 1.5,
+     "windAus": 317,
+     "uv": 1.7,
      "auf": "07:35",
      "unter": "18:21"
     },
     "morgen": {
      "datum": "2026-10-18",
-     "code": 61,
-     "max": 17,
-     "min": 9,
-     "regen": 55,
-     "menge": 0.6,
+     "code": 80,
+     "max": 18,
+     "min": 10,
+     "regen": 45,
+     "menge": 0.3,
      "wind": 11,
-     "windAus": 42,
-     "uv": 0.9,
+     "windAus": 61,
+     "uv": 1.2,
      "auf": "07:37",
      "unter": "18:19"
     },
     "tage": [
      {
       "datum": "2026-10-17",
-      "code": 3,
+      "code": 80,
       "max": 16,
       "min": 10,
-      "regen": 20,
-      "menge": 0,
+      "regen": 45,
+      "menge": 0.1,
       "wind": 12,
-      "windAus": 305,
-      "uv": 1.5,
+      "windAus": 317,
+      "uv": 1.7,
       "auf": "07:35",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-18",
-      "code": 61,
-      "max": 17,
-      "min": 9,
-      "regen": 55,
-      "menge": 0.6,
+      "code": 80,
+      "max": 18,
+      "min": 10,
+      "regen": 45,
+      "menge": 0.3,
       "wind": 11,
-      "windAus": 42,
-      "uv": 0.9,
+      "windAus": 61,
+      "uv": 1.2,
       "auf": "07:37",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-19",
-      "code": 45,
-      "max": 15,
-      "min": 7,
-      "regen": 2,
+      "code": 3,
+      "max": 16,
+      "min": 6,
+      "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 68,
-      "uv": 3.2,
+      "wind": 13,
+      "windAus": 77,
+      "uv": 3,
       "auf": "07:38",
       "unter": "18:17"
      },
      {
       "datum": "2026-10-20",
       "code": 61,
-      "max": 13,
-      "min": 2,
-      "regen": 6,
-      "menge": 2.1,
-      "wind": 6,
-      "windAus": 72,
+      "max": 11,
+      "min": 4,
+      "regen": 3,
+      "menge": 0.5,
+      "wind": 9,
+      "windAus": 86,
       "uv": 3.1,
       "auf": "07:40",
       "unter": "18:15"
@@ -1891,103 +1894,73 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 9,
+      "max": 12,
       "min": 6,
-      "regen": 61,
-      "menge": 19.1,
-      "wind": 17,
-      "windAus": 257,
-      "uv": 1.1,
+      "regen": 53,
+      "menge": 3.6,
+      "wind": 7,
+      "windAus": 42,
+      "uv": 1.8,
       "auf": "07:41",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-22",
-      "code": 3,
-      "max": 11,
-      "min": 4,
-      "regen": 63,
-      "menge": 1.5,
-      "wind": 15,
-      "windAus": 256,
+      "code": 61,
+      "max": 10,
+      "min": 5,
+      "regen": 75,
+      "menge": 19.7,
+      "wind": 17,
+      "windAus": 260,
       "uv": 1.9,
       "auf": "07:43",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-23",
-      "code": 45,
-      "max": 15,
+      "code": 3,
+      "max": 12,
       "min": -1,
-      "regen": 20,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 141,
-      "uv": 2.8,
+      "regen": 55,
+      "menge": 0.1,
+      "wind": 6,
+      "windAus": 167,
+      "uv": 2.9,
       "auf": "07:44",
       "unter": "18:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "10:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 2
-     },
-     {
       "zeit": "11:00",
-      "grad": 14,
+      "grad": 15,
       "code": 3,
-      "regen": 4
+      "regen": 40
      },
      {
       "zeit": "12:00",
-      "grad": 15,
+      "grad": 16,
       "code": 3,
-      "regen": 7
+      "regen": 43
      },
      {
       "zeit": "13:00",
-      "grad": 15,
+      "grad": 16,
       "code": 3,
-      "regen": 11
+      "regen": 43
      },
      {
       "zeit": "14:00",
       "grad": 16,
       "code": 3,
-      "regen": 14
+      "regen": 23
      },
      {
       "zeit": "15:00",
       "grad": 16,
       "code": 3,
-      "regen": 16
+      "regen": 15
      },
      {
       "zeit": "16:00",
@@ -1997,90 +1970,120 @@
      },
      {
       "zeit": "17:00",
-      "grad": 15,
+      "grad": 16,
       "code": 3,
-      "regen": 18
+      "regen": 30
      },
      {
       "zeit": "18:00",
       "grad": 15,
-      "code": 3,
-      "regen": 16
+      "code": 80,
+      "regen": 23
      },
      {
       "zeit": "19:00",
       "grad": 14,
       "code": 3,
-      "regen": 12
+      "regen": 18
      },
      {
       "zeit": "20:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 10
+      "regen": 23
      },
      {
       "zeit": "21:00",
       "grad": 12,
-      "code": 3,
-      "regen": 11
+      "code": 80,
+      "regen": 30
      },
      {
       "zeit": "22:00",
       "grad": 11,
       "code": 3,
-      "regen": 14
+      "regen": 35
      },
      {
       "zeit": "23:00",
       "grad": 10,
       "code": 3,
-      "regen": 20
+      "regen": 45
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 61,
-      "regen": 30
+      "regen": 45
      },
      {
       "zeit": "01:00",
       "grad": 10,
       "code": 61,
-      "regen": 42
+      "regen": 13
      },
      {
       "zeit": "02:00",
       "grad": 10,
-      "code": 3,
-      "regen": 51
+      "code": 80,
+      "regen": 3
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 3,
-      "regen": 55
+      "regen": 3
      },
      {
       "zeit": "04:00",
       "grad": 10,
       "code": 3,
-      "regen": 55
+      "regen": 0
      },
      {
       "zeit": "05:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
       "grad": 10,
       "code": 3,
-      "regen": 51
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 10,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 13 und 16 Grad.",
-   "Die Vorhersage für morgen, Sonntag: im Norden und Osten Regenschauer, im Süden und Westen leichter Regen.",
-   "Die Temperaturen erreichen dann 11 bis 17 Grad.",
-   "Am wärmsten wird es in München mit 17 Grad.",
+   "Heute liegen die Höchstwerte zwischen 14 und 16 Grad.",
+   "Die Vorhersage für morgen, Sonntag: im Norden und Osten bewölkt, im Süden und Westen leichter Regen.",
+   "Die Temperaturen erreichen dann 12 bis 18 Grad.",
+   "Am wärmsten wird es in München mit 18 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2093,19 +2096,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 8.7
+       "regen": 3.7
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 14,
-       "regen": 5.2
+       "regen": 8.8
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 7
+       "grad": 15,
+       "regen": 9.3
       }
      ]
     },
@@ -2127,7 +2130,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
+       "grad": 15,
        "regen": 0.3
       }
      ]
@@ -2145,13 +2148,13 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 16,
-       "regen": 0
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 0
+       "regen": 0.2
       }
      ]
     },
@@ -2161,20 +2164,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 11.4
+       "grad": 13,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 13,
-       "regen": 2
+       "grad": 15,
+       "regen": 1.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 12,
-       "regen": 0.9
+       "regen": 0.2
       }
      ]
     },
@@ -2184,20 +2187,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 0
+       "grad": 13,
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 12,
-       "regen": 0.2
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 11,
-       "regen": 0.3
+       "regen": 0
       }
      ]
     },
@@ -2207,20 +2210,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 3.3
+       "grad": 12,
+       "regen": 2.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
-       "regen": 2.5
+       "grad": 11,
+       "regen": 0.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 4.9
+       "grad": 12,
+       "regen": 4.3
       }
      ]
     },
@@ -2230,38 +2233,38 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 17,
-       "regen": 0.6
+       "grad": 18,
+       "regen": 0.3
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 13,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 1.3
+       "regen": 2
       }
      ]
     }
    ],
-   "spanneGrad": 4,
+   "spanneGrad": 6,
    "uneinigRegen": {
     "ort": "Köln",
     "nass": [
-     "ICON",
      "GFS"
     ],
     "trocken": [
+     "ICON",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für München gehen die Modelle am weitesten auseinander: zwischen 13 und 17 Grad.",
-    "Und in Köln erwartet ICON und GFS Regen, ECMWF dagegen nicht."
+    "Für München gehen die Modelle am weitesten auseinander: zwischen 12 und 18 Grad.",
+    "Und in Köln erwartet GFS Regen, ICON und ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2453,6 +2456,1303 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "trump-russland-sanktionen-ausgesetzt",
+   "rubrik": "Welt",
+   "zeit": "2026-10-17T09:01:22.000Z",
+   "titel": "US-Präsident Donald Trump setzt geplante Zölle und Sanktionen gegen Russland aus",
+   "vorspann": "US-Präsident Donald Trump hat kurz vor dem Inkrafttreten ein vom Kongress beschlossenes Sanktionspaket gegen Russland vorläufig auf Eis gelegt. Das Weiße Haus begründete den Schritt mit dem nationalen Interesse der Vereinigten Staaten.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "US-Präsident Donald Trump hat ein vom Kongress beschlossenes Sanktionspaket gegen Russland kurz vor dem Inkrafttreten per Dekret auf Eis gelegt.",
+    "Das Weiße Haus begründete den Schritt mit dem nationalen Interesse der USA, nannte jedoch keine näheren Details zu den Gründen.",
+    "Russland begrüßte die Entscheidung ausdrücklich und verwies auf zuvor entstandene Schäden in der Wirtschaft.",
+    "Die Ukraine äußerte Kritik an den Schritten der US-Regierung, während in den USA gleichzeitig über die Energiepolitik und anstehende Wahlen debattiert wird."
+   ],
+   "einig": [
+    [
+     "US-Präsident Donald Trump hat geplante Zölle und Sanktionen gegen Russland per Dekret ausgesetzt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit"
+     ]
+    ],
+    [
+     "Das Weiße Haus begründete das Vorgehen mit dem nationalen Interesse der USA.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Der russische Wirtschaftsbeauftragte Kirill Dmitrijew bezeichnete den Schritt als historischen Moment.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Zeit"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Das Weiße Haus nannte bisher keine näheren Einzelheiten dazu, inwiefern die Aussetzung der Sanktionen im nationalen Interesse liegt (laut Tagesschau/ARD).",
+    "Über die Verantwortung für die Drosselung des Starlink-Internets in der Ukraine widersprechen sich die Aussagen von Donald Trump und Elon Musk (laut Tagesschau/ARD)."
+   ],
+   "positionen": [
+    [
+     "Donald Trump (US-Präsident)",
+     "Die Aussetzung der Sanktionen liegt im nationalen Interesse der USA; er bestreitet die Verantwortung für die Drosselung von Starlink.",
+     "Tagesschau/ARD, ZDFheute, Spiegel"
+    ],
+    [
+     "Kirill Dmitrijew (Russischer Wirtschaftsbeauftragter)",
+     "Die Aussetzung der US-Sanktionen ist ein wichtiger und wahrhaft historischer Moment, da die Maßnahmen schwere Schäden in der Wirtschaft verursacht hätten.",
+     "Tagesschau/ARD, ZDFheute, Zeit"
+    ],
+    [
+     "Wolodymyr Selenskyj (Ukrainischer Präsident)",
+     "Fühlt sich wegen des Dieseldeals und darauffolgender Drohungen von den USA betrogen.",
+     "ZDFheute, Spiegel"
+    ],
+    [
+     "Elon Musk (SpaceX-Chef)",
+     "Geschwindigkeits- und Nutzungsbeschränkungen von Starlink werden vom US-Militär und dem US-Präsidenten festgelegt.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Stellungnahmen der Regierungen von China, Indien oder offizieller Vertreter des US-Kongresses zu den aktuellen Schritten.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 10:35",
+     "fokus": "Sanktionsstopp und Starlink-Widerspruch",
+     "text": "Die Tagesschau berichtet ausführlich über die Begründung des Weiße Hauses sowie über den Widerspruch zwischen Trump und Elon Musk bezüglich des Starlink-Dienstes.",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-russland-ukraine-sanktionen-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 405,
+      "satzlaenge": 16,
+      "langeWoerter": 38
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 05:32",
+     "fokus": "Reaktionen der Ukraine und Experteneinschätzungen",
+     "text": "ZDFheute beleuchtet zusätzlich die Reaktionen des ukrainischen Präsidenten Selenskyj sowie Einschätzungen von Militäranalyst Oberst Reisner und Politikwissenschaftlerin Hanna Notte.",
+     "url": "https://www.zdfheute.de/politik/ausland/usa-zoelle-russland-oel-sanktionen-trump-ukraine-krieg-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 599,
+      "satzlaenge": 18,
+      "langeWoerter": 36
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 11:01",
+     "fokus": "Kurzmeldung zum Dekret",
+     "text": "Der Deutschlandfunk fasst in einer kurzen Meldung zusammen, dass der US-Präsident gegen Russland gerichtete Sanktionen teilweise per Dekret ausgesetzt hat.",
+     "url": "https://www.deutschlandfunk.de/us-praesident-trump-setzt-gegen-russland-gerichtete-sanktionen-teilweise-aus-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "17.10.26, 04:59",
+     "fokus": "Wirtschaftliche Hintergründe und Gesetzesdetails",
+     "text": "Der Spiegel konzentriert sich auf die genauen Inhalte des Graham-Gesetzes, die Auswirkungen auf den Energiesektor sowie den zeitlichen Ablauf bis zum Erlass des Dekrets.",
+     "url": "https://www.spiegel.de/ausland/donald-trump-stoppt-geplante-zoelle-gegen-russland-a-df6895bf-8a7f-4e7b-8233-6cde66878ea2#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 442,
+      "satzlaenge": 20,
+      "langeWoerter": 34
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "17.10.26, 11:01",
+     "fokus": "Reaktionen aus Russland",
+     "text": "Die Zeit legt einen Schwerpunkt auf die Stellungnahmen aus Russland und die Einordnung des Schrittes als historischen Moment durch den Kreml-Unterhändler.",
+     "url": "https://www.zeit.de/politik/ausland/2026-10/us-sanktionen-russland-donald-trump-ukraine-krieg-zoelle",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Zusätzliche Experten- und Länderstimmen",
+     "ZDFheute nennt detailliert Einschätzungen von Experten wie Oberst Reisner und Hanna Notte sowie die Reaktion des ukrainischen Präsidenten, während andere Berichte sich stärker auf die US-Regierung und den Kreml konzentrieren."
+    ]
+   ],
+   "wfragen": {
+    "wer": "US-Präsident Donald Trump",
+    "was": "Sanktionspaket und Zölle gegen Russland ausgesetzt",
+    "wann": "17.10.2026",
+    "wo": "Washington, USA",
+    "wie": "Per Dekret kurz vor Ablauf einer 30-Tage-Frist",
+    "warum": "Nationales Interesse, laut Weißes Haus",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel, Zeit"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "US-Präsident Donald Trump hat Teile eines im September verabschiedeten Sanktionspakets gegen Russland kurz vor dem geplanten Inkrafttreten gestoppt. Die darin vorgesehenen drastischen Strafmaßnahmen und Zölle ruhen damit laut den Berichten bis auf Weiteres. Das geht aus einem am Freitag in den USA veröffentlichten Dekret hervor. Die Maßnahmen sollten ursprünglich automatisch greifen, da eine vom US-Kongress gesetzte Frist von 30 Tagen kurz vor dem Abschluss stand. Der Kongress hatte das Gesetz zuvor mit einer parteiübergreifenden Mehrheit verabschiedet.",
+      "Das Weiße Haus erklärte das Vorgehen damit, dass die Aussetzung der Sanktionen zum jetzigen Zeitpunkt im nationalen Interesse der Vereinigten Staaten liege. Konkrete Angaben dazu, inwiefern dies der Fall sei, machte die US-Regierung laut den vorliegenden Berichten bisher nicht. Das Sanktionspaket trägt den Namen des im Juli verstorbenen US-Senators und Trump-Vertrauten Lindsey Graham. Er hatte den Entwurf maßgeblich vorangetrieben, um den Kreml wegen des Ukraine-Kriegs stärker unter Druck zu setzen.",
+      "Das Gesetz sieht neben direkten Sanktionen gegen russische Politiker und Firmen auch umfassende Strafmaßnahmen gegen den russischen Energiesektor vor. Dazu gehören Zölle auf Waren aus Ländern, die weiterhin große Mengen Öl aus Russland beziehen. Das Gesetz berechtigt den US-Präsidenten unter anderem dazu, die fünf größten Käufer russischer Energieträger mit Sanktionen zu belegen. Gleiches gilt für die fünf Staaten, die Russland am meisten dabei helfen, bestehende Energiesanktionen zu umgehen."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Durch die Regelungen könnten auch die Handelsbeziehungen der USA zu großen wirtschaftlichen Staaten wie China und Indien strapaziert werden, die große Mengen an russischem Erdöl beziehen. Das Sanktionspaket sollte den Druck auf den Kreml erhöhen, um den Angriffskrieg gegen die Ukraine zu beenden. Trump schien in den vergangenen Tagen jedoch andere Prioritäten zu setzen. So vereinbarte er ungeachtet bestehender Sanktionen die Lieferung von russischem Diesel in die Vereinigten Staaten und auf den Weltmarkt.",
+      "Nach Angaben von US-Präsident Trump wird Russland umgehend mehr als 300.000 Tonnen Diesel zur Verfügung stellen. Trump begründete den Schritt auch damit, dass er die in den vergangenen Monaten stark gestiegenen Spritpreise senken möchte. Die Benzin- und Dieselpreise waren infolge des Irankriegs nach oben geschnellt. Die Republikaner von US-Präsident Trump müssen sich in gut zwei Wochen den Wählern bei den Zwischenwahlen stellen.",
+      "Neben den Maßnahmen gegen den Energiesektor gab es Berichte über eine vorübergehende Drosselung des militärisch genutzten Satelliteninternets von Starlink in der Ukraine. Trump bestritt vor Reportern in Washington, für diese Drosselung verantwortlich zu sein. Dies stehe im Widerspruch zu Aussagen von Elon Musk, dem der Betreiberkonzern SpaceX gehört. Musk hatte auf der Plattform X erklärt, dass Geschwindigkeits- oder Nutzungsbeschränkungen vom US-Militär und letztlich vom US-Präsidenten festgelegt werden."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die Ukraine wehrt sich seit mehr als viereinhalb Jahren mit westlicher Militär- und Budgethilfe gegen die russische Invasion. Das vom Parlament beschlossene Gesetz sollte den Druck auf Moskau in diesem Konflikt massiv erhöhen. Viele Demokraten hatten im Vorfeld kritisiert, dass der Gesetzentwurf dem US-Präsidenten zu viel Freiraum bei der Verhängung oder Aussetzung von Sanktionen einräumt. Dieser Spielraum ermöglichte nun das per Dekret erlassene Aussetzen der Strafmaßnahmen.",
+      "Zuletzt verschärfte sich der Ton zwischen den Regierungen in Washington und Kyjiw. Laut ZDFheute ließ der ukrainische Präsident Wolodymyr Selenskyj Ende der Woche erkennen, dass er sich wegen des Dieseldeals zwischen Trump und dem russischen Präsidenten Wladimir Putin betrogen fühle. Hinzugekommen seien Drohungen in Richtung der ukrainischen Hauptstadt. Politikwissenschaftlerin Hanna Notte bewertet den Diesel-Deal laut ZDFheute als politischen Erfolg Russlands und sieht einen neuen Keil im Verhältnis zwischen Trump und Selenskyj.",
+      "Militäranalyst Oberst Reisner analysierte laut ZDFheute, dass es möglich sei, dass sich Trump endgültig von der Ukraine abwende. Der US-Präsident erhöhe den Druck auf das angegriffene Land bereits jetzt spürbar. Gleichzeitig verhandeln Unterhändler wie der Kreml-Gesandte Kirill Dmitrijew gemeinsam mit US-Gesandten wie Steve Witkoff und Jared Kushner über ein mögliches Ende des Krieges."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Die russische Regierung reagierte erfreut auf die Entscheidung aus Washington. Der Wirtschaftsbeauftragte des russischen Präsidenten Wladimir Putin, Kirill Dmitrijew, erklärte in Onlinenetzwerken, die Aussetzung der Sanktionen sei ein wichtiger und wahrhaft historischer Moment. Die Sanktionen hätten nach seinen Worten schwere Schäden in der US-Wirtschaft sowie auf den globalen Märkten verursacht.",
+      "Scharfe Kritik an den Vereinbarungen kam laut ZDFheute vom ukrainischen Präsidenten Wolodymyr Selenskyj. Er zeigte sich enttäuscht über die Annäherung bezüglich des Diesels und die darauffolgenden politischen Signale aus den USA.",
+      "US-Präsident Donald Trump erklärte vor Reportern, er habe eine Drosselung des Starlink-Internets in der Ukraine nicht veranlasst. Elon Musk betonte zuvor auf X, dass solche Beschränkungen vom US-Militär und dem US-Präsidenten festgelegt werden."
+     ]
+    },
+    {
+     "ueberschrift": "Hinsichtlich der weiteren Entwicklung",
+     "absaetze": [
+      "Die verabschiedeten Zölle und Strafmaßnahmen ruhen nun bis auf Weiteres, nachdem der US-Präsident sie kurz vor Ablauf der Frist per Dekret gestoppt hat. Ob und wann die Sanktionen zu einem späteren Zeitpunkt in Kraft treten oder dauerhaft aufgehoben werden, teilte das Weiße Haus zunächst nicht mit.",
+      "Die Lieferung der angekündigten 300.000 Tonnen Diesel aus Russland an die USA und den Weltmarkt soll nach den Aussagen des US-Präsidenten umgehend erfolgen, um die heimischen Spritpreise vor den anstehenden Zwischenwahlen zu entlasten."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Mitte September 2026",
+     "US-Präsident Donald Trump unterzeichnet ein vom Kongress verabschiedetes Sanktionspaket gegen Russland."
+    ],
+    [
+     "Mitte Oktober 2026",
+     "Trump setzt geplante Zölle und Sanktionen kurz vor Ablauf der 30-Tage-Frist per Dekret aus."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Donald Trump politician",
+     "bildunterschrift": "US-Präsident Donald Trump hat die Aussetzung von Sanktionen gegen Russland angeordnet."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Volodymyr Zelenskyy politician",
+     "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj äußerte Kritik an den Vereinbarungen zwischen den USA und Russland."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "",
+     "bildunterschrift": "Das Weiße Haus in Washington begründete die Entscheidung mit dem nationalen Interesse der Vereinigten Staaten."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Elon Musk entrepreneur",
+     "bildunterschrift": "Unternehmer Elon Musk äußerte sich zu den Nutzungsregulierungen des Satelliteninternets Starlink."
+    }
+   ],
+   "ort": {
+    "name": "Washington, USA"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das Wort 'Hinsichtlich der weiteren Entwicklung' wurde als neutrale Überschrift für den letzten Abschnitt angepasst."
+   ],
+   "wortwarnung": [
+    "massiv"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Sanktionen",
+      "Das sind wirtschaftliche Strafen oder Maßnahmen gegen ein Land, um dessen Politik zu beeinflussen."
+     ],
+     [
+      "Dekret",
+      "Das ist eine offizielle Anordnung oder ein Erlass von einer Regierungsspitze, zum Beispiel dem Präsidenten."
+     ],
+     [
+      "Kongress",
+      "Das ist das Parlament der Vereinigten Staaten, das aus Abgeordneten und Senatoren besteht und Gesetze beschließt."
+     ]
+    ],
+    "fragen": [
+     "Welche Gründe nennt das Weiße Haus für die Aussetzung der Sanktionen und welche Informationen fehlen dazu?",
+     "Wie bewerten unterschiedliche beteiligte Seiten wie Russland und die Ukraine die Entscheidungen der US-Regierung?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer hat die Zölle und Sanktionen gegen Russland per Dekret ausgesetzt?",
+      "optionen": [
+       "Der US-Kongress",
+       "Der US-Präsident Donald Trump",
+       "Der ukrainische Präsident Wolodymyr Selenskyj"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmender Berichte aller Quellen hat US-Präsident Donald Trump die Sanktionen per Dekret ausgesetzt."
+     },
+     {
+      "frage": "Wie begründete das Weiße Haus diesen Schritt?",
+      "optionen": [
+       "Mit dem nationalen Interesse der USA",
+       "Mit einer neuen Vereinbarung mit China",
+       "Mit sinkenden Steuern in Europa"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das Weiße Haus begründete das Vorgehen laut Tagesschau, ZDFheute und Spiegel damit, dass dies im nationalen Interesse der USA liege."
+     },
+     {
+      "frage": "Wie reagierte die russische Regierung auf die Entscheidung?",
+      "optionen": [
+       "Mit neuen Drohungen gegen Washington",
+       "Mit Unverständnis und Boykotten",
+       "Mit Freude und der Bezeichnung als historischer Moment"
+      ],
+      "richtig": 2,
+      "erklaerung": "Laut Tagesschau, ZDFheute und Zeit reagierte der Kreml erfreut und sprach von einem historischen Moment."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der amerikanische Präsident Donald Trump hat geplante Strafen gegen Russland gestoppt.",
+    "absaetze": [
+     "Vor einigen Wochen hatte das amerikanische Parlament ein Gesetz mit strengen Sanktionen beschlossen. Diese Strafen sollten den Kreml wegen des Krieges in der Ukraine unter Druck setzen.",
+     "Kurz vor dem Inkrafttreten hat der Präsident die Zölle und Sanktionen per Dekret vorläufig auf Eis gelegt. Das Weiße Haus erklärte dazu, dass dies im nationalen Interesse der Vereinigten Staaten liege.",
+     "Aus Russland gab es große Freude über die Entscheidung. Vertreter der Regierung bezeichneten den Schritt als historischen Moment.",
+     "Der ukrainische Präsident Wolodymyr Selenskyj kritisierte die Entscheidung scharf und fühlt sich von den Vereinigten Staaten betrogen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der amerikanische Präsident Donald Trump hat geplante Sanktionen gegen Russland ausgesetzt.",
+     "Das Weiße Haus begründete den Schritt mit dem nationalen Interesse der Vereinigten Staaten.",
+     "Aus Russland gab es positive Reaktionen, während die Ukraine die Entscheidung scharf kritisierte."
+    ],
+    "lang": [
+     "Der amerikanische Präsident Donald Trump hat ein vom Kongress beschlossenes Sanktionspaket gegen Russland per Dekret ausgesetzt.",
+     "Das Dekret wurde am siebzehnten Oktober des Jahres zweitausendsechsundzwanzig in Washington veröffentlicht.",
+     "Die Maßnahmen sollten ursprünglich nach einer Frist von dreißig Tagen automatisch in Kraft treten.",
+     "Das Weiße Haus begründete den Schritt damit, dass dies zum jetzigen Zeitpunkt im nationalen Interesse der Vereinigten Staaten liege.",
+     "Der russische Wirtschaftsbeauftragte Kirill Dmitrijew bezeichnete die Aussetzung der Sanktionen als einen historischen Moment.",
+     "Nach Angaben des US-Präsidenten will Russland umgehend mehr als dreihunderttausend Tonnen Diesel für die Vereinigten Staaten und den Weltmarkt bereitstellen.",
+     "Der ukrainische Präsident Wolodymyr Selenskyj äußerte Kritik und ließ erkennen, dass er sich von den Vereinigten Staaten betrogen fühle.",
+     "Das Sanktionsgesetz trägt den Namen des im Juli gestorbenen Senators Lindsey Graham.",
+     "Über den genauen Zeitpunkt eines möglichen Inkrafttretens der Sanktionen machte das Weiße Haus zunächst keine weiteren Angaben."
+    ],
+    "einfach": [
+     "Der US-Präsident Donald Trump hat Strafen gegen Russland gestoppt.",
+     "Das Weiße Haus sagte, das sei im nationalen Interesse.",
+     "Russland hat sich über diese Entscheidung gefreut.",
+     "Die Ukraine ist dagegen und hat die Entscheidung stark kritisiert.",
+     "Wann die Strafen doch noch kommen, ist derzeit völlig unklar."
+    ]
+   },
+   "kurz": [
+    "US-Präsident Donald Trump hat geplante Zölle und Sanktionen gegen Russland per Dekret ausgesetzt.",
+    "Das Weiße Haus begründete den Schritt mit dem nationalen Interesse der Vereinigten Staaten.",
+    "Die russische Regierung begrüßte die Entscheidung und sprach von einem historischen Moment.",
+    "Der ukrainische Präsident Wolodymyr Selenskyj äußerte scharfe Kritik an der Annäherung."
+   ],
+   "fakten": [
+    [
+     "Menge des angekündigten Diesels",
+     "mehr als 300.000 Tonnen"
+    ],
+    [
+     "Frist des Sanktionspakets",
+     "30 Tage nach der Unterzeichnung"
+    ]
+   ],
+   "dossier": {
+    "slug": "usa-sanktionen-russland-2026",
+    "titel": "US-Sanktionen gegen Russland"
+   },
+   "bildInfo": {
+    "titel": "Donald Trump official portrait.jpg",
+    "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+    "urheber": "Shealeah Craighead",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "art": "person",
+    "suchbegriff": "Donald Trump politician",
+    "bildunterschrift": "US-Präsident Donald Trump, der das Sanktionspaket vorläufig auf Eis gelegt hat.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Donald Trump official portrait.jpg",
+     "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+     "urheber": "Shealeah Craighead",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "Donald Trump politician",
+     "bildunterschrift": "US-Präsident Donald Trump, der das Sanktionspaket vorläufig auf Eis gelegt hat.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Washington, USA",
+    "lat": 38.895,
+    "lon": -77.036
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "trump-sprecherin-zacharia-ruecktritt",
+   "rubrik": "Welt",
+   "zeit": "2026-10-17T09:01:22.000Z",
+   "titel": "US-Präsidenten-Sprecherin Zacharia gibt Amt nach kurzer Zeit auf",
+   "vorspann": "Die Pressesprecherin des US-Präsidenten, Katie Zacharia, gibt ihr Amt nach nur wenigen Tagen ab. Zuvor war sie wegen ihres juristischen Werdegangs und ihres ersten Auftritts in die Kritik geraten.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Die neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt nach nur wenigen Tagen wieder auf.",
+    "Zuvor war sie wegen ihres juristischen Werdegangs und Unstimmigkeiten bezüglich einer Anwaltsprüfung massiv unter Druck geraten.",
+    "Ihr erster Auftritt im Weißen Haus dauerte nur 14 Minuten und wurde von Medien als unzureichend vorbereitet kritisiert.",
+    "Während US-Präsident Trump von einem Rücktritt sprach, berichteten mehrere Medien von einer Entlassung."
+   ],
+   "einig": [
+    [
+     "Katie Zacharia gibt ihr Amt als Pressesprecherin nach wenigen Tagen im Amt auf.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "US-Präsident Donald Trump erklärte vor Reportern, er habe Zacharia nahegelegt, den Verbleib im Amt zu überdenken.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Mehrere US-Medien berichteten, dass Zacharia entlassen wurde.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Zacharia räumte ein, durch eine Anwaltsprüfung gefallen zu sein.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob Zacharia freiwillig zurücktrat oder von Donald Trump entlassen wurde.",
+    "Wer die Nachfolge von Katie Zacharia antreten wird."
+   ],
+   "positionen": [
+    [
+     "Donald Trump (US-Präsident)",
+     "Die Medien sind sehr schlecht mit seiner Sprecherin umgegangen, und er wollte, dass sie glücklich ist.",
+     "Tagesschau/ARD,ZDFheute,Süddeutsche Zeitung"
+    ],
+    [
+     "US-Medien und informierte Personen",
+     "Zacharia wurde von dem Präsidenten entlassen.",
+     "Tagesschau/ARD,ZDFheute,Süddeutsche Zeitung"
+    ],
+    [
+     "Campaign for Accountability (NGO)",
+     "Fordert eine Untersuchung durch die Anwaltskammer in Kalifornien bezüglich der Berufsbezeichnung.",
+     "ZDFheute,Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Eine offizielle schriftliche Stellungnahme von Katie Zacharia selbst oder eine direkte Erklärung des Weißen Hauses zu den genauen Modalitäten des Ausscheidens.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.10.26, 21:42",
+     "fokus": "Hintergrund und Reaktionen",
+     "text": "Die Tagesschau beleuchtet vor allem die Aussagen von Trump und die Diskussion um die juristischen Qualifikationen der Sprecherin.",
+     "url": "https://www.tagesschau.de/ausland/amerika/zacharia-sprecherin-trump-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 413,
+      "satzlaenge": 17,
+      "langeWoerter": 31
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 07:44",
+     "fokus": "Ablauf und Details",
+     "text": "ZDFheute nennt konkrete Medien wie die New York Times und CNN als Quelle für die Entlassungsgerüchte und beschreibt den schnellen Einstellungsprozess.",
+     "url": "https://www.zdfheute.de/politik/ausland/katie-zacharia-sprecherin-trump-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 717,
+      "satzlaenge": 14,
+      "langeWoerter": 33
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 11:01",
+     "fokus": "–",
+     "text": "Die gerade erst angetretene neue Pressesprecherin von US-Präsident Trump, Zacharia, gibt ihr Amt Berichten zufolge wieder auf.",
+     "url": "https://www.deutschlandfunk.de/trumps-pressesprecherin-zacharia-tritt-wieder-ab-110.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "17.10.26, 06:55",
+     "fokus": "–",
+     "text": "Katie Zacharia war das neueste Sprachrohr des Weißen Hauses. Doch erst vergeigte sie ihr Debüt, dann kam ihr geschönter Lebenslauf ans Licht. Nun hält sie einen wenig schmeichelhaften Rekord. Was hinter dem Chaos steckt.",
+     "url": "https://www.spiegel.de/ausland/katie-zacharia-gefeuerte-trump-sprecherin-scheitert-nach-nur-fuenf-tagen-a-6b40d659-cbaf-41d6-89c2-93b91327deab#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 124,
+      "satzlaenge": 14,
+      "langeWoerter": 34
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.10.26, 21:12",
+     "fokus": "Medienkritik und Details",
+     "text": "Die Süddeutsche Zeitung geht ausführlich auf den holprigen Auftritt, den Vergleich mit Anthony Scaramucci und die Reaktionen im Internet ein.",
+     "url": "https://www.sueddeutsche.de/politik/donald-trump-katie-zacharia-pressesprecherin-weisses-haus-usa-li.3564848",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 797,
+      "satzlaenge": 14,
+      "langeWoerter": 31
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Details zur Entlassung",
+     "Einige Berichte betonen stärker die Version der Entlassung durch US-Medien, während andere Trumps Darstellung des freiwilligen Nachdenkens hervorheben."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Katie Zacharia und US-Präsident Donald Trump",
+    "was": "Rücktritt beziehungsweise Entlassung als Pressesprecherin",
+    "wann": "Oktober 2026",
+    "wo": "Washington, USA",
+    "wie": "Nach nur einer Woche im Amt und nach umstrittenen Äußerungen",
+    "warum": "Unstimmigkeiten über den Lebenslauf und mediale Kritik, laut Berichten",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel, Süddeutsche Zeitung"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Ende der Amtszeit",
+     "absaetze": [
+      "Die erst kürzlich ernannte Pressesprecherin des US-Präsidenten Donald Trump, Katie Zacharia, verlässt ihren Posten im Weißen Haus nach nur wenigen Tagen wieder. Sie hatte den Dienst erst am Montag angetreten und trat nun nach kurzer Zeit von ihrem Amt zurück beziehungsweise musste es räumen. Dies bestätigte unter anderem ein hochrangiger Regierungsbeamter gegenüber Nachrichtenagenturen. Die Personalie sorgt nach nur einer Woche für erhebliche Aufmerksamkeit in der politischen Öffentlichkeit der Vereinigten Staaten. Ein offizielles Statement lag zunächst nicht vor.",
+      "Der Rückzug beendet eine der kürzesten Amtszeiten einer Regierungssprecherin in der Geschichte der US-Regierung. Sie unterbietet damit den bisherigen Rekord von Anthony Scaramucci aus dem Jahr 2017, welcher damals nach elf Tagen als Kommunikationsdirektor abgelöst wurde. US-Präsident Donald Trump erklärte vor Journalisten, er habe es nicht eilig, sofort eine Nachfolge zu bestimmen. Bislang wurde keine Person benannt, die den Posten übernehmen wird. Die Suche nach einer Nachfolge für die freigewordene Position hat demnach noch nicht zu einem Ergebnis geführt.",
+      "Die Umstände des Ausscheidens sind Gegenstand unterschiedlicher Darstellungen in den Medien. Während US-Präsident Donald Trump erklärte, er habe ihr lediglich nahegelegt, den Verbleib im Amt zu überdenken, berichteten mehrere US-Medien übereinstimmend unter Berufung auf interne Quellen von einer Entlassung. Demnach sollen vertraute Personen des Präsidenten bestätigt haben, dass Zacharia entlassen wurde. Auch ranghohe Mitarbeiter äußerten sich entsprechend gegenüber Agenturen."
+     ]
+    },
+    {
+     "ueberschrift": "Vorgeschichte und beruflicher Werdegang",
+     "absaetze": [
+      "Katie Zacharia war erst in der Woche vor ihrer Ernennung von US-Präsident Donald Trump als Nachfolgerin für Karoline Leavitt ausgewählt worden. Leavitt hatte ihr Amt Ende August mit dem Wunsch begründet, mehr Zeit für ihre Familie verbringen zu wollen. Zacharia schilderte den Ablauf ihrer Ernennung so, dass Trump sie angerufen habe und sie daraufhin am Donnerstag nach Washington geflogen sei. Am Freitag habe sie das Angebot angenommen, woraufhin sie am Samstag kurz nach Kalifornien flog, um ihre Koffer zu packen. Am darauffolgenden Sonntag kehrte sie in die US-Hauptstadt zurück, um die Arbeit am Montag aufzunehmen.",
+      "Vor ihrer Ernennung zur Pressesprecherin war Zacharia als Kommunikationsberaterin bei Trump Media and Technology tätig. Dieses Unternehmen betreibt die Plattform Truth Social des Präsidenten. Zudem trat sie als Kommentatorin bei verschiedenen Sendern wie Fox News und Newsmax auf und verfasste Beiträge für Publikationen wie die New York Post. Im Frühjahr war sie kurzzeitig als stellvertretende Leiterin des Kommunikationsteams im Ministerium für innere Sicherheit unter Kristi Noem tätig. Ihre Bekanntheit in der Bewegung basierte unter anderem auf ihrem Auftreten als Unterstützerin des Präsidenten.",
+      "Die berufliche Qualifikation von Zacharia geriet rasch in den Fokus der Öffentlichkeit. Sie hatte in einem Interview mit dem Sender Fox News eingeräumt, dass sie durch eine Anwaltsprüfung gefallen war. Dennoch bezeichnete sie sich in der Vergangenheit mehrfach als Anwältin. Dies führte zu einer intensiven Debatte über den feinen Unterschied zwischen den englischen Begriffen attorney und lawyer. Während attorney eine offizielle Anwaltszulassung voraussetzt, wird lawyer im allgemeinen Sprachgebrauch teils auch für Personen verwendet, die ein Jurastudium abgeschlossen haben."
+     ]
+    },
+    {
+     "ueberschrift": "Der erste öffentliche Auftritt und die Kritik",
+     "absaetze": [
+      "Am Dienstag absolvierte Katie Zacharia ihre erste und einzige reguläre Pressekonferenz im Presseraum des Weißen Haus. Der Auftritt dauerte lediglich 14 Minuten und verlief nach Einschätzung von Beobachtern holprig. Sie wirkte nervös, versprach sich mehrfach und verwechselte nach Berichten der Süddeutschen Zeitung den Präsidenten mit ihrem Ehemann. Medienberichten zufolge begründete sie die Schwierigkeiten mit einer sehr kurzen Vorbereitungszeit und der Tatsache, dass sie die Unterlagen erst kurz vor Beginn erhalten habe.",
+      "In einer Sendung bei Fox News verteidigte Zacharia ihren Auftritt teilweise, räumte jedoch ein, dass sie wahrscheinlich keine Fragen hätte beantworten sollen. Sie wies den Vorwurf zurück, sie habe sich bewusst fälschlicherweise als Anwältin ausgegeben. Sie erklärte, Beiträge mit entsprechenden Bezeichnungen lediglich geteilt und nicht selbst verfasst zu haben. Kritiker und Beobachter verwiesen jedoch auf zahlreiche Posts, in denen sie als Anwältin bezeichnet wurde oder sich selbst so nannte.",
+      "Die Kontroverse um ihre Qualifikation führte zu konkreten rechtlichen Schritten außerhalb der Regierung. Die Organisation Campaign for Accountability reichte eine offizielle Beschwerde bei der Anwaltskammer im US-Bundesstaat Kalifornien ein. Sie forderte darin eine formelle Untersuchung der Angaben von Zacharia bezüglich ihrer juristischen Zulassung. Ob diese Beschwerde rechtliche Konsequenzen nach sich zieht, ist gegenwärtig nicht abschließend geklärt."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen der Beteiligten",
+     "absaetze": [
+      "US-Präsident Donald Trump äußerte sich vor Journalisten vor dem Weißen Haus zu den Vorgängen. Er gab den Medien die Hauptschuld an dem Debakel und erklärte, diese seien sehr schlecht mit seiner Sprecherin umgegangen. Er habe zu ihr gesagt, dass sie sich das nicht antun müsse und er lediglich wolle, dass sie glücklich sei. Seine Entscheidung, sie ins Amt zu berufen, hatte er zuvor mit ihrer Loyalität und ihrem Status als Anhängerin begründet.",
+      "Katie Zacharia selbst betonte während ihrer Medienauftritte, dass sie sich der Herausforderung trotz der kurzen Vorbereitungszeit gestellt habe. Sie äußerte sich dankbar für die Chance, für den Präsidenten arbeiten zu dürfen, betonte jedoch gleichzeitig den hohen Druck, dem sie in den vergangenen Tagen ausgesetzt war. Eine offizielle persönliche Erklärung zu ihrem Rücktritt lag bis zum Ende der Berichterstattung nicht vor."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Eine Nachfolge für den Posten der Pressesprecherin des Weißen Haus steht nach Angaben von US-Präsident Donald Trump derzeit noch nicht fest. Der US-Präsident betonte vor Reportern, er habe es nicht eilig, einen neuen Mitarbeiter oder eine neue Mitarbeiterin zu ernennen. Bis zur Ernennung einer Nachfolge bleibt die Position vakant. Die Anwaltskammer in Kalifornien muss zudem über den Umgang mit der eingereichten Beschwerde entscheiden."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Freitag",
+     "US-Präsident Donald Trump ernennt Katie Zacharia zur neuen Pressesprecherin."
+    ],
+    [
+     "Montag",
+     "Katie Zacharia tritt offiziell ihr Amt im Weißen Haus an."
+    ],
+    [
+     "Dienstag",
+     "Zacharia hält ihre erste, 14 Minuten lange Pressekonferenz ab."
+    ],
+    [
+     "Mittwoch",
+     "Eine Organisation reicht Beschwerde bei der Anwaltskammer in Kalifornien ein."
+    ],
+    [
+     "Donnerstag/Freitag",
+     "Der Rücktritt beziehungsweise die Entlassung von Zacharia wird bekannt."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Donald Trump politician",
+     "bildunterschrift": "US-Präsident Donald Trump, der die Personalie verantwortete und sich zu dem Vorgang äußerte."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "The White House Washington",
+     "bildunterschrift": "Das Weiße Haus in Washington, in dem die Pressesprecherin tätig war."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Press conference microphone",
+     "bildunterschrift": "Ein Mikrofon im Presseraum symbolisiert die Tätigkeit der Regierungssprecherin."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "California State Capitol",
+     "bildunterschrift": "Das Parlamentsgebäude in Kalifornien, dem Bundesstaat, in dem die Anwaltsprüfung und die Beschwerde verortet sind."
+    }
+   ],
+   "ort": {
+    "name": "Washington, USA"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Fehlende oder ungenaue Quellenangaben in den Positionen korrigiert.",
+    "Bezug von MAGA-Bewegung auf die allgemeine Berichterstattung angepasst."
+   ],
+   "wortwarnung": [
+    "Debakel",
+    "massiv"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Pressesprecherin oder Pressesprecher",
+      "Eine Person, die im Namen einer Regierung oder einer Organisation mit den Medien und der Öffentlichkeit spricht."
+     ],
+     [
+      "Anwaltsprüfung",
+      "Eine staatliche Prüfung, die man bestehen muss, um als zugelassene Anwältin oder zugelassener Anwalt zu arbeiten."
+     ]
+    ],
+    "fragen": [
+     "Welche Probleme kann es geben, wenn Angaben im Lebenslauf von wichtigen Politik-Mitarbeitern nicht stimmen?",
+     "Warum ist es für eine Berichterstattung wichtig, ob ein Politiker jemanden entlässt oder ob jemand freiwillig zurücktritt?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie lange war Katie Zacharia ungefähr im Amt?",
+      "optionen": [
+       "Genau einen Monat",
+       "Weniger als eine Woche",
+       "Genau ein Jahr"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Berichte von Tagesschau, ZDFheute und Süddeutscher Zeitung stimmen überein, dass sie nach nur einer Woche beziehungsweise wenigen Tagen ihr Amt wieder aufgibt."
+     },
+     {
+      "frage": "Was räumte Katie Zacharia in einem Interview ein?",
+      "optionen": [
+       "Dass sie durch eine Anwaltsprüfung gefallen war",
+       "Dass sie niemals studiert hatte",
+       "Dass sie die Chefin von Donald Trump war"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, ZDFheute und Süddeutscher Zeitung gab sie zu, durch eine Anwaltsprüfung gefallen zu sein."
+     },
+     {
+      "frage": "Was berichteten mehrere US-Medien über ihr Ausscheiden?",
+      "optionen": [
+       "Dass sie eine Goldmedaille erhalten habe",
+       "Dass sie entlassen wurde",
+       "Dass sie für ein anderes Land arbeiten wird"
+      ],
+      "richtig": 1,
+      "erklaerung": "Mehrere US-Medien berichteten laut Tagesschau, ZDFheute und Süddeutscher Zeitung übereinstimmend, dass Zacharia von dem Präsidenten entlassen wurde."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die neue Pressesprecherin des US-Präsidenten hört nach wenigen Tagen wieder auf.",
+    "absaetze": [
+     "Katie Zacharia war erst seit Kurzem die Sprecherin von US-Präsident Donald Trump.",
+     "Vor ihrem Rücktritt gab es viel Kritik an ihrem ersten Auftritt im Weißen Haus.",
+     "Zudem stritt man sich über ihre Ausbildung zur Anwältin und eine nicht bestandene Prüfung.",
+     "Trump sagte, er habe ihr den Rücktritt überlassen.",
+     "Mehrere Medien berichteten dagegen, dass der Präsident sie entlassen habe."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die neue US-Regierungssprecherin Katie Zacharia gibt ihr Amt nach nur einer Woche auf.",
+     "US-Präsident Donald Trump sagte, er habe ihr nahegelegt, den Verbleib im Amt zu überdenken.",
+     "Medien berichteten dagegen übereinstimmend von einer Entlassung der Sprecherin.",
+     "Zuvor gab es heftige Diskussionen über ihre berufliche Qualifikation."
+    ],
+    "lang": [
+     "Die neue Pressesprecherin von US-Präsident Donald Trump, Katie Zacharia, gibt ihr Amt nach nur einer Woche wieder auf.",
+     "Das bestätigte nach Angaben von Nachrichtenagenturen ein hochrangiger Regierungsbeamter.",
+     "Zacharia hatte ihren Posten erst am Montag angetreten.",
+     "Auslöser für die Kritik waren unter anderem Fragen zu ihrem juristischen Werdegang und eine nicht bestandene Anwaltsprüfung.",
+     "Bei ihrer ersten Pressekonferenz am Dienstag wirkte sie nach Berichten von Medien nervös.",
+     "Der Auftritt dauerte lediglich vierzehn Minuten.",
+     "US-Präsident Trump erklärte vor Reportern, er habe Zacharia nahegelegt, den Verbleib im Amt zu überdenken.",
+     "Mehrere US-Medien berichteten dagegen unter Berufung auf informierte Quellen, dass der Präsident sie entlassen habe.",
+     "Eine offizielle schriftliche Erklärung lag zunächst nicht vor.",
+     "Bislang ist noch unklar, wer die Nachfolge von Zacharia antreten wird."
+    ],
+    "einfach": [
+     "Katie Zacharia ist nicht mehr die Sprecherin des US-Präsidenten.",
+     "Sie war erst vor wenigen Tagen in das Amt gestartet.",
+     "Bei ihrem ersten Auftritt gab es große Probleme.",
+     "Zudem gab es Streit um ihren Beruf als Anwältin.",
+     "Trump sagte, sie könne selber entscheiden.",
+     "Andere Medien meldeten aber, dass sie entlassen wurde."
+    ]
+   },
+   "kurz": [
+    "Katie Zacharia gibt ihr Amt als Pressesprecherin nach nur einer Woche wieder auf.",
+    "US-Präsident Trump sprach von einer Überlegung zum Rücktritt, Medien berichteten von einer Entlassung.",
+    "Zuvor gab es Kritik an ihrem juristischen Werdegang und ihrem ersten Auftritt."
+   ],
+   "fakten": [
+    [
+     "Dauer des ersten Auftritts",
+     "14 Minuten"
+    ],
+    [
+     "Amtszeit",
+     "weniger als eine Woche"
+    ]
+   ],
+   "dossier": {
+    "slug": "us-regierung-personalwechsel",
+    "titel": "Personalwechsel in der US-Regierung"
+   },
+   "bildInfo": {
+    "titel": "White House north and south sides.jpg",
+    "beschreibung": "The north (top) and south (bottom) sides of the White House in Washington, D.C.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/1280px-White_House_north_and_south_sides.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_north_and_south_sides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:White_House_north_and_south_sides.jpg",
+    "urheber": "(top) Cezary p (bottom) MattWade",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Weißes Haus",
+    "sprache": "de",
+    "art": "institution",
+    "suchbegriff": "The White House Washington",
+    "bildunterschrift": "Das Weiße Haus in Washington, der Amtssitz des US-Präsidenten.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "White House north and south sides.jpg",
+     "beschreibung": "The north (top) and south (bottom) sides of the White House in Washington, D.C.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/1280px-White_House_north_and_south_sides.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/White_House_north_and_south_sides.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:White_House_north_and_south_sides.jpg",
+     "urheber": "(top) Cezary p (bottom) MattWade",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Weißes Haus",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "The White House Washington",
+     "bildunterschrift": "Das Weiße Haus in Washington, der Amtssitz des US-Präsidenten.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Press conference, Busworld Europe 2025, Brussels (20251002-P1051390).jpg",
+     "beschreibung": "Press conference on the eve of Busworld Europe 2025",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg/1280px-Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/73/Press_conference%2C_Busworld_Europe_2025%2C_Brussels_%2820251002-P1051390%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Press_conference,_Busworld_Europe_2025,_Brussels_(20251002-P1051390).jpg",
+     "urheber": "Matti Blume",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0/deed.en",
+     "art": "symbol",
+     "suchbegriff": "Press conference microphone",
+     "bildunterschrift": "Ein Mikrofon bei einer Pressekonferenz, thematisch passend zur Sprecherin des Präsidenten.",
+     "hinweis": "Symbolbild"
+    }
+   ],
+   "ortInfo": {
+    "name": "Washington, USA",
+    "lat": 38.895,
+    "lon": -77.036
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "bundesliga-frankfurt-koeln",
+   "rubrik": "Sport",
+   "zeit": "2026-10-17T09:01:22.000Z",
+   "titel": "Eintracht Frankfurt gewinnt Bundesligaspiel gegen den 1. FC Köln",
+   "vorspann": "Eintracht Frankfurt hat das Heimspiel am sechsten Spieltag der Fußball-Bundesliga gegen den 1. FC Köln mit 1:0 gewonnen. Den entscheidenden Treffer erzielte der Nationalspieler Younes Ebnoutalib in der 77. Minute.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Eintracht Frankfurt hat das Bundesliga-Heimspiel gegen den 1. FC Köln am sechsten Spieltag mit 1:0 gewonnen.",
+    "Den Siegtreffer erzielte der Nationalspieler Younes Ebnoutalib in der 77. Minute nach einer Vorlage von Noel Aseko.",
+    "Nach dem Spiel kam es laut Spiegel aufgrund eines Fehlalarms zu einer kurzen Evakuierung des Stadiongebäudes."
+   ],
+   "einig": [
+    [
+     "Das Spiel endete mit einem 1:0-Sieg für Eintracht Frankfurt gegen den 1. FC Köln.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit"
+     ]
+    ],
+    [
+     "Das Siegtor erzielte Younes Ebnoutalib in der 77. Minute.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Frankfurt erlitt am vorherigen Spieltag eine 0:6-Niederlage gegen RB Leipzig.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Ursache für den Fehlalarm im Stadion ist laut Spiegel noch nicht offiziell bestätigt."
+   ],
+   "positionen": [
+    [
+     "Marvin Schwäbe (Torhüter 1. FC Köln)",
+     "Fand die Niederlage extrem bitter und sah sein Team in der ersten Hälfte aktiv.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Younes Ebnoutalib (Spieler Eintracht Frankfurt)",
+     "Bezeichnete die Woche als mental schwer und betonte die gewollte Reaktion der Mannschaft.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Adi Hütter (Trainer Eintracht Frankfurt)",
+     "Lobte Kapitän Robin Koch für dessen Leistung.",
+     "Spiegel"
+    ]
+   ],
+   "fehlend": "Stimmen von Spielern des 1. FC Köln außer Marvin Schwäbe sowie offizielle Erklärungen der Stadionleitung zum Fehlalarm.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.10.26, 23:16",
+     "fokus": "Spielverlauf und Spielerzitate",
+     "text": "Der Bericht schildert detailliert die einzelnen Torchancen beider Mannschaften und zitiert beteiligte Spieler nach dem Abpfiff.",
+     "url": "https://www.sportschau.de/fussball/bundesliga/viele-flanken-und-ein-geistesblitz-frankfurt-besiegt-koeln,spielbericht-eintracht-frankfurt-koeln-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 701,
+      "satzlaenge": 23,
+      "langeWoerter": 29
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.10.26, 23:06",
+     "fokus": "Taktische Aufstellung und Reaktionen",
+     "text": "Der Text beleuchtet die taktischen Veränderungen der Trainer und ordnet den Sieg in die Tabellensituation ein.",
+     "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-eintracht-frankfurt-effzeh-koeln-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "leicht",
+      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
+      "klasse": 8,
+      "minuten": 2,
+      "woerter": 452,
+      "satzlaenge": 14,
+      "langeWoerter": 33
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "17.10.26, 11:01",
+     "fokus": "–",
+     "text": "Zum Auftakt des sechsten Spieltages in der Fußball-Bundesliga hat Eintracht Frankfurt gegen den 1. FC Köln mit 1:0 gewonnen. Den Siegtreffer erzielte Neu-Nationalspieler Younes Ebnoutalib in der 77. Minute.",
+     "url": "https://www.deutschlandfunk.de/erster-heimsieg-seit-sieben-monaten-frankfurt-besiegt-koeln-104.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "17.10.26, 10:56",
+     "fokus": "Stadion-Evakuierung und Defensivstatistik",
+     "text": "Der Artikel ergänzt den Spielbericht um Informationen zu einem Fehlalarm nach Spielende und statistische Daten zur Defensive.",
+     "url": "https://www.spiegel.de/sport/fussball/bundesliga-stadion-von-eintracht-frankfurt-nach-sieg-gegen-den-1-fc-koeln-geraeumt-a-d9a74f52-c736-40bc-a585-b057a3964f65#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 197,
+      "satzlaenge": 16,
+      "langeWoerter": 32
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.10.26, 23:18",
+     "fokus": "–",
+     "text": "Eintracht Frankfurt kämpft bis zum Ende gegen Köln und wird dafür belohnt. Nach sechs erfolglosen Heimspielen gelingt ihr wieder ein Sieg. Der Spielbericht",
+     "url": "https://www.zeit.de/sport/2026-10/fussball-bundesliga-6-spieltag-2026-27-eintracht-frankfurt-koeln",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Stadion-Evakuierung",
+     "Nur der Spiegel berichtet über den Fehlalarm und die Evakuierung des Stadiongebäudes nach Spielende."
+    ],
+    [
+     "Statistische Details",
+     "Der Spiegel nennt Details zu den bisherigen Gegentoren der Frankfurter Defensive, während andere Quellen darauf nicht eingehen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Eintracht Frankfurt und der 1. FC Köln",
+    "was": "Ein 1:0 im Fußball-Bundesligaspiel",
+    "wann": "16.10.2026",
+    "wo": "Frankfurt, Deutschland",
+    "wie": "Durch ein Tor in der 77. Minute nach langer torloser Phase",
+    "warum": "Sportlicher Wettbewerb am sechsten Spieltag",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel, Zeit"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Spielgeschehen",
+     "absaetze": [
+      "Zum Auftakt des sechsten Spieltages in der Fußball-Bundesliga trafen Eintracht Frankfurt und der 1. FC Köln aufeinander. Das Spiel endete vor heimischem Publikum mit einem 1:0 für die Frankfurter Mannschaft. Die Begegnung blieb in der ersten Halbzeit torlos und verlief weitgehend chancenarm. Beide Mannschaften zeigten zu Beginn eine hohe Motivation, konnten jedoch im Offensivspiel zunächst wenige Akzente setzen.",
+      "Bereits in der ersten Spielminute ergab sich eine erste Tormöglichkeit für die Gäste aus Köln. Nach einem Stellungsfehler in der Abwehr lief Marius Bülter frei auf das Tor zu, scheiterte jedoch an Frankfurts Torhüter Noah Atubolu. Auf der Gegenseite verfehlte Ebnoutalib in der Anfangsphase das Tor aus aussichtsreicher Position. Die Partie beruhigte sich im Anschluss deutlich, wobei die Frankfurter zunehmend die Spielkontrolle übernahmen.",
+      "Vor dem Pausenpfiff verzeichnete Köln eine weitere Möglichkeit durch Said El Mala, dessen Schuss nach einem langen Sprint das Tor verfehlte. Die erste Halbzeit endete folgerichtig 0:0. Beide Teams blieben im ersten Durchgang hinter den offensiven Erwartungen zurück."
+     ]
+    },
+    {
+     "ueberschrift": "Die zweite Halbzeit und das Siegtor",
+     "absaetze": [
+      "Die zweite Halbzeit begann mit druckvolleren Aktionen der Frankfurter Mannschaft. Ebnoutalib verfehlte das Kölner Tor kurz nach Wiederbeginn per Kopfball knapp. In der Folgezeit erarbeiteten sich die Gastgeber mehrere Standardsituationen und Flanken, die jedoch von der Kölner Defensive oder Torhüter Marvin Schwäbe geklärt wurden. Köln kam in dieser Phase kaum noch zu Entlastungsangriffen und war überwiegend mit der Defensivarbeit beschäftigt.",
+      "Trainer auf beiden Seiten nahmen im Verlauf der zweiten Halbzeit mehrere Spielerwechsel vor, um neue Impulse zu setzen. Bei Frankfurt ersetzte unter anderem Ansgar Knauff den verletzten Nnamdi Collins. Auch Noel Aseko wurde eingewechselt. Die Kölner Trainerseite reagierte ebenfalls mit mehreren Einwechslungen, um dem Offensivdruck der Gastgeber entgegenzuwirken.",
+      "In der 77. Minute fiel schließlich der einzige Treffer der Begegnung durch eine Kombination von Aseko und Ebnoutalib. Aseko setzte sich am Strafraum durch und spielte den Ball zu Ebnoutalib. Dieser schloss zum 1:0 für Eintracht Frankfurt ab. Die Kölner versuchten in der Schlussphase durch verstärkte Bemühungen den Ausgleich zu erzielen, blieben jedoch ohne Torerfolg."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund und Ausgangslage",
+     "absaetze": [
+      "Beide Vereine gingen mit unterschiedlichen Ergebnissen und Vorzeichen in diese Begegnung des sechsten Spieltages. Eintracht Frankfurt hatte am vorherigen Spieltag eine 0:6-Niederlage gegen RB Leipzig hinnehmen müssen. Der 1. FC Köln war hingegen mit einem Derbysieg gegen Borussia Mönchengladbach in die Partie gegangen. Durch den Heimsieg verbesserte sich Frankfurt, während Köln den Sprung auf einen höheren Tabellenplatz verpasste.",
+      "Die Trainer hatten ihre Startaufstellungen im Vergleich zum vorherigen Spiel teilweise verändert. Frankfurts Trainer Adi Hütter nahm drei Wechsel vor. Kölns Trainer René Wagner veränderte seine Startelf auf zwei Positionen, da Ellyes Skhiri verletzt ausfiel und Mikey Moore zunächst auf der Ersatzbank Platz nahm. Köln agierte taktisch mit einer Dreier- beziehungsweise Fünferkette.",
+      "Laut Spiegel verfügt die Eintracht mit insgesamt 16 Gegentoren über die drittschlechteste Defensive der Liga. Der Verein stand vor dem Spiel sportlich unter Druck und benötigte diesen Erfolg zur Stabilisierung."
+     ]
+    },
+    {
+     "ueberschrift": "Stadionvorfall nach Spielende",
+     "absaetze": [
+      "Laut Berichten des Magazins Spiegel kam es nach dem Schlusspfiff zu einem Zwischenfall im Stadion von Eintracht Frankfurt. Ein Fehlalarm führte zu einer vorübergehenden Evakuierung des Pressekonferenzraumes sowie des anwesenden Publikums. Um 23:18 Uhr ertönte ein Alarmsignal mit einer automatischen Durchsage, die das Verlassen des Gebäudes wegen einer technischen Störung anforderte.",
+      "Fans sammelten sich nach den Berichten vor dem Stadionbereich. Ein Feuerwehrauto und mehrere Krankenwagen trafen kurzzeitig am Veranstaltungsort ein, rückten jedoch nach wenigen Minuten wieder ab. Der Alarm endete nach einer Dauer von rund 15 Minuten. Laut einer Berichterstattung der Bild-Zeitung, die laut Spiegel nicht offiziell bestätigt wurde, könnte ein technischer Defekt in der Sauna der Eintracht-Kabine den Alarm ausgelöst haben."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen der Beteiligten",
+     "absaetze": [
+      "Kölns Torhüter Marvin Schwäbe äußerte sich nach dem Spiel enttäuscht über das Ergebnis. Laut Tagesschau/ARD empfand er die Niederlage als extrem bitter und betonte, seine Mannschaft hätte sich für die aktive und positive erste Hälfte belohnen müssen. Der Trainer des 1. FC Köln hatte vor dem Spiel von seiner Mannschaft viel Mut und Selbstbewusstsein gefordert.",
+      "Der Torschütze Younes Ebnoutalib sprach gegenüber den Medien von einer mental schwierigen Woche. Er erklärte laut Tagesschau/ARD, dass das Team nach den vergangenen Tagen eine positive Reaktion zeigen wollte. Frankfurts Trainer Adi Hütter lobte insbesondere die Leistung seines Kapitäns Robin Koch. Laut Spiegel äußerte Hütter ein Extralob für Koch.",
+      "Trainer Adi Hütter hatte vor der Partie gefordert, dass seine Mannschaft bis zum Schluss kämpfen müsse. Nach der herben Niederlage gegen Leipzig war die sportliche Erwartung an das Team hoch gewesen."
+     ]
+    },
+    {
+     "ueberschrift": "Ausblick",
+     "absaetze": [
+      "Für Eintracht Frankfurt steht am kommenden Samstagabend das nächste Pflichtspiel in der Fußball-Bundesliga an. Die Mannschaft tritt dann zu einem Auswärtsspiel bei Borussia Dortmund an.",
+      "Der 1. FC Köln bestreitet sein nächstes Spiel ebenfalls am kommenden Samstag. Die Kölner empfangen im eigenen Stadion den FC Schalke 04. Beide Vereine setzen ihre Saison damit mit den Begegnungen des nächsten Spieltages fort."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "1. Minute",
+     "Marius Bülter scheitert freistehend an Frankfurts Torhüter Noah Atubolu."
+    ],
+    [
+     "48. Minute",
+     "Younes Ebnoutalib köpft knapp am Kölner Tor vorbei."
+    ],
+    [
+     "77. Minute",
+     "Younes Ebnoutalib erzielt nach Vorarbeit von Noel Aseko das 1:0 für Eintracht Frankfurt."
+    ],
+    [
+     "23:18 Uhr",
+     "Ein technischer Fehlalarm löst eine kurze Evakuierung des Stadionbereichs aus."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Adi Hütter football manager",
+     "bildunterschrift": "Der Trainer von Eintracht Frankfurt, Adi Hütter, steuerte die taktische Ausrichtung der Mannschaft."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Deutsche Bank Park stadium Frankfurt",
+     "bildunterschrift": "Der Deutsche Bank Park in Frankfurt war der Austragungsort der Bundesliga-Begegnung."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "1. FC Köln logo",
+     "bildunterschrift": "Das Wappen des 1. FC Köln, der das Auswärtsspiel in Frankfurt bestritt."
+    },
+    {
+     "art": "keins",
+     "suchbegriff": "Football pitch markings",
+     "bildunterschrift": "Ein Fußballfeld, auf dem die Bundesligaspiele des sechsten Spieltages ausgetragen wurden."
+    }
+   ],
+   "ort": {
+    "name": "Frankfurt, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Entfernte unbelegte oder wertende Formulierungen im Text und passte Angaben zur Neutralität an.",
+    "Korrigierte den Halbzeitstand im Artikel von 0:1 zu 0:0 gemäß den Berichten."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Bundesliga",
+      "Die Bundesliga ist die höchste deutsche Spielklasse im professionellen Vereinsfußball."
+     ],
+     [
+      "Heimspiel",
+      "Ein Heimspiel ist eine Sportbegegnung, die im eigenen Stadion des Vereins ausgetragen wird."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielen Traineranalysen für die Leistung einer Mannschaft nach einer hohen Niederlage?",
+     "Wie beeinflussen Medienberichte über technische Störungen nach einem Spiel die Wahrnehmung eines Sportereignisses?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer erzielte das Siegtor für Eintracht Frankfurt?",
+      "optionen": [
+       "Younes Ebnoutalib",
+       "Robin Koch",
+       "Mario Götze"
+      ],
+      "richtig": 0,
+      "erklaerung": "Younes Ebnoutalib erzielte das entscheidende Tor in der 77. Minute."
+     },
+     {
+      "frage": "Wie endete das Spiel zwischen Frankfurt und Köln?",
+      "optionen": [
+       "2:1",
+       "1:0",
+       "0:0"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Spiel endete mit einem 1:0-Sieg für Eintracht Frankfurt."
+     },
+     {
+      "frage": "Gegen welchen Verein verlor Frankfurt am Spieltag zuvor mit 0:6?",
+      "optionen": [
+       "1. FC Köln",
+       "Borussia Dortmund",
+       "RB Leipzig"
+      ],
+      "richtig": 2,
+      "erklaerung": "Frankfurt erlitt am vorherigen Spieltag eine Niederlage gegen RB Leipzig."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Eintracht Frankfurt hat ein wichtiges Fußballspiel in der Bundesliga gewonnen.",
+    "absaetze": [
+     "Am sechsten Spieltag der Bundesliga spielte Eintracht Frankfurt gegen den 1. FC Köln.",
+     "Das Spiel fand in Frankfurt statt und endete mit einem Ergebniss von 1:0 für die Eintracht.",
+     "Lange Zeit fiel kein Tor in der Partie.",
+     "In der 77. Minute erzielte der Spieler Younes Ebnoutalib das einzige Tor des Spiels.",
+     "Nach dem Spiel gab es laut Medienberichten einen kurzen Fehlalarm im Stadion."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Eintracht Frankfurt gewinnt das Bundesligaspiel gegen den 1. FC Köln mit 1:0.",
+     "Das entscheidende Tor erzielt Younes Ebnoutalib in der siebenundsiebzigsten Minute.",
+     "Für Frankfurt ist dies ein wichtiger Erfolg nach vorherigen Niederlagen."
+    ],
+    "lang": [
+     "Eintracht Frankfurt hat das Heimspiel gegen den 1. FC Köln in der Fußball-Bundesliga gewonnen.",
+     "Die Begegnung am sechsten Spieltag endete mit einem Ergebnis von 1:0 für die Eintracht.",
+     "Das Spiel fand im Stadion in Frankfurt statt.",
+     "Lange Zeit blieben beide Mannschaften ohne Torerfolg.",
+     "In der siebenundsiebzigsten Minute erzielte Younes Ebnoutalib das siegreiche Tor.",
+     "Den Pass zu dem Treffer gab sein Mitspieler Noel Aseko.",
+     "Nach Angaben der beteiligten Spieler war die Mannschaft zuvor stark gefordert.",
+     "Der Kölner Torhüter Marvin Schwäbe nannte die Niederlage nach dem Spiel extrem bitter.",
+     "In der Tabelle rückt Frankfurt durch den Sieg vor.",
+     "Als Nächstes spielt Frankfurt gegen Borussia Dortmund."
+    ],
+    "einfach": [
+     "Eintracht Frankfurt hat gegen den 1. FC Köln gespielt.",
+     "Das Fußballspiel endete 1:0 für Frankfurt.",
+     "Younes Ebnoutalib schoss das einzige Tor in der Partie.",
+     "Das Tor fiel in der siebenundsiebzigsten Spielminute.",
+     "Für Frankfurt ist es ein wichtiger Sieg in der Bundesliga."
+    ]
+   },
+   "kurz": [
+    "Eintracht Frankfurt gewinnt das Bundesliga-Heimspiel gegen den 1. FC Köln mit 1:0.",
+    "Den entscheidenden Treffer erzielt Younes Ebnoutalib in der 77. Minute.",
+    "Nach dem Spiel kommt es laut Medienberichten zu einem Fehlalarm im Stadion."
+   ],
+   "fakten": [
+    [
+     "Spielminute des Tores",
+     "77"
+    ],
+    [
+     "Spieltag",
+     "6"
+    ]
+   ],
+   "dossier": {
+    "slug": "bundesliga-saison-2026",
+    "titel": "Fußball-Bundesliga"
+   },
+   "bildInfo": {
+    "titel": "Deutsche bank park.jpg",
+    "beschreibung": "Deutsche Bank Park in Frankfurt/Main",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Deutsche_bank_park.jpg/1280px-Deutsche_bank_park.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Deutsche_bank_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Deutsche_bank_park.jpg",
+    "urheber": "Patrik Meyer",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Deutsche Bank Park",
+    "sprache": "de",
+    "art": "ort",
+    "suchbegriff": "Deutsche Bank Park stadium Frankfurt",
+    "bildunterschrift": "Der Deutsche Bank Park in Frankfurt, der Austragungsort des Bundesligaspiels.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Deutsche bank park.jpg",
+     "beschreibung": "Deutsche Bank Park in Frankfurt/Main",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Deutsche_bank_park.jpg/1280px-Deutsche_bank_park.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Deutsche_bank_park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Deutsche_bank_park.jpg",
+     "urheber": "Patrik Meyer",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Deutsche Bank Park",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Deutsche Bank Park stadium Frankfurt",
+     "bildunterschrift": "Der Deutsche Bank Park in Frankfurt, der Austragungsort des Bundesligaspiels.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Frankfurt, Deutschland",
+    "lat": 50.111,
+    "lon": 8.682
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
   {
    "id": "tabaksteuer-erhoehung-bundestag",
    "rubrik": "Deutschland",
@@ -2954,7 +4254,7 @@
       30.62,
       38.72,
       43.52,
-      50.0
+      50
      ]
     },
     {
@@ -3951,7 +5251,7 @@
     {
      "k": "Deutschland und Frankreich wollen das geplante Verbot von Verbrennungsmotoren in",
      "d": "63597fc438.mp3",
-     "l": 60.0,
+     "l": 60,
      "s": [
       0.25,
       8.73,
@@ -4064,6 +5364,420 @@
      ]
     }
    ]
+  },
+  {
+   "id": "eurowings-streicht-fluege-kurzarbeit",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-16T17:37:09.000Z",
+   "titel": "Eurowings prüft Kurzarbeit und streicht Flüge wegen gestiegener Kerosinkosten",
+   "vorspann": "Die Fluggesellschaft Eurowings kürzt ihr Flugangebot im Winter und prüft die Einführung von Kurzarbeit. Als Grund für die Sparmaßnahmen nennt die Lufthansa-Tochter stark gestiegene Kerosinkosten infolge des Iran-Kriegs.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Eurowings streicht Flüge und prüft wegen hoher Kerosinkosten Kurzarbeit für das Winterhalbjahr.",
+    "Als Grund nennt die Lufthansa-Tochter den Iran-Krieg und die stark gestiegenen Spritpreise.",
+    "Das Unternehmen kürzt das Winterprogramm um fünf Prozent und streicht unter anderem Dubai-Verbindungen.",
+    "Die Gewerkschaft ver.di fordert eine Aufstockung des Kurzarbeitergeldes und verweist auf Lufthansa-Gewinne."
+   ],
+   "einig": [
+    [
+     "Eurowings prüft Kurzarbeit wegen hoher Kerosinkosten.",
+     [
+      "Tagesschau/ARD",
+      "Zeit",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Gespräche mit der Bundesagentur für Arbeit finden statt.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Das Winterangebot wird um rund fünf Prozent gekürzt.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Gewerkschaft ver.di will bei der Kurzarbeit mitreden und fordert eine Aufstockung.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Das genaue Ausmaß der geplanten Kurzarbeit ist laut Unternehmen noch unklar.",
+    "Ob weitere ganze Strecken oder nur einzelne Flüge gestrichen werden, wird laut Berichten noch geprüft."
+   ],
+   "positionen": [
+    [
+     "Eurowings Management",
+     "Hohe Kerosinkosten durch den Iran-Krieg erfordern harte Sparmaßnahmen und Kurzarbeit.",
+     "Tagesschau/ARD,Süddeutsche Zeitung"
+    ],
+    [
+     "Marvin Reschinsky (ver.di-Sekretär)",
+     "Die Gewerkschaft will bei der Kurzarbeit mitreden und fordert eine Aufstockung, da die Lufthansa Gewinne erwirtschaftet.",
+     "Tagesschau/ARD,Süddeutsche Zeitung"
+    ],
+    [
+     "Oliver Löwe (VC-Vize)",
+     "Kritik an der Lufthansa-Minderheitsbeteiligung an der portugiesischen TAP, während gleichzeitig den Beschäftigten harte Einschnitte zugemutet werden.",
+     "Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Stimmen von Vertretern der Bundesagentur für Arbeit oder der Bundesregierung.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.10.26, 18:52",
+     "fokus": "Kosten und Details der Kürzungen",
+     "text": "Die Tagesschau berichtet umfassend über die genauen Mehrkosten von 250 Millionen Euro und die gestrichenen Dubai-Flüge ab Köln und Stuttgart.",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eurowings-kurzarbeit-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 265,
+      "satzlaenge": 11,
+      "langeWoerter": 37
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.10.26, 14:03",
+     "fokus": "Kerosinpreisentwicklung",
+     "text": "Der Spiegel erwähnt in seinem Artikel, dass Kerosin fast dreimal so viel kostet wie vor dem Krieg.",
+     "url": "https://www.spiegel.de/wirtschaft/eurowings-prueft-kurzarbeit-kerosin-krise-bei-lufthansa-tochter-a-c4fb0ddf-188c-4e26-97f5-2720d443e851#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 144,
+      "satzlaenge": 16,
+      "langeWoerter": 32
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.10.26, 19:37",
+     "fokus": "–",
+     "text": "Die Lufthansa-Tochter Eurowings hat wegen der gestiegenen Spritpreise erste Flüge gestrichen. Die Airline prüft, ob sie Kurzarbeit ansetzt. Gespräche dazu laufen.",
+     "url": "https://www.zeit.de/wirtschaft/2026-10/eurowings-kurzarbeit-kerosinkosten-fluege-lufthansa",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.10.26, 16:02",
+     "fokus": "Gewerkschaftskritik und Streckendetails",
+     "text": "Die Süddeutsche Zeitung ergänzt die Berichterstattung um Zitate des ver.di-Sekretärs und der Pilotenvereinigung Cockpit zur TAP-Beteiligung.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/eurowings-kurzarbeit-kerosinkosten-lufthansa-flugstreichungen-li.3564764",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 1,
+      "woerter": 257,
+      "satzlaenge": 16,
+      "langeWoerter": 39
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Zusätzliche Gewerkschaftsstimmen",
+     "Die Süddeutsche Zeitung nennt zusätzlich die Kritik der Pilotenvereinigung Cockpit an der TAP-Übernahme, die in anderen Quellen nicht auftaucht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Die Fluggesellschaft Eurowings",
+    "was": "Flugstreichungen und Prüfung von Kurzarbeit",
+    "wann": "16.10.2026",
+    "wo": "Köln, Deutschland",
+    "wie": "Durch Gespräche mit der Arbeitsagentur und Programmkürzungen",
+    "warum": "Höhere Kerosinkosten laut Management",
+    "quellenlage": "Unternehmensangaben und Gewerkschaftsreaktionen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Fluggesellschaft Eurowings hat angesichts gestiegener Betriebskosten angekündigt, ihr Flugangebot im kommenden Winter zu reduzieren. Nach Angaben des Unternehmens soll das Programm um rund fünf Prozent gekürzt werden. Ein Sprecher bestätigte entsprechende Schritte gegenüber der Öffentlichkeit.",
+      "Zusätzlich zu den Flugstreichungen prüft die Lufthansa-Tochter die Einführung von Kurzarbeit für ihre Beschäftigten. Das Unternehmen hat in dieser Woche eine schriftliche Information an die Mitarbeiterinnen und Mitarbeiter verschickt. Entsprechende Gespräche mit der Bundesagentur für Arbeit laufen bereits.",
+      "Zu dem konkreten zeitlichen Ablauf der Kurzarbeit und dem genauen Ausmaß machte das Unternehmen bislang keine Angaben. Die Belegschaft wurde über diesen Schritt schriftlich unterrichtet. Das Management begründet die Maßnahmen mit einer wachsenden Lücke zwischen Einnahmen und Ausgaben."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Von den Streichungen sind unter anderem die kürzlich erst eingerichteten Verbindungen von Köln und Stuttgart nach Dubai betroffen. Laut Angaben der Süddeutschen Zeitung wird die Strecke ab Berlin dagegen weiter bedient. Auf sehr langen Flugstrecken sei der Nachteil durch den verteuerten Treibstoff besonders hoch.",
+      "Weitere Streichungen sollen nach Unternehmensangaben eher einzelne Flüge betreffen, jedoch keine ganzen Strecken mehr. Das Management beziffert die zusätzlichen Kosten für Kerosin allein im laufenden Jahr auf fast 250 Millionen Euro mehr als ursprünglich geplant. Dies geht aus einem internen Brief des Managements hervor, den die Tagesschau einsehen konnte.",
+      "Neben den Flugangeboten plant das Unternehmen weitere Einsparungen im internen Bereich. So wurde eine geplante betriebliche Weihnachtsfeier abgesagt. Zudem sollen in der Verwaltung bis zum Ende des Jahres 2028 rund 100 Arbeitsplätze wegfallen."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Als Hauptursache für die finanzielle Belastung nennt die Airline den Iran-Krieg und die damit verbundenen höheren Kerosinpreise. Der Treibstoff für Flugzeuge hat sich demnach stark verteuert. Nach Angaben des Spiegel kostet Kerosin fast dreimal so viel wie vor dem Konflikt.",
+      "Die hohen Kerosinkosten setzen Fluggesellschaften weltweit unter wirtschaftlichen Druck. Die traditionell schwierigen Wintermonate verstärken die finanzielle Lücke zwischen Einnahmen und Ausgaben nach Einschätzung des Managements zusätzlich. Kunden müssen laut Berichten vorerst nicht mit günstigeren Ticketpreisen rechnen.",
+      "Die Lufthansa-Tochter reagiert mit diesen Schritten auf die veränderten Rahmenbedingungen im globalen Luftverkehr. Die Maßnahmen sollen dazu dienen, die wirtschaftlichen Folgen der gestiegenen Energiepreise abzufedern. Das Unternehmen sieht sich durch die Entwicklung zu strukturellen Einsparungen gezwungen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Unter Kurzarbeit versteht man einen vorübergehenden Arbeitsausfall in einem Betrieb, bei dem die Arbeitszeit der Beschäftigten verkürzt wird. Staatliche Institutionen wie die Bundesagentur für Arbeit zahlen in dieser Zeit einen Teil des Lohns als sogenannten Kurzarbeitergeld-Ersatz, um Arbeitsplätze zu sichern.",
+      "Eine Lufthansa-Tochter ist ein Unternehmen, das wirtschaftlich und rechtlich zum Luftfahrtkonzern Lufthansa gehört, aber als eigenständige Fluggesellschaft am Markt agiert. Gewerkschaften wie ver.di oder die Vereinigung Cockpit vertreten die Interessen der Arbeitnehmerinnen und Arbeitnehmer in Tariffragen und Verhandlungen mit Arbeitgebern."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Die Dienstleistungsgewerkschaft ver.di kündigte an, bei der konkreten Ausgestaltung der Kurzarbeit mitreden zu wollen. Der ver.di-Sekretär Marvin Reschinsky erklärte laut der Süddeutschen Zeitung, dass die Gewerkschaft darauf pocht, Zahlungen der Arbeitsagentur gegebenenfalls aufzustocken. Als Begründung verwies er darauf, dass die Muttergesellschaft Lufthansa unter dem Strich aktuell Gewinne erwirtschafte.",
+      "Die Pilotengewerkschaft Vereinigung Cockpit kritisierte den Lufthansa-Konzern vorab für andere Entscheidungen. Der VC-Vize Oliver Löwe erklärte laut Süddeutscher Zeitung, wer in Lissabon bereit sei, einen erheblichen Aufpreis für eine Minderheitsbeteiligung an der portugiesischen TAP zu zahlen, könne gegenüber den eigenen Beschäftigten nicht so tun, als seien harte Einschnitte alternativlos."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Das Unternehmen führt derzeit Gespräche mit der Bundesagentur für Arbeit über die mögliche Umsetzung der Kurzarbeit. Das Management wird die Belegschaft über die weiteren Schritte informieren.",
+      "Das Winterflugangebot wird entsprechend den Planungen um rund fünf Prozent gekürzt. Die angekündigten Einsparungen in der Verwaltung sollen schrittweise bis zum Ende des Jahres 2028 umgesetzt werden."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "16.10.2026",
+     "Eurowings kündigt Flugstreichungen und die Prüfung von Kurzarbeit an."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "institution",
+     "suchbegriff": "Eurowings headquarters Cologne",
+     "bildunterschrift": "Das Firmengelände von Eurowings in Deutschland, wo die Entscheidungen zu den Einsparungen getroffen worden sind."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Stuttgart Airport",
+     "bildunterschrift": "Der Flughafen Stuttgart, von dem aus betroffene Dubai-Verbindungen gestrichen worden sind."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Jet fuel aviation",
+     "bildunterschrift": "Treibstofftanks am Flughafen zur Betankung von Flugzeugen, deren Kosten sich stark erhöht haben."
+    }
+   ],
+   "ort": {
+    "name": "Köln, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Im Vorspann das Wort 'etwa' bei den Prozenten durch 'rund' ersetzt, passend zu den Quellen."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Kurzarbeit",
+      "Ein vorübergehender Arbeitsausfall in einem Betrieb, bei dem die Arbeitszeit der Beschäftigten verringert wird. Staatliche Stellen zahlen in dieser Zeit oft einen Teil des Lohns als Ersatz."
+     ],
+     [
+      "Kerosin",
+      "Ein spezieller Treibstoff, der für den Antrieb von Flugzeugtriebwerken benötigt wird."
+     ],
+     [
+      "Lufthansa-Tochter",
+      "Ein Unternehmen, das wirtschaftlich und rechtlich zum Lufthansa-Konzern gehört, aber als eigenständige Fluggesellschaft am Markt auftritt."
+     ]
+    ],
+    "fragen": [
+     "Welche Gründe nennt das Management von Eurowings für die geplanten Sparmaßnahmen?",
+     "Warum kritisiert die Gewerkschaft ver.di die Pläne des Unternehmens?"
+    ],
+    "quiz": [
+     {
+      "frage": "Warum plant Eurowings im Winter Sparmaßnahmen und Kurzarbeit?",
+      "optionen": [
+       "Wegen stark gestiegener Kerosinkosten infolge des Iran-Krieges",
+       "Wegen sinkender Passagierzahlen im gesamten europäischen Raum",
+       "Wegen des Neubaus von Verwaltungsgebäuden in Köln"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Tagesschau und Süddeutscher Zeitung sind die gestiegenen Kerosinkosten durch den Iran-Krieg der Grund für die Maßnahmen."
+     },
+     {
+      "frage": "Um wie viel Prozent will Eurowings sein Winterangebot kürzen?",
+      "optionen": [
+       "Um genau zehn Prozent",
+       "Um rund fünf Prozent",
+       "Um zwanzig Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "In den Berichten von Tagesschau und Süddeutscher Zeitung steht, dass das Winterangebot um rund fünf Prozent gekürzt wird."
+     },
+     {
+      "frage": "Welche Forderung stellt die Gewerkschaft ver.di bezüglich der Kurzarbeit?",
+      "optionen": [
+       "Das Unternehmen soll gar keine Kurzarbeit einführen.",
+       "Zahlungen der Arbeitsagentur sollen gegebenenfalls aufgestockt werden.",
+       "Alle Beschäftigten sollen sofort mehr Grundgehalt erhalten."
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Tagesschau und die Süddeutsche Zeitung berichten, dass ver.di darauf pocht, dass Zahlungen der Arbeitsagentur gegebenenfalls aufgestockt werden."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Fluggesellschaft Eurowings streicht im Winter Flüge und prüft Kurzarbeit für ihre Mitarbeiter. Grund dafür sind sehr hohe Kosten für Flugbenzin.",
+    "absaetze": [
+     "Wegen des Krieges im Iran ist der Treibstoff für Flugzeuge sehr teuer geworden. Die Lufthansa-Tochter Eurowings muss deshalb Geld sparen. Das Unternehmen streicht zum Beispiel Flüge von Köln und Stuttgart nach Dubai. Insgesamt wird das Winterprogramm um fünf Prozent gekürzt. Außerdem sollen in der Verwaltung bis zum Jahr zweitausendachtundzwanzig rund einhundert Stellen wegfallen. Die Gewerkschaft ver.di fordert, dass das Geld bei Kurzarbeit aufgestockt wird. Die Lufthansa macht laut Gewerkschaft nämlich weiterhin Gewinne."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Fluggesellschaft Eurowings streicht wegen hoher Kerosinkosten Flüge und prüft Kurzarbeit.",
+     "Das Winterprogramm der Lufthansa-Tochter wird um rund fünf Prozent gekürzt.",
+     "Die Gewerkschaft ver.di fordert bei eventueller Kurzarbeit eine Aufstockung der Zahlungen."
+    ],
+    "lang": [
+     "Die Fluggesellschaft Eurowings streicht im kommenden Winter Flüge und prüft die Einführung von Kurzarbeit.",
+     "Als Grund nennt die Lufthansa-Tochter stark gestiegene Kerosinkosten infolge des Iran-Krieges.",
+     "Das Unternehmen kürzt sein Winterangebot nach eigenen Angaben um rund fünf Prozent.",
+     "Betroffen sind unter anderem neu gestartete Verbindungen von Köln und Stuttgart nach Dubai.",
+     "Zusätzlich rechnet das Management im laufenden Jahr mit fast zweihundertfünfzig Millionen Euro Mehrkosten für Treibstoff.",
+     "In der Verwaltung sollen zudem bis zum Ende des Jahres zweitausendachtundzwanzig rund einhundert Stellen wegfallen.",
+     "Die Gewerkschaft ver.di fordert bei einer möglichen Kurzarbeit eine Aufstockung der Zahlungen durch den Arbeitgeber.",
+     "Unter Kurzarbeit versteht man einen vorübergehenden Arbeitsausfall, bei dem die Bundesagentur für Arbeit einen Teil des Lohns zahlt.",
+     "Ob die Kurzarbeit tatsächlich kommt und in welchem Umfang, ist nach Angaben des Unternehmens noch unklar."
+    ],
+    "einfach": [
+     "Die Fluggesellschaft Eurowings muss viel Geld für Flugbenzin bezahlen.",
+     "Deshalb streicht das Unternehmen im Winter einige Flüge.",
+     "Das Winterprogramm wird um rund fünf Prozent gekürzt.",
+     "Auch Kurzarbeit für die Mitarbeiter wird geprüft.",
+     "Kurzarbeit bedeutet, dass Beschäftigte weniger arbeiten und Geld vom Staat bekommen.",
+     "Die Gewerkschaft ver.di fordert zusätzliches Geld vom Unternehmen."
+    ]
+   },
+   "kurz": [
+    "Die Fluggesellschaft Eurowings streicht wegen hoher Kerosinkosten Flüge und plant Kurzarbeit.",
+    "Das Winterangebot wird um rund fünf Prozent gekürzt, darunter Verbindungen nach Dubai.",
+    "Die Gewerkschaft ver.di fordert eine Aufstockung der Zahlungen bei Kurzarbeit."
+   ],
+   "fakten": [
+    [
+     "Zusätzliche Kerosinkosten im laufenden Jahr",
+     "250 Millionen Euro"
+    ],
+    [
+     "Kürzung des Winterangebots",
+     "rund fünf Prozent"
+    ],
+    [
+     "Wegfall von Stellen in der Verwaltung",
+     "rund 100 Stellen bis Ende 2028"
+    ]
+   ],
+   "dossier": {
+    "slug": "eurowings-sparmassnahmen-2026",
+    "titel": "Sparmaßnahmen und Kurzarbeit bei Eurowings"
+   },
+   "bildInfo": {
+    "titel": "Hamburg Airport Eurowings Airbus A319-132 D-AGWM (DSC00328).jpg",
+    "beschreibung": "Der Airbus A319-132 der Fluggesellschaft Eurowings mit dem Kennzeichen D-AGWM im Landeanflug auf die Bahn 23 des Flughafens Hamburg. Das Flugzeug führte einen Flug vom Flughafen London Heathrow nach H",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg/1280px-Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_(DSC00328).jpg",
+    "urheber": "MarcelX42",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Eurowings",
+    "sprache": "en",
+    "art": "institution",
+    "suchbegriff": "Eurowings headquarters Cologne",
+    "bildunterschrift": "Ein Flugzeug der Fluggesellschaft Eurowings im Landeanflug.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Hamburg Airport Eurowings Airbus A319-132 D-AGWM (DSC00328).jpg",
+     "beschreibung": "Der Airbus A319-132 der Fluggesellschaft Eurowings mit dem Kennzeichen D-AGWM im Landeanflug auf die Bahn 23 des Flughafens Hamburg. Das Flugzeug führte einen Flug vom Flughafen London Heathrow nach H",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg/1280px-Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_%28DSC00328%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hamburg_Airport_Eurowings_Airbus_A319-132_D-AGWM_(DSC00328).jpg",
+     "urheber": "MarcelX42",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Eurowings",
+     "sprache": "en",
+     "art": "institution",
+     "suchbegriff": "Eurowings headquarters Cologne",
+     "bildunterschrift": "Ein Flugzeug der Fluggesellschaft Eurowings im Landeanflug.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Luftbild EDDS edit.jpg",
+     "beschreibung": "Aerial photo of Stuttgart Airport , Germany",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Luftbild_EDDS_edit.jpg/1280px-Luftbild_EDDS_edit.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Luftbild_EDDS_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Luftbild_EDDS_edit.jpg",
+     "urheber": "Wo st 01 (There are 682 Pictures in my Category ) See also Toolserver",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "artikel": "Flughafen Stuttgart",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Stuttgart Airport",
+     "bildunterschrift": "Luftbild des Flughafens Stuttgart als Beispiel für den Flugbetrieb.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Köln, Deutschland",
+    "lat": 50.938,
+    "lon": 6.96
+   },
+   "version": 5,
+   "bildVersucht": true
   },
   {
    "id": "eu-haushalt-streit-merz",
@@ -4390,24 +6104,9 @@
    ],
    "bilder": [
     {
-     "art": "person",
-     "suchbegriff": "Friedrich Merz",
-     "bildunterschrift": "Bundeskanzler Friedrich Merz forderte auf dem EU-Gipfel in Brüssel umfassende Kürzungen am Gemeinschaftshaushalt."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Ursula von der Leyen",
-     "bildunterschrift": "EU-Kommissionspräsidentin Ursula von der Leyen legte den Entwurf für das Budget über zwei Billionen Euro vor."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Christian Stocker",
-     "bildunterschrift": "Österreichs Bundeskanzler Christian Stocker sprach sich für Haushaltsdisziplin auf europäischer Ebene aus."
-    },
-    {
      "art": "institution",
-     "suchbegriff": "Europa building",
-     "bildunterschrift": "Das Europa-Gebäude in Brüssel dient als Sitz des Europäischen Rates und Tagungsort der Staats- und Regierungschefs."
+     "suchbegriff": "European Council building Brussels",
+     "bildunterschrift": ""
     }
    ],
    "ort": {
@@ -4697,7 +6396,8 @@
       47.93
      ]
     }
-   ]
+   ],
+   "bildVersucht": true
   },
   {
    "id": "grundschul-schiesserei-oregon",
