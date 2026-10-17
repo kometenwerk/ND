@@ -2272,7 +2272,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 13 und 16 Grad. Die Vorhersage für morgen,",
+   "d": "3117bd5e51.mp3",
+   "l": 19.88,
+   "s": [
+    0.25,
+    4.01,
+    10.84,
+    14.24,
+    17.16
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -6319,6 +6331,31 @@
       26.94,
       28.51
      ]
+    },
+    {
+     "k": "Die Dienstleistungsgewerkschaft ver. di kündigte an, bei der konkreten Ausgestal",
+     "d": "9e0b7544b1.mp3",
+     "l": 43.67,
+     "s": [
+      0.25,
+      2.53,
+      7.4,
+      8.54,
+      17.81,
+      24.04,
+      29.82
+     ]
+    },
+    {
+     "k": "Das Unternehmen führt derzeit Gespräche mit der Bundesagentur für Arbeit über di",
+     "d": "0ab7bc4131.mp3",
+     "l": 24.23,
+     "s": [
+      0.25,
+      7.03,
+      11.17,
+      15.84
+     ]
     }
    ]
   },
@@ -7311,11 +7348,11 @@
     {
      "k": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind vier Menschen ge",
      "d": "97204434cf.mp3",
-     "l": 12.57,
+     "l": 12.28,
      "s": [
       0.25,
-      5.89,
-      9.44
+      5.77,
+      9.36
      ]
     },
     {
@@ -8337,21 +8374,6 @@
    "version": 5,
    "ton": [
     {
-     "k": "Papst Leo XIV. hat nach einer Operation wegen Lungenkrebs seine Arbeit im Kranke",
-     "d": "ebaec608ab.mp3",
-     "l": 41.7,
-     "s": [
-      0.25,
-      6.73,
-      11.58,
-      15.79,
-      21.72,
-      26.67,
-      31.52,
-      36.17
-     ]
-    },
-    {
      "k": "Papst Leo XIV. wurde nach einer Lungenkrebs-Operation erfolgreich behandelt. Dem",
      "d": "4595c22f21.mp3",
      "l": 13.52,
@@ -8388,6 +8410,21 @@
      "s": [
       0.25,
       3.96
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. hat nach einer Operation wegen Lungenkrebs seine Arbeit im Kranke",
+     "d": "80267c6796.mp3",
+     "l": 31.38,
+     "s": [
+      0.25,
+      2.31,
+      7.34,
+      11.17,
+      13.09,
+      16.01,
+      22.13,
+      24.82
      ]
     },
     {
@@ -9343,23 +9380,6 @@
    "bildVersucht": true,
    "ton": [
     {
-     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer ver",
-     "d": "7092252e89.mp3",
-     "l": 50.88,
-     "s": [
-      0.25,
-      5.33,
-      9.77,
-      14.47,
-      20.48,
-      25.73,
-      31.04,
-      35.47,
-      41.17,
-      46.22
-     ]
-    },
-    {
      "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Zuckersteuer verabschiedet. Geträ",
      "d": "00a123fb6c.mp3",
      "l": 14.07,
@@ -9397,6 +9417,21 @@
      "s": [
       0.25,
       3.37
+     ]
+    },
+    {
+     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer ver",
+     "d": "6de7b5dcbf.mp3",
+     "l": 41.34,
+     "s": [
+      0.25,
+      5.36,
+      10.32,
+      14.08,
+      17.38,
+      23.37,
+      28.87,
+      34.88
      ]
     },
     {
