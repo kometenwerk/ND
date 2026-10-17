@@ -2271,7 +2271,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 13 und 16 Grad. Die Vorhersage für morgen,",
+   "d": "0ecff2ec5f.mp3",
+   "l": 19.73,
+   "s": [
+    0.25,
+    3.9,
+    10.9,
+    14.32,
+    17.06
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -5939,6 +5951,19 @@
       47.67,
       56.01
      ]
+    },
+    {
+     "k": "Deutschland und Frankreich müssen ihren gemeinsamen Vorschlag nun offiziell in d",
+     "d": "531ee9e548.mp3",
+     "l": 42.71,
+     "s": [
+      0.25,
+      7.71,
+      16.17,
+      21.83,
+      28.28,
+      36.23
+     ]
     }
    ]
   },
@@ -6371,6 +6396,51 @@
      "s": [
       0.25,
       3.59
+     ]
+    },
+    {
+     "k": "Zum Auftakt des sechsten Bundesliga-Spieltags trafen Eintracht Frankfurt und der",
+     "d": "d0dd463c46.mp3",
+     "l": 29.51,
+     "s": [
+      0.25,
+      5.44,
+      7.22,
+      11.32,
+      16.99,
+      17.99,
+      21.48,
+      25.43
+     ]
+    },
+    {
+     "k": "Im Anschluss an das Bundesligaspiel kam es zu einem Zwischenfall im Stadionberei",
+     "d": "afadb20884.mp3",
+     "l": 40.3,
+     "s": [
+      0.25,
+      5.34,
+      10.73,
+      15.83,
+      19.49,
+      25.79,
+      30.63,
+      35.92
+     ]
+    },
+    {
+     "k": "Ein Thema der Berichterstattung war die Leistung und Situation des Frankfurter K",
+     "d": "7a6745fecf.mp3",
+     "l": 50.6,
+     "s": [
+      0.25,
+      6.13,
+      16.55,
+      23.21,
+      28.16,
+      33.56,
+      39.29,
+      44.34
      ]
     }
    ]
@@ -8990,11 +9060,11 @@
     {
      "k": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind vier Menschen ge",
      "d": "97204434cf.mp3",
-     "l": 12.6,
+     "l": 12.77,
      "s": [
       0.25,
-      5.95,
-      9.52
+      6.11,
+      9.7
      ]
     },
     {
@@ -10482,23 +10552,6 @@
    "bildVersucht": true,
    "ton": [
     {
-     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer ver",
-     "d": "7092252e89.mp3",
-     "l": 49.44,
-     "s": [
-      0.25,
-      5.22,
-      9.46,
-      13.92,
-      19.56,
-      24.5,
-      29.68,
-      34.07,
-      40.02,
-      44.8
-     ]
-    },
-    {
      "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Zuckersteuer verabschiedet. Geträ",
      "d": "00a123fb6c.mp3",
      "l": 14.07,
@@ -10536,6 +10589,21 @@
      "s": [
       0.25,
       3.37
+     ]
+    },
+    {
+     "k": "Das Bundeskabinett hat einen Gesetzentwurf zur Einführung einer Zuckersteuer ver",
+     "d": "6de7b5dcbf.mp3",
+     "l": 40.73,
+     "s": [
+      0.25,
+      5.66,
+      10.3,
+      13.95,
+      17.27,
+      23.27,
+      28.48,
+      34.41
      ]
     },
     {
