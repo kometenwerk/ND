@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T09:16:58.883Z",
+ "stand": "2026-10-17T13:41:33.789Z",
  "inArbeit": {
   "id": "die-geschichte-unserer-schrift",
   "titel": "Die Geschichte unserer Schrift",
@@ -12,8 +12,8 @@
     "wikipedia": "Höhlenmalerei",
     "fokus": "Menschen hielten bereits in der Urzeit Erlebnisse mit Bildern fest.",
     "zuDuenn": 1,
-    "versuche": 3,
-    "fehlgeschlagen": true
+    "versuche": 0,
+    "fehlgeschlagen": false
    },
    {
     "ueberschrift": "Von Bildern zu Zeichen",
@@ -238,9 +238,9 @@
     "ueberschrift": "Die Welt der Hieroglyphen",
     "wikipedia": "Ägyptische Hieroglyphen",
     "fokus": "Im alten Ägypten entwickelten sich komplexe Schriftsysteme aus Bildern.",
-    "versuche": 3,
+    "versuche": 0,
     "zuDuenn": 1,
-    "fehlgeschlagen": true
+    "fehlgeschlagen": false
    },
    {
     "ueberschrift": "Der Weg zum Alphabet",
@@ -494,7 +494,156 @@
     "fokus": "Gutenbergs Erfindung machte geschriebenes Wissen für alle Menschen zugänglich.",
     "zuDuenn": 2,
     "versuche": 1,
-    "fehlgeschlagen": false
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Nachdem die Menschen alte Schriften entziffert hatten, blickten sie neu auf die Geschichte der Texte. Über viele Jahrhunderte blieb das geschriebene Wort jedoch nur wenigen Menschen zugänglich. Im europäischen Mittelalter wurden Bücher fast ausschließlich in den Schreibstuben der Klöster von Hand kopiert. Diese Arbeit war sehr mühsam, langsam und teuer. Außerhalb von Klöstern besaßen deshalb nur sehr wenige wohlhabende Personen eigene Bücher. In Ostasien druckte man allerdings schon im achten Jahrhundert erste Werke auf Papier. Am elften Mai des Jahres achthundertachtundsechzig entstand in China das sogenannte Diamant-Sutra im Holztafeldruck. Dabei schnitzte man ganze Schriftzeichen spiegelverkehrt in Holzblöcke. Um das Jahr tausendvierzig erfand der chinesische Schmied Bi Sheng bewegliche Stempel aus gebrannter Keramik. Im Jahr dreizehnhundertsiebenundsiebzig druckte man in Korea das Buch Jikji erstmals mit Lettern aus Metall. Dennoch setzte sich der bewegliche Buchdruck in Fernost damals nicht dauerhaft durch.",
+     "In Europa veränderte sich die Lage um das Jahr vierzehnhundertvierzig grundlegend. Der Mainzer Goldschmied Johannes Gutenberg erfand damals den modernen Buchdruck mit beweglichen Metall-Lettern. Gutenberg entwickelte ein handliches Gießinstrument, mit dem er einzelne Buchstaben schnell und gleichmäßig herstellen konnte. Zudem verbesserte er die verwendete Druckfarbe und wandelte eine herkömmliche Spindelpresse zur leistungsfähigen Druckpresse um. Mit dem Setzkasten und dem Winkelhaken schuf er praktische Werkzeuge für den Schriftsetzer. Diese Neuerungen griffen perfekt ineinander und machten die Buchherstellung mechanisch. Das mühsame manuelle Abschreiben von Büchern wurde damit bald überflüssig. Auch der ältere Druck ganzer Seiten aus Holzblöcken verlor schnell an Bedeutung. Das Setzen einzelner, wiederverwendbarer Buchstaben aus Metall ging weitaus schneller von der Hand. Gutenbergs Verfahren machte das Buch erstmals zu einem Massenartikel. Geschriebenes Wissen war nun nicht mehr nur für Klöster und Fürsten da, sondern wurde für eine breite Allgemeinheit erschwinglich.",
+     "Die neue Technik verbreitete sich von Mainz aus mit erstaunlicher Geschwindigkeit über ganz Europa. Bereits im Jahr vierzehnhundertsiebenundfünfzig entstand eine neue Druckerei in Bamberg durch Albrecht Pfister. Um vierzehnhundertsechzig folgte Straßburg mit Johannes Mentelin, und bald darauf entstanden Werkstätten in Italien. In Basel begann das Drucken um vierzehnhundertachtundsechzig und in Paris im Jahr vierzehnhundertsiebzig. Spanien und England erreichten die Drucker im Jahr vierzehnhundertdreiundsiebzig, Wien schließlich im Jahr vierzehnhundertzweiundachtzig. Im Jahr fünfzehnhundert druckten die Menschen bereits an rund zweihundertsiebzig verschiedenen Orten. Mehr als sechzig dieser Orte lagen im Heiligen Römischen Reich Deutscher Nation. Neben der berühmten Bibel wurden Kalender, Lehrbücher, Fachliteratur und sogenannte Ablassbriefe in Auftrag gegeben. Das erste Druckwerk nach der Bibel war ein Aderlass-Kalender für das Jahr vierzehnhundertsiebenundfünfzig. Die durchschnittliche Auflage lag in der Frühzeit bei einhundertfünfzig bis zweihundertfünfzig Exemplaren.",
+     "Etwa siebenundsiebzig Prozent dieser frühen Druckwerke erschienen damals noch in lateinischer Sprache. Im sechzehnten Jahrhundert veränderte sich die Leserschaft jedoch durch neue Schriften in der Volkssprache. Die Schriften von Martin Luther machten damals fast ein Drittel der gesamten Buchproduktion aus. Der wachsende Bedarf an Lesestoff führte rasch zu einer neuen Arbeitsweise. In den Städten entstanden bald regelrechte Großbetriebe mit vielen Beschäftigten. Ein bekanntes Beispiel dafür war die Werkstatt von Anton Koberger in Nürnberg. Koberger beschäftigte dort bis zu einhundert Arbeiter an vierundzwanzig Druckpressen gleichzeitig. In diesen Werkstätten arbeiteten Schriftsetzer, Drucker und Korrektoren Hand in Hand zusammen. Der Drucker organisierte das nötige Geld, kaufte Papier und stellte die Handwerker ein. Zudem warb man mit Vorab-Aushängen öffentlich um Unterstützung bei der Korrektur von Fehlern. Ein völlig neuer intellektueller Austausch über Ländergrenzen hinweg wurde so möglich.",
+     "Für andere Schriftsysteme brachte die neue Methode jedoch zunächst technische Schwierigkeiten mit sich. Zwar gab es im sechzehnten Jahrhundert erste Drucke mit arabischer Schrift in Venedig. Die vielen geschwungenen Verbindungen dieser Schrift ließen sich mit einzelnen Lettern aber nur schwer darstellen. Im Osmanischen Reich verbot Sultan Ahmed der Dritte im Jahr siebzehnhundertsiebenundzwanzig den Druck religiöser islamischer Schriften. Gedruckt werden durften dort zunächst nur Bücher in hebräischer oder armenischer Sprache. Erst im neunzehnten Jahrhundert ermöglichte ein neues Flachdruckverfahren den einfachen Druck handschriftlicher arabischer Texte. In Europa blieb das Prinzip des Handsatzes mit einzelnen Lettern dagegen über vier Jahrhunderte lang unverändert. Erst ab dem Jahr achtzehnhundertsechsundachtzig beschleunigte die Linotype-Setzmaschine das Gießen ganzer Textzeilen aus Blei. Heute nutzt man vor allem moderne Offset- und Digitaldruckverfahren für Zeitungen und Bücher. Doch Gutenbergs mechanisches Prinzip bildete das Fundament für die moderne Informationsgesellschaft. Im nächsten Kapitel betrachten wir, wie sich das geschriebene Wort in der digitalen Zukunft weiterentwickelt."
+    ],
+    "fakten": [
+     [
+      "Erstes datiertes Druckwerk im Holztafeldruck (Diamant-Sutra)",
+      "11. Mai 868"
+     ],
+     [
+      "Erfindung beweglicher Keramikstempel durch Bi Sheng",
+      "um 1040"
+     ],
+     [
+      "Ältestes erhaltenes Buch mit Metall-Lettern (Jikji)",
+      "1377"
+     ],
+     [
+      "Erfindung des modernen Buchdrucks durch Johannes Gutenberg",
+      "um 1440"
+     ],
+     [
+      "Anzahl der Druckorte in Europa im Jahr 1500",
+      "rund 270"
+     ],
+     [
+      "Durchschnittliche Auflage früher europäischer Drucke",
+      "150 bis 250 Exemplare"
+     ],
+     [
+      "Lateinischer Anteil der frühen Druckwerke",
+      "etwa 77 Prozent"
+     ],
+     [
+      "Beschäftigte im Nürnberger Großbetrieb von Anton Koberger",
+      "bis zu 100 Arbeiter an 24 Pressen"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Handgießinstrument",
+      "Ein von Gutenberg erfundenes Werkzeug zum schnellen und präzisen Gießen einzelner beweglicher Lettern aus Metall."
+     ],
+     [
+      "Winkelhaken",
+      "Ein verstellbares Werkzeug aus Metall, in das der Schriftsetzer die einzelnen Buchstaben zu Zeilen zusammenstellt."
+     ],
+     [
+      "Jikji",
+      "Ein im Jahr dreizehnhundertsiebenundsiebzig in Korea gedrucktes Werk und das älteste erhaltene Buch mit beweglichen Metall-Lettern."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Buchdruck",
+     "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
+    },
+    "quelle": {
+     "titel": "Buchdruck",
+     "url": "https://de.wikipedia.org/wiki/Buchdruck"
+    },
+    "woerter": 695,
+    "bildInfos": [
+     {
+      "titel": "Buchdrucker-1568.png",
+      "beschreibung": "Darstellung des Buchdruckerhandwerks.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Buchdrucker-1568.png",
+      "urheber": "Jost Amman",
+      "lizenz": "Public domain",
+      "lizenzUrl": "",
+      "artikel": "Buchdruck",
+      "sprache": "de",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
+     },
+     {
+      "titel": "Buchdruck-15-jahrhundert 1.jpg",
+      "beschreibung": "Imprenta francesa de inicios del siglo XVI",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Buchdruck-15-jahrhundert_1.jpg",
+      "urheber": "Unknown author Unknown author",
+      "lizenz": "Public domain",
+      "lizenzUrl": "",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Imprenta francesa de inicios del siglo XVI"
+     },
+     {
+      "titel": "Europäische Produktion von gedruckten Büchern ca. 1450–1800.png",
+      "beschreibung": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png/1280px-Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
+      "urheber": "Tentotwo",
+      "lizenz": "CC BY-SA 3.0",
+      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages."
+     },
+     {
+      "titel": "Gutenberg-Museum Mainz 585-vh.jpg",
+      "beschreibung": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1280px-Gutenberg-Museum_Mainz_585-vh.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Gutenberg-Museum_Mainz_585-vh.jpg",
+      "urheber": "Pedelecs",
+      "lizenz": "CC BY-SA 3.0",
+      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany"
+     },
+     {
+      "titel": "Mainz Gutenbergdenkmal Relief 2.JPG",
+      "beschreibung": "Gutenberg-Denkmal (Detail, Relief)",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG/1280px-Mainz_Gutenbergdenkmal_Relief_2.JPG",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_Relief_2.JPG",
+      "urheber": "E.peiffer@gmx.net",
+      "lizenz": "CC BY-SA 3.0",
+      "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Gutenberg-Denkmal (Detail, Relief)"
+     }
+    ],
+    "bildInfo": {
+     "titel": "Buchdrucker-1568.png",
+     "beschreibung": "Darstellung des Buchdruckerhandwerks.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Buchdrucker-1568.png",
+     "urheber": "Jost Amman",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Buchdruck",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
+    }
    },
    {
     "ueberschrift": "Die Zukunft der Schrift",

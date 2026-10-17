@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T09:16:58.883Z",
+ "stand": "2026-10-17T13:41:33.789Z",
  "gepusht": [
   "vw-audi-seat-rueckruf-lenkung",
   "heidenau-stolpersteine-verbot",
@@ -101,7 +101,7 @@
   "bundesliga-frankfurt-koeln"
  ],
  "wetter": {
-  "stand": "2026-10-17T09:16:58.883Z",
+  "stand": "2026-10-17T13:41:33.789Z",
   "morgenTag": "Sonntag",
   "orte": [
    {
@@ -110,12 +110,12 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 11,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 9,
-     "wind": 14,
-     "windAus": 341,
-     "feuchte": 81,
+     "gefuehlt": 11,
+     "wind": 17,
+     "windAus": 6,
+     "feuchte": 64,
      "druck": 1021,
      "niederschlag": 0,
      "tag": 1
@@ -126,23 +126,23 @@
      "max": 14,
      "min": 10,
      "regen": 100,
-     "menge": 13,
+     "menge": 11.9,
      "wind": 17,
-     "windAus": 354,
+     "windAus": 353,
      "uv": 2.5,
      "auf": "07:50",
      "unter": "18:19"
     },
     "morgen": {
      "datum": "2026-10-18",
-     "code": 80,
+     "code": 61,
      "max": 14,
-     "min": 10,
-     "regen": 88,
-     "menge": 3.7,
-     "wind": 20,
-     "windAus": 59,
-     "uv": 1.8,
+     "min": 9,
+     "regen": 98,
+     "menge": 8.4,
+     "wind": 18,
+     "windAus": 50,
+     "uv": 1.5,
      "auf": "07:52",
      "unter": "18:16"
     },
@@ -153,23 +153,23 @@
       "max": 14,
       "min": 10,
       "regen": 100,
-      "menge": 13,
+      "menge": 11.9,
       "wind": 17,
-      "windAus": 354,
+      "windAus": 353,
       "uv": 2.5,
       "auf": "07:50",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-18",
-      "code": 80,
+      "code": 61,
       "max": 14,
-      "min": 10,
-      "regen": 88,
-      "menge": 3.7,
-      "wind": 20,
-      "windAus": 59,
-      "uv": 1.8,
+      "min": 9,
+      "regen": 98,
+      "menge": 8.4,
+      "wind": 18,
+      "windAus": 50,
+      "uv": 1.5,
       "auf": "07:52",
       "unter": "18:16"
      },
@@ -180,35 +180,35 @@
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
-      "windAus": 81,
-      "uv": 2.5,
+      "wind": 16,
+      "windAus": 85,
+      "uv": 2.4,
       "auf": "07:54",
       "unter": "18:14"
      },
      {
       "datum": "2026-10-20",
       "code": 3,
-      "max": 10,
+      "max": 9,
       "min": 2,
-      "regen": 0,
+      "regen": 2,
       "menge": 0,
-      "wind": 12,
-      "windAus": 86,
-      "uv": 2,
+      "wind": 13,
+      "windAus": 87,
+      "uv": 2.4,
       "auf": "07:56",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-21",
       "code": 3,
-      "max": 11,
-      "min": 8,
-      "regen": 23,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 111,
-      "uv": 1.3,
+      "max": 10,
+      "min": 7,
+      "regen": 21,
+      "menge": 0.1,
+      "wind": 14,
+      "windAus": 123,
+      "uv": 1.6,
       "auf": "07:58",
       "unter": "18:10"
      },
@@ -217,10 +217,10 @@
       "code": 61,
       "max": 13,
       "min": 8,
-      "regen": 28,
-      "menge": 0.3,
+      "regen": 25,
+      "menge": 0.5,
       "wind": 14,
-      "windAus": 232,
+      "windAus": 234,
       "uv": 2.2,
       "auf": "08:00",
       "unter": "18:07"
@@ -234,27 +234,147 @@
       "menge": 1.8,
       "wind": 18,
       "windAus": 174,
-      "uv": 0.4,
+      "uv": 0.8,
       "auf": "08:02",
       "unter": "18:05"
      }
     ],
     "stunden": [
      {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 2,
+      "regen": 40
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 63
+     },
+     {
+      "zeit": "17:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 48
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 53
+     },
+     {
+      "zeit": "19:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 23
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 38
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 48
+     },
+     {
+      "zeit": "22:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "23:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "05:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "06:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 75
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 55
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 20
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 15
+     },
+     {
       "zeit": "11:00",
       "grad": 11,
-      "code": 2,
-      "regen": 0
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "12:00",
       "grad": 12,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "13:00",
-      "grad": 13,
+      "grad": 12,
       "code": 3,
       "regen": 3
      },
@@ -262,127 +382,7 @@
       "zeit": "14:00",
       "grad": 13,
       "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 40
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 58
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 65
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 60
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 40
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 25
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 38
-     },
-     {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 40
-     },
-     {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 63
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 78
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "04:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 75
-     },
-     {
-      "zeit": "05:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 48
-     },
-     {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 43
-     },
-     {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 35
-     },
-     {
-      "zeit": "08:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 30
-     },
-     {
-      "zeit": "09:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "10:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 10
+      "regen": 0
      }
     ]
    },
@@ -393,91 +393,91 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 12,
-     "code": 3,
-     "gefuehlt": 11,
-     "wind": 9,
-     "windAus": 308,
-     "feuchte": 85,
-     "druck": 1014,
-     "niederschlag": 0,
+     "code": 61,
+     "gefuehlt": 10,
+     "wind": 11,
+     "windAus": 338,
+     "feuchte": 83,
+     "druck": 1016,
+     "niederschlag": 0.1,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
-     "code": 3,
-     "max": 14,
+     "code": 61,
+     "max": 13,
      "min": 9,
-     "regen": 48,
-     "menge": 0,
+     "regen": 15,
+     "menge": 0.2,
      "wind": 13,
-     "windAus": 312,
+     "windAus": 320,
      "uv": 0.4,
      "auf": "07:35",
      "unter": "18:07"
     },
     "morgen": {
      "datum": "2026-10-18",
-     "code": 3,
-     "max": 16,
+     "code": 45,
+     "max": 14,
      "min": 11,
      "regen": 3,
      "menge": 0,
-     "wind": 14,
-     "windAus": 77,
-     "uv": 2.2,
+     "wind": 12,
+     "windAus": 66,
+     "uv": 2.4,
      "auf": "07:37",
      "unter": "18:05"
     },
     "tage": [
      {
       "datum": "2026-10-17",
-      "code": 3,
-      "max": 14,
+      "code": 61,
+      "max": 13,
       "min": 9,
-      "regen": 48,
-      "menge": 0,
+      "regen": 15,
+      "menge": 0.2,
       "wind": 13,
-      "windAus": 312,
+      "windAus": 320,
       "uv": 0.4,
       "auf": "07:35",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 16,
+      "code": 45,
+      "max": 14,
       "min": 11,
       "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 77,
-      "uv": 2.2,
+      "wind": 12,
+      "windAus": 66,
+      "uv": 2.4,
       "auf": "07:37",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 13,
-      "min": 4,
+      "max": 12,
+      "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
+      "wind": 12,
       "windAus": 65,
-      "uv": 2.4,
+      "uv": 2.7,
       "auf": "07:38",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-20",
       "code": 3,
-      "max": 10,
+      "max": 11,
       "min": 2,
       "regen": 3,
       "menge": 0,
-      "wind": 11,
-      "windAus": 80,
-      "uv": 2.5,
+      "wind": 12,
+      "windAus": 82,
+      "uv": 2.6,
       "auf": "07:40",
       "unter": "18:00"
      },
@@ -485,11 +485,11 @@
       "datum": "2026-10-21",
       "code": 3,
       "max": 13,
-      "min": 7,
-      "regen": 13,
+      "min": 8,
+      "regen": 19,
       "menge": 0,
       "wind": 9,
-      "windAus": 101,
+      "windAus": 104,
       "uv": 2.4,
       "auf": "07:42",
       "unter": "17:58"
@@ -498,12 +498,12 @@
       "datum": "2026-10-22",
       "code": 61,
       "max": 15,
-      "min": 6,
-      "regen": 29,
-      "menge": 0.6,
+      "min": 7,
+      "regen": 30,
+      "menge": 0.9,
       "wind": 11,
-      "windAus": 247,
-      "uv": 1.7,
+      "windAus": 251,
+      "uv": 1.9,
       "auf": "07:44",
       "unter": "17:56"
      },
@@ -516,65 +516,41 @@
       "menge": 0,
       "wind": 9,
       "windAus": 186,
-      "uv": 1.4,
+      "uv": 2.1,
       "auf": "07:46",
       "unter": "17:54"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "13:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 15
-     },
-     {
       "zeit": "15:00",
       "grad": 12,
       "code": 3,
-      "regen": 18
+      "regen": 8
      },
      {
       "zeit": "16:00",
       "grad": 12,
-      "code": 3,
-      "regen": 20
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "17:00",
       "grad": 12,
-      "code": 3,
-      "regen": 15
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 8
+      "grad": 11,
+      "code": 61,
+      "regen": 5
      },
      {
       "zeit": "19:00",
       "grad": 11,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "20:00",
@@ -592,7 +568,7 @@
       "zeit": "22:00",
       "grad": 11,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "23:00",
@@ -608,20 +584,20 @@
      },
      {
       "zeit": "01:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "02:00",
-      "grad": 12,
-      "code": 3,
+      "grad": 11,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 12,
-      "code": 3,
+      "grad": 11,
+      "code": 45,
       "regen": 0
      },
      {
@@ -656,13 +632,37 @@
      },
      {
       "zeit": "09:00",
-      "grad": 11,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 11,
+      "grad": 12,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
       "code": 3,
       "regen": 0
      }
@@ -674,79 +674,79 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 13,
+     "grad": 11,
      "code": 3,
-     "gefuehlt": 11,
-     "wind": 13,
-     "windAus": 329,
-     "feuchte": 85,
-     "druck": 1006,
+     "gefuehlt": 9,
+     "wind": 12,
+     "windAus": 328,
+     "feuchte": 84,
+     "druck": 1007,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
-     "code": 3,
+     "code": 61,
      "max": 14,
      "min": 10,
-     "regen": 40,
-     "menge": 0,
+     "regen": 45,
+     "menge": 1.1,
      "wind": 13,
-     "windAus": 302,
-     "uv": 0.4,
+     "windAus": 303,
+     "uv": 0.6,
      "auf": "07:37",
      "unter": "18:13"
     },
     "morgen": {
      "datum": "2026-10-18",
-     "code": 3,
-     "max": 14,
+     "code": 45,
+     "max": 13,
      "min": 9,
-     "regen": 3,
+     "regen": 5,
      "menge": 0,
      "wind": 11,
-     "windAus": 53,
-     "uv": 2.4,
+     "windAus": 37,
+     "uv": 1.6,
      "auf": "07:39",
      "unter": "18:11"
     },
     "tage": [
      {
       "datum": "2026-10-17",
-      "code": 3,
+      "code": 61,
       "max": 14,
       "min": 10,
-      "regen": 40,
-      "menge": 0,
+      "regen": 45,
+      "menge": 1.1,
       "wind": 13,
-      "windAus": 302,
-      "uv": 0.4,
+      "windAus": 303,
+      "uv": 0.6,
       "auf": "07:37",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-18",
-      "code": 3,
-      "max": 14,
+      "code": 45,
+      "max": 13,
       "min": 9,
-      "regen": 3,
+      "regen": 5,
       "menge": 0,
       "wind": 11,
-      "windAus": 53,
-      "uv": 2.4,
+      "windAus": 37,
+      "uv": 1.6,
       "auf": "07:39",
       "unter": "18:11"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 13,
-      "min": 5,
+      "max": 12,
+      "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 73,
-      "uv": 2.2,
+      "windAus": 62,
+      "uv": 2.6,
       "auf": "07:40",
       "unter": "18:09"
      },
@@ -754,11 +754,11 @@
       "datum": "2026-10-20",
       "code": 3,
       "max": 11,
-      "min": 3,
-      "regen": 3,
+      "min": 0,
+      "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 76,
+      "windAus": 77,
       "uv": 2.8,
       "auf": "07:42",
       "unter": "18:07"
@@ -766,13 +766,13 @@
      {
       "datum": "2026-10-21",
       "code": 45,
-      "max": 13,
-      "min": 6,
-      "regen": 13,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 141,
-      "uv": 2.4,
+      "max": 11,
+      "min": 5,
+      "regen": 25,
+      "menge": 0.1,
+      "wind": 10,
+      "windAus": 98,
+      "uv": 2.7,
       "auf": "07:44",
       "unter": "18:05"
      },
@@ -780,12 +780,12 @@
       "datum": "2026-10-22",
       "code": 61,
       "max": 15,
-      "min": 7,
+      "min": 6,
       "regen": 40,
-      "menge": 1.2,
+      "menge": 3.5,
       "wind": 15,
-      "windAus": 250,
-      "uv": 2.5,
+      "windAus": 251,
+      "uv": 2.2,
       "auf": "07:46",
       "unter": "18:03"
      },
@@ -798,53 +798,29 @@
       "menge": 0.3,
       "wind": 9,
       "windAus": 192,
-      "uv": 1.3,
+      "uv": 2.2,
       "auf": "07:47",
       "unter": "18:01"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 35
-     },
-     {
       "zeit": "15:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 40
+      "grad": 12,
+      "code": 61,
+      "regen": 45
      },
      {
       "zeit": "16:00",
       "grad": 11,
       "code": 3,
-      "regen": 25
+      "regen": 23
      },
      {
       "zeit": "17:00",
       "grad": 11,
-      "code": 3,
-      "regen": 5
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "18:00",
@@ -855,26 +831,26 @@
      {
       "zeit": "19:00",
       "grad": 11,
-      "code": 3,
-      "regen": 3
+      "code": 61,
+      "regen": 13
      },
      {
       "zeit": "20:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 8
+      "grad": 10,
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "21:00",
       "grad": 10,
-      "code": 3,
-      "regen": 5
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "22:00",
       "grad": 10,
-      "code": 3,
-      "regen": 0
+      "code": 61,
+      "regen": 3
      },
      {
       "zeit": "23:00",
@@ -892,19 +868,19 @@
       "zeit": "01:00",
       "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "02:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "04:00",
@@ -915,36 +891,60 @@
      {
       "zeit": "05:00",
       "grad": 10,
-      "code": 3,
-      "regen": 3
+      "code": 45,
+      "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 10,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 10,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 10,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
       "code": 3,
       "regen": 0
      }
@@ -956,13 +956,13 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 12,
-     "code": 3,
-     "gefuehlt": 10,
-     "wind": 16,
-     "windAus": 337,
-     "feuchte": 83,
-     "druck": 1017,
+     "grad": 13,
+     "code": 1,
+     "gefuehlt": 12,
+     "wind": 5,
+     "windAus": 6,
+     "feuchte": 77,
+     "druck": 1018,
      "niederschlag": 0,
      "tag": 1
     },
@@ -971,11 +971,11 @@
      "code": 61,
      "max": 16,
      "min": 10,
-     "regen": 92,
-     "menge": 3.5,
+     "regen": 98,
+     "menge": 4.2,
      "wind": 21,
-     "windAus": 328,
-     "uv": 2,
+     "windAus": 329,
+     "uv": 2.1,
      "auf": "07:58",
      "unter": "18:35"
     },
@@ -983,11 +983,11 @@
      "datum": "2026-10-18",
      "code": 63,
      "max": 13,
-     "min": 9,
-     "regen": 59,
-     "menge": 15.5,
-     "wind": 10,
-     "windAus": 2,
+     "min": 8,
+     "regen": 44,
+     "menge": 13.2,
+     "wind": 11,
+     "windAus": 347,
      "uv": 2.8,
      "auf": "08:00",
      "unter": "18:33"
@@ -998,11 +998,11 @@
       "code": 61,
       "max": 16,
       "min": 10,
-      "regen": 92,
-      "menge": 3.5,
+      "regen": 98,
+      "menge": 4.2,
       "wind": 21,
-      "windAus": 328,
-      "uv": 2,
+      "windAus": 329,
+      "uv": 2.1,
       "auf": "07:58",
       "unter": "18:35"
      },
@@ -1010,11 +1010,11 @@
       "datum": "2026-10-18",
       "code": 63,
       "max": 13,
-      "min": 9,
-      "regen": 59,
-      "menge": 15.5,
-      "wind": 10,
-      "windAus": 2,
+      "min": 8,
+      "regen": 44,
+      "menge": 13.2,
+      "wind": 11,
+      "windAus": 347,
       "uv": 2.8,
       "auf": "08:00",
       "unter": "18:33"
@@ -1023,12 +1023,12 @@
       "datum": "2026-10-19",
       "code": 51,
       "max": 18,
-      "min": 9,
-      "regen": 47,
-      "menge": 0,
+      "min": 10,
+      "regen": 34,
+      "menge": 0.1,
       "wind": 12,
-      "windAus": 100,
-      "uv": 2.7,
+      "windAus": 96,
+      "uv": 2.8,
       "auf": "08:01",
       "unter": "18:31"
      },
@@ -1037,37 +1037,37 @@
       "code": 3,
       "max": 14,
       "min": 6,
-      "regen": 14,
+      "regen": 8,
       "menge": 0,
-      "wind": 14,
-      "windAus": 114,
-      "uv": 2.9,
+      "wind": 13,
+      "windAus": 111,
+      "uv": 2.1,
       "auf": "08:03",
       "unter": "18:29"
      },
      {
       "datum": "2026-10-21",
       "code": 53,
-      "max": 12,
-      "min": 9,
-      "regen": 61,
-      "menge": 9.3,
-      "wind": 14,
-      "windAus": 146,
-      "uv": 2.2,
+      "max": 14,
+      "min": 10,
+      "regen": 50,
+      "menge": 4,
+      "wind": 11,
+      "windAus": 164,
+      "uv": 2,
       "auf": "08:05",
       "unter": "18:27"
      },
      {
       "datum": "2026-10-22",
-      "code": 3,
-      "max": 15,
-      "min": 7,
-      "regen": 39,
-      "menge": 0,
-      "wind": 16,
-      "windAus": 234,
-      "uv": 1.7,
+      "code": 53,
+      "max": 14,
+      "min": 9,
+      "regen": 46,
+      "menge": 3.9,
+      "wind": 23,
+      "windAus": 217,
+      "uv": 1.8,
       "auf": "08:06",
       "unter": "18:25"
      },
@@ -1076,98 +1076,74 @@
       "code": 51,
       "max": 11,
       "min": 6,
-      "regen": 37,
-      "menge": 1.8,
+      "regen": 51,
+      "menge": 2.1,
       "wind": 20,
-      "windAus": 166,
-      "uv": 1.1,
+      "windAus": 174,
+      "uv": 0.7,
       "auf": "08:08",
       "unter": "18:23"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 39
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 51,
-      "regen": 41
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 51,
-      "regen": 48
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 51,
-      "regen": 55
-     },
-     {
       "zeit": "15:00",
       "grad": 12,
-      "code": 3,
-      "regen": 65
+      "code": 51,
+      "regen": 49
      },
      {
       "zeit": "16:00",
       "grad": 13,
-      "code": 3,
-      "regen": 76
+      "code": 51,
+      "regen": 44
      },
      {
       "zeit": "17:00",
-      "grad": 13,
+      "grad": 12,
       "code": 1,
-      "regen": 78
+      "regen": 37
      },
      {
       "zeit": "18:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 62
+      "grad": 12,
+      "code": 0,
+      "regen": 29
      },
      {
       "zeit": "19:00",
       "grad": 12,
       "code": 0,
-      "regen": 36
+      "regen": 20
      },
      {
       "zeit": "20:00",
       "grad": 11,
       "code": 0,
-      "regen": 16
+      "regen": 12
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 3,
+      "code": 1,
       "regen": 7
      },
      {
       "zeit": "22:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 2
+      "grad": 10,
+      "code": 0,
+      "regen": 3
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 10,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1178,44 +1154,44 @@
      },
      {
       "zeit": "02:00",
-      "grad": 10,
-      "code": 0,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
+      "grad": 9,
+      "code": 0,
+      "regen": 1
      },
      {
       "zeit": "04:00",
       "grad": 9,
       "code": 1,
-      "regen": 0
+      "regen": 2
      },
      {
       "zeit": "05:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 1,
+      "regen": 2
      },
      {
       "zeit": "06:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 2,
+      "regen": 2
      },
      {
       "zeit": "07:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 0,
+      "regen": 1
      },
      {
       "zeit": "08:00",
       "grad": 9,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1228,7 +1204,31 @@
       "zeit": "10:00",
       "grad": 9,
       "code": 3,
-      "regen": 1
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 2
      }
     ]
    },
@@ -1238,12 +1238,12 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 13,
-     "code": 61,
+     "grad": 14,
+     "code": 2,
      "gefuehlt": 11,
-     "wind": 11,
-     "windAus": 354,
-     "feuchte": 77,
+     "wind": 13,
+     "windAus": 16,
+     "feuchte": 61,
      "druck": 1010,
      "niederschlag": 0,
      "tag": 1
@@ -1252,25 +1252,25 @@
      "datum": "2026-10-17",
      "code": 61,
      "max": 14,
-     "min": 9,
-     "regen": 95,
-     "menge": 1.5,
+     "min": 8,
+     "regen": 100,
+     "menge": 1.8,
      "wind": 13,
      "windAus": 354,
-     "uv": 0.7,
+     "uv": 1.2,
      "auf": "07:50",
      "unter": "18:30"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 61,
-     "max": 13,
-     "min": 8,
-     "regen": 15,
-     "menge": 0.1,
-     "wind": 9,
+     "max": 12,
+     "min": 7,
+     "regen": 13,
+     "menge": 0,
+     "wind": 10,
      "windAus": 25,
-     "uv": 1.2,
+     "uv": 0.9,
      "auf": "07:51",
      "unter": "18:28"
     },
@@ -1279,25 +1279,25 @@
       "datum": "2026-10-17",
       "code": 61,
       "max": 14,
-      "min": 9,
-      "regen": 95,
-      "menge": 1.5,
+      "min": 8,
+      "regen": 100,
+      "menge": 1.8,
       "wind": 13,
       "windAus": 354,
-      "uv": 0.7,
+      "uv": 1.2,
       "auf": "07:50",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 13,
-      "min": 8,
-      "regen": 15,
-      "menge": 0.1,
-      "wind": 9,
+      "max": 12,
+      "min": 7,
+      "regen": 13,
+      "menge": 0,
+      "wind": 10,
       "windAus": 25,
-      "uv": 1.2,
+      "uv": 0.9,
       "auf": "07:51",
       "unter": "18:28"
      },
@@ -1305,51 +1305,51 @@
       "datum": "2026-10-19",
       "code": 3,
       "max": 17,
-      "min": 6,
-      "regen": 15,
+      "min": 7,
+      "regen": 8,
       "menge": 0,
-      "wind": 11,
-      "windAus": 37,
+      "wind": 12,
+      "windAus": 45,
       "uv": 3,
       "auf": "07:53",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
-      "code": 3,
-      "max": 13,
-      "min": 3,
+      "code": 2,
+      "max": 12,
+      "min": 1,
       "regen": 2,
       "menge": 0,
-      "wind": 9,
-      "windAus": 56,
-      "uv": 3,
+      "wind": 11,
+      "windAus": 57,
+      "uv": 2.2,
       "auf": "07:55",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
-      "code": 3,
-      "max": 13,
-      "min": 3,
-      "regen": 41,
-      "menge": 0,
+      "code": 61,
+      "max": 8,
+      "min": 1,
+      "regen": 40,
+      "menge": 1.3,
       "wind": 5,
-      "windAus": 27,
+      "windAus": 132,
       "uv": 0.6,
       "auf": "07:56",
       "unter": "18:22"
      },
      {
       "datum": "2026-10-22",
-      "code": 3,
+      "code": 61,
       "max": 14,
       "min": 2,
-      "regen": 41,
-      "menge": 0,
+      "regen": 40,
+      "menge": 1.1,
       "wind": 12,
-      "windAus": 236,
-      "uv": 2.4,
+      "windAus": 239,
+      "uv": 2.5,
       "auf": "07:58",
       "unter": "18:20"
      },
@@ -1362,46 +1362,22 @@
       "menge": 3.9,
       "wind": 12,
       "windAus": 187,
-      "uv": 0.5,
+      "uv": 1,
       "auf": "08:00",
       "unter": "18:18"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 38
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 28
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 10
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 8
-     },
-     {
       "zeit": "15:00",
       "grad": 14,
       "code": 3,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "16:00",
       "grad": 14,
-      "code": 3,
+      "code": 2,
       "regen": 3
      },
      {
@@ -1419,7 +1395,7 @@
      {
       "zeit": "19:00",
       "grad": 12,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1430,14 +1406,14 @@
      },
      {
       "zeit": "21:00",
-      "grad": 11,
-      "code": 3,
+      "grad": 10,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 10,
-      "code": 2,
+      "grad": 9,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1448,69 +1424,93 @@
      },
      {
       "zeit": "00:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 8,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 8,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 7,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 9,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 3
      },
      {
       "zeit": "06:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 3
      },
      {
       "zeit": "07:00",
       "grad": 8,
-      "code": 61,
+      "code": 3,
       "regen": 8
      },
      {
       "zeit": "08:00",
-      "grad": 8,
-      "code": 61,
+      "grad": 7,
+      "code": 3,
       "regen": 8
      },
      {
       "zeit": "09:00",
       "grad": 8,
-      "code": 61,
-      "regen": 8
+      "code": 3,
+      "regen": 10
      },
      {
       "zeit": "10:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "11:00",
       "grad": 9,
       "code": 61,
-      "regen": 10
+      "regen": 13
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 5
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -1520,14 +1520,14 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 13,
+     "grad": 12,
      "code": 61,
-     "gefuehlt": 11,
-     "wind": 10,
-     "windAus": 312,
-     "feuchte": 88,
+     "gefuehlt": 10,
+     "wind": 11,
+     "windAus": 346,
+     "feuchte": 85,
      "druck": 991,
-     "niederschlag": 0.3,
+     "niederschlag": 0.2,
      "tag": 1
     },
     "heute": {
@@ -1535,24 +1535,24 @@
      "code": 80,
      "max": 16,
      "min": 10,
-     "regen": 90,
-     "menge": 12.9,
-     "wind": 12,
-     "windAus": 317,
-     "uv": 0.5,
+     "regen": 95,
+     "menge": 13.3,
+     "wind": 13,
+     "windAus": 319,
+     "uv": 0.4,
      "auf": "07:46",
      "unter": "18:30"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 61,
-     "max": 12,
+     "max": 13,
      "min": 9,
-     "regen": 85,
-     "menge": 2.1,
-     "wind": 9,
-     "windAus": 350,
-     "uv": 0.5,
+     "regen": 98,
+     "menge": 3.1,
+     "wind": 8,
+     "windAus": 352,
+     "uv": 0.6,
      "auf": "07:47",
      "unter": "18:28"
     },
@@ -1562,62 +1562,62 @@
       "code": 80,
       "max": 16,
       "min": 10,
-      "regen": 90,
-      "menge": 12.9,
-      "wind": 12,
-      "windAus": 317,
-      "uv": 0.5,
+      "regen": 95,
+      "menge": 13.3,
+      "wind": 13,
+      "windAus": 319,
+      "uv": 0.4,
       "auf": "07:46",
       "unter": "18:30"
      },
      {
       "datum": "2026-10-18",
       "code": 61,
-      "max": 12,
+      "max": 13,
       "min": 9,
-      "regen": 85,
-      "menge": 2.1,
-      "wind": 9,
-      "windAus": 350,
-      "uv": 0.5,
+      "regen": 98,
+      "menge": 3.1,
+      "wind": 8,
+      "windAus": 352,
+      "uv": 0.6,
       "auf": "07:47",
       "unter": "18:28"
      },
      {
       "datum": "2026-10-19",
-      "code": 45,
+      "code": 3,
       "max": 17,
-      "min": 8,
+      "min": 7,
       "regen": 3,
       "menge": 0,
-      "wind": 10,
-      "windAus": 56,
+      "wind": 11,
+      "windAus": 49,
       "uv": 3.1,
       "auf": "07:49",
       "unter": "18:26"
      },
      {
       "datum": "2026-10-20",
-      "code": 61,
-      "max": 13,
-      "min": 3,
-      "regen": 8,
-      "menge": 0.4,
-      "wind": 9,
-      "windAus": 90,
-      "uv": 2.9,
+      "code": 3,
+      "max": 14,
+      "min": 4,
+      "regen": 3,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 93,
+      "uv": 2.8,
       "auf": "07:51",
       "unter": "18:24"
      },
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 14,
-      "min": 6,
-      "regen": 45,
-      "menge": 1.5,
-      "wind": 9,
-      "windAus": 290,
+      "max": 11,
+      "min": 8,
+      "regen": 52,
+      "menge": 11.9,
+      "wind": 4,
+      "windAus": 253,
       "uv": 0.4,
       "auf": "07:52",
       "unter": "18:22"
@@ -1627,11 +1627,11 @@
       "code": 61,
       "max": 12,
       "min": 3,
-      "regen": 44,
-      "menge": 3.3,
+      "regen": 55,
+      "menge": 1.3,
       "wind": 13,
-      "windAus": 259,
-      "uv": 2.6,
+      "windAus": 256,
+      "uv": 2.7,
       "auf": "07:54",
       "unter": "18:20"
      },
@@ -1644,155 +1644,155 @@
       "menge": 0.4,
       "wind": 10,
       "windAus": 195,
-      "uv": 0.9,
+      "uv": 1.2,
       "auf": "07:55",
       "unter": "18:18"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 63
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 75
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 83
-     },
-     {
       "zeit": "15:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
+      "grad": 12,
       "code": 61,
       "regen": 90
      },
      {
-      "zeit": "17:00",
-      "grad": 11,
+      "zeit": "16:00",
+      "grad": 12,
       "code": 61,
-      "regen": 85
+      "regen": 88
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 83
      },
      {
       "zeit": "18:00",
       "grad": 11,
       "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
       "regen": 70
      },
      {
-      "zeit": "20:00",
-      "grad": 10,
+      "zeit": "19:00",
+      "grad": 11,
       "code": 61,
-      "regen": 58
+      "regen": 53
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 50
      },
      {
       "zeit": "21:00",
       "grad": 10,
       "code": 61,
-      "regen": 53
+      "regen": 60
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 61,
-      "regen": 68
+      "regen": 88
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 55,
-      "regen": 85
+      "code": 61,
+      "regen": 95
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 61,
-      "regen": 83
+      "regen": 95
      },
      {
       "zeit": "01:00",
       "grad": 10,
       "code": 61,
-      "regen": 85
+      "regen": 90
      },
      {
       "zeit": "02:00",
       "grad": 10,
       "code": 61,
-      "regen": 75
+      "regen": 88
      },
      {
       "zeit": "03:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
-      "regen": 75
+      "regen": 93
      },
      {
       "zeit": "04:00",
       "grad": 9,
       "code": 61,
-      "regen": 85
+      "regen": 98
      },
      {
       "zeit": "05:00",
       "grad": 9,
       "code": 61,
-      "regen": 80
+      "regen": 93
      },
      {
       "zeit": "06:00",
       "grad": 9,
-      "code": 61,
-      "regen": 58
+      "code": 55,
+      "regen": 75
      },
      {
       "zeit": "07:00",
       "grad": 9,
-      "code": 3,
-      "regen": 30
+      "code": 61,
+      "regen": 43
      },
      {
       "zeit": "08:00",
       "grad": 9,
       "code": 3,
-      "regen": 38
+      "regen": 33
      },
      {
       "zeit": "09:00",
       "grad": 9,
       "code": 3,
-      "regen": 20
+      "regen": 15
      },
      {
       "zeit": "10:00",
       "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 5
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -1804,37 +1804,37 @@
     "jetzt": {
      "grad": 15,
      "code": 3,
-     "gefuehlt": 15,
+     "gefuehlt": 14,
      "wind": 7,
-     "windAus": 299,
-     "feuchte": 77,
-     "druck": 958,
+     "windAus": 3,
+     "feuchte": 81,
+     "druck": 957,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-17",
      "code": 80,
-     "max": 16,
+     "max": 15,
      "min": 10,
-     "regen": 45,
-     "menge": 0.1,
-     "wind": 12,
-     "windAus": 317,
-     "uv": 1.7,
+     "regen": 60,
+     "menge": 2.1,
+     "wind": 13,
+     "windAus": 311,
+     "uv": 2,
      "auf": "07:35",
      "unter": "18:21"
     },
     "morgen": {
      "datum": "2026-10-18",
      "code": 80,
-     "max": 18,
-     "min": 10,
-     "regen": 45,
-     "menge": 0.3,
-     "wind": 11,
-     "windAus": 61,
-     "uv": 1.2,
+     "max": 17,
+     "min": 9,
+     "regen": 63,
+     "menge": 0.6,
+     "wind": 12,
+     "windAus": 60,
+     "uv": 1,
      "auf": "07:37",
      "unter": "18:19"
     },
@@ -1842,51 +1842,51 @@
      {
       "datum": "2026-10-17",
       "code": 80,
-      "max": 16,
+      "max": 15,
       "min": 10,
-      "regen": 45,
-      "menge": 0.1,
-      "wind": 12,
-      "windAus": 317,
-      "uv": 1.7,
+      "regen": 60,
+      "menge": 2.1,
+      "wind": 13,
+      "windAus": 311,
+      "uv": 2,
       "auf": "07:35",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-18",
       "code": 80,
-      "max": 18,
-      "min": 10,
-      "regen": 45,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 61,
-      "uv": 1.2,
+      "max": 17,
+      "min": 9,
+      "regen": 63,
+      "menge": 0.6,
+      "wind": 12,
+      "windAus": 60,
+      "uv": 1,
       "auf": "07:37",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-19",
       "code": 3,
-      "max": 16,
+      "max": 15,
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 77,
-      "uv": 3,
+      "wind": 14,
+      "windAus": 76,
+      "uv": 3.1,
       "auf": "07:38",
       "unter": "18:17"
      },
      {
       "datum": "2026-10-20",
-      "code": 61,
-      "max": 11,
-      "min": 4,
-      "regen": 3,
-      "menge": 0.5,
-      "wind": 9,
-      "windAus": 86,
+      "code": 3,
+      "max": 10,
+      "min": 2,
+      "regen": 0,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 82,
       "uv": 3.1,
       "auf": "07:40",
       "unter": "18:15"
@@ -1894,13 +1894,13 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 12,
-      "min": 6,
-      "regen": 53,
-      "menge": 3.6,
-      "wind": 7,
-      "windAus": 42,
-      "uv": 1.8,
+      "max": 9,
+      "min": 5,
+      "regen": 62,
+      "menge": 4.3,
+      "wind": 6,
+      "windAus": 276,
+      "uv": 2.3,
       "auf": "07:41",
       "unter": "18:13"
      },
@@ -1910,10 +1910,10 @@
       "max": 10,
       "min": 5,
       "regen": 75,
-      "menge": 19.7,
+      "menge": 17.9,
       "wind": 17,
-      "windAus": 260,
-      "uv": 1.9,
+      "windAus": 263,
+      "uv": 2.1,
       "auf": "07:43",
       "unter": "18:12"
      },
@@ -1926,153 +1926,153 @@
       "menge": 0.1,
       "wind": 6,
       "windAus": 167,
-      "uv": 2.9,
+      "uv": 2.7,
       "auf": "07:44",
       "unter": "18:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
+      "zeit": "15:00",
       "grad": 15,
       "code": 3,
-      "regen": 40
-     },
-     {
-      "zeit": "12:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 43
-     },
-     {
-      "zeit": "13:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 43
-     },
-     {
-      "zeit": "14:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "15:00",
-      "grad": 16,
-      "code": 3,
-      "regen": 15
+      "regen": 18
      },
      {
       "zeit": "16:00",
-      "grad": 16,
+      "grad": 15,
       "code": 3,
       "regen": 18
      },
      {
       "zeit": "17:00",
-      "grad": 16,
+      "grad": 15,
       "code": 3,
-      "regen": 30
+      "regen": 10
      },
      {
       "zeit": "18:00",
-      "grad": 15,
-      "code": 80,
-      "regen": 23
+      "grad": 14,
+      "code": 3,
+      "regen": 10
      },
      {
       "zeit": "19:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 18
+      "grad": 13,
+      "code": 80,
+      "regen": 8
      },
      {
       "zeit": "20:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 23
+      "grad": 12,
+      "code": 80,
+      "regen": 10
      },
      {
       "zeit": "21:00",
       "grad": 12,
-      "code": 80,
-      "regen": 30
+      "code": 3,
+      "regen": 20
      },
      {
       "zeit": "22:00",
       "grad": 11,
-      "code": 3,
-      "regen": 35
+      "code": 61,
+      "regen": 28
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 3,
-      "regen": 45
+      "code": 61,
+      "regen": 60
      },
      {
       "zeit": "00:00",
       "grad": 10,
-      "code": 61,
-      "regen": 45
+      "code": 80,
+      "regen": 63
      },
      {
       "zeit": "01:00",
       "grad": 10,
       "code": 61,
-      "regen": 13
+      "regen": 15
      },
      {
       "zeit": "02:00",
       "grad": 10,
-      "code": 80,
+      "code": 61,
       "regen": 3
      },
      {
       "zeit": "03:00",
       "grad": 10,
+      "code": 80,
+      "regen": 5
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "04:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "05:00",
-      "grad": 11,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 11,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 10,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 10,
-      "code": 45,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 10,
-      "code": 45,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
       "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
       "code": 3,
       "regen": 0
      }
@@ -2080,10 +2080,10 @@
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 14 und 16 Grad.",
-   "Die Vorhersage für morgen, Sonntag: im Norden und Osten bewölkt, im Süden und Westen leichter Regen.",
-   "Die Temperaturen erreichen dann 12 bis 18 Grad.",
-   "Am wärmsten wird es in München mit 18 Grad.",
+   "Heute liegen die Höchstwerte zwischen 13 und 16 Grad.",
+   "Die Vorhersage für morgen, Sonntag: im Norden und Osten neblig, im Süden und Westen leichter Regen.",
+   "Die Temperaturen erreichen dann 12 bis 17 Grad.",
+   "Am wärmsten wird es in München mit 17 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2096,19 +2096,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 3.7
+       "regen": 8.4
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 14,
-       "regen": 8.8
+       "grad": 13,
+       "regen": 7.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 15,
-       "regen": 9.3
+       "grad": 13,
+       "regen": 7
       }
      ]
     },
@@ -2118,20 +2118,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 16,
+       "grad": 14,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 16,
+       "grad": 17,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 0.3
+       "regen": 0.8
       }
      ]
     },
@@ -2141,7 +2141,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 14,
+       "grad": 13,
        "regen": 0
       },
       {
@@ -2154,7 +2154,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 0.2
+       "regen": 0.6
       }
      ]
     },
@@ -2164,14 +2164,14 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
+       "grad": 12,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 15,
-       "regen": 1.1
+       "grad": 16,
+       "regen": 0
       },
       {
        "name": "ECMWF",
@@ -2187,20 +2187,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
+       "grad": 13,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 0
+       "grad": 12,
+       "regen": 0.2
       }
      ]
     },
@@ -2210,20 +2210,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 2.1
+       "grad": 13,
+       "regen": 3.1
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 11,
-       "regen": 0.7
+       "regen": 0.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 4.3
+       "grad": 13,
+       "regen": 2.6
       }
      ]
     },
@@ -2233,38 +2233,38 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 18,
-       "regen": 0.3
+       "grad": 17,
+       "regen": 0.6
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 0.6
+       "grad": 13,
+       "regen": 0.9
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 2
+       "regen": 2.4
       }
      ]
     }
    ],
-   "spanneGrad": 6,
+   "spanneGrad": 4,
    "uneinigRegen": {
-    "ort": "Köln",
+    "ort": "Stuttgart",
     "nass": [
-     "GFS"
-    ],
-    "trocken": [
      "ICON",
      "ECMWF"
+    ],
+    "trocken": [
+     "GFS"
     ]
    },
    "saetze": [
-    "Für München gehen die Modelle am weitesten auseinander: zwischen 12 und 18 Grad.",
-    "Und in Köln erwartet GFS Regen, ICON und ECMWF dagegen nicht."
+    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 12 und 16 Grad.",
+    "Und in Stuttgart erwartet ICON und ECMWF Regen, GFS dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -3476,7 +3476,7 @@
      "s": [
       0.25,
       5.25,
-      11.0,
+      11,
       15.27
      ]
     },
@@ -3531,7 +3531,7 @@
      "l": 57.76,
      "s": [
       0.25,
-      9.0,
+      9,
       14.95,
       22.85,
       30.38,
@@ -6314,7 +6314,7 @@
      "l": 36.62,
      "s": [
       0.25,
-      8.0,
+      8,
       17.57,
       26.94,
       28.51
