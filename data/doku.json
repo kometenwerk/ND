@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-17T19:23:08.137Z",
+ "stand": "2026-10-18T05:50:15.290Z",
  "inArbeit": {
   "id": "die-geschichte-unserer-schrift",
   "titel": "Die Geschichte unserer Schrift",
@@ -11,9 +11,48 @@
     "ueberschrift": "Der Ursprung visueller Kommunikation",
     "wikipedia": "Höhlenmalerei",
     "fokus": "Menschen hielten bereits in der Urzeit Erlebnisse mit Bildern fest.",
-    "zuDuenn": 2,
+    "zuDuenn": 3,
     "versuche": 1,
-    "fehlgeschlagen": false
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Nach der Zukunft der Schrift blicken wir nun auf den Ursprung visueller Kommunikation zurück.",
+     "Als Höhlenmalerei bezeichnet die Forschung eine Kunst aus Flachreliefs und Gemälden an Wänden.",
+     "Die älteste bekannte figurative Höhlenmalerei wurde laut dem Wikipedia Artikel in Indonesien entdeckt.",
+     "Farbschichten in Spanien wurden laut dem Wikipedia Artikel auf das Werk von Neandertalern zurückgeführt.",
+     "Forscher nutzen verschiedene Methoden wie die Radiokohlenstoffdatierung zur Altersbestimmung.",
+     "Verschiedene Deutungsansätze erklären die Motive durch Religion oder praktische Zwecke.",
+     "Von diesen frühen Bildern aus der Urzeit führt der Weg weiter zu den kommenden Kapiteln unserer Schrift."
+    ],
+    "fakten": [
+     [
+      "Alter der Höhle Leang Karampuang",
+      "53500 Jahre"
+     ],
+     [
+      "Alter der Farbschichten in der Cueva de Ardales",
+      "65000 Jahre"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Höhlenmalerei",
+      "Eine Kunst aus Flachreliefs, Gemälden und Gravuren an Wänden von Höhlen."
+     ],
+     [
+      "Parietalkunst",
+      "Bilder auf Felswänden innerhalb und außerhalb von Höhlen."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Höhlenmalerei",
+     "bildunterschrift": "Höhlenmalerei gilt als früher Ursprung visueller Kommunikation in der Menschheitsgeschichte."
+    },
+    "quelle": {
+     "titel": "Höhlenmalerei",
+     "url": "https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei"
+    },
+    "woerter": 90
    },
    {
     "ueberschrift": "Von Bildern zu Zeichen",

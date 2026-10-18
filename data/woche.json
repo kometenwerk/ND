@@ -1,173 +1,143 @@
 {
- "erstellt": "2026-10-11T12:42:02.304Z",
- "von": "2026-10-04T12:42:02.304Z",
- "bis": "2026-10-11T12:42:02.304Z",
+ "erstellt": "2026-10-18T05:50:15.290Z",
+ "von": "2026-10-11T05:50:15.290Z",
+ "bis": "2026-10-18T05:50:15.290Z",
  "themen": [
   {
-   "id": "hurrikan-isaias-us-kueste",
-   "titel": "Auswirkungen des Wirbelsturms Isaias im Südosten der Vereinigten Staaten",
-   "rubrik": "Welt",
-   "zeit": "2026-10-11T05:33:01.000Z",
+   "id": "baerbel-bas-ruecktritt",
+   "titel": "Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende",
+   "rubrik": "Deutschland",
+   "zeit": "2026-10-12T18:42:05.000Z",
    "bild": {
-    "titel": "Ron DeSantis official photo.jpg",
-    "beschreibung": "Official portrait of Florida Governor Ron DeSantis at an unknown date.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Ron_DeSantis_official_photo.jpg/1280px-Ron_DeSantis_official_photo.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ron_DeSantis_official_photo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Ron_DeSantis_official_photo.jpg",
-    "urheber": "Government of Florida",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
+    "titel": "BaerbelBas.JPG",
+    "beschreibung": "Bärbel Bas- Member of Parliament",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/BaerbelBas.JPG/1280px-BaerbelBas.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/BaerbelBas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:BaerbelBas.JPG",
+    "urheber": "Fotografin des Bildes ist Angelika Kohlmeier, uneingeschränktes Nutzungsrecht liegt dem Bü",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
     "art": "person",
-    "suchbegriff": "Ron DeSantis politician",
-    "bildunterschrift": "Ron DeSantis, der Gouverneur des US-Bundesstaates Florida.",
+    "suchbegriff": "Baerbel Bas politician",
+    "bildunterschrift": "Die Politikerin Bärbel Bas, deren Rücktritt als Bundesarbeitsministerin und SPD-Co-Vorsitzende bekannt gegeben wurde.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "Der Wirbelsturm Isaias ist in Florida auf Land getroffen.",
-    "Dabei gab es nach Berichten mindestens vier Todesfälle.",
-    "Hunderttausende Haushalte blieben zeitweise ohne Strom."
+    "Bundesarbeitsministerin Baerbel Bas hat ihren sofortigen Ruecktritt von allen Regierungs- und Parteiaemtern erklaert.",
+    "Sie begruendete diesen Schritt mit einem privaten Trauerfall und oeffentlichen Angriffen.",
+    "Als Nachfolger fuer das Ministerium ist Alexander Schweitzer benannt worden."
    ]
   },
   {
-   "id": "einziger-neues-thema-2",
-   "titel": "Papst Leo XIV. kündigt Lungenoperation an",
+   "id": "frankreich-proteste-eskalation",
+   "titel": "Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich",
    "rubrik": "Welt",
-   "zeit": "2026-10-11T12:39:23.000Z",
+   "zeit": "2026-10-18T05:39:38.000Z",
+   "saetze": [
+    "Bei landesweiten Demonstrationen in Frankreich kam es zu schwereren Ausschreitungen, Brandstiftungen und Pluenderungen.",
+    "Regierungsangaben zufolge wurden 1200 Personen festgenommen.",
+    "Zahlreiche Polizisten wurden bei den Einsaetzen verletzt."
+   ]
+  },
+  {
+   "id": "siedlergewalt-westjordanland",
+   "titel": "Gewaltakte im Westjordanland während der Olivenernte",
+   "rubrik": "Welt",
+   "zeit": "2026-10-18T05:39:38.000Z",
+   "saetze": [
+    "Im Westjordanland kam es während der Olivenernte zu gewaltsamen Übergriffen durch Siedler.",
+    "Unter den Opfern befinden sich palästinensische Helfer, eine US-Journalistin sowie europäische Diplomaten.",
+    "Die Vorfälle lösten internationale Reaktionen und Forderungen nach juristischer Verfolgung aus."
+   ]
+  },
+  {
+   "id": "taz-korrespondentin-einreise-israel",
+   "titel": "Israel verweigert taz-Korrespondentin Visum und Einreise",
+   "rubrik": "Welt",
+   "zeit": "2026-10-12T18:26:42.000Z",
    "bild": {
-    "titel": "Leo XIV (13 October 2025).jpg",
-    "beschreibung": "Pope Leo XIV, photographed in October 2025 during an audience with President of Brazil Luiz Inácio Lula da Silva in the Vatican",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg",
-    "urheber": "Ricardo Stuckert",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Leo XIV.",
+    "titel": "Benjamin Netanyahu, February 2023.jpg",
+    "beschreibung": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
+    "urheber": "Avi Ohayon",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artikel": "Benjamin Netanjahu",
     "sprache": "de",
     "art": "person",
-    "suchbegriff": "Robert Francis Prevost",
-    "bildunterschrift": "Papst Leo XIV., der eine Operation an der Lunge angekündigt hat.",
+    "suchbegriff": "Benjamin Netanyahu",
+    "bildunterschrift": "Benjamin Netanjahu, der Premierminister von Israel, dessen Regierung das Visum verweigerte.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "Papst Leo XIV. hat eine Operation an der Lunge angekündigt.",
-    "Bei einer Untersuchung wurde ein Gewebeknoten im Anfangsstadium festgestellt.",
-    "Das Kirchenoberhaupt äußerte sich dazu beim sonntäglichen Angelus-Gebet."
+    "Die israelische Regierung hat der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise verweigert.",
+    "Die Zeitung und Organisationen werten dies als Eingriff in die Pressefreiheit.",
+    "Behörden verweisen auf frühere Kommentare der Journalistin als Boykottvorwürfe."
    ]
   },
   {
-   "id": "angriffe-saporischschja",
-   "titel": "Russische Luftangriffe auf Saporischschja und Gegenschläge auf russischem Gebiet gemeldet",
+   "id": "trump-russland-sanktionen-ausgesetzt",
+   "titel": "US-Präsident Trump setzt geplante Sanktionen gegen Russland per Dekret aus",
    "rubrik": "Welt",
-   "zeit": "2026-10-10T14:16:50.000Z",
-   "saetze": [
-    "Russische Streitkräfte haben die Stadt Saporischschja angegriffen.",
-    "Dabei wurden Lenkbomben, Drohnen und Raketen eingesetzt.",
-    "Nach Behördenangaben gab es mehrere Tote und Verletzte."
-   ]
-  },
-  {
-   "id": "spanische-wohnungskrise-parlament",
-   "titel": "Proteste und politische Reaktionen nach dem Tod einer zwangsgeräumten Rentnerin in Spanien",
-   "rubrik": "Welt",
-   "zeit": "2026-10-09T08:53:30.000Z",
+   "zeit": "2026-10-17T17:31:00.000Z",
    "bild": {
-    "titel": "Risa Hontiveros and Pedro Sánchez in 2026.jpg",
-    "beschreibung": "Philippine senator Risa Hontiveros meets Spanish prime minister Pedro Sánchez during the Global Progressive Mobilisation meeting in Barcelona , Spain, on 18 April 2026.",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Risa_Hontiveros_and_Pedro_S%C3%A1nchez_in_2026.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Risa_Hontiveros_and_Pedro_S%C3%A1nchez_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Risa_Hontiveros_and_Pedro_S%C3%A1nchez_in_2026.jpg",
-    "urheber": "Senator Risa Hontiveros",
+    "titel": "Official Presidential Portrait of President Donald J. Trump (2025).jpg",
+    "beschreibung": "Official Presidential Portrait of President Donald J. Trump in his second term",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
+    "urheber": "Daniel Torok",
     "lizenz": "Public domain",
     "lizenzUrl": "",
+    "artikel": "Donald Trump",
+    "sprache": "de",
     "art": "person",
-    "suchbegriff": "Pedro Sánchez politician",
-    "bildunterschrift": "Der spanische Premierminister Pedro Sánchez im Jahr 2026.",
+    "suchbegriff": "Donald Trump",
+    "bildunterschrift": "US-Präsident Donald Trump, der die Sanktionen gegen Russland per Dekret aussetzte.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "In Spanien kam es zu landesweiten Protesten gegen die Wohnungsnot.",
-    "Auslöser war die Zwangsräumung und der Tod einer Rentnerin in Madrid.",
-    "Ministerpräsident Pedro Sánchez setzte daraufhin vorgezogene Neuwahlen an."
+    "US-Präsident Donald Trump hat neue Sanktionen und Zölle gegen Russland bis auf Weiteres ausgesetzt.",
+    "Die russische Führung begrüßt diesen Schritt laut Berichten.",
+    "In der Ukraine sowie bei US-Demokraten und US-Republikanern stößt die Entscheidung auf Kritik."
    ]
   },
   {
-   "id": "bundesregierung-erhebt-konjunkturprognose-fuer-2026",
-   "titel": "Bundesregierung hebt Wachstumsprognose für das Jahr 2026 an",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-10-08T20:01:59.000Z",
+   "id": "eu-haushalt-streit-merz",
+   "titel": "EU-Staats- und Regierungschefs vertagen Verhandlungen über künftigen Gemeinschaftshaushalt",
+   "rubrik": "Welt",
+   "zeit": "2026-10-16T12:16:13.000Z",
+   "saetze": [
+    "Die Staats- und Regierungschefs der EU haben ihre Verhandlungen über den mehrjährigen Finanzrahmen vertagt.",
+    "Deutschland und weitere Staaten fordern Kürzungen am Haushaltsentwurf.",
+    "Andere Mitgliedsländer und EU-Vertreter sprechen sich gegen Einsparungen aus."
+   ]
+  },
+  {
+   "id": "nord-stream-prozess-beginn",
+   "titel": "Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg",
+   "rubrik": "Deutschland",
+   "zeit": "2026-10-14T17:15:26.000Z",
    "bild": {
-    "titel": "Development of per capita meat consumption and gross domestic product (GDP) over time (1990–2017).png",
-    "beschreibung": "\"Each arrow reflects the development of per capita meat consumption and per capita GDP (in constant international dollars) for a particular country. Selected countries are highlighted with blue arrows",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Development_of_per_capita_meat_consumption_and_gross_domestic_product_%28GDP%29_over_time_%281990%E2%80%932017%29.png/1280px-Development_of_per_capita_meat_consumption_and_gross_domestic_product_%28GDP%29_over_time_%281990%E2%80%932017%29.png",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Development_of_per_capita_meat_consumption_and_gross_domestic_product_%28GDP%29_over_time_%281990%E2%80%932017%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Development_of_per_capita_meat_consumption_and_gross_domestic_product_(GDP)_over_time_(1990%E2%80%932017).png",
-    "urheber": "Authors of the study: Martin C. Parlasca and Matin Qaim",
-    "lizenz": "CC BY 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "titel": "Cloud cumulonimbus at baltic sea(1).jpg",
+    "beschreibung": "Cumulonimbus cloud at the Baltic Sea near island of Öland , Sweden .",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg/1280px-Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg",
+    "urheber": "Arnold Paul",
+    "lizenz": "CC BY-SA 2.5",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
     "art": "symbol",
-    "suchbegriff": "Gross domestic product chart economy",
-    "bildunterschrift": "Ein Diagramm zur Entwicklung des Bruttoinlandsprodukts, das den Bereich der Wirtschaft beleuchtet.",
+    "suchbegriff": "Baltic Sea",
+    "bildunterschrift": "Eine Cumulonimbus-Wolke über der Ostsee, dem Gebiet der Gaspipelines.",
     "hinweis": "Symbolbild"
    },
    "saetze": [
-    "Die Bundesregierung hat ihre Konjunkturprognose für das Jahr 2026 nach oben korrigiert.",
-    "Das Wirtschaftsministerium erwartet nun ein Wirtschaftswachstum von 1,3 Prozent.",
-    "Im Frühjahr war noch von einem geringeren Wachstum ausgegangen worden."
-   ]
-  },
-  {
-   "id": "paramount-warner-fusion",
-   "titel": "Paramount schließt Übernahme von Warner Bros. Discovery ab",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-10-06T17:47:00.000Z",
-   "bild": {
-    "titel": "Paramount Bldg, 1501 Broadway @ 43rd St, NYC.jpg",
-    "beschreibung": "Paramount Building, 1501 Broadway @ 43rd St. (Times Square), New York City",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Paramount_Bldg%2C_1501_Broadway_%40_43rd_St%2C_NYC.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Paramount_Bldg%2C_1501_Broadway_%40_43rd_St%2C_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Paramount_Bldg,_1501_Broadway_@_43rd_St,_NYC.jpg",
-    "urheber": "Wilsonchas",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "1501 Broadway",
-    "sprache": "de",
-    "art": "institution",
-    "suchbegriff": "Paramount Pictures building",
-    "bildunterschrift": "Das Paramount Building in New York City repräsentiert den beteiligten Unterhaltungskonzern.",
-    "hinweis": "Archivfoto"
-   },
-   "saetze": [
-    "Der Unterhaltungskonzern Paramount hat die Übernahme von Warner Bros. Discovery abgeschlossen.",
-    "Die Transaktion hat einen Wert von rund 110 Milliarden Dollar.",
-    "Dadurch entsteht ein neuer Unterhaltungskonzern namens Skydance."
-   ]
-  },
-  {
-   "id": "oktoberfest-besucherrekord",
-   "titel": "Abschluss des Oktoberfests 2026 mit Rekordzahlen und Zwischenfällen",
-   "rubrik": "Deutschland",
-   "zeit": "2026-10-05T08:47:34.000Z",
-   "bild": {
-    "titel": "Wiesn2006 Luftaufnahme.jpg",
-    "beschreibung": "Aerial view of the Theresienwiese one day before the opening of the Munich Oktoberfest 2006, Bavaria , Germany .",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wiesn2006_Luftaufnahme.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Wiesn2006_Luftaufnahme.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Wiesn2006_Luftaufnahme.jpg",
-    "urheber": "Stefan Weigel",
-    "lizenz": "CC BY-SA 2.5",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "artikel": "Oktoberfest",
-    "sprache": "de",
-    "art": "ort",
-    "suchbegriff": "Theresienwiese Munich",
-    "bildunterschrift": "Luftaufnahme der Theresienwiese in München.",
-    "hinweis": "Archivfoto"
-   },
-   "saetze": [
-    "Das Münchner Oktoberfest ging mit einem historischen Besucherrekord zu Ende.",
-    "Rund 7,4 Millionen Gäste besuchten das Volksfest nach 16 Tagen.",
-    "Das Fest wurde von Unfällen und polizeilich gemeldeten Straftaten überschattet."
+    "Vor dem Hanseatischen Oberlandesgericht in Hamburg hat ein Prozess begonnen.",
+    "Angeklagt ist der ukrainische Staatsbürger Serhii Kusnetzow.",
+    "Die Bundesanwaltschaft wirft ihm vor, ein Sabotage-Team bei der Sprengung der Nord-Stream-Pipelines angeführt zu haben."
    ]
   }
  ]

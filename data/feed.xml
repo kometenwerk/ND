@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 17 Oct 2026 19:23:08 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 05:50:15 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -23,6 +23,17 @@
     <guid isPermaLink="false">podcast-trump-russland-sanktionen-ausgesetzt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-trump-russland-sanktionen-ausgesetzt.mp3" length="6780909" type="audio/mpeg"/>
     <itunes:duration>00:14:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Wie funktioniert eigentlich das menschliche Riechen?</title>
+    <description>Der Geruchssinn hilft Menschen dabei, die Welt mit der Nase wahrzunehmen. Bereits bei der Geburt ist dieser Sinn weitgehend ausgebildet.</description>
+    <itunes:summary>Der Geruchssinn hilft Menschen dabei, die Welt mit der Nase wahrzunehmen. Bereits bei der Geburt ist dieser Sinn weitgehend ausgebildet.</itunes:summary>
+    <pubDate>Sat, 17 Oct 2026 17:21:09 GMT</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-menschliche-riechen</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/b45f4128db.mp3" length="189021" type="audio/mpeg"/>
+    <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
@@ -100,17 +111,6 @@
     <guid isPermaLink="false">podcast-wirtschaftsnobelpreis-2026</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-wirtschaftsnobelpreis-2026.mp3" length="7694061" type="audio/mpeg"/>
     <itunes:duration>00:16:02</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Wie funktionierte die Geheimschrift Enigma?</title>
-    <description>Die Enigma ist eine bekannte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert. Im Zweiten Weltkrieg nutzten die Achsenmächte sie für ihre Nachrichten.</description>
-    <itunes:summary>Die Enigma ist eine bekannte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert. Im Zweiten Weltkrieg nutzten die Achsenmächte sie für ihre Nachrichten.</itunes:summary>
-    <pubDate>Thu, 15 Oct 2026 18:18:30 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktionierte-die-geheimschrift-enigma</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/769a94d409.mp3" length="222717" type="audio/mpeg"/>
-    <itunes:duration>00:00:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
