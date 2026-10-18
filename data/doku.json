@@ -1,6 +1,64 @@
 {
- "stand": "2026-10-18T10:57:27.319Z",
- "inArbeit": null,
+ "stand": "2026-10-18T14:32:14.652Z",
+ "inArbeit": {
+  "id": "die-faszinierende-welt-der-pilze",
+  "titel": "Die faszinierende Welt der Pilze",
+  "untertitel": "Eine Entdeckungsreise durch das verborgene Leben der Pilze in der Natur.",
+  "bereich": "Natur und Tiere",
+  "begonnen": "2026-10-18T14:39:35.545Z",
+  "kapitel": [
+   {
+    "ueberschrift": "Was sind Pilze überhaupt?",
+    "wikipedia": "Pilze",
+    "fokus": "Dieses Kapitel erklärt die grundlegende Biologie und Stellung der Pilze im Lebensraum."
+   },
+   {
+    "ueberschrift": "Der verborgene Körper im Boden",
+    "wikipedia": "Myzel",
+    "fokus": "Dieses Kapitel beschreibt das unterirdische Geflecht als eigentlichen Hauptteil des Pilzes."
+   },
+   {
+    "ueberschrift": "Die Entstehung der Fruchtkörper",
+    "wikipedia": "Fruchtkörper",
+    "fokus": "Dieses Kapitel zeigt, wie Pilze ihre bekannten oberirdischen Teile bilden."
+   },
+   {
+    "ueberschrift": "Die Verbreitung von Sporen",
+    "wikipedia": "Spore",
+    "fokus": "Dieses Kapitel erläutert die Mechanismen der Fortpflanzung und Ausbreitung."
+   },
+   {
+    "ueberschrift": "Das unterirdische Netzwerk im Wald",
+    "wikipedia": "Mykorrhiza",
+    "fokus": "Dieses Kapitel beleuchtet die enge Lebensgemeinschaft zwischen Pilzen und Bäumen."
+   },
+   {
+    "ueberschrift": "Zersetzung und Kreislauf der Natur",
+    "wikipedia": "Saprobionten",
+    "fokus": "Dieses Kapitel erklärt die wichtige Rolle der Pilze beim Abbau von totem Material."
+   },
+   {
+    "ueberschrift": "Pilze als Krankheitserreger",
+    "wikipedia": "Pathogenität",
+    "fokus": "Dieses Kapitel zeigt auf, wie bestimmte Pilze andere Organismen befallen können."
+   },
+   {
+    "ueberschrift": "Die Erforschung des Reichs der Pilze",
+    "wikipedia": "Mykologie",
+    "fokus": "Dieses Kapitel beschreibt die wissenschaftliche Untersuchung und Geschichte der Pilzkunde."
+   },
+   {
+    "ueberschrift": "Die Entwicklung der Pilze im Stammbaum",
+    "wikipedia": "Evolution",
+    "fokus": "Dieses Kapitel geht auf die stammesgeschichtliche Entwicklung und Verwandtschaft der Pilze ein."
+   },
+   {
+    "ueberschrift": "Unbekannte Arten und offene Fragen",
+    "wikipedia": "Artenreichhaltigkeit",
+    "fokus": "Dieses Kapitel thematisiert die noch unerforschte Vielfalt der Pilzarten weltweit."
+   }
+  ]
+ },
  "fertig": [
   {
    "id": "die-geschichte-unserer-schrift",
