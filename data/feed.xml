@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sun, 18 Oct 2026 05:50:15 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 10:57:27 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-18</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gewaltvorfall an Grundschule im US-Bundesstaat Oregon · Linke, Grüne und SPD einigen sich auf Sondierungspapier für Berliner Landesregierung · Gewaltakte im Westjordanland während der Olivenernte · Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich · Zwischenfall und Großbrand auf Militärbasis in Kanada</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gewaltvorfall an Grundschule im US-Bundesstaat Oregon · Linke, Grüne und SPD einigen sich auf Sondierungspapier für Berliner Landesregierung · Gewaltakte im Westjordanland während der Olivenernte · Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich · Zwischenfall und Großbrand auf Militärbasis in Kanada</itunes:summary>
+    <pubDate>Sun, 18 Oct 2026 05:50:15 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-18</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-18.mp3" length="3836973" type="audio/mpeg"/>
+    <itunes:duration>00:10:39</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Trumps Dekret stoppt Russland-Sanktionen vorerst</title>
     <description>US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.</description>
@@ -67,17 +78,6 @@
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-gebaerdensprache</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/6fd3055de4.mp3" length="183405" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-17</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gewaltvorfall an Grundschule im US-Bundesstaat Oregon · Bundesrat billigt Gesetz zur Erhöhung der Tabaksteuer · Bundestag beschließt Einführung der Frühstartrente für Kinder · Deutschland und Frankreich verständigen sich auf geänderte Position zu Verbrenner-Regeln · EU-Staats- und Regierungschefs vertagen Verhandlungen über künftigen Gemeinschaftshaushalt</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Gewaltvorfall an Grundschule im US-Bundesstaat Oregon · Bundesrat billigt Gesetz zur Erhöhung der Tabaksteuer · Bundestag beschließt Einführung der Frühstartrente für Kinder · Deutschland und Frankreich verständigen sich auf geänderte Position zu Verbrenner-Regeln · EU-Staats- und Regierungschefs vertagen Verhandlungen über künftigen Gemeinschaftshaushalt</itunes:summary>
-    <pubDate>Sat, 17 Oct 2026 04:17:44 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-17</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-17.mp3" length="3651069" type="audio/mpeg"/>
-    <itunes:duration>00:10:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

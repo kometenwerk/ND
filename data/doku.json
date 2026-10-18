@@ -1,111 +1,182 @@
 {
- "stand": "2026-10-18T05:50:15.290Z",
- "inArbeit": {
-  "id": "die-geschichte-unserer-schrift",
-  "titel": "Die Geschichte unserer Schrift",
-  "untertitel": "Wie aus einfachen Zeichen unser modernes Alphabet wurde.",
-  "bereich": "Sprache und Kultur",
-  "begonnen": "2026-09-23T11:35:25.097Z",
-  "kapitel": [
-   {
-    "ueberschrift": "Der Ursprung visueller Kommunikation",
-    "wikipedia": "Höhlenmalerei",
-    "fokus": "Menschen hielten bereits in der Urzeit Erlebnisse mit Bildern fest.",
-    "zuDuenn": 3,
-    "versuche": 1,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Nach der Zukunft der Schrift blicken wir nun auf den Ursprung visueller Kommunikation zurück.",
-     "Als Höhlenmalerei bezeichnet die Forschung eine Kunst aus Flachreliefs und Gemälden an Wänden.",
-     "Die älteste bekannte figurative Höhlenmalerei wurde laut dem Wikipedia Artikel in Indonesien entdeckt.",
-     "Farbschichten in Spanien wurden laut dem Wikipedia Artikel auf das Werk von Neandertalern zurückgeführt.",
-     "Forscher nutzen verschiedene Methoden wie die Radiokohlenstoffdatierung zur Altersbestimmung.",
-     "Verschiedene Deutungsansätze erklären die Motive durch Religion oder praktische Zwecke.",
-     "Von diesen frühen Bildern aus der Urzeit führt der Weg weiter zu den kommenden Kapiteln unserer Schrift."
-    ],
-    "fakten": [
-     [
-      "Alter der Höhle Leang Karampuang",
-      "53500 Jahre"
+ "stand": "2026-10-18T10:57:27.319Z",
+ "inArbeit": null,
+ "fertig": [
+  {
+   "id": "die-geschichte-unserer-schrift",
+   "titel": "Die Geschichte unserer Schrift",
+   "untertitel": "Wie aus einfachen Zeichen unser modernes Alphabet wurde.",
+   "bereich": "Sprache und Kultur",
+   "zeit": "2026-10-18T10:57:27.319Z",
+   "kapitel": [
+    {
+     "ueberschrift": "Der Ursprung visueller Kommunikation",
+     "wikipedia": "Höhlenmalerei",
+     "fokus": "Menschen hielten bereits in der Urzeit Erlebnisse mit Bildern fest.",
+     "zuDuenn": 3,
+     "versuche": 1,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nach der Zukunft der Schrift blicken wir nun auf den Ursprung visueller Kommunikation zurück.",
+      "Als Höhlenmalerei bezeichnet die Forschung eine Kunst aus Flachreliefs und Gemälden an Wänden.",
+      "Die älteste bekannte figurative Höhlenmalerei wurde laut dem Wikipedia Artikel in Indonesien entdeckt.",
+      "Farbschichten in Spanien wurden laut dem Wikipedia Artikel auf das Werk von Neandertalern zurückgeführt.",
+      "Forscher nutzen verschiedene Methoden wie die Radiokohlenstoffdatierung zur Altersbestimmung.",
+      "Verschiedene Deutungsansätze erklären die Motive durch Religion oder praktische Zwecke.",
+      "Von diesen frühen Bildern aus der Urzeit führt der Weg weiter zu den kommenden Kapiteln unserer Schrift."
      ],
-     [
-      "Alter der Farbschichten in der Cueva de Ardales",
-      "65000 Jahre"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Höhlenmalerei",
-      "Eine Kunst aus Flachreliefs, Gemälden und Gravuren an Wänden von Höhlen."
+     "fakten": [
+      [
+       "Alter der Höhle Leang Karampuang",
+       "53500 Jahre"
+      ],
+      [
+       "Alter der Farbschichten in der Cueva de Ardales",
+       "65000 Jahre"
+      ]
      ],
-     [
-      "Parietalkunst",
-      "Bilder auf Felswänden innerhalb und außerhalb von Höhlen."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Höhlenmalerei",
-     "bildunterschrift": "Höhlenmalerei gilt als früher Ursprung visueller Kommunikation in der Menschheitsgeschichte."
+     "begriffe": [
+      [
+       "Höhlenmalerei",
+       "Eine Kunst aus Flachreliefs, Gemälden und Gravuren an Wänden von Höhlen."
+      ],
+      [
+       "Parietalkunst",
+       "Bilder auf Felswänden innerhalb und außerhalb von Höhlen."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Höhlenmalerei",
+      "bildunterschrift": "Höhlenmalerei gilt als früher Ursprung visueller Kommunikation in der Menschheitsgeschichte."
+     },
+     "quelle": {
+      "titel": "Höhlenmalerei",
+      "url": "https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei"
+     },
+     "woerter": 90,
+     "bildInfos": []
     },
-    "quelle": {
-     "titel": "Höhlenmalerei",
-     "url": "https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei"
-    },
-    "woerter": 90
-   },
-   {
-    "ueberschrift": "Von Bildern zu Zeichen",
-    "wikipedia": "Piktogramm",
-    "fokus": "Einfache Symbole bildeten die Grundlage für erste Informationssysteme.",
-    "versuche": 0,
-    "zuDuenn": 3,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Nach der lateinischen Schrift blicken wir nun auf die frühen Grundlagen zurück, bei denen einfache Symbole als Informationssysteme dienten.",
-     "Ein Piktogramm ist ein einzelnes Symbol, das eine Information durch eine vereinfachte grafische Darstellung vermittelt.",
-     "Alte Bilderschriften gelten als archaische Vorläufer der Schrift und haben sich zu Logogrammen weiterentwickelt.",
-     "Otto Neurath gilt als Vater einer neuen visuellen Kommunikationsform und entwickelte im Jahr neunzehnhundertsechsunddreißig das System Isotype.",
-     "Für die Olympischen Spiele neunzehnhundertvierundsechzig in Tokio entwarf Katsumi Masaru ein Bildzeichensystem, während Otl Aicher die Piktogramme für die Spiele im Jahr neunzehnhundertzweiundsiebzig in München weiter reduzierte.",
-     "Piktogramme sollen Informationen sprachunabhängig vermitteln, obwohl es in der Praxis manchmal zu Fehldeutungen wie bei dem Arzneistoff Thalidomid in Brasilien kommt.",
-     "Damit schließt sich der Kreis zu den visuellen Systemen, die uns den Weg in die Zukunft der Schrift weisen."
-    ],
-    "fakten": [
-     [
-      "Jahr von Isotype",
-      "neunzehnhundertsechsunddreißig"
+    {
+     "ueberschrift": "Von Bildern zu Zeichen",
+     "wikipedia": "Piktogramm",
+     "fokus": "Einfache Symbole bildeten die Grundlage für erste Informationssysteme.",
+     "versuche": 0,
+     "zuDuenn": 3,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nach der lateinischen Schrift blicken wir nun auf die frühen Grundlagen zurück, bei denen einfache Symbole als Informationssysteme dienten.",
+      "Ein Piktogramm ist ein einzelnes Symbol, das eine Information durch eine vereinfachte grafische Darstellung vermittelt.",
+      "Alte Bilderschriften gelten als archaische Vorläufer der Schrift und haben sich zu Logogrammen weiterentwickelt.",
+      "Otto Neurath gilt als Vater einer neuen visuellen Kommunikationsform und entwickelte im Jahr neunzehnhundertsechsunddreißig das System Isotype.",
+      "Für die Olympischen Spiele neunzehnhundertvierundsechzig in Tokio entwarf Katsumi Masaru ein Bildzeichensystem, während Otl Aicher die Piktogramme für die Spiele im Jahr neunzehnhundertzweiundsiebzig in München weiter reduzierte.",
+      "Piktogramme sollen Informationen sprachunabhängig vermitteln, obwohl es in der Praxis manchmal zu Fehldeutungen wie bei dem Arzneistoff Thalidomid in Brasilien kommt.",
+      "Damit schließt sich der Kreis zu den visuellen Systemen, die uns den Weg in die Zukunft der Schrift weisen."
      ],
-     [
-      "Olympische Spiele in Tokio",
-      "neunzehnhundertvierundsechzig"
+     "fakten": [
+      [
+       "Jahr von Isotype",
+       "neunzehnhundertsechsunddreißig"
+      ],
+      [
+       "Olympische Spiele in Tokio",
+       "neunzehnhundertvierundsechzig"
+      ],
+      [
+       "Olympische Spiele in München",
+       "neunzehnhundertzweiundsiebzig"
+      ]
      ],
-     [
-      "Olympische Spiele in München",
-      "neunzehnhundertzweiundsiebzig"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Piktogramm",
-      "Ein einzelnes Symbol, das eine Information durch eine vereinfachte grafische Darstellung vermittelt."
+     "begriffe": [
+      [
+       "Piktogramm",
+       "Ein einzelnes Symbol, das eine Information durch eine vereinfachte grafische Darstellung vermittelt."
+      ],
+      [
+       "Isotype",
+       "Ein Visualisierungssystem, um komplexe Zusammenhänge durch Piktogramme international verständlich darzustellen."
+      ]
      ],
-     [
-      "Isotype",
-      "Ein Visualisierungssystem, um komplexe Zusammenhänge durch Piktogramme international verständlich darzustellen."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Piktogramm",
-     "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
-    },
-    "quelle": {
-     "titel": "Piktogramm",
-     "url": "https://de.wikipedia.org/wiki/Piktogramm"
-    },
-    "woerter": 132,
-    "bildInfos": [
-     {
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Piktogramm",
+      "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
+     },
+     "quelle": {
+      "titel": "Piktogramm",
+      "url": "https://de.wikipedia.org/wiki/Piktogramm"
+     },
+     "woerter": 132,
+     "bildInfos": [
+      {
+       "titel": "Olympic games 1972 basketball 0501.JPG",
+       "beschreibung": "Pictogram of the Olympic Games 1972 in Munich, Germany symbolizing Basketball. Drawn by Otl Aicher, on Display at the Rudi-Seldmyer-Halle, Munich",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Olympic_games_1972_basketball_0501.JPG/1280px-Olympic_games_1972_basketball_0501.JPG",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Olympic_games_1972_basketball_0501.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Olympic_games_1972_basketball_0501.JPG",
+       "urheber": "Henning Schlottmann ( User:H-stt ) The production, editing or release of this file was sup",
+       "lizenz": "CC BY 1.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by/1.0",
+       "artikel": "Piktogramm",
+       "sprache": "de",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
+      },
+      {
+       "titel": "Canon EOS 100 SLR camera top left control wheel, with 5 fully automatic modes for standard situations (cf. pictograms), and Av - Tv - P - M - Depth of Field.jpg",
+       "beschreibung": "Canon EOS 100 top left, showing the Command Dial with symbols (pictograms) for the choosable automatic programs. The camera had all kinds of standard programs resp. automatic modes of that time (Av, T",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Canon_EOS_100_SLR_camera_top_left_control_wheel%2C_with_5_fully_automatic_modes_for_standard_situations_%28cf._pictograms%29%2C_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Canon_EOS_100_SLR_camera_top_left_control_wheel%2C_with_5_fully_automatic_modes_for_standard_situations_%28cf._pictograms%29%2C_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Canon_EOS_100_SLR_camera_top_left_control_wheel,_with_5_fully_automatic_modes_for_standard_situations_(cf._pictograms),_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg",
+       "urheber": "ML5 at English Wikipedia",
+       "lizenz": "Public domain",
+       "lizenzUrl": "",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Canon EOS 100 top left, showing the Command Dial with symbols (pictograms) for the choosable automatic programs. The camera had all kinds of standard programs resp. automatic modes of that time (Av, T"
+      },
+      {
+       "titel": "Central (most important) buttons of remote control of Panasonic BluRay Player (c. 2008).jpg",
+       "beschreibung": "The central and most used buttons of a remote control of a Panasonic Blu-Ray Player, c. 2008.)",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Central_%28most_important%29_buttons_of_remote_control_of_Panasonic_BluRay_Player_%28c._2008%29.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Central_%28most_important%29_buttons_of_remote_control_of_Panasonic_BluRay_Player_%28c._2008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Central_(most_important)_buttons_of_remote_control_of_Panasonic_BluRay_Player_(c._2008).jpg",
+       "urheber": "Brendan Berg",
+       "lizenz": "CC BY-SA 2.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "The central and most used buttons of a remote control of a Panasonic Blu-Ray Player, c. 2008.)"
+      },
+      {
+       "titel": "GHS HAZCOM Safety Labels.jpg",
+       "beschreibung": "Pictograms featuring all the Globally Harmonized System of Classification and Labeling of Chemicals.",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/GHS_HAZCOM_Safety_Labels.jpg/1280px-GHS_HAZCOM_Safety_Labels.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/GHS_HAZCOM_Safety_Labels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:GHS_HAZCOM_Safety_Labels.jpg",
+       "urheber": "Mpelletier1",
+       "lizenz": "CC BY-SA 3.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Pictograms featuring all the Globally Harmonized System of Classification and Labeling of Chemicals."
+      },
+      {
+       "titel": "Pictograms on Canadian 2017 Honda Ridgeline Climate Controls.jpg",
+       "beschreibung": "Rear-seat climate control and seat-seat heater control unit on the Canadian 2017 Honda Ridgeline Touring trim",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg/1280px-Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg",
+       "urheber": "Dan Capek; The original uploader was McChizzle at English Wikipedia .",
+       "lizenz": "CC BY-SA 4.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Rear-seat climate control and seat-seat heater control unit on the Canadian 2017 Honda Ridgeline Touring trim"
+      }
+     ],
+     "bildInfo": {
       "titel": "Olympic games 1972 basketball 0501.JPG",
       "beschreibung": "Pictogram of the Olympic Games 1972 in Munich, Germany symbolizing Basketball. Drawn by Otl Aicher, on Display at the Rudi-Seldmyer-Halle, Munich",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Olympic_games_1972_basketball_0501.JPG/1280px-Olympic_games_1972_basketball_0501.JPG",
@@ -119,129 +190,77 @@
       "art": "symbol",
       "hinweis": "Bild aus der Wikipedia",
       "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
-     },
-     {
-      "titel": "Canon EOS 100 SLR camera top left control wheel, with 5 fully automatic modes for standard situations (cf. pictograms), and Av - Tv - P - M - Depth of Field.jpg",
-      "beschreibung": "Canon EOS 100 top left, showing the Command Dial with symbols (pictograms) for the choosable automatic programs. The camera had all kinds of standard programs resp. automatic modes of that time (Av, T",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Canon_EOS_100_SLR_camera_top_left_control_wheel%2C_with_5_fully_automatic_modes_for_standard_situations_%28cf._pictograms%29%2C_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Canon_EOS_100_SLR_camera_top_left_control_wheel%2C_with_5_fully_automatic_modes_for_standard_situations_%28cf._pictograms%29%2C_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Canon_EOS_100_SLR_camera_top_left_control_wheel,_with_5_fully_automatic_modes_for_standard_situations_(cf._pictograms),_and_Av_-_Tv_-_P_-_M_-_Depth_of_Field.jpg",
-      "urheber": "ML5 at English Wikipedia",
-      "lizenz": "Public domain",
-      "lizenzUrl": "",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Canon EOS 100 top left, showing the Command Dial with symbols (pictograms) for the choosable automatic programs. The camera had all kinds of standard programs resp. automatic modes of that time (Av, T"
-     },
-     {
-      "titel": "Central (most important) buttons of remote control of Panasonic BluRay Player (c. 2008).jpg",
-      "beschreibung": "The central and most used buttons of a remote control of a Panasonic Blu-Ray Player, c. 2008.)",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Central_%28most_important%29_buttons_of_remote_control_of_Panasonic_BluRay_Player_%28c._2008%29.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Central_%28most_important%29_buttons_of_remote_control_of_Panasonic_BluRay_Player_%28c._2008%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Central_(most_important)_buttons_of_remote_control_of_Panasonic_BluRay_Player_(c._2008).jpg",
-      "urheber": "Brendan Berg",
-      "lizenz": "CC BY-SA 2.0",
-      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "The central and most used buttons of a remote control of a Panasonic Blu-Ray Player, c. 2008.)"
-     },
-     {
-      "titel": "GHS HAZCOM Safety Labels.jpg",
-      "beschreibung": "Pictograms featuring all the Globally Harmonized System of Classification and Labeling of Chemicals.",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/GHS_HAZCOM_Safety_Labels.jpg/1280px-GHS_HAZCOM_Safety_Labels.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/GHS_HAZCOM_Safety_Labels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:GHS_HAZCOM_Safety_Labels.jpg",
-      "urheber": "Mpelletier1",
-      "lizenz": "CC BY-SA 3.0",
-      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Pictograms featuring all the Globally Harmonized System of Classification and Labeling of Chemicals."
-     },
-     {
-      "titel": "Pictograms on Canadian 2017 Honda Ridgeline Climate Controls.jpg",
-      "beschreibung": "Rear-seat climate control and seat-seat heater control unit on the Canadian 2017 Honda Ridgeline Touring trim",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg/1280px-Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Pictograms_on_Canadian_2017_Honda_Ridgeline_Climate_Controls.jpg",
-      "urheber": "Dan Capek; The original uploader was McChizzle at English Wikipedia .",
-      "lizenz": "CC BY-SA 4.0",
-      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Rear-seat climate control and seat-seat heater control unit on the Canadian 2017 Honda Ridgeline Touring trim"
      }
-    ],
-    "bildInfo": {
-     "titel": "Olympic games 1972 basketball 0501.JPG",
-     "beschreibung": "Pictogram of the Olympic Games 1972 in Munich, Germany symbolizing Basketball. Drawn by Otl Aicher, on Display at the Rudi-Seldmyer-Halle, Munich",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Olympic_games_1972_basketball_0501.JPG/1280px-Olympic_games_1972_basketball_0501.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Olympic_games_1972_basketball_0501.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Olympic_games_1972_basketball_0501.JPG",
-     "urheber": "Henning Schlottmann ( User:H-stt ) The production, editing or release of this file was sup",
-     "lizenz": "CC BY 1.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/1.0",
-     "artikel": "Piktogramm",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
-    }
-   },
-   {
-    "ueberschrift": "Die Erfindung der Keilschrift",
-    "wikipedia": "Keilschrift",
-    "fokus": "In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit.",
-    "versuche": 0,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Nach der lateinischen Schrift blicken wir nun auf die Anfänge zurück. In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit. Die sogenannte Keilschrift wurde vom vierten Jahrtausend vor Christus bis mindestens in das erste Jahrhundert nach Christus benutzt. Sie diente im Vorderen Orient zum Schreiben mehrerer Sprachen. Die Bezeichnung beruht auf waagrechten, senkrechten und schrägen Keilen. Typische Textträger sind Tontafeln. Diese wurden beschrieben durch das Eindrücken eines Schreibgriffels in den weichen Ton. Die Keilschrift wurde von den Sumerern erfunden. Später verwendeten sie zahlreiche Völker des Alten Orients.",
-     "Die sumerische Keilschrift entstand etwa um das Jahr dreiTausend dreiHundert vor Christus in Sumer in Mesopotamien. Sie war zunächst eine Bilderschrift aus rund neunHundert Piktogrammen und Ideogrammen. Diese wurden in Ton geritzt. In Kisch wurden Kalksteintäfelchen mit den ältesten Zeichen gefunden. Später erhielten die Zeichen ihre typische Form durch das Eindrücken von Keilen mit einem stumpfen Schreibgriffel. Die Tempelbürokratie erzeugte mehr Schriftstücke. Das rief eine Rationalisierung des Schreibprozesses hervor. Um das Jahr zweiTausend siebenHundert vor Christus war dieser Schritt erreicht.",
-     "Um das Jahr zweiTausend dreiHundert fünfzig vor Christus drang das Volk der Akkader nach Sumer vor. Sie übernahmen die Herrschaft und damit auch Schrift und Kultur. Unter den Herrschern breiteten sich Sprache und Schrift weiter aus. Auch die Hethiter adaptierten die Keilschrift. Sie benutzten sie neben ihren eigenen Hieroglyphen. Im Jahr einsTausend siebenHundert zweiundneunzig vor Christus bestieg Hammurapi den babylonischen Thron. Er dehnte das Herrschaftsgebiet aus. Schließlich verdrängten andere Schriftformen die Keilschrift nach und nach. Später entstand auch eine persische Keilschrift unter Dareios dem Ersten im Jahr fünfHunderteinundzwanzig vor Christus.",
-     "Die Entschlüsselung der Keilschrift begann im Jahr sechszehnHunderteinundzwanzig. Der Italiener Pietro della Valle kopierte erstmals Keilschriftzeichen richtig. Engelbert Kaempfer prägte im Jahr sechszehnHundertfünfundachtzig die Bezeichnung Keilschrift. Dem deutschen Philologen Georg Friedrich Grotefend gelang im Sommer des Jahres achtzehnHundert zwei die Entschlüsselung eines großen Teils des Zeicheninventars. Einen wichtigen Durchbruch brachte die Behistun-Inschrift. Diese wurde von Henry Creswicke Rawlinson kopiert. Im Jahr achtzehnHundert siebenundfünfzig wurde die akkadische Keilschrift durch übereinstimmende Übersetzungen verschiedener Gelehrter endgültig als entzÃüffert bestätigt.",
-     "Die Schriftkultur stand zunächst nur der Tempeladministration zur Verfügung. Sie diente für das Steuerwesen und die Verwaltung. Später entstanden auch wissenschaftliche Schriften und unterhaltende Literatur. Dazu gehört das Gilgamesch-Epos als berühmtestes literarisches Werk Altbabylons. Es bildete sich ein privilegierter Stand des Schreibers heraus. Diese Schreiber verfügten über ein hohes Ansehen. Die Entwicklungsgeschichte lässt sich über Tontafeln mit Abschriften von Schülern nachvollziehen. Ursprünglich handelte es sich um Piktogramme. Später entwickelten sich daraus Ideogramme und Zeichen mit Lautwerten. Damit schließt sich das Kapitel über die Keilschrift und führt weiter zu den nächsten Schritten der Schriftgeschichte."
-    ],
-    "fakten": [
-     [
-      "Erfindung der sumerischen Keilschrift etwa um",
-      "3300 v. Chr."
-     ],
-     [
-      "Beginn der persischen Keilschrift unter Dareios I. im Jahr",
-      "521 v. Chr."
-     ],
-     [
-      "Entschlüsselung durch Georg Friedrich Grotefend im Sommer",
-      "1802"
-     ],
-     [
-      "Bestätigung der Entschlüsselung der akkadischen Keilschrift im Jahr",
-      "1857"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Keilschrift",
-      "Ein altes Schriftsystem aus dem Vorderen Orient, bei dem waagrechte, senkrechte und schräge Keile in Ton gedrückt wurden."
-     ],
-     [
-      "Piktogramm",
-      "Ein vereinfachtes Bildzeichen, das einen Gegenstand oder ein Wesen darstellt."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Keilschrift",
-     "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
     },
-    "quelle": {
-     "titel": "Keilschrift",
-     "url": "https://de.wikipedia.org/wiki/Keilschrift"
-    },
-    "woerter": 426,
-    "bildInfos": [
-     {
+    {
+     "ueberschrift": "Die Erfindung der Keilschrift",
+     "wikipedia": "Keilschrift",
+     "fokus": "In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit.",
+     "versuche": 0,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nach der lateinischen Schrift blicken wir nun auf die Anfänge zurück. In Mesopotamien entstand die erste ausgereifte Schrift der Menschheit. Die sogenannte Keilschrift wurde vom vierten Jahrtausend vor Christus bis mindestens in das erste Jahrhundert nach Christus benutzt. Sie diente im Vorderen Orient zum Schreiben mehrerer Sprachen. Die Bezeichnung beruht auf waagrechten, senkrechten und schrägen Keilen. Typische Textträger sind Tontafeln. Diese wurden beschrieben durch das Eindrücken eines Schreibgriffels in den weichen Ton. Die Keilschrift wurde von den Sumerern erfunden. Später verwendeten sie zahlreiche Völker des Alten Orients.",
+      "Die sumerische Keilschrift entstand etwa um das Jahr dreiTausend dreiHundert vor Christus in Sumer in Mesopotamien. Sie war zunächst eine Bilderschrift aus rund neunHundert Piktogrammen und Ideogrammen. Diese wurden in Ton geritzt. In Kisch wurden Kalksteintäfelchen mit den ältesten Zeichen gefunden. Später erhielten die Zeichen ihre typische Form durch das Eindrücken von Keilen mit einem stumpfen Schreibgriffel. Die Tempelbürokratie erzeugte mehr Schriftstücke. Das rief eine Rationalisierung des Schreibprozesses hervor. Um das Jahr zweiTausend siebenHundert vor Christus war dieser Schritt erreicht.",
+      "Um das Jahr zweiTausend dreiHundert fünfzig vor Christus drang das Volk der Akkader nach Sumer vor. Sie übernahmen die Herrschaft und damit auch Schrift und Kultur. Unter den Herrschern breiteten sich Sprache und Schrift weiter aus. Auch die Hethiter adaptierten die Keilschrift. Sie benutzten sie neben ihren eigenen Hieroglyphen. Im Jahr einsTausend siebenHundert zweiundneunzig vor Christus bestieg Hammurapi den babylonischen Thron. Er dehnte das Herrschaftsgebiet aus. Schließlich verdrängten andere Schriftformen die Keilschrift nach und nach. Später entstand auch eine persische Keilschrift unter Dareios dem Ersten im Jahr fünfHunderteinundzwanzig vor Christus.",
+      "Die Entschlüsselung der Keilschrift begann im Jahr sechszehnHunderteinundzwanzig. Der Italiener Pietro della Valle kopierte erstmals Keilschriftzeichen richtig. Engelbert Kaempfer prägte im Jahr sechszehnHundertfünfundachtzig die Bezeichnung Keilschrift. Dem deutschen Philologen Georg Friedrich Grotefend gelang im Sommer des Jahres achtzehnHundert zwei die Entschlüsselung eines großen Teils des Zeicheninventars. Einen wichtigen Durchbruch brachte die Behistun-Inschrift. Diese wurde von Henry Creswicke Rawlinson kopiert. Im Jahr achtzehnHundert siebenundfünfzig wurde die akkadische Keilschrift durch übereinstimmende Übersetzungen verschiedener Gelehrter endgültig als entzÃüffert bestätigt.",
+      "Die Schriftkultur stand zunächst nur der Tempeladministration zur Verfügung. Sie diente für das Steuerwesen und die Verwaltung. Später entstanden auch wissenschaftliche Schriften und unterhaltende Literatur. Dazu gehört das Gilgamesch-Epos als berühmtestes literarisches Werk Altbabylons. Es bildete sich ein privilegierter Stand des Schreibers heraus. Diese Schreiber verfügten über ein hohes Ansehen. Die Entwicklungsgeschichte lässt sich über Tontafeln mit Abschriften von Schülern nachvollziehen. Ursprünglich handelte es sich um Piktogramme. Später entwickelten sich daraus Ideogramme und Zeichen mit Lautwerten. Damit schließt sich das Kapitel über die Keilschrift und führt weiter zu den nächsten Schritten der Schriftgeschichte."
+     ],
+     "fakten": [
+      [
+       "Erfindung der sumerischen Keilschrift etwa um",
+       "3300 v. Chr."
+      ],
+      [
+       "Beginn der persischen Keilschrift unter Dareios I. im Jahr",
+       "521 v. Chr."
+      ],
+      [
+       "Entschlüsselung durch Georg Friedrich Grotefend im Sommer",
+       "1802"
+      ],
+      [
+       "Bestätigung der Entschlüsselung der akkadischen Keilschrift im Jahr",
+       "1857"
+      ]
+     ],
+     "begriffe": [
+      [
+       "Keilschrift",
+       "Ein altes Schriftsystem aus dem Vorderen Orient, bei dem waagrechte, senkrechte und schräge Keile in Ton gedrückt wurden."
+      ],
+      [
+       "Piktogramm",
+       "Ein vereinfachtes Bildzeichen, das einen Gegenstand oder ein Wesen darstellt."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Keilschrift",
+      "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
+     },
+     "quelle": {
+      "titel": "Keilschrift",
+      "url": "https://de.wikipedia.org/wiki/Keilschrift"
+     },
+     "woerter": 426,
+     "bildInfos": [
+      {
+       "titel": "Persépolis. Inscription.jpg",
+       "beschreibung": "Persépolis (Iran). Inscription cunéiforme. VIe-Ve s. av. J.-C. Photo Ginolerhino 2002.",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pers%C3%A9polis._Inscription.jpg/1280px-Pers%C3%A9polis._Inscription.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pers%C3%A9polis._Inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis._Inscription.jpg",
+       "urheber": "No machine-readable author provided. Ginolerhino assumed (based on copyright claims).",
+       "lizenz": "CC BY 2.5",
+       "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+       "artikel": "Persische Keilschrift",
+       "sprache": "de",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
+      }
+     ],
+     "bildInfo": {
       "titel": "Persépolis. Inscription.jpg",
       "beschreibung": "Persépolis (Iran). Inscription cunéiforme. VIe-Ve s. av. J.-C. Photo Ginolerhino 2002.",
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pers%C3%A9polis._Inscription.jpg/1280px-Pers%C3%A9polis._Inscription.jpg",
@@ -256,351 +275,537 @@
       "hinweis": "Bild aus der Wikipedia",
       "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
      }
-    ],
-    "bildInfo": {
-     "titel": "Persépolis. Inscription.jpg",
-     "beschreibung": "Persépolis (Iran). Inscription cunéiforme. VIe-Ve s. av. J.-C. Photo Ginolerhino 2002.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Pers%C3%A9polis._Inscription.jpg/1280px-Pers%C3%A9polis._Inscription.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Pers%C3%A9polis._Inscription.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Pers%C3%A9polis._Inscription.jpg",
-     "urheber": "No machine-readable author provided. Ginolerhino assumed (based on copyright claims).",
-     "lizenz": "CC BY 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
-     "artikel": "Persische Keilschrift",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
-    }
-   },
-   {
-    "ueberschrift": "Die Welt der Hieroglyphen",
-    "wikipedia": "Ägyptische Hieroglyphen",
-    "fokus": "Im alten Ägypten entwickelten sich komplexe Schriftsysteme aus Bildern.",
-    "versuche": 0,
-    "zuDuenn": 1,
-    "fehlgeschlagen": false
-   },
-   {
-    "ueberschrift": "Der Weg zum Alphabet",
-    "wikipedia": "Phönizisches Alphabet",
-    "fokus": "Phönizische Händler vereinfachten das Schreiben durch die Erfindung von Lautzeichen.",
-    "zuDuenn": 3,
-    "versuche": 1,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Die Entwicklung führt uns weiter zum phönizischen Alphabet als nächster großer Kulturstufe der Schriftgeschichte.",
-     "Laut dem Wikipedia-Artikel Phönizische Schrift verwendeten die Phönizier diese linksläufige Konsonantenschrift mit zweiundzwanzig Zeichen vom elften bis zum zweiten Jahrhundert vor Christus.",
-     "Das älteste Zeugnis ist laut dem Wikipedia-Artikel Phönizische Schrift eine Inschrift auf dem Sarkophag des Ahiram von Byblos um tausend vor Christus im heutigen Libanon.",
-     "Laut dem Wikipedia-Artikel Phönizische Schrift entwickelte sich die Schrift spätestens im elften Jahrhundert vor Christus durch Abstrahierung der protosinaitischen Schrift.",
-     "Das phönizische Alphabet ist laut dem Wikipedia-Artikel Phönizische Schrift die Grundlage vieler anderer Alphabete wie des aramäischen, griechischen, hebräischen und arabischen Alphabets.",
-     "Damit bildet diese Kulturtechnik die Grundlage für fast alle heute gebrauchten alphabetischen Schriften der Welt.",
-     "Im nächsten Kapitel blicken wir auf die weitere Zukunft der Schrift und ihre modernen Formen."
-    ],
-    "fakten": [
-     [
-      "Anzahl der Zeichen der phönizischen Schrift",
-      "zweiundzwanzig"
-     ],
-     [
-      "Zeitraum der Verwendung im Libanon, in Palästina, in Syrien und in Karthago",
-      "elfte bis zweite Jahrhundert vor Christus"
-     ],
-     [
-      "Alter des ältesten Zeugnisses auf dem Sarkophag des Ahiram von Byblos",
-      "um tausend vor Christus"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Konsonantenschrift",
-      "Eine Schriftart, in der hauptsächlich Konsonanten geschrieben werden und Vokale oft fehlen."
-     ],
-     [
-      "Unicode",
-      "Ein weltweiter Standard zur elektronischen Codierung von Schriftzeichen."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Phönizische Schrift",
-     "bildunterschrift": "Das phönizische Alphabet diente als wichtige Grundlage für viele spätere Schriftsysteme."
     },
-    "quelle": {
-     "titel": "Phönizische Schrift",
-     "url": "https://de.wikipedia.org/wiki/Ph%C3%B6nizische_Schrift"
+    {
+     "ueberschrift": "Die Welt der Hieroglyphen",
+     "wikipedia": "Ägyptische Hieroglyphen",
+     "fokus": "Im alten Ägypten entwickelten sich komplexe Schriftsysteme aus Bildern.",
+     "versuche": 0,
+     "zuDuenn": 1,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nicht nur in Mesopotamien mit der Keilschrift hielten die Menschen ihre Gedanken dauerhaft fest. Auch im alten Ägypten entstand ein eigenes, sehr frühes Schriftsystem. Frühe Funde aus Abydos stammen aus der Zeit um dreitausendzweihundert vor Christus. Auf kleinen Täfelchen aus einem Fürstengrab entdeckten Archäologen diese Zeichen. Ob die Keilschrift oder die Hieroglyphen älter sind, ist in der Wissenschaft umstritten. Die Menschen in Ägypten nannten ihre Schrift die Schrift der Gottesworte. Nach ihrem Glauben hatte der Gott Thot die Zeichen geschaffen. Das altgriechische Wort Hieroglyphen bedeutet übersetzt heilige Schriftzeichen oder heilige Einkerbungen.",
+      "Ursprünglich handelte es sich bei den Hieroglyphen um eine reine Bilderschrift. Im weiteren Verlauf entwickelte sich jedoch ein vielschichtiges System. Die Schrift setzte sich aus Lautzeichen, Bildzeichen und Deutzeichen zusammen. Bildzeichen stellen konkrete Gegenstände oder Begriffe dar. Lautzeichen stehen für einzelne Konsonanten oder für Gruppen von Konsonanten. Deutzeichen stehen meist am Wortende und bestimmen die genaue Bedeutung eines Wortes. Vokale wurden in dieser Schrift nicht aufgeschrieben. Daher war das ägyptische System trotz der vielen bildhaften Darstellungen keine einfache Bilderschrift mehr.",
+      "Zu Beginn umfasste das Schriftsystem etwa siebenhundert verschiedene Zeichen. In der griechisch-römischen Zeit wuchs die Zahl auf etwa siebentausend Zeichen an. Ein Schreiber in der Ramessidenzeit verwendete jedoch höchstens rund siebenhundert Zeichen. Überhaupt konnten nur wenige Prozent der ägyptischen Bevölkerung lesen und schreiben. Die Bezeichnung Schreiber war über eine lange Zeit gleichbedeutend mit Beamter. In Städten der griechischen Epoche stellten hauptberufliche Schreiber Urkunden für Analphabeten aus. Die Schrift diente zuerst der Verwaltung und hielt wichtige Ereignisse fest.",
+      "Die monumentalen Hieroglyphen schmückten vor allem die Wände von Tempeln und Gräbern. Viele dieser Zeichen wurden damals mit ausgewählten Farben bemalt. Für den alltäglichen Gebrauch mit einer Binse auf Papyrus entstand das Hieratische. Diese Kursivschrift ist ebenso alt wie die Hieroglyphen selbst. Beim schnellen Schreiben flossen die einzelnen Zeichen ineinander. Am Ende des Alten Reiches bildeten sich zudem Kursivhieroglyphen für Särge heraus. Um sechshundertfünfzig vor Christus entstand schließlich die demotische Schrift als alltägliche Gebrauchsschrift.",
+      "Die Zeichen wurden meist in Spalten von oben nach unten angeordnet. Häufig verlief die Zeile dabei von rechts nach links. Die Leserichtung lässt sich sehr leicht an den abgebildeten Gestalten erkennen. Tiere und Menschen blicken nämlich immer zum Anfang des Textes hin. Die Lesenden blicken den Figuren also direkt entgegen. Feste Abstände zur Trennung einzelner Wörter gab es damals nicht. Die am Wortende stehenden Deutzeichen halfen jedoch beim Erkennen der Wortgrenzen.",
+      "Mit der Ausbreitung des Christentums gerieten die Hieroglyphen endgültig in Vergessenheit. Die letzte bekannte Inschrift stammt aus dem Jahr dreihundertvierundneunzig nach Christus. Lange Zeit deuteten europäische Gelehrte die Schrift fälschlicherweise als reine Bilderrätsel. Erst der Fund des Steins von Rosetta brachte den entscheidenden Fortschritt. Dieser Stein enthielt denselben Erlass auf Griechisch, in Hieroglyphen und in Demotisch. Der Forscher Jean-François Champollion entzifferte die Hieroglyphen im Jahr achtzehnhundertzweiundzwanzig weitgehend. Richard Lepsius entdeckte später die Mehrkonsonantenzeichen und vervollständigte das Verständnis.",
+      "Die ägyptischen Hieroglyphen bildeten ein kunstvolles System aus Bildern und Konsonanten. Gut zwei Dutzend Zeichen standen dabei für jeweils einen einzelnen Konsonantenlaut. Dennoch entwickelte sich die Schrift nie zu einem reinen Konsonantenalphabet weiter. Das Beherrschen von Hunderten Zeichen blieb wenigen Schriftkundigen vorbehalten. Für den Handel und den Alltag suchten benachbarte Völker nach einfacheren Methoden. Wie sich daraus die ersten echten Alphabete entwickelten, zeigt das nächste Kapitel."
+     ],
+     "fakten": [
+      [
+       "Älteste Hieroglyphenfunde in Abydos",
+       "um dreitausendzweihundert vor Christus"
+      ],
+      [
+       "Ursprüngliche Anzahl der Schriftzeichen",
+       "etwa siebenhundert"
+      ],
+      [
+       "Anzahl der Zeichen in griechisch-römischer Zeit",
+       "etwa siebentausend"
+      ],
+      [
+       "Entstehung der demotischen Schrift",
+       "um sechshundertfünfzig vor Christus"
+      ],
+      [
+       "Datum der letzten bekannten Hieroglypheninschrift",
+       "dreihundertvierundneunzig nach Christus"
+      ],
+      [
+       "Weitgehende Entzifferung durch Jean-François Champollion",
+       "achtzehnhundertzweiundzwanzig"
+      ]
+     ],
+     "begriffe": [
+      [
+       "Hieroglyphen",
+       "Ein altägyptisches Schriftsystem aus Lautzeichen, Bildzeichen und Deutzeichen, das vor allem für Monumente an Tempeln und Gräbern genutzt wurde."
+      ],
+      [
+       "Hieratische Schrift",
+       "Eine kursive Schreibschrift für Papyrus und Tonscherben, die ebenso alt wie die Hieroglyphen ist und mit einer Binse geschrieben wurde."
+      ],
+      [
+       "Stein von Rosetta",
+       "Ein antiker Fundstein mit derselben Inschrift in drei Schriften, der die moderne Entzifferung der Hieroglyphen ermöglichte."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Stein von Rosetta",
+      "bildunterschrift": "Der Stein von Rosetta half mit seinem dreisprachigen Text bei der Entzifferung der ägyptischen Schriftzeichen."
+     },
+     "quelle": {
+      "titel": "Ägyptische Hieroglyphen",
+      "url": "https://de.wikipedia.org/wiki/%C3%84gyptische_Hieroglyphen"
+     },
+     "woerter": 536,
+     "bildInfos": [
+      {
+       "titel": "GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+       "beschreibung": "Glazed fragment of a fiance vessel bearing the name of the pharaoh Aha, early 1st dynasty, circa 3000 BC. Found at the temple of Osiris at Abydos. EA 38010.",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg/1280px-GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+       "urheber": "unbekannt",
+       "lizenz": "CC BY-SA 3.0",
+       "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+       "artikel": "Hor-Aha",
+       "sprache": "en",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Der Stein von Rosetta half mit seinem dreisprachigen Text bei der Entzifferung der ägyptischen Schriftzeichen."
+      },
+      {
+       "titel": "Development of writing.jpg",
+       "beschreibung": "Development of writing",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Development_of_writing.jpg/1280px-Development_of_writing.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Development_of_writing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Development_of_writing.jpg",
+       "urheber": "Creation of the drawing: पाटलिपुत्र ( talk ) Chinese pictographs: BabelStone Indus script:",
+       "lizenz": "CC BY 4.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Development of writing"
+      },
+      {
+       "titel": "Egypt bookofthedead.jpg",
+       "beschreibung": "Part of the Book of the Dead of the scribe Nebqed, under the reign of Amenophis III (1391-1353 BC), 18th dynasty. Followed by his mother Amenemheb and his wife Meryt, Nebqed meets the Egyptian god of ",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Egypt_bookofthedead.jpg/1280px-Egypt_bookofthedead.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/3/32/Egypt_bookofthedead.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Egypt_bookofthedead.jpg",
+       "urheber": "Unknown artist Unknown artist",
+       "lizenz": "Public domain",
+       "lizenzUrl": "",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Part of the Book of the Dead of the scribe Nebqed, under the reign of Amenophis III (1391-1353 BC), 18th dynasty. Followed by his mother Amenemheb and his wife Meryt, Nebqed meets the Egyptian god of "
+      },
+      {
+       "titel": "Egypte louvre 013.jpg",
+       "beschreibung": "French: Deux poussins de caille - Antiquité égyptienne du musée du Louvre",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Egypte_louvre_013.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Egypte_louvre_013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Egypte_louvre_013.jpg",
+       "urheber": "unbekannt",
+       "lizenz": "CC BY-SA 1.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "French: Deux poussins de caille - Antiquité égyptienne du musée du Louvre"
+      }
+     ],
+     "bildInfo": {
+      "titel": "GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+      "beschreibung": "Glazed fragment of a fiance vessel bearing the name of the pharaoh Aha, early 1st dynasty, circa 3000 BC. Found at the temple of Osiris at Abydos. EA 38010.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg/1280px-GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:GlazedFiaenceVesselFragmentNameOfAha-BritishMuseum-August21-08.jpg",
+      "urheber": "unbekannt",
+      "lizenz": "CC BY-SA 3.0",
+      "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artikel": "Hor-Aha",
+      "sprache": "en",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Der Stein von Rosetta half mit seinem dreisprachigen Text bei der Entzifferung der ägyptischen Schriftzeichen."
+     }
     },
-    "woerter": 133
-   },
-   {
-    "ueberschrift": "Die griechische Anpassung",
-    "wikipedia": "Griechisches Alphabet",
-    "fokus": "Die Griechen ergänzten das Alphabet um Vokale und prägten die europäische Schrift.",
-    "versuche": 2,
-    "zuDuenn": 3,
-    "absaetze": [
-     "Die griechische Schrift hat sich aus der phönizischen Schrift entwickelt.",
-     "Das griechische Alphabet umfasst heute vierundzwanzig Buchstaben.",
-     "Die griechische Anpassung ergänzte das Alphabet um Vokale und prägte die europäische Schrift.",
-     "Das lateinische, kyrillische und koptische Alphabet stammen vom griechischen Alphabet ab.",
-     "Die Vereinheitlichung des Alphabets zum Ionischen hin wurde nicht von allen Regionen gleichermaßen mitgetragen.",
-     "Somit bereitete die griechische Schrift den Weg für viele weitere Schriftsysteme im kommenden Kapitel."
-    ],
-    "fakten": [
-     [
-      "Buchstaben im griechischen Alphabet heute",
-      "24"
+    {
+     "ueberschrift": "Der Weg zum Alphabet",
+     "wikipedia": "Phönizisches Alphabet",
+     "fokus": "Phönizische Händler vereinfachten das Schreiben durch die Erfindung von Lautzeichen.",
+     "zuDuenn": 3,
+     "versuche": 1,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Die Entwicklung führt uns weiter zum phönizischen Alphabet als nächster großer Kulturstufe der Schriftgeschichte.",
+      "Laut dem Wikipedia-Artikel Phönizische Schrift verwendeten die Phönizier diese linksläufige Konsonantenschrift mit zweiundzwanzig Zeichen vom elften bis zum zweiten Jahrhundert vor Christus.",
+      "Das älteste Zeugnis ist laut dem Wikipedia-Artikel Phönizische Schrift eine Inschrift auf dem Sarkophag des Ahiram von Byblos um tausend vor Christus im heutigen Libanon.",
+      "Laut dem Wikipedia-Artikel Phönizische Schrift entwickelte sich die Schrift spätestens im elften Jahrhundert vor Christus durch Abstrahierung der protosinaitischen Schrift.",
+      "Das phönizische Alphabet ist laut dem Wikipedia-Artikel Phönizische Schrift die Grundlage vieler anderer Alphabete wie des aramäischen, griechischen, hebräischen und arabischen Alphabets.",
+      "Damit bildet diese Kulturtechnik die Grundlage für fast alle heute gebrauchten alphabetischen Schriften der Welt.",
+      "Im nächsten Kapitel blicken wir auf die weitere Zukunft der Schrift und ihre modernen Formen."
      ],
-     [
-      "Zeitraum des griechischen Alphabets seit",
-      "9. Jahrhundert v. Chr."
-     ]
-    ],
-    "begriffe": [
-     [
-      "Vokale",
-      "Laute wie A, E, I, O, U, die im Gegensatz zu Konsonanten frei gesprochen werden können."
+     "fakten": [
+      [
+       "Anzahl der Zeichen der phönizischen Schrift",
+       "zweiundzwanzig"
+      ],
+      [
+       "Zeitraum der Verwendung im Libanon, in Palästina, in Syrien und in Karthago",
+       "elfte bis zweite Jahrhundert vor Christus"
+      ],
+      [
+       "Alter des ältesten Zeugnisses auf dem Sarkophag des Ahiram von Byblos",
+       "um tausend vor Christus"
+      ]
      ],
-     [
-      "Alphabetschrift",
-      "Ein Schriftsystem, in dem Lauten bestimmte Buchstaben zugeordnet sind."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Griechisches Alphabet",
-     "bildunterschrift": "Das griechische Alphabet bildete die Grundlage für viele europäische Schriften."
+     "begriffe": [
+      [
+       "Konsonantenschrift",
+       "Eine Schriftart, in der hauptsächlich Konsonanten geschrieben werden und Vokale oft fehlen."
+      ],
+      [
+       "Unicode",
+       "Ein weltweiter Standard zur elektronischen Codierung von Schriftzeichen."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Phönizische Schrift",
+      "bildunterschrift": "Das phönizische Alphabet diente als wichtige Grundlage für viele spätere Schriftsysteme."
+     },
+     "quelle": {
+      "titel": "Phönizische Schrift",
+      "url": "https://de.wikipedia.org/wiki/Ph%C3%B6nizische_Schrift"
+     },
+     "woerter": 133,
+     "bildInfos": []
     },
-    "quelle": {
-     "titel": "Griechisches Alphabet",
-     "url": "https://de.wikipedia.org/wiki/Griechisches_Alphabet"
+    {
+     "ueberschrift": "Die griechische Anpassung",
+     "wikipedia": "Griechisches Alphabet",
+     "fokus": "Die Griechen ergänzten das Alphabet um Vokale und prägten die europäische Schrift.",
+     "versuche": 2,
+     "zuDuenn": 3,
+     "absaetze": [
+      "Die griechische Schrift hat sich aus der phönizischen Schrift entwickelt.",
+      "Das griechische Alphabet umfasst heute vierundzwanzig Buchstaben.",
+      "Die griechische Anpassung ergänzte das Alphabet um Vokale und prägte die europäische Schrift.",
+      "Das lateinische, kyrillische und koptische Alphabet stammen vom griechischen Alphabet ab.",
+      "Die Vereinheitlichung des Alphabets zum Ionischen hin wurde nicht von allen Regionen gleichermaßen mitgetragen.",
+      "Somit bereitete die griechische Schrift den Weg für viele weitere Schriftsysteme im kommenden Kapitel."
+     ],
+     "fakten": [
+      [
+       "Buchstaben im griechischen Alphabet heute",
+       "24"
+      ],
+      [
+       "Zeitraum des griechischen Alphabets seit",
+       "9. Jahrhundert v. Chr."
+      ]
+     ],
+     "begriffe": [
+      [
+       "Vokale",
+       "Laute wie A, E, I, O, U, die im Gegensatz zu Konsonanten frei gesprochen werden können."
+      ],
+      [
+       "Alphabetschrift",
+       "Ein Schriftsystem, in dem Lauten bestimmte Buchstaben zugeordnet sind."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Griechisches Alphabet",
+      "bildunterschrift": "Das griechische Alphabet bildete die Grundlage für viele europäische Schriften."
+     },
+     "quelle": {
+      "titel": "Griechisches Alphabet",
+      "url": "https://de.wikipedia.org/wiki/Griechisches_Alphabet"
+     },
+     "woerter": 69,
+     "bildInfos": []
     },
-    "woerter": 69
-   },
-   {
-    "ueberschrift": "Die lateinische Schrift",
-    "wikipedia": "Lateinisches Alphabet",
-    "fokus": "Aus dem griechischen System entstand das heute weltweit meistgenutzte Alphabet.",
-    "versuche": 2,
-    "absaetze": [
-     "Aus dem griechischen Schriftsystem entwickelte sich im Laufe der Zeit die lateinische Schrift. Das lateinische Alphabet ist ursprünglich das von den Römern verwendete Alphabet. Es wird auch als römisches Alphabet bezeichnet und bildet die Grundlage vieler heutiger Alphabete. Zusammen bilden diese Alphabete das lateinische Schriftsystem. Dies ist das am weitesten verbreitete Schriftsystem der Welt. Einige Sprachen wie das Englische benutzen das Alphabet ohne Veränderungen. Das deutsche Alphabet umfasst neben allen sechsundzwanzig lateinischen Buchstaben vier weitere.",
-     "Das lateinische Alphabet stammt vom altitalischen Alphabet der Etrusker ab. Die Etrusker hatten ihre Schrift aus dem griechischen Alphabet entlehnt. Frühe erhaltene Zeugnisse in lateinischer Schrift sind der Lapis Niger aus der Zeit um sechshundert vor Christus und die Duenos Inschrift aus der ersten Hälfte des sechsten Jahrhunderts vor Christus. Das archaische lateinische Alphabet bestand aus einundzwanzig Buchstaben. Ein Zeichen für den griechischen Laut wurde an siebter Stelle weitergeführt, obwohl es dafür keine Verwendung gab. Die Abschaffung dieses Zeichens soll laut Wikipedia auf Spurius Carvilius Ruga zurückgehen. Er war ein freigelassener Sklave und eröffnete die erste Schule mit zahlungspflichtigem Unterricht.",
-     "Das klassische lateinische Alphabet unterscheidet sich durch zusätzliche Buchstaben. Laut Wikipedia soll Spurius Carvilius Ruga den Buchstaben G durch einen Strich am Buchstaben C eingeführt haben. Später entstanden in der Spätantike weitere Veränderungen, nachdem das griechische Mutterland im Jahr einhundertsechsundvierzig vor Christus unterworfen worden war. Es entstand Bedarf, griechische Namen und Fremdwörter in lateinischer Schrift wiederzugeben. Die Römer übernahmen das griechische Ypsilon erneut als Fremdzeichen. Auch der Buchstabe Z wurde für Laute aus dem Griechischen ans Ende des Alphabets gestellt. Kaiser Claudius versuchte im Jahr siebenundvierzig, das Alphabet auf vierundzwanzig Buchstaben zu erweitern. Diesem Versuch war nach seinem Tod kein Erfolg beschieden.",
-     "In der spätantiken Grammatik konsolidierte sich die Zahl der Buchstaben auf dreiundzwanzig. Das lateinische Mittelalter legte auf diese Zahl besonderen Wert. Sie liegt genau zwischen den Buchstabenzahlen des hebräischen und des griechischen Alphabets. Das lateinische Christentum sah sich dadurch in seiner Stellung als Erbe beider Kulturen bestätigt. In der Antike gab es noch keine Unterscheidung von Groß und Kleinbuchstaben. Auch Wortzwischenräume fehlten in der sogenannten scriptio continua. Stattdessen wurden alle Zeichen aneinander geschrieben.",
-     "Seit spätantiker Zeit existierten neben dem Buchstaben I auch die Schreibform J und neben V auch die gerundete Schreibform U. Diese Schreibvarianten dienten zunächst nicht zur Markierung lautlicher Unterschiede. Erst in der Renaissance führten Reformprojekte zu einer Unterscheidung. In Italien waren daran Leon Battista Alberti und Gian Giorgio Trissino beteiligt. In Frankreich trugen Geoffroy Tory und Louis Meigret dazu bei. Durch die Unterscheidung der Schreibformen entstanden die zwei neuen Buchstaben J und U. Der Buchstabe W entstand nachmittelalterlich aus einer Verbindung von zwei V. Damit war das heutige lateinische Alphabet komplett.",
-     "Die Namen der Buchstaben wurden größtenteils nicht aus dem griechischen übernommen. Vokale bezeichnen sich selbst. Plosive fügen ein e an. Dauerlaute bekommen ein e vorangestellt. Einige Buchstaben wichen von diesem Schema ab. K und Q bilden den Namen mit dem für sie typischen Vokal. X wurde ex genannt. Z trug den griechischen Namen zeta. Für Y gab es verschiedene Namen wie das griechische i. Die Buchstabennamen wurden bei der Übertragung auf andere Sprachen weitgehend beibehalten. In antiken Inschriften wurden viele Abkürzungen verwendet. Marcus Tullius Tiro erfand eine antike Stenografie, die als tironische Noten bekannt ist.",
-     "Das lateinische Schriftsystem bildet die Grundlage für viele weitere Entwicklungen der Schriftgeschichte. Schließlich entstanden daraus zahlreiche Alphabete, die bis heute weltweit im Alltag genutzt werden."
-    ],
-    "fakten": [
-     [
-      "Buchstaben im modernen lateinischen Alphabet",
-      "26"
+    {
+     "ueberschrift": "Die lateinische Schrift",
+     "wikipedia": "Lateinisches Alphabet",
+     "fokus": "Aus dem griechischen System entstand das heute weltweit meistgenutzte Alphabet.",
+     "versuche": 2,
+     "absaetze": [
+      "Aus dem griechischen Schriftsystem entwickelte sich im Laufe der Zeit die lateinische Schrift. Das lateinische Alphabet ist ursprünglich das von den Römern verwendete Alphabet. Es wird auch als römisches Alphabet bezeichnet und bildet die Grundlage vieler heutiger Alphabete. Zusammen bilden diese Alphabete das lateinische Schriftsystem. Dies ist das am weitesten verbreitete Schriftsystem der Welt. Einige Sprachen wie das Englische benutzen das Alphabet ohne Veränderungen. Das deutsche Alphabet umfasst neben allen sechsundzwanzig lateinischen Buchstaben vier weitere.",
+      "Das lateinische Alphabet stammt vom altitalischen Alphabet der Etrusker ab. Die Etrusker hatten ihre Schrift aus dem griechischen Alphabet entlehnt. Frühe erhaltene Zeugnisse in lateinischer Schrift sind der Lapis Niger aus der Zeit um sechshundert vor Christus und die Duenos Inschrift aus der ersten Hälfte des sechsten Jahrhunderts vor Christus. Das archaische lateinische Alphabet bestand aus einundzwanzig Buchstaben. Ein Zeichen für den griechischen Laut wurde an siebter Stelle weitergeführt, obwohl es dafür keine Verwendung gab. Die Abschaffung dieses Zeichens soll laut Wikipedia auf Spurius Carvilius Ruga zurückgehen. Er war ein freigelassener Sklave und eröffnete die erste Schule mit zahlungspflichtigem Unterricht.",
+      "Das klassische lateinische Alphabet unterscheidet sich durch zusätzliche Buchstaben. Laut Wikipedia soll Spurius Carvilius Ruga den Buchstaben G durch einen Strich am Buchstaben C eingeführt haben. Später entstanden in der Spätantike weitere Veränderungen, nachdem das griechische Mutterland im Jahr einhundertsechsundvierzig vor Christus unterworfen worden war. Es entstand Bedarf, griechische Namen und Fremdwörter in lateinischer Schrift wiederzugeben. Die Römer übernahmen das griechische Ypsilon erneut als Fremdzeichen. Auch der Buchstabe Z wurde für Laute aus dem Griechischen ans Ende des Alphabets gestellt. Kaiser Claudius versuchte im Jahr siebenundvierzig, das Alphabet auf vierundzwanzig Buchstaben zu erweitern. Diesem Versuch war nach seinem Tod kein Erfolg beschieden.",
+      "In der spätantiken Grammatik konsolidierte sich die Zahl der Buchstaben auf dreiundzwanzig. Das lateinische Mittelalter legte auf diese Zahl besonderen Wert. Sie liegt genau zwischen den Buchstabenzahlen des hebräischen und des griechischen Alphabets. Das lateinische Christentum sah sich dadurch in seiner Stellung als Erbe beider Kulturen bestätigt. In der Antike gab es noch keine Unterscheidung von Groß und Kleinbuchstaben. Auch Wortzwischenräume fehlten in der sogenannten scriptio continua. Stattdessen wurden alle Zeichen aneinander geschrieben.",
+      "Seit spätantiker Zeit existierten neben dem Buchstaben I auch die Schreibform J und neben V auch die gerundete Schreibform U. Diese Schreibvarianten dienten zunächst nicht zur Markierung lautlicher Unterschiede. Erst in der Renaissance führten Reformprojekte zu einer Unterscheidung. In Italien waren daran Leon Battista Alberti und Gian Giorgio Trissino beteiligt. In Frankreich trugen Geoffroy Tory und Louis Meigret dazu bei. Durch die Unterscheidung der Schreibformen entstanden die zwei neuen Buchstaben J und U. Der Buchstabe W entstand nachmittelalterlich aus einer Verbindung von zwei V. Damit war das heutige lateinische Alphabet komplett.",
+      "Die Namen der Buchstaben wurden größtenteils nicht aus dem griechischen übernommen. Vokale bezeichnen sich selbst. Plosive fügen ein e an. Dauerlaute bekommen ein e vorangestellt. Einige Buchstaben wichen von diesem Schema ab. K und Q bilden den Namen mit dem für sie typischen Vokal. X wurde ex genannt. Z trug den griechischen Namen zeta. Für Y gab es verschiedene Namen wie das griechische i. Die Buchstabennamen wurden bei der Übertragung auf andere Sprachen weitgehend beibehalten. In antiken Inschriften wurden viele Abkürzungen verwendet. Marcus Tullius Tiro erfand eine antike Stenografie, die als tironische Noten bekannt ist.",
+      "Das lateinische Schriftsystem bildet die Grundlage für viele weitere Entwicklungen der Schriftgeschichte. Schließlich entstanden daraus zahlreiche Alphabete, die bis heute weltweit im Alltag genutzt werden."
      ],
-     [
-      "Buchstaben im archaischen lateinischen Alphabet",
-      "21"
+     "fakten": [
+      [
+       "Buchstaben im modernen lateinischen Alphabet",
+       "26"
+      ],
+      [
+       "Buchstaben im archaischen lateinischen Alphabet",
+       "21"
+      ],
+      [
+       "Buchstaben im klassischen lateinischen Alphabet",
+       "23"
+      ],
+      [
+       "Zeitpunkt Lapis Niger",
+       "um 600 v. Chr."
+      ],
+      [
+       "Zeitpunkt Duenos-Inschrift",
+       "erste Hälfte des 6. Jahrhunderts v. Chr."
+      ],
+      [
+       "Unterwerfung des griechischen Mutterlandes",
+       "146 v. Chr."
+      ],
+      [
+       "Versuch von Kaiser Claudius zur Alphabet-Erweiterung",
+       "im Jahr 47"
+      ]
      ],
-     [
-      "Buchstaben im klassischen lateinischen Alphabet",
-      "23"
+     "begriffe": [
+      [
+       "Scriptio continua",
+       "Eine Schreibweise in antiken Texten ohne Wortzwischenräume und ohne Unterscheidung von Groß- und Kleinbuchstaben."
+      ],
+      [
+       "Tironische Noten",
+       "Eine von Marcus Tullius Tiro erfundene antike Stenografie zur schnellen Aufzeichnung von Texten."
+      ]
      ],
-     [
-      "Zeitpunkt Lapis Niger",
-      "um 600 v. Chr."
-     ],
-     [
-      "Zeitpunkt Duenos-Inschrift",
-      "erste Hälfte des 6. Jahrhunderts v. Chr."
-     ],
-     [
-      "Unterwerfung des griechischen Mutterlandes",
-      "146 v. Chr."
-     ],
-     [
-      "Versuch von Kaiser Claudius zur Alphabet-Erweiterung",
-      "im Jahr 47"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Scriptio continua",
-      "Eine Schreibweise in antiken Texten ohne Wortzwischenräume und ohne Unterscheidung von Groß- und Kleinbuchstaben."
-     ],
-     [
-      "Tironische Noten",
-      "Eine von Marcus Tullius Tiro erfundene antike Stenografie zur schnellen Aufzeichnung von Texten."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Lateinisches Alphabet",
-     "bildunterschrift": "Das lateinische Alphabet ist das weltweit am weitesten verbreitete Schriftsystem."
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Lateinisches Alphabet",
+      "bildunterschrift": "Das lateinische Alphabet ist das weltweit am weitesten verbreitete Schriftsystem."
+     },
+     "quelle": {
+      "titel": "Lateinisches Alphabet",
+      "url": "https://de.wikipedia.org/wiki/Lateinisches_Alphabet"
+     },
+     "woerter": 561,
+     "bildInfos": []
     },
-    "quelle": {
-     "titel": "Lateinisches Alphabet",
-     "url": "https://de.wikipedia.org/wiki/Lateinisches_Alphabet"
+    {
+     "ueberschrift": "Die Entzifferung alter Schriften",
+     "wikipedia": "Rosettastein",
+     "fokus": "Forscher konnten dank historischer Funde längst vergessene Schriften lesen.",
+     "versuche": 2,
+     "zuDuenn": 3,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nach der Entwicklung von Systemen wie der lateinischen Schrift folgt nun die Entzifferung alter Schriften.",
+      "Im Jahr einhundertneunzig vor Christus wurde in Ägypten ein Stein aus Granodiorit erstellt.",
+      "Der Text stammt aus der Zeit von König Ptolemaios dem Fünften.",
+      "Ein französischer Offizier namens Pierre François Xavier Bouchard fand den Stein am fünfzehnten Juli neunzehnhundertneunzig?",
+      "Laut dem British Museum sind die genauen Umstände der Entdeckung sehr unklar.",
+      "Nach der Kapitulation von Alexandria im Jahr achtzehnhunderteins beschlagnahmte das britische Militär den Stein.",
+      "Seit achtzehnhundertzwei befindet sich das Objekt im British Museum in London.",
+      "Der Stein enthält denselben Text in drei verschiedenen Schriften.",
+      "In der Mitte befindet sich die ägyptische Gebrauchsschrift namens Demotisch.",
+      "Dadurch bot der Stein einen wichtigen Schlüssel zur Entzifferung der alten ägyptischen Schriften.",
+      "Silvestre de Sacy versuchte den demotischen Text durch Vergleiche zu deuten.",
+      "Im Jahr achtzehnhundertzwei gelang es Johan David Åkerblad, demotische Namen zu lesen.",
+      "Thomas Young entzifferte ebenfalls Königsnamen und Begriffe in den Texten.",
+      "Jean François Champollion kündigte im Jahr achtzehnhundertzweiundzwanzig die Transliteration der ägyptischen Schriften an.",
+      "Damit gelang ihm die Entzifferung der demotischen Schrift sowie der Hieroglyphen.",
+      "Nach dieser Entdeckung konnten Archäologen viele weitere ägyptische Inschriften lesen.",
+      "Moderne Projekte und Technologien nutzen den Namen dieses historischen Fundes für ihre Arbeit."
+     ],
+     "fakten": [
+      [
+       "Entstehungsjahr des Dekrets",
+       "196 v. Chr."
+      ],
+      [
+       "Entdeckung des Steins",
+       "15. Juli 1799"
+      ],
+      [
+       "Transport nach London",
+       "1801"
+      ],
+      [
+       "Ausstellung im British Museum ab",
+       "1802"
+      ],
+      [
+       "Entzifferung durch Champollion",
+       "1822"
+      ],
+      [
+       "Höhe des Steins",
+       "112,3 cm"
+      ],
+      [
+       "Gewicht des Steins",
+       "762 kg"
+      ]
+     ],
+     "begriffe": [
+      [
+       "Stein von Rosette",
+       "Ein Steinfragment mit einem mehrsprachigen Text aus dem antiken Ägypten."
+      ],
+      [
+       "Hieroglyphen",
+       "Die frühe ägyptische Sakralschrift aus Bildzeichen."
+      ],
+      [
+       "Demotisch",
+       "Eine spätere ägyptische Gebrauchsschrift."
+      ],
+      [
+       "Altgriechisch",
+       "Die in der ptolemäischen Verwaltung gebräuchliche Sprache auf dem Stein."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Stein von Rosette",
+      "bildunterschrift": "Der Stein von Rosette im British Museum war der Schlüssel zur Entzifferung der Hieroglyphen."
+     },
+     "quelle": {
+      "titel": "Stein von Rosette",
+      "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
+     },
+     "woerter": 203,
+     "bildInfos": []
     },
-    "woerter": 561
-   },
-   {
-    "ueberschrift": "Die Entzifferung alter Schriften",
-    "wikipedia": "Rosettastein",
-    "fokus": "Forscher konnten dank historischer Funde längst vergessene Schriften lesen.",
-    "versuche": 2,
-    "zuDuenn": 3,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Nach der Entwicklung von Systemen wie der lateinischen Schrift folgt nun die Entzifferung alter Schriften.",
-     "Im Jahr einhundertneunzig vor Christus wurde in Ägypten ein Stein aus Granodiorit erstellt.",
-     "Der Text stammt aus der Zeit von König Ptolemaios dem Fünften.",
-     "Ein französischer Offizier namens Pierre François Xavier Bouchard fand den Stein am fünfzehnten Juli neunzehnhundertneunzig?",
-     "Laut dem British Museum sind die genauen Umstände der Entdeckung sehr unklar.",
-     "Nach der Kapitulation von Alexandria im Jahr achtzehnhunderteins beschlagnahmte das britische Militär den Stein.",
-     "Seit achtzehnhundertzwei befindet sich das Objekt im British Museum in London.",
-     "Der Stein enthält denselben Text in drei verschiedenen Schriften.",
-     "In der Mitte befindet sich die ägyptische Gebrauchsschrift namens Demotisch.",
-     "Dadurch bot der Stein einen wichtigen Schlüssel zur Entzifferung der alten ägyptischen Schriften.",
-     "Silvestre de Sacy versuchte den demotischen Text durch Vergleiche zu deuten.",
-     "Im Jahr achtzehnhundertzwei gelang es Johan David Åkerblad, demotische Namen zu lesen.",
-     "Thomas Young entzifferte ebenfalls Königsnamen und Begriffe in den Texten.",
-     "Jean François Champollion kündigte im Jahr achtzehnhundertzweiundzwanzig die Transliteration der ägyptischen Schriften an.",
-     "Damit gelang ihm die Entzifferung der demotischen Schrift sowie der Hieroglyphen.",
-     "Nach dieser Entdeckung konnten Archäologen viele weitere ägyptische Inschriften lesen.",
-     "Moderne Projekte und Technologien nutzen den Namen dieses historischen Fundes für ihre Arbeit."
-    ],
-    "fakten": [
-     [
-      "Entstehungsjahr des Dekrets",
-      "196 v. Chr."
+    {
+     "ueberschrift": "Die Entwicklung des Buchdrucks",
+     "wikipedia": "Buchdruck",
+     "fokus": "Gutenbergs Erfindung machte geschriebenes Wissen für alle Menschen zugänglich.",
+     "zuDuenn": 2,
+     "versuche": 1,
+     "fehlgeschlagen": false,
+     "absaetze": [
+      "Nachdem die Menschen alte Schriften entziffert hatten, blickten sie neu auf die Geschichte der Texte. Über viele Jahrhunderte blieb das geschriebene Wort jedoch nur wenigen Menschen zugänglich. Im europäischen Mittelalter wurden Bücher fast ausschließlich in den Schreibstuben der Klöster von Hand kopiert. Diese Arbeit war sehr mühsam, langsam und teuer. Außerhalb von Klöstern besaßen deshalb nur sehr wenige wohlhabende Personen eigene Bücher. In Ostasien druckte man allerdings schon im achten Jahrhundert erste Werke auf Papier. Am elften Mai des Jahres achthundertachtundsechzig entstand in China das sogenannte Diamant-Sutra im Holztafeldruck. Dabei schnitzte man ganze Schriftzeichen spiegelverkehrt in Holzblöcke. Um das Jahr tausendvierzig erfand der chinesische Schmied Bi Sheng bewegliche Stempel aus gebrannter Keramik. Im Jahr dreizehnhundertsiebenundsiebzig druckte man in Korea das Buch Jikji erstmals mit Lettern aus Metall. Dennoch setzte sich der bewegliche Buchdruck in Fernost damals nicht dauerhaft durch.",
+      "In Europa veränderte sich die Lage um das Jahr vierzehnhundertvierzig grundlegend. Der Mainzer Goldschmied Johannes Gutenberg erfand damals den modernen Buchdruck mit beweglichen Metall-Lettern. Gutenberg entwickelte ein handliches Gießinstrument, mit dem er einzelne Buchstaben schnell und gleichmäßig herstellen konnte. Zudem verbesserte er die verwendete Druckfarbe und wandelte eine herkömmliche Spindelpresse zur leistungsfähigen Druckpresse um. Mit dem Setzkasten und dem Winkelhaken schuf er praktische Werkzeuge für den Schriftsetzer. Diese Neuerungen griffen perfekt ineinander und machten die Buchherstellung mechanisch. Das mühsame manuelle Abschreiben von Büchern wurde damit bald überflüssig. Auch der ältere Druck ganzer Seiten aus Holzblöcken verlor schnell an Bedeutung. Das Setzen einzelner, wiederverwendbarer Buchstaben aus Metall ging weitaus schneller von der Hand. Gutenbergs Verfahren machte das Buch erstmals zu einem Massenartikel. Geschriebenes Wissen war nun nicht mehr nur für Klöster und Fürsten da, sondern wurde für eine breite Allgemeinheit erschwinglich.",
+      "Die neue Technik verbreitete sich von Mainz aus mit erstaunlicher Geschwindigkeit über ganz Europa. Bereits im Jahr vierzehnhundertsiebenundfünfzig entstand eine neue Druckerei in Bamberg durch Albrecht Pfister. Um vierzehnhundertsechzig folgte Straßburg mit Johannes Mentelin, und bald darauf entstanden Werkstätten in Italien. In Basel begann das Drucken um vierzehnhundertachtundsechzig und in Paris im Jahr vierzehnhundertsiebzig. Spanien und England erreichten die Drucker im Jahr vierzehnhundertdreiundsiebzig, Wien schließlich im Jahr vierzehnhundertzweiundachtzig. Im Jahr fünfzehnhundert druckten die Menschen bereits an rund zweihundertsiebzig verschiedenen Orten. Mehr als sechzig dieser Orte lagen im Heiligen Römischen Reich Deutscher Nation. Neben der berühmten Bibel wurden Kalender, Lehrbücher, Fachliteratur und sogenannte Ablassbriefe in Auftrag gegeben. Das erste Druckwerk nach der Bibel war ein Aderlass-Kalender für das Jahr vierzehnhundertsiebenundfünfzig. Die durchschnittliche Auflage lag in der Frühzeit bei einhundertfünfzig bis zweihundertfünfzig Exemplaren.",
+      "Etwa siebenundsiebzig Prozent dieser frühen Druckwerke erschienen damals noch in lateinischer Sprache. Im sechzehnten Jahrhundert veränderte sich die Leserschaft jedoch durch neue Schriften in der Volkssprache. Die Schriften von Martin Luther machten damals fast ein Drittel der gesamten Buchproduktion aus. Der wachsende Bedarf an Lesestoff führte rasch zu einer neuen Arbeitsweise. In den Städten entstanden bald regelrechte Großbetriebe mit vielen Beschäftigten. Ein bekanntes Beispiel dafür war die Werkstatt von Anton Koberger in Nürnberg. Koberger beschäftigte dort bis zu einhundert Arbeiter an vierundzwanzig Druckpressen gleichzeitig. In diesen Werkstätten arbeiteten Schriftsetzer, Drucker und Korrektoren Hand in Hand zusammen. Der Drucker organisierte das nötige Geld, kaufte Papier und stellte die Handwerker ein. Zudem warb man mit Vorab-Aushängen öffentlich um Unterstützung bei der Korrektur von Fehlern. Ein völlig neuer intellektueller Austausch über Ländergrenzen hinweg wurde so möglich.",
+      "Für andere Schriftsysteme brachte die neue Methode jedoch zunächst technische Schwierigkeiten mit sich. Zwar gab es im sechzehnten Jahrhundert erste Drucke mit arabischer Schrift in Venedig. Die vielen geschwungenen Verbindungen dieser Schrift ließen sich mit einzelnen Lettern aber nur schwer darstellen. Im Osmanischen Reich verbot Sultan Ahmed der Dritte im Jahr siebzehnhundertsiebenundzwanzig den Druck religiöser islamischer Schriften. Gedruckt werden durften dort zunächst nur Bücher in hebräischer oder armenischer Sprache. Erst im neunzehnten Jahrhundert ermöglichte ein neues Flachdruckverfahren den einfachen Druck handschriftlicher arabischer Texte. In Europa blieb das Prinzip des Handsatzes mit einzelnen Lettern dagegen über vier Jahrhunderte lang unverändert. Erst ab dem Jahr achtzehnhundertsechsundachtzig beschleunigte die Linotype-Setzmaschine das Gießen ganzer Textzeilen aus Blei. Heute nutzt man vor allem moderne Offset- und Digitaldruckverfahren für Zeitungen und Bücher. Doch Gutenbergs mechanisches Prinzip bildete das Fundament für die moderne Informationsgesellschaft. Im nächsten Kapitel betrachten wir, wie sich das geschriebene Wort in der digitalen Zukunft weiterentwickelt."
      ],
-     [
-      "Entdeckung des Steins",
-      "15. Juli 1799"
+     "fakten": [
+      [
+       "Erstes datiertes Druckwerk im Holztafeldruck (Diamant-Sutra)",
+       "11. Mai 868"
+      ],
+      [
+       "Erfindung beweglicher Keramikstempel durch Bi Sheng",
+       "um 1040"
+      ],
+      [
+       "Ältestes erhaltenes Buch mit Metall-Lettern (Jikji)",
+       "1377"
+      ],
+      [
+       "Erfindung des modernen Buchdrucks durch Johannes Gutenberg",
+       "um 1440"
+      ],
+      [
+       "Anzahl der Druckorte in Europa im Jahr 1500",
+       "rund 270"
+      ],
+      [
+       "Durchschnittliche Auflage früher europäischer Drucke",
+       "150 bis 250 Exemplare"
+      ],
+      [
+       "Lateinischer Anteil der frühen Druckwerke",
+       "etwa 77 Prozent"
+      ],
+      [
+       "Beschäftigte im Nürnberger Großbetrieb von Anton Koberger",
+       "bis zu 100 Arbeiter an 24 Pressen"
+      ]
      ],
-     [
-      "Transport nach London",
-      "1801"
+     "begriffe": [
+      [
+       "Handgießinstrument",
+       "Ein von Gutenberg erfundenes Werkzeug zum schnellen und präzisen Gießen einzelner beweglicher Lettern aus Metall."
+      ],
+      [
+       "Winkelhaken",
+       "Ein verstellbares Werkzeug aus Metall, in das der Schriftsetzer die einzelnen Buchstaben zu Zeilen zusammenstellt."
+      ],
+      [
+       "Jikji",
+       "Ein im Jahr dreizehnhundertsiebenundsiebzig in Korea gedrucktes Werk und das älteste erhaltene Buch mit beweglichen Metall-Lettern."
+      ]
      ],
-     [
-      "Ausstellung im British Museum ab",
-      "1802"
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Buchdruck",
+      "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
+     },
+     "quelle": {
+      "titel": "Buchdruck",
+      "url": "https://de.wikipedia.org/wiki/Buchdruck"
+     },
+     "woerter": 695,
+     "bildInfos": [
+      {
+       "titel": "Buchdrucker-1568.png",
+       "beschreibung": "Darstellung des Buchdruckerhandwerks.",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Buchdrucker-1568.png",
+       "urheber": "Jost Amman",
+       "lizenz": "Public domain",
+       "lizenzUrl": "",
+       "artikel": "Buchdruck",
+       "sprache": "de",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
+      },
+      {
+       "titel": "Buchdruck-15-jahrhundert 1.jpg",
+       "beschreibung": "Imprenta francesa de inicios del siglo XVI",
+       "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Buchdruck-15-jahrhundert_1.jpg",
+       "urheber": "Unknown author Unknown author",
+       "lizenz": "Public domain",
+       "lizenzUrl": "",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Imprenta francesa de inicios del siglo XVI"
+      },
+      {
+       "titel": "Europäische Produktion von gedruckten Büchern ca. 1450–1800.png",
+       "beschreibung": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages.",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png/1280px-Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
+       "urheber": "Tentotwo",
+       "lizenz": "CC BY-SA 3.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages."
+      },
+      {
+       "titel": "Gutenberg-Museum Mainz 585-vh.jpg",
+       "beschreibung": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1280px-Gutenberg-Museum_Mainz_585-vh.jpg",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Gutenberg-Museum_Mainz_585-vh.jpg",
+       "urheber": "Pedelecs",
+       "lizenz": "CC BY-SA 3.0",
+       "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany"
+      },
+      {
+       "titel": "Mainz Gutenbergdenkmal Relief 2.JPG",
+       "beschreibung": "Gutenberg-Denkmal (Detail, Relief)",
+       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG/1280px-Mainz_Gutenbergdenkmal_Relief_2.JPG",
+       "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+       "seite": "https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_Relief_2.JPG",
+       "urheber": "E.peiffer@gmx.net",
+       "lizenz": "CC BY-SA 3.0",
+       "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+       "art": "symbol",
+       "hinweis": "Bild aus der Wikipedia",
+       "bildunterschrift": "Gutenberg-Denkmal (Detail, Relief)"
+      }
      ],
-     [
-      "Entzifferung durch Champollion",
-      "1822"
-     ],
-     [
-      "Höhe des Steins",
-      "112,3 cm"
-     ],
-     [
-      "Gewicht des Steins",
-      "762 kg"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Stein von Rosette",
-      "Ein Steinfragment mit einem mehrsprachigen Text aus dem antiken Ägypten."
-     ],
-     [
-      "Hieroglyphen",
-      "Die frühe ägyptische Sakralschrift aus Bildzeichen."
-     ],
-     [
-      "Demotisch",
-      "Eine spätere ägyptische Gebrauchsschrift."
-     ],
-     [
-      "Altgriechisch",
-      "Die in der ptolemäischen Verwaltung gebräuchliche Sprache auf dem Stein."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Stein von Rosette",
-     "bildunterschrift": "Der Stein von Rosette im British Museum war der Schlüssel zur Entzifferung der Hieroglyphen."
-    },
-    "quelle": {
-     "titel": "Stein von Rosette",
-     "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
-    },
-    "woerter": 203
-   },
-   {
-    "ueberschrift": "Die Entwicklung des Buchdrucks",
-    "wikipedia": "Buchdruck",
-    "fokus": "Gutenbergs Erfindung machte geschriebenes Wissen für alle Menschen zugänglich.",
-    "zuDuenn": 2,
-    "versuche": 1,
-    "fehlgeschlagen": false,
-    "absaetze": [
-     "Nachdem die Menschen alte Schriften entziffert hatten, blickten sie neu auf die Geschichte der Texte. Über viele Jahrhunderte blieb das geschriebene Wort jedoch nur wenigen Menschen zugänglich. Im europäischen Mittelalter wurden Bücher fast ausschließlich in den Schreibstuben der Klöster von Hand kopiert. Diese Arbeit war sehr mühsam, langsam und teuer. Außerhalb von Klöstern besaßen deshalb nur sehr wenige wohlhabende Personen eigene Bücher. In Ostasien druckte man allerdings schon im achten Jahrhundert erste Werke auf Papier. Am elften Mai des Jahres achthundertachtundsechzig entstand in China das sogenannte Diamant-Sutra im Holztafeldruck. Dabei schnitzte man ganze Schriftzeichen spiegelverkehrt in Holzblöcke. Um das Jahr tausendvierzig erfand der chinesische Schmied Bi Sheng bewegliche Stempel aus gebrannter Keramik. Im Jahr dreizehnhundertsiebenundsiebzig druckte man in Korea das Buch Jikji erstmals mit Lettern aus Metall. Dennoch setzte sich der bewegliche Buchdruck in Fernost damals nicht dauerhaft durch.",
-     "In Europa veränderte sich die Lage um das Jahr vierzehnhundertvierzig grundlegend. Der Mainzer Goldschmied Johannes Gutenberg erfand damals den modernen Buchdruck mit beweglichen Metall-Lettern. Gutenberg entwickelte ein handliches Gießinstrument, mit dem er einzelne Buchstaben schnell und gleichmäßig herstellen konnte. Zudem verbesserte er die verwendete Druckfarbe und wandelte eine herkömmliche Spindelpresse zur leistungsfähigen Druckpresse um. Mit dem Setzkasten und dem Winkelhaken schuf er praktische Werkzeuge für den Schriftsetzer. Diese Neuerungen griffen perfekt ineinander und machten die Buchherstellung mechanisch. Das mühsame manuelle Abschreiben von Büchern wurde damit bald überflüssig. Auch der ältere Druck ganzer Seiten aus Holzblöcken verlor schnell an Bedeutung. Das Setzen einzelner, wiederverwendbarer Buchstaben aus Metall ging weitaus schneller von der Hand. Gutenbergs Verfahren machte das Buch erstmals zu einem Massenartikel. Geschriebenes Wissen war nun nicht mehr nur für Klöster und Fürsten da, sondern wurde für eine breite Allgemeinheit erschwinglich.",
-     "Die neue Technik verbreitete sich von Mainz aus mit erstaunlicher Geschwindigkeit über ganz Europa. Bereits im Jahr vierzehnhundertsiebenundfünfzig entstand eine neue Druckerei in Bamberg durch Albrecht Pfister. Um vierzehnhundertsechzig folgte Straßburg mit Johannes Mentelin, und bald darauf entstanden Werkstätten in Italien. In Basel begann das Drucken um vierzehnhundertachtundsechzig und in Paris im Jahr vierzehnhundertsiebzig. Spanien und England erreichten die Drucker im Jahr vierzehnhundertdreiundsiebzig, Wien schließlich im Jahr vierzehnhundertzweiundachtzig. Im Jahr fünfzehnhundert druckten die Menschen bereits an rund zweihundertsiebzig verschiedenen Orten. Mehr als sechzig dieser Orte lagen im Heiligen Römischen Reich Deutscher Nation. Neben der berühmten Bibel wurden Kalender, Lehrbücher, Fachliteratur und sogenannte Ablassbriefe in Auftrag gegeben. Das erste Druckwerk nach der Bibel war ein Aderlass-Kalender für das Jahr vierzehnhundertsiebenundfünfzig. Die durchschnittliche Auflage lag in der Frühzeit bei einhundertfünfzig bis zweihundertfünfzig Exemplaren.",
-     "Etwa siebenundsiebzig Prozent dieser frühen Druckwerke erschienen damals noch in lateinischer Sprache. Im sechzehnten Jahrhundert veränderte sich die Leserschaft jedoch durch neue Schriften in der Volkssprache. Die Schriften von Martin Luther machten damals fast ein Drittel der gesamten Buchproduktion aus. Der wachsende Bedarf an Lesestoff führte rasch zu einer neuen Arbeitsweise. In den Städten entstanden bald regelrechte Großbetriebe mit vielen Beschäftigten. Ein bekanntes Beispiel dafür war die Werkstatt von Anton Koberger in Nürnberg. Koberger beschäftigte dort bis zu einhundert Arbeiter an vierundzwanzig Druckpressen gleichzeitig. In diesen Werkstätten arbeiteten Schriftsetzer, Drucker und Korrektoren Hand in Hand zusammen. Der Drucker organisierte das nötige Geld, kaufte Papier und stellte die Handwerker ein. Zudem warb man mit Vorab-Aushängen öffentlich um Unterstützung bei der Korrektur von Fehlern. Ein völlig neuer intellektueller Austausch über Ländergrenzen hinweg wurde so möglich.",
-     "Für andere Schriftsysteme brachte die neue Methode jedoch zunächst technische Schwierigkeiten mit sich. Zwar gab es im sechzehnten Jahrhundert erste Drucke mit arabischer Schrift in Venedig. Die vielen geschwungenen Verbindungen dieser Schrift ließen sich mit einzelnen Lettern aber nur schwer darstellen. Im Osmanischen Reich verbot Sultan Ahmed der Dritte im Jahr siebzehnhundertsiebenundzwanzig den Druck religiöser islamischer Schriften. Gedruckt werden durften dort zunächst nur Bücher in hebräischer oder armenischer Sprache. Erst im neunzehnten Jahrhundert ermöglichte ein neues Flachdruckverfahren den einfachen Druck handschriftlicher arabischer Texte. In Europa blieb das Prinzip des Handsatzes mit einzelnen Lettern dagegen über vier Jahrhunderte lang unverändert. Erst ab dem Jahr achtzehnhundertsechsundachtzig beschleunigte die Linotype-Setzmaschine das Gießen ganzer Textzeilen aus Blei. Heute nutzt man vor allem moderne Offset- und Digitaldruckverfahren für Zeitungen und Bücher. Doch Gutenbergs mechanisches Prinzip bildete das Fundament für die moderne Informationsgesellschaft. Im nächsten Kapitel betrachten wir, wie sich das geschriebene Wort in der digitalen Zukunft weiterentwickelt."
-    ],
-    "fakten": [
-     [
-      "Erstes datiertes Druckwerk im Holztafeldruck (Diamant-Sutra)",
-      "11. Mai 868"
-     ],
-     [
-      "Erfindung beweglicher Keramikstempel durch Bi Sheng",
-      "um 1040"
-     ],
-     [
-      "Ältestes erhaltenes Buch mit Metall-Lettern (Jikji)",
-      "1377"
-     ],
-     [
-      "Erfindung des modernen Buchdrucks durch Johannes Gutenberg",
-      "um 1440"
-     ],
-     [
-      "Anzahl der Druckorte in Europa im Jahr 1500",
-      "rund 270"
-     ],
-     [
-      "Durchschnittliche Auflage früher europäischer Drucke",
-      "150 bis 250 Exemplare"
-     ],
-     [
-      "Lateinischer Anteil der frühen Druckwerke",
-      "etwa 77 Prozent"
-     ],
-     [
-      "Beschäftigte im Nürnberger Großbetrieb von Anton Koberger",
-      "bis zu 100 Arbeiter an 24 Pressen"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Handgießinstrument",
-      "Ein von Gutenberg erfundenes Werkzeug zum schnellen und präzisen Gießen einzelner beweglicher Lettern aus Metall."
-     ],
-     [
-      "Winkelhaken",
-      "Ein verstellbares Werkzeug aus Metall, in das der Schriftsetzer die einzelnen Buchstaben zu Zeilen zusammenstellt."
-     ],
-     [
-      "Jikji",
-      "Ein im Jahr dreizehnhundertsiebenundsiebzig in Korea gedrucktes Werk und das älteste erhaltene Buch mit beweglichen Metall-Lettern."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Buchdruck",
-     "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
-    },
-    "quelle": {
-     "titel": "Buchdruck",
-     "url": "https://de.wikipedia.org/wiki/Buchdruck"
-    },
-    "woerter": 695,
-    "bildInfos": [
-     {
+     "bildInfo": {
       "titel": "Buchdrucker-1568.png",
       "beschreibung": "Darstellung des Buchdruckerhandwerks.",
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png",
@@ -614,123 +819,115 @@
       "art": "symbol",
       "hinweis": "Bild aus der Wikipedia",
       "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
-     },
-     {
-      "titel": "Buchdruck-15-jahrhundert 1.jpg",
-      "beschreibung": "Imprenta francesa de inicios del siglo XVI",
-      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Buchdruck-15-jahrhundert_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Buchdruck-15-jahrhundert_1.jpg",
-      "urheber": "Unknown author Unknown author",
-      "lizenz": "Public domain",
-      "lizenzUrl": "",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Imprenta francesa de inicios del siglo XVI"
-     },
-     {
-      "titel": "Europäische Produktion von gedruckten Büchern ca. 1450–1800.png",
-      "beschreibung": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages.",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png/1280px-Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Produktion_von_gedruckten_B%C3%BCchern_ca._1450%E2%80%931800.png",
-      "urheber": "Tentotwo",
-      "lizenz": "CC BY-SA 3.0",
-      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Estimated output of printed books in Europe from ca. 1450 to 1800. A book is defined as printed matter containing more than 49 pages."
-     },
-     {
-      "titel": "Gutenberg-Museum Mainz 585-vh.jpg",
-      "beschreibung": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg/1280px-Gutenberg-Museum_Mainz_585-vh.jpg",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gutenberg-Museum_Mainz_585-vh.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Gutenberg-Museum_Mainz_585-vh.jpg",
-      "urheber": "Pedelecs",
-      "lizenz": "CC BY-SA 3.0",
-      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "House „Zum Römischen Kaiser“ with the older part of the Gutenberg Museum in Mainz at place Liebfrauenplatz, Germany"
-     },
-     {
-      "titel": "Mainz Gutenbergdenkmal Relief 2.JPG",
-      "beschreibung": "Gutenberg-Denkmal (Detail, Relief)",
-      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG/1280px-Mainz_Gutenbergdenkmal_Relief_2.JPG",
-      "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mainz_Gutenbergdenkmal_Relief_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "seite": "https://commons.wikimedia.org/wiki/File:Mainz_Gutenbergdenkmal_Relief_2.JPG",
-      "urheber": "E.peiffer@gmx.net",
-      "lizenz": "CC BY-SA 3.0",
-      "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-      "art": "symbol",
-      "hinweis": "Bild aus der Wikipedia",
-      "bildunterschrift": "Gutenberg-Denkmal (Detail, Relief)"
      }
-    ],
-    "bildInfo": {
-     "titel": "Buchdrucker-1568.png",
-     "beschreibung": "Darstellung des Buchdruckerhandwerks.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Buchdrucker-1568.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Buchdrucker-1568.png",
-     "urheber": "Jost Amman",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Buchdruck",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Johannes Gutenberg revolutionierte um vierzehnhundertvierzig die Vervielfältigung von Wissen durch die Erfindung des Buchdrucks mit beweglichen Metall-Lettern und einer Druckerpresse."
-    }
-   },
-   {
-    "ueberschrift": "Die Zukunft der Schrift",
-    "wikipedia": "Digitale Typografie",
-    "fokus": "Computer und Bildschirme verändern unsere Schriftkultur im digitalen Zeitalter.",
-    "zuDuenn": 3,
-    "versuche": 1,
-    "absaetze": [
-     "Die lateinische Schrift bildet die Grundlage für unsere heutige Kommunikation.",
-     "Typografie für digitale Texte beschäftigt sich mit der visuellen Gestaltung.",
-     "Ziele sind eine einfache Lesbarkeit und eine ansprechende Präsentation.",
-     "Die Digitalisierung hat den Kreis der Ersteller stark vergrößert.",
-     "Die technische Entwicklung führte zu neuen Möglichkeiten wie Hypertexten."
-    ],
-    "fakten": [
-     [
-      "Zeichen in Unicode fünf Punkt null",
-      "neunundachtzigtausendachthundertvierundachtzig"
-     ],
-     [
-      "Variante der Deutschen Zeichentabelle",
-      "neunzehnhundertachtundsechzig"
-     ]
-    ],
-    "begriffe": [
-     [
-      "Typografie",
-      "Die visuelle Gestaltung von Textdokumenten mittels Schrift."
-     ],
-     [
-      "Unicode",
-      "Ein sehr umfangreicher Zeichenvorrat für Computer."
-     ]
-    ],
-    "bild": {
-     "art": "symbol",
-     "suchbegriff": "Typografie für digitale Texte",
-     "bildunterschrift": "Die visuelle Gestaltung von Texten im digitalen Zeitalter."
     },
-    "quelle": {
+    {
+     "ueberschrift": "Die Zukunft der Schrift",
+     "wikipedia": "Digitale Typografie",
+     "fokus": "Computer und Bildschirme verändern unsere Schriftkultur im digitalen Zeitalter.",
+     "zuDuenn": 3,
+     "versuche": 1,
+     "absaetze": [
+      "Die lateinische Schrift bildet die Grundlage für unsere heutige Kommunikation.",
+      "Typografie für digitale Texte beschäftigt sich mit der visuellen Gestaltung.",
+      "Ziele sind eine einfache Lesbarkeit und eine ansprechende Präsentation.",
+      "Die Digitalisierung hat den Kreis der Ersteller stark vergrößert.",
+      "Die technische Entwicklung führte zu neuen Möglichkeiten wie Hypertexten."
+     ],
+     "fakten": [
+      [
+       "Zeichen in Unicode fünf Punkt null",
+       "neunundachtzigtausendachthundertvierundachtzig"
+      ],
+      [
+       "Variante der Deutschen Zeichentabelle",
+       "neunzehnhundertachtundsechzig"
+      ]
+     ],
+     "begriffe": [
+      [
+       "Typografie",
+       "Die visuelle Gestaltung von Textdokumenten mittels Schrift."
+      ],
+      [
+       "Unicode",
+       "Ein sehr umfangreicher Zeichenvorrat für Computer."
+      ]
+     ],
+     "bild": {
+      "art": "symbol",
+      "suchbegriff": "Typografie für digitale Texte",
+      "bildunterschrift": "Die visuelle Gestaltung von Texten im digitalen Zeitalter."
+     },
+     "quelle": {
+      "titel": "Typografie für digitale Texte",
+      "url": "https://de.wikipedia.org/wiki/Typografie_f%C3%BCr_digitale_Texte"
+     },
+     "woerter": 47,
+     "bildInfos": []
+    }
+   ],
+   "woerter": 2892,
+   "bildInfo": {
+    "titel": "Olympic games 1972 basketball 0501.JPG",
+    "beschreibung": "Pictogram of the Olympic Games 1972 in Munich, Germany symbolizing Basketball. Drawn by Otl Aicher, on Display at the Rudi-Seldmyer-Halle, Munich",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Olympic_games_1972_basketball_0501.JPG/1280px-Olympic_games_1972_basketball_0501.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Olympic_games_1972_basketball_0501.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Olympic_games_1972_basketball_0501.JPG",
+    "urheber": "Henning Schlottmann ( User:H-stt ) The production, editing or release of this file was sup",
+    "lizenz": "CC BY 1.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/1.0",
+    "artikel": "Piktogramm",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
+   },
+   "bilderGesamt": 15,
+   "quellen": [
+    {
+     "titel": "Höhlenmalerei",
+     "url": "https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei"
+    },
+    {
+     "titel": "Piktogramm",
+     "url": "https://de.wikipedia.org/wiki/Piktogramm"
+    },
+    {
+     "titel": "Keilschrift",
+     "url": "https://de.wikipedia.org/wiki/Keilschrift"
+    },
+    {
+     "titel": "Ägyptische Hieroglyphen",
+     "url": "https://de.wikipedia.org/wiki/%C3%84gyptische_Hieroglyphen"
+    },
+    {
+     "titel": "Phönizische Schrift",
+     "url": "https://de.wikipedia.org/wiki/Ph%C3%B6nizische_Schrift"
+    },
+    {
+     "titel": "Griechisches Alphabet",
+     "url": "https://de.wikipedia.org/wiki/Griechisches_Alphabet"
+    },
+    {
+     "titel": "Lateinisches Alphabet",
+     "url": "https://de.wikipedia.org/wiki/Lateinisches_Alphabet"
+    },
+    {
+     "titel": "Stein von Rosette",
+     "url": "https://de.wikipedia.org/wiki/Stein_von_Rosette"
+    },
+    {
+     "titel": "Buchdruck",
+     "url": "https://de.wikipedia.org/wiki/Buchdruck"
+    },
+    {
      "titel": "Typografie für digitale Texte",
      "url": "https://de.wikipedia.org/wiki/Typografie_f%C3%BCr_digitale_Texte"
-    },
-    "woerter": 47
-   }
-  ]
- },
- "fertig": [
+    }
+   ],
+   "dauerMinuten": 21
+  },
   {
    "id": "die-reise-des-wassers",
    "titel": "Die Reise des Wassers",
