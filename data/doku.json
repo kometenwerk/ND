@@ -115,7 +115,23 @@
       "url": "https://de.wikipedia.org/wiki/H%C3%B6hlenmalerei"
      },
      "woerter": 90,
-     "bildInfos": []
+     "bildInfos": [],
+     "ton": [
+      {
+       "k": "Nach der Zukunft der Schrift blicken wir nun auf den Ursprung visueller Kommunik",
+       "d": "42d363f03b.mp3",
+       "l": 42.4,
+       "s": [
+        0.25,
+        6.0,
+        11.8,
+        18.78,
+        25.16,
+        30.91,
+        36.2
+       ]
+      }
+     ]
     },
     {
      "ueberschrift": "Von Bildern zu Zeichen",
@@ -250,7 +266,23 @@
       "art": "symbol",
       "hinweis": "Bild aus der Wikipedia",
       "bildunterschrift": "Piktogramme vermitteln Informationen durch vereinfachte grafische Darstellungen."
-     }
+     },
+     "ton": [
+      {
+       "k": "Nach der lateinischen Schrift blicken wir nun auf die frühen Grundlagen zurück, ",
+       "d": "b16edf143f.mp3",
+       "l": 56.64,
+       "s": [
+        0.25,
+        7.98,
+        14.62,
+        20.95,
+        29.29,
+        41.47,
+        50.98
+       ]
+      }
+     ]
     },
     {
      "ueberschrift": "Die Erfindung der Keilschrift",
@@ -334,7 +366,59 @@
       "art": "symbol",
       "hinweis": "Bild aus der Wikipedia",
       "bildunterschrift": "Tontafel mit Keilschriftzeichen aus dem Alten Orient."
-     }
+     },
+     "ton": [
+      {
+       "k": "Nach der lateinischen Schrift blicken wir nun auf die Anfänge zurück. In Mesopot",
+       "d": "13219ae042.mp3",
+       "l": 199.69,
+       "s": [
+        0.25,
+        4.01,
+        8.48,
+        16.18,
+        19.99,
+        24.66,
+        27.24,
+        31.69,
+        34.91,
+        38.68,
+        45.55,
+        50.87,
+        52.85,
+        56.89,
+        63.32,
+        66.58,
+        70.13,
+        74.92,
+        81.21,
+        84.92,
+        88.92,
+        91.77,
+        94.68,
+        101.61,
+        104.11,
+        108.31,
+        115.75,
+        120.49,
+        125.45,
+        131.5,
+        140.74,
+        143.96,
+        147.61,
+        157.28,
+        161.61,
+        164.73,
+        169.56,
+        174.66,
+        178.35,
+        181.34,
+        186.83,
+        189.42,
+        193.58
+       ]
+      }
+     ]
     },
     {
      "ueberschrift": "Die Welt der Hieroglyphen",

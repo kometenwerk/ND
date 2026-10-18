@@ -2263,7 +2263,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 11 und 15 Grad. Die Vorhersage für morgen,",
+   "d": "06c5a642f5.mp3",
+   "l": 16.94,
+   "s": [
+    0.25,
+    3.85,
+    7.69,
+    11.0,
+    13.99
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2963,16 +2975,16 @@
     {
      "k": "In Frankreich ist es bei landesweiten Protesten zu schweren Ausschreitungen geko",
      "d": "0e30292527.mp3",
-     "l": 34.35,
+     "l": 34.07,
      "s": [
       0.25,
-      5.27,
-      10.84,
-      15.93,
-      20.16,
-      24.87,
-      29.05,
-      31.83
+      5.12,
+      10.8,
+      15.79,
+      19.97,
+      24.61,
+      28.73,
+      31.65
      ]
     },
     {
@@ -4756,6 +4768,58 @@
       42.31,
       51.44
      ]
+    },
+    {
+     "k": "Die aktuellen Entwicklungen in Berlin folgen auf die Wahl zum Abgeordnetenhaus, ",
+     "d": "0fc2bcbd27.mp3",
+     "l": 54.57,
+     "s": [
+      0.25,
+      6.77,
+      12.88,
+      18.28,
+      26.04,
+      31.56,
+      36.1,
+      43.66
+     ]
+    },
+    {
+     "k": "Koalitionsverhandlungen sind Gespräche zwischen politischen Parteien nach einer ",
+     "d": "8d58bac5aa.mp3",
+     "l": 34.42,
+     "s": [
+      0.25,
+      5.14,
+      14.7,
+      19.39,
+      25.87
+     ]
+    },
+    {
+     "k": "Der SPD-Politiker Hubertus Heil äußerte laut Tagesschau Zweifel an der Regierung",
+     "d": "a2185fa481.mp3",
+     "l": 56.37,
+     "s": [
+      0.25,
+      8.72,
+      13.84,
+      19.73,
+      26.87,
+      33.44,
+      40.2,
+      47.97
+     ]
+    },
+    {
+     "k": "Die Parteigremien von SPD und Grünen in Berlin entscheiden am Montag über die Au",
+     "d": "8c5fe599e3.mp3",
+     "l": 22.09,
+     "s": [
+      0.25,
+      7.72,
+      13.81
+     ]
     }
    ]
   },
@@ -5332,6 +5396,90 @@
       0.25,
       3.4
      ]
+    },
+    {
+     "k": "US-Präsident Donald Trump hat kurz vor dem Inkrafttreten ein neues Sanktionspake",
+     "d": "155b2eea3f.mp3",
+     "l": 68.15,
+     "s": [
+      0.25,
+      7.17,
+      14.49,
+      20.0,
+      28.36,
+      33.32,
+      44.27,
+      55.94
+     ]
+    },
+    {
+     "k": "Das im September verabschiedete Gesetzespaket geht auf einen Entwurf zurück, den",
+     "d": "1ec5c4ee9e.mp3",
+     "l": 74.58,
+     "s": [
+      0.25,
+      12.77,
+      22.66,
+      28.99,
+      35.81,
+      48.1,
+      52.8,
+      64.44
+     ]
+    },
+    {
+     "k": "Die Beziehungen zwischen Washington und Kiew haben sich in den vergangenen Woche",
+     "d": "8b457d2d1a.mp3",
+     "l": 49.62,
+     "s": [
+      0.25,
+      5.2,
+      14.69,
+      17.9,
+      25.64,
+      29.88,
+      34.23,
+      44.74
+     ]
+    },
+    {
+     "k": "Sanktionen sind wirtschaftliche oder politische Strafmaßnahmen, die von Staaten ",
+     "d": "ae05d17e4a.mp3",
+     "l": 54.15,
+     "s": [
+      0.25,
+      10.09,
+      16.23,
+      28.1,
+      37.02,
+      42.98
+     ]
+    },
+    {
+     "k": "Der ukrainische Präsident Wolodymyr Selenskyj kritisierte die Aussetzung der San",
+     "d": "ceef467964.mp3",
+     "l": 59.87,
+     "s": [
+      0.25,
+      11.39,
+      15.87,
+      24.1,
+      28.52,
+      39.01,
+      45.5,
+      51.16
+     ]
+    },
+    {
+     "k": "Die Aussetzung des Sanktionspakets ist laut den Erklärungen der US-Regierung auf",
+     "d": "d3b58f833c.mp3",
+     "l": 28.76,
+     "s": [
+      0.25,
+      7.42,
+      14.42,
+      19.14
+     ]
     }
    ]
   },
@@ -5847,6 +5995,36 @@
       30.67,
       35.15,
       43.23
+     ]
+    },
+    {
+     "k": "Der Flugbetrieb an dem sächsischen Verkehrsflughafen war nach Angaben der beteil",
+     "d": "2d6157c311.mp3",
+     "l": 55.77,
+     "s": [
+      0.25,
+      9.16,
+      17.8,
+      22.14,
+      27.64,
+      35.31,
+      40.64,
+      47.15
+     ]
+    },
+    {
+     "k": "Der aktuelle Vorfall ruft auch Ereignisse aus den vergangenen Monaten in Erinner",
+     "d": "7fc85c2618.mp3",
+     "l": 57.17,
+     "s": [
+      0.25,
+      5.4,
+      14.17,
+      18.39,
+      25.79,
+      34.5,
+      38.73,
+      49.05
      ]
     }
    ]
@@ -6393,6 +6571,92 @@
       0.25,
       3.69
      ]
+    },
+    {
+     "k": "Papst Leo XIV. ist nach einer Operation am rechten Lungenflügel in den Vatikan z",
+     "d": "923ec1eaea.mp3",
+     "l": 40.49,
+     "s": [
+      0.25,
+      2.16,
+      6.57,
+      11.85,
+      19.59,
+      22.51,
+      28.81,
+      33.12
+     ]
+    },
+    {
+     "k": "Auf dem Petersplatz versammelten sich nach übereinstimmenden Angaben von Tagessc",
+     "d": "69639ef785.mp3",
+     "l": 39.76,
+     "s": [
+      0.25,
+      8.61,
+      14.37,
+      15.75,
+      19.86,
+      22.3,
+      28.3,
+      32.43
+     ]
+    },
+    {
+     "k": "Der bösartige Tumor wurde laut ORF zufällig bei Untersuchungen des Bauchraums en",
+     "d": "39fa9cb356.mp3",
+     "l": 44.21,
+     "s": [
+      0.25,
+      5.9,
+      9.34,
+      14.77,
+      22.72,
+      26.37,
+      32.62,
+      39.06
+     ]
+    },
+    {
+     "k": "Das Angelus-Gebet ist ein traditionelles kirchliches Gebet, das in der katholisc",
+     "d": "ac034fadcd.mp3",
+     "l": 33.61,
+     "s": [
+      0.25,
+      6.49,
+      15.85,
+      21.11,
+      23.81,
+      27.39
+     ]
+    },
+    {
+     "k": "Der Chirurg Stefano Margaritora äußerte sich optimistisch zum Genesungsverlauf d",
+     "d": "bbfb3add14.mp3",
+     "l": 37.81,
+     "s": [
+      0.25,
+      6.08,
+      13.36,
+      21.7,
+      26.5,
+      32.73
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. kündigte an, seine Aktivitäten schrittweise wieder aufnehmen zu w",
+     "d": "35bd7e290e.mp3",
+     "l": 40.41,
+     "s": [
+      0.25,
+      2.17,
+      6.21,
+      13.02,
+      19.08,
+      22.91,
+      31.01,
+      35.01
+     ]
     }
    ]
   },
@@ -6777,6 +7041,77 @@
      "s": [
       0.25,
       3.42
+     ]
+    },
+    {
+     "k": "Während des Hindu-Fests Durga Puja in der indischen Millionenstadt Kolkata kam e",
+     "d": "95bca2a181.mp3",
+     "l": 36.77,
+     "s": [
+      0.25,
+      6.14,
+      11.11,
+      15.35,
+      21.6,
+      25.31,
+      28.89,
+      32.61
+     ]
+    },
+    {
+     "k": "Das religiöse Fest Durga Puja findet vom 16. bis zum 21. Oktober im indischen Bu",
+     "d": "edf98386a8.mp3",
+     "l": 37.41,
+     "s": [
+      0.25,
+      3.57,
+      5.67,
+      8.91,
+      12.18,
+      17.43,
+      25.0,
+      30.63
+     ]
+    },
+    {
+     "k": "Bei großen religiösen Festen und anderen Großveranstaltungen kommt es in Indien ",
+     "d": "8058a413e9.mp3",
+     "l": 33.0,
+     "s": [
+      0.25,
+      7.81,
+      14.66,
+      25.0
+     ]
+    },
+    {
+     "k": "Das Durga-Puja-Fest ist ein religiöses Ereignis im indischen Bundesstaat Westben",
+     "d": "83a520476b.mp3",
+     "l": 11.79,
+     "s": [
+      0.25,
+      5.62
+     ]
+    },
+    {
+     "k": "Der indische Premierminister Narendra Modi bezeichnete den Vorfall laut der BBC ",
+     "d": "21db18773c.mp3",
+     "l": 27.37,
+     "s": [
+      0.25,
+      6.17,
+      12.18,
+      20.11
+     ]
+    },
+    {
+     "k": "Das Fest Durga Puja läuft noch bis zum 21. Oktober weiter. Die Regionalregierung",
+     "d": "a1db4d8276.mp3",
+     "l": 10.99,
+     "s": [
+      0.25,
+      3.76,
+      5.23
      ]
     }
    ]
@@ -11046,11 +11381,11 @@
     {
      "k": "Bei Schüssen an einer Grundschule im US-Bundesstaat Oregon sind vier Menschen ge",
      "d": "97204434cf.mp3",
-     "l": 12.14,
+     "l": 12.63,
      "s": [
       0.25,
-      5.61,
-      9.0
+      6.04,
+      9.65
      ]
     },
     {
