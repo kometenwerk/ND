@@ -2261,7 +2261,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 12 und 17 Grad. Die Vorhersage für morgen,",
+   "d": "33376674d0.mp3",
+   "l": 19.64,
+   "s": [
+    0.25,
+    4.07,
+    10.55,
+    13.82,
+    16.9
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -5344,6 +5356,78 @@
       38.5,
       44.29
      ]
+    },
+    {
+     "k": "Der Vorschlag für ein Spitzentreffen in China geht laut Medienberichten auf ein ",
+     "d": "d9f8ba0f27.mp3",
+     "l": 57.65,
+     "s": [
+      0.25,
+      7.46,
+      8.79,
+      15.45,
+      25.29,
+      32.5,
+      40.6,
+      51.1
+     ]
+    },
+    {
+     "k": "Das ausgesetzte Sanktionspaket geht auf eine Initiative im US-Senat zurück. Der ",
+     "d": "4674727198.mp3",
+     "l": 48.66,
+     "s": [
+      0.25,
+      5.19,
+      15.93,
+      21.34,
+      22.52,
+      30.65,
+      34.44,
+      37.95
+     ]
+    },
+    {
+     "k": "Wirtschaftssanktionen sind politische Maßnahmen, mit denen Staaten den Handel, G",
+     "d": "76a5a9e413.mp3",
+     "l": 45.39,
+     "s": [
+      0.25,
+      8.66,
+      14.15,
+      22.46,
+      31.69,
+      38.9
+     ]
+    },
+    {
+     "k": "Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich in mehreren Interview",
+     "d": "fa406a1072.mp3",
+     "l": 55.62,
+     "s": [
+      0.25,
+      7.79,
+      17.49,
+      23.79,
+      29.96,
+      35.84,
+      42.3,
+      48.74
+     ]
+    },
+    {
+     "k": "In den kommenden sechzig Tagen soll die von Außenminister Rubio angekündigte Unt",
+     "d": "0378e0c794.mp3",
+     "l": 32.47,
+     "s": [
+      0.25,
+      8.54,
+      13.78,
+      15.19,
+      16.54,
+      25.53,
+      26.54
+     ]
     }
    ]
   },
@@ -5939,6 +6023,93 @@
      "s": [
       0.25,
       3.71
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. ist nach einem chirurgischen Eingriff an der Lunge in den Vatikan",
+     "d": "51b5796fcb.mp3",
+     "l": 39.41,
+     "s": [
+      0.25,
+      2.39,
+      6.7,
+      12.19,
+      17.93,
+      22.81,
+      29.06,
+      32.92
+     ]
+    },
+    {
+     "k": "Die Angaben zur Zahl der Menschen auf dem Petersplatz weichen in den Berichten v",
+     "d": "9abe607cf4.mp3",
+     "l": 38.79,
+     "s": [
+      0.25,
+      5.63,
+      9.9,
+      13.0,
+      18.26,
+      20.21,
+      29.2,
+      33.15
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. hatte den bevorstehenden Eingriff genau eine Woche vor seinem Son",
+     "d": "563940e870.mp3",
+     "l": 49.69,
+     "s": [
+      0.25,
+      2.17,
+      7.76,
+      14.18,
+      21.51,
+      26.64,
+      32.99,
+      42.13
+     ]
+    },
+    {
+     "k": "Der Papst ist das Oberhaupt der römisch-katholischen Kirche und zugleich Staatso",
+     "d": "fb7558893a.mp3",
+     "l": 36.18,
+     "s": [
+      0.25,
+      6.62,
+      13.47,
+      22.52,
+      29.59
+     ]
+    },
+    {
+     "k": "Papst Leo XIV. wandte sich mit persönlichen Worten an die Mitarbeitenden des Kra",
+     "d": "8440c6af72.mp3",
+     "l": 43.87,
+     "s": [
+      0.25,
+      2.1,
+      7.33,
+      13.69,
+      18.48,
+      24.14,
+      28.77,
+      37.3
+     ]
+    },
+    {
+     "k": "Nach der Entlassung aus der Klinik wird laut SRF vermutet, dass sich das Kirchen",
+     "d": "9a7221c091.mp3",
+     "l": 36.15,
+     "s": [
+      0.25,
+      9.87,
+      14.53,
+      16.87,
+      22.57,
+      26.15,
+      27.59,
+      31.67
      ]
     }
    ]
