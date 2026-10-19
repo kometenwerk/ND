@@ -1,6 +1,164 @@
 {
- "stand": "2026-10-18T18:03:27.300Z",
+ "stand": "2026-10-19T07:42:27.317Z",
  "stuecke": [
+  {
+   "id": "wie-entsteht-eigentlich-ein-schluckauf",
+   "zeit": "2026-10-19T07:51:36.031Z",
+   "bereich": "Körper und Gesundheit",
+   "titel": "Wie entsteht eigentlich ein Schluckauf?",
+   "vorspann": "Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "In der medizinischen Fachsprache heißt der Schluckauf Singultus. Es handelt sich dabei um eine kräftige Bewegung des Zwerchfells, die periodisch als Reflex auftritt. Während dieses Einatmens schlagen die Stimmlippen plötzlich zusammen und stoppen den Luftstrom abrupt. Dadurch entsteht das typische Geräusch, das oft lautmalerisch als Hicks bezeichnet wird. Dieses Phänomen betrifft nicht nur Menschen, sondern auch Säugetiere wie Hunde, Katzen, Robben und Pferde.",
+      "Meistens verschwindet das Hicksen nach kurzer Zeit ganz von allein. In sehr seltenen Fällen kann ein Schluckauf jedoch über viele Jahre hinweg andauern. Ein solcher Dauerschluckauf belastet den Körper und stört unter anderem den gesunden Schlaf. An der Universität Heidelberg gibt es deshalb sogar eine spezielle Beratungsstelle für Betroffene. Auch vor der Geburt lässt sich der Reflex bei Föten im Mutterleib beobachten."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Gesteuert wird die menschliche Atmung vor allem vom sogenannten Hirnstamm. Von dort aus verlaufen lange Nervenbahnen wie der Vagusnerv und der Phrenicusnerv hinab zum Zwerchfell. Weil diese Leitungsbahnen einen langen und komplizierten Weg durch den Körper nehmen, sind sie störanfällig. Wenn einer dieser Nerven gereizt wird, kann es zu unkontrollierten Zuckungen des Zwerchfells kommen. Das Schließen des Kehlkopfdeckels verhindert dann, dass Luft normal einströmt.",
+      "Auslöser für diese Nervenreizung gibt es im täglichen Leben viele. Häufig dehnt sich der Magen durch hastiges Hinunterschlingen von Mahlzeiten vorübergehend zu stark aus. Auch sehr scharfes Essen oder extrem kalte und kohlensäurehaltige Getränke können den Reflex starten. Ebenso führen starke Gefühlsregungen wie heftige Lachanfälle oder psychische Erregung manchmal zu Schluckauf. Bestimmte Medikamente oder ein Rückfluss von Magensäure in die Speiseröhre reizen den Nervus phrenicus zusätzlich.",
+      "Gegen das lästige Hicksen existieren zahlreiche erprobte Hausmittel. Viele zielen darauf ab, die Atmung zu beruhigen, etwa durch ein dreißigsekündiges Anhalten der Luft. Andere Methoden nutzen gezielte Kältereize oder Geschmacksreize im Mund, wie ein Löffel Joghurt oder Eiswasser. Auch das Atmen in eine Plastiktüte kann den Reflex dämpfen. Durch Nachtrinken von Flüssigkeit lässt sich die Speiseröhre wieder von verbliebenen Speiseresten befreien."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Fachleute untersuchen den Ursprung des Schluckaufs unter anderem durch den Vergleich mit der Tierwelt. Bei Kaulquappen und Lungenfischen steuert ein ähnlicher Mechanismus im Hirnstamm die Atmung über die Kiemen. Dabei muss verhindert werden, dass Wasser bei der Kiemenatmung in die Lungen gelangt. Der Verschluss der Glottis schützt die Lunge bei diesen Tieren vor dem Eindringen von Wasser. Die Forschung nimmt an, dass der menschliche Schluckauf ein verbliebenes evolutionäres Relikt dieser alten Schutzfunktion ist."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Obwohl der Schluckauf sehr weit verbreitet ist, sind der genaue Zweck und die inneren Abläufe bis heute kaum bekannt. Oftmals lässt sich bei Betroffenen trotz intensiver medizinischer Untersuchungen keine konkrete körperliche Ursache für das Hicksen nachweisen. Auch bei der Frage, warum Föten im Mutterleib hicksen, gibt es bisher nur verschiedene Theorien wie das Training der Atemmuskeln."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Fachbegriff",
+     "Singultus"
+    ],
+    [
+     "Dauer des längsten ununterbrochenen Schluckaufs",
+     "1922 bis 1990"
+    ],
+    [
+     "Marktrücknahme von Triflupromazin",
+     "2003"
+    ],
+    [
+     "Empfohlene Dauer des Luftanhaltens",
+     "30 Sekunden"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Singultus",
+     "Der medizinische Fachausdruck für Schluckauf."
+    ],
+    [
+     "Zwerchfell",
+     "Ein wichtiger Muskel im Brust- und Bauchbereich, der maßgeblich für die Atembewegung verantwortlich ist."
+    ],
+    [
+     "Hirnstamm",
+     "Ein Bereich des Gehirns zwischen Großhirn und Rückenmark, der grundlegende Körperfunktionen wie die Atmung steuert."
+    ],
+    [
+     "Nervus phrenicus",
+     "Der Nerv, der vom Hirnstamm ausgeht und die Muskeln des Zwerchfells ansteuert."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Welcher Nerv steuert das Zwerchfell und ist am Schluckauf beteiligt?",
+     "optionen": [
+      "Nervus phrenicus",
+      "Nervus opticus",
+      "Nervus auditivus"
+     ],
+     "richtig": 0,
+     "erklaerung": "Der Phrenicusnerv verläuft vom Hirnstamm zum Zwerchfell und leitet die Signale für die Muskelbewegung weiter."
+    },
+    {
+     "frage": "Welches Tier nutzt einen vergleichbaren Mechanismus beim Atmen durch Kiemen?",
+     "optionen": [
+      "Kaulquappe",
+      "Regenwurm",
+      "Laubfrosch"
+     ],
+     "richtig": 0,
+     "erklaerung": "Bei Kaulquappen verschließt der Mechanismus die Glottis, damit bei der Kiemenatmung kein Wasser in die Lunge fließt."
+    },
+    {
+     "frage": "An welcher Universität gibt es eine spezielle Beratungsstelle für Patienten mit Dauerschluckauf?",
+     "optionen": [
+      "Universität Heidelberg",
+      "Universität München",
+      "Universität Berlin"
+     ],
+     "richtig": 0,
+     "erklaerung": "Die Universität Heidelberg unterhält ein Therapiezentrum für Menschen mit chronischem Schluckauf."
+    }
+   ],
+   "video": [
+    "Ein Schluckauf entsteht durch eine plötzliche und kräftige Bewegung unseres Zwerchfells.",
+    "Dabei schließen sich die Stimmlippen rasch und erzeugen das bekannte Hicksgeräusch.",
+    "Gesteuert wird diese unwillkürliche Reaktion von langen Nervenbahnen aus unserem Hirnstamm.",
+    "Hastiges Essen oder kohlensäurehaltige Getränke können den Magen überdehnen und den Reflex auslösen.",
+    "Sogar Tiere wie Hunde, Katzen, Robben und Pferde können einen Schluckauf bekommen.",
+    "Bei Kaulquappen schützt ein sehr ähnlicher Reflex die Lunge während der Kiemenatmung.",
+    "Gegen das Hicksen hilft oft das Anhalten der Atemluft für etwa dreißig Sekunden.",
+    "Auch ein Kältereiz durch Eiswasser kann die gereizten Nerven im Rachen wieder beruhigen.",
+    "Warum Menschen diesen Reflex bis heute behalten haben, ist wissenschaftlich noch nicht vollständig geklärt."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Schluckauf",
+    "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
+   },
+   "quelle": {
+    "titel": "Schluckauf",
+    "url": "https://de.wikipedia.org/wiki/Schluckauf",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 445,
+   "bildInfos": [
+    {
+     "titel": "SpongeBob SquarePants logo.png",
+     "beschreibung": "First SpongeBob SquarePants logo",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:SpongeBob_SquarePants_logo.png",
+     "urheber": "Nickelodeon",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "SpongeBob Schwammkopf",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
+    }
+   ],
+   "bildInfo": {
+    "titel": "SpongeBob SquarePants logo.png",
+    "beschreibung": "First SpongeBob SquarePants logo",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:SpongeBob_SquarePants_logo.png",
+    "urheber": "Nickelodeon",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "SpongeBob Schwammkopf",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-ein-metronom",
    "zeit": "2026-10-18T18:13:22.863Z",
@@ -6909,185 +7067,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Pantomime nutzt körperlichen Ausdruck wie Mimik und Gestik ohne Worte."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-eine-sternschnuppe",
-   "zeit": "2026-10-01T05:49:19.484Z",
-   "bereich": "Weltall",
-   "titel": "Wie entsteht eigentlich eine Sternschnuppe?",
-   "vorspann": "Am Nachthimmel sind manchmal aufleuchtende Sternschnuppen zu sehen. Kleine Teilchen aus dem Weltall erzeugen diese Leuchterscheinungen in der Erdatmosphäre.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Als Meteor wird das Aufleuchten von Sternschnuppen bezeichnet, wenn sie als kleine Gesteins- oder Staubteilchen in der Hochatmosphäre verglühen. Bei größerer Helligkeit spricht man von Feuerkugeln oder Boliden. Die wenigen bis zur Erdoberfläche herabfallenden Körper nennt man Meteorite. Die Überreste des Verglühens und die feinsten Meteore ergeben die extraterrestrischen Aerosole. Schätzungen des dauernd herabrieselnden Meteorstaubs reichen von einigen hundert bis 5000 Tonnen pro Tag.",
-      "Fast immer sind die meisten Sternschnuppen in der zweiten Nachthälfte zu sehen. Dann liegt der Beobachter auf der Vorderseite der Erdbewegung um die Sonne. Besonders deutlich wird dies bei der Beobachtung von Meteorschwärmen wie den Perseiden im August oder den Geminiden im Dezember. Das Wort Meteor kommt von altgriechisch metéōros, was in der Luft schwebend bedeutet."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Meteoroide sind meist Staubkörner sowie kleine Metall- oder Gesteinskörner aus dem interplanetaren Raum. Pro Tag fallen etwa zehn Milliarden davon vom Weltall mit einer Gesamtmasse von zehn bis 150 Tonnen in die Erdatmosphäre ein. Wegen ihrer enormen Geschwindigkeit von etwa 11,2 bis 72 Kilometern pro Sekunde verdampfen die meisten in etwa 80 Kilometer Höhe durch Luftreibung. Dabei ionisieren sie die Luftmoleküle, was helle Leuchtspuren hervorruft.",
-      "Der überwiegende Teil der Meteore ist interplanetaren Ursprungs, nur sehr wenige erreichen die Erde aus dem interstellaren Raum. Meteorströme entstehen, wenn die Erde die Flugbahn eines Kometen kreuzt. Da sich die Spuren all dieser Meteore in einem Punkt zu treffen scheinen, sind die Meteorströme nach dem Sternbild benannt, in dem dieser Radiant liegt. Bekannte Meteorströme sind die Quadrantiden im Januar, die Perseiden im Juli und August, die Leoniden im November sowie die Geminiden im Dezember.",
-      "Im volkstümlichen Aberglauben vieler Länder hat jemand, der zufällig eine Sternschnuppe am nächtlichen Himmel sieht, einen Wunsch frei. In Schlesien, der Oberpfalz und in Böhmen existierte zudem der Glaube, dass man dort einen Schatz findet, wo eine Sternschnuppe zur Erde fällt."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Die Erforschung der Meteore hat in der Astronomie eine lange Tradition. Die durch freiäugige Beobachtung oder durch spezielle Meteorkameras ermöglichte Bahnbestimmung gibt Einblick in die Herkunft dieser Kleinkörper. Meteorforschung wird seit etwa der Mitte des 19. Jahrhunderts betrieben. Um 1870 gelang dem Mailänder Astronomen Giovanni Schiaparelli der Nachweis, dass die Meteorströme auf den Zerfall von Kometen zurückgehen."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Meteorstaub pro Tag",
-     "einige hundert bis 5000 Tonnen"
-    ],
-    [
-     "Meteoroide pro Tag in Atmosphäre",
-     "etwa 10 Milliarden"
-    ],
-    [
-     "Masse der Meteoroide pro Tag",
-     "10 bis 150 Tonnen"
-    ],
-    [
-     "Geschwindigkeit der Meteoroide",
-     "11,2 bis 72 km/s"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Meteor",
-     "Das Aufleuchten von Sternschnuppen, wenn sie als kleine Gesteins- oder Staubteilchen in der Hochatmosphäre verglühen."
-    ],
-    [
-     "Meteoroide",
-     "Meist Staubkörner, kleine Metall- oder Gesteinskörner aus dem interplanetaren Raum."
-    ],
-    [
-     "Meteorite",
-     "Die wenigen Körper, die bis zur Erdoberfläche herabfallen."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann sind die meisten Sternschnuppen zu sehen?",
-     "optionen": [
-      "In der ersten Nachthälfte",
-      "In der zweiten Nachthälfte",
-      "Nur am Tage"
-     ],
-     "richtig": 1,
-     "erklaerung": "Fast immer sind die meisten Sternschnuppen in der zweiten Nachthälfte zu sehen, weil der Beobachter dann auf der Vorderseite der Erdbewegung liegt."
-    }
-   ],
-   "video": [
-    "Was ist eigentlich eine Sternschnuppe?",
-    "Kleine Gesteins- oder Staubteilchen aus dem All dringen in die Erdatmosphäre ein.",
-    "Fachleute nennen diese Teilchen Meteoroide.",
-    "Sie rasen mit enormer Geschwindigkeit durch die Luft.",
-    "Durch die starke Reibung verglühen die Teilchen in großer Höhe.",
-    "Dabei entsteht ein helles Aufleuchten am Himmel.",
-    "Dieses Aufleuchten nennen wir Meteor oder Sternschnuppe.",
-    "Manchmal überstehen größere Teile den Flug und treffen als Meteorit auf die Erde."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Meteor",
-    "bildunterschrift": "Eine Sternschnuppe leuchtet auf, wenn ein Teilchen aus dem Weltall in der Atmosphäre verglüht."
-   },
-   "quelle": {
-    "titel": "Meteor",
-    "url": "https://de.wikipedia.org/wiki/Meteor",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 358,
-   "bildInfos": [
-    {
-     "titel": "Meteor, 8.5.2016.jpg",
-     "beschreibung": "Meteor über Sardinien, 8.5.2016.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Meteor%2C_8.5.2016.jpg/1280px-Meteor%2C_8.5.2016.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Meteor%2C_8.5.2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Meteor,_8.5.2016.jpg",
-     "urheber": "Michael Eberth",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Meteor",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Sternschnuppe leuchtet auf, wenn ein Teilchen aus dem Weltall in der Atmosphäre verglüht."
-    },
-    {
-     "titel": "MeteorAccGraph.jpg",
-     "beschreibung": "This diagram shows the acceleration of an idealized (spherical) meteoroid when entering the Earth's atmosphere at different initial velocities. As the density of the atmosphere increases in accord wit",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/MeteorAccGraph.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/MeteorAccGraph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:MeteorAccGraph.jpg",
-     "urheber": "AllenMcC.",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "This diagram shows the acceleration of an idealized (spherical) meteoroid when entering the Earth's atmosphere at different initial velocities. As the density of the atmosphere increases in accord wit"
-    },
-    {
-     "titel": "Meteor burst.jpg",
-     "beschreibung": "This picture is of the Alpha- Monocerotid meteor outburst in 1995. The Perseid meteor shower, usually the richest meteor shower of the year, peaks in August. Over the course of an hour, a person watch",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Meteor_burst.jpg/1280px-Meteor_burst.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Meteor_burst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Meteor_burst.jpg",
-     "urheber": "NASA Ames Research Center/S. Molau and P. Jenniskens",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "This picture is of the Alpha- Monocerotid meteor outburst in 1995. The Perseid meteor shower, usually the richest meteor shower of the year, peaks in August. Over the course of an hour, a person watch"
-    },
-    {
-     "titel": "Perseid meteor 2007.jpg",
-     "beschreibung": "A multicolored Perseid meteor striking the sky just to the right from Milky Way .",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Perseid_meteor_2007.jpg/1280px-Perseid_meteor_2007.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Perseid_meteor_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Perseid_meteor_2007.jpg",
-     "urheber": "Brocken Inaglory",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A multicolored Perseid meteor striking the sky just to the right from Milky Way ."
-    },
-    {
-     "titel": "Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "beschreibung": "Sternschnuppe mit einer Länge vom zwei Bogengrad vom Sternbild Stier (Taurus, rechts oben) durch das Sternbild Eridanus (Eri) bis in das Sternbild Orion im Vergleich zu benachbarten Sternen vierter bi",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sternschnuppe.scheinbare.Helligkeit.P1091635.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "urheber": "Bautsch",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Sternschnuppe mit einer Länge vom zwei Bogengrad vom Sternbild Stier (Taurus, rechts oben) durch das Sternbild Eridanus (Eri) bis in das Sternbild Orion im Vergleich zu benachbarten Sternen vierter bi"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Meteor, 8.5.2016.jpg",
-    "beschreibung": "Meteor über Sardinien, 8.5.2016.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Meteor%2C_8.5.2016.jpg/1280px-Meteor%2C_8.5.2016.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Meteor%2C_8.5.2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Meteor,_8.5.2016.jpg",
-    "urheber": "Michael Eberth",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Meteor",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Sternschnuppe leuchtet auf, wenn ein Teilchen aus dem Weltall in der Atmosphäre verglüht."
    }
   }
  ]
