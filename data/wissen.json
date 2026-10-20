@@ -175,7 +175,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Eine Sternschnuppe leuchtet beim Verglühen in der Erdatmosphäre auf."
-   }
+   },
+   "ton": [
+    {
+     "k": "Eine Sternschnuppe ist ein Meteor am nächtlichen Himmel. Kleine Gesteins- oder S",
+     "d": "a829b8a422.mp3",
+     "l": 29.55,
+     "s": [
+      0.25,
+      3.52,
+      7.74,
+      10.23,
+      13.38,
+      17.63,
+      21.2,
+      24.6
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-das-menschliche-gedaechtnis",
@@ -324,7 +341,25 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Gedächtnis beruht auf neuronalen Lernprozessen im Gehirn."
-   }
+   },
+   "ton": [
+    {
+     "k": "Das menschliche Gedächtnis speichert Informationen und macht sie wieder abrufbar",
+     "d": "2b458d476e.mp3",
+     "l": 45.53,
+     "s": [
+      0.25,
+      4.81,
+      8.98,
+      14.43,
+      20.0,
+      26.19,
+      31.05,
+      35.33,
+      40.73
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-das-herz",
@@ -1235,26 +1270,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Feine Risse in den Fasern führen nach körperlicher Anstrengung zu Entzündungen und Schmerzen im Muskel."
-   },
-   "ton": [
-    {
-     "k": "Nach anstrengendem Sport schmerzen oft die beanspruchten Muskeln. Dieser bekannt",
-     "d": "3391f56213.mp3",
-     "l": 46.57,
-     "s": [
-      0.25,
-      4.09,
-      8.92,
-      14.46,
-      18.31,
-      22.65,
-      27.17,
-      31.08,
-      36.27,
-      41.35
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-bauten-die-roemer-eigentlich-ihre-strassen",

@@ -2270,7 +2270,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 10 und 13 Grad. Die Vorhersage für morgen,",
+   "d": "d691de1f34.mp3",
+   "l": 17.25,
+   "s": [
+    0.25,
+    3.78,
+    8.15,
+    11.63,
+    14.59
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -3387,14 +3399,14 @@
     {
      "k": "In Berlin ist der Investitionsgipfel zu Ende gegangen. Bundeskanzler Friedrich M",
      "d": "8c07cbb102.mp3",
-     "l": 33.39,
+     "l": 34.06,
      "s": [
       0.25,
       3.49,
-      8.71,
-      14.89,
-      17.02,
-      26.7
+      8.84,
+      14.77,
+      17.07,
+      27.18
      ]
     },
     {
@@ -5678,16 +5690,16 @@
     {
      "k": "Vom japanischen Weltraumbahnhof Tanegashima ist eine Trägerrakete ins All gestar",
      "d": "e8da079c37.mp3",
-     "l": 39.31,
+     "l": 38.68,
      "s": [
       0.25,
-      8.19,
-      13.48,
-      16.63,
-      18.71,
-      22.95,
-      27.52,
-      30.18
+      7.86,
+      13.32,
+      16.54,
+      18.83,
+      23.05,
+      27.22,
+      30.06
      ]
     },
     {
@@ -6707,6 +6719,77 @@
      "s": [
       0.25,
       3.56
+     ]
+    },
+    {
+     "k": "Die israelische Polizei hat nach Angaben von ZDFheute, Spiegel, Deutsche Welle u",
+     "d": "52710a6454.mp3",
+     "l": 52.92,
+     "s": [
+      0.25,
+      9.37,
+      13.29,
+      20.21,
+      27.88,
+      34.92,
+      39.17,
+      43.61
+     ]
+    },
+    {
+     "k": "Am Freitag wurde die US-amerikanische Fotojournalistin Heidi Levine von der Zeit",
+     "d": "4c0fce7571.mp3",
+     "l": 46.73,
+     "s": [
+      0.25,
+      7.5,
+      10.68,
+      14.23,
+      19.23,
+      23.71,
+      29.98,
+      41.35
+     ]
+    },
+    {
+     "k": "Israel hält das Westjordanland seit dem Sechstagekrieg im Jahr 1967 besetzt. In ",
+     "d": "983297d6d2.mp3",
+     "l": 42.63,
+     "s": [
+      0.25,
+      6.99,
+      12.85,
+      15.28,
+      18.83,
+      21.58,
+      29.56,
+      34.64
+     ]
+    },
+    {
+     "k": "Die internationalen Reaktionen auf die Angriffe fielen scharf aus. Der US-Botsch",
+     "d": "5895e41d58.mp3",
+     "l": 52.96,
+     "s": [
+      0.25,
+      4.49,
+      12.12,
+      18.22,
+      27.16,
+      31.78,
+      40.41,
+      47.53
+     ]
+    },
+    {
+     "k": "Die festgenommenen Verdächtigen werden nach Angaben der israelischen Polizei und",
+     "d": "ff263b57a6.mp3",
+     "l": 25.53,
+     "s": [
+      0.25,
+      6.13,
+      10.88,
+      14.73
      ]
     }
    ]
