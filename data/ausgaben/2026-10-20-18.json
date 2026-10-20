@@ -1,0 +1,616 @@
+{
+ "id": "2026-10-20-18",
+ "name": "18-Uhr-Ausgabe",
+ "stunde": 18,
+ "zeit": "2026-10-20T16:55:31.168Z",
+ "themen": [
+  {
+   "id": "kanada-militaerbasis-zwischenfall",
+   "titel": "Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben",
+   "rubrik": "Welt",
+   "eil": true,
+   "bilder": [],
+   "ort": {
+    "name": "Wainwright, Kanada",
+    "lat": 52.84,
+    "lon": -110.851
+   },
+   "saetze": [
+    "Auf einem kanadischen Militärstützpunkt in der Provinz Alberta hat ein schwerer Großbrand mindestens vier Soldaten das Leben gekostet.",
+    "Das Unglück ereignete sich am Samstag auf dem Stützpunkt Wainwright.",
+    "Das Feuer breitete sich nach Angaben der Streitkräfte wegen starker Winde in kürzester Zeit aus.",
+    "Nach Berichten von ZDFheute und der BBC wurden zahlreiche Personen verletzt.",
+    "Mindestens 19 Verletzte schweben nach Angaben der Behörden in Lebensgefahr.",
+    "Der kanadische Premierminister Mark Carney nannte den Vorfall eine schwere Tragödie für die Streitkräfte.",
+    "Terrorismus wurde als Ursache nach Angaben von Offiziellen ausgeschlossen.",
+    "Major-General Wade Rutland erklärte, dass die Untersuchungen zur Ursache mindestens einen Monat dauern können.",
+    "Die genaue Ursache des Feuers ist derzeit noch nicht bekannt."
+   ]
+  },
+  {
+   "id": "frankreich-proteste-eskalation",
+   "titel": "Frankreich: Städte verhängen Ausgangssperren nach Ausschreitungen bei Protesten",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
+     "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+     "urheber": "Photo Claude TRUONG-NGOC",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "person",
+     "suchbegriff": "Emmanuel Macron politician",
+     "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Place de la République (Paris), réaménagement, 2013-06-14 18.jpg",
+     "beschreibung": "Restructuration of place de la République (Paris).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg/1280px-Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Place_de_la_R%C3%A9publique_(Paris),_r%C3%A9am%C3%A9nagement,_2013-06-14_18.jpg",
+     "urheber": "Coyau",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Place de la République (Paris)",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Place de la Republique Paris",
+     "bildunterschrift": "Der Platz der Republik in Paris als zentraler Ort in Frankreich.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Avenue des Champs-Élysées July 24, 2009 N1.jpg",
+     "beschreibung": "Avenue des Champs-Élysées view from the Arc de Triomphe",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg/1280px-Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-%C3%89lys%C3%A9es_July_24,_2009_N1.jpg",
+     "urheber": "Josh Hallett",
+     "lizenz": "CC BY-SA 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "artikel": "Avenue des Champs Élysées",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Elysee Palace",
+     "bildunterschrift": "Die Prachtstraße Champs-Élysées in Paris.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Paris, Frankreich",
+    "lat": 48.853,
+    "lon": 2.348
+   },
+   "saetze": [
+    "Nach schweren Ausschreitungen bei Protesten gegen hohe Preise gelten in Frankreich örtliche Ausgangssperren.",
+    "Die Beschränkungen betreffen unter anderem bestimmte Stadtteile von Paris sowie Minderjährige in mehreren Städten.",
+    "Am Wochenende war es bei Demonstrationen landesweit zu Plünderungen und Brandstiftungen gekommen.",
+    "In der Stadt Limoges wurde das historische Rathaus in Brand gesteckt.",
+    "Nach Angaben des Innenministeriums wurden neunhundertsiebenundneunzig Einsatzkräfte der Polizei verletzt.",
+    "Landesweit kamen nach Regierungsangaben mehr als zweitausenddreihundert Menschen in Polizeigewahrsam.",
+    "Frankreichs Innenminister Laurent Nuñez räumte Fehleinschätzungen ein, bot seinen Rücktritt an, blieb aber im Amt.",
+    "Justizminister Gérald Darmanin kritisierte die Sicherheitskräfte und forderte ein härteres Vorgehen gegen Gewalttäter.",
+    "Der französische Handelsminister Serge Papin sprach von mindestens dreitausend beschädigten Geschäften.",
+    "Für den kommenden Samstag kündigte die Protestbewegung der Gelbwesten bereits weitere Kundgebungen an."
+   ]
+  },
+  {
+   "id": "investitionsgipfel-berlin-nvidia",
+   "titel": "Bundesregierung und Nvidia vereinbaren Kooperation bei künstlicher Intelligenz",
+   "rubrik": "Wirtschaft",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Jensen huang stanford 2026-04-30 008.jpg",
+     "beschreibung": "Jensen Huang, founder and CEO of Nvidia, speaks in Stanford University's CS 153 course on April 30, 2026.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg/1280px-Jensen_huang_stanford_2026-04-30_008.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Jensen_huang_stanford_2026-04-30_008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_2026-04-30_008.jpg",
+     "urheber": "Anderseidesvik",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "person",
+     "suchbegriff": "Jensen Huang",
+     "bildunterschrift": "Jensen Huang, der CEO des Technologiekonzerns Nvidia.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "2788-2888 San Tomas Expwy.jpg",
+     "beschreibung": "NVIDIA headquarters at 2788-2888 San Tomas Expressway in Santa Clara, California.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/1280px-2788-2888_San_Tomas_Expwy.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/2788-2888_San_Tomas_Expwy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2788-2888_San_Tomas_Expwy.jpg",
+     "urheber": "Coolcaesar",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Nvidia",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Nvidia",
+     "bildunterschrift": "Hauptsitz von Nvidia in Santa Clara, Kalifornien.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "saetze": [
+    "Die Bundesregierung und der US-Konzern Nvidia arbeiten künftig bei künstlicher Intelligenz enger zusammen.",
+    "Das gaben Bundeskanzler Friedrich Merz und Nvidia-Chef Jensen Huang in Berlin bekannt.",
+    "Dort fand am Montag der erste Investitionsgipfel mit zweihundert Unternehmenschefs statt.",
+    "Wirtschafts- und Forschungsministerium unterzeichneten eine Absichtserklärung für sogenannte physische künstliche Intelligenz.",
+    "Damit sind Rechensysteme gemeint, die direkt in Robotern oder Maschinen eingesetzt werden.",
+    "Medienberichten zufolge plant der Bund eine Förderung in dreistelliger Millionenhöhe für das Projekt.",
+    "Offizielle Angaben zu den genauen staatlichen Kosten machten die Ministerien bisher nicht.",
+    "Nvidia hat nach eigenen Angaben im vergangenen Jahr fast eine Milliarde Dollar in Deutschland investiert.",
+    "Merz und Huang forderten die Betriebe auf, ihre Industriedaten im Inland zu nutzen.",
+    "Die Konferenz in Berlin wird am Dienstag mit weiteren Gesprächen fortgesetzt."
+   ]
+  },
+  {
+   "id": "verbrenner-aus-aufweichung-deutschland-frankreich",
+   "titel": "Kompromiss im Europaparlament zur Reform der CO2-Grenzwerte für Neuwagen",
+   "rubrik": "Wirtschaft",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+     "beschreibung": "The Hemicycle of the European Parliament in Strasbourg during a plenary session in 2014.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg/1280px-European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2c/European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg",
+     "urheber": "Diliff",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "institution",
+     "suchbegriff": "European Parliament building Strasbourg",
+     "bildunterschrift": "Das Europäische Parlament in Straßburg tagt im Plenarsaal.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Straßburg, Frankreich",
+    "lat": 48.585,
+    "lon": 7.751
+   },
+   "saetze": [
+    "Im Europaparlament in Straßburg haben sich Unterhändler auf einen Kompromiss zur Reform der CO2-Grenzwerte geeinigt.",
+    "Das berichtet unter anderem das ARD-Studio Brüssel am zwanzigsten Oktober zweitausendsechsundzwanzig.",
+    "Demnach könnte das für das Jahr zweitausendfünfunddreißig geplante Verbot neuer Verbrennermotoren geändert werden.",
+    "Neuwagen sollen ab dem Jahr zweitausendfünfunddreißig um fünfundneunzig Prozent weniger Treibhausgase ausstoßen im Vergleich zum Jahr zweitausendeinundzwanzig.",
+    "Bei der Verwendung von klimaschonend produziertem Stahl soll der Wert auf achtzig Komma sieben fünf Prozent sinken.",
+    "Dadurch bliebe der Verkauf neuer Verbrenner- und Hybridautos unter bestimmten Bedingungen weiterhin erlaubt.",
+    "Nach Angaben der beteiligten Medien ist die Einigung noch nicht final und muss von den Fraktionen bestätigt werden.",
+    "Das Europaparlament ist die Volksvertretung der Europäischen Union und berät gemeinsam mit dem Rat über Gesetze.",
+    "In den kommenden Wochen beraten und stimmen verschiedene Ausschüsse und das Parlament über den Vorschlag ab.",
+    "Im Dezember soll das Parlament als Ganzes seine Position beschließen."
+   ]
+  },
+  {
+   "id": "afd-hackerangriff",
+   "titel": "Hackerangriff auf E-Mail-Konten der Partei AfD bestätigt",
+   "rubrik": "Deutschland",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Alice Weidel at CPAC Hungary.jpg",
+     "beschreibung": "Alice Weidel",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg/1280px-Alice_Weidel_at_CPAC_Hungary.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Alice_Weidel_at_CPAC_Hungary.jpg",
+     "urheber": "Elekes Andor",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Alice Weidel",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Alice Weidel politician",
+     "bildunterschrift": "Alice Weidel, Politikerin der Partei AfD.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Deutschland",
+    "lat": 51.164,
+    "lon": 10.448
+   },
+   "saetze": [
+    "Die Partei AfD hat einen Hackerangriff auf ihre E-Mail-Konten bestätigt.",
+    "Der Vorfall ereignete sich nach Angaben der Partei im September.",
+    "Dabei wurden Daten von einem externen Hosting-Dienstleister kopiert.",
+    "Nach Angaben der AfD waren vor allem ältere Postfächer betroffen, die nicht mehr genutzt wurden.",
+    "Aktuelle E-Mail-Postfächer des Bundesverbands seien nicht betroffen gewesen, teilte die Partei mit.",
+    "Im Internet haben Unbekannte angeblich rund vierhunderteinundzwanzigtausend E-Mails und persönliche Dokumente veröffentlicht.",
+    "Ob diese veröffentlichten Daten echt sind, ist laut Berichten von Tagesschau und ZDFheute unklar.",
+    "Die AfD prüft die Online-Veröffentlichung der Daten derzeit.",
+    "ZDFheute berichtet zudem über eine generelle Zunahme von Cyberangriffen auf digitalem Weg.",
+    "Wie die genaue Herkunft der Daten aussieht, wird nun weiter untersucht."
+   ]
+  },
+  {
+   "id": "berliner-sondierungsgespraeche-unterbrochen",
+   "titel": "Parteigremien der Berliner Grünen und SPD stimmen für Koalitionsverhandlungen mit der Linkspartei",
+   "rubrik": "Deutschland",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Abgeordnetenhaus von Berlin November 2013.jpg",
+     "beschreibung": "Preußischer Landtag building in Berlin. Today home to the Abgeordnetenhaus of Berlin, the state parliament (Landtag).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Abgeordnetenhaus_von_Berlin_November_2013.jpg/1280px-Abgeordnetenhaus_von_Berlin_November_2013.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/Abgeordnetenhaus_von_Berlin_November_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Abgeordnetenhaus_von_Berlin_November_2013.jpg",
+     "urheber": "Arild Vågen",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "ort",
+     "suchbegriff": "Berlin Abgeordnetenhaus building",
+     "bildunterschrift": "Das Gebäude des Abgeordnetenhauses von Berlin.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Rotes Rathaus in Berlin-Mitte.jpg",
+     "beschreibung": "Das Rote Rathaus ist ein Verwaltungsgebäude an der Rathausstraße im historischen Zentrum Berlins im Ortsteil Mitte. Als Berliner Rathaus war es einst der Sitz des Berliner Magistrats und ist seit 1992",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Rotes_Rathaus_in_Berlin-Mitte.jpg/1280px-Rotes_Rathaus_in_Berlin-Mitte.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rotes_Rathaus_in_Berlin-Mitte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Rotes_Rathaus_in_Berlin-Mitte.jpg",
+     "urheber": "Duden-Dödel",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Rotes Rathaus",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Rotes Rathaus Berlin",
+     "bildunterschrift": "Das Rote Rathaus in Berlin-Mitte.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "saetze": [
+    "Die Parteigremien der Berliner Grünen und der SPD haben sich für Koalitionsverhandlungen mit der Linkspartei ausgesprochen.",
+    "Das gaben die Parteien am neunzehnten Oktober zweitausendsechsundzwanzig bekannt.",
+    "Auf einem kleinen Parteitag stimmten dreiundvierzig von fünfundvierzig Delegierten der Grünen für die Gespräche.",
+    "Nach Angaben von Parteiangaben stimmten im SPD-Landesvorstand sechsundzwanzig Mitglieder für die Aufnahme und drei dagegen.",
+    "Die Linkspartei will erst am einunddreißigsten Oktober auf einem Parteitag über den Beginn entscheiden.",
+    "Bei der Wahl zum Abgeordnetenhaus am zwanzigsten September war die Linkspartei mit fünfundzwanzig Komma sieben Prozent stärkste Kraft geworden.",
+    "Nach Berichten von ZDFheute kritisieren Politiker der Union und Bundestagsabgeordnete der SPD das geplante Bündnis scharf.",
+    "In dem gemeinsamen Sondierungspapier ist unter anderem die Vergesellschaftung großer Immobilienkonzerne vorgesehen.",
+    "SPD-Generalsekretär Tim Klüssendorf verteidigte dagegen die eigenständige Entscheidung der Berliner Landespartei.",
+    "Sollten die Verhandlungen erfolgreich sein, könnte Anfang November eine neue Regierung entstehen."
+   ]
+  },
+  {
+   "id": "marsmond-mission-japan-deutschland",
+   "titel": "Start einer japanischen Raumfahrtmission zum Marsmond Phobos",
+   "rubrik": "Wissen & Klima",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "MMX-CG02.jpg",
+     "beschreibung": "JAXA's explorer MMX. CG on 2019. Rotated and clopped from original.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/MMX-CG02.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/6a/MMX-CG02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:MMX-CG02.jpg",
+     "urheber": "This work is licensed under the Government of Japan Standard Terms of Use (Ver.2.0) . The ",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Martian Moons eXploration",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Yasuhiro Kawakatsu",
+     "bildunterschrift": "Grafische Darstellung der Raumsonde MMX für die Mission zu den Marsmonden.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "H-IIB F2 launching HTV2.jpg",
+     "beschreibung": "H-IIB Launch Vehicle Flight 2, launching H-II Transfer Vehicle \"KOUNOTORI 2\" (HTV2).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/H-IIB_F2_launching_HTV2.jpg/1280px-H-IIB_F2_launching_HTV2.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/H-IIB_F2_launching_HTV2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:H-IIB_F2_launching_HTV2.jpg",
+     "urheber": "Naritama (NARITA Masahiro)",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Tanegashima Space Center",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Tanegashima Space Center",
+     "bildunterschrift": "Ansicht des Tanegashima Space Center in Japan.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Tanegashima, Japan",
+    "lat": 30.592,
+    "lon": 130.996
+   },
+   "saetze": [
+    "Vom japanischen Weltraumbahnhof Tanegashima ist eine Trägerrakete ins All gestartet.",
+    "Die Rakete brachte eine Raumsonde in Richtung des Marsmondes Phobos.",
+    "An Bord der Sonde befindet sich der deutsch-französische Rover Idefix.",
+    "Das teilten mehrere Medien übereinstimmend mit.",
+    "Die Raumsonde soll im kommenden Jahr den Mars erreichen und den Mond umkreisen.",
+    "Im Jahr zweitausendneunundzwanzig soll Idefix auf dem Mond landen und Bodenproben sammeln.",
+    "Nach Angaben der japanischen Raumfahrtbehörde Jaxa sollen im Jahr zweitausendhunderteinunddreißig erstmals Proben von Phobos zur Erde gebracht werden.",
+    "Der Missionsleiter Yasuhiro Kawakatsu bezeichnete die Probenentnahme als Weltpremiere.",
+    "Die Mission soll helfen zu klären, wie die Marsmonde entstanden sind."
+   ]
+  },
+  {
+   "id": "siedlergewalt-westjordanland",
+   "titel": "Festnahmen nach gewaltsamen Übergriffen im Westjordanland",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Seat of the European External Action Service 20090705.jpg",
+     "beschreibung": "Seat of the European External Action Service 20090705",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Seat_of_the_European_External_Action_Service_20090705.jpg/1280px-Seat_of_the_European_External_Action_Service_20090705.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seat_of_the_European_External_Action_Service_20090705.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Seat_of_the_European_External_Action_Service_20090705.jpg",
+     "urheber": "JLogan",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "institution",
+     "suchbegriff": "European External Action Service building",
+     "bildunterschrift": "Das Gebäude des Europäischen Auswärtigen Dienstes steht für die diplomatischen Vertreter der Europäischen Union.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Westjordanland",
+    "lat": 32.285,
+    "lon": 35.301
+   },
+   "saetze": [
+    "Im Westjordanland hat die israelische Polizei zehn Verdächtige festgenommen.",
+    "Grund dafür sind schwere Gewalttaten an einem Wochenende.",
+    "Unter anderem wurde eine US-amerikanische Fotojournalistin bei ihrer Arbeit angegriffen und verletzt.",
+    "Auch europäische Diplomaten wurden bei dem Dorf Taybeh attackiert.",
+    "Die Angriffe richteten sich gegen Menschen, die an der palästinensischen Olivenernte teilnahmen.",
+    "Nach Angaben der Medien wurden bei dem Einsatz Fahrzeuge und Gegenstände beschlagnahmt.",
+    "Die Taten lösten international scharfe Kritik und Forderungen nach Konsequenzen aus.",
+    "Während der israelische Präsident sich entschuldigte, äußerte sich Premierminister Benjamin Netanjahu skeptisch zu den Vorwürfen.",
+    "Das Westjordanland steht seit dem Sechstagekrieg im Jahr neunzehnshundert siebenundsechzig unter israelischer Besatzung.",
+    "Die Verdächtigen sollen nach den polizeilichen Ermittlungen einem Gericht vorgeführt werden."
+   ]
+  },
+  {
+   "id": "flughafen-leipzig-sicherheitsvorfall",
+   "titel": "Sicherheitsvorfall am Flughafen Leipzig/Halle: Tatverdächtige stellen sich nach Zaunbeschädigung",
+   "rubrik": "Deutschland",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Karte Mitteldeutsche Schleife.png",
+     "beschreibung": "Mitteldeutsche Schleife",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Karte_Mitteldeutsche_Schleife.png/1280px-Karte_Mitteldeutsche_Schleife.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Karte_Mitteldeutsche_Schleife.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Karte_Mitteldeutsche_Schleife.png",
+     "urheber": "Alabasterstein",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Ballungsraum Leipzig-Halle",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Leipzig Halle Airport",
+     "bildunterschrift": "Eine Karte zeigt das Gebiet um den Flughafen Leipzig/Halle.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "BCA airport Security fence 3 .jpg",
+     "beschreibung": "Fence with less security at Gustavo Rizo Airport (BCA)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/BCA_airport_Security_fence_3_.jpg/1280px-BCA_airport_Security_fence_3_.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/BCA_airport_Security_fence_3_.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:BCA_airport_Security_fence_3_.jpg",
+     "urheber": "Sarang",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "suchbegriff": "Airport security fence",
+     "bildunterschrift": "Ein Sicherheitszaun an einem Flughafen als Symbol für die Umzäunung des Geländes.",
+     "hinweis": "Symbolbild"
+    },
+    {
+     "titel": "Eurocopter EC 155B1 Dauphin, Germany - Police JP7199794.jpg",
+     "beschreibung": "Eurocopter EC 155B1 Dauphin, Germany - Police JP7199794",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Eurocopter_EC_155B1_Dauphin%2C_Germany_-_Police_JP7199794.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Eurocopter_EC_155B1_Dauphin%2C_Germany_-_Police_JP7199794.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Eurocopter_EC_155B1_Dauphin,_Germany_-_Police_JP7199794.jpg",
+     "urheber": "Pedro Aragão",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Airbus Helicopters H155",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "German Federal Police",
+     "bildunterschrift": "Ein Hubschrauber der Bundespolizei, wie sie bei Sicherheitsvorfällen im Einsatz ist.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Leipzig/Halle, Deutschland",
+    "lat": 51.421,
+    "lon": 12.23
+   },
+   "saetze": [
+    "Nach einem beschädigten Sicherheitszaun am Flughafen Leipzig/Halle haben sich zwei Männer der Polizei gestellt.",
+    "Der Vorfall hatte sich nach Angaben der Behörden in der Nacht zum Sonntag ereignet.",
+    "Ein zwanzigjähriger Mann und ein zweiunddreißigjähriger Mann meldeten sich am Sonntagabend mit ihren Anwälten.",
+    "Nach Angaben der Polizei verlor der jüngere Mann die Kontrolle über ein Auto und fuhr in den Zaun.",
+    "Die Polizei und die Staatsanwaltschaft ermitteln nun gegen den zwanzigjährigen Fahrer wegen Unfallflucht und Fahrens ohne Fahrerlaubnis.",
+    "Gegen den älteren Mann wird ermittelt, weil er das Fahren ohne Fahrerlaubnis zugelassen haben könnte.",
+    "Nach Angaben aus Sicherheitskreisen übten die Männer mit dem Auto für eine Fahrprüfung.",
+    "Der Flughafen sperrte die Nordbahn vorübergehend, wickelte den Flugverkehr jedoch über die Südbahn ab.",
+    "Die Ermittlungen der Behörden zu dem Vorfall dauern weiter an."
+   ]
+  },
+  {
+   "id": "trump-russland-sanktionen-ausgesetzt",
+   "titel": "Trump verteidigt Aussetzen von Russland-Sanktionen und verweist auf Verhandlungen",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Donald Trump official portrait.jpg",
+     "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+     "urheber": "Shealeah Craighead",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "Donald Trump official portrait",
+     "bildunterschrift": "US-Präsident Donald Trump.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Владимир Зеленский (53700301709).jpg",
+     "beschreibung": "Cropped version of press photo of Ukraine's President Volodymyr Zelensky wearing traditional Ukrainian attire, published in connection with the president's Easter greetings in May 2024: Great People o",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%2853700301709%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%2853700301709%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_(53700301709).jpg",
+     "urheber": "Volodymyr Zelensky",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "artikel": "Wolodymyr Selenskyj",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Volodymyr Zelenskyy",
+     "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Official portrait of Secretary Marco Rubio, January 2025.jpg",
+     "beschreibung": "Official portrait of Secretary Marco Rubio, January 2025. (Official State Department photo)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg/1280px-Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Official_portrait_of_Secretary_Marco_Rubio%2C_January_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Secretary_Marco_Rubio,_January_2025.jpg",
+     "urheber": "U.S. Department of State",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "Marco Rubio official portrait",
+     "bildunterschrift": "Der US-amerikanische Außenminister Marco Rubio.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "saetze": [
+    "Donald Trump hat das vorläufige Aussetzen von beschlossenen Russland-Sanktionen verteidigt.",
+    "Der US-Präsident erklärte im Internet, er wolle Moskau an Verhandlungstischen halten.",
+    "Er verhandele aktuell über ein Ende des Kriegs in der Ukraine.",
+    "Die neuen Strafmaßnahmen wurden kurz vor ihrem Inkrafttreten für sechzig Tage gestoppt.",
+    "US-Außenminister Marco Rubio begründete das mit einer genauen Prüfung der wirtschaftlichen Folgen.",
+    "Zuvor hatten Washington und Moskau zudem einen Vertrag über Diesellieferungen geschlossen.",
+    "Der ukrainische Präsident Wolodymyr Selenskyj nannte ein Abrücken der USA einen historischen Fehler.",
+    "Auch in den Vereinigten Staaten kritisierten mehrere Abgeordnete der Republikaner den Schritt.",
+    "Russische Regierungsvertreter lobten die Entscheidung hingegen als wichtigen Moment für die Wirtschaft.",
+    "Offen bleibt, ob ein von Moskau vorgeschlagenes Treffen mit China im November stattfindet."
+   ]
+  },
+  {
+   "id": "einziger-neues-thema-2",
+   "titel": "Papst Leo XIV. zeigt sich nach Lungenkrebs-Operation wieder Gläubigen im Vatikan",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Leo XIV (13 October 2025).jpg",
+     "beschreibung": "Pope Leo XIV, photographed in October 2025 during an audience with President of Brazil Luiz Inácio Lula da Silva in the Vatican",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Leo_XIV_%2813_October_2025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg",
+     "urheber": "Ricardo Stuckert",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Leo XIV.",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Pope Leo XIV",
+     "bildunterschrift": "Papst Leo XIV., bei dem ein Lungenadenokarzinom festgestellt wurde.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "2013-06-18 Roma Policlinico Gemelli.jpg",
+     "beschreibung": "Agostino Gemelli university hospital, part of the Università Cattolica del Sacro Cuore (Catholic University of the Holy Heart of Jesus). The statue on front is a marble monument to the late John Paul ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/2013-06-18_Roma_Policlinico_Gemelli.jpg/1280px-2013-06-18_Roma_Policlinico_Gemelli.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a1/2013-06-18_Roma_Policlinico_Gemelli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2013-06-18_Roma_Policlinico_Gemelli.jpg",
+     "urheber": "Blackcat",
+     "lizenz": "CC BY-SA 3.0 it",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/it/deed.en",
+     "artikel": "Gemelli-Klinik",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Policlinico Agostino Gemelli",
+     "bildunterschrift": "Das Universitätskrankenhaus Agostino Gemelli in Rom.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Flag of Vatican City - 1929 Fundamental Law of Vatican City State, p. 35 (cleaned up).png",
+     "beschreibung": "Flag of Vatican City - 1929 Fundamental Law of Vatican City State, p. 35. I have made a slight clean up: I have removed some little black dots that were obviously here by mistake on the scan.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Vatican_City_-_1929_Fundamental_Law_of_Vatican_City_State%2C_p._35_%28cleaned_up%29.png/1280px-Flag_of_Vatican_City_-_1929_Fundamental_Law_of_Vatican_City_State%2C_p._35_%28cleaned_up%29.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Vatican_City_-_1929_Fundamental_Law_of_Vatican_City_State%2C_p._35_%28cleaned_up%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Flag_of_Vatican_City_-_1929_Fundamental_Law_of_Vatican_City_State,_p._35_(cleaned_up).png",
+     "urheber": "Vatican City",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "suchbegriff": "Vatican City flag",
+     "bildunterschrift": "Die Flagge des Staatsschutzes der Vatikanstadt.",
+     "hinweis": "Symbolbild"
+    }
+   ],
+   "ort": {
+    "name": "Vatikanstadt, Vatikanstadt",
+    "lat": 41.901,
+    "lon": 12.451
+   },
+   "saetze": [
+    "Papst Leo der Vierzehnte hat sich nach einer Operation an der Lunge den Gläubigen gezeigt.",
+    "Das Kirchenoberhaupt sprach am Sonntag das traditionelle Mittagsgebet vom Fenster des Apostolischen Palastes.",
+    "Zuvor war der Papst fünf Tage lang in einer Klinik in Rom behandelt worden.",
+    "Dort hatten Chirurgen einen bösartigen Tumor aus seinem rechten Lungenflügel entfernt.",
+    "Der Papst bedankte sich bei den Gläubigen für ihre Unterstützung und ihre vielen Gebete.",
+    "Nach Angaben seines Arztes soll er in etwa zehn Tagen wieder vollständig genesen sein.",
+    "Die Berichte nennen unterschiedliche Zahlen von mindestens fünfzehntausend bis zu über dreißigtausend Besuchern.",
+    "Noch ist unklar, ob der Krebs im Körper gestreut hat.",
+    "Der Papst kündigte an, seine Amtsgeschäfte nun schrittweise wieder aufzunehmen.",
+    "Im November plant er weiterhin eine Auslandsreise nach Südamerika."
+   ]
+  },
+  {
+   "id": "indien-massenpanik-durga-puja",
+   "titel": "Massenpanik bei religiösem Fest in Indien",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [],
+   "ort": {
+    "name": "Kolkata, Indien",
+    "lat": 22.573,
+    "lon": 88.364
+   },
+   "saetze": [
+    "Bei einer Massenpanik während eines religiösen Festes in Indien starben mindestens siebzehn Menschen.",
+    "Das Unglück ereignete sich am Samstagabend in der indischen Millionenstadt Kolkata.",
+    "Dort feiern Menschen zurzeit das hinduistische Durga-Puja-Fest zu Ehren einer Göttin.",
+    "Wegen plötzlichen Regens suchten viele Menschen Schutz an einem Ausgang eines Festpavillons.",
+    "Dabei brach nach Angaben von Medien und Polizei eine Massenpanik aus.",
+    "Zahlreiche Personen erlitten Verletzungen und mussten in Krankenhäuser gebracht werden.",
+    "Der Regierungschef des Bundesstaates Westbengalen, Suvendu Adhikari, bestätigte die Zahl der Todesopfer.",
+    "Der indische Premierminister Narendra Modi bezeichnete den Vorfall nach Angaben der BBC als tragisch.",
+    "Die regionale Regierung leistet den betroffenen Familien nach Regierungsangaben Hilfe.",
+    "Das Fest läuft trotz des Unglücks noch bis zum einfundzwanzigsten Oktober weiter."
+   ]
+  }
+ ]
+}
