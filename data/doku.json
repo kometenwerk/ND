@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-20T11:28:05.884Z",
+ "stand": "2026-10-20T20:33:01.246Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -183,7 +183,62 @@
     "wikipedia": "Myzel",
     "fokus": "Dieses Kapitel beschreibt das unterirdische Geflecht als eigentlichen Hauptteil des Pilzes.",
     "versuche": 1,
-    "zuDuenn": 2
+    "zuDuenn": 3,
+    "absaetze": [
+     "Nachdem wir im letzten Kapitel gelernt haben was Pilze überhaupt sind betrachten wir nun den verborgenen Körper im Boden.",
+     "Das Myzel ist die Gesamtheit aller Hyphen beziehungsweise der fadenförmigen Zellen eines Pilzes.",
+     "Die einzelnen Hyphen sind meistens mit bloßem Auge nicht zu erkennen.",
+     "Der eigentliche Pilz ist bei Speisepilzen überwiegend das feine aus Hyphen bestehende Myzel im Boden.",
+     "Pilzmycele können eine Größe von über einem Quadratkilometer erreichen.",
+     "Im Malheur National Forest erstreckt sich ein individuelles Hallimasch Myzel über eine Fläche von neun Quadratkilometern.",
+     "Es gilt mit einem geschätzten Alter von zweitausendvierhundert Jahren und einer Masse von rund sechshundert Tonnen als größtes Lebewesen der Erde.",
+     "Viele Pilze nutzen ihr Myzel um elektrische Impulse zu leiten.",
+     "Eine Theorie besagt dass der Zweck der elektrischen Signale in der Übertragung von Informationen liegt.",
+     "Die gemessenen elektrischen Amplituden reichen von null Komma null drei Millivolt bis hin zu zwei Komma eins Millivolt.",
+     "Nun gehen wir zum nächsten Kapitel über und erfahren mehr über die Zucht von Pilzen."
+    ],
+    "fakten": [
+     [
+      "Fläche Hallimasch Myzel",
+      "neun Quadratkilometer"
+     ],
+     [
+      "Alter Hallimasch Myzel",
+      "zweitausendvierhundert Jahre"
+     ],
+     [
+      "Masse Hallimasch Myzel",
+      "sechshundert Tonnen"
+     ],
+     [
+      "Amplituden Minimum",
+      "null Komma null drei Millivolt"
+     ],
+     [
+      "Amplituden Maximum",
+      "zwei Komma eins Millivolt"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Myzel",
+      "Das Myzel ist die Gesamtheit aller fadenförmigen Zellen eines Pilzes."
+     ],
+     [
+      "Hyphen",
+      "Hyphen sind die einzelnen fadenförmigen Zellen eines Pilzes."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Mycel",
+     "bildunterschrift": "Ein Myzel zeigt sich als feines Geflecht aus Hyphen im verborgenen Substrat."
+    },
+    "quelle": {
+     "titel": "Mycel",
+     "url": "https://de.wikipedia.org/wiki/Mycel"
+    },
+    "woerter": 162
    },
    {
     "ueberschrift": "Die Entstehung der Fruchtkörper",
