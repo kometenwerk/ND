@@ -2,150 +2,136 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Tue, 20 Oct 2026 16:55:31 GMT</lastBuildDate>
-  <generator>Nachrichten-Heft</generator>
+  <lastBuildDate>Tue, 20 Oct 2026 20:12:05 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
-  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <item>
+    <title>Koalitionsverhandlungen in Berlin bei Grünen und SPD</title>
+    <description>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</description>
+    <itunes:summary>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</itunes:summary>
+    <pubDate>Tue, 20 Oct 2026 20:12:05 +0000</pubDate>
+    <guid isPermaLink="false">podcast-berliner-sondierungsgespraeche-unterbrochen</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-berliner-sondierungsgespraeche-unterbrochen.mp3" length="2658477" type="audio/mpeg"/>
+    <itunes:duration>00:05:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Hauptausgabe vom 2026-10-20</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Ausgangssperren nach gewaltsamen Ausschreitungen in Frankreich · Parteigremien der Berliner Grünen und SPD stimmen für Koalitionsverhandlungen mit der Linkspartei · Start einer japanischen Raumfahrtmission zum Marsmond Phobos · Bundesregierung vereinbart Partnerschaft mit Chiphersteller Nvidia</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Ausgangssperren nach gewaltsamen Ausschreitungen in Frankreich · Parteigremien der Berliner Grünen und SPD stimmen für Koalitionsverhandlungen mit der Linkspartei · Start einer japanischen Raumfahrtmission zum Marsmond Phobos · Bundesregierung vereinbart Partnerschaft mit Chiphersteller Nvidia</itunes:summary>
-    <pubDate>Tue, 20 Oct 2026 05:58:23 GMT</pubDate>
+    <pubDate>Tue, 20 Oct 2026 05:58:23 +0000</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-20</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-20.mp3" length="3872253" type="audio/mpeg"/>
     <itunes:duration>00:10:45</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Vorfall am Flughafen Leipzig-Halle und die Ermittlungen</title>
     <description>Nach einem Zaundurchbruch am Flughafen Leipzig-Halle haben sich zwei Tatverdächtige gestellt. Die Hintergründe des Vorfalls und mögliche Zusammenhänge mit früheren Ereignissen bleiben Gegenstand der Ermittlungen.</description>
     <itunes:summary>Nach einem Zaundurchbruch am Flughafen Leipzig-Halle haben sich zwei Tatverdächtige gestellt. Die Hintergründe des Vorfalls und mögliche Zusammenhänge mit früheren Ereignissen bleiben Gegenstand der Ermittlungen.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 21:17:35 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 21:17:35 +0000</pubDate>
     <guid isPermaLink="false">podcast-flughafen-leipzig-sicherheitsvorfall</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-flughafen-leipzig-sicherheitsvorfall.mp3" length="6589869" type="audio/mpeg"/>
     <itunes:duration>00:13:44</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert das Herz?</title>
     <description>Das Herz ist ein muskuläres Hohlorgan, das Blut durch den Körper pumpt. Es sichert so die Versorgung aller Organe.</description>
     <itunes:summary>Das Herz ist ein muskuläres Hohlorgan, das Blut durch den Körper pumpt. Es sichert so die Versorgung aller Organe.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 15:36:30 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 15:36:30 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-das-herz</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/c4a63b4705.mp3" length="178221" type="audio/mpeg"/>
     <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Schluckauf?</title>
     <description>Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.</description>
     <itunes:summary>Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 07:51:36 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 07:51:36 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-schluckauf</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/800524ff8e.mp3" length="289965" type="audio/mpeg"/>
     <itunes:duration>00:00:48</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Ausschreitungen und Festnahmen in Frankreich</title>
     <description>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</description>
     <itunes:summary>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 18:53:19 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 18:53:19 +0000</pubDate>
     <guid isPermaLink="false">podcast-frankreich-proteste-eskalation</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-frankreich-proteste-eskalation.mp3" length="3699309" type="audio/mpeg"/>
     <itunes:duration>00:07:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich ein Metronom?</title>
     <description>Ein Metronom gibt in der Musik ein genaues Tempo vor. Dabei schlägt es in gleichmäßigen Zeitintervallen.</description>
     <itunes:summary>Ein Metronom gibt in der Musik ein genaues Tempo vor. Dabei schlägt es in gleichmäßigen Zeitintervallen.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 18:13:22 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 18:13:22 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-metronom</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/335e905f73.mp3" length="161517" type="audio/mpeg"/>
     <itunes:duration>00:00:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hintergründe zum reflexartigen Gähnen bei Mensch und Tier</title>
     <description>Gähnen ist ein reflexartiges Verhalten, das bei Menschen und vielen Tieren vorkommt. Die genauen Ursachen und Zwecke sind in der Wissenschaft bisher nicht eindeutig geklärt.</description>
     <itunes:summary>Gähnen ist ein reflexartiges Verhalten, das bei Menschen und vielen Tieren vorkommt. Die genauen Ursachen und Zwecke sind in der Wissenschaft bisher nicht eindeutig geklärt.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 14:39:25 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 14:39:25 +0000</pubDate>
     <guid isPermaLink="false">wissen-hintergruende-zum-reflexartigen-gaehnen-bei-mensch-und-tier</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/1143232362.mp3" length="160653" type="audio/mpeg"/>
     <itunes:duration>00:00:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Muskelkater?</title>
     <description>Nach anstrengendem Sport schmerzen oft die Muskeln, meistens jedoch erst viele Stunden später. Die Ursache dafür liegt in winzigen Rissen im Gewebe und nicht an einer Übersäuerung.</description>
     <itunes:summary>Nach anstrengendem Sport schmerzen oft die Muskeln, meistens jedoch erst viele Stunden später. Die Ursache dafür liegt in winzigen Rissen im Gewebe und nicht an einer Übersäuerung.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 11:14:40 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 11:14:40 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-muskelkater</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/3391f56213.mp3" length="279885" type="audio/mpeg"/>
     <itunes:duration>00:00:47</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Trumps Dekret stoppt Russland-Sanktionen vorerst</title>
     <description>US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.</description>
     <itunes:summary>US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.</itunes:summary>
-    <pubDate>Sat, 17 Oct 2026 18:50:31 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 18:50:31 +0000</pubDate>
     <guid isPermaLink="false">podcast-trump-russland-sanktionen-ausgesetzt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-trump-russland-sanktionen-ausgesetzt.mp3" length="6780909" type="audio/mpeg"/>
     <itunes:duration>00:14:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Bundestag beschließt Einführung der Frühstartrente für Kinder</title>
     <description>Der Bundestag hat die Einführung der Frühstartrente beschlossen. Wir besprechen die Hintergründe, Zahlen und offenen Fragen zur privaten Altersvorsorge für Kinder.</description>
     <itunes:summary>Der Bundestag hat die Einführung der Frühstartrente beschlossen. Wir besprechen die Hintergründe, Zahlen und offenen Fragen zur privaten Altersvorsorge für Kinder.</itunes:summary>
-    <pubDate>Fri, 16 Oct 2026 19:46:00 GMT</pubDate>
+    <pubDate>Fri, 16 Oct 2026 19:46:00 +0000</pubDate>
     <guid isPermaLink="false">podcast-fruehstartrente-bundestag</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-fruehstartrente-bundestag.mp3" length="2710701" type="audio/mpeg"/>
     <itunes:duration>00:05:39</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wirtschaftspreis in Stockholm geht an Hall und Woodford</title>
     <description>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</description>
     <itunes:summary>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</itunes:summary>
-    <pubDate>Thu, 15 Oct 2026 20:02:46 GMT</pubDate>
+    <pubDate>Thu, 15 Oct 2026 20:02:46 +0000</pubDate>
     <guid isPermaLink="false">podcast-wirtschaftsnobelpreis-2026</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-wirtschaftsnobelpreis-2026.mp3" length="7694061" type="audio/mpeg"/>
     <itunes:duration>00:16:02</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Sachsen-Anhalt fordert Stopp von Ukraine-Hilfen und Sanktionen</title>
-    <description>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</description>
-    <itunes:summary>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</itunes:summary>
-    <pubDate>Wed, 14 Oct 2026 20:21:14 GMT</pubDate>
-    <guid isPermaLink="false">podcast-sachsen-anhalt-ukraine-hilfen</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-sachsen-anhalt-ukraine-hilfen.mp3" length="6784173" type="audio/mpeg"/>
-    <itunes:duration>00:14:08</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
