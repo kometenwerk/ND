@@ -1,6 +1,131 @@
 {
- "stand": "2026-10-21T10:04:19.640Z",
+ "stand": "2026-10-21T15:12:27.328Z",
  "stuecke": [
+  {
+   "id": "wie-entstand-eigentlich-unser-mond",
+   "zeit": "2026-10-21T15:23:12.718Z",
+   "bereich": "Weltall",
+   "titel": "Wie entstand eigentlich unser Mond?",
+   "vorspann": "Seit Jahrhunderten wird diskutiert, wie der Mond der Erde entstanden ist. Seit Mitte der 1980er Jahre gilt die Kollisionstheorie als die am weitesten verbreitete Erklärung.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Entstehung des Mondes wird seit Jahrhunderten diskutiert. Im Sonnensystem gibt es keinen weiteren Trabanten, der eine ähnliche Größe im Vergleich zu dem von ihm umkreisten Planeten aufweist. Von den mehr als 400 anderen bekannten Monden des Sonnensystems sind vermutlich keine durch Kollisionen entstanden. Die meisten Monde sind ebenso wie die Planeten durch Akkretion direkt aus der protoplanetaren Scheibe entstanden. Manche Monde wurden erst später von Planeten eingefangen.",
+      "Im Laufe der Zeit sind mehrere Theorien zur Entstehung des Erde-Mond-Systems entwickelt worden. Dazu gehören die Abspaltungstheorie, die Einfangtheorie und die Schwesterplanet-Theorie. Weitere Ansätze sind die Öpik-Theorie, die Viele-Monde-Theorie und die Kollisionstheorie. Jede dieser Theorien versucht, die Eigenschaften des Mondes und des gesamten Systems zu erklären. Ein gutes Modell muss mit diesen physikalischen Eigenschaften vereinbar sein."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Nach der Kollisionstheorie kollidierte in der Frühphase der Planetenentwicklung ein etwa marsgroßer Protoplanet namens Theia mit der Proto-Erde. Diese Kollision erfolgte streifend, sodass große Materiemengen in den Erdorbit geschleudert wurden. Im Orbit bildete sich rasch der Proto-Mond, der alle restlichen Trümmer einsammelte. Nach knapp 10.000 Jahren soll er sich zum Mond mit annähernd heutiger Masse verdichtet haben.",
+      "Die Abspaltungstheorie besagt, dass sich von einer schnell rotierenden Proto-Erde ein Tropfen abspnürte und den späteren Mond bildete. Die Einfangtheorie besagt laut Thomas Jefferson Jackson See, dass sich der Mond an einem anderen Ort bildete und bei einer engen Begegnung eingefangen wurde. Nach der Schwesterplanet-Theorie bildeten sich Erde und Mond gleichzeitig und nahe beisammen aus einer gemeinsamen Verdichtung. Die Öpik-Theorie geht von einer stark aufgeheizten Proto-Erde aus, die große Materiemengen abdampfte."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Wissenschaftler nutzen verschiedene Überlegungen und Methoden, um die Entstehung zu erforschen. William K. Hartmann und Donald R. Davis entwickelten 1975 die Kollisionstheorie und nutzten Computersimulationen. Edward Belbruno und John Richard Gott III veröffentlichten 2005 Berechnungen zur Entstehung von Theia im Lagrangepunkt L4 oder L5. Auch Gesteinsproben von Apollo-Missionen trugen zur Überprüfung von Theorien bei.",
+      "Frühere Vorschläge stammten von René Descartes, George Howard Darwin oder Immanuel Kant. Reginald Aldworth Daly schlug 1946 einen Ursprung in einer kosmischen Katastrophe vor. Den Durchbruch für die Kollisionstheorie brachten Computersimulationen und eine internationale Konferenz im Jahr 1984 in Kailua-Kona."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Einige Fragen und Details zu den verschiedenen Theorien bleiben Gegenstand von Untersuchungen und Diskussionen in der Wissenschaft."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Alter des Sonnensystems",
+     "4,568 Milliarden Jahre"
+    ],
+    [
+     "Dichte des Mondes",
+     "3,3 g/cm³"
+    ],
+    [
+     "Dichte der Erde",
+     "5,5 g/cm³"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Protoplanet",
+     "Ein großer Himmelskörper in der Frühzeit des Sonnensystems auf dem Weg zu einem Planeten."
+    ],
+    [
+     "Theia",
+     "Ein etwa marsgroßer Körper, der laut Kollisionstheorie mit der Proto-Erde zusammenstieß."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann hat sich die Kollisionstheorie durchgesetzt?",
+     "optionen": [
+      "Seit Mitte der 1980er Jahre",
+      "Seit dem 17. Jahrhundert",
+      "Im Jahr 2005"
+     ],
+     "richtig": 0,
+     "erklaerung": "Laut dem Text hat sich die Ansicht der Kollisionstheorie seit Mitte der 1980er Jahre durchgesetzt."
+    }
+   ],
+   "video": [
+    "Die Entstehung des Mondes wird seit Jahrhunderten diskutiert.",
+    "Es gibt verschiedene Theorien über den Ursprung.",
+    "Dazu gehört die Abspaltungstheorie von George Howard Darwin.",
+    "Auch die Einfangtheorie wurde vorgeschlagen.",
+    "Eine weitere Idee ist die Schwesterplanet-Theorie.",
+    "Die heute bekannteste ist die Kollisionstheorie.",
+    "Dabei stieß ein marsgroßer Körper namens Theia mit der Erde zusammen.",
+    "Aus der weggeschleuderten Materie bildete sich schließlich der Mond."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Entstehung des Mondes",
+    "bildunterschrift": "Die Entstehung des Mondes wird durch verschiedene wissenschaftliche Theorien erklärt."
+   },
+   "quelle": {
+    "titel": "Entstehung des Mondes",
+    "url": "https://de.wikipedia.org/wiki/Entstehung_des_Mondes",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 363,
+   "bildInfos": [
+    {
+     "titel": "Lune nb.jpg",
+     "beschreibung": "Moon high resolution, view from Hamois , Belgium",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lune_nb.jpg/1280px-Lune_nb.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lune_nb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Lune_nb.jpg",
+     "urheber": "Luc Viatour",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "artikel": "Entstehung des Mondes",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die Entstehung des Mondes wird durch verschiedene wissenschaftliche Theorien erklärt."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Lune nb.jpg",
+    "beschreibung": "Moon high resolution, view from Hamois , Belgium",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Lune_nb.jpg/1280px-Lune_nb.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lune_nb.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Lune_nb.jpg",
+    "urheber": "Luc Viatour",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artikel": "Entstehung des Mondes",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Die Entstehung des Mondes wird durch verschiedene wissenschaftliche Theorien erklärt."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-das-deutsche-pfandsystem",
    "zeit": "2026-10-21T10:14:16.816Z",
@@ -6877,153 +7002,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Heißluftballon nutzt den Auftrieb warmer Luft."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-ein-sandsturm",
-   "zeit": "2026-10-03T13:24:31.795Z",
-   "bereich": "Erde und Klima",
-   "titel": "Wie entsteht eigentlich ein Sandsturm?",
-   "vorspann": "Ein Sandsturm ist ein starker Wind, der Sand oder Staub über teils große Entfernungen mitführt. Die meisten Stürme dieser Art sind im eigentlichen Sinne Staubstürme.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Ein Sandsturm ist ein sehr trockener und heißer Wind in Trockengebieten. Er wirbelt große Mengen Sand hoch und führt sie mit. Einige Stürme transportieren bis zu hundert Millionen Tonnen Sand über weite Strecken. Die Entfernung hängt von der Größe der einzelnen Sandpartikel ab. Die größten Partikel bilden an windgeschützten Stellen langsame Dünen.",
-      "Lose an der Oberfläche liegende Partikel werden in die Luft gehoben oder über den Boden gerollt. Diesen Vorgang nennt man Deflation. Der Begriff Sandsturm ist irreführend, weil die Verlagerung von Sand nur im Bereich weniger Dezimeter stattfindet. Feinerer Staub kann dagegen mehrere Kilometer transportiert werden. Ein Staubsturm kommt als dunkle Wolke heran und reduziert die Sichtweite auf wenige Meter."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Sand ist zu schwer, um in große Höhen getragen zu werden. Er bewegt sich in einer springenden Bewegung über den Boden, die Saltation genannt wird. Feinere Partikel von der Größe des Schluffs werden dagegen in dichten, hohen Wolken in die Luft gehoben. Das nennt man dann einen Staubsturm. Große Sandpartikel bilden eine niedrige Wolke, die lediglich wenige Zentimeter bis maximal zwei Meter hoch reicht.",
-      "Es gibt verschiedene Ursachen für diese Stürme und die damit verbundene Erosion. Die zunehmende Benutzung von Geländewagen in Wüsten bricht verhärtete Krusten auf. Auch die Einführung von Rindern und Schafen im australischen Landesinnere zerstörte die Bewuchsschicht. Weitere Gründe sind Desertifikation, Entwaldung und der Klimawandel.",
-      "In vielen Regionen haben diese Stürme lokale Namen. Dazu gehören Buran in Mittelasien, Chamsin im Nilgebiet und in Israel oder Palästina, Gibli in Tunesien und Libyen, Habub in der Sahara sowie Samum im nordafrikanisch-arabischen Raum. Auch der Scirocco gehört dazu. Am achten April zweitausendelf war ein Sandsturm die Ursache für eine Massenkarambolage auf einer Autobahn."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Für das Jahr zweitausendvier wird geschätzt, dass insgesamt etwa zwei bis drei Milliarden Tonnen Sand durch Sandstürme bewegt wurden. Zudem wird geschätzt, dass ein Kubikmeter Luft bis zu einem Gramm Staub enthalten kann. In der Wetterkunde nutzt die Weltorganisation für Meteorologie spezielle Symbole und Codes zur Angabe von Wetterzuständen mit Sand- oder Staubstürmen."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der bereitgestellte Text enthält keine Angaben zu offenen Forschungsfragen."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Transportierter Sand im Jahr 2004",
-     "2 bis 3 Milliarden Tonnen"
-    ],
-    [
-     "Unfallopfer bei Autobahnunfall am 8. April 2011",
-     "8 Tote und 131 Verletzte"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Deflation",
-     "Der Prozess, bei dem lose an der Oberfläche liegende Partikel in die Luft gehoben oder über den Boden gerollt werden."
-    ],
-    [
-     "Saltation",
-     "Eine springende Bewegung, mit der Sand über den Boden getrieben wird."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wie nennt man die springende Bewegung, mit der Sand über den Boden getrieben wird?",
-     "optionen": [
-      "Saltation",
-      "Deflation",
-      "Desertifikation"
-     ],
-     "richtig": 0,
-     "erklaerung": "Sand ist zu schwer für große Höhen und wird in einer Saltation genannten Bewegung über den Boden getrieben."
-    }
-   ],
-   "video": [
-    "Ein Sandsturm ist ein sehr trockener und heißer Wind in Trockengebieten.",
-    "Er wirbelt große Mengen Sand und Staub hoch und führt sie mit sich.",
-    "Dabei sind die meisten Stürme im eigentlichen Sinne Staubstürme.",
-    "Schwere Sandpartikel bewegen sich in einer springenden Bewegung über den Boden.",
-    "Diese Bewegung wird Saltation genannt.",
-    "Feinere Staubpartikel können dagegen mehrere Kilometer hoch in die Luft gehoben werden.",
-    "Zu den Ursachen gehören neben dem Klimawandel auch Geländewagen und Tiere in empfindlichen Regionen.",
-    "In vielen Gebieten der Erde haben diese Stürme eigene lokale Bezeichnungen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Sandsturm",
-    "bildunterschrift": "Ein Sandsturm führt große Mengen Sand und Staub mit sich."
-   },
-   "quelle": {
-    "titel": "Sandsturm",
-    "url": "https://de.wikipedia.org/wiki/Sandsturm",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 336,
-   "bildInfos": [
-    {
-     "titel": "Sandstorm in Al Asad, Iraq.jpg",
-     "beschreibung": "A massive dust storm cloud ( haboob ) is close to enveloping a military camp as it rolls over Al Asad, Iraq , just before nightfall on April 27, 2005. DoD photo by Corporal Alicia M. Garcia, U.S. Mari",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sandstorm_in_Al_Asad%2C_Iraq.jpg/1280px-Sandstorm_in_Al_Asad%2C_Iraq.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sandstorm_in_Al_Asad%2C_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sandstorm_in_Al_Asad,_Iraq.jpg",
-     "urheber": "Arya Barznji M. Baghdad, Iraqi National Republian Guard Corps.",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Sandsturm",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein Sandsturm führt große Mengen Sand und Staub mit sich."
-    },
-    {
-     "titel": "Sandsturm-2.jpg",
-     "beschreibung": "Sandsturm-2",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sandsturm-2.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Sandsturm-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sandsturm-2.jpg",
-     "urheber": "unbekannt",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Sandsturm-2"
-    },
-    {
-     "titel": "Sandsturm in der Namib (2017).jpg",
-     "beschreibung": "Sandstrom seen from above (Namib Desert 2017)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Sandsturm_in_der_Namib_%282017%29.jpg/1280px-Sandsturm_in_der_Namib_%282017%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Sandsturm_in_der_Namib_%282017%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sandsturm_in_der_Namib_(2017).jpg",
-     "urheber": "Olga Ernst & Hp.Baumeler",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Sandstrom seen from above (Namib Desert 2017)"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Sandstorm in Al Asad, Iraq.jpg",
-    "beschreibung": "A massive dust storm cloud ( haboob ) is close to enveloping a military camp as it rolls over Al Asad, Iraq , just before nightfall on April 27, 2005. DoD photo by Corporal Alicia M. Garcia, U.S. Mari",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Sandstorm_in_Al_Asad%2C_Iraq.jpg/1280px-Sandstorm_in_Al_Asad%2C_Iraq.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Sandstorm_in_Al_Asad%2C_Iraq.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Sandstorm_in_Al_Asad,_Iraq.jpg",
-    "urheber": "Arya Barznji M. Baghdad, Iraqi National Republian Guard Corps.",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Sandsturm",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein Sandsturm führt große Mengen Sand und Staub mit sich."
    }
   }
  ]
