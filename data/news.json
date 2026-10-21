@@ -1,7 +1,6 @@
 {
- "stand": "2026-10-21T15:12:27.328Z",
+ "stand": "2026-10-21T20:06:33.798Z",
  "gepusht": [
-  "festnahmen-militaerbasis-fairford-sprengstoffverdacht",
   "schweiz-neutralitaetsinitiative-volksabstimmung",
   "sturm-us-ostkueste-stromausfaeile",
   "koalitionsstreit-pflegereform-linnemann-spd",
@@ -80,7 +79,8 @@
   "afd-hackerangriff",
   "tesla-spacex-fusion",
   "alice-schwarzer-emma-einstellung",
-  "un-klimabericht-2-8-grad"
+  "un-klimabericht-2-8-grad",
+  "php-sicherheitsluecke"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -98,10 +98,11 @@
   "afd-hackerangriff",
   "tesla-spacex-fusion",
   "alice-schwarzer-emma-einstellung",
-  "un-klimabericht-2-8-grad"
+  "un-klimabericht-2-8-grad",
+  "php-sicherheitsluecke"
  ],
  "wetter": {
-  "stand": "2026-10-21T15:12:27.328Z",
+  "stand": "2026-10-21T20:06:33.798Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -113,20 +114,20 @@
      "grad": 10,
      "code": 61,
      "gefuehlt": 9,
-     "wind": 7,
-     "windAus": 144,
-     "feuchte": 94,
+     "wind": 5,
+     "windAus": 193,
+     "feuchte": 97,
      "druck": 1007,
-     "niederschlag": 0.1,
-     "tag": 1
+     "niederschlag": 0.2,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 11,
+     "max": 10,
      "min": 7,
      "regen": 100,
-     "menge": 7.7,
+     "menge": 5.6,
      "wind": 12,
      "windAus": 140,
      "uv": 0.4,
@@ -138,10 +139,10 @@
      "code": 80,
      "max": 11,
      "min": 8,
-     "regen": 85,
-     "menge": 0.8,
-     "wind": 18,
-     "windAus": 210,
+     "regen": 98,
+     "menge": 1,
+     "wind": 17,
+     "windAus": 211,
      "uv": 2.3,
      "auf": "08:00",
      "unter": "18:07"
@@ -150,10 +151,10 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 11,
+      "max": 10,
       "min": 7,
       "regen": 100,
-      "menge": 7.7,
+      "menge": 5.6,
       "wind": 12,
       "windAus": 140,
       "uv": 0.4,
@@ -165,24 +166,24 @@
       "code": 80,
       "max": 11,
       "min": 8,
-      "regen": 85,
-      "menge": 0.8,
-      "wind": 18,
-      "windAus": 210,
+      "regen": 98,
+      "menge": 1,
+      "wind": 17,
+      "windAus": 211,
       "uv": 2.3,
       "auf": "08:00",
       "unter": "18:07"
      },
      {
       "datum": "2026-10-23",
-      "code": 61,
+      "code": 80,
       "max": 11,
       "min": 7,
-      "regen": 72,
-      "menge": 1.3,
-      "wind": 14,
-      "windAus": 149,
-      "uv": 0.6,
+      "regen": 80,
+      "menge": 1.4,
+      "wind": 20,
+      "windAus": 151,
+      "uv": 0.9,
       "auf": "08:02",
       "unter": "18:05"
      },
@@ -191,11 +192,11 @@
       "code": 80,
       "max": 12,
       "min": 8,
-      "regen": 63,
+      "regen": 77,
       "menge": 14.9,
       "wind": 18,
       "windAus": 193,
-      "uv": 0.3,
+      "uv": 1.2,
       "auf": "08:03",
       "unter": "18:03"
      },
@@ -204,117 +205,87 @@
       "code": 80,
       "max": 13,
       "min": 8,
-      "regen": 84,
+      "regen": 94,
       "menge": 12,
       "wind": 22,
       "windAus": 215,
-      "uv": 0.7,
+      "uv": 2.2,
       "auf": "08:05",
       "unter": "18:01"
      },
      {
       "datum": "2026-10-26",
-      "code": 3,
+      "code": 61,
       "max": 11,
       "min": 8,
-      "regen": 36,
-      "menge": 0,
+      "regen": 29,
+      "menge": 3.2,
       "wind": 17,
-      "windAus": 219,
+      "windAus": 220,
       "uv": 1.7,
       "auf": "08:07",
       "unter": "17:59"
      },
      {
       "datum": "2026-10-27",
-      "code": 3,
-      "max": 16,
+      "code": 61,
+      "max": 17,
       "min": 10,
-      "regen": 51,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 186,
-      "uv": 2,
+      "regen": 36,
+      "menge": 4,
+      "wind": 20,
+      "windAus": 219,
+      "uv": 1.8,
       "auf": "08:09",
       "unter": "17:57"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 95
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 95
-     },
-     {
       "zeit": "22:00",
       "grad": 10,
       "code": 61,
-      "regen": 95
+      "regen": 100
      },
      {
       "zeit": "23:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
       "regen": 100
      },
      {
       "zeit": "00:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 85
+      "regen": 98
      },
      {
       "zeit": "01:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 48
+      "regen": 68
      },
      {
       "zeit": "02:00",
       "grad": 11,
       "code": 61,
-      "regen": 15
+      "regen": 38
      },
      {
       "zeit": "03:00",
       "grad": 11,
-      "code": 3,
-      "regen": 0
+      "code": 61,
+      "regen": 5
      },
      {
       "zeit": "04:00",
       "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "05:00",
-      "grad": 9,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -333,7 +304,7 @@
      {
       "zeit": "08:00",
       "grad": 8,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -344,7 +315,7 @@
      },
      {
       "zeit": "10:00",
-      "grad": 9,
+      "grad": 8,
       "code": 2,
       "regen": 0
      },
@@ -364,25 +335,55 @@
       "zeit": "13:00",
       "grad": 11,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
       "zeit": "14:00",
       "grad": 11,
-      "code": 3,
-      "regen": 13
+      "code": 61,
+      "regen": 18
      },
      {
       "zeit": "15:00",
       "grad": 11,
-      "code": 61,
-      "regen": 25
+      "code": 3,
+      "regen": 55
      },
      {
       "zeit": "16:00",
-      "grad": 10,
+      "grad": 11,
       "code": 61,
-      "regen": 50
+      "regen": 33
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 80,
+      "regen": 25
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 80,
+      "regen": 30
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 40
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 15
      }
     ]
    },
@@ -392,25 +393,25 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 14,
+     "grad": 12,
      "code": 3,
-     "gefuehlt": 14,
-     "wind": 4,
-     "windAus": 127,
-     "feuchte": 73,
+     "gefuehlt": 11,
+     "wind": 7,
+     "windAus": 264,
+     "feuchte": 82,
      "druck": 1005,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
      "max": 14,
      "min": 9,
-     "regen": 43,
-     "menge": 0.8,
+     "regen": 45,
+     "menge": 0.3,
      "wind": 10,
-     "windAus": 122,
+     "windAus": 118,
      "uv": 2.1,
      "auf": "07:42",
      "unter": "17:58"
@@ -421,10 +422,10 @@
      "max": 13,
      "min": 10,
      "regen": 100,
-     "menge": 3.8,
-     "wind": 15,
-     "windAus": 235,
-     "uv": 2.3,
+     "menge": 4.7,
+     "wind": 16,
+     "windAus": 238,
+     "uv": 2.4,
      "auf": "07:44",
      "unter": "17:56"
     },
@@ -434,10 +435,10 @@
       "code": 61,
       "max": 14,
       "min": 9,
-      "regen": 43,
-      "menge": 0.8,
+      "regen": 45,
+      "menge": 0.3,
       "wind": 10,
-      "windAus": 122,
+      "windAus": 118,
       "uv": 2.1,
       "auf": "07:42",
       "unter": "17:58"
@@ -448,23 +449,23 @@
       "max": 13,
       "min": 10,
       "regen": 100,
-      "menge": 3.8,
-      "wind": 15,
-      "windAus": 235,
-      "uv": 2.3,
+      "menge": 4.7,
+      "wind": 16,
+      "windAus": 238,
+      "uv": 2.4,
       "auf": "07:44",
       "unter": "17:56"
      },
      {
       "datum": "2026-10-23",
       "code": 61,
-      "max": 13,
+      "max": 14,
       "min": 6,
-      "regen": 47,
-      "menge": 2.1,
-      "wind": 11,
+      "regen": 83,
+      "menge": 2.4,
+      "wind": 14,
       "windAus": 167,
-      "uv": 1.8,
+      "uv": 1.7,
       "auf": "07:46",
       "unter": "17:54"
      },
@@ -473,11 +474,11 @@
       "code": 61,
       "max": 12,
       "min": 9,
-      "regen": 33,
+      "regen": 47,
       "menge": 3.9,
       "wind": 18,
       "windAus": 195,
-      "uv": 1.2,
+      "uv": 1,
       "auf": "07:47",
       "unter": "17:52"
      },
@@ -486,36 +487,36 @@
       "code": 61,
       "max": 13,
       "min": 7,
-      "regen": 80,
+      "regen": 95,
       "menge": 8.7,
       "wind": 19,
       "windAus": 194,
-      "uv": 1.7,
+      "uv": 0.2,
       "auf": "07:49",
       "unter": "17:50"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 13,
-      "min": 7,
-      "regen": 23,
-      "menge": 0,
+      "max": 12,
+      "min": 8,
+      "regen": 18,
+      "menge": 0.1,
       "wind": 14,
-      "windAus": 229,
-      "uv": 2.2,
+      "windAus": 227,
+      "uv": 2.3,
       "auf": "07:51",
       "unter": "17:48"
      },
      {
       "datum": "2026-10-27",
-      "code": 3,
-      "max": 14,
-      "min": 7,
-      "regen": 40,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 165,
+      "code": 61,
+      "max": 17,
+      "min": 9,
+      "regen": 33,
+      "menge": 2.3,
+      "wind": 12,
+      "windAus": 207,
       "uv": 1.8,
       "auf": "07:53",
       "unter": "17:46"
@@ -523,52 +524,22 @@
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "19:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "20:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "21:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 30
-     },
-     {
       "zeit": "22:00",
       "grad": 12,
-      "code": 61,
-      "regen": 28
+      "code": 3,
+      "regen": 45
      },
      {
       "zeit": "23:00",
       "grad": 11,
       "code": 61,
-      "regen": 43
+      "regen": 38
      },
      {
       "zeit": "00:00",
       "grad": 11,
       "code": 61,
-      "regen": 83
+      "regen": 70
      },
      {
       "zeit": "01:00",
@@ -592,24 +563,24 @@
       "zeit": "04:00",
       "grad": 10,
       "code": 61,
-      "regen": 95
+      "regen": 100
      },
      {
       "zeit": "05:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 63
+      "regen": 98
      },
      {
       "zeit": "06:00",
       "grad": 11,
       "code": 61,
-      "regen": 25
+      "regen": 68
      },
      {
       "zeit": "07:00",
       "grad": 10,
-      "code": 3,
+      "code": 61,
       "regen": 13
      },
      {
@@ -638,7 +609,7 @@
      },
      {
       "zeit": "12:00",
-      "grad": 11,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
@@ -650,7 +621,7 @@
      },
      {
       "zeit": "14:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
       "regen": 0
      },
@@ -664,7 +635,37 @@
       "zeit": "16:00",
       "grad": 13,
       "code": 3,
-      "regen": 0
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "19:00",
+      "grad": 13,
+      "code": 61,
+      "regen": 35
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "21:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 8
      }
     ]
    },
@@ -674,24 +675,24 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 13,
-     "code": 3,
-     "gefuehlt": 12,
-     "wind": 4,
-     "windAus": 287,
-     "feuchte": 84,
-     "druck": 996,
-     "niederschlag": 0,
-     "tag": 1
+     "grad": 10,
+     "code": 61,
+     "gefuehlt": 8,
+     "wind": 14,
+     "windAus": 253,
+     "feuchte": 90,
+     "druck": 998,
+     "niederschlag": 1,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
-     "code": 61,
+     "code": 63,
      "max": 13,
      "min": 8,
      "regen": 100,
-     "menge": 6.2,
-     "wind": 14,
+     "menge": 9.6,
+     "wind": 16,
      "windAus": 225,
      "uv": 2.5,
      "auf": "07:44",
@@ -702,10 +703,10 @@
      "code": 80,
      "max": 14,
      "min": 8,
-     "regen": 90,
-     "menge": 1.8,
+     "regen": 98,
+     "menge": 2.6,
      "wind": 16,
-     "windAus": 231,
+     "windAus": 233,
      "uv": 2.7,
      "auf": "07:46",
      "unter": "18:03"
@@ -713,12 +714,12 @@
     "tage": [
      {
       "datum": "2026-10-21",
-      "code": 61,
+      "code": 63,
       "max": 13,
       "min": 8,
       "regen": 100,
-      "menge": 6.2,
-      "wind": 14,
+      "menge": 9.6,
+      "wind": 16,
       "windAus": 225,
       "uv": 2.5,
       "auf": "07:44",
@@ -729,24 +730,24 @@
       "code": 80,
       "max": 14,
       "min": 8,
-      "regen": 90,
-      "menge": 1.8,
+      "regen": 98,
+      "menge": 2.6,
       "wind": 16,
-      "windAus": 231,
+      "windAus": 233,
       "uv": 2.7,
       "auf": "07:46",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-23",
-      "code": 61,
-      "max": 14,
+      "code": 80,
+      "max": 13,
       "min": 8,
-      "regen": 51,
-      "menge": 1.1,
+      "regen": 80,
+      "menge": 1.7,
       "wind": 13,
-      "windAus": 176,
-      "uv": 1.9,
+      "windAus": 177,
+      "uv": 1.4,
       "auf": "07:47",
       "unter": "18:01"
      },
@@ -755,11 +756,11 @@
       "code": 61,
       "max": 12,
       "min": 7,
-      "regen": 18,
+      "regen": 20,
       "menge": 0.3,
       "wind": 19,
       "windAus": 208,
-      "uv": 1,
+      "uv": 1.1,
       "auf": "07:49",
       "unter": "17:59"
      },
@@ -768,11 +769,11 @@
       "code": 61,
       "max": 13,
       "min": 6,
-      "regen": 80,
+      "regen": 90,
       "menge": 6.9,
       "wind": 19,
       "windAus": 201,
-      "uv": 1.3,
+      "uv": 0.3,
       "auf": "07:51",
       "unter": "17:57"
      },
@@ -781,8 +782,8 @@
       "code": 3,
       "max": 12,
       "min": 6,
-      "regen": 18,
-      "menge": 0,
+      "regen": 14,
+      "menge": 0.2,
       "wind": 12,
       "windAus": 223,
       "uv": 2.3,
@@ -791,49 +792,19 @@
      },
      {
       "datum": "2026-10-27",
-      "code": 3,
-      "max": 15,
-      "min": 6,
-      "regen": 38,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 174,
-      "uv": 2.3,
+      "code": 61,
+      "max": 18,
+      "min": 9,
+      "regen": 30,
+      "menge": 1,
+      "wind": 17,
+      "windAus": 214,
+      "uv": 2.4,
       "auf": "07:54",
       "unter": "17:53"
      }
     ],
     "stunden": [
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 45
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 60
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 73
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 93
-     },
      {
       "zeit": "22:00",
       "grad": 10,
@@ -842,45 +813,45 @@
      },
      {
       "zeit": "23:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 95
+      "grad": 9,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "00:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
-      "regen": 90
+      "regen": 98
      },
      {
       "zeit": "01:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 83
+      "regen": 80
      },
      {
       "zeit": "02:00",
       "grad": 10,
       "code": 61,
-      "regen": 58
+      "regen": 53
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 61,
-      "regen": 30
+      "regen": 58
      },
      {
       "zeit": "04:00",
       "grad": 10,
-      "code": 3,
-      "regen": 5
+      "code": 61,
+      "regen": 38
      },
      {
       "zeit": "05:00",
       "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "06:00",
@@ -896,20 +867,20 @@
      },
      {
       "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
+      "grad": 9,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 8,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 9,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -921,32 +892,62 @@
      {
       "zeit": "12:00",
       "grad": 11,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 12,
-      "code": 2,
+      "grad": 13,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 14,
+      "grad": 13,
       "code": 2,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "15:00",
       "grad": 14,
-      "code": 1,
-      "regen": 0
+      "code": 2,
+      "regen": 5
      },
      {
       "zeit": "16:00",
       "grad": 14,
-      "code": 1,
-      "regen": 0
+      "code": 2,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "19:00",
+      "grad": 12,
+      "code": 80,
+      "regen": 10
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 5
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 80,
+      "regen": 5
      }
     ]
    },
@@ -957,14 +958,14 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 12,
-     "code": 3,
-     "gefuehlt": 10,
-     "wind": 12,
-     "windAus": 156,
-     "feuchte": 83,
-     "druck": 1001,
+     "code": 2,
+     "gefuehlt": 9,
+     "wind": 16,
+     "windAus": 235,
+     "feuchte": 74,
+     "druck": 1004,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
@@ -972,9 +973,9 @@
      "max": 14,
      "min": 10,
      "regen": 100,
-     "menge": 1.6,
-     "wind": 15,
-     "windAus": 159,
+     "menge": 2.2,
+     "wind": 16,
+     "windAus": 164,
      "uv": 2.5,
      "auf": "08:05",
      "unter": "18:27"
@@ -982,13 +983,13 @@
     "morgen": {
      "datum": "2026-10-22",
      "code": 51,
-     "max": 12,
+     "max": 13,
      "min": 8,
-     "regen": 69,
-     "menge": 0.9,
-     "wind": 22,
-     "windAus": 192,
-     "uv": 1.6,
+     "regen": 65,
+     "menge": 0.2,
+     "wind": 20,
+     "windAus": 189,
+     "uv": 2.1,
      "auf": "08:06",
      "unter": "18:25"
     },
@@ -999,9 +1000,9 @@
       "max": 14,
       "min": 10,
       "regen": 100,
-      "menge": 1.6,
-      "wind": 15,
-      "windAus": 159,
+      "menge": 2.2,
+      "wind": 16,
+      "windAus": 164,
       "uv": 2.5,
       "auf": "08:05",
       "unter": "18:27"
@@ -1009,26 +1010,26 @@
      {
       "datum": "2026-10-22",
       "code": 51,
-      "max": 12,
+      "max": 13,
       "min": 8,
-      "regen": 69,
-      "menge": 0.9,
-      "wind": 22,
-      "windAus": 192,
-      "uv": 1.6,
+      "regen": 65,
+      "menge": 0.2,
+      "wind": 20,
+      "windAus": 189,
+      "uv": 2.1,
       "auf": "08:06",
       "unter": "18:25"
      },
      {
       "datum": "2026-10-23",
       "code": 61,
-      "max": 12,
+      "max": 13,
       "min": 9,
-      "regen": 99,
-      "menge": 14.5,
-      "wind": 35,
+      "regen": 100,
+      "menge": 9.2,
+      "wind": 28,
       "windAus": 148,
-      "uv": 1.4,
+      "uv": 1.1,
       "auf": "08:08",
       "unter": "18:23"
      },
@@ -1037,11 +1038,11 @@
       "code": 55,
       "max": 13,
       "min": 8,
-      "regen": 85,
-      "menge": 5.4,
-      "wind": 31,
-      "windAus": 236,
-      "uv": 2.4,
+      "regen": 94,
+      "menge": 5.5,
+      "wind": 32,
+      "windAus": 240,
+      "uv": 1.1,
       "auf": "08:10",
       "unter": "18:21"
      },
@@ -1051,35 +1052,35 @@
       "max": 14,
       "min": 9,
       "regen": 100,
-      "menge": 23.3,
-      "wind": 27,
-      "windAus": 232,
-      "uv": 1.7,
+      "menge": 20.2,
+      "wind": 29,
+      "windAus": 234,
+      "uv": 2.4,
       "auf": "08:12",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-26",
-      "code": 53,
-      "max": 13,
-      "min": 7,
-      "regen": 36,
-      "menge": 2.1,
-      "wind": 16,
-      "windAus": 191,
-      "uv": 1.6,
+      "code": 80,
+      "max": 16,
+      "min": 8,
+      "regen": 55,
+      "menge": 8.4,
+      "wind": 20,
+      "windAus": 195,
+      "uv": 1.9,
       "auf": "08:13",
       "unter": "18:17"
      },
      {
       "datum": "2026-10-27",
       "code": 51,
-      "max": 17,
-      "min": 11,
-      "regen": 31,
-      "menge": 1.2,
-      "wind": 13,
-      "windAus": 196,
+      "max": 19,
+      "min": 12,
+      "regen": 55,
+      "menge": 0.6,
+      "wind": 18,
+      "windAus": 213,
       "uv": 2.4,
       "auf": "08:15",
       "unter": "18:15"
@@ -1087,46 +1088,16 @@
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 12,
-      "code": 51,
-      "regen": 98
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 98
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 85
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 67
-     },
-     {
-      "zeit": "21:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 46
-     },
-     {
       "zeit": "22:00",
       "grad": 12,
       "code": 2,
-      "regen": 20
+      "regen": 19
      },
      {
       "zeit": "23:00",
       "grad": 11,
-      "code": 3,
-      "regen": 2
+      "code": 0,
+      "regen": 0
      },
      {
       "zeit": "00:00",
@@ -1148,7 +1119,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 8,
+      "grad": 9,
       "code": 0,
       "regen": 0
      },
@@ -1168,67 +1139,97 @@
       "zeit": "06:00",
       "grad": 8,
       "code": 0,
-      "regen": 0
+      "regen": 1
      },
      {
       "zeit": "07:00",
       "grad": 8,
-      "code": 3,
-      "regen": 0
+      "code": 0,
+      "regen": 3
      },
      {
       "zeit": "08:00",
       "grad": 9,
       "code": 3,
-      "regen": 2
+      "regen": 6
      },
      {
       "zeit": "09:00",
       "grad": 9,
       "code": 3,
-      "regen": 7
+      "regen": 10
      },
      {
       "zeit": "10:00",
       "grad": 10,
       "code": 3,
-      "regen": 15
+      "regen": 14
      },
      {
       "zeit": "11:00",
       "grad": 11,
       "code": 3,
-      "regen": 22
+      "regen": 18
      },
      {
       "zeit": "12:00",
       "grad": 12,
-      "code": 1,
-      "regen": 27
+      "code": 3,
+      "regen": 18
      },
      {
       "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 32
+      "grad": 13,
+      "code": 0,
+      "regen": 18
      },
      {
       "zeit": "14:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 39
+      "grad": 13,
+      "code": 3,
+      "regen": 22
      },
      {
       "zeit": "15:00",
-      "grad": 11,
+      "grad": 12,
       "code": 51,
-      "regen": 51
+      "regen": 37
      },
      {
       "zeit": "16:00",
-      "grad": 11,
+      "grad": 12,
       "code": 51,
+      "regen": 56
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 3,
       "regen": 65
+     },
+     {
+      "zeit": "18:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 53
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 31
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 14
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 9
      }
     ]
    },
@@ -1239,14 +1240,14 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 11,
-     "code": 61,
-     "gefuehlt": 10,
-     "wind": 10,
-     "windAus": 207,
-     "feuchte": 88,
-     "druck": 999,
-     "niederschlag": 0.1,
-     "tag": 1
+     "code": 3,
+     "gefuehlt": 9,
+     "wind": 12,
+     "windAus": 214,
+     "feuchte": 90,
+     "druck": 1001,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
@@ -1254,23 +1255,23 @@
      "max": 12,
      "min": 10,
      "regen": 100,
-     "menge": 6.6,
-     "wind": 11,
-     "windAus": 208,
-     "uv": 0.8,
+     "menge": 5.8,
+     "wind": 12,
+     "windAus": 206,
+     "uv": 0.7,
      "auf": "07:56",
      "unter": "18:22"
     },
     "morgen": {
      "datum": "2026-10-22",
      "code": 80,
-     "max": 13,
-     "min": 7,
-     "regen": 40,
-     "menge": 0.2,
+     "max": 12,
+     "min": 6,
+     "regen": 60,
+     "menge": 0,
      "wind": 16,
      "windAus": 217,
-     "uv": 2.6,
+     "uv": 2.8,
      "auf": "07:58",
      "unter": "18:20"
     },
@@ -1281,23 +1282,23 @@
       "max": 12,
       "min": 10,
       "regen": 100,
-      "menge": 6.6,
-      "wind": 11,
-      "windAus": 208,
-      "uv": 0.8,
+      "menge": 5.8,
+      "wind": 12,
+      "windAus": 206,
+      "uv": 0.7,
       "auf": "07:56",
       "unter": "18:22"
      },
      {
       "datum": "2026-10-22",
       "code": 80,
-      "max": 13,
-      "min": 7,
-      "regen": 40,
-      "menge": 0.2,
+      "max": 12,
+      "min": 6,
+      "regen": 60,
+      "menge": 0,
       "wind": 16,
       "windAus": 217,
-      "uv": 2.6,
+      "uv": 2.8,
       "auf": "07:58",
       "unter": "18:20"
      },
@@ -1305,12 +1306,12 @@
       "datum": "2026-10-23",
       "code": 80,
       "max": 14,
-      "min": 9,
-      "regen": 64,
-      "menge": 2.9,
+      "min": 8,
+      "regen": 85,
+      "menge": 4.9,
       "wind": 20,
-      "windAus": 192,
-      "uv": 2.7,
+      "windAus": 193,
+      "uv": 2.3,
       "auf": "08:00",
       "unter": "18:18"
      },
@@ -1319,11 +1320,11 @@
       "code": 61,
       "max": 12,
       "min": 8,
-      "regen": 39,
+      "regen": 31,
       "menge": 1.1,
       "wind": 22,
       "windAus": 217,
-      "uv": 2.4,
+      "uv": 2,
       "auf": "08:01",
       "unter": "18:16"
      },
@@ -1332,11 +1333,11 @@
       "code": 63,
       "max": 16,
       "min": 7,
-      "regen": 96,
+      "regen": 97,
       "menge": 19.8,
       "wind": 18,
       "windAus": 224,
-      "uv": 0.6,
+      "uv": 0.7,
       "auf": "08:03",
       "unter": "18:14"
      },
@@ -1345,10 +1346,10 @@
       "code": 3,
       "max": 13,
       "min": 5,
-      "regen": 31,
+      "regen": 37,
       "menge": 0,
-      "wind": 9,
-      "windAus": 208,
+      "wind": 11,
+      "windAus": 211,
       "uv": 2.1,
       "auf": "08:05",
       "unter": "18:12"
@@ -1356,12 +1357,12 @@
      {
       "datum": "2026-10-27",
       "code": 3,
-      "max": 17,
-      "min": 7,
-      "regen": 40,
+      "max": 18,
+      "min": 9,
+      "regen": 44,
       "menge": 0,
-      "wind": 5,
-      "windAus": 127,
+      "wind": 14,
+      "windAus": 209,
       "uv": 2.5,
       "auf": "08:06",
       "unter": "18:10"
@@ -1369,46 +1370,16 @@
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "18:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "19:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 45
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 33
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 30
-     },
-     {
       "zeit": "22:00",
       "grad": 11,
       "code": 3,
-      "regen": 8
+      "regen": 33
      },
      {
       "zeit": "23:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "00:00",
@@ -1424,20 +1395,20 @@
      },
      {
       "zeit": "02:00",
-      "grad": 8,
-      "code": 3,
+      "grad": 9,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 8,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 7,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1449,18 +1420,18 @@
      {
       "zeit": "06:00",
       "grad": 7,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 7,
+      "grad": 6,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 7,
+      "grad": 6,
       "code": 2,
       "regen": 0
      },
@@ -1468,13 +1439,13 @@
       "zeit": "09:00",
       "grad": 7,
       "code": 2,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "10:00",
       "grad": 8,
-      "code": 3,
-      "regen": 3
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "11:00",
@@ -1496,21 +1467,51 @@
      },
      {
       "zeit": "14:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 8
      },
      {
       "zeit": "15:00",
-      "grad": 13,
+      "grad": 12,
       "code": 3,
       "regen": 15
      },
      {
       "zeit": "16:00",
-      "grad": 13,
+      "grad": 12,
+      "code": 3,
+      "regen": 33
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 60
+     },
+     {
+      "zeit": "18:00",
+      "grad": 12,
+      "code": 80,
+      "regen": 48
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 33
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
       "code": 3,
       "regen": 23
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 10
      }
     ]
    },
@@ -1523,12 +1524,12 @@
      "grad": 10,
      "code": 61,
      "gefuehlt": 7,
-     "wind": 15,
-     "windAus": 205,
-     "feuchte": 78,
-     "druck": 983,
-     "niederschlag": 0.2,
-     "tag": 1
+     "wind": 16,
+     "windAus": 216,
+     "feuchte": 85,
+     "druck": 985,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
@@ -1536,9 +1537,9 @@
      "max": 11,
      "min": 9,
      "regen": 100,
-     "menge": 12.9,
-     "wind": 18,
-     "windAus": 228,
+     "menge": 13.2,
+     "wind": 17,
+     "windAus": 225,
      "uv": 0.3,
      "auf": "07:52",
      "unter": "18:22"
@@ -1546,12 +1547,12 @@
     "morgen": {
      "datum": "2026-10-22",
      "code": 3,
-     "max": 15,
+     "max": 14,
      "min": 7,
-     "regen": 5,
+     "regen": 8,
      "menge": 0,
-     "wind": 19,
-     "windAus": 214,
+     "wind": 17,
+     "windAus": 215,
      "uv": 2.9,
      "auf": "07:54",
      "unter": "18:20"
@@ -1563,9 +1564,9 @@
       "max": 11,
       "min": 9,
       "regen": 100,
-      "menge": 12.9,
-      "wind": 18,
-      "windAus": 228,
+      "menge": 13.2,
+      "wind": 17,
+      "windAus": 225,
       "uv": 0.3,
       "auf": "07:52",
       "unter": "18:22"
@@ -1573,26 +1574,26 @@
      {
       "datum": "2026-10-22",
       "code": 3,
-      "max": 15,
+      "max": 14,
       "min": 7,
-      "regen": 5,
+      "regen": 8,
       "menge": 0,
-      "wind": 19,
-      "windAus": 214,
+      "wind": 17,
+      "windAus": 215,
       "uv": 2.9,
       "auf": "07:54",
       "unter": "18:20"
      },
      {
       "datum": "2026-10-23",
-      "code": 61,
-      "max": 14,
-      "min": 8,
-      "regen": 26,
-      "menge": 0.2,
-      "wind": 20,
-      "windAus": 205,
-      "uv": 2.6,
+      "code": 80,
+      "max": 15,
+      "min": 9,
+      "regen": 35,
+      "menge": 0.9,
+      "wind": 22,
+      "windAus": 204,
+      "uv": 2.3,
       "auf": "07:55",
       "unter": "18:18"
      },
@@ -1605,7 +1606,7 @@
       "menge": 0.4,
       "wind": 20,
       "windAus": 228,
-      "uv": 2.2,
+      "uv": 2.6,
       "auf": "07:57",
       "unter": "18:16"
      },
@@ -1614,36 +1615,36 @@
       "code": 61,
       "max": 13,
       "min": 8,
-      "regen": 93,
+      "regen": 98,
       "menge": 14.9,
       "wind": 26,
       "windAus": 220,
-      "uv": 0.9,
+      "uv": 0.3,
       "auf": "07:58",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 13,
+      "max": 14,
       "min": 7,
-      "regen": 23,
+      "regen": 27,
       "menge": 0,
-      "wind": 7,
-      "windAus": 196,
-      "uv": 2.1,
+      "wind": 8,
+      "windAus": 202,
+      "uv": 2.4,
       "auf": "08:00",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-27",
-      "code": 2,
-      "max": 16,
-      "min": 4,
-      "regen": 31,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 147,
+      "code": 61,
+      "max": 19,
+      "min": 7,
+      "regen": 35,
+      "menge": 0.3,
+      "wind": 11,
+      "windAus": 215,
       "uv": 2.6,
       "auf": "08:01",
       "unter": "18:11"
@@ -1651,52 +1652,22 @@
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 90
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 70
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 33
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 18
-     },
-     {
       "zeit": "22:00",
       "grad": 10,
-      "code": 3,
-      "regen": 8
+      "code": 61,
+      "regen": 13
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 3,
-      "regen": 0
+      "code": 61,
+      "regen": 3
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "01:00",
@@ -1707,7 +1678,7 @@
      {
       "zeit": "02:00",
       "grad": 9,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1725,13 +1696,13 @@
      {
       "zeit": "05:00",
       "grad": 7,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 7,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1779,19 +1750,49 @@
      {
       "zeit": "14:00",
       "grad": 14,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 15,
-      "code": 1,
+      "grad": 14,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 14,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 14,
       "code": 2,
+      "regen": 8
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "19:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 3,
       "regen": 3
      }
     ]
@@ -1802,15 +1803,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 11,
+     "grad": 8,
      "code": 61,
-     "gefuehlt": 8,
-     "wind": 14,
-     "windAus": 279,
-     "feuchte": 90,
-     "druck": 952,
-     "niederschlag": 0.5,
-     "tag": 1
+     "gefuehlt": 5,
+     "wind": 13,
+     "windAus": 242,
+     "feuchte": 83,
+     "druck": 955,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-21",
@@ -1818,7 +1819,7 @@
      "max": 11,
      "min": 8,
      "regen": 100,
-     "menge": 7.5,
+     "menge": 9.7,
      "wind": 16,
      "windAus": 271,
      "uv": 2.5,
@@ -1830,10 +1831,10 @@
      "code": 61,
      "max": 13,
      "min": 6,
-     "regen": 55,
-     "menge": 1.3,
-     "wind": 15,
-     "windAus": 246,
+     "regen": 75,
+     "menge": 1.8,
+     "wind": 16,
+     "windAus": 251,
      "uv": 3,
      "auf": "07:43",
      "unter": "18:12"
@@ -1845,7 +1846,7 @@
       "max": 11,
       "min": 8,
       "regen": 100,
-      "menge": 7.5,
+      "menge": 9.7,
       "wind": 16,
       "windAus": 271,
       "uv": 2.5,
@@ -1857,10 +1858,10 @@
       "code": 61,
       "max": 13,
       "min": 6,
-      "regen": 55,
-      "menge": 1.3,
-      "wind": 15,
-      "windAus": 246,
+      "regen": 75,
+      "menge": 1.8,
+      "wind": 16,
+      "windAus": 251,
       "uv": 3,
       "auf": "07:43",
       "unter": "18:12"
@@ -1868,13 +1869,13 @@
      {
       "datum": "2026-10-23",
       "code": 80,
-      "max": 11,
-      "min": 4,
-      "regen": 55,
+      "max": 13,
+      "min": 5,
+      "regen": 59,
       "menge": 0.9,
-      "wind": 12,
-      "windAus": 167,
-      "uv": 3,
+      "wind": 13,
+      "windAus": 184,
+      "uv": 2.3,
       "auf": "07:44",
       "unter": "18:10"
      },
@@ -1883,11 +1884,11 @@
       "code": 3,
       "max": 10,
       "min": 4,
-      "regen": 52,
+      "regen": 35,
       "menge": 0,
       "wind": 20,
       "windAus": 245,
-      "uv": 2.8,
+      "uv": 2.7,
       "auf": "07:46",
       "unter": "18:08"
      },
@@ -1896,129 +1897,99 @@
       "code": 80,
       "max": 12,
       "min": 4,
-      "regen": 88,
+      "regen": 92,
       "menge": 10.8,
       "wind": 19,
       "windAus": 222,
-      "uv": 1.3,
+      "uv": 0.3,
       "auf": "07:47",
       "unter": "18:06"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 11,
-      "min": 4,
-      "regen": 46,
+      "max": 12,
+      "min": 6,
+      "regen": 41,
       "menge": 0,
       "wind": 12,
-      "windAus": 223,
-      "uv": 2.6,
+      "windAus": 228,
+      "uv": 2.5,
       "auf": "07:49",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-27",
-      "code": 1,
-      "max": 13,
-      "min": 0,
-      "regen": 28,
+      "code": 3,
+      "max": 18,
+      "min": 7,
+      "regen": 38,
       "menge": 0,
-      "wind": 10,
-      "windAus": 95,
-      "uv": 2.6,
+      "wind": 7,
+      "windAus": 210,
+      "uv": 2.7,
       "auf": "07:51",
       "unter": "18:03"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "20:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "21:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 93
-     },
-     {
       "zeit": "22:00",
       "grad": 8,
       "code": 61,
-      "regen": 98
+      "regen": 100
      },
      {
       "zeit": "23:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 85
+      "grad": 9,
+      "code": 3,
+      "regen": 100
      },
      {
       "zeit": "00:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 55
+      "grad": 9,
+      "code": 3,
+      "regen": 75
      },
      {
       "zeit": "01:00",
       "grad": 8,
       "code": 61,
-      "regen": 50
+      "regen": 58
      },
      {
       "zeit": "02:00",
       "grad": 8,
       "code": 61,
-      "regen": 50
+      "regen": 53
      },
      {
       "zeit": "03:00",
       "grad": 8,
       "code": 61,
-      "regen": 38
+      "regen": 40
      },
      {
       "zeit": "04:00",
       "grad": 8,
       "code": 61,
-      "regen": 15
+      "regen": 5
      },
      {
       "zeit": "05:00",
       "grad": 8,
       "code": 3,
-      "regen": 3
+      "regen": 8
      },
      {
       "zeit": "06:00",
       "grad": 7,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 6,
+      "grad": 7,
       "code": 1,
       "regen": 0
      },
@@ -2030,8 +2001,8 @@
      },
      {
       "zeit": "09:00",
-      "grad": 7,
-      "code": 0,
+      "grad": 6,
+      "code": 1,
       "regen": 0
      },
      {
@@ -2042,32 +2013,32 @@
      },
      {
       "zeit": "11:00",
-      "grad": 10,
+      "grad": 9,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 11,
+      "grad": 10,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 12,
-      "code": 1,
+      "grad": 11,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 12,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 13,
-      "code": 1,
+      "grad": 12,
+      "code": 0,
       "regen": 0
      },
      {
@@ -2075,15 +2046,45 @@
       "grad": 13,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 11 und 14 Grad.",
+   "Heute liegen die Höchstwerte zwischen 10 und 14 Grad.",
    "Die Vorhersage für morgen, Donnerstag: im Norden und Osten Regenschauer, im Süden und Westen bewölkt.",
-   "Die Temperaturen erreichen dann 11 bis 15 Grad.",
-   "Am wärmsten wird es in Stuttgart mit 15 Grad.",
+   "Die Temperaturen erreichen dann 11 bis 14 Grad.",
+   "Am wärmsten wird es in Leipzig mit 14 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2096,13 +2097,13 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 11,
-       "regen": 0.8
+       "regen": 1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 3.3
+       "grad": 11,
+       "regen": 1
       },
       {
        "name": "ECMWF",
@@ -2119,13 +2120,13 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 3.8
+       "regen": 4.7
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 13,
-       "regen": 3.5
+       "regen": 5.1
       },
       {
        "name": "ECMWF",
@@ -2142,13 +2143,13 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 1.8
+       "regen": 2.6
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 14,
-       "regen": 0
+       "regen": 0.9
       },
       {
        "name": "ECMWF",
@@ -2165,13 +2166,13 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 12,
-       "regen": 0.9
+       "regen": 1.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 13,
-       "regen": 0.2
+       "regen": 0.9
       },
       {
        "name": "ECMWF",
@@ -2187,8 +2188,8 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0
       },
       {
        "name": "GFS",
@@ -2210,7 +2211,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 15,
+       "grad": 14,
        "regen": 0
       },
       {
@@ -2234,7 +2235,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 1.3
+       "regen": 1.8
       },
       {
        "name": "GFS",
@@ -2251,20 +2252,20 @@
      ]
     }
    ],
-   "spanneGrad": 2,
+   "spanneGrad": 3,
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
+     "ICON",
      "GFS"
     ],
     "trocken": [
-     "ICON",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 13 und 15 Grad.",
-    "Und in Hamburg erwartet GFS Regen, ICON und ECMWF dagegen nicht."
+    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 12 und 15 Grad.",
+    "Und in Hamburg erwartet ICON und GFS Regen, ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2459,127 +2460,109 @@
   {
    "id": "un-klimabericht-2-8-grad",
    "rubrik": "Wissen & Klima",
-   "zeit": "2026-10-21T15:08:40.000Z",
-   "titel": "UN-Umweltprogramm: Welt steuert auf Erwärmung um 2,8 Grad zu",
-   "vorspann": "Die Vereinten Nationen warnen in einem neuen Bericht vor einer globalen Erwärmung um bis zu 2,8 Grad bis zum Ende des Jahrhunderts. Ohne eine deutliche Senkung der weltweiten Treibhausgase werde das völkerrechtlich angestrebte 1,5-Grad-Ziel deutlich verfehlt.",
+   "zeit": "2026-10-21T19:45:21.000Z",
+   "aktualisiert": "aktualisiert um 22:06 Uhr",
+   "titel": "UN-Umweltprogramm veröffentlicht Bericht zur weltweiten Erwärmung",
+   "vorspann": "Ein neuer Bericht des Umweltprogramms der Vereinten Nationen prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Die internationale Gemeinschaft verfehlt laut den Angaben ihre bisherigen Klimaziele deutlich.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Ein neuer Bericht des UN-Umweltprogramms UNEP zeigt, dass die Erde bei der gegenwärtigen Politik auf eine Erwärmung um 2,8 Grad Celsius bis zum Ende des Jahrhunderts zusteuert.",
-    "Selbst bei vollständiger Umsetzung aller nationalen Klimaschutzpläne wird ein Anstieg von 2,1 Grad erwartet, womit das angestrebte 1,5-Grad-Ziel aus dem Pariser Abkommen verfehlt würde.",
-    "Als ein wesentlicher Grund für den Stillstand bei den globalen Prognosen gilt laut Spiegel und Süddeutscher Zeitung der Kurswechsel der US-Regierung unter Donald Trump und der erneute Austritt der USA aus dem Pariser Abkommen.",
-    "Die Vereinten Nationen fordern eine rasche und deutliche Senkung der Emissionen sowie verbindliche Vereinbarungen auf der bevorstehenden 31. Weltklimakonferenz in Antalya."
+    "Das UN-Umweltprogramm UNEP hat seinen neuen Emissions Gap Report vorgestellt. Demnach steuert die Erde bis zum Ende des Jahrhunderts auf eine Erwärmung von 2,8 Grad zu.",
+    "Als Hauptgründe für die schlechteren Prognosen werden der Rückzug der USA aus dem Pariser Abkommen sowie nach oben korrigierte Emissionsdaten genannt.",
+    "Wissenschaftler und UN-Vertreter betonen, dass die 1,5-Grad-Marke zwar voraussichtlich zeitweise überschritten wird, die Werte aber durch weltweite Emissionssenkungen im Laufe des Jahrhunderts wieder sinken können.",
+    "Im November beraten Staaten und Delegierte auf der Weltklimakonferenz COP31 in der Türkei über die nächsten Schritte im globalen Klimaschutz."
    ],
    "einig": [
     [
-     "Die Erde steuert bei der derzeitigen Klimapolitik auf eine Erwärmung um 2,8 Grad bis zum Ende des Jahrhunderts zu.",
+     "Die Erde steuert laut einem UN-Bericht auf eine Erwärmung von 2,8 Grad zu.",
      [
       "Tagesschau/ARD",
+      "ZDFheute",
       "Deutschlandfunk",
       "Spiegel",
-      "Zeit"
+      "Süddeutsche Zeitung"
      ]
     ],
     [
-     "Selbst wenn alle Staaten ihre aktuellen Klimapläne vollständig umsetzen, erwärmt sich die Erde um 2,1 Grad.",
+     "Der Rückzug der USA aus dem Pariser Abkommen verschlechtert die globalen Klimaprognosen.",
      [
-      "Tagesschau/ARD",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Seit dem Pariser Abkommen sind die erneuerbaren Energien weltweit dreimal schneller gewachsen als ursprünglich erwartet.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Die nächste Weltklimakonferenz findet in Antalya in der Türkei statt.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Die USA sind unter Präsident Donald Trump erneut aus dem Pariser Klimaschutzabkommen ausgestiegen.",
-     [
+      "ZDFheute",
       "Spiegel",
       "Süddeutsche Zeitung"
      ]
     ]
    ],
    "unklar": [
-    "Zu welchen Bedingungen und in welcher Höhe Industrieländer Ausgleichszahlungen für Klimafolgen an Entwicklungsländer leisten, ist laut Tagesschau/ARD Gegenstand von Debatten."
+    "Ob die weltweiten Emissionen rechtzeitig und in ausreichendem Maße gesenkt werden können, bleibt laut den Berichten unklar."
    ],
    "positionen": [
     [
+     "Inger Andersen (Direktorin des UN-Umweltprogramms)",
+     "Die Staaten müssen dringend tiefgehende Maßnahmen zur Emissionssenkung ergreifen, um die Erwärmung so gering wie möglich zu halten.",
+     "ZDFheute,Spiegel,Süddeutsche Zeitung"
+    ],
+    [
      "António Guterres (UN-Generalsekretär)",
-     "Sieht eine Führungslücke der Staaten, verlangt schnellere Maßnahmen und betont, dass eine Zielüberschreitung nicht zur Kapitulation führen darf.",
-     "Tagesschau/ARD, Spiegel"
+     "Eine vorübergehende Überschreitung der 1,5-Grad-Grenze bedeutet keine Kapitulation; die Temperaturen können bis 2100 wieder gesenkt werden.",
+     "Deutschlandfunk,Spiegel"
     ],
     [
-     "Inger Andersen (Leiterin des UN-Umweltprogramms UNEP)",
-     "Betont bestehende Erfolge beim Ausbau erneuerbarer Energien und hält eine Begrenzung der Temperaturspitze durch entschlossene Politik für machbar.",
-     "Tagesschau/ARD, Spiegel"
-    ],
-    [
-     "Türkische Konferenzleitung (COP31)",
-     "Schlägt vor, dass sich die Teilnehmerstaaten der Konferenz auf ein globales Elektrifizierungs-Ziel verständigen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Umweltorganisationen",
-     "Kritisieren das Elektrifizierungs-Ziel als unzureichend, falls es nicht fest an den Ausbau von Solar- und Windenergie gebunden wird.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "WWF",
-     "Appelliert infolge der Berichtsveröffentlichung an die deutsche Bundesregierung zu mehr Klimaschutz.",
-     "Deutschlandfunk"
-    ],
-    [
-     "Donald Trump (US-Präsident)",
-     "Betrachtet den Klimawandel laut Süddeutsche Zeitung als Schwindel und beendete die US-Beteiligung am Pariser Abkommen.",
-     "Süddeutsche Zeitung, Spiegel"
+     "Dr. Louise Jeffery (NewClimate Institute)",
+     "Die Risiken wachsen durch jede Verzögerung, und politische Entscheidungen in Deutschland wie neue Gaskraftwerke haben den Fortschritt verlangsamt.",
+     "ZDFheute"
     ]
    ],
-   "fehlend": "Vertreter der chinesischen Regierung als größter Emittent sowie offizielle Sprecher der aktuellen US-Regierung zur Rechtfertigung ihres Kurswechsels.",
+   "fehlend": "Stimmen aus der US-Regierung zu deren Austritt aus dem Pariser Abkommen sowie offizielle Stellungnahmen der deutschen Bundesregierung zu den Vorwürfen bezüglich neuer Gaskraftwerke.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "21.10.26, 09:54",
-     "fokus": "Klimaziele und Weltklimagipfel",
-     "text": "Der Bericht stellt die Diskrepanz zwischen dem 1,5-Grad-Ziel und der Realität von 2,8 Grad heraus. Er geht detailliert auf Fortschritte bei erneuerbaren Energien und die anstehenden Verhandlungspunkte für die Konferenz in Antalya ein.",
-     "url": "https://www.tagesschau.de/wissen/klima/erderwaermung-un-bericht-102.html",
+     "datum": "21.10.26, 17:46",
+     "fokus": "–",
+     "text": "Erde steuert laut Bericht des UN-Umweltprogramms auf 2,8 Grad Erwärmung zu",
+     "url": "https://www.tagesschau.de/video/video-1670158.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 07:00",
+     "fokus": "Auswirkungen in Deutschland und Details zum Bericht",
+     "text": "ZDFheute beleuchtet neben den globalen Zahlen auch nationale Aspekte wie die Schätzungen zu hitzebedingten Sterbefällen in Deutschland und die Kritik am deutschen Kurs bei Gaskraftwerken.",
+     "url": "https://www.zdfheute.de/wissen/klimawandel-emissionen-co2-un-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 3,
-      "woerter": 511,
-      "satzlaenge": 16,
-      "langeWoerter": 35
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 865,
+      "satzlaenge": 15,
+      "langeWoerter": 33
      },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
+     "publikumWert": 3.66
     },
     {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "21.10.26, 16:52",
-     "fokus": "Kurzmeldung und Verbände",
-     "text": "Der Sender fasst die Kernaussage des UNEP-Berichts knapp zusammen. Als zusätzliches nationales Element wird ein Appell des Umweltverbands WWF an die Bundesregierung genannt.",
+     "datum": "21.10.26, 21:45",
+     "fokus": "–",
+     "text": "Die Vereinten Nationen warnen, dass die Erde bis zum Ende des Jahrhunderts auf eine Erwärmung von bis zu 2,8 Grad gegenüber der vorindustriellen Zeit zusteuern könnte. UNO-Generalsekretär Guterres sagte bei der Vorstellung des Jahresberichts des Umweltprogramms UNEP, die internationale Gemeinschaft sei gefährlich weit vom Erreichen ihrer Klimaziele entfernt.",
      "url": "https://www.deutschlandfunk.de/neuer-uno-bericht-erde-steuert-bis-2100-auf-bis-zu-2-8-grad-erwaermung-zu-wwf-appelliert-an-bundesre-100.html",
      "video": false,
      "lesbar": null,
@@ -2593,8 +2576,8 @@
      "art": "privates Medium",
      "stamm": true,
      "datum": "21.10.26, 09:48",
-     "fokus": "US-Politik und Emissionspfade",
-     "text": "Das Magazin hebt die Rolle der USA unter Donald Trump als zentralen Faktor für die Stagnation beim Klimaschutz hervor. Zudem werden genaue Prozentzahlen für notwendige Emissionssenkungen sowie die Lage vor den Wahlen in Brasilien geschildert.",
+     "fokus": "Rolle der USA und historische Daten",
+     "text": "Der Spiegel legt einen besonderen Schwerpunkt auf den politischen Einfluss des US-Austritts aus dem Pariser Abkommen und ordnet die langfristigen Temperaturverläufe über Dreijahreszeiträume ein.",
      "url": "https://www.spiegel.de/wissenschaft/klimakrise-erde-steuert-tatsaechlich-auf-erwaermung-um-2-8-grad-zu-uno-sieht-usa-als-treiber-a-19db1fbf-f48c-407a-950b-543ec47b182c#ref=rss",
      "video": false,
      "lesbar": {
@@ -2611,38 +2594,23 @@
      "publikumWert": null
     },
     {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 17:08",
-     "fokus": "Verkehrspolitik und Randnotiz",
-     "text": "Die Wochenzeitung erwähnt die 2,8-Grad-Warnung der Vereinten Nationen lediglich am Rande in einer Übersichtsmeldung zur Verkehrspolitik.",
-     "url": "https://www.zeit.de/politik/2026-10/verkehrsministerkonferenz-finanzen-deutschlandticket-nachrichtenpodcast",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
      "name": "Süddeutsche Zeitung",
      "typ": "Tageszeitung",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "21.10.26, 15:42",
-     "fokus": "Rolle von Donald Trump",
-     "text": "Die Zeitung beleuchtet vor allem die US-Präsidentschaft und deren konkrete Auswirkungen auf die globalen Erwärmungsprognosen. Dabei werden auch weltweite Extremwetterphänomene erwähnt.",
-     "url": "https://www.sueddeutsche.de/wissen/klimawandel-fakten-leugner-donald-trump-emissionen-erderwaermung-folgen-li.3566817",
+     "datum": "21.10.26, 07:39",
+     "fokus": "–",
+     "text": "Vom ursprünglichen Ziel, die Erderwärmung bei 1,5 Grad zu stoppen, ist die Welt weit abgekommen.",
+     "url": "https://www.sueddeutsche.de/wissen/klimawandel-erderwaermung-klimakrise-un-vereinte-nationen-usa-li.3566724",
      "video": false,
      "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 8,
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
       "minuten": 1,
-      "woerter": 133,
-      "satzlaenge": 15,
-      "langeWoerter": 28
+      "woerter": 264,
+      "satzlaenge": 20,
+      "langeWoerter": 31
      },
      "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
      "finanzierung": "Abos und Werbung",
@@ -2651,74 +2619,73 @@
    ],
    "unterschiede": [
     [
-     "Gewichtung der USA",
-     "Während Spiegel und Süddeutsche Zeitung den US-Kurswechsel unter Donald Trump als Haupttreiber der Entwicklung herausstellen, rückt die Tagesschau die allgemeinen Emissionstrends und die Weltklimakonferenz in den Mittelpunkt."
-    ],
-    [
-     "Erwähnung nationaler Reaktionen",
-     "Der Deutschlandfunk nennt als einziges Medium die Reaktion der Organisation WWF in Deutschland, während die anderen Quellen primär internationale Akteure zitieren."
-    ],
-    [
-     "Umfang der Berichterstattung",
-     "Tagesschau und Spiegel liefern detaillierte Analysen mit Zahlenreihen, während die Zeit das Thema nur in einem kurzen Begleitsatz aufgreift."
+     "Schwerpunkte",
+     "Einige Berichte konzentrieren sich rein auf die globalen UN-Zahlen, während andere wie ZDFheute und Spiegel ausführlich auf die Rolle der USA und nationale Kritikpunkte eingehen."
     ]
    ],
    "wfragen": {
-    "wer": "Das Umweltprogramm der Vereinten Nationen (UNEP)",
-    "was": "Vorstellung des Jahresberichts zur weltweiten Emissionslücke und Erderwärmung",
-    "wann": "21. Oktober 2026",
-    "wo": "Weltweit, mit Blick auf Antalya (Türkei)",
-    "wie": "Durch wissenschaftliche Modellrechnungen auf Basis aktueller nationaler Klimapolitiken",
-    "warum": "Weil Treibhausgase steigen und politische Zusagen laut UN nicht ausreichen",
-    "quellenlage": "Berichte des UN-Umweltprogramms UNEP, Stellungnahmen von UN-Vertretern und Medienberichte"
+    "wer": "UN-Umweltprogramm (UNEP) und Vereinte Nationen",
+    "was": "Vorstellung des neuen Emissions Gap Report",
+    "wann": "noch unklar",
+    "wo": "Weltweit",
+    "wie": "Durch Berechnungen zur weltweiten Klimapolitik und Treibhausgasemissionen",
+    "warum": "Unzureichende Maßnahmen gegen den Klimawandel laut UNEP",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel, Süddeutsche Zeitung"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Das Umweltprogramm der Vereinten Nationen (UNEP) hat seinen neuen Jahresbericht zur weltweiten Klimasituation veröffentlicht. Nach den vorliegenden Modellrechnungen steuert die Erde bis zum Ende des Jahrhunderts auf eine Erwärmung von bis zu 2,8 Grad Celsius im Vergleich zum vorindustriellen Zeitalter zu. Dieser Wert wird erreicht, wenn die Staaten ihre bisherigen Maßnahmen und Vorgaben im bisherigen Tempo fortführen. UN-Generalsekretär António Guterres stellte das Papier gemeinsam mit der UNEP-Leitung der Öffentlichkeit vor. Er erklärte dabei, dass die internationale Staatengemeinschaft weit vom Erreichen der gesteckten Klimaziele entfernt sei.",
-      "Das im Jahr 2015 beschlossene Pariser Klimaabkommen sah vor, den weltweiten Temperaturanstieg möglichst auf 1,5 Grad Celsius zu begrenzen. Die vorgelegten Zahlen verdeutlichen nun, dass dieses Limit bei der aktuellen Entwicklung nicht eingehalten werden kann. Selbst wenn alle Regierungen ihre bestehenden Pläne und Zusagen zur Klimaneutralität vollständig einhalten würden, rechnet der Bericht immer noch mit einem Anstieg von etwa 2,1 Grad Celsius. Die Differenz zwischen den erforderlichen Einsparungen und den tatsächlichen Emissionen bleibt somit beträchtlich. Laut UN-Angaben steigen die weltweiten Emissionen weiterhin Jahr für Jahr an.",
-      "Nach Angaben des Spiegels und der Süddeutschen Zeitung hat sich der prognostizierte Pfad im Vergleich zum vergangenen Jahr nicht verbessert. Als ein wesentlicher Faktor für diesen Stillstand wird die Politik der Vereinigten Staaten genannt. Die US-Regierung unter Präsident Donald Trump hat sich von den vorherigen Klimaschutzplänen des Landes vollständig verabschiedet. Da die USA nach China der weltweit zweitgrößte Verursacher von Treibhausgasen sind, wirken sich diese Entscheidungen unmittelbar auf globale Berechnungen aus. Zudem wurden die statistischen Daten zum bisherigen weltweiten Treibhausgasausstoß nachträglich nach oben korrigiert."
+      "Das Umweltprogramm der Vereinten Nationen hat seinen neuen Jahresbericht vorgestellt. Die Organisation warnt darin vor einer weltweiten Erwärmung von 2,8 Grad Celsius bis zum Ende des Jahrhunderts im Vergleich zur vorindustriellen Zeit. Der Bericht trägt den Titel Emissions Gap Report.",
+      "Laut dem Bericht ist die Menschheit weit von ihren Klimazielen entfernt. Inger Andersen, die Direktorin des UN-Umweltprogramms, warnte laut Spiegel vor verheerenden Folgen und erklärte, dass jeder Bruchteil eines Grades zusätzlich das Risiko für Naturkatastrophen steigerte.",
+      "Die Weltgemeinschaft hatte sich im Pariser Klimaabkommen das Ziel gesetzt, die Erderwärmung möglichst auf 1,5 Grad zu begrenzen. Die Autorinnen und Autoren des Berichts erklären, dass der aktuelle Kurs der globalen Klimapolitik diesen Wert deutlich überschreitet."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Die Hauptursache für den fortgesetzten Ausstoß klimaschädlicher Gase bleibt die Verbrennung von Kohle, Erdöl und Erdgas zur Energiegewinnung. Um die Erwärmung bis zur Mitte des Jahrhunderts wenigstens auf 1,7 bis 1,8 Grad zu begrenzen, müssten die globalen Treibhausgasemissionen laut UNEP jedes Jahr bis 2035 um gut sechs Prozent sinken. Als Vergleichsbasis dient hierbei das Emissionsniveau des Jahres 2025. Soll die Erwärmung bis zum Ende des Jahrhunderts wieder auf das 1,5-Grad-Ziel zurückgeführt werden, sind noch tiefere Einschnitte erforderlich. Der Bericht beziffert diese notwendigen Minderungen auf 18 Prozent bis 2030, 45 Prozent bis 2035 und 69 Prozent bis zum Jahr 2040.",
-      "Die bisherigen Planungen der einzelnen Nationalstaaten bleiben hinter diesen mathematischen Vorgaben deutlich zurück. Nach Berechnungen der Vereinten Nationen würden die weltweiten Emissionen bis 2030 lediglich um bis zu 8 Prozent und bis 2035 um bis zu 15 Prozent sinken, selbst wenn alle Vorhaben verwirklicht werden. Diese Entwicklung bedeutet eine erhebliche Abweichung vom Zielpfad. Ergänzend weisen die Autoren darauf hin, dass neben den Einsparungen auch Technologien zum Einsatz kommen müssten, die Kohlendioxid aktiv aus der Luft entnehmen. Fachleute verweisen jedoch darauf, dass diese Verfahren mit hohen Kosten und technischen Schwierigkeiten verbunden sind.",
-      "Messdaten des europäischen Erdbeobachtungsprogramms Copernicus unterstreichen den bereits messbaren Wandel. Demnach lag die weltweite Durchschnittstemperatur in den Jahren 2023 bis 2025 erstmals für einen Dreijahreszeitraum mehr als 1,5 Grad über den Werten des vorindustriellen Zeitalters. Fachleute werten dies als klares Signal dafür, dass ein Überschreiten der Schwelle unmittelbar bevorsteht. Als sichtbare Folgen der Erwärmung zählt der UNEP-Bericht schwere Überschwemmungen, Hitzewellen und Waldbrände auf. Als Beispiele für extreme Wetterlagen werden unter anderem lange Trockenheiten in Indonesien, anhaltende Regenfälle in Japan und Überschwemmungen im spanischen Valencia herangezogen."
+      "Wenn alle Staaten ihre bisherigen Klimaschutzpläne konsequent umsetzen würden, läge die Erwärmung laut den Berechnungen noch immer bei 2,6 Grad. Im vergangenen Jahr war das UNEP bei vollständiger Umsetzung nach Angaben der Süddeutschen Zeitung von bis zu 2,5 Grad ausgegangen.",
+      "Diese Verschlechterung begründet das UNEP unter anderem mit dem Austritt der USA aus dem Pariser Abkommen. Die USA gelten nach China als der zweitgrößte Verursacher von Treibhausgasen. Zudem wurden historische Daten zum Ausstoß von Treibhausgasen nach oben korrigiert.",
+      "Selbst in einem optimistischen Szenario, in dem alle Länder ihre Klimaneutralitätsziele erreichen, würde sich die Erde bis zum Jahr 2100 laut Spiegel und Süddeutscher Zeitung um 2,1 Grad erwärmen. ZDFheute nennt in diesem Zusammenhang ebenfalls einen Wert von 2,1 Grad."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Vor rund einem Jahrzehnt einigte sich die Staatengemeinschaft auf dem Weltklimagipfel in Paris auf völkerrechtliche Leitlinien gegen die Erderwärmung. Vor dieser Einigung gingen internationale Projektionen noch von einem Temperaturanstieg um 3 bis 3,5 Grad Celsius aus. Durch die Vereinbarung konnten die Prognosen schrittweise gesenkt werden, auch wenn die Ziele bislang nicht vollumfänglich erfüllt werden. UNEP-Direktorin Inger Andersen betonte in diesem Zusammenhang, dass der Ausbau erneuerbarer Energien seit 2015 dreimal schneller verlaufen sei als damals vorhergesagt. Der Ausbau der Photovoltaik erfolgte im selben Zeitraum sogar siebenmal schneller als ursprünglich angenommen.",
-      "Zugleich haben veränderte Regierungsentscheidungen in wichtigen Industriestaaten den internationalen Prozess mehrfach verlangsamt. Die Vereinigten Staaten waren unter Donald Trump am ersten Tag seiner Amtszeit erneut aus dem Pariser Abkommen ausgetreten. Dies entbindet das Land völkerrechtlich von den zuvor zugesagten Einsparzielen für Industrie und Energieerzeugung. Neben den USA stehen weitere Staaten vor politischen Richtungsentscheidungen, die weltweite Auswirkungen auf den Klimaschutz haben. Dazu zählt die anstehende Stichwahl in Brasilien zwischen Amtsinhaber Luiz Inácio Lula da Silva und seinem Herausforderer Flávio Bolsonaro, dessen Vater Jair Bolsonaro die Abholzung des Amazonas-Regenwalds vorangetrieben hatte."
+      "Der Pariser Klimavertrag wurde im Jahr 2015 beschlossen. Damals ging man in internationalen Prognosen von einer langfristigen Erwärmung von drei bis 3,5 Grad aus, wie der Spiegel berichtet.",
+      "ZDFheute und Spiegel führen an, dass das europäische Klimadienstprogramm Copernicus für die Jahre 2023 bis 2025 erstmals einen Dreijahreszeitraum mit einer durchschnittlichen Erwärmung von mehr als 1,5 Grad gemessen hat. Der September 2026 lag laut Copernicus um 1,63 Grad über dem vorindustriellen Niveau.",
+      "In Westeuropa wurde im Jahr 2026 laut ZDFheute der wärmste Sommer seit Beginn der Aufzeichnungen verzeichnet. Das Robert-Koch-Institut schätzt die Zahl der hitzebedingten Sterbefälle in Deutschland im selben Sommer auf rund 16.000."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Das Umweltprogramm der Vereinten Nationen, international als UNEP bezeichnet, ist eine Unterorganisation der Weltgemeinschaft mit Sitz in der kenianischen Hauptstadt Nairobi. Die Organisation sammelt kontinuierlich Umweltdaten, überwacht den Zustand des globalen Ökosystems und veröffentlicht regelmäßig wissenschaftliche Berichte für Regierungen. Eine ihrer zentralen Aufgaben ist die Ermittlung der sogenannten Emissionslücke. Damit bezeichnet man den rechnerischen Unterschied zwischen den tatsächlichen Schadstoffmengen und den Werten, die zum Erreichen bestimmter Temperaturvorgaben nötig wären.",
-      "Die Weltklimakonferenzen finden jedes Jahr an wechselnden Orten statt und dienen als Verhandlungsrahmen für alle Unterzeichnerstaaten der UN-Klimarahmenkonvention. Auf diesen Treffen verhandeln Delegationen über Reduktionsziele, finanzielle Hilfen und gemeinsame Regulierungen. Als Vorindustriezeitalter gilt in der Klimawissenschaft üblicherweise der Zeitraum vor dem Beginn der großflächigen Nutzung von Kohle und Dampfmaschinen in der zweiten Hälfte des 19. Jahrhunderts. Treibhausgase wie Kohlendioxid und Methan sammeln sich in der Atmosphäre an und verhindern die Wärmeabstrahlung von der Erdoberfläche ins Weltall, was zu einer Erhöhung der globalen Durchschnittstemperaturen führt."
+      "Das Umweltprogramm der Vereinten Nationen, kurz UNEP, ist eine Organisation der UN. Ihre Aufgabe ist es, Umweltschutzmaßnahmen zu koordinieren.",
+      "Der Emissions Gap Report misst die Lücke zwischen den tatsächlichen Klimaschutzplänen der Staaten und den Emissionsminderungen, die zur Einhaltung der globalen Klimaziele erforderlich wären.",
+      "Die vorindustrielle Zeit dient in der Klimaforschung als Vergleichszeitraum."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "UN-Generalsekretär António Guterres forderte die Regierungen auf, ihre Anstrengungen deutlich zu verstärken und keine Ausreden mehr vorzubringen. Er erklärte, dass die Emissionslücke mittlerweile zu einer Führungslücke der verantwortlichen Staaten geworden sei. Zudem wies Guterres darauf hin, dass jene Staaten und Bevölkerungsgruppen, die am wenigsten zur Erderwärmung beitragen, am stärksten unter den Folgen leiden würden. Eine zeitweilige Überschreitung der 1,5-Grad-Schwelle dürfe laut Guterres jedoch nicht als Kapitulation verstanden werden. Vielmehr komme es darauf an, den Temperaturanstieg so gering wie möglich zu halten und die Werte später wieder zu senken.",
-      "UNEP-Direktorin Inger Andersen hob hervor, dass eine richtungsweisende staatliche Politik der wirksamste Hebel zur Schadstoffminderung sei. Sie appellierte an die Staaten, unverzüglich Maßnahmen für tiefgreifende Emissionssenkungen zu ergreifen, um die Volkswirtschaften zu stabilisieren. In Deutschland forderte die Umweltschutzorganisation WWF nach der Veröffentlichung des Berichts ein entschlosseneres Handeln der Bundesregierung. Unterdessen warnen Vertreter aus der Versicherungswirtschaft davor, dass Schäden durch extreme Umweltkatastrophen künftig kaum noch versicherbar sein könnten. Umweltverbände kritisierten zudem Vorstöße, die eine Elektrifizierung ohne gleichzeitigen Ausbau sauberer Energien anstreben."
+      "UNEP-Direktorin Inger Andersen erklärte laut den Berichten, dass die Staaten dringend Maßnahmen für tiefe und nachhaltige Emissionssenkungen ergreifen müssen. Sie betonte zugleich, dass das Pariser Ziel nicht offiziell als gescheitert gilt und ein sogenanntes Overshoot-Szenario möglich ist.",
+      "UN-Generalsekretär António Guterres sagte laut Deutschlandfunk und Spiegel, dass eine Überschreitung keine Kapitulation bedeute. Die Temperaturen könnten bis zum Ende des Jahrhunderts durch weltweite Anstrengungen wieder unter 1,5 Grad gesenkt werden.",
+      "Dr. Louise Jeffery vom NewClimate Institute erklärte laut ZDFheute, dass die Risiken mit jeder Verzögerung wachsen. Sie kritisierte unter anderem politische Entscheidungen in Deutschland wie die Pläne für neue Gaskraftwerke, die den Klimafortschritt verlangsamt hätten."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Die nächste Weltklimakonferenz, die COP31, findet im November im türkischen Badeort Antalya statt. Dort werden Delegationen aus aller Welt über neue Verpflichtungen und deren praktische Umsetzung verhandeln. Nicht am Verhandlungstisch vertreten sein werden die Vereinigten Staaten, da die Regierung ihren Austritt aus dem Vertragswerk besiegelt hat. Die türkische Konferenzleitung kündigte bereits an, die Staaten auf ein gemeinsames globales Ziel zur Elektrifizierung verpflichten zu wollen. Umweltorganisationen fordern jedoch, dass dieses Ziel zwingend an den konkreten Ausbau von Wind- und Solaranlagen gekoppelt werden muss.",
-      "Ein zentraler Streitpunkt der kommenden Verhandlungen wird voraussichtlich die finanzielle Unterstützung für wirtschaftlich schwächere Staaten sein. Entwicklungsländer verlangen finanzielle Zusagen der wohlhabenden Industrienationen für Maßnahmen zur Anpassung an den Klimawandel sowie für den Ausgleich von Schäden. Bislang ist umstritten, welche Länder in welchem Umfang Zahlungen leisten und an welche Bedingungen diese Hilfen geknüpft werden sollen. Zudem richten sich die Blicke auf die Stichwahl in Brasilien, da das Wahlergebnis direkten Einfluss auf die künftige Schutzpolitik für den Amazonas-Regenwald haben wird."
+      "Vom 9. November an findet die 31. Weltklimakonferenz (COP31) in Antalya in der Türkei statt. Die Türkei tritt als Gastgeber auf, während Australien die Verhandlungen leitet.",
+      "Auf dem zweitwöchigen Treffen werden zehntausende Delegierte sowie Staats- und Regierungschefs erwartet. Im Zentrum der Gespräche stehen die internationale Klimafinanzierung sowie der schrittweise Ausstieg aus fossilen Energieträgern."
      ]
     }
    ],
    "zeitleiste": [
+    [
+     "21. Oktober 2026",
+     "Das UNEP veröffentlicht seinen Jahresbericht mit der Prognose von 2,8 Grad Erwärmung"
+    ],
     [
      "2015",
      "Beschluss des Pariser Klimaabkommens mit dem Ziel, die Erwärmung auf 1,5 Grad zu begrenzen"
@@ -2728,122 +2695,132 @@
      "Copernicus misst erstmals für einen Dreijahreszeitraum einen weltweiten Temperaturanstieg von über 1,5 Grad"
     ],
     [
-     "21. Oktober 2026",
-     "Das UNEP veröffentlicht seinen Jahresbericht mit der Prognose von 2,8 Grad Erwärmung"
-    ],
-    [
      "November 2026",
      "31. Weltklimakonferenz in Antalya (Türkei)"
     ]
    ],
    "bilder": [
     {
+     "art": "person",
+     "suchbegriff": "António Guterres",
+     "bildunterschrift": "UN-Generalsekretär António Guterres sprach anlässlich der Veröffentlichung des neuen UNEP-Berichts über die weltweiten Klimaziele."
+    },
+    {
      "art": "institution",
-     "suchbegriff": "United Nations Environment Programme logo",
-     "bildunterschrift": ""
+     "suchbegriff": "United Nations Environment Programme",
+     "bildunterschrift": "Das Umweltprogramm der Vereinten Nationen (UNEP) legt mit dem Emissions Gap Report jährlich eine Bilanz der globalen Klimapolitik vor."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Antalya",
+     "bildunterschrift": "Die türkische Stadt Antalya ist im November 2026 der Austragungsort der 31. Weltklimakonferenz der Vereinten Nationen."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Renewable energy",
+     "bildunterschrift": "Der Ausbau erneuerbarer Energien gilt laut dem UNEP-Bericht als einer der wenigen positiven Bereiche seit dem Pariser Klimaabkommen."
     }
    ],
    "ort": {
-    "name": "Antalya, Türkei"
+    "name": "Nairobi, Kenia"
    },
    "geprueft": true,
    "korrekturen": [
-    "Im Zusammenfassungspunkt 3 und im Artikeltext wurde ergänzt, dass die Einschätzung zum US-Kurswechsel von Spiegel und Süddeutscher Zeitung stammt, da dies nicht in allen Quellen steht."
+    "Datum des Berichts in wfragen auf noch unklar gesetzt, da im Text kein konkretes Veröffentlichungsdatum genannt wird.",
+    "Zusatzinformationen im Abschnitt 'Zum Verständnis' entfernt und auf gesichertes Grundwissen gekürzt."
    ],
-   "wortwarnung": [],
+   "wortwarnung": [
+    "verheerenden"
+   ],
    "lernen": {
     "begriffe": [
      [
+      "Emissions Gap Report",
+      "Ein Bericht des Umweltprogramms der Vereinten Nationen, der den Abstand zwischen den tatsächlichen Klimaschutzplänen und den notwendigen Klimazielen berechnet."
+     ],
+     [
       "Treibhausgase",
-      "Gase wie Kohlendioxid, die sich in der Atmosphäre ansammeln und dazu führen, dass sich die Erde erwärmt."
+      "Gase in der Atmosphäre, die zur Erderwärmung beitragen, wie zum Beispiel Kohlenstoffdioxid."
      ],
      [
-      "Pariser Klimaabkommen",
-      "Ein internationaler Vertrag aus dem Jahr 2015, in dem sich Staaten auf das Ziel geeinigt haben, die globale Erwärmung auf möglichst 1,5 Grad zu begrenzen."
-     ],
-     [
-      "UNEP",
-      "Das Umweltprogramm der Vereinten Nationen, das Umweltdaten sammelt und regelmäßige Berichte zur Lage des Klimas veröffentlicht."
+      "Vorindustrielle Zeit",
+      "Die Zeit vor der Industrialisierung, die in der Klimaforschung als Vergleichswert für die Temperatur genutzt wird."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen politische Entscheidungen einzelner Großmächte wie der USA laut den Berichten für die weltweiten Klimaziele?",
-     "Welche Argumente gibt es für und gegen ein weltweites Elektrifizierungs-Ziel bei den anstehenden UN-Verhandlungen in Antalya?"
+     "Welche Folgen kann es haben, wenn die USA als großer Verursacher von Treibhausgasen aus dem Pariser Abkommen aussteigen?",
+     "Welche Möglichkeiten sehen die Vereinten Nationen, um die Erderwärmung langfristig wieder zu senken?"
     ],
     "quiz": [
      {
-      "frage": "Auf welche Erwärmung steuert die Welt bei der aktuellen Klimapolitik laut dem UN-Bericht zu?",
+      "frage": "Auf wie viel Grad Erwärmung steuert die Erde laut dem UNEP-Bericht bis zum Ende des Jahrhunderts zu?",
       "optionen": [
-       "1,5 Grad bis 2050",
-       "2,8 Grad bis Ende des Jahrhunderts",
-       "3,5 Grad bis 2030"
-      ],
-      "richtig": 1,
-      "erklaerung": "Alle vier genannten Quellen berichten übereinstimmend, dass die Erde bei der derzeitigen Klimapolitik auf eine Erwärmung um 2,8 Grad bis zum Ende des Jahrhunderts zusteuert."
-     },
-     {
-      "frage": "Wie haben sich erneuerbare Energien seit dem Pariser Abkommen nach Angaben des Berichts entwickelt?",
-      "optionen": [
-       "Sie sind dreimal schneller gewachsen als erwartet.",
-       "Sie sind langsamer gewachsen als die Kohleenergie.",
-       "Ihr Ausbau ist weltweit komplett zum Stillstand gekommen."
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Tagesschau/ARD und Spiegel sind die weltweiten Kapazitäten im Bereich erneuerbarer Energien seit dem Pariser Abkommen dreimal schneller gewachsen als ursprünglich erwartet."
-     },
-     {
-      "frage": "Wo findet die nächste Weltklimakonferenz statt?",
-      "optionen": [
-       "In New York, USA",
-       "In Paris, Frankreich",
-       "In Antalya, Türkei"
+       "1,5 Grad",
+       "2,1 Grad",
+       "2,8 Grad"
       ],
       "richtig": 2,
-      "erklaerung": "Tagesschau/ARD und Spiegel bestätigen übereinstimmend, dass die nächste Weltklimakonferenz in Antalya in der Türkei stattfindet."
+      "erklaerung": "Alle genannten Medien stimmen überein, dass der Bericht eine Erwärmung von 2,8 Grad prognostiziert."
+     },
+     {
+      "frage": "Wer ist die Direktorin des UN-Umweltprogramms UNEP?",
+      "optionen": [
+       "Inger Andersen",
+       "António Guterres",
+       "Louise Jeffery"
+      ],
+      "richtig": 0,
+      "erklaerung": "Inger Andersen wird in den Berichten als Direktorin des UN-Umweltprogramms genannt."
+     },
+     {
+      "frage": "Wo findet die 31. Weltklimakonferenz (COP31) statt?",
+      "optionen": [
+       "In den USA",
+       "In der Türkei",
+       "In Deutschland"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Weltklimakonferenz findet im November in der Türkei (Antalya) statt."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Die Vereinten Nationen haben einen neuen Bericht zur Erderwärmung veröffentlicht. Die Ergebnisse zeigen, dass die bisherigen Anstrengungen der Länder nicht ausreichen.",
+    "vorspann": "Ein neuer Bericht der Vereinten Nationen zeigt schlechte Nachrichten für das Klima.",
     "absaetze": [
-     "Ein Bericht des Umweltprogramms der Vereinten Nationen warnt vor einer starken Erwärmung der Erde. Bis zum Ende des Jahrhunderts könnte sich die Welt um bis zu zwei Komma acht Grad erwärmen.",
-     "Damit würde das im Pariser Abkommen vereinbarte Ziel von maximal ein Komma fünf Grad deutlich überschritten werden. Selbst wenn alle Länder ihre bisherigen Klimapläne genau einhalten, wird ein Anstieg von zwei Komma eins Grad erwartet.",
-     "Als ein Grund für den Stillstand bei den Klimazielen gilt nach Berichten von Medien der Kurswechsel der Vereinigten Staaten. Unter Präsident Donald Trump ist das Land aus dem Pariser Abkommen ausgestiegen.",
-     "Die Vereinten Nationen fordern von den Regierungen weltweit viel schnellere und stärkere Maßnahmen zur Verringerung von Treibhausgasen. Im November treffen sich Vertreter vieler Staaten zur Weltklimakonferenz in der Türkei, um über Lösungen zu beraten."
+     "Die Erde steuert laut dem Umweltprogramm auf eine Erwärmung von zwei Komma acht Grad zu.",
+     "Als Hauptgrund gilt, dass die Vereinten Nationen viel zu weit von ihren Klimazielen entfernt sind.",
+     "Außerdem haben sich die Vereinigten Staaten von Amerika aus dem Pariser Klimavertrag zurückgezogen.",
+     "Im November treffen sich Politiker aus aller Welt in der Türkei zur Klimakonferenz."
     ]
    },
    "video": {
     "kurz": [
-     "Die Vereinten Nationen warnen in einem neuen Bericht vor einer weltweiten Erwärmung von bis zu zwei Komma acht Grad bis zum Ende des Jahrhunderts.",
-     "Das vereinbarte Ziel einer Erwärmung von maximal ein Komma fünf Grad wird nach den aktuellen Berechnungen voraussichtlich verfehlt.",
-     "Als ein Grund für die stockenden Fortschritte wird der Ausstieg der Vereinigten Staaten aus dem Pariser Klimaabkommen genannt.",
-     "Im November beraten Vertreter aus aller Welt bei der Klimakonferenz in der türkischen Stadt Antalya über weitere Schritte."
+     "Die Erde steuert laut einem Bericht der Vereinten Nationen auf eine Erwärmung von zwei Komma acht Grad zu.",
+     "Hauptgrund dafür ist, dass die Menschheit ihre Klimaziele deutlich verfehlt.",
+     "Im November beraten Staaten auf einer Klimakonferenz in der Türkei über die nächsten Schritte."
     ],
     "lang": [
-     "Die Vereinten Nationen haben einen neuen Jahresbericht zu den weltweiten Aussichten beim Klimaschutz vorgelegt.",
-     "Nach Berechnungen des Umweltprogramms der Vereinten Nationen steuert die Erde bei der bisherigen Politik auf eine Erwärmung von bis zu zwei Komma acht Grad bis zum Jahr zweitausendunderhundert zu.",
-     "Das auf der Klimakonferenz im Jahr zweitausendundfünfzehn vereinbarte Ziel von maximal ein Komma fünf Grad Erwärmung wird damit voraussichtlich verfehlt.",
-     "Selbst bei vollständiger Umsetzung aller nationalen Klimapläne rechnet der Bericht mit einem Temperaturanstieg von zwei Komma eins Grad.",
-     "Als ein wesentlicher Grund für den Mangel an Fortschritten gilt nach Berichten des Spiegels und der Süddeutschen Zeitung die Politik der Vereinigten Staaten.",
-     "Die US-Regierung unter Präsident Donald Trump hat sich demnach von den Klimaschutzplänen verabschiedet und ist erneut aus dem Pariser Abkommen ausgestiegen.",
-     "UN-Generalsekretär António Guterres erklärte laut den Berichten, den Ländern gehe die Zeit aus und es brauche deutlich schnellere Maßnahmen zur Verringerung der Treibhausgase.",
-     "Der Bericht zeigt jedoch auch positive Entwicklungen auf und betont, dass erneuerbare Energien seit dem Jahr zweitausendundfünfzehn dreimal schneller gewachsen sind als erwartet.",
-     "Im November findet die nächste Weltklimakonferenz im türkischen Antalya statt, bei der Delegierte über schärfere Klimaziele und die finanzielle Unterstützung für Entwicklungsländer verhandeln werden."
+     "Die Erde steuert nach Angaben der Vereinten Nationen bis zum Ende des Jahrhunderts auf eine Erwärmung von zwei Komma acht Grad zu.",
+     "Das geht aus einem neuen Bericht des Umweltprogramms der Vereinten Nationen hervor.",
+     "Die internationale Gemeinschaft verfehlt ihre Klimaziele demnach deutlich.",
+     "Als Gründe für die schlechteren Prognosen nennen die Vereinten Nationen den Austritt der Vereinigten Staaten aus dem Pariser Abkommen sowie nach oben korrigierte Daten zum Ausstoß von Treibhausgasen.",
+     "Das Umweltprogramm warnt, dass jeder Bruchteil eines Grades zusätzlich das Risiko für Naturkatastrophen steigert.",
+     "Die Direktorin des Umweltprogramms, Inger Andersen, forderte die Staaten nach Angaben des Spiegels und weiterer Medien auf, dringend tiefgehende Maßnahmen zur Emissionssenkung zu ergreifen.",
+     "Der UN-Generalsekretär António Guterres erklärte laut dem Deutschlandfunk, dass eine vorübergehende Überschreitung der Grenze von eins Komma fünf Grad keine Kapitulation bedeute.",
+     "Die vorindustrielle Zeit dient in der Klimaforschung als Vergleichszeitraum für die Temperaturmessungen.",
+     "Vom neunten November an beraten Vertreter aus aller Welt auf der einunddreißigsten Weltklimakonferenz in der Türkei über die kommenden Schritte im Klimaschutz."
     ],
     "einfach": [
-     "Die Vereinten Nationen haben einen neuen Bericht zur Erderwärmung veröffentlicht.",
-     "Die Erde heizt sich demnach viel stärker auf als früher vereinbart.",
-     "Bis zum Jahr zweitausendunderhundert droht ein Anstieg von zwei Komma acht Grad.",
-     "Das Ziel von maximal ein Komma fünf Grad ist kaum noch zu erreichen.",
-     "Die Vereinten Nationen fordern deshalb viel schnellere Maßnahmen zum Schutz des Klimas.",
-     "Im November beraten Politiker aus aller Welt darüber auf einer Konferenz in der Türkei."
+     "Die Erde erwärmt sich nach Angaben der Vereinten Nationen immer stärker.",
+     "Bis zum Jahr zweitausendhundert droht ein Anstieg um zwei Komma acht Grad.",
+     "Dazu trägt auch bei, dass die Vereinigten Staaten nicht mehr beim Klimavertrag mitmachen.",
+     "Die Staaten wollen im November auf einer Konferenz in der Türkei über Lösungen sprechen."
     ]
    },
    "kurz": [
-    "Ein neuer Bericht des Umweltprogramms der Vereinten Nationen warnt vor einer Erwärmung der Erde um bis zu zwei Komma acht Grad bis zum Ende des Jahrhunderts.",
-    "Selbst bei vollständiger Umsetzung aller nationalen Klimaschutzpläne steuert die Welt auf einen Anstieg von zwei Komma eins Grad zu.",
-    "Als Hauptgründe für den Stillstand nennen Berichte den Kurswechsel der Vereinigten Staaten unter Präsident Donald Trump sowie steigende Treibhausgasemissionen.",
-    "Im November findet die nächste Weltklimakonferenz in der türkischen Stadt Antalya statt."
+    "Ein neuer Bericht des Umweltprogramms der Vereinten Nationen warnt vor einer weltweiten Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts.",
+    "Als Gründe für die Verschlechterung nennen die Vereinten Nationen den Austritt der USA aus dem Pariser Abkommen und korrigierte Emissionsdaten.",
+    "Im November findet in Antalya die Weltklimakonferenz statt."
    ],
    "fakten": [
     [
@@ -2851,268 +2828,131 @@
      "2,8 Grad"
     ],
     [
-     "Erwärmung bei Erfüllung aller Klimapläne",
+     "Prognose bei Umsetzung aller Klimapläne",
+     "2,6 Grad"
+    ],
+    [
+     "Prognose im optimistischsten Szenario",
      "2,1 Grad"
     ],
     [
-     "Ziel des Pariser Abkommens",
-     "1,5 Grad"
-    ],
-    [
-     "Erforderliche jährliche Emissionsminderung bis 2035",
-     "gut sechs Prozent"
-    ],
-    [
-     "Nächste Weltklimakonferenz (COP31)",
-     "Antalya, Türkei"
+     "Hitzebedingte Sterbefälle in Deutschland im Sommer",
+     "rund 16.000"
     ]
    ],
    "dossier": {
-    "slug": "weltklimabericht-unep-2026",
-    "titel": "UN-Klimabericht und globale Erwärmung"
+    "slug": "klimawandel-und-unep-bericht",
+    "titel": "UNEP-Bericht zur weltweiten Erwärmung"
    },
    "bildInfo": {
-    "titel": "UNEP FI Logo 2021 Colour.png",
-    "beschreibung": "UNEP FI logo",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/UNEP_FI_Logo_2021_Colour.png/1280px-UNEP_FI_Logo_2021_Colour.png",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/UNEP_FI_Logo_2021_Colour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:UNEP_FI_Logo_2021_Colour.png",
-    "urheber": "UNEP FI",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "art": "institution",
-    "suchbegriff": "United Nations Environment Programme logo",
-    "bildunterschrift": "Das Logo der Umweltinitiative UNEP steht für die Organisation, die den neuen Bericht zur globalen Erwärmung veröffentlicht hat.",
+    "titel": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+    "beschreibung": "Secretary Antony J. Blinken meets with UN Secretary-General Antonio Guterres at the Department of State in Washington, D.C., June 4, 2024. (Official State Department photo by Chuck Kennedy)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg",
+    "urheber": "U.S. Department of State from United States",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "art": "person",
+    "suchbegriff": "António Guterres",
+    "bildunterschrift": "UN-Generalsekretär António Guterres, dessen Organisation den Klimabericht veröffentlicht hat.",
     "hinweis": "Archivfoto"
    },
    "bildInfos": [
     {
-     "titel": "UNEP FI Logo 2021 Colour.png",
-     "beschreibung": "UNEP FI logo",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/UNEP_FI_Logo_2021_Colour.png/1280px-UNEP_FI_Logo_2021_Colour.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/3f/UNEP_FI_Logo_2021_Colour.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:UNEP_FI_Logo_2021_Colour.png",
-     "urheber": "UNEP FI",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "institution",
-     "suchbegriff": "United Nations Environment Programme logo",
-     "bildunterschrift": "Das Logo der Umweltinitiative UNEP steht für die Organisation, die den neuen Bericht zur globalen Erwärmung veröffentlicht hat.",
+     "titel": "António Guterres United Nations Secretary-General in 2024 (cropped).jpg",
+     "beschreibung": "Secretary Antony J. Blinken meets with UN Secretary-General Antonio Guterres at the Department of State in Washington, D.C., June 4, 2024. (Official State Department photo by Chuck Kennedy)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/95/Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres_United_Nations_Secretary-General_in_2024_(cropped).jpg",
+     "urheber": "U.S. Department of State from United States",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "António Guterres",
+     "bildunterschrift": "UN-Generalsekretär António Guterres, dessen Organisation den Klimabericht veröffentlicht hat.",
      "hinweis": "Archivfoto"
     }
    ],
    "ortInfo": {
-    "name": "Antalya, Türkei",
-    "lat": 36.887,
-    "lon": 30.703
+    "name": "Nairobi, Kenia",
+    "lat": -1.302,
+    "lon": 36.829
    },
    "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Die Vereinten Nationen haben einen neuen Jahresbericht zu den weltweiten Aussich",
-     "d": "7e33c82421.mp3",
-     "l": 80.12,
-     "s": [
-      0.25,
-      6.48,
-      17.27,
-      25.57,
-      33.07,
-      40.96,
-      49.43,
-      60.23,
-      69.45
-     ]
-    },
-    {
-     "k": "Die Vereinten Nationen warnen in einem neuen Bericht vor einer weltweiten Erwärm",
-     "d": "0d1fca4e27.mp3",
-     "l": 29.32,
-     "s": [
-      0.25,
-      8.6,
-      15.75,
-      22.14
-     ]
-    },
-    {
-     "k": "Die Vereinten Nationen haben einen neuen Bericht zur Erderwärmung veröffentlicht",
-     "d": "153b363926.mp3",
-     "l": 33.28,
-     "s": [
-      0.25,
-      5.09,
-      10.08,
-      15.77,
-      20.39,
-      26.79
-     ]
-    },
-    {
-     "k": "Zu welchen Bedingungen und in welcher Höhe Industrieländer Ausgleichszahlungen f",
-     "d": "125bc85909.mp3",
-     "l": 10.58,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Treibhausgase? Gase wie Kohlendioxid, die sich in der At",
-     "d": "2e8a48f49b.mp3",
-     "l": 11.38,
-     "s": [
-      0.25,
-      3.74
-     ]
-    },
-    {
-     "k": "Das Umweltprogramm der Vereinten Nationen (UNEP) hat seinen neuen Jahresbericht ",
-     "d": "919c652302.mp3",
-     "l": 64.74,
-     "s": [
-      0.25,
-      7.36,
-      18.05,
-      24.61,
-      31.27,
-      37.92,
-      47.31,
-      53.91
-     ]
-    },
-    {
-     "k": "Die Hauptursache für den fortgesetzten Ausstoß klimaschädlicher Gase bleibt die ",
-     "d": "c9141973c2.mp3",
-     "l": 71.11,
-     "s": [
-      0.25,
-      8.43,
-      21.5,
-      27.23,
-      35.38,
-      47.91,
-      54.11,
-      66.86
-     ]
-    },
-    {
-     "k": "Vor rund einem Jahrzehnt einigte sich die Staatengemeinschaft auf dem Weltklimag",
-     "d": "4821d31c40.mp3",
-     "l": 60.32,
-     "s": [
-      0.25,
-      7.94,
-      15.96,
-      23.32,
-      33.85,
-      39.95,
-      46.99,
-      53.75
-     ]
-    },
-    {
-     "k": "Das Umweltprogramm der Vereinten Nationen, international als UNEP bezeichnet, is",
-     "d": "1d0d7865f0.mp3",
-     "l": 60.84,
-     "s": [
-      0.25,
-      10.23,
-      19.82,
-      24.72,
-      33.27,
-      42.28,
-      49.09,
-      59.47
-     ]
-    },
-    {
-     "k": "UN-Generalsekretär António Guterres forderte die Regierungen auf, ihre Anstrengu",
-     "d": "69c570d455.mp3",
-     "l": 63.61,
-     "s": [
-      0.25,
-      8.96,
-      15.02,
-      24.23,
-      32.12,
-      39.11,
-      46.78,
-      55.05
-     ]
-    },
-    {
-     "k": "Die nächste Weltklimakonferenz, die COP31, findet im November im türkischen Bade",
-     "d": "db2dbe3f34.mp3",
-     "l": 59.48,
-     "s": [
-      0.25,
-      7.17,
-      13.11,
-      20.03,
-      27.74,
-      35.26,
-      42.8,
-      51.74
-     ]
-    }
-   ]
+   "bildVersucht": true
   },
   {
    "id": "tesla-spacex-fusion",
    "rubrik": "Wirtschaft",
-   "zeit": "2026-10-21T14:52:10.000Z",
-   "aktualisiert": "aktualisiert um 17:12 Uhr",
+   "zeit": "2026-10-21T19:45:21.000Z",
+   "aktualisiert": "aktualisiert um 22:06 Uhr",
    "titel": "Prüfung eines Zusammenschlusses von Tesla und SpaceX",
-   "vorspann": "Die US-Konzerne Tesla und SpaceX prüfen einen möglichen Zusammenschluss. Dies gab der Leiter beider Firmen, Elon Musk, in einer Videokonferenz bekannt.",
+   "vorspann": "Die von Elon Musk geführten Unternehmen Tesla und SpaceX prüfen einen möglichen Zusammenschluss. Laut Musk wurde von Aktionären die Bildung spezieller Ausschüsse gewünscht.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Elon Musk hat bestätigt, dass Tesla und SpaceX einen Zusammenschluss prüfen.",
-    "Beide Unternehmen gehören an der Börse zu den wertvollen Firmen weltweit.",
-    "Spezielle Ausschüsse sollen die Bedingungen einer möglichen Fusion untersuchen.",
-    "Für eine Umsetzung ist unter anderem die Zustimmung der Aktionäre erforderlich."
+    "Die Unternehmen Tesla und SpaceX prüfen einen möglichen gemeinsamen Zusammenschluss.",
+    "Elon Musk gab bekannt, dass auf Wunsch von Aktionären spezielle Ausschüsse eingerichtet wurden.",
+    "SpaceX legte starke Quartalszahlen vor und verzeichnete einen Milliardengewinn durch Internetdienste und KI-Rechenzentren.",
+    "Für eine mögliche Fusion ist die Zustimmung von mindestens 50 Prozent der Tesla-Aktionäre erforderlich."
    ],
    "einig": [
     [
      "Tesla und SpaceX prüfen einen Zusammenschluss.",
      [
       "Tagesschau/ARD",
+      "ZDFheute",
       "Deutschlandfunk",
-      "Süddeutsche Zeitung",
-      "BBC",
-      "NZZ"
+      "Spiegel",
+      "Zeit"
      ]
     ],
     [
-     "Elon Musk gab die Prüfung in einer Videokonferenz zu Quartalszahlen bekannt.",
+     "SpaceX erzielte im vergangenen Quartal einen Gewinn von 4,4 Milliarden Dollar.",
      [
       "Tagesschau/ARD",
-      "BBC",
-      "NZZ"
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Musk ist Großaktionär beider Firmen und wegen möglicher Interessenkonflikte nicht Teil der Ausschüsse.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel"
      ]
     ]
    ],
    "unklar": [
-    "Ob die Fusion tatsächlich stattfindet, ist laut Elon Musk unklar.",
-    "Über konkrete Bedingungen und Konditionen wurde laut den Berichten noch keine Einigung erzielt."
+    "Ob es tatsächlich zu einer Fusion von Tesla und SpaceX kommt, ist laut Elon Musk noch unsicher."
    ],
    "positionen": [
     [
-     "Elon Musk (CEO)",
-     "Findet einen Zusammenschluss der beiden Firmen grundsätzlich gut, sieht aber hohe Hürden.",
-     "Tagesschau/ARD, BBC, NZZ"
+     "Elon Musk (Unternehmenschef)",
+     "Ein Zusammenschluss beider Firmen ist eine gute Idee mit vielen Vorteilen, erfordert aber die Zustimmung von mindestens 50 Prozent der Tesla-Aktionäre.",
+     "Tagesschau/ARD, ZDFheute, Spiegel, Zeit"
     ],
     [
-     "Gene Munster (Analyst)",
-     "Hält den Zusammenschluss für wirtschaftlich sinnvoll, da Tesla KI mit der realen Welt verbinden kann.",
+     "Gene Munster (Branchenanalyst)",
+     "Ein Zusammengehen ergibt wirtschaftlich Sinn, da Tesla die Interaktion von KI mit der realen Welt einbringt.",
      "Tagesschau/ARD"
+    ],
+    [
+     "Ukraine (Regierung)",
+     "Wirft SpaceX vor, die Datenübertragung von Starlink zu drosseln und damit die Verteidigung zu behindern.",
+     "ZDFheute"
+    ],
+    [
+     "Donald Trump (US-Präsident)",
+     "Erklärt, keine Einschränkungen bei Starlink gefordert zu haben.",
+     "ZDFheute"
     ]
    ],
-   "fehlend": "Stimmen von Vertretern der Börsenaufsicht oder unabhängigen Kartellbehörden.",
+   "fehlend": "Stimmen von normalen Tesla- oder SpaceX-Aktionären sowie offizielle Stellungnahmen der beteiligten Telekommunikationskonzerne zu den Konkurrenzplänen.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
@@ -3120,8 +2960,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "21.10.26, 09:11",
-     "fokus": "Finanzdaten und Analystenmeinung",
-     "text": "Die Tagesschau nennt genaue Börsenwerte, Quartalszahlen der KI-Sparte und zitiert den Analysten Gene Munster.",
+     "fokus": "Finanzen und Fusion",
+     "text": "Berichtet ausführlich über die Börsenwerte, die Quartalszahlen von SpaceX sowie Aussagen des Analysten Gene Munster.",
      "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
      "video": false,
      "lesbar": {
@@ -3138,11 +2978,34 @@
      "publikumWert": 3.73
     },
     {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 09:43",
+     "fokus": "Starlink und politische Vorwürfe",
+     "text": "Behandelt neben den Geschäftszahlen auch die Vorwürfe aus der Ukraine bezüglich einer Drosselung von Starlink sowie die Dementis von Donald Trump.",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/spacex-umsatz-tesla-zusammenschluss-musk-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 531,
+      "satzlaenge": 15,
+      "langeWoerter": 36
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "21.10.26, 16:52",
+     "datum": "21.10.26, 21:45",
      "fokus": "–",
      "text": "Der Elektroautohersteller Tesla und das Raumfahrtunternehmen SpaceX prüfen einen Zusammenschluss.",
      "url": "https://www.deutschlandfunk.de/tesla-und-spacex-pruefen-zusammenschluss-100.html",
@@ -3153,131 +3016,104 @@
      "publikumWert": null
     },
     {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "21.10.26, 10:48",
-     "fokus": "–",
-     "text": "Elon Musk prüft eine Mega-Zusammenlegung seiner Konzerne Tesla und Space-X.",
-     "url": "https://www.sueddeutsche.de/wirtschaft/tesla-space-x-elon-musk-fusion-kommentar-li.3566748",
+     "datum": "21.10.26, 02:06",
+     "fokus": "Unternehmenszahlen und KI-Sparte",
+     "text": "Analysiert detailliert die Entwicklung der KI-Erlöse, die Umsätze von Starlink und das Vermögen von Elon Musk.",
+     "url": "https://www.spiegel.de/wirtschaft/elon-musk-spacex-verdoppelt-umsatz-und-prueft-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
      "video": false,
      "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 1,
-      "woerter": 131,
-      "satzlaenge": 19,
-      "langeWoerter": 24
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 506,
+      "satzlaenge": 14,
+      "langeWoerter": 33
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     },
     {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "21.10.26, 10:42",
-     "fokus": "Unternehmensstruktur und internationale Reaktionen",
-     "text": "Die BBC beleuchtet die Rolle von Elon Musk als Interessenkonfliktpartei.",
-     "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 8,
-      "minuten": 3,
-      "woerter": 614,
-      "satzlaenge": 22,
-      "langeWoerter": 27
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    },
-    {
-     "name": "NZZ",
-     "typ": "Tageszeitung (Schweiz)",
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
      "art": "privates Medium",
-     "stamm": false,
-     "datum": "21.10.26, 13:25",
-     "fokus": "Marktwerte und Stimmrechtsverhältnisse",
-     "text": "Die NZZ analysiert detailliert die Stimmrechte Musks sowie die Umsatz- und Investitionszahlen von SpaceX.",
-     "url": "https://www.nzz.ch/wirtschaft/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-ld.10039941",
+     "stamm": true,
+     "datum": "21.10.26, 02:02",
+     "fokus": "–",
+     "text": "Elon Musk bezeichnet eine Fusion seiner beiden Unternehmen als eine gute Idee mit »vielen Vorteilen«. SpaceX und Tesla würden bereits an gemeinsamen Projekten arbeiten.",
+     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/tesla-spacex-fusion-elon-musk-aktionaere",
      "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 883,
-      "satzlaenge": 15,
-      "langeWoerter": 36
-     },
-     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Details zur Geschäftsentwicklung",
-     "Die NZZ geht sehr detailliert auf die Investitionen und den Umsatzvergleich beider Firmen ein, während die Süddeutsche Zeitung die Vorführung eines neuen Roadsters beschreibt."
+     "Politische Aspekte",
+     "ZDFheute greift zusätzlich die Vorwürfe der Ukraine bezüglich der Drosselung von Starlink und die Aussagen von Donald Trump auf, während die anderen Quellen diesen Aspekt nicht oder kaum erwähnen."
     ]
    ],
    "wfragen": {
-    "wer": "Tech-Milliardär Elon Musk",
-    "was": "Prüfung einer Firmenfusion",
+    "wer": "Tech-Milliardär Elon Musk, Tesla und SpaceX",
+    "was": "Prüfung eines Zusammenschlusses beider Unternehmen",
     "wann": "21.10.2026",
     "wo": "USA",
-    "wie": "Durch spezielle Ausschüsse beider Firmen",
-    "warum": "Wirtschaftliche Vorteile laut Analysen und Elon Musk",
-    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Süddeutsche Zeitung, BBC, NZZ"
+    "wie": "durch die Bildung spezieller Ausschüsse auf Wunsch von Aktionären",
+    "warum": "laut Musk auf Wunsch von Aktionären; laut Analysten wegen möglicher wirtschaftlicher Synergieeffekte durch Künstliche Intelligenz",
+    "quellenlage": "Unternehmensmitteilungen, Videokonferenz zu Quartalszahlen, Medienberichte"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Die beiden US-Konzerne Tesla und SpaceX prüfen einen möglichen Zusammenschluss. Dies teilte der Vorstandschef beider Unternehmen, Elon Musk, in einer Videokonferenz mit. Laut Tagesschau/ARD, Deutschlandfunk, Süddeutsche Zeitung, BBC und Nzz handelt es sich um eine mögliche Zusammenlegung der beiden Firmen.",
-      "Sollte die Fusion zustande kommen, wäre dies laut den Berichten von Tagesschau/ARD und NZZ die bislang größte beziehungsweise gewichtigste Firmenfusion. Die beteiligten Unternehmen haben nach Angaben von Elon Musk spezielle Ausschüsse gebildet, um diesen Schritt zu untersuchen."
+      "Die beiden von dem Tech-Milliardär Elon Musk geführten Unternehmen Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Dies gab Musk in einer Videokonferenz zu den Quartalszahlen von SpaceX bekannt. Sollte diese Fusion zustande kommen, würde es sich um den bisher gewichtigsten Zusammenschluss zweier Firmen handeln.",
+      "Der Autobauer Tesla und die Raumfahrtfirma SpaceX haben laut den Berichten auf Wunsch von Aktionären spezielle Ausschüsse für diese Prüfung gebildet. Musk selbst nimmt wegen möglicher Interessenkonflikte nicht an diesen Ausschüssen teil. Er ist als Großaktionär an beiden Unternehmen beteiligt.",
+      "Über eine solche Fusion sei in der Vergangenheit bereits lange spekuliert worden, wobei sich Musk bisher stets ausweichend dazu geäußert habe. Nun erklärte er, dass er persönlich ein solches Zusammengehen für eine gute Idee halte. Gleichzeitig betonte er, es wäre übertrieben zu sagen, dass eine Umsetzung mit Sicherheit erfolgen werde."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "SpaceX ist laut Tagesschau/ARD, BBC und NZZ an der Börse aktuell mehr als 1,9 beziehungsweise rund 2 Billionen Dollar wert. Tesla wird in den Berichten von Tagesschau/ARD und BBC mit rund 1,48 beziehungsweise 1,5 Billionen Dollar bewertet. Laut NZZ käme ein fusionierter Riese auf einen Marktwert von 3,5 Billionen Dollar.",
-      "Elon Musk erklärte laut Tagesschau/ARD und BBC, dass er selbst wegen möglicher Interessenkonflikte nicht Teil dieser speziellen Ausschüsse ist. Nach Angaben der NZZ kontrolliert Musk bei Tesla rund 20 Prozent des Kapitals, während er bei SpaceX 45 Prozent der Anteile und über 80 Prozent der Stimmrechte hält.",
-      "Laut der NZZ beschäftigt Tesla über 130 000 Personen, während SpaceX gut 20 000 Mitarbeitende zählt. Der Umsatz von SpaceX stieg laut NZZ im jüngsten Quartal per Ende September um 161 Prozent auf 14,6 Milliarden Dollar, verbunden mit einem operativen Gewinn von 2,8 Milliarden Dollar. Die BBC nennt für denselben Zeitraum einen Profit von 4,4 Milliarden Dollar bei der Quartalsbilanz von SpaceX."
+      "SpaceX verzeichnete nach Angaben aus den Berichten im abgelaufenen Quartal einen Nettogewinn von 4,4 Milliarden US-Dollar. Im entsprechenden Vorjahreszeitraum hatte das Unternehmen noch einen Verlust von gut einer Milliarde US-Dollar verbucht. Der Umsatz des Raumfahrtkonzerns stieg auf 14,58 Milliarden US-Dollar nach rund 5,58 Milliarden US-Dollar im Vorjahr.",
+      "Der Börsenwert der beteiligten Unternehmen liegt auf einem sehr hohen Niveau. SpaceX wird an der Börse aktuell mit mehr als 1,9 Billionen US-Dollar bewertet, während der Automobilkonzern Tesla einen Wert von rund 1,48 Billionen US-Dollar aufweist. Die Anteile an beiden Firmen bilden die Basis für das Vermögen von Elon Musk, welches auf rund 920 Milliarden US-Dollar geschätzt wird.",
+      "Zudem verzeichnete SpaceX in verschiedenen Geschäftsbereichen deutliche Zuwächse. Der Internetdienst Starlink erreichte zum Stichtag 30. September 13,6 Millionen Kundinnen und Kunden und erzielte einen Umsatz von 5,2 Milliarden US-Dollar, was einem Anstieg von 69 Prozent im Jahresvergleich entspricht. Der Bereich Künstliche Intelligenz steigerte seine Erlöse ebenfalls stark auf 7,56 Milliarden US-Dollar."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "SpaceX war nach Angaben von Tagesschau/ARD und BBC im Juni an die Börse gegangen. Vor dem Börsengang hatte Musk laut BBC seine Firmen xAI und X in SpaceX aufgehen lassen. Die KI-Sparte von SpaceX baute laut Tagesschau/ARD große Rechenzentren auf, die inzwischen teilweise an Konkurrenten vermietet werden.",
-      "Tesla und SpaceX kooperieren laut Tagesschau/ARD und BBC bereits bei der Chipfabrik Terafab in den USA sowie bei Kaltgas-Raketendüsen für einen neuen Tesla-Sportwagen. Laut der Süddeutschen Zeitung ließ Musk in Waco im US-Bundesstaat Texas einen Roadster mit Triebwerken des Raketenbauers vorführen."
+      "SpaceX war im Juni mit einem Ausgabepreis von 135 US-Dollar an die Börse gegangen und erreichte eine Bewertung von fast 1,8 Billionen US-Dollar. Die Firma hat in den vergangenen Jahren ihre Aktivitäten im Bereich der Künstlichen Intelligenz stark ausgebaut, nachdem die zuvor nicht börsennotierte KI-Firma xAI in SpaceX aufgegangen war. Die Sparte vermietet Rechenkapazitäten an Unternehmen wie Anthropic und Google.",
+      "Darüber hinaus kooperieren Tesla und SpaceX bereits bei verschiedenen Projekten. Laut den Berichten ist der Bau einer großen Chipfabrik namens Terafab in den USA geplant, für die aktuell das Grundstück vorbereitet wird. Zudem ist der Einsatz von Kaltgas-Raketendüsen von SpaceX auf bestimmten Varianten eines neuen Tesla-Sportwagens vorgesehen, der für das Jahr 2028 in die Produktion gehen soll.",
+      "Im Zusammenhang mit dem Satellitendienst Starlink berichtete ZDFheute zudem über Vorwürfe der Ukraine. Demnach werfe die ukrainische Seite dem Konzern vor, die Datenübertragungsgeschwindigkeit gedrosselt zu haben. Dies geschehe laut Berichten des Wall Street Journal und von CBS News nach Absprache mit US-Präsident Donald Trump, was dieser jedoch dementierte."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Eine Firmenfusion bezeichnet den Zusammenschluss von zwei oder mehr Unternehmen zu einer einzigen wirtschaftlichen Einheit.",
-      "Aktien sind Anteile am Grundkapital einer Aktiengesellschaft, die Miteigentumsrechte verbriefen."
+      "Eine Aktiengesellschaft ist ein Unternehmen, dessen Kapital in Anteile, sogenannte Aktien, aufgeteilt ist. Diese Anteile werden an Börsen gehandelt, wo sich der Preis durch Angebot und Nachfrage bestimmt. Großaktionäre besitzen einen großen Anteil der stimmberechtigten Aktien und haben dadurch erheblichen Einfluss auf Hauptversammlungen und Unternehmensentscheidungen.",
+      "Unternehmen nutzen Fusionen oder Zusammenschlüsse oft, um Geschäftsbereiche zu bündeln, Kosten zu senken oder neue Märkte zu erschließen. Bei börsennotierten Unternehmen sind für solche strategischen Schritte meist umfangreiche Prüfungen durch interne Ausschüsse sowie die Zustimmung der Aktionärinnen und Aktionäre erforderlich."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Elon Musk erklärte in einer Videokonferenz laut Tagesschau/ARD, BBC und NZZ, er halte einen Zusammenschluss für eine gute Idee, schränkte jedoch ein, dass es keine Garantie dafür gebe. Er bezeichnete sich laut BBC als interessenskonfliktbehaftete Partei.",
-      "Der Investor und Branchenanalyst Gene Munster argumentierte laut Tagesschau/ARD, dass ein Zusammengehen wirtschaftlich Sinn ergebe, da Tesla Künstliche Intelligenz mit der realen Welt verknüpfen könne. Nach Angaben der NZZ reagierten die Aktionäre beider Firmen positiv auf das Vorhaben, wobei die Aktienkurse stiegen."
+      "Elon Musk erklärte in der Videokonferenz, er persönlich halte das Zusammengehen beider Firmen für eine gute Idee und sehe viele Vorteile. Er schränkte jedoch ein, dass für den Schritt mindestens 50 Prozent der Zustimmung aller Tesla-Aktionäre notwendig seien.",
+      "Der Investor und Branchenanalyst Gene Munster äußerte laut Tagesschau/ARD die Einschätzung, dass ein Zusammenschluss wirtschaftlich Sinn ergeben könne. Tesla verfüge über die Möglichkeit, Künstliche Intelligenz mit der realen Welt über Fahrzeuge und Roboter zu verbinden, weshalb er mit einer Zustimmung der Aktionäre rechne.",
+      "US-Präsident Donald Trump erklärte laut ZDFheute zu den Vorwürfen bezüglich einer Drosselung von Starlink, dass er keine Einschränkungen gefordert habe und nicht glaube, dass Musk dies getan habe."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Für einen Zusammenschluss ist laut Elon Musk die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig. Die Sonderausschüsse beider Unternehmen prüfen das Vorhaben weiter, ohne dass bislang Bedingungen festgelegt wurden."
+      "Die im Zuge der Prüfung gebildeten Ausschüsse werden die Möglichkeiten eines Zusammenschlusses weiter untersuchen. Für eine Umsetzung ist laut Elon Musk zwingend die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionärinnen und -Aktionäre erforderlich.",
+      "Zudem ist die Produktion des neuen Tesla-Sportwagens mit integrierten SpaceX-Raketendüsen laut den Angaben für das Jahr 2028 angekündigt."
      ]
     }
    ],
@@ -3290,139 +3126,123 @@
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Elon Musk entrepreneur",
-     "bildunterschrift": "Elon Musk ist der Leiter von Tesla und SpaceX."
+     "suchbegriff": "Elon Musk",
+     "bildunterschrift": "Der Tech-Milliardär Elon Musk führt die Konzerne Tesla und SpaceX."
     },
     {
      "art": "institution",
-     "suchbegriff": "Tesla headquarters Austin Texas",
-     "bildunterschrift": "Tesla ist einer der beiden an der Prüfung beteiligten Automobil- und Technologiekonzerne."
+     "suchbegriff": "Tesla, Inc.",
+     "bildunterschrift": "Das Unternehmen Tesla stellt Elektroautos und Roboter her."
     },
     {
      "art": "institution",
-     "suchbegriff": "SpaceX headquarters Hawthorne California",
-     "bildunterschrift": "SpaceX ist das Raumfahrt- und Technologieunternehmen von Elon Musk."
+     "suchbegriff": "SpaceX",
+     "bildunterschrift": "Das Raumfahrtunternehmen SpaceX betreibt unter anderem den Satellitendienst Starlink."
     }
    ],
    "ort": {
     "name": "USA"
    },
    "geprueft": true,
-   "korrekturen": [
-    "Wertende Ausdrücke im Entwurf wie 'riesig' oder 'gewaltig' wurden entfernt oder neutralisiert, sofern sie nicht Teil von direkten Angaben waren.",
-    "Direktzitate im Fließtext wurden auf unter zehn Wörter gekürzt oder als normale Aussagen formuliert."
-   ],
+   "korrekturen": [],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Fusion",
-      "Der Zusammenschluss von zwei oder mehr eigenständigen Unternehmen zu einer einzigen neuen Firma."
+      "Der Zusammenschluss von zwei oder mehreren eigenständigen Unternehmen zu einer einzigen neuen Firma."
      ],
      [
       "Aktionär",
-      "Eine Person oder Institution, die Anteile an einer Aktiengesellschaft besitzt und dadurch Mitbestimmungsrechte hat."
+      "Eine Person, die Anteile an einer Aktiengesellschaft besitzt und dadurch Mitbesitzer des Unternehmens ist."
      ],
      [
       "Künstliche Intelligenz",
-      "Computerprogramme oder Systeme, die versuchen, menschliches Denken und Lernen nachzuahmen."
+      "Computerprogramme, die eigenständig Aufgaben lösen und wie menschliches Denken wirken sollen."
      ]
     ],
     "fragen": [
-     "Welche wirtschaftlichen Vorteile könnte ein Zusammenschluss von Tesla und SpaceX laut Experten haben?",
-     "Warum ist die Zustimmung von Aktionären bei großen Firmenfusionen wichtig?"
+     "Welche Vorteile könnte eine Fusion von Tesla und SpaceX für beide Unternehmen wirtschaftlich bringen?",
+     "Welche Rolle spielen Großaktionäre bei Entscheidungen über den Zusammenschluss von Unternehmen?"
     ],
     "quiz": [
      {
-      "frage": "Wer hat die Prüfung des Zusammenschlusses öffentlich bekannt gegeben?",
+      "frage": "Welche Unternehmen prüfen laut den Berichten einen Zusammenschluss?",
       "optionen": [
-       "Elon Musk",
-       "US-Präsident Donald Trump",
-       "Der Bundeskanzler"
+       "Tesla und SpaceX",
+       "Tesla und Google",
+       "SpaceX und Anthropic"
       ],
       "richtig": 0,
-      "erklaerung": "Elon Musk gab die Prüfung des Zusammenschlusses in einer Videokonferenz zu den Quartalszahlen bekannt."
+      "erklaerung": "Laut Tagesschau, ZDFheute, Deutschlandfunk, Spiegel und Zeit prüfen Tesla und SpaceX einen Zusammenschluss."
      },
      {
-      "frage": "Welche Hürde muss für eine Fusion bei Tesla mindestens erreicht werden?",
+      "frage": "Wie hoch war der Gewinn von SpaceX im vergangenen Quartal?",
       "optionen": [
-       "Die Zustimmung von allen Mitarbeitern",
-       "Die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre",
-       "Die Erlaubnis der Europäischen Union"
+       "1,48 Milliarden Dollar",
+       "4,4 Milliarden Dollar",
+       "7,56 Milliarden Dollar"
       ],
       "richtig": 1,
-      "erklaerung": "Laut Elon Musk ist für den Schritt die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig."
+      "erklaerung": "SpaceX verzeichnete laut übereinstimmenden Angaben einen Quartalsgewinn von 4,4 Milliarden Dollar."
      },
      {
-      "frage": "In welchen Bereichen sind Tesla und SpaceX vor allem tätig?",
+      "frage": "Wie viel Prozent der Tesla-Aktionäre müssen laut Musk mindestens zustimmen?",
       "optionen": [
-       "Tesla baut Schiffe, SpaceX baut Züge",
-       "Tesla baut Elektroautos, SpaceX baut Raumfahrt- und Raketentechnik",
-       "Beide Firmen stellen ausschließlich Kleidung her"
+       "Mindestens 25 Prozent",
+       "Mindestens 50 Prozent",
+       "Mindestens 75 Prozent"
       ],
       "richtig": 1,
-      "erklaerung": "Tesla ist ein Elektroautohersteller und SpaceX ein Raumfahrtunternehmen."
+      "erklaerung": "Musk erklärte, dass die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig ist."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Die Unternehmen Tesla und SpaceX prüfen, ob sie sich zusammenschließen wollen.",
+    "vorspann": "Die großen Firmen Tesla und SpaceX prüfen einen Zusammenschluss. Das haben die Unternehmen bekannt gegeben.",
     "absaetze": [
-     "Tesla baut Elektroautos. SpaceX baut Raketen für den Weltraum.",
-     "Beide Firmen werden von dem US-Milliardär Elon Musk geleitet.",
-     "Musk sagte in einer Videokonferenz, dass er eine Verbindung für eine gute Idee hält.",
-     "Spezielle Gruppen in beiden Firmen prüfen nun die genauen Bedingungen dafür.",
-     "Am Ende müssen die Eigentümer der Firmen, die Aktionäre, der Fusion zustimmen."
+     "Tesla baut Elektroautos, und SpaceX baut Raumschiffe und Satelliten. Beide Firmen werden von dem reichen Unternehmer Elon Musk geführt.",
+     "Ein Zusammenschluss bedeutet, dass zwei Firmen zu einer einzigen Firma verschmelzen. Laut Musk haben Aktionäre diesen Schritt gewünscht.",
+     "SpaceX hat im vergangenen Quartal einen sehr hohen Gewinn von vier Komma vier Milliarden Dollar erzielt. Auch die Einnahmen durch Künstliche Intelligenz sind stark gestiegen.",
+     "Ob es wirklich zu der Fusion kommt, ist noch nicht sicher. Mindestens die Hälfte aller Tesla-Aktionäre muss dem Plan zustimmen."
     ]
    },
    "video": {
     "kurz": [
-     "Die Unternehmen Tesla und SpaceX prüfen einen möglichen Zusammenschluss.",
-     "Das sagte Firmenchef Elon Musk während einer Videokonferenz zu Quartalszahlen.",
-     "Ob die Fusion tatsächlich stattfindet, ist nach Angaben von Musk noch offen."
+     "Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Das sagte der Unternehmenschef Elon Musk in einer Videokonferenz. Für eine Fusion ist die Zustimmung von mindestens fünfzig Prozent der Aktionäre nötig."
     ],
     "lang": [
-     "Die beiden US-Konzerne Tesla und SpaceX prüfen einen möglichen Zusammenschluss.",
-     "Das gab der Leiter beider Firmen, Elon Musk, in einer Videokonferenz bekannt.",
-     "Tesla stellt Elektroautos her, während SpaceX als Raumfahrtunternehmen tätig ist.",
-     "Nach Angaben von Musk wurden spezielle Ausschüsse gebildet, um den Schritt zu untersuchen.",
-     "SpaceX hat laut Berichten einen Börsenwert von rund zwei Billionen Dollar.",
-     "Tesla wird in den Berichten mit einem Wert von rund 1,5 Billionen Dollar genannt.",
-     "Ein Analyst erklärte, dass ein Zusammenschluss wirtschaftlich sinnvoll sein könnte.",
-     "Eine Fusion würde nach Angaben von Musk mindestens die Zustimmung von fünfzig Prozent der Tesla-Aktionäre erfordern.",
-     "Ob der Zusammenschluss am Ende stattfindet, ist derzeit noch unklar.",
-     "Die beteiligten Ausschüsse haben noch keine festen Bedingungen vereinbart."
+     "Die von Elon Musk geführten Unternehmen Tesla und SpaceX prüfen einen möglichen Zusammenschluss. Das teilten die Firmen am einundzwanzigsten Oktober zweitausendsechsundzwanzig mit. Musk erklärte in einer Videokonferenz, dass spezielle Ausschüsse für diese Prüfung gebildet wurden. SpaceX ist an der Börse mehr als eine Billion neunhundert Milliarden Dollar wert. Tesla kommt auf einen Wert von rund einer Billion vierhundertachtzig Milliarden Dollar. Im vergangenen Quartal erzielte SpaceX einen Gewinn von vier Komma vier Milliarden Dollar. Der Umsatz stieg nach Unternehmensangaben stark an. Musk selbst betonte, dass er eine Fusion für eine gute Idee halte. Über eine Umsetzung müsse jedoch noch entschieden werden. Für den Schritt ist demnach die Zustimmung von mindestens fünfzig Prozent aller Tesla-Aktionäre erforderlich."
     ],
     "einfach": [
-     "Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss.",
-     "Elon Musk leitet beide großen Unternehmen in den Vereinigten Staaten.",
-     "Besondere Gruppen in den Firmen prüfen diesen Plan derzeit genauer.",
-     "Eine Aktie ist ein kleiner Anteil an einem Unternehmen.",
-     "Ob die Firmen wirklich zusammengelegt werden, entscheidet sich erst später."
+     "Die Firmen Tesla und SpaceX prüfen eine Verbindung. Beide Firmen gehören zu dem reichen Unternehmer Elon Musk. SpaceX hat im letzten Quartal viel Geld verdient. Ob die Firmen wirklich zusammengelegt werden, ist noch nicht sicher. Mindestens die Hälfte der Aktionäre muss der Planung zustimmen."
     ]
    },
    "kurz": [
-    "Die US-Firmen Tesla und SpaceX prüfen einen möglichen Zusammenschluss.",
-    "Das gab Vorstandschef Elon Musk in einer Videokonferenz bekannt.",
-    "Spezielle Ausschüsse sollen die Bedingungen der Fusion untersuchen.",
-    "Für eine Umsetzung ist die Zustimmung der Aktionäre erforderlich."
+    "Die Unternehmen Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss.",
+    "SpaceX verzeichnete im abgelaufenen Quartal einen Gewinn von 4,4 Milliarden Dollar.",
+    "Für eine Fusion ist die Zustimmung von mindestens 50 Prozent der Tesla-Aktionäre nötig."
    ],
    "fakten": [
     [
-     "Börsenwert SpaceX",
-     "ca. 1,9 bis 2 Billionen Dollar"
+     "Gewinn von SpaceX im Quartal",
+     "4,4 Milliarden Dollar"
     ],
     [
-     "Börsenwert Tesla",
-     "ca. 1,48 bis 1,5 Billionen Dollar"
+     "Umsatz von SpaceX im Quartal",
+     "14,58 Milliarden Dollar"
     ],
     [
-     "Mitarbeiter Tesla",
-     "über 130 000"
+     "Börsenwert von SpaceX",
+     "mehr als 1,9 Billionen Dollar"
     ],
     [
-     "Mitarbeiter SpaceX",
-     "gut 20 000"
+     "Börsenwert von Tesla",
+     "rund 1,48 Billionen Dollar"
+    ],
+    [
+     "Starlink-Kunden",
+     "13,6 Millionen"
     ]
    ],
    "dossier": {
@@ -3484,198 +3304,67 @@
     "lat": 39.784,
     "lon": -100.446
    },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Die Unternehmen Tesla und SpaceX prüfen einen möglichen Zusammenschluss. Das sag",
-     "d": "65eac4740d.mp3",
-     "l": 13.89,
-     "s": [
-      0.25,
-      4.49,
-      9.08
-     ]
-    },
-    {
-     "k": "Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Elon Musk leitet beid",
-     "d": "a8c492a696.mp3",
-     "l": 23.36,
-     "s": [
-      0.25,
-      4.87,
-      9.87,
-      14.57,
-      18.31
-     ]
-    },
-    {
-     "k": "Ob die Fusion tatsächlich stattfindet, ist laut Elon Musk unklar.",
-     "d": "ced9466ec3.mp3",
-     "l": 4.56,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Fusion? Der Zusammenschluss von zwei oder mehr eigenstän",
-     "d": "78cd37e0bb.mp3",
-     "l": 9.02,
-     "s": [
-      0.25,
-      3.08
-     ]
-    },
-    {
-     "k": "Die beiden US-Konzerne Tesla und SpaceX prüfen einen möglichen Zusammenschluss. ",
-     "d": "48d6a4dd7f.mp3",
-     "l": 35.72,
-     "s": [
-      0.25,
-      5.54,
-      10.84,
-      19.63,
-      28.6
-     ]
-    },
-    {
-     "k": "SpaceX ist laut Tagesschau/ARD, BBC und NZZ an der Börse aktuell mehr als 1,9 be",
-     "d": "7f75879a2c.mp3",
-     "l": 72.7,
-     "s": [
-      0.25,
-      9.92,
-      19.08,
-      25.31,
-      33.67,
-      44.31,
-      52.54,
-      64.79
-     ]
-    },
-    {
-     "k": "SpaceX war nach Angaben von Tagesschau/ARD und BBC im Juni an die Börse gegangen",
-     "d": "7c3ff474bf.mp3",
-     "l": 39.72,
-     "s": [
-      0.25,
-      5.94,
-      12.08,
-      20.9,
-      31.38
-     ]
-    },
-    {
-     "k": "Eine Firmenfusion bezeichnet den Zusammenschluss von zwei oder mehr Unternehmen ",
-     "d": "bf4b99247d.mp3",
-     "l": 12.89,
-     "s": [
-      0.25,
-      7.13
-     ]
-    },
-    {
-     "k": "Elon Musk erklärte in einer Videokonferenz laut Tagesschau/ARD, BBC und NZZ, er ",
-     "d": "620b882d31.mp3",
-     "l": 34.05,
-     "s": [
-      0.25,
-      11.64,
-      16.29,
-      26.95
-     ]
-    },
-    {
-     "k": "Für einen Zusammenschluss ist laut Elon Musk die Zustimmung von mindestens 50 Pr",
-     "d": "ebc0a1292a.mp3",
-     "l": 13.9,
-     "s": [
-      0.25,
-      7.36
-     ]
-    }
-   ]
+   "version": 5
   },
   {
    "id": "alice-schwarzer-emma-einstellung",
    "rubrik": "Deutschland",
-   "zeit": "2026-10-21T14:52:10.000Z",
-   "aktualisiert": "aktualisiert um 17:12 Uhr",
-   "titel": "Feministisches Magazin Emma wird nach 50 Jahren eingestellt",
-   "vorspann": "Herausgeberin Alice Schwarzer hat das Ende der Zeitschrift Emma zum Dezember 2026 bekanntgegeben. Als Grund nannte sie eine Ermattung des Teams und schloss wirtschaftliche Ursachen aus.",
+   "zeit": "2026-10-21T19:45:21.000Z",
+   "aktualisiert": "aktualisiert um 22:06 Uhr",
+   "titel": "Einstellung des feministischen Magazins Emma nach 50 Jahren",
+   "vorspann": "Das feministische Magazin Emma wird nach 50 Jahren im Dezember eingestellt. Die Gründerin und Herausgeberin Alice Schwarzer nennt keine wirtschaftlichen Gründe für den Schritt.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Das von Alice Schwarzer gegründete feministische Magazin Emma wird nach 50 Jahren eingestellt.",
-    "Die letzte reguläre Ausgabe der Zeitschrift erscheint am 8. Dezember 2026.",
-    "Schwarzer begründete das Ende mit einer allgemeinen Ermattung des Teams und verneinte finanzielle Gründe.",
-    "Das Archiv der Zeitschrift soll ab 2029 im Deutschen Literaturarchiv Marbach für die Forschung zugänglich sein."
+    "Alice Schwarzer stellt das feministische Magazin Emma nach 50 Jahren im Dezember ein.",
+    "Als Grund für die Einstellung nennt die Herausgeberin keine wirtschaftlichen Probleme, sondern das Ende eines langen Wirkungszeitraums.",
+    "Das Magazin prägte seit 1977 die deutsche Frauenbewegung und setzte zahlreiche gesellschaftliche Themen auf die Agenda.",
+    "Das Archiv der Zeitschrift soll ab 2029 im Deutschen Literaturarchiv Marbach für Forschende zugänglich sein."
    ],
    "einig": [
     [
-     "Das Magazin Emma wird nach 50 Jahren eingestellt.",
+     "Das feministische Magazin Emma wird nach 50 Jahren eingestellt.",
      [
       "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "FAZ",
-      "Spiegel"
+      "ZDFheute",
+      "Deutschlandfunk"
      ]
     ],
     [
-     "Die letzte Ausgabe des Blattes erscheint am 8. Dezember 2026.",
+     "Die letzte Ausgabe des Magazins erscheint am 8. Dezember.",
      [
       "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Spiegel"
+      "ZDFheute",
+      "Deutschlandfunk"
      ]
     ],
     [
-     "Alice Schwarzer ist die Gründerin und Herausgeberin der Zeitschrift.",
+     "Das Archiv des Magazins soll in das Deutsche Literaturarchiv Marbach übergehen.",
      [
       "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Spiegel",
-      "FAZ",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Schwarzer begründet die Einstellung mit Ermattung und nicht mit wirtschaftlichen Gründen.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "FAZ"
-     ]
-    ],
-    [
-     "Die erste Ausgabe des Magazins erschien im Januar oder Februar 1977.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Spiegel",
-      "FAZ"
+      "ZDFheute"
      ]
     ]
    ],
    "unklar": [
-    "Der genaue Erstverkaufstag: Tagesschau/ARD nennt den 26. Januar 1977, während der Spiegel den Februar 1977 als Ausgabemonat angibt.",
-    "Die Rolle wirtschaftlicher Faktoren: Während Schwarzer ökonomische Gründe bestreitet, hebt die FAZ den starken Auflagenrückgang von ehemals 200.000 auf rund 25.000 Exemplare hervor."
+    "Ob sinkende Auflagenzahlen trotz der Erklärung von Alice Schwarzer eine Rolle bei der Einstellung spielen, wird in den Berichten unterschiedlich gewichtet."
    ],
    "positionen": [
     [
-     "Alice Schwarzer (Gründerin und Herausgeberin)",
-     "Die Einstellung erfolgt aus persönlicher Ermattung nach 50 Jahren und nicht wegen finanzieller Probleme; zudem schade der moderne Queer-Feminismus den Belangen biologischer Frauen.",
-     "Tagesschau/ARD, FAZ"
+     "Alice Schwarzer (Herausgeberin)",
+     "Das Magazin wird laut eigener Aussage nicht aus ökonomischen Gründen eingestellt, sondern weil das Team der Meinung ist, dass es reicht.",
+     "Tagesschau/ARD, ZDFheute"
     ],
     [
-     "Aktivistinnen der Kölner Lesbengruppen (1994)",
-     "Warfen der Zeitschrift und ihrer Herausgeberin Rassismus, Euthanasiebefürwortung sowie Holocaustrelativierung vor.",
-     "Spiegel"
+     "Kritiker und Autorinnen",
+     "Kritisieren Alice Schwarzer wegen Positionen zu Transpersonen, dem Ukraine-Krieg und islamischen Themen als undifferenziert oder transfeindlich.",
+     "ZDFheute"
     ]
    ],
-   "fehlend": "Aktuelle Stellungnahmen von jüngeren feministischen Gruppen oder Verbänden zur Einstellung des Magazins",
+   "fehlend": "Stimmen von ehemaligen Redaktionsmitgliedern oder Lesern außerhalb der zitierten Kritikpunkte",
    "medien": [
     {
      "name": "Tagesschau/ARD",
@@ -3683,8 +3372,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "21.10.26, 10:40",
-     "fokus": "–",
-     "text": "Nach 50 Jahren ist Schluss. Das feministische Magazin \"Emma\" wird eingestellt. Gründerin und Herausgeberin Alice Schwarzer betonte, die Gründe seien nicht ökonomischer Natur. \"Wir meinen, es reicht.\"",
+     "fokus": "Einstellung und Hintergründe",
+     "text": "Berichtet umfassend über die Mitteilung der Herausgeberin und die Aufnahme des Archivs in Marbach.",
      "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
      "video": false,
      "lesbar": {
@@ -3701,13 +3390,36 @@
      "publikumWert": 3.73
     },
     {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 13:09",
+     "fokus": "Geschichte und Kontroversen",
+     "text": "Beleuchtet neben der Einstellung auch historische Kampagnen sowie aktuelle Konflikte um das Magazin.",
+     "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 841,
+      "satzlaenge": 15,
+      "langeWoerter": 34
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "21.10.26, 16:52",
-     "fokus": "–",
-     "text": "Nach 50 Jahren wird das feministische Magazin \"Emma\" eingestellt. Die Herausgeberin Alice Schwarzer sagte der Deutschen Presse-Agentur in Köln, die Ausgabe vom 8. Dezember werde die letzte sein. Schwarzer hatte die Zeitschrift im Januar 1977 mit einem Kollektiv gegründet.",
+     "datum": "21.10.26, 21:45",
+     "fokus": "Kurzmeldung zur Einstellung",
+     "text": "Meldet die Entscheidung der Herausgeberin zur Beendigung des Magazins nach 50 Jahren.",
      "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
      "video": false,
      "lesbar": null,
@@ -3716,36 +3428,13 @@
      "publikumWert": null
     },
     {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 13:15",
-     "fokus": "–",
-     "text": "Alice Schwarzer gründete 1977 »Emma«. Unter ihrer streitbaren Führung prägte das Magazin feministische Diskurse – oft gegen heftigen Widerstand, auch von anderen Frauen. Deutsche Mediengeschichte in Bildern.",
-     "url": "https://www.spiegel.de/kultur/emma-wird-eingestellt-50-jahre-protest-und-kontroversen-a-71e29dad-ee96-4c54-8377-4acdf2fecde5#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 826,
-      "satzlaenge": 16,
-      "langeWoerter": 36
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
      "name": "Süddeutsche Zeitung",
      "typ": "Tageszeitung",
      "art": "privates Medium",
      "stamm": true,
      "datum": "21.10.26, 14:30",
-     "fokus": "–",
-     "text": "„Also gestattet: Jetzt sind wir ermattet“: Alice Schwarzer hat verkündet, dass die „Emma“ eingestellt wird. Nachruf auf ein Magazin, das die deutsche Medienlandschaft nachhaltig verändert hat.",
+     "fokus": "Medienhistorischer Rückblick",
+     "text": "Ordnet die historische Bedeutung der Publikation für die deutsche Medienlandschaft ein.",
      "url": "https://www.sueddeutsche.de/medien/emma-zeitschrift-eingestellt-alice-schwarzer-kritik-feminismus-li.3566761",
      "video": false,
      "lesbar": {
@@ -3767,8 +3456,8 @@
      "art": "privates Medium",
      "stamm": true,
      "datum": "21.10.26, 16:37",
-     "fokus": "–",
-     "text": "Alice Schwarzer stellt die Zeitschrift „Emma“ ein. Hat sie wirklich einfach nur genug?",
+     "fokus": "Gesellschaftlicher Wandel",
+     "text": "Analysiert den Wandel des Feminismus und die gesellschaftlichen Veränderungen seit der Gründung.",
      "url": "https://www.faz.net/aktuell/politik/inland/alice-schwarzer-stellt-emma-ein-ermattung-oder-niederlage-201608437.html",
      "video": false,
      "lesbar": {
@@ -3776,9 +3465,9 @@
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 9,
       "minuten": 1,
-      "woerter": 281,
-      "satzlaenge": 20,
-      "langeWoerter": 32
+      "woerter": 287,
+      "satzlaenge": 19,
+      "langeWoerter": 33
      },
      "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
      "finanzierung": "Abos und Werbung",
@@ -3787,80 +3476,67 @@
    ],
    "unterschiede": [
     [
-     "Finanzielle Bewertung",
-     "Die Tagesschau zitiert Schwarzer mit dem Hinweis auf ein ausreichendes finanzielles Polster, während die FAZ den Rückgang auf 25.000 verkaufte Hefte hervorhebt."
-    ],
-    [
-     "Historische Kontroversen",
-     "Der Spiegel führt gezielt Ereignisse wie den Prozess gegen den Stern, den Überfall von 1994 und den Kachelmann-Prozess auf, die andere Medien nur am Rande erwähnen."
-    ],
-    [
-     "Zukunft der Bestände",
-     "Ausschließlich die Tagesschau berichtet über den Transfer des redaktionellen Archivs nach Marbach ab dem Jahr 2029."
+     "Thementiefe",
+     "Während Tagesschau und Deutschlandfunk kurz über die Einstellung berichten, widmet sich ZDFheute ausführlich den historischen Kampagnen und den Kontroversen der letzten Jahre."
     ]
    ],
    "wfragen": {
-    "wer": "Alice Schwarzer, Gründerin des Magazins Emma",
-    "was": "Einstellung der feministischen Zeitschrift nach 50 Jahren",
+    "wer": "Alice Schwarzer und das Team des Magazins Emma",
+    "was": "Das feministische Magazin Emma wird nach 50 Jahren eingestellt.",
     "wann": "Oktober 2026",
     "wo": "Köln, Deutschland",
-    "wie": "Letzte Ausgabe erscheint am 8. Dezember 2026",
-    "warum": "Laut Schwarzer wegen Ermattung und nicht aus ökonomischen Gründen",
-    "quellenlage": "Mitteilungen von Alice Schwarzer sowie Berichte überregionaler Medien"
+    "wie": "Durch eine öffentliche Ankündigung der Gründerin Alice Schwarzer",
+    "warum": "Weil das Team laut Alice Schwarzer meint, es reiche",
+    "quellenlage": "Mitteilungen der Herausgeberin und Berichte öffentlich-rechtlicher sowie privater Medien"
    },
    "artikel": [
     {
-     "ueberschrift": "Das ist passiert",
+     "ueberschrift": "Das Ende einer Ära",
      "absaetze": [
-      "Die Publizistin Alice Schwarzer hat das Ende der feministischen Zeitschrift Emma bekanntgegeben. Nach fünf Jahrzehnten wird das Blatt im Dezember 2026 eingestellt. Die abschließende Ausgabe soll nach Angaben der Tagesschau und des Deutschlandfunks am 8. Dezember erscheinen. Schwarzer erklärte diesen Schritt laut Tagesschau und Spiegel damit, dass das Team nach vielen Jahren der publizistischen Tätigkeit ermattet sei.",
-      "Die Ankündigung erfolgte durch eine Mitteilung der Herausgeberin und eine Erklärung gegenüber der Deutschen Presse-Agentur in Köln, wie der Deutschlandfunk berichtete. Schwarzer betonte dabei laut Tagesschau, das Magazin habe über drei Generationen von Feministinnen hinweg die Stellung gehalten. Nun sei jedoch der Zeitpunkt erreicht, an dem die Arbeit beendet werden solle. Mit dieser Entscheidung geht eine bekannte Frauenzeitschrift zu Ende.",
-      "Schwarzer wies laut Tagesschau und Spiegel Vermutungen zurück, die Einstellung erfolge aus wirtschaftlichen Gründen. Zwar gehe die Auflage der Zeitschrift zurück, doch deckten die Einnahmen nach wie vor die anfallenden Ausgaben, und es gebe ein finanzielles Polster. Das Ende sei daher eine bewusste Entscheidung der Beteiligten. Die Redaktion vertrete die Ansicht, dass es reicht."
+      "Das feministische Magazin Emma wird nach 50 Jahren eingestellt. Die Gründerin und Herausgeberin Alice Schwarzer teilte mit, dass die Ausgabe vom 8. Dezember die letzte sein wird. Damit endet die Veröffentlichung der Zeitschrift, die im Januar 1977 zum ersten Mal erschien. Insgesamt wird das Magazin bis zu seiner Einstellung 398 Ausgaben herausgebracht haben.",
+      "Die Entscheidung zur Einstellung wurde im Oktober 2026 bekannt gegeben. Laut den Berichten von Tagesschau/ARD und ZDFheute begründete Alice Schwarzer das Ende des Blattes nicht mit wirtschaftlichen Schwierigkeiten. Die Einnahmen würden nach wie vor die Ausgaben decken und es existiere ein finanzielles Polster. Die sinkende Auflage sei daher nicht der ausschlaggebende Punkt für den Entschluss.",
+      "In einer Erklärung äußerte die Herausgeberin, dass die Redaktion nach fünf Jahrzehnten an einem Punkt angelangt sei, an dem sie das Ende beschließe. In den Worten von Alice Schwarzer lautet die Begründung schlicht, dass es nun reiche. Das Magazin habe über drei Generationen hinweg die Stellung gehalten und gegen verschiedene Entwicklungen im Namen des Feminismus Position bezogen."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten",
+     "ueberschrift": "Historische Einordnung und Themenschwerpunkte",
      "absaetze": [
-      "Die Verkaufszahlen des Blattes veränderten sich im Verlauf der Jahrzehnte deutlich. Für das erste Heft im Jahr 1977 wurden nach Angaben des Spiegels zunächst 200.000 Exemplare gedruckt, und weitere 100.000 mussten nachgedruckt werden. Nach einem Bericht der Frankfurter Allgemeinen Zeitung lag die Auflage im Jahr 2023 noch bei rund 25.000 Heften. Schwarzer bekräftigte laut Tagesschau dennoch, dass die wirtschaftliche Basis intakt geblieben sei.",
-      "Die Zeitschrift wurde im Januar 1977 von Alice Schwarzer gemeinsam mit einem Kollektiv gegründet, wie Tagesschau und Deutschlandfunk mitteilen. Die Tagesschau datiert die Erstausgabe auf den 26. Januar 1977, während der Spiegel den Februar 1977 nennt. Schwarzer erklärte rückblickend, sie habe damals eine Frauenfeindlichkeit in den Medien wahrgenommen und dem etwas entgegensetzen wollen. Auf dem Deckblatt der Erstausgabe war Schwarzer selbst zu sehen, ergänzt um einen Aufsatz über Männerjustiz, wie der Spiegel berichtet.",
-      "Im Verlauf ihres Bestehens thematisierte die Zeitschrift wiederholt rechtliche und gesellschaftliche Streitpunkte. Zu den frühen Schwerpunkten gehörten das Ehegattensplitting und Genitalverstümmelung, wie die Tagesschau angibt. Die Frankfurter Allgemeine Zeitung nennt zudem sexuellen Missbrauch, Gewalt in der Ehe, sexistische Pornografie, Prostitution und Menschenhandel als Themenfelder. Im Jahr 1987 startete die Redaktion die PorNO-Kampagne mit dem Ziel, Pornografie als Verstoß gegen die Menschenwürde zu ahnden, was laut Spiegel einen Konflikt im Feminismus berührte."
+      "Das Magazin Emma gilt laut den vorliegenden Berichten als Ikone der Frauenbewegung und wurde von Alice Schwarzer im Januar 1977 gegründet. Als Motiv für die Gründung nannte die Herausgeberin die damals von Feministinnen wahrgenommene Frauenfeindlichkeit in den sogenannten Männermedien. Journalistinnen hätten eine eigene Stimme und ein eigenes Magazin benötigt.",
+      "In den Anfangsjahren der Zeitschrift trug sich die gesellschaftliche Situation in Deutschland zu, in der Ehefrauen nach einer Reform des Familienrechts erst ab 1977 uneingeschränkt arbeiten gehen durften, sofern der Ehemann dies nicht wegen der familiären Pflichten untersagte. Vor diesem Hintergrund setzte Emma in den folgenden Jahrzehnten zahlreiche Themen auf die Agenda, die von anderen Medien zunächst kaum oder gar nicht behandelt wurden.",
+      "Zu den frühen Schwerpunkten des Magazins zählten Themen wie das Ehegattensplitting, Genitalverstümmelung, sexueller Missbrauch, Gewalt in der Ehe und sexistische Pornografie. Laut ZDFheute machte die Redaktion im Jahr 1978 mit einem Beitrag über ein Verbrechen auf das Thema aufmerksam und veröffentlichte später unter dem Titel PorNO! einen Entwurf für ein Anti-Porno-Gesetz. Auch Kampagnen zur Früherkennung von Brustkrebserkrankungen wurden durch das Magazin initiiert."
      ]
     },
     {
-     "ueberschrift": "Hintergrund",
+     "ueberschrift": "Auseinandersetzungen und gesellschaftliche Debatten",
      "absaetze": [
-      "Die Gründung der Zeitschrift fiel in eine Phase bedeutender rechtlicher Reformen in der Bundesrepublik Deutschland. Wie die Frankfurter Allgemeine Zeitung darlegt, wurde im Jahr 1977 das Familienrecht reformiert, wodurch Ehefrauen erstmals uneingeschränkt erlaubt wurde, arbeiten zu gehen. Zuvor hatte der Ehemann es verwehren können, wenn die Frau dadurch ihre Pflichten in der Familie vernachlässigte. Schwarzer hatte bereits 1971 die Stern-Aktion initiiert, bei der Frauen sich öffentlich zur Abtreibung bekannten, so die Süddeutsche Zeitung. Im Jahr 1975 erschien zudem ihr Buch über den kleinen Unterschied, das ein Medienecho auslöste.",
-      "Die Redaktion von Emma trug ihre Auseinandersetzungen mehrfach vor Gericht und im öffentlichen Raum aus. Im Juli 1978 verklagten Schwarzer und die Schauspielerin Inge Meysel laut Spiegel das Magazin Stern vor dem Hamburger Landgericht, weil dieses Frauen als Sex-Objekte zeige; das Gericht wies die Klage ab. Im Mai 1994 stürmten laut Spiegel maskierte Frauen als Kölner Lesbengruppen die Redträume und warfen dem Blatt Rassismus, Euthanasiebefürwortung und Holocaustrelativierung vor.",
-      "Auch in späteren Jahren war die Gründerin in Kontroversen verwickelt. Während des Kachelmann-Prozesses im Jahr 2010 ergriff Schwarzer laut Spiegel früh Position, was zu gerichtlichen Untersagungen führte. Später kritisierte Schwarzer moderne Strömungen des Queer-Feminismus. Laut der Frankfurter Allgemeine Zeitung argumentierte sie, identitätspolitische Debatten lenkten von den realen Problemen biologischer Frauen ab."
+      "Im Laufe seiner Geschichte war das Magazin Emma wiederholt Gegenstand öffentlicher Debatten und Kontroversen. Laut ZDFheute prangerte das Blatt seit den späten 1970er Jahren patriarchalische und frauenfeindliche Praktiken im Islam an, was von Islamwissenschaftlern und anderen Kritikern teils als zu undifferenziert und pauschalisierend bewertet wurde. Auch Schwarzers Beschreibungen der Täter der Kölner Silvesternacht stießen auf Gegenstimmen.",
+      "Weitere Reibungspunkte entstanden in den vergangenen Jahren durch die Haltung von Alice Schwarzer zu aktuellen gesellschaftlichen Fragen. Laut ZDFheute geriet sie wegen ihrer Positionen zum Ukraine-Krieg, die sie teilweise gemeinsam mit Sahra Wagenknecht vertrat, in die Kritik von Beobachtern, die ihr vorwarfen, den Aggressor aus dem Blick zu verlieren. Im Jahr 2024 räumte Schwarzer ein, dass die Position zum Friedenskurs zu Kündigungen von Abonnements geführt habe.",
+      "Zusätzliche Proteste und Diskussionen gab es laut den Berichten wegen Schwarzers Haltung zu Transpersonen und zur modernen Gender-Politik. Im Jahr 2023 forderten mehrere Autorinnen und Künstler die Absage einer Veranstaltung mit ihr, da sie durch transfeindliche Äußerungen auffalle. Schwarzer entgegnete darauf, dass sie Transsexuelle nie angegriffen habe, jedoch die neue Transideologie und den Personenstandswechsel ab dem 14. Lebensjahr kritisch sehe."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Ein Archiv sammelt historische Unterlagen und Schriften, um sie dauerhaft zu bewahren und zugänglich zu machen. Das Deutsche Literaturarchiv in Marbach gehört zu den Institutionen zur Erforschung der Literatur. Archive dieser Art übernehmen Nachlässe und Zeitschriftenjahrgänge von Verlagen, damit Forschende die Originaldokumente für wissenschaftliche Arbeiten einsehen können."
+      "Ein feministisches Magazin ist eine publizistische Einrichtung, die sich thematisch mit der Gleichberechtigung von Frauen und gesellschaftlichen Geschlechterverhältnissen befasst. Zeitschriften dieser Art finanzieren sich in der Regel über den Verkauf von Ausgaben im Handel sowie über Abonnements durch Leserschaft. Das Archiv einer solchen Publikation umfasst sämtliche bisher erschienenen Ausgaben und Unterlagen, die für historische Analysen und wissenschaftliche Forschung aufbewahrt werden.",
+      "Das Deutsche Literaturarchiv Marbach ist eine bedeutende Kultureinrichtung in Deutschland, die Nachlässe, Sammlungen und Archive von Schriftstellern, Publizisten und Verlagen bewahrt. Es stellt diese Bestände wissenschaftlich interessierten Forschenden und der Öffentlichkeit für Studienzwecke zur Verfügung."
      ]
     },
     {
-     "ueberschrift": "Reaktionen",
+     "ueberschrift": "Reaktionen und Archivierung",
      "absaetze": [
-      "Die Berichterstattung in überregionalen Medien würdigte das langjährige Bestehen der Zeitschrift und thematisierte die Rolle Schwarzers. Die Frankfurter Allgemeine Zeitung beschrieb Schwarzer als Protagonistin des Kampfes für Gleichberechtigung, die sich Anfeindungen ausgesetzt habe. Die Süddeutsche Zeitung hob die Veränderung der Medienlandschaft durch Emma hervor, verwies jedoch auf die Umstrittenheit der Herausgeberin. Schwarzer selbst begründete die Entscheidung mit Ermattung."
+      "Nach der Ankündigung der Einstellung reagierten Medien und Beobachter auf das bevorstehende Ende des Blattes. Laut FAZ haderte Alice Schwarzer mit dem heutigen Queer-Feminismus und kritisierte, dass die identitätspolitische Debatte von realen Problemen biologischer Frauen ablenke. Die Süddeutsche Zeitung wies darauf hin, dass das Magazin die deutsche Medienlandschaft über Jahrzehnte hinweg nachhaltig verändert hat.",
+      "Als künftiger Aufbewahrungsort für die historischen Bestände wurde das Deutsche Literaturarchiv Marbach benannt. Laut Tagesschau/ARD und ZDFheute soll das Archiv des Magazins Emma in den dortigen Bestand aufgenommen werden. Ab dem Jahr 2029 soll die Sammlung für Forschende und interessierte Personen zugänglich gemacht werden."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Die letzte Ausgabe des Magazins Emma erscheint nach Angaben von Tagesschau, Deutschlandfunk und Spiegel am 8. Dezember 2026. Mit diesem Heft wird die redaktionelle Produktion eingestellt. Nach Angaben der Tagesschau soll das Archiv der Zeitschrift ab dem Jahr 2029 in den Bestand des Deutschen Literaturarchivs Marbach aufgenommen werden und dort Forschenden offenstehen."
+      "Die letzte reguläre und zugleich historische Ausgabe des Magazins Emma wird am 8. Dezember erscheinen. Laut ZDFheute und Tagesschau/ARD plant die Redaktion für diese Ausgabe einen doppelten Umfang im Vergleich zu regulären Ausgaben. Dabei soll das Redaktionsteam mit den wichtigsten 50 Themen eine redaktionelle Bilanz der vergangenen Jahrzehnte ziehen und auf die Geschichte des Blattes zurückblicken.",
+      "Ab dem Jahr 2029 ist vorgesehen, das vollständige Archiv des Magazins im Deutschen Literaturarchiv Marbach für die wissenschaftliche Forschung und interessierte Öffentlichkeit zu öffnen. Bis dahin wird das Magazin seine Publikation mit der Dezember-Ausgabe abschließen."
      ]
     }
    ],
    "zeitleiste": [
-    [
-     "26. Januar 1977",
-     "Die erste Ausgabe des Magazins Emma erscheint."
-    ],
-    [
-     "2008",
-     "Lisa Ortgies übernimmt kurzzeitig die Chefredaktion vor einem erneuten Wechsel zu Schwarzer."
-    ],
     [
      "21. Oktober 2026",
      "Alice Schwarzer gibt die Einstellung des Magazins für den Dezember bekannt."
@@ -3894,7 +3570,15 @@
      "Schwarzer begleitet den Kachelmann-Prozess publizistisch."
     ],
     [
-     "8. Dezember 2026",
+     "26. Januar 1977",
+     "Die erste Ausgabe des Magazins Emma erscheint."
+    ],
+    [
+     "2008",
+     "Lisa Ortgies übernimmt kurzzeitig die Chefredaktion vor einem erneuten Wechsel zu Schwarzer."
+    ],
+    [
+     "8. Dezember",
      "Die letzte Ausgabe des Magazins Emma soll erscheinen."
     ],
     [
@@ -3905,279 +3589,616 @@
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Alice Schwarzer",
-     "bildunterschrift": "Alice Schwarzer gründete die Zeitschrift Emma 1977 und gab nun deren Einstellung bekannt."
+     "suchbegriff": "Alice Schwarzer journalist",
+     "bildunterschrift": "Die Journalistin und Herausgeberin Alice Schwarzer prägte die deutsche Frauenbewegung über Jahrzehnte."
     },
     {
      "art": "institution",
      "suchbegriff": "Deutsches Literaturarchiv Marbach",
-     "bildunterschrift": "Das Deutsche Literaturarchiv in Marbach soll ab dem Jahr 2029 das Archiv des Magazins Emma aufnehmen."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Inge Meysel",
-     "bildunterschrift": "Die Schauspielerin Inge Meysel klagte 1978 gemeinsam mit Alice Schwarzer."
+     "bildunterschrift": "Das Deutsche Literaturarchiv Marbach soll künftig das Archiv der Zeitschrift Emma beherbergen."
     },
     {
      "art": "ort",
-     "suchbegriff": "Landgericht Hamburg",
-     "bildunterschrift": "Das Landgericht Hamburg verhandelte 1978 über eine Klage der Redaktion."
+     "suchbegriff": "Cologne cityscape",
+     "bildunterschrift": "Köln ist der Sitz der Redaktion des feministischen Magazins Emma."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Feminism symbol",
+     "bildunterschrift": "Ein Symbol für den Feminismus, dessen Debatten das Magazin Emma über 50 Jahre begleiteten."
     }
    ],
+   "ort": {
+    "name": "Köln, Deutschland"
+   },
    "geprueft": true,
    "korrekturen": [
-    "Entfernt nicht belegte Behauptungen über politische Kundgebungen und verbleibende Auflagenzahlen im Haupttext, soweit sie nicht durch mehrere Berichte gestützt sind."
+    "Das exakte Jahr 2026 wurde im Fließtext entfernt, da es in den primären Datumsangaben der Berichte nicht einheitlich als Jahresangabe für die Einstellung genannt wird (nur das Datum 8. Dezember)."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Feminismus",
-      "Eine politische Bewegung, die sich für die Gleichberechtigung von Frauen und Männern einsetzt."
-     ],
-     [
-      "Auflage",
-      "Die Anzahl der Exemplare, die von einer Zeitung oder Zeitschrift gedruckt und verkauft werden."
+      "Eine Bewegung, die sich für die Gleichberechtigung von Frauen und Männern in der Gesellschaft einsetzt."
      ],
      [
       "Archiv",
-      "Eine Sammlung von historischen Dokumenten, Akten oder Medien, die dauerhaft aufbewahrt werden."
+      "Ein Ort, an dem wichtige alte Dokumente, Hefte und Unterlagen für die Zukunft aufbewahrt werden."
      ]
     ],
     "fragen": [
-     "Welche Gründe nannte Alice Schwarzer für die Einstellung des Magazins, und wie bewerten andere Medien diese Situation?",
-     "Welche Rolle spielte das Magazin Emma nach Berichten überregionaler Medien für die deutsche Gesellschaft seit den siebziger Jahren?"
+     "Welche Themen hat das Magazin Emma in den vergangenen Jahrzehnten geprägt?",
+     "Wie bewerten verschiedene Gruppen die Arbeit von Alice Schwarzer?"
     ],
     "quiz": [
      {
-      "frage": "Wann erscheint die letzte Ausgabe des Magazins Emma?",
+      "frage": "Wann erschien die erste Ausgabe von Emma?",
       "optionen": [
-       "Am 8. Dezember 2026",
        "Am 26. Januar 1977",
-       "Im Jahr 2029"
+       "Im Jahr 2008",
+       "Im Dezember 2026"
       ],
       "richtig": 0,
-      "erklaerung": "Mehrere Quellen wie Tagesschau und Deutschlandfunk berichten übereinstimmend, dass die letzte Ausgabe am 8. Dezember 2026 erscheinen wird."
+      "erklaerung": "Laut den Berichten erschien die erste Ausgabe am 26. Januar 1977."
      },
      {
-      "frage": "Wer gründete das feministische Magazin Emma?",
+      "frage": "Was ist laut Alice Schwarzer der Grund für die Einstellung?",
       "optionen": [
-       "Inge Meysel",
-       "Alice Schwarzer",
-       "Angela Merkel"
+       "Eine Insolvenz des Verlags",
+       "Keine wirtschaftlichen Gründe, sondern das Gefühl, dass es reicht",
+       "Eine direkte Anordnung der Regierung"
       ],
       "richtig": 1,
-      "erklaerung": "Laut übereinstimmender Berichte von Tagesschau, Spiegel, FAZ und weiteren Quellen ist Alice Schwarzer die Gründerin und Herausgeberin der Zeitschrift."
+      "erklaerung": "Schwarzer betonte, dass die Einnahmen die Ausgaben noch decken und sie nicht aus ökonomischen Gründen aufhören."
      },
      {
-      "frage": "Was geschieht laut der Tagesschau mit dem Archiv der Zeitschrift?",
+      "frage": "Wo soll das Archiv der Zeitschrift ab 2029 aufbewahrt werden?",
       "optionen": [
-       "Es wird vernichtet",
-       "Es wird an private Sammler versteigert",
-       "Es kommt ab 2029 in das Deutsche Literaturarchiv Marbach"
+       "Im Stadtarchiv Köln",
+       "Im Deutschen Literaturarchiv Marbach",
+       "In der Deutschen Nationalbibliothek Berlin"
       ],
-      "richtig": 2,
-      "erklaerung": "Die Tagesschau berichtet als einzige Quelle, dass das Archiv ab 2029 in den Bestand des Deutschen Literaturarchivs Marbach aufgenommen wird."
+      "richtig": 1,
+      "erklaerung": "Das Archiv soll in den Bestand des Deutschen Literaturarchivs Marbach übergehen."
      }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Das bekannte Frauenmagazin Emma hört nach fünfzig Jahren auf. Im Dezember erscheint das letzte Heft.",
+    "absaetze": [
+     "Die Gründerin Alice Schwarzer hat das Ende der Zeitschrift bekannt gegeben.",
+     "Nach Angaben von Schwarzer liegt das nicht an Geldproblemen oder zu wenigen Käufern.",
+     "Das Team findet einfach, dass es nach so vielen Jahren genug ist.",
+     "Die allerletzte Ausgabe kommt am achten Dezember in den Handel.",
+     "Ab dem Jahr zweitausendneunundzwanzig sollen Forscher das alte Archiv in Marbach anschauen dürfen."
     ]
    },
    "video": {
     "kurz": [
-     "Das feministische Magazin Emma wird nach fast fünfzig Jahren eingestellt. Das teilte die Herausgeberin Alice Schwarzer mit. Die letzte Ausgabe erscheint am achten Dezember des Jahres 2026. Als Grund nannte Schwarzer eine Ermattung des Teams."
+     "Das feministische Magazin Emma wird im Dezember nach fünfzig Jahren eingestellt.",
+     "Nach Angaben der Gründerin Alice Schwarzer geschieht dies nicht aus wirtschaftlichen Gründen.",
+     "Die letzte Ausgabe erscheint am achten Dezember.",
+     "Das Archiv der Zeitschrift geht an das Deutsche Literaturarchiv Marbach."
     ],
     "lang": [
-     "Das feministische Magazin Emma wird nach fast fünfzig Jahren eingestellt. Das teilte die Herausgeberin Alice Schwarzer mit. Die letzte Ausgabe der Zeitschrift erscheint am achten Dezember des Jahres 2026. Das berichteten unter anderem die Tagesschau und der Deutschlandfunk. Schwarzer gründete das Magazin im Januar des Jahres 1977. Als Grund für das Ende nannte sie eine Ermattung des Teams. Wirtschaftliche Gründe schloss sie dabei aus. Während Schwarzer von einem ausreichenden finanziellen Polster sprach, wies die Frankfurter Allgemeine Zeitung auf einen starken Auflagenrückgang hin. Das Archiv der Zeitschrift soll ab dem Jahr 2029 im Deutschen Literaturarchiv Marbach für die Forschung zugänglich sein."
+     "Das feministische Magazin Emma wird nach fünfzig Jahren im Dezember eingestellt.",
+     "Das teilte die Gründerin und Herausgeberin Alice Schwarzer in Köln mit.",
+     "Die letzte Ausgabe der Zeitschrift soll am achten Dezember erscheinen.",
+     "Nach Angaben von Schwarzer sind wirtschaftliche Probleme nicht der Grund für das Ende.",
+     "Die Einnahmen würden nach wie vor die Ausgaben decken.",
+     "Das Magazin erschien im Januar neunzehnhunderteinundsiebzig zum ersten Mal.",
+     "Kritiker werfen der Herausgeberin dagegen vor, dass auch sinkende Auflagenzahlen oder politische Debatten eine Rolle spielen.",
+     "Emma hat die deutsche Frauenbewegung über Jahrzehnte hinweg stark geprägt.",
+     "Das Archiv des Blattes soll im Jahr zweitausendneunundzwanzig an das Deutsche Literaturarchiv Marbach übergehen.",
+     "Bis dahin bereitet die Redaktion eine doppelt so umfangreiche letzte Ausgabe vor."
     ],
     "einfach": [
-     "Das bekannte Frauen-Magazin Emma hört nach fast fünfzig Jahren auf. Das hat die Gründerin Alice Schwarzer gesagt. Die allerletzte Ausgabe erscheint am achten Dezember zweitausendsechsundzwanzig. Schwarzer erklärte den Schritt mit einer großen Erschöpfung des Teams. Geld-Probleme seien aber nicht der Grund für das Ende. Das Heft-Archiv kommt später in ein Literatur-Archiv in Marbach."
+     "Das berühmte Frauenmagazin Emma wird im Dezember eingestellt.",
+     "Die Zeitschrift gibt es bereits seit fünfzig Jahren.",
+     "Die Gründerin Alice Schwarzer sagt, dass kein Geldmangel der Grund ist.",
+     "Das Team findet einfach, dass die Arbeit nun getan ist.",
+     "Am achten Dezember erscheint die letzte Ausgabe.",
+     "Später soll das Archiv für die Wissenschaft geöffnet werden."
     ]
    },
    "kurz": [
-    "Das feministische Magazin Emma wird nach fast fünfzig Jahren eingestellt.",
-    "Herausgeberin Alice Schwarzer nennt als Grund eine Ermattung des Teams.",
-    "Die letzte Ausgabe des Blattes soll am 8. Dezember 2026 erscheinen.",
-    "Das Archiv der Zeitschrift geht ab dem Jahr 2029 an das Literaturarchiv Marbach."
+    "Das feministische Magazin Emma wird nach fünfzig Jahren im Dezember eingestellt.",
+    "Nach Angaben der Gründerin Alice Schwarzer gibt es keine wirtschaftlichen Gründe für den Schritt.",
+    "Die letzte Ausgabe soll am achten Dezember erscheinen.",
+    "Das Archiv des Magazins geht an das Deutsche Literaturarchiv Marbach."
    ],
    "fakten": [
     [
+     "Bestehen des Magazins",
+     "Fünfzig Jahre"
+    ],
+    [
+     "Datum der letzten Ausgabe",
+     "Achter Dezember"
+    ],
+    [
      "Gründungsjahr",
-     "1977"
+     "Neunzehnhunderteinundsiebzig"
     ],
     [
-     "Erscheinungstag der letzten Ausgabe",
-     "8. Dezember 2026"
-    ],
-    [
-     "Archivöffnung ab",
-     "2029"
+     "Öffnung des Archivs",
+     "Zweitausendneunundzwanzig"
     ]
    ],
    "dossier": {
-    "slug": "magazin-emma-einstellung",
-    "titel": "Einstellung des Magazins Emma"
+    "slug": "einstellung-magazin-emma",
+    "titel": "Einstellung des Magazins Emma nach fünfzig Jahren"
    },
    "bildInfo": {
-    "titel": "2022-11-29-Alice Schwarzer-Maischberger-3433.jpg",
-    "beschreibung": "Alice Schwarzer in WDR-Show Maischberger at 2022-11-29",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg/1280px-2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
-    "urheber": "Superbass",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Alice Schwarzer",
-    "sprache": "de",
+    "titel": "2010-10-08 Alice Schwarzer 0025.jpg",
+    "beschreibung": "Alice Schwarzer, eine der bekanntesten Vertreterinnen der deutschen Frauenbewegung, Feministin und Gründerin/Herausgeberin der Frauenzeitschrift Emma. Hier während des 58. Kongresses der Deutschen Ges",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/2010-10-08_Alice_Schwarzer_0025.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/2010-10-08_Alice_Schwarzer_0025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2010-10-08_Alice_Schwarzer_0025.jpg",
+    "urheber": "Michael Lucan",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
     "art": "person",
     "suchbegriff": "Alice Schwarzer journalist",
-    "bildunterschrift": "Alice Schwarzer ist die Gründerin und Herausgeberin des Magazins Emma.",
+    "bildunterschrift": "Die Feministin und Journalistin Alice Schwarzer, Gründerin des Magazins Emma.",
     "hinweis": "Archivfoto"
    },
    "bildInfos": [
     {
-     "titel": "2022-11-29-Alice Schwarzer-Maischberger-3433.jpg",
-     "beschreibung": "Alice Schwarzer in WDR-Show Maischberger at 2022-11-29",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg/1280px-2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
-     "urheber": "Superbass",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Alice Schwarzer",
-     "sprache": "de",
+     "titel": "2010-10-08 Alice Schwarzer 0025.jpg",
+     "beschreibung": "Alice Schwarzer, eine der bekanntesten Vertreterinnen der deutschen Frauenbewegung, Feministin und Gründerin/Herausgeberin der Frauenzeitschrift Emma. Hier während des 58. Kongresses der Deutschen Ges",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/2010-10-08_Alice_Schwarzer_0025.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/2010-10-08_Alice_Schwarzer_0025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2010-10-08_Alice_Schwarzer_0025.jpg",
+     "urheber": "Michael Lucan",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
      "art": "person",
      "suchbegriff": "Alice Schwarzer journalist",
-     "bildunterschrift": "Alice Schwarzer ist die Gründerin und Herausgeberin des Magazins Emma.",
+     "bildunterschrift": "Die Feministin und Journalistin Alice Schwarzer, Gründerin des Magazins Emma.",
      "hinweis": "Archivfoto"
     },
     {
-     "titel": "Kranhäuser Cologne, April 2018 -01.jpg",
-     "beschreibung": "Panorama of Cologne , including the Kranhäuser and Cologne Cathedral , as seen from the Rhine .",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/1280px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg",
-     "urheber": "Martin Falbisoner",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "titel": "Cologne - Panoramic Image of the old town at dusk.jpg",
+     "beschreibung": "Panoramic view of the old town of Cologne ( North Rhine-Westphalia , Germany ) taken from the other side of the river Rhine at dusk (09:58pm). You can see (from left to right) the former Lufthansa cor",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg/1280px-Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Cologne_-_Panoramic_Image_of_the_old_town_at_dusk.jpg",
+     "urheber": "Ahgee",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
      "art": "ort",
      "suchbegriff": "Cologne cityscape",
-     "bildunterschrift": "Blick auf Köln, wo das Magazin ansässig ist.",
+     "bildunterschrift": "Blick auf die Stadt Köln, in der das Magazin ansässig ist.",
      "hinweis": "Archivfoto"
     }
    ],
+   "ortInfo": {
+    "name": "Köln, Deutschland",
+    "lat": 50.938,
+    "lon": 6.96
+   },
    "version": 5,
-   "ton": [
+   "bildVersucht": true
+  },
+  {
+   "id": "php-sicherheitsluecke",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-21T19:45:21.000Z",
+   "titel": "Sicherheitslücke in Programmiersprache PHP betrifft weltweit Webseiten und Behörden",
+   "vorspann": "Eine schwerwiegende Sicherheitslücke in der Programmiersprache PHP gefährdet Millionen von Internetseiten weltweit. Zahlreiche Behörden, Kommunen und Kliniken haben ihre Online-Dienste als Vorsichtsmaßnahme vorübergehend abgeschaltet.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "sehr schwer",
+    "fuerWen": "Fachsprache – ohne Vorwissen mühsam"
+   },
+   "zusammenfassung": [
+    "Eine schwerwiegende Sicherheitslücke in der Programmiersprache PHP gefährdet weltweit Millionen von Internetseiten.",
+    "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Warnung heraus und rief zu sofortigen Gegenmaßnahmen auf.",
+    "Zahlreiche Behörden, Kommunen, Universitäten und Krankenhäuser in Deutschland und anderen Ländern schalteten ihre Internetseiten vorsorglich ab.",
+    "Die Entwickler haben inzwischen aktualisierte Programmversionen zur Schließung der Sicherheitslücke bereitgestellt."
+   ],
+   "einig": [
+    [
+     "Eine schwerwiegende Sicherheitslücke in der Programmiersprache PHP bedroht weltweit Millionen von Webseiten.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung",
+      "FAZ"
+     ]
+    ],
+    [
+     "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat eine offizielle Warnung herausgegeben.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung",
+      "FAZ"
+     ]
+    ],
+    [
+     "Zahlreiche Kommunen, Behörden und Krankenhäuser haben ihre Internetseiten vorübergehend vom Netz genommen.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung",
+      "FAZ"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die Sicherheitslücke bereits aktiv für Angriffe ausnutzt wurde, ist laut BSI laut Süddeutscher Zeitung und FAZ noch nicht bestätigt."
+   ],
+   "positionen": [
+    [
+     "PHP Foundation",
+     "Wenn Sie PHP einsetzen, ist es zwingend erforderlich, dass Sie jetzt ein Update vornehmen, erklärte die PHP Foundation laut Tagesschau in einem Blogbeitrag.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Bundesamt für Sicherheit in der Informationstechnik (BSI)",
+     "Das BSI ordnet das Risiko mit der Warnstufe Orange ein, was laut den Berichten eine massive Beeinträchtigung des Regelbetriebs bedeutet.",
+     "Tagesschau/ARD,ZDFheute,Süddeutsche Zeitung,FAZ"
+    ],
+    [
+     "BSI-Vizepräsident Thomas Caspers",
+     "Wir halten eine kurzfristige, großflächige Ausnutzung innerhalb weniger Stunden nach Erscheinen der Sicherheitsupdates für wahrscheinlich, sagte BSI-Vizepräsident Thomas Caspers laut Süddeutscher Zeitung.",
+     "Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Stimmen von betroffenen Unternehmen aus der Privatwirtschaft außerhalb des Webhostings sowie konkrete Aussagen von mutmaßlichen Angreifern kommen in den Berichten nicht vor.",
+   "medien": [
     {
-     "k": "Das feministische Magazin Emma wird nach fast fünfzig Jahren eingestellt. Das te",
-     "d": "382b1a74a3.mp3",
-     "l": 15.17,
-     "s": [
-      0.25
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 19:32",
+     "fokus": "Globale und deutsche Behördenabschaltungen",
+     "text": "Der Bericht konzentriert sich auf die weltweiten Auswirkungen sowie konkrete Beispiele von abgeschalteten Websites städtischer Dienste und Krankenhäuser in Deutschland und Europa.",
+     "url": "https://www.tagesschau.de/wirtschaft/technologie/it-sicherheit-php-luecke-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 14,
+      "minuten": 3,
+      "woerter": 506,
+      "satzlaenge": 16,
+      "langeWoerter": 45
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 17:22",
+     "fokus": "Technische Hintergründe und BSI-Warnungen",
+     "text": "Der Beitrag erläutert die Funktionsweise der Schwachstelle sowie die Hintergründe zu den offiziellen Registriernummern und den Empfehlungen für Webseitenbetreiber.",
+     "url": "https://www.zdfheute.de/politik/sicherheitsluecke-php-webseiten-onlinedienste-cybersicherheit-bsi-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 14,
+      "minuten": 4,
+      "woerter": 718,
+      "satzlaenge": 17,
+      "langeWoerter": 46
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 21:45",
+     "fokus": "–",
+     "text": "Nach weltweiten Internet-Problemen wegen einer Sicherheitslücke soll ein inzwischen bereitgestelltes Update Abhilfe schaffen. Betreiber von Webanwendungen sind gehalten, für eine Aktualisierung zu sorgen. Zuvor waren zahlreiche Internetseiten vorsorglich abgeschaltet worden.",
+     "url": "https://www.deutschlandfunk.de/weltweite-sicherheitsluecke-update-fuer-webanbieter-bereitgestellt-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 18:37",
+     "fokus": "Entstehungsgeschichte durch KI und CVSS-Wertung",
+     "text": "Die Zeitung beleuchtet Details zur Entdeckung der Lücke mithilfe eines KI-Modells von OpenAI und nennt die genaue CVSS-Bewertung von 9,2.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/php-sicherheitsluecke-2026-php2shell-webseiten-cybersicherheit-li.3566991",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 14,
+      "minuten": 4,
+      "woerter": 805,
+      "satzlaenge": 21,
+      "langeWoerter": 44
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 17:39",
+     "fokus": "–",
+     "text": "Das Land Hessen, die großen Unikliniken und einzelne Städte haben zügig auf die Warnung vor einer neuen, schwerwiegende Sicherheitslücke im Netz reagiert. Sie haben ihre Internetseiten abgeschaltet.",
+     "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/sicherheitsluecke-in-php-staedte-und-kliniken-in-hessen-schalten-websites-ab-201609488.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 13,
+      "minuten": 3,
+      "woerter": 540,
+      "satzlaenge": 21,
+      "langeWoerter": 42
+     },
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Entstehungsgeschichte",
+     "Die Süddeutsche Zeitung nennt als einzige Quelle Details über die Entdeckung der Sicherheitslücke durch einen Fachmann mit einem KI-Modell von OpenAI."
+    ]
+   ],
+   "wfragen": {
+    "wer": "PHP-Entwickler, Bundesamt für Sicherheit in der Informationstechnik und Webseitenbetreiber",
+    "was": "Eine schwerwiegende Sicherheitslücke im Kern der Programmiersprache PHP",
+    "wann": "2026-10-21",
+    "wo": "Weltweit und in mehreren europäischen Ländern",
+    "wie": "Durch vorsorgliche Abschaltungen von Webseiten und die Bereitstellung von Sicherheitsupdates",
+    "warum": "Weil Kriminelle den unbefugten Zugriff auf Server und Daten erlangen könnten, laut IT-Experten",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Süddeutsche Zeitung, FAZ"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Ereignis",
+     "absaetze": [
+      "Eine neu entdeckte und schwerwiegende Sicherheitslücke in der weitverbreiteten Programmiersprache PHP bedroht Millionen von Webseiten und Onlinediensten weltweit. Die Schwachstelle betrifft das fundamentale Gerüst zahlreicher Internetangebote, darunter einfache Blogs, große Nachrichtenportale, komplexe Onlineshops sowie Content-Management-Systeme wie WordPress. Die gesamte globale IT-Branche sieht sich durch den Vorfall mit einer akuten Notfallsituation konfrontiert. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) gab daraufhin eine offizielle Cybersicherheitswarnung heraus. Betreiber von Webanwendungen in aller Welt mussten schnell handeln, um mögliche Angriffe abzuwenden.",
+      "Die Programmiersprache PHP bildet die technische Basis für einen großen Teil des gesamten Internetangebots. Allein für das Content-Management-System WordPress schätzen Experten die weltweite Zahl der betriebenen Webseiten auf 400 bis 500 Millionen. Neben WordPress setzen auch andere populäre Systeme wie Moodle, Joomla, Typo3 und Drupal auf diese Programmiersprache auf. Wegen der weiten Verbreitung hat die entdeckte Schwachstelle erhebliche Auswirkungen auf das digitale Alltagsgeschehen. Die Situation führt international zu massiven Vorsichtsmaßnahmen bei staatlichen und privaten Internetdiensten.",
+      "Zahlreiche Regierungsbehörden, Kommunen, Universitäten und Krankenhäuser reagierten auf die Warnungen der Sicherheitsbehörden und nahmen ihre Online-Angebote kurzfristig vom Netz. Ziel dieser Maßnahme ist es, potenziellen Angreifern zuvorzukommen und die dahinterliegende Datenverarbeitung zu schützen. In Europa waren nach Angaben der Tagesschau Websites in Deutschland, Frankreich, den Niederlanden und Dänemark betroffen. Auch in Finnland, Österreich und Japan kam es zu vorübergehenden Abschaltungen von Internetseiten, wie aus den Berichten hervorgeht."
      ]
     },
     {
-     "k": "Das bekannte Frauen-Magazin Emma hört nach fast fünfzig Jahren auf. Das hat die ",
-     "d": "8691dcf921.mp3",
-     "l": 26.11,
-     "s": [
-      0.25
+     "ueberschrift": "Technische Details und Risiken",
+     "absaetze": [
+      "Sicherheitsexperten warnen vor insgesamt zwei kritischen Schwachstellen im Kern der Programmiersprache, die unter den offiziellen Kennungen CVE-2026-109618 und CVE-2026-109619 registriert wurden. Das IT-Sicherheitsunternehmen Huntress, das PHP-Sicherheitsteam sowie das Bundesamt für Sicherheit in der Informationstechnik machen auf das Problem aufmerksam, das unter dem Namen PHP2Shell bekannt ist. Die Schwachstellen ermöglichen es kriminellen Akteuren nach Angaben der Berichte, aus der Ferne eigenen Schadcode auf den betroffenen Servern auszuführen. In der Praxis erhalten Angreifer dadurch die Möglichkeit, die vollständige Kontrolle über eine Website zu übernehmen.",
+      "Das Gefahrenpotenzial der Lücken wird von Fachleuten als extrem hoch eingestuft. Neben der Serverübernahme können Angreifer sensible Datenbanken und Kundendaten abgreifen oder die Infrastruktur für weitere Cyberattacken missbrauchen. Die Süddeutsche Zeitung berichtet, dass die Schwachstellen auf der internationalen CVSS-Skala mit dem Wert 9,2 bewertet wurden, womit sie knapp unter dem Maximum von 10 liegen. Das Bundesamt für Sicherheit in der Informationstechnik stufte das Risiko mit der Warnstufe Orange ein, was der zweithöchsten Stufe entspricht und eine massive Beeinträchtigung des Regelbetriebs bedeutet.",
+      "Ein wesentlicher Faktor für den zeitlichen Druck ist die Art und Weise, wie Details an die Öffentlichkeit gelangten. Die Schwachstellen waren den Entwicklern zunächst vertraulich gemeldet worden, während unter Verschluss an einer Lösung gearbeitet wurde. Am Dienstag wurden jedoch Details online geleakt, einen Tag vor der geplanten offiziellen Veröffentlichung des Updates. Die Süddeutsche Zeitung ergänzt unter Berufung auf das Wall Street Journal, dass die Sicherheitslücke vor Wochen von einem Fachmann entdeckt wurde, der den PHP-Code mit einem KI-Modell von OpenAI durchsucht hatte."
      ]
     },
     {
-     "k": "Der genaue Erstverkaufstag: Tagesschau/ARD nennt den 26. Januar 1977, während de",
-     "d": "475ff62467.mp3",
-     "l": 14.41,
-     "s": [
-      0.25,
-      5.25
+     "ueberschrift": "Auswirkungen in Deutschland",
+     "absaetze": [
+      "In Deutschland reagierten verschiedene Bundesländer und Kommunen unmittelbar auf die Warnungen. Nach Angaben der FAZ hat das Land Hessen etliche öffentliche Einrichtungen angewiesen, ihre Internetseiten abzuschalten, da Software auf PHP-Basis auch für die Webangebote der Landesregierung genutzt wird. In diesem Zusammenhang waren die Website hessen.de sowie die Seiten der Ministerien und nachgeordneter Bereiche im Hessen-Web vorübergehend nicht erreichbar. Die Staatskanzlei in Wiesbaden betonte, die Abschaltung sei rein vorsorglich erfolgt, um möglichen Sicherheitsrisiken entgegenzuwirken.",
+      "Auch in Rheinland-Pfalz wurden die Landesseiten und das Webportal der Landeshauptstadt Mainz vorübergehend deaktiviert. Die Stadt Mainz teilte mit, dass lediglich der externe Webauftritt betroffen sei, während Ämter und Bürgerbüros telefonisch und per E-Mail erreichbar blieben und vereinbarte Termine stattfanden. Weitere Städte wie Potsdam, Halberstadt, München, Bad Homburg, Gießen und Langen schalteten ebenfalls Internetdienste ab. In Berlin nahmen die Universitätsklinik Charité, die Freie Universität sowie das Stadtportal berlin.de ihre Internetauftritte vom Netz. In Hannover trennte das Verkehrsunternehmen Üstra seine Website vorübergehend ab, wodurch auch der Fahrkartenkauf und die Anzeige in der App beeinträchtigt wurden.",
+      "Im Gesundheitssektor folgten zahlreiche Einrichtungen den Warnungen. Die Universitätskliniken in Frankfurt sowie Marburg-Gießen nahmen ihre Internetangebote zügig vom Netz. Auch das Sana-Klinikum in Offenbach, das Varisano-Klinikum Frankfurt-Main-Taunus sowie das Frankfurter Verkehrsunternehmen und weitere Institutionen waren betroffen. Die Industrie- und Handelskammern informierten mögliche Betroffene über E-Mail-Verteiler über das Problem. Normale Internetnutzer haben beim alltäglichen Surfen auf dem Smartphone oder PC laut den Berichten keinen direkten Handlungsbedarf, da die Schwachstelle auf den Servern und nicht auf den Endgeräten liegt."
      ]
     },
     {
-     "k": "Was bedeutet eigentlich Feminismus? Eine politische Bewegung, die sich für die G",
-     "d": "04beaad8bd.mp3",
-     "l": 9.66,
-     "s": [
-      0.25,
-      3.56
-     ]
-    },
-    {
-     "k": "Die Publizistin Alice Schwarzer hat das Ende der feministischen Zeitschrift Emma",
-     "d": "26344f5d09.mp3",
-     "l": 47.34,
-     "s": [
-      0.25,
-      5.8,
-      11.04,
-      16.3,
-      17.82,
-      25.74,
-      34.83,
-      42.6
-     ]
-    },
-    {
-     "k": "Die Verkaufszahlen des Blattes veränderten sich im Verlauf der Jahrzehnte deutli",
-     "d": "eaa33c84f3.mp3",
-     "l": 43.03,
-     "s": [
-      0.25,
-      4.89,
-      12.11,
-      15.67,
-      18.27,
-      25.74,
-      27.31,
-      32.69
-     ]
-    },
-    {
-     "k": "Die Gründung der Zeitschrift fiel in eine Phase bedeutender rechtlicher Reformen",
-     "d": "20410ffaac.mp3",
-     "l": 72.47,
-     "s": [
-      0.25,
-      6.43,
-      18.29,
-      24.68,
-      33.86,
-      41.11,
-      47.44,
-      60.03
-     ]
-    },
-    {
-     "k": "Ein Archiv sammelt historische Unterlagen und Schriften, um sie dauerhaft zu bew",
-     "d": "008d6924e1.mp3",
-     "l": 21.66,
-     "s": [
-      0.25,
-      6.14,
-      12.16
-     ]
-    },
-    {
-     "k": "Die Berichterstattung in überregionalen Medien würdigte das langjährige Bestehen",
-     "d": "98162af62e.mp3",
-     "l": 26.79,
-     "s": [
-      0.25,
-      7.97,
-      16.08,
-      23.42
-     ]
-    },
-    {
-     "k": "Die letzte Ausgabe des Magazins Emma erscheint nach Angaben von Tagesschau, Deut",
-     "d": "ccfa0ceb58.mp3",
-     "l": 24.81,
-     "s": [
-      0.25,
-      7.28,
-      10.02,
-      13.75
+     "ueberschrift": "Reaktionen und Gegenmaßnahmen",
+     "absaetze": [
+      "Die Entwickler des PHP-Projektes veröffentlichten am Mittwochnachmittag aktualisierte Versionen der Webskriptsprache, in denen die Sicherheitslücken geschlossen wurden. Die PHP Foundation erklärte in einem Blogbeitrag, dass ein sofortiges Update zwingend erforderlich sei, sofern PHP eingesetzt wird. Das Bundesamt für Sicherheit in der Informationstechnik rief IT-Sicherheitsverantwortliche und Seitenbetreiber dringend dazu auf, das bereitgestellte Sicherheitsupdate zu installieren. Sollten Patches nicht kurzfristig eingespielt werden können, wurde als Alternative die vorübergehende Trennung des Webservers vom Internet in Betracht gezogen.",
+      "IT-Experten und der Expertendienst Heise Security warnten, dass wer das Risiko einer Kompromittierung nicht eingehen wolle, die PHP-basierten Webserver vom Netz trennen müsse. Nach Angaben der Süddeutschen Zeitung sagte BSI-Vizepräsident Thomas Caspers, dass eine kurzfristige, großflächige Ausnutzung innerhalb weniger Stunden nach Erscheinen der Updates wahrscheinlich sei, da Angreifer diese mit KI-gestützten Werkzeugen analysieren könnten. Die Staatskanzlei in Mainz kündigte an, dass die Webseiten nach dem Einspielen der Sicherheitsupdates wieder online gestellt werden."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "Dienstag",
+     "Details zur Sicherheitslücke gelangen vorzeitig an die Öffentlichkeit."
+    ],
+    [
+     "Mittwoch",
+     "Das PHP-Projekt veröffentlicht aktualisierte Programmversionen zur Schließung der Sicherheitslücken."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "institution",
+     "suchbegriff": "Bundesamt für Sicherheit in der Informationstechnik",
+     "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik gab im Zusammenhang mit der PHP-Sicherheitslücke offizielle Warnungen heraus."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Mainz city hall",
+     "bildunterschrift": "Die Landeshauptstadt Mainz schaltete nach den Warnungen des Bundes städtische Internetdienste vorübergehend ab."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Charite Berlin",
+     "bildunterschrift": "Die Universitätsklinik Charité in Berlin nahm ihre offizielle Website als Vorsichtsmaßnahme vom Netz."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Source code",
+     "bildunterschrift": "Programmiersprachen wie PHP bilden das technische Fundament für Millionen von Webseiten im Internet."
+    }
+   ],
+   "ort": {
+    "name": "Wiesbaden, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Zitate in den Positionen als Aussagen von Personen oder Organisationen gekennzeichnet."
+   ],
+   "wortwarnung": [
+    "massiven"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "PHP",
+      "Eine weit verbreitete Programmiersprache, die als technische Grundlage für viele Internetseiten dient."
+     ],
+     [
+      "Sicherheitslücke",
+      "Ein Fehler in einer Software, durch den unbefugte Personen Zugriff auf Systeme erlangen können."
+     ],
+     [
+      "Update",
+      "Eine aktualisierte Version einer Software, die bekannte Fehler oder Sicherheitslücken behebt."
+     ]
+    ],
+    "fragen": [
+     "Welche Risiken entstehen für Unternehmen und Behörden, wenn Sicherheitslücken in grundlegenden Programmiersprachen bekannt werden?",
+     "Welche Rolle spielen Sicherheitsbehörden wie das BSI beim Schutz der digitalen Infrastruktur?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welche Programmiersprache ist von der schwerwiegenden Sicherheitslücke betroffen?",
+      "optionen": [
+       "HTML",
+       "PHP",
+       "Java"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, ZDFheute, Süddeutscher Zeitung und FAZ ist die Programmiersprache PHP betroffen."
+     },
+     {
+      "frage": "Welche Warnstufe hat das Bundesamt für Sicherheit in der Informationstechnik ausgegeben?",
+      "optionen": [
+       "Warnstufe Orange",
+       "Warnstufe Rot",
+       "Warnstufe Blau"
+      ],
+      "richtig": 0,
+      "erklaerung": "Das BSI ordnete das Risiko mit der Warnstufe Orange ein."
+     },
+     {
+      "frage": "Was haben zahlreiche Kommunen und Behörden als Vorsichtsmaßnahme getan?",
+      "optionen": [
+       "Ihre Computer entsorgt",
+       "Neue Passwörter vergeben",
+       "Ihre Internetseiten vorübergehend abgeschaltet"
+      ],
+      "richtig": 2,
+      "erklaerung": "Zahlreiche Kommunen und Behörden nahmen ihre Internetseiten vorübergehend vom Netz, um möglichen Angriffen zuvorzukommen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Eine schwere Sicherheitslücke bedroht weltweit Millionen Internetseiten.",
+    "absaetze": [
+     "Betroffen ist die Programmiersprache PHP, auf der ein Großteil des Internets aufbaut.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Warnung heraus.",
+     "Viele Behörden, Krankenhäuser und Städte schalteten ihre Webseiten vorsorglich ab.",
+     "Die Entwickler der Software haben inzwischen ein Sicherheitsupdate veröffentlicht.",
+     "Internetnutzer müssen am eigenen Computer oder Smartphone nichts unternehmen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Eine schwere Sicherheitslücke in der Programmiersprache PHP bedroht weltweit Millionen von Internetseiten.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik hat eine offizielle Warnung herausgegeben.",
+     "Zahlreiche Behörden und Krankenhäuser nahmen ihre Webseiten vorübergehend vom Netz.",
+     "Inzwischen haben die Entwickler ein Update zur Schließung der Lücke bereitgestellt."
+    ],
+    "lang": [
+     "Eine schwerwiegende Sicherheitslücke in der Programmiersprache PHP gefährdet weltweit Millionen von Internetseiten.",
+     "Das teilten verschiedene Sicherheitsbehörden und Medien am Mittwoch mit.",
+     "Betroffen sind zahlreiche Webseiten, Onlineshops und Content Management Systeme.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik hat die Warnstufe Orange ausgerufen.",
+     "Nach Angaben des Bundesamtes besteht ein extrem hohes Gefahrenpotenzial durch mögliche Angriffe aus der Ferne.",
+     "Zahlreiche Kommunen, Behörden, Universitäten und Krankenhäuser schalteten ihre Internetseiten daraufhin vorsorglich ab.",
+     "Die PHP Foundation erklärte, dass ein sofortiges Update zwingend erforderlich sei.",
+     "Die Programmiersprache PHP bildet die technische Grundlage für einen großen Teil des gesamten Internets.",
+     "Inzwischen wurden aktualisierte Programmversionen zur Schließung der Sicherheitslücke veröffentlicht.",
+     "Ob die Schwachstelle bereits für Angriffe ausgenutzt wurde, ist nach Angaben des Bundesamtes bisher nicht bestätigt."
+    ],
+    "einfach": [
+     "Eine schwere Sicherheitslücke bedroht Millionen Internetseiten auf der Welt.",
+     "Dabei geht es um die Programmiersprache PHP.",
+     "Auf dieser Sprache baut ein großer Teil des Internets auf.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik hat davor gewarnt.",
+     "Deshalb haben viele Städte und Krankenhäuser ihre Webseiten abgeschaltet.",
+     "Inzwischen haben die Entwickler ein Update zur Sicherheit veröffentlicht."
+    ]
+   },
+   "kurz": [
+    "Eine schwere Sicherheitslücke in der Programmiersprache PHP gefährdet weltweit Millionen Webseiten.",
+    "Das Bundesamt für Sicherheit in der Informationstechnik rief zu sofortigen Gegenmaßnahmen auf.",
+    "Behörden, Universitäten und Krankenhäuser schalteten ihre Internetseiten vorübergehend ab.",
+    "Die Entwickler veröffentlichten inzwischen aktualisierte Programmversionen zur Schließung der Lücke."
+   ],
+   "fakten": [
+    [
+     "Weltweite WordPress-Webseiten",
+     "400 bis 500 Millionen"
+    ],
+    [
+     "CVSS-Skala Wert",
+     "9,2"
+    ],
+    [
+     "BSI-Warnstufe",
+     "3 / Orange"
+    ]
+   ],
+   "dossier": {
+    "slug": "sicherheitsluecke-php",
+    "titel": "Sicherheitslücke in PHP"
+   },
+   "bildInfo": {
+    "titel": "Bonn, Bundesamt für Sicherheit in der Informationstechnik.jpg",
+    "beschreibung": "Bundesamt für Sicherheit in der Informationstechnik , Godesberger Allee 185–189, Bad Godesberg: Luftaufnahme",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg/1280px-Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Bonn,_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg",
+    "urheber": "Wolkenkratzer",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "art": "institution",
+    "suchbegriff": "Bundesamt für Sicherheit in der Informationstechnik",
+    "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik in Bonn.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Bonn, Bundesamt für Sicherheit in der Informationstechnik.jpg",
+     "beschreibung": "Bundesamt für Sicherheit in der Informationstechnik , Godesberger Allee 185–189, Bad Godesberg: Luftaufnahme",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg/1280px-Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bonn%2C_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bonn,_Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik.jpg",
+     "urheber": "Wolkenkratzer",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "institution",
+     "suchbegriff": "Bundesamt für Sicherheit in der Informationstechnik",
+     "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik in Bonn.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Wiesbaden, Deutschland",
+    "lat": 50.082,
+    "lon": 8.242
+   },
+   "version": 5,
+   "bildVersucht": true
   },
   {
    "id": "frankreich-proteste-eskalation",

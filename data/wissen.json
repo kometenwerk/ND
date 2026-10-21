@@ -1,6 +1,200 @@
 {
- "stand": "2026-10-21T15:12:27.328Z",
+ "stand": "2026-10-21T20:06:33.798Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-deutsche-ampelsystem",
+   "zeit": "2026-10-21T20:11:24.895Z",
+   "bereich": "Gesellschaft und Zusammenleben",
+   "titel": "Wie funktioniert eigentlich das deutsche Ampelsystem?",
+   "vorspann": "Eine Ampel steuert den Straßen- und Schienenverkehr durch farbige oder geformte Signale. Die erste deutsche Lichtzeichenanlage ging im Jahr 1924 in Berlin in Betrieb.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Der Begriff Ampel leitet sich von einem lateinischen Wort für eine kleine Flasche ab. Die umgangssprachliche Bezeichnung Ampel geht auf frühere Hängeleuchten zurück. Die offizielle rechtliche Bezeichnung in Deutschland lautet Lichtzeichenanlage. In technischen Regelwerken wird ebenfalls der Begriff Lichtsignalanlage verwendet. Die Ampel dient der Steuerung des Verkehrs und ordnet den Verkehrsteilnehmern ein bestimmtes Verhalten an.",
+      "Die erste Lichtsignalanlage der Welt wurde im Dezember 1868 in London aufgestellt. Sie wurde mit Gaslicht betrieben und explodierte nach kurzer Zeit. Die erste elektrische Verkehrsampel der Welt folgte im August 1914 in Cleveland in den USA. Diese Anlage hatte nur zwei Lampen in den Farben rot und grün. Die ersten dreifarbigen Lichtsignalanlagen wurden im Jahr 1920 in Detroit und New York eingerichtet."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Ampeln werden an Kreuzungen, Einmündungen und Engstellen eingesetzt. Sie sollen den Verkehrsfluss regeln und gefährliche Verkehrssituationen verhindern. Bei hohen Verkehrsdichten erlauben Ampelanlagen eine gute Kontrolle des Verkehrsdurchsatzes. An unübersichtlichen Kreuzungen helfen sie dabei, Gefahren zu entschärfen. Auch für den Fußgänger- und Radverkehr gibt es spezielle Signalanlagen.",
+      "Für Fußgänger werden Fußgängersignalanlagen eingesetzt, die oft per Knopfdruck bedient werden. Die erste auf Anforderung schaltende Fußgängerampel in Deutschland wurde im Jahr 1937 im Berliner Tiergarten installiert. Für Linienbusse und Straßenbahnen gibt es in manchen Ländern eigene Ampeln. Diese leuchten in Deutschland weiß und arbeiten mit Formsymbolen statt mit Farbsymbolik."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die geschichtlichen Daten und Belege zu den ersten Ampelanlagen stammen aus historischen Aufzeichnungen. So ging laut dem Artikel die erste deutsche Lichtzeichenanlage am fünfzehnten Dezember 1924 mit dem Verkehrsturm am Potsdamer Platz in Berlin in Betrieb. Die erste Lichtzeichenanlage Hamburgs folgte am vierzehnten November 1925 an der Kreuzung Mönckebergstraße und Steintorwall. Für eine teilweise erwähnte Angabe, dass die erste Ampel Deutschlands bereits 1922 am Hamburger Stephansplatz aufgestellt wurde, gibt es laut dem Artikel keinen nachprüfbaren Beleg."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Der Text enthält keine Angaben zu offenen Fragen oder ungelösten Rätseln in der Forschung."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Erste Lichtsignalanlage der Welt",
+     "10. Dezember 1868"
+    ],
+    [
+     "Erste deutsche Lichtzeichenanlage in Berlin",
+     "15. Dezember 1924"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Lichtzeichenanlage",
+     "Die offizielle rechtliche Bezeichnung für eine Verkehrsampel in Deutschland nach der Straßenverkehrsordnung."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann ging die erste deutsche Lichtzeichenanlage in Berlin in Betrieb?",
+     "optionen": [
+      "15. Dezember 1924",
+      "5. August 1914",
+      "14. November 1925"
+     ],
+     "richtig": 0,
+     "erklaerung": "Laut dem Artikel nahm die erste deutsche Lichtzeichenanlage am 15. Dezember 1924 am Potsdamer Platz in Berlin den Betrieb auf."
+    }
+   ],
+   "video": [
+    "Eine Ampel steuert den Straßen- und Schienenverkehr.",
+    "Das Wort stammt von einem lateinischen Begriff ab.",
+    "Die erste Lichtsignalanlage der Welt stand in London.",
+    "Sie wurde im Dezember achtzehnachtundsechzig aufgestellt.",
+    "Die erste elektrische Ampel folgte im Jahr neunzehnhundertvierzehn.",
+    "In Deutschland ging die erste Anlage im Dezember neunzehnhundertvierundzwanzig in Betrieb.",
+    "Heute regeln Ampeln weltweit Kreuzungen und Fußgängerwege.",
+    "Dabei helfen sie, den Verkehr sicher zu leiten."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Ampel",
+    "bildunterschrift": "Eine Ampel regelt den Straßenverkehr."
+   },
+   "quelle": {
+    "titel": "Ampel",
+    "url": "https://de.wikipedia.org/wiki/Ampel",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 304,
+   "bildInfos": [
+    {
+     "titel": "Led traffic lights.jpg",
+     "beschreibung": "LED traffic lights in Örnsköldsvik, Sweden.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Led_traffic_lights.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Led_traffic_lights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Led_traffic_lights.jpg",
+     "urheber": "Petey21",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Ampel",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Eine Ampel regelt den Straßenverkehr."
+    },
+    {
+     "titel": "2009-05-30-polska-by-RalfR-71.jpg",
+     "beschreibung": "Szczecin",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/2009-05-30-polska-by-RalfR-71.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/2009-05-30-polska-by-RalfR-71.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2009-05-30-polska-by-RalfR-71.jpg",
+     "urheber": "Ralf Roletschek",
+     "lizenz": "GFDL 1.2",
+     "lizenzUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Szczecin"
+    },
+    {
+     "titel": "2009-05-30-polska-by-RalfR-72.jpg",
+     "beschreibung": "Szczecin",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/2009-05-30-polska-by-RalfR-72.jpg/1280px-2009-05-30-polska-by-RalfR-72.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/2009-05-30-polska-by-RalfR-72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2009-05-30-polska-by-RalfR-72.jpg",
+     "urheber": "Ralf Roletschek",
+     "lizenz": "GFDL 1.2",
+     "lizenzUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Szczecin"
+    },
+    {
+     "titel": "2010-05-breda-fahrradschilder-by-RalfR-11.jpg",
+     "beschreibung": "Breda Süd, Fahrradschilder",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2010-05-breda-fahrradschilder-by-RalfR-11.jpg/1280px-2010-05-breda-fahrradschilder-by-RalfR-11.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/2010-05-breda-fahrradschilder-by-RalfR-11.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2010-05-breda-fahrradschilder-by-RalfR-11.jpg",
+     "urheber": "Ralf Roletschek ( talk ) - Fahrradtechnik auf fahrradmonteur.de",
+     "lizenz": "GFDL 1.2",
+     "lizenzUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Breda Süd, Fahrradschilder"
+    },
+    {
+     "titel": "Abrams Building site, Albany, NY (cropped).jpg",
+     "beschreibung": "Former location of the Abrams Building at South Pearl Street ( NY 32 ) and Hudson Avenue in Albany, NY, USA",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Abrams_Building_site%2C_Albany%2C_NY_%28cropped%29.jpg/1280px-Abrams_Building_site%2C_Albany%2C_NY_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/24/Abrams_Building_site%2C_Albany%2C_NY_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Abrams_Building_site,_Albany,_NY_(cropped).jpg",
+     "urheber": "Daniel Case",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Former location of the Abrams Building at South Pearl Street ( NY 32 ) and Hudson Avenue in Albany, NY, USA"
+    },
+    {
+     "titel": "Amerikanische Kreuzung in Berlin.JPG",
+     "beschreibung": "Amerikanische Kreuzung „Friedrichstraße/Rudi-Dutschke-Straße“ in Berlin 2009",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Amerikanische_Kreuzung_in_Berlin.JPG/1280px-Amerikanische_Kreuzung_in_Berlin.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Amerikanische_Kreuzung_in_Berlin.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Amerikanische_Kreuzung_in_Berlin.JPG",
+     "urheber": "Elkawe",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Amerikanische Kreuzung „Friedrichstraße/Rudi-Dutschke-Straße“ in Berlin 2009"
+    },
+    {
+     "titel": "Ampel-Goettingen-34.jpg",
+     "beschreibung": "Geschwindigkeitsanzeiger, Göttingen, Kasseler Landstraße, westlich Rehbachstraße, ortsauswärts, 31.12.2013. Foto: Francisco Welter-Schultes.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ampel-Goettingen-34.jpg/1280px-Ampel-Goettingen-34.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ampel-Goettingen-34.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Ampel-Goettingen-34.jpg",
+     "urheber": "User:FranciscoWelterSchultes",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Geschwindigkeitsanzeiger, Göttingen, Kasseler Landstraße, westlich Rehbachstraße, ortsauswärts, 31.12.2013. Foto: Francisco Welter-Schultes."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Led traffic lights.jpg",
+    "beschreibung": "LED traffic lights in Örnsköldsvik, Sweden.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Led_traffic_lights.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/26/Led_traffic_lights.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Led_traffic_lights.jpg",
+    "urheber": "Petey21",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Ampel",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Eine Ampel regelt den Straßenverkehr."
+   }
+  },
   {
    "id": "wie-entstand-eigentlich-unser-mond",
    "zeit": "2026-10-21T15:23:12.718Z",
@@ -6794,214 +6988,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Cheops-Pyramide in Gizeh ist die größte Pyramide Ägyptens."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-ein-heissluftballon",
-   "zeit": "2026-10-03T17:59:26.362Z",
-   "bereich": "Technik und Erfindungen",
-   "titel": "Wie funktioniert eigentlich ein Heißluftballon?",
-   "vorspann": "Ein Heißluftballon nutzt warme Luft zum Fliegen. Schon im Jahr 1783 fand die erste unbemannte Fahrt statt.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Ein Heißluftballon ist ein Luftfahrzeug ohne Tragestruktur. Das bedeutet, dass der Korb an der Hülle hängt oder von Seilen gehalten wird. Die Hülle ist das tragende Element und besteht aus einem speziellen Gewebe. Typischerweise wird Polyamid oder Polyester verwendet.",
-      "Das Gewebe ist leicht und mit einer Schicht aus Polyurethan oder Silikon versehen. Dadurch bleibt die Hülle luftdicht. Unten am Ballon befindet sich der Korb für Passagiere und Ausrüstung. Er wird traditionell aus Weide geflochten."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "In der Ballonhülle wird eine große Luftmenge erwärmt. Wenn sich Luft erwärmt, dehnt sie sich aus. Dadurch wird ihr spezifisches Gewicht geringer als das der kälteren Außenluft. Dieser Dichteunterschied erzeugt eine Auftriebskraft.",
-      "Der Ballon hebt ab, wenn dieser Auftrieb der Gewichtskraft entspricht. Das Gewicht setzt sich aus der Hülle und der Nutzlast zusammen. Dazu gehören der Korb, der Brenner, die Gasflaschen und die Insassen. Zum Heizen werden meist Propan-Gasbrenner eingesetzt.",
-      "Start und Landung sind stark vom Wind abhängig. Bei zu viel Wind kann die Gondel über den Boden schleifen. Auch Thermik ist eine Gefahr für Ballonfahrer. Aufsteigende warme Luft kann die offene Hülle zusammendrücken."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Der Heißluftballon ist das älteste Luftfahrzeug nach den Fesseldrachen. Die Brüder Joseph Michel und Jacques Etienne Montgolfier gelten als Erfinder. Ihre erste Ballonfahrt fand am 4. oder 5. Juni 1783 statt.",
-      "Die ersten Menschen in der Geschichte der Menschheit waren Jean-François Pilâtre de Rozier und François d’Arlandes. Sie stiegen am 21. November 1783 in Paris mit einem Heißluftballon auf."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der Text enthält keine Angaben zu offenen Fragen oder ungelösten Problemen der Forschung."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Erstes unbemanntes Datum",
-     "4. oder 5. Juni 1783"
-    ],
-    [
-     "Erstes bemanntes Datum",
-     "21. November 1783"
-    ],
-    [
-     "Gängiges Volumen",
-     "3000 bis 10000 Kubikmeter"
-    ],
-    [
-     "Innstemperatur",
-     "70 bis 125 Grad Celsius"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Heißluftballon",
-     "Ein Luftfahrzeug, das den statischen Auftrieb heißer Luft in seinem Inneren nutzt."
-    ],
-    [
-     "Ballonhülle",
-     "Das tragende Auftriebselement des Ballons aus speziellem Gewebe."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann fand die erste unbemannte Fahrt statt?",
-     "optionen": [
-      "Am 4. oder 5. Juni 1783",
-      "Am 21. November 1783",
-      "Am 26. November 2005"
-     ],
-     "richtig": 0,
-     "erklaerung": "Die erste Ballonfahrt ohne Menschen war am 4. oder 5. Juni 1783."
-    }
-   ],
-   "video": [
-    "Ein Heißluftballon fliegt mit warmer Luft in seiner Hülle.",
-    "Die Luft dehnt sich durch die Erwärmung aus.",
-    "Dadurch sinkt ihr Gewicht im Vergleich zur Umgebung.",
-    "Wenn der Auftrieb groß genug ist, hebt der Ballon ab.",
-    "Bemannte Ballons nutzen meist Brenner mit Propan-Gas.",
-    "Die Brüder Montgolfier gelten als die Erfinder dieses Fahrzeugs.",
-    "Im Jahr 1783 fand die erste unbemannte Fahrt statt.",
-    "Kurz darauf stiegen die ersten Menschen in den Himmel auf."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Heißluftballon",
-    "bildunterschrift": "Ein Heißluftballon nutzt den Auftrieb warmer Luft."
-   },
-   "quelle": {
-    "titel": "Heißluftballon",
-    "url": "https://de.wikipedia.org/wiki/Hei%C3%9Fluftballon",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 250,
-   "bildInfos": [
-    {
-     "titel": "Balloons 3 bg 060504.jpg",
-     "beschreibung": "Hot air ballooons owned by Gary & Diana Moore, Wanderlust Balloons - Lake Havasu City, AZ, USA",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Balloons_3_bg_060504.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Balloons_3_bg_060504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Balloons_3_bg_060504.jpg",
-     "urheber": "Matthäus Wander",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Heißluftballon",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein Heißluftballon nutzt den Auftrieb warmer Luft."
-    },
-    {
-     "titel": "Ballonstart 1.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 1 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Ballonstart_1.jpg/1280px-Ballonstart_1.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Ballonstart_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_1.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 1 von 12"
-    },
-    {
-     "titel": "Ballonstart 10 THWZ.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 10 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ballonstart_10_THWZ.jpg/1280px-Ballonstart_10_THWZ.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ballonstart_10_THWZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_10_THWZ.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 10 von 12"
-    },
-    {
-     "titel": "Ballonstart 11 THWZ.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 11 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ballonstart_11_THWZ.jpg/1280px-Ballonstart_11_THWZ.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Ballonstart_11_THWZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_11_THWZ.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 11 von 12"
-    },
-    {
-     "titel": "Ballonstart 4.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 4 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Ballonstart_4.jpg/1280px-Ballonstart_4.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Ballonstart_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_4.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 4 von 12"
-    },
-    {
-     "titel": "Ballonstart 7 THWZ.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 7 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ballonstart_7_THWZ.jpg/1280px-Ballonstart_7_THWZ.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ballonstart_7_THWZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_7_THWZ.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 7 von 12"
-    },
-    {
-     "titel": "Ballonstart 9 THWZ.jpg",
-     "beschreibung": "Start eines Heißluftballons; Bild 9 von 12",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Ballonstart_9_THWZ.jpg/1280px-Ballonstart_9_THWZ.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ballonstart_9_THWZ.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ballonstart_9_THWZ.jpg",
-     "urheber": "Thomas Zimmermann ( THWZ )",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Start eines Heißluftballons; Bild 9 von 12"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Balloons 3 bg 060504.jpg",
-    "beschreibung": "Hot air ballooons owned by Gary & Diana Moore, Wanderlust Balloons - Lake Havasu City, AZ, USA",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Balloons_3_bg_060504.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Balloons_3_bg_060504.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Balloons_3_bg_060504.jpg",
-    "urheber": "Matthäus Wander",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Heißluftballon",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein Heißluftballon nutzt den Auftrieb warmer Luft."
    }
   }
  ]
