@@ -1,8 +1,6 @@
 {
- "stand": "2026-10-21T04:37:05.594Z",
+ "stand": "2026-10-21T10:04:19.640Z",
  "gepusht": [
-  "berliner-spd-linke-sondierung",
-  "dgb-proteste-sozialreform",
   "schusswaffenangriffe-suedafrika-tote",
   "festnahmen-militaerbasis-fairford-sprengstoffverdacht",
   "schweiz-neutralitaetsinitiative-volksabstimmung",
@@ -80,7 +78,9 @@
   "indien-massenpanik-durga-puja",
   "marsmond-mission-japan-deutschland",
   "investitionsgipfel-berlin-nvidia",
-  "afd-hackerangriff"
+  "afd-hackerangriff",
+  "tesla-spacex-fusion",
+  "alice-schwarzer-emma-einstellung"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -96,10 +96,12 @@
   "indien-massenpanik-durga-puja",
   "marsmond-mission-japan-deutschland",
   "investitionsgipfel-berlin-nvidia",
-  "afd-hackerangriff"
+  "afd-hackerangriff",
+  "tesla-spacex-fusion",
+  "alice-schwarzer-emma-einstellung"
  ],
  "wetter": {
-  "stand": "2026-10-21T04:37:05.594Z",
+  "stand": "2026-10-21T10:04:19.640Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -108,26 +110,26 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 8,
-     "code": 3,
-     "gefuehlt": 6,
-     "wind": 12,
-     "windAus": 139,
-     "feuchte": 92,
-     "druck": 1007,
+     "grad": 9,
+     "code": 61,
+     "gefuehlt": 7,
+     "wind": 10,
+     "windAus": 145,
+     "feuchte": 94,
+     "druck": 1008,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 10,
+     "max": 11,
      "min": 7,
      "regen": 100,
-     "menge": 9.9,
+     "menge": 7.9,
      "wind": 12,
-     "windAus": 138,
-     "uv": 0.3,
+     "windAus": 143,
+     "uv": 0.2,
      "auf": "07:58",
      "unter": "18:10"
     },
@@ -136,25 +138,25 @@
      "code": 80,
      "max": 11,
      "min": 8,
-     "regen": 73,
-     "menge": 1.6,
-     "wind": 17,
-     "windAus": 209,
-     "uv": 1.9,
+     "regen": 85,
+     "menge": 1,
+     "wind": 18,
+     "windAus": 212,
+     "uv": 2.2,
      "auf": "08:00",
-     "unter": "18:08"
+     "unter": "18:07"
     },
     "tage": [
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 10,
+      "max": 11,
       "min": 7,
       "regen": 100,
-      "menge": 9.9,
+      "menge": 7.9,
       "wind": 12,
-      "windAus": 138,
-      "uv": 0.3,
+      "windAus": 143,
+      "uv": 0.2,
       "auf": "07:58",
       "unter": "18:10"
      },
@@ -163,25 +165,25 @@
       "code": 80,
       "max": 11,
       "min": 8,
-      "regen": 73,
-      "menge": 1.6,
-      "wind": 17,
-      "windAus": 209,
-      "uv": 1.9,
+      "regen": 85,
+      "menge": 1,
+      "wind": 18,
+      "windAus": 212,
+      "uv": 2.2,
       "auf": "08:00",
-      "unter": "18:08"
+      "unter": "18:07"
      },
      {
       "datum": "2026-10-23",
       "code": 61,
       "max": 12,
       "min": 7,
-      "regen": 68,
+      "regen": 72,
       "menge": 1.7,
-      "wind": 14,
-      "windAus": 147,
-      "uv": 1.2,
-      "auf": "08:01",
+      "wind": 13,
+      "windAus": 149,
+      "uv": 0.9,
+      "auf": "08:02",
       "unter": "18:05"
      },
      {
@@ -189,11 +191,11 @@
       "code": 61,
       "max": 11,
       "min": 8,
-      "regen": 58,
-      "menge": 10.5,
-      "wind": 20,
-      "windAus": 189,
-      "uv": 1.1,
+      "regen": 63,
+      "menge": 10.3,
+      "wind": 17,
+      "windAus": 175,
+      "uv": 0.8,
       "auf": "08:03",
       "unter": "18:03"
      },
@@ -202,185 +204,185 @@
       "code": 80,
       "max": 13,
       "min": 8,
-      "regen": 82,
-      "menge": 14.7,
+      "regen": 84,
+      "menge": 14.4,
       "wind": 19,
-      "windAus": 209,
-      "uv": 1.3,
+      "windAus": 212,
+      "uv": 0.2,
       "auf": "08:05",
       "unter": "18:01"
      },
      {
       "datum": "2026-10-26",
-      "code": 61,
+      "code": 3,
       "max": 11,
-      "min": 7,
-      "regen": 33,
-      "menge": 3,
-      "wind": 18,
-      "windAus": 197,
-      "uv": 1.9,
+      "min": 8,
+      "regen": 36,
+      "menge": 0,
+      "wind": 15,
+      "windAus": 219,
+      "uv": 1.8,
       "auf": "08:07",
       "unter": "17:59"
      },
      {
       "datum": "2026-10-27",
-      "code": 61,
-      "max": 15,
-      "min": 9,
-      "regen": 55,
-      "menge": 3,
-      "wind": 21,
-      "windAus": 222,
-      "uv": 1.8,
+      "code": 3,
+      "max": 16,
+      "min": 10,
+      "regen": 51,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 186,
+      "uv": 2.1,
       "auf": "08:09",
       "unter": "17:57"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 27
-     },
-     {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 32
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 41
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 60
-     },
-     {
-      "zeit": "10:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 84
-     },
-     {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
       "zeit": "12:00",
       "grad": 9,
       "code": 61,
-      "regen": 100
+      "regen": 65
      },
      {
       "zeit": "13:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 83
      },
      {
       "zeit": "14:00",
       "grad": 10,
       "code": 61,
-      "regen": 96
+      "regen": 95
      },
      {
       "zeit": "15:00",
       "grad": 10,
       "code": 61,
-      "regen": 92
+      "regen": 100
      },
      {
       "zeit": "16:00",
       "grad": 10,
       "code": 61,
-      "regen": 88
+      "regen": 100
      },
      {
       "zeit": "17:00",
       "grad": 10,
       "code": 61,
-      "regen": 86
+      "regen": 100
      },
      {
       "zeit": "18:00",
-      "grad": 10,
-      "code": 55,
-      "regen": 90
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 96
-     },
-     {
-      "zeit": "20:00",
       "grad": 10,
       "code": 61,
       "regen": 100
      },
      {
+      "zeit": "19:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
       "zeit": "21:00",
       "grad": 10,
       "code": 61,
-      "regen": 99
+      "regen": 95
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 61,
-      "regen": 96
+      "regen": 95
      },
      {
       "zeit": "23:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 88
+      "grad": 11,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "00:00",
       "grad": 11,
       "code": 61,
-      "regen": 73
+      "regen": 85
      },
      {
       "zeit": "01:00",
       "grad": 11,
       "code": 61,
-      "regen": 53
+      "regen": 48
      },
      {
       "zeit": "02:00",
       "grad": 11,
       "code": 61,
-      "regen": 35
+      "regen": 15
      },
      {
       "zeit": "03:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
-      "regen": 22
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 10,
       "code": 3,
-      "regen": 12
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 9,
       "code": 3,
-      "regen": 4
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
      }
     ]
    },
@@ -390,39 +392,39 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 10,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 8,
-     "wind": 9,
-     "windAus": 122,
-     "feuchte": 89,
+     "gefuehlt": 11,
+     "wind": 8,
+     "windAus": 113,
+     "feuchte": 76,
      "druck": 1007,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 15,
+     "max": 14,
      "min": 9,
-     "regen": 76,
-     "menge": 0.4,
-     "wind": 10,
+     "regen": 43,
+     "menge": 2.8,
+     "wind": 12,
      "windAus": 131,
-     "uv": 1.7,
+     "uv": 1.8,
      "auf": "07:42",
      "unter": "17:58"
     },
     "morgen": {
      "datum": "2026-10-22",
-     "code": 61,
-     "max": 14,
-     "min": 9,
+     "code": 80,
+     "max": 13,
+     "min": 10,
      "regen": 100,
-     "menge": 5.7,
-     "wind": 14,
-     "windAus": 229,
-     "uv": 2.5,
+     "menge": 2.4,
+     "wind": 16,
+     "windAus": 234,
+     "uv": 2.1,
      "auf": "07:44",
      "unter": "17:56"
     },
@@ -430,26 +432,26 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 15,
+      "max": 14,
       "min": 9,
-      "regen": 76,
-      "menge": 0.4,
-      "wind": 10,
+      "regen": 43,
+      "menge": 2.8,
+      "wind": 12,
       "windAus": 131,
-      "uv": 1.7,
+      "uv": 1.8,
       "auf": "07:42",
       "unter": "17:58"
      },
      {
       "datum": "2026-10-22",
-      "code": 61,
-      "max": 14,
-      "min": 9,
+      "code": 80,
+      "max": 13,
+      "min": 10,
       "regen": 100,
-      "menge": 5.7,
-      "wind": 14,
-      "windAus": 229,
-      "uv": 2.5,
+      "menge": 2.4,
+      "wind": 16,
+      "windAus": 234,
+      "uv": 2.1,
       "auf": "07:44",
       "unter": "17:56"
      },
@@ -458,11 +460,11 @@
       "code": 61,
       "max": 15,
       "min": 6,
-      "regen": 22,
-      "menge": 0.9,
+      "regen": 47,
+      "menge": 1,
       "wind": 10,
-      "windAus": 165,
-      "uv": 1.6,
+      "windAus": 164,
+      "uv": 2.2,
       "auf": "07:46",
       "unter": "17:54"
      },
@@ -470,12 +472,12 @@
       "datum": "2026-10-24",
       "code": 61,
       "max": 11,
-      "min": 8,
-      "regen": 31,
+      "min": 7,
+      "regen": 33,
       "menge": 0.9,
-      "wind": 19,
-      "windAus": 195,
-      "uv": 1.4,
+      "wind": 18,
+      "windAus": 191,
+      "uv": 1,
       "auf": "07:47",
       "unter": "17:52"
      },
@@ -484,11 +486,11 @@
       "code": 61,
       "max": 11,
       "min": 7,
-      "regen": 67,
+      "regen": 80,
       "menge": 7.5,
       "wind": 18,
-      "windAus": 186,
-      "uv": 1.5,
+      "windAus": 188,
+      "uv": 2,
       "auf": "07:49",
       "unter": "17:50"
      },
@@ -496,99 +498,63 @@
       "datum": "2026-10-26",
       "code": 3,
       "max": 13,
-      "min": 6,
-      "regen": 21,
-      "menge": 0.6,
-      "wind": 14,
-      "windAus": 199,
-      "uv": 2.1,
+      "min": 7,
+      "regen": 23,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 226,
+      "uv": 2,
       "auf": "07:51",
       "unter": "17:48"
      },
      {
       "datum": "2026-10-27",
-      "code": 63,
-      "max": 17,
-      "min": 9,
-      "regen": 35,
-      "menge": 3.9,
-      "wind": 13,
-      "windAus": 214,
-      "uv": 1.9,
+      "code": 3,
+      "max": 14,
+      "min": 7,
+      "regen": 40,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 165,
+      "uv": 2.3,
       "auf": "07:53",
       "unter": "17:46"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "07:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "12:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "13:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 14,
-      "code": 3,
-      "regen": 0
+      "code": 61,
+      "regen": 5
      },
      {
       "zeit": "15:00",
       "grad": 14,
-      "code": 61,
-      "regen": 0
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "16:00",
-      "grad": 15,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 15,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -596,43 +562,43 @@
       "zeit": "18:00",
       "grad": 14,
       "code": 3,
-      "regen": 0
+      "regen": 8
      },
      {
       "zeit": "19:00",
-      "grad": 14,
+      "grad": 13,
       "code": 3,
-      "regen": 1
+      "regen": 5
      },
      {
       "zeit": "20:00",
       "grad": 13,
       "code": 3,
-      "regen": 8
+      "regen": 5
      },
      {
       "zeit": "21:00",
       "grad": 12,
-      "code": 61,
-      "regen": 28
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "22:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
-      "regen": 54
+      "regen": 28
      },
      {
       "zeit": "23:00",
       "grad": 11,
       "code": 61,
-      "regen": 76
+      "regen": 43
      },
      {
       "zeit": "00:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 88
+      "regen": 83
      },
      {
       "zeit": "01:00",
@@ -656,13 +622,49 @@
       "zeit": "04:00",
       "grad": 11,
       "code": 61,
-      "regen": 100
+      "regen": 95
      },
      {
       "zeit": "05:00",
       "grad": 11,
       "code": 61,
-      "regen": 100
+      "regen": 63
+     },
+     {
+      "zeit": "06:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 25
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -672,26 +674,26 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 8,
-     "code": 3,
-     "gefuehlt": 7,
-     "wind": 2,
-     "windAus": 59,
-     "feuchte": 91,
+     "grad": 10,
+     "code": 61,
+     "gefuehlt": 9,
+     "wind": 3,
+     "windAus": 139,
+     "feuchte": 88,
      "druck": 996,
-     "niederschlag": 0,
-     "tag": 0
+     "niederschlag": 0.1,
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 13,
+     "max": 12,
      "min": 8,
-     "regen": 94,
-     "menge": 4,
+     "regen": 100,
+     "menge": 5.8,
      "wind": 12,
      "windAus": 208,
-     "uv": 2.1,
+     "uv": 2.4,
      "auf": "07:44",
      "unter": "18:05"
     },
@@ -699,12 +701,12 @@
      "datum": "2026-10-22",
      "code": 80,
      "max": 14,
-     "min": 7,
-     "regen": 99,
-     "menge": 1.6,
-     "wind": 17,
-     "windAus": 230,
-     "uv": 2.7,
+     "min": 8,
+     "regen": 90,
+     "menge": 1.3,
+     "wind": 16,
+     "windAus": 232,
+     "uv": 2.6,
      "auf": "07:46",
      "unter": "18:03"
     },
@@ -712,13 +714,13 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 13,
+      "max": 12,
       "min": 8,
-      "regen": 94,
-      "menge": 4,
+      "regen": 100,
+      "menge": 5.8,
       "wind": 12,
       "windAus": 208,
-      "uv": 2.1,
+      "uv": 2.4,
       "auf": "07:44",
       "unter": "18:05"
      },
@@ -726,12 +728,12 @@
       "datum": "2026-10-22",
       "code": 80,
       "max": 14,
-      "min": 7,
-      "regen": 99,
-      "menge": 1.6,
-      "wind": 17,
-      "windAus": 230,
-      "uv": 2.7,
+      "min": 8,
+      "regen": 90,
+      "menge": 1.3,
+      "wind": 16,
+      "windAus": 232,
+      "uv": 2.6,
       "auf": "07:46",
       "unter": "18:03"
      },
@@ -740,8 +742,8 @@
       "code": 61,
       "max": 15,
       "min": 7,
-      "regen": 29,
-      "menge": 0.6,
+      "regen": 51,
+      "menge": 0.5,
       "wind": 11,
       "windAus": 172,
       "uv": 2.1,
@@ -753,11 +755,11 @@
       "code": 3,
       "max": 12,
       "min": 7,
-      "regen": 16,
+      "regen": 18,
       "menge": 0,
       "wind": 19,
-      "windAus": 207,
-      "uv": 1.9,
+      "windAus": 202,
+      "uv": 1.5,
       "auf": "07:49",
       "unter": "17:59"
      },
@@ -766,36 +768,36 @@
       "code": 61,
       "max": 13,
       "min": 7,
-      "regen": 75,
-      "menge": 8.7,
-      "wind": 19,
-      "windAus": 197,
-      "uv": 0.8,
+      "regen": 80,
+      "menge": 8.1,
+      "wind": 18,
+      "windAus": 198,
+      "uv": 2.1,
       "auf": "07:51",
       "unter": "17:57"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 13,
-      "min": 4,
-      "regen": 22,
+      "max": 12,
+      "min": 5,
+      "regen": 18,
       "menge": 0,
-      "wind": 15,
-      "windAus": 200,
-      "uv": 2.3,
+      "wind": 12,
+      "windAus": 220,
+      "uv": 2.1,
       "auf": "07:52",
       "unter": "17:55"
      },
      {
       "datum": "2026-10-27",
       "code": 3,
-      "max": 17,
-      "min": 9,
-      "regen": 49,
-      "menge": 0.9,
-      "wind": 13,
-      "windAus": 214,
+      "max": 15,
+      "min": 6,
+      "regen": 38,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 174,
       "uv": 2.4,
       "auf": "07:54",
       "unter": "17:53"
@@ -803,14 +805,122 @@
     ],
     "stunden": [
      {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 10
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 5
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 45
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 60
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 73
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 88
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 90
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 83
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 58
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 30
+     },
+     {
+      "zeit": "04:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
       "zeit": "06:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
@@ -818,133 +928,25 @@
       "zeit": "08:00",
       "grad": 8,
       "code": 3,
-      "regen": 2
+      "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
-      "regen": 10
+      "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 9,
-      "code": 61,
-      "regen": 20
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 27
-     },
-     {
-      "zeit": "12:00",
       "grad": 10,
-      "code": 61,
-      "regen": 26
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 21
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 16
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 32
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 49
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 66
-     },
-     {
-      "zeit": "22:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 82
-     },
-     {
-      "zeit": "23:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 94
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 99
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 99
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 94
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "04:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 61
-     },
-     {
-      "zeit": "05:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 43
+      "code": 2,
+      "regen": 0
      }
     ]
    },
@@ -954,38 +956,38 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 9,
-     "wind": 10,
-     "windAus": 148,
-     "feuchte": 93,
+     "gefuehlt": 12,
+     "wind": 12,
+     "windAus": 166,
+     "feuchte": 71,
      "druck": 1000,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 53,
-     "max": 14,
+     "max": 15,
      "min": 10,
      "regen": 98,
-     "menge": 4.6,
-     "wind": 17,
-     "windAus": 165,
-     "uv": 2.4,
+     "menge": 2.6,
+     "wind": 16,
+     "windAus": 162,
+     "uv": 2.5,
      "auf": "08:05",
      "unter": "18:27"
     },
     "morgen": {
      "datum": "2026-10-22",
-     "code": 51,
-     "max": 13,
+     "code": 3,
+     "max": 12,
      "min": 8,
      "regen": 55,
-     "menge": 0.4,
-     "wind": 20,
-     "windAus": 194,
+     "menge": 0,
+     "wind": 21,
+     "windAus": 188,
      "uv": 1.5,
      "auf": "08:06",
      "unter": "18:25"
@@ -994,25 +996,25 @@
      {
       "datum": "2026-10-21",
       "code": 53,
-      "max": 14,
+      "max": 15,
       "min": 10,
       "regen": 98,
-      "menge": 4.6,
-      "wind": 17,
-      "windAus": 165,
-      "uv": 2.4,
+      "menge": 2.6,
+      "wind": 16,
+      "windAus": 162,
+      "uv": 2.5,
       "auf": "08:05",
       "unter": "18:27"
      },
      {
       "datum": "2026-10-22",
-      "code": 51,
-      "max": 13,
+      "code": 3,
+      "max": 12,
       "min": 8,
       "regen": 55,
-      "menge": 0.4,
-      "wind": 20,
-      "windAus": 194,
+      "menge": 0,
+      "wind": 21,
+      "windAus": 188,
       "uv": 1.5,
       "auf": "08:06",
       "unter": "18:25"
@@ -1020,109 +1022,73 @@
      {
       "datum": "2026-10-23",
       "code": 80,
-      "max": 14,
-      "min": 10,
+      "max": 13,
+      "min": 9,
       "regen": 84,
-      "menge": 8.4,
-      "wind": 34,
-      "windAus": 156,
-      "uv": 1.3,
+      "menge": 12,
+      "wind": 33,
+      "windAus": 151,
+      "uv": 2.3,
       "auf": "08:08",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-24",
-      "code": 80,
+      "code": 55,
       "max": 13,
       "min": 8,
       "regen": 75,
-      "menge": 5.7,
-      "wind": 33,
-      "windAus": 227,
-      "uv": 2.4,
+      "menge": 3.8,
+      "wind": 35,
+      "windAus": 237,
+      "uv": 2.6,
       "auf": "08:10",
       "unter": "18:21"
      },
      {
       "datum": "2026-10-25",
-      "code": 63,
-      "max": 13,
-      "min": 9,
+      "code": 81,
+      "max": 14,
+      "min": 8,
       "regen": 91,
-      "menge": 13.8,
-      "wind": 27,
-      "windAus": 242,
-      "uv": 2.6,
+      "menge": 17,
+      "wind": 26,
+      "windAus": 240,
+      "uv": 1.4,
       "auf": "08:12",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-26",
       "code": 51,
-      "max": 13,
+      "max": 12,
       "min": 7,
       "regen": 52,
-      "menge": 1.5,
-      "wind": 21,
-      "windAus": 202,
-      "uv": 1.8,
+      "menge": 1.2,
+      "wind": 15,
+      "windAus": 205,
+      "uv": 1.2,
       "auf": "08:13",
       "unter": "18:17"
      },
      {
       "datum": "2026-10-27",
-      "code": 53,
-      "max": 16,
-      "min": 8,
+      "code": 51,
+      "max": 17,
+      "min": 11,
       "regen": 60,
-      "menge": 3.6,
-      "wind": 17,
-      "windAus": 222,
-      "uv": 2.2,
+      "menge": 1.2,
+      "wind": 13,
+      "windAus": 198,
+      "uv": 2.4,
       "auf": "08:15",
       "unter": "18:15"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 93
-     },
-     {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 85
-     },
-     {
-      "zeit": "08:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 71
-     },
-     {
-      "zeit": "09:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 48
-     },
-     {
-      "zeit": "10:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "11:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "12:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -1134,50 +1100,50 @@
      },
      {
       "zeit": "14:00",
-      "grad": 14,
+      "grad": 15,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 14,
+      "grad": 15,
       "code": 3,
       "regen": 24
      },
      {
       "zeit": "16:00",
       "grad": 14,
-      "code": 3,
+      "code": 51,
       "regen": 58
      },
      {
       "zeit": "17:00",
-      "grad": 13,
-      "code": 53,
+      "grad": 12,
+      "code": 51,
       "regen": 82
      },
      {
       "zeit": "18:00",
       "grad": 12,
-      "code": 53,
+      "code": 51,
       "regen": 90
      },
      {
       "zeit": "19:00",
       "grad": 12,
-      "code": 53,
+      "code": 51,
       "regen": 89
      },
      {
       "zeit": "20:00",
-      "grad": 12,
-      "code": 51,
+      "grad": 11,
+      "code": 3,
       "regen": 80
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 51,
+      "code": 3,
       "regen": 58
      },
      {
@@ -1195,30 +1161,30 @@
      {
       "zeit": "00:00",
       "grad": 11,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 10,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 9,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 9,
+      "grad": 8,
       "code": 0,
       "regen": 1
      },
@@ -1227,6 +1193,42 @@
       "grad": 8,
       "code": 0,
       "regen": 2
+     },
+     {
+      "zeit": "06:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 2
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 1
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 2
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 4
+     },
+     {
+      "zeit": "10:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 8
+     },
+     {
+      "zeit": "11:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 12
      }
     ]
    },
@@ -1236,26 +1238,26 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
+     "grad": 11,
      "code": 61,
-     "gefuehlt": 9,
-     "wind": 3,
-     "windAus": 108,
-     "feuchte": 90,
-     "druck": 997,
-     "niederschlag": 0,
-     "tag": 0
+     "gefuehlt": 10,
+     "wind": 6,
+     "windAus": 230,
+     "feuchte": 93,
+     "druck": 998,
+     "niederschlag": 0.1,
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 12,
-     "min": 10,
+     "max": 11,
+     "min": 9,
      "regen": 100,
-     "menge": 4.2,
+     "menge": 5.2,
      "wind": 12,
-     "windAus": 203,
-     "uv": 1.6,
+     "windAus": 210,
+     "uv": 0.9,
      "auf": "07:56",
      "unter": "18:22"
     },
@@ -1264,11 +1266,11 @@
      "code": 80,
      "max": 13,
      "min": 6,
-     "regen": 35,
-     "menge": 0.4,
+     "regen": 40,
+     "menge": 0.2,
      "wind": 15,
      "windAus": 217,
-     "uv": 2.2,
+     "uv": 2.6,
      "auf": "07:58",
      "unter": "18:20"
     },
@@ -1276,13 +1278,13 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 12,
-      "min": 10,
+      "max": 11,
+      "min": 9,
       "regen": 100,
-      "menge": 4.2,
+      "menge": 5.2,
       "wind": 12,
-      "windAus": 203,
-      "uv": 1.6,
+      "windAus": 210,
+      "uv": 0.9,
       "auf": "07:56",
       "unter": "18:22"
      },
@@ -1291,23 +1293,23 @@
       "code": 80,
       "max": 13,
       "min": 6,
-      "regen": 35,
-      "menge": 0.4,
+      "regen": 40,
+      "menge": 0.2,
       "wind": 15,
       "windAus": 217,
-      "uv": 2.2,
+      "uv": 2.6,
       "auf": "07:58",
       "unter": "18:20"
      },
      {
       "datum": "2026-10-23",
       "code": 61,
-      "max": 13,
+      "max": 14,
       "min": 7,
-      "regen": 50,
-      "menge": 2.7,
-      "wind": 19,
-      "windAus": 190,
+      "regen": 64,
+      "menge": 2.4,
+      "wind": 18,
+      "windAus": 185,
       "uv": 2.3,
       "auf": "08:00",
       "unter": "18:18"
@@ -1315,26 +1317,26 @@
      {
       "datum": "2026-10-24",
       "code": 61,
-      "max": 13,
+      "max": 14,
       "min": 8,
-      "regen": 51,
-      "menge": 1.2,
-      "wind": 20,
-      "windAus": 221,
-      "uv": 2,
+      "regen": 39,
+      "menge": 1.1,
+      "wind": 22,
+      "windAus": 216,
+      "uv": 2.5,
       "auf": "08:01",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-25",
       "code": 61,
-      "max": 15,
-      "min": 8,
-      "regen": 88,
-      "menge": 19.2,
-      "wind": 18,
-      "windAus": 225,
-      "uv": 1,
+      "max": 16,
+      "min": 7,
+      "regen": 96,
+      "menge": 17.9,
+      "wind": 16,
+      "windAus": 218,
+      "uv": 0.2,
       "auf": "08:03",
       "unter": "18:14"
      },
@@ -1342,66 +1344,30 @@
       "datum": "2026-10-26",
       "code": 3,
       "max": 13,
-      "min": 4,
-      "regen": 37,
-      "menge": 0.3,
-      "wind": 12,
-      "windAus": 199,
-      "uv": 1.7,
+      "min": 5,
+      "regen": 31,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 205,
+      "uv": 1.9,
       "auf": "08:05",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-27",
-      "code": 61,
+      "code": 3,
       "max": 17,
-      "min": 8,
-      "regen": 54,
-      "menge": 3.6,
-      "wind": 13,
-      "windAus": 222,
+      "min": 7,
+      "regen": 40,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 127,
       "uv": 2.5,
       "auf": "08:06",
       "unter": "18:10"
      }
     ],
     "stunden": [
-     {
-      "zeit": "06:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 42
-     },
-     {
-      "zeit": "07:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 45
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 51
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 67
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 86
-     },
-     {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
      {
       "zeit": "12:00",
       "grad": 11,
@@ -1416,75 +1382,75 @@
      },
      {
       "zeit": "14:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
-      "regen": 98
+      "regen": 95
      },
      {
       "zeit": "15:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 91
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 82
-     },
-     {
-      "zeit": "17:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 78
-     },
-     {
-      "zeit": "18:00",
       "grad": 11,
       "code": 61,
       "regen": 85
      },
      {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 65
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 80
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 88
+     },
+     {
       "zeit": "19:00",
       "grad": 11,
       "code": 61,
-      "regen": 96
+      "regen": 45
      },
      {
       "zeit": "20:00",
       "grad": 11,
-      "code": 61,
-      "regen": 100
+      "code": 3,
+      "regen": 33
      },
      {
       "zeit": "21:00",
       "grad": 11,
       "code": 61,
-      "regen": 90
+      "regen": 30
      },
      {
       "zeit": "22:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 73
+      "grad": 10,
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "23:00",
       "grad": 10,
       "code": 3,
-      "regen": 55
+      "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 35
+      "grad": 9,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 9,
-      "code": 1,
-      "regen": 15
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "02:00",
@@ -1501,13 +1467,49 @@
      {
       "zeit": "04:00",
       "grad": 7,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 7,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1518,35 +1520,35 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 10,
+     "grad": 11,
      "code": 61,
-     "gefuehlt": 9,
+     "gefuehlt": 10,
      "wind": 2,
-     "windAus": 321,
-     "feuchte": 94,
-     "druck": 980,
-     "niederschlag": 0.4,
-     "tag": 0
+     "windAus": 261,
+     "feuchte": 90,
+     "druck": 982,
+     "niederschlag": 0.3,
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
      "code": 61,
-     "max": 12,
+     "max": 11,
      "min": 9,
      "regen": 100,
-     "menge": 9.6,
+     "menge": 15.4,
      "wind": 16,
-     "windAus": 223,
+     "windAus": 227,
      "uv": 0.5,
      "auf": "07:52",
      "unter": "18:22"
     },
     "morgen": {
      "datum": "2026-10-22",
-     "code": 80,
+     "code": 3,
      "max": 15,
      "min": 7,
-     "regen": 57,
+     "regen": 5,
      "menge": 0,
      "wind": 17,
      "windAus": 215,
@@ -1558,22 +1560,22 @@
      {
       "datum": "2026-10-21",
       "code": 61,
-      "max": 12,
+      "max": 11,
       "min": 9,
       "regen": 100,
-      "menge": 9.6,
+      "menge": 15.4,
       "wind": 16,
-      "windAus": 223,
+      "windAus": 227,
       "uv": 0.5,
       "auf": "07:52",
       "unter": "18:22"
      },
      {
       "datum": "2026-10-22",
-      "code": 80,
+      "code": 3,
       "max": 15,
       "min": 7,
-      "regen": 57,
+      "regen": 5,
       "menge": 0,
       "wind": 17,
       "windAus": 215,
@@ -1585,12 +1587,12 @@
       "datum": "2026-10-23",
       "code": 61,
       "max": 13,
-      "min": 6,
-      "regen": 43,
+      "min": 8,
+      "regen": 26,
       "menge": 0.3,
-      "wind": 21,
-      "windAus": 208,
-      "uv": 2.5,
+      "wind": 20,
+      "windAus": 202,
+      "uv": 2.2,
       "auf": "07:55",
       "unter": "18:18"
      },
@@ -1599,11 +1601,11 @@
       "code": 3,
       "max": 12,
       "min": 7,
-      "regen": 42,
+      "regen": 13,
       "menge": 0,
-      "wind": 20,
-      "windAus": 230,
-      "uv": 2.4,
+      "wind": 19,
+      "windAus": 228,
+      "uv": 2.1,
       "auf": "07:57",
       "unter": "18:16"
      },
@@ -1612,36 +1614,36 @@
       "code": 61,
       "max": 13,
       "min": 8,
-      "regen": 91,
-      "menge": 13.5,
-      "wind": 23,
-      "windAus": 224,
-      "uv": 0.4,
+      "regen": 93,
+      "menge": 13.8,
+      "wind": 24,
+      "windAus": 220,
+      "uv": 0.3,
       "auf": "07:58",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 14,
-      "min": 5,
-      "regen": 29,
+      "max": 13,
+      "min": 6,
+      "regen": 23,
       "menge": 0,
-      "wind": 10,
-      "windAus": 196,
-      "uv": 1.9,
+      "wind": 7,
+      "windAus": 195,
+      "uv": 2.3,
       "auf": "08:00",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-27",
-      "code": 61,
+      "code": 2,
       "max": 16,
-      "min": 11,
-      "regen": 51,
-      "menge": 0.9,
-      "wind": 10,
-      "windAus": 211,
+      "min": 4,
+      "regen": 31,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 147,
       "uv": 2.6,
       "auf": "08:01",
       "unter": "18:11"
@@ -1649,52 +1651,16 @@
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 55
-     },
-     {
-      "zeit": "07:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 79
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 96
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 98
-     },
-     {
       "zeit": "12:00",
       "grad": 11,
       "code": 61,
-      "regen": 99
+      "regen": 93
      },
      {
       "zeit": "13:00",
       "grad": 11,
       "code": 61,
-      "regen": 99
+      "regen": 98
      },
      {
       "zeit": "14:00",
@@ -1710,86 +1676,122 @@
      },
      {
       "zeit": "16:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
       "regen": 100
      },
      {
       "zeit": "17:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 100
+      "grad": 11,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "18:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 90
      },
      {
       "zeit": "19:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 70
      },
      {
       "zeit": "20:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 33
      },
      {
       "zeit": "21:00",
       "grad": 10,
-      "code": 3,
-      "regen": 96
+      "code": 61,
+      "regen": 18
      },
      {
       "zeit": "22:00",
       "grad": 10,
-      "code": 61,
-      "regen": 89
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 61,
-      "regen": 78
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 10,
-      "code": 80,
-      "regen": 57
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "01:00",
       "grad": 9,
       "code": 1,
-      "regen": 32
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 8,
       "code": 0,
-      "regen": 12
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 8,
       "code": 0,
-      "regen": 4
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 8,
       "code": 0,
-      "regen": 1
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 7,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 7,
       "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 11,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -1800,15 +1802,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 8,
+     "grad": 11,
      "code": 3,
-     "gefuehlt": 7,
-     "wind": 6,
-     "windAus": 253,
-     "feuchte": 93,
-     "druck": 948,
+     "gefuehlt": 10,
+     "wind": 4,
+     "windAus": 297,
+     "feuchte": 86,
+     "druck": 949,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-10-21",
@@ -1816,22 +1818,22 @@
      "max": 12,
      "min": 8,
      "regen": 100,
-     "menge": 7.3,
-     "wind": 17,
-     "windAus": 274,
-     "uv": 2.5,
+     "menge": 5.6,
+     "wind": 21,
+     "windAus": 273,
+     "uv": 2.1,
      "auf": "07:41",
      "unter": "18:13"
     },
     "morgen": {
      "datum": "2026-10-22",
-     "code": 61,
+     "code": 80,
      "max": 13,
      "min": 6,
-     "regen": 99,
-     "menge": 0.2,
+     "regen": 55,
+     "menge": 0.4,
      "wind": 15,
-     "windAus": 246,
+     "windAus": 250,
      "uv": 3,
      "auf": "07:43",
      "unter": "18:12"
@@ -1843,48 +1845,48 @@
       "max": 12,
       "min": 8,
       "regen": 100,
-      "menge": 7.3,
-      "wind": 17,
-      "windAus": 274,
-      "uv": 2.5,
+      "menge": 5.6,
+      "wind": 21,
+      "windAus": 273,
+      "uv": 2.1,
       "auf": "07:41",
       "unter": "18:13"
      },
      {
       "datum": "2026-10-22",
-      "code": 61,
+      "code": 80,
       "max": 13,
       "min": 6,
-      "regen": 99,
-      "menge": 0.2,
+      "regen": 55,
+      "menge": 0.4,
       "wind": 15,
-      "windAus": 246,
+      "windAus": 250,
       "uv": 3,
       "auf": "07:43",
       "unter": "18:12"
      },
      {
       "datum": "2026-10-23",
-      "code": 80,
-      "max": 13,
-      "min": 4,
-      "regen": 39,
-      "menge": 1.7,
-      "wind": 11,
-      "windAus": 170,
-      "uv": 2.9,
+      "code": 61,
+      "max": 12,
+      "min": 3,
+      "regen": 55,
+      "menge": 1.5,
+      "wind": 9,
+      "windAus": 160,
+      "uv": 3,
       "auf": "07:44",
       "unter": "18:10"
      },
      {
       "datum": "2026-10-24",
       "code": 3,
-      "max": 10,
+      "max": 11,
       "min": 4,
-      "regen": 24,
+      "regen": 52,
       "menge": 0,
-      "wind": 19,
-      "windAus": 250,
+      "wind": 21,
+      "windAus": 248,
       "uv": 2.8,
       "auf": "07:46",
       "unter": "18:08"
@@ -1893,193 +1895,193 @@
       "datum": "2026-10-25",
       "code": 61,
       "max": 12,
-      "min": 3,
-      "regen": 90,
-      "menge": 10.8,
+      "min": 4,
+      "regen": 88,
+      "menge": 10.5,
       "wind": 17,
-      "windAus": 210,
-      "uv": 0.7,
-      "auf": "07:48",
+      "windAus": 211,
+      "uv": 1.9,
+      "auf": "07:47",
       "unter": "18:06"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 12,
-      "min": 5,
-      "regen": 26,
+      "max": 11,
+      "min": 4,
+      "regen": 46,
       "menge": 0,
       "wind": 11,
-      "windAus": 207,
+      "windAus": 214,
       "uv": 2.5,
       "auf": "07:49",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-27",
-      "code": 61,
-      "max": 16,
-      "min": 9,
-      "regen": 47,
-      "menge": 6.9,
-      "wind": 12,
-      "windAus": 222,
-      "uv": 2.5,
+      "code": 1,
+      "max": 13,
+      "min": 0,
+      "regen": 28,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 95,
+      "uv": 2.7,
       "auf": "07:51",
       "unter": "18:03"
      }
     ],
     "stunden": [
      {
-      "zeit": "06:00",
-      "grad": 8,
-      "code": 80,
-      "regen": 47
-     },
-     {
-      "zeit": "07:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 36
-     },
-     {
-      "zeit": "08:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "09:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 16
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 7
-     },
-     {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 2
-     },
-     {
       "zeit": "12:00",
       "grad": 11,
       "code": 3,
-      "regen": 1
+      "regen": 8
      },
      {
       "zeit": "13:00",
       "grad": 11,
       "code": 3,
-      "regen": 5
+      "regen": 13
      },
      {
       "zeit": "14:00",
       "grad": 12,
       "code": 3,
-      "regen": 14
+      "regen": 15
      },
      {
       "zeit": "15:00",
       "grad": 12,
       "code": 3,
-      "regen": 34
+      "regen": 18
      },
      {
       "zeit": "16:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
-      "regen": 61
+      "regen": 55
      },
      {
       "zeit": "17:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 82
+      "regen": 100
      },
      {
       "zeit": "18:00",
       "grad": 10,
       "code": 61,
-      "regen": 92
+      "regen": 100
      },
      {
       "zeit": "19:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 97
-     },
-     {
-      "zeit": "20:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "21:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "22:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 99
-     },
-     {
-      "zeit": "01:00",
       "grad": 9,
       "code": 61,
       "regen": 98
      },
      {
+      "zeit": "20:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "21:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "22:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "23:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "00:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 55
+     },
+     {
+      "zeit": "01:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 50
+     },
+     {
       "zeit": "02:00",
       "grad": 9,
       "code": 61,
-      "regen": 94
+      "regen": 50
      },
      {
       "zeit": "03:00",
       "grad": 8,
       "code": 61,
-      "regen": 87
+      "regen": 38
      },
      {
       "zeit": "04:00",
       "grad": 8,
-      "code": 3,
-      "regen": 78
+      "code": 61,
+      "regen": 15
      },
      {
       "zeit": "05:00",
+      "grad": 8,
+      "code": 80,
+      "regen": 3
+     },
+     {
+      "zeit": "06:00",
       "grad": 7,
-      "code": 2,
-      "regen": 65
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 10 und 15 Grad.",
-   "Die Vorhersage für morgen, Donnerstag, im ganzen Land: Regenschauer.",
+   "Heute liegen die Höchstwerte zwischen 11 und 15 Grad.",
+   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten Regenschauer, im Süden und Westen bewölkt.",
    "Die Temperaturen erreichen dann 11 bis 15 Grad.",
    "Am wärmsten wird es in Stuttgart mit 15 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
@@ -2094,19 +2096,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 11,
-       "regen": 1.6
+       "regen": 1
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 11,
-       "regen": 2.5
+       "regen": 0.5
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 12,
-       "regen": 0.8
+       "regen": 0.6
       }
      ]
     },
@@ -2116,20 +2118,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 14,
-       "regen": 5.7
+       "grad": 13,
+       "regen": 2.4
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 13,
-       "regen": 3.6
+       "regen": 3.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 12,
-       "regen": 8.6
+       "regen": 7.8
       }
      ]
     },
@@ -2140,19 +2142,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 1.6
+       "regen": 1.4
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 14,
-       "regen": 2
+       "regen": 0.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 3.1
+       "regen": 1.2
       }
      ]
     },
@@ -2162,20 +2164,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 2.5
+       "grad": 13,
+       "regen": 0.7
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 13,
-       "regen": 2.7
+       "grad": 12,
+       "regen": 0.8
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 0.8
+       "grad": 13,
+       "regen": 0.4
       }
      ]
     },
@@ -2186,19 +2188,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 0.4
+       "regen": 0.8
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 14,
-       "regen": 0.1
+       "regen": 0.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 0.1
+       "grad": 14,
+       "regen": 0.5
       }
      ]
     },
@@ -2220,8 +2222,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 0.4
+       "grad": 14,
+       "regen": 0.2
       }
      ]
     },
@@ -2232,37 +2234,37 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 0.2
+       "regen": 0.4
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 13,
-       "regen": 0.7
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 2.1
+       "grad": 12,
+       "regen": 1.6
       }
      ]
     }
    ],
-   "spanneGrad": 2,
+   "spanneGrad": 1,
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
-     "ICON",
-     "GFS"
+     "ICON"
     ],
     "trocken": [
+     "GFS",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 12 und 14 Grad.",
-    "Und in Hamburg erwartet ICON und GFS Regen, ECMWF dagegen nicht."
+    "Die Wettermodelle sind sich für morgen weitgehend einig: hoechstens ein Grad Unterschied.",
+    "Und in Hamburg erwartet ICON Regen, GFS und ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2454,6 +2456,1305 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "frankreich-proteste-eskalation",
+   "rubrik": "Welt",
+   "zeit": "2026-10-21T09:49:27.000Z",
+   "aktualisiert": "aktualisiert um 12:04 Uhr",
+   "titel": "Maßnahmen der Regierung in Frankreich nach gewaltsamen Protesten",
+   "vorspann": "Nach gewaltsamen Protesten und Ausschreitungen in mehreren französischen Städten hat die Regierung nächtliche Ausgangssperren verhängt. Die Behörden bestätigten zahlreiche Festnahmen und kündigten an, Soldaten zur Unterstützung der Sicherheitskräfte einzusetzen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "In Frankreich kam es nach landesweiten Protesten zu schweren Ausschreitungen und Plünderungen in mehreren Großstädten.",
+    "Die Regierung reagierte darauf mit nächtlichen Ausgangssperren, Demonstrationsverboten und der Ankündigung eines massiven Polizeieinsatzes.",
+    "Innenminister Laurent Nuñez räumte ein Versagen der Behörden ein und bot seinen Rücktritt an, den Präsident Emmanuel Macron jedoch ablehnte.",
+    "Für das kommende Wochenende und den 5. November sind neue Proteste angekündigt, auf die der Staat mit dem Einsatz von Soldaten reagieren will."
+   ],
+   "einig": [
+    [
+     "In mehreren Städten in Frankreich gab es nächtliche Ausgangssperren.",
+     [
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob der Polizei tatsächlich die Munition ausgegangen ist, wie der Bürgermeister von Limoges, Guillaume Guérin, behauptete, laut Süddeutsche Zeitung."
+   ],
+   "positionen": [
+    [
+     "Gérald Darmanin (Justizminister)",
+     "Die Behörden haben angesichts der Gewalt unbestreitbar versagt; Festgenommene stammen aus verschiedenen gesellschaftlichen Gruppen.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Laurent Nuñez (Innenminister)",
+     "Die Behörden haben am Samstag die Kontrolle verloren, die Situation war äußerst schwer zu bewältigen und die Sicherheitsmaßnahmen waren stellenweise unverhältnismäßig.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Emmanuel Macron (Präsident)",
+     "Verurteilung der Gewalt durch linksextreme Gruppen und Kriminelle, aber Unterscheidung zu legitimen Forderungen von Demonstranten.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Guillaume Guérin (Bürgermeister von Limoges)",
+     "Kritik am Versagen des Staates und Behauptung, der Polizei sei die Munition ausgegangen.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Ariel Weil (Bürgermeister von Paris Centre)",
+     "Befürwortung des Einsatzes des Militärs zur Verhinderung neuer Ausschreitungen.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Maud Bregeon (Regierungssprecherin)",
+     "Zurückweisung der Kritik, dass Bürgermeister im Stich gelassen worden seien.",
+     "Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Stimmen von Vertretern der Gelbwesten oder der Gewerkschaften direkt im Zitat, detaillierte Angaben von Augenzeugen vor Ort.",
+   "medien": [
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 11:49",
+     "fokus": "Kurzmeldung über Ausgangssperren",
+     "text": "Der Deutschlandfunk berichtet in einer kurzen Meldung über die erneuten nächtlichen Ausgangssperren in mehreren französischen Großstädten nach den Unruhen vom Wochenende.",
+     "url": "https://www.deutschlandfunk.de/erneut-naechtliche-ausgangssperren-in-mehreren-grossstaedten-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 07:53",
+     "fokus": "Umfassender Bericht über Proteste und Reaktionen",
+     "text": "Die Süddeutsche Zeitung bietet einen detaillierten Überblick über die Ausgangssperren, Festnahmen, ministerielle Geständnisse, politische Reaktionen und die Festnahme eines mutmaßlichen Brandstifters.",
+     "url": "https://www.sueddeutsche.de/politik/proteste-frankreich-macron-ausgangssperren-brandstifter-limoges-li.3565815",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 5,
+      "woerter": 921,
+      "satzlaenge": 18,
+      "langeWoerter": 40
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Der Deutschlandfunk liefert nur eine kurze Kurzmeldung zur Existenz von Ausgangssperren, während die Süddeutsche Zeitung einen sehr langen und detaillierten Bericht mit zahlreichen Hintergründen, Zahlen und politischen Reaktionen veröffentlicht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Französische Regierung, Polizei, Justizministerium und Demonstrierende",
+    "was": "Nächtliche Ausgangssperren, Festnahmen und politische Reaktionen nach schweren Ausschreitungen",
+    "wann": "Wochenende bis Mittwoch",
+    "wo": "Frankreich, unter anderem Paris, Marseille, Nizza und Lille",
+    "wie": "Durch Ausgangssperren, Polizeieinsätze und den geplanten Einsatz von Soldaten",
+    "warum": "Wegen schwerer Ausschreitungen, Brandstiftungen und Plünderungen bei landesweiten Protesten, laut Süddeutsche Zeitung",
+    "quellenlage": "Deutschlandfunk und Süddeutsche Zeitung"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Nach den Unruhen vom vergangenen Wochenende hat es in mehreren Städten in Frankreich erneut nächtliche Ausgangssperren gegeben. Laut der Süddeutschen Zeitung galten die Sperrstunden in Paris, Nizza, Lille und weiteren Orten. In der Nacht zum Mittwoch sei es in Frankreich den Berichten zufolge ruhig geblieben. Die Polizei überwachte in Paris in den Nachtstunden die Einhaltung der Maßnahmen unter anderem mit einem Hubschrauber.",
+      "Nach Angaben der Süddeutschen Zeitung hatte Premierminister Sebastien Lecornu am Dienstagmittag nach einer Krisensitzung mit Regierungsmitgliedern angekündigt, teilweise und sehr lokal begrenzte Ausgangssperren verhängt zu haben. Diese dienten insbesondere dem Schutz der Geschäfte. In der Nacht auf Dienstag waren laut der Süddeutschen Zeitung unter anderem mehrere Stadtviertel in Paris, Nizza, Lille und Lyon sowie drei weitere Orte im Norden des Landes von den Ausschreitungen betroffen.",
+      "Marseille, das laut der Süddeutschen Zeitung besonders stark von den Krawallen betroffen war, hatte bereits für Montag ein Demonstrationsverbot bis 20 Uhr ausgesprochen. Auch für Paris wurde in einigen Stadtteilen ein solches Verbot verhängt. Der Regierungschef beschrieb die Lage als geografisch sehr uneinheitlich und als sehr lokal begrenztes Chaos in den Stadtzentren."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Laut der Süddeutschen Zeitung waren seit Samstag nach Angaben des zuständigen Handelsministeriums mindestens 3000 Geschäfte im ganzen Land angegriffen worden. Justizminister Gérald Darmanin nannte eine Bilanz von 2331 festgenommenen Personen. Darmanin führte aus, dass es sich bei den Festgenommenen um Menschen mit Migrationshintergründen, Ausländer sowie um voll integrierte Franzosen handle. Rund 70 Prozent seien Erwachsene, die der Polizei häufig bekannt seien, und 95 Prozent der Festgenommenen seien männlich.",
+      "Nach dem Brand im Rathaus der zentralfranzösischen Stadt Limoges hat die Polizei am Dienstag einen mutmaßlich an der Brandstiftung beteiligten Mann gefasst. Spezialeinsatzkräfte hätten den Verdächtigen in einem etwa 50 Kilometer entfernten Ort festgenommen, berichteten französische Medien laut der Süddeutschen Zeitung unter Verweis auf die Polizei. Es handle sich um einen polizeibekannten 40 Jahre alten Linksextremisten, der unter anderem wegen Gewalt gegen Amtsträger aufgefallen sei.",
+      "Innenminister Laurent Nuñez räumte ein, dass die Behörden am Samstag in einigen Großstädten die Kontrolle verloren hätten. Die Situation sei äußerst schwer zu bewältigen gewesen. Die von den Behörden getroffenen Sicherheitsmaßnahmen seien stellenweise unverhältnismäßig zur Teilnehmerzahl gewesen, da man von maximal 200.000 Teilnehmern ausgegangen sei, während tatsächlich mehr als 500.000 gekommen seien. Am Samstag seien 60.000 Sicherheitskräfte im Einsatz gewesen, was laut dem Innenminister zu wenig war."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die Proteste gingen von der Koordinierungsgruppe Gelbwesten aus, die gegen die Lebenshaltungskosten protestierte. Die Proteste führten laut den Berichten zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen im ganzen Land. Außenstehende Politiker wie US-Präsident Donald Trump machten laut der Süddeutschen Zeitung die Einwanderung für die Gewalttaten verantwortlich.",
+      "Präsident Emmanuel Macron hielt am Sonntagabend eine Fernsehansprache, um zur Beruhigung der Lage beizutragen. Er wies auf Versäumnisse hin und verurteilte die Aktivitäten von Einzelpersonen aus linksextremen Gruppen, denen sich zahlreiche Kriminelle angeschlossen hätten. Gleichzeitig betonte Macron, dass man die Demonstranten mit ihren legitimen Forderungen niemals mit denjenigen verwechseln dürfe, die zerstörten, randalierten und plünderten."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Präfekten sind in Frankreich staatliche Beamte, die in einem Département oder einer Region als Vertreter der Zentralregierung fungieren. Sie sind unter anderem für die öffentlichen Aufgaben zuständig."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Justizminister Gérald Darmanin räumte in einem Interview mit CNews ein, dass die Behörden angesichts der Gewalt unbestreitbar versagt hätten, wie die Süddeutsche Zeitung berichtet. Innenminister Laurent Nuñez bot nach dem Kontrollverlust seinen Rücktritt an, um Verantwortung zu übernehmen. Präsident Emmanuel Macron lehnte den Rücktritt des Innenministers jedoch ab.",
+      "Der Bürgermeister der Stadt Limoges, Guillaume Guérin von den konservativen Les Républicains, kritisierte in einem Interview mit dem Radiosender RCF Notre Dame das Versagen des Staats und behauptete laut der Süddeutschen Zeitung, dass der Polizei die Munition ausgegangen sei. Der Bürgermeister des Pariser Zentrums, Ariel Weil von der Sozialistischen Partei, sprach sich für den Einsatz des Militärs aus, um erneute Ausschreitungen zu verhindern. Regierungssprecherin Maud Bregeon wies jegliche Kritik zurück und erklärte, kein Bürgermeister sei im Stich gelassen worden."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die Koordinierungsgruppe Gelbwesten kündigte für das kommende Wochenende neue Aktionen an, und auf einer Website wurde eine Karte für Protestveranstaltungen veröffentlicht. Die französische Regierung will Soldaten der Anti-Terror-Einheit Sentinelle einsetzen, um die Polizei bei den angekündigten Protesten zu unterstützen und Sicherheitskräfte für die Aufrechterhaltung der Ordnung freizustellen, wie Innenminister Laurent Nuñez in der Nationalversammlung ankündigte. Premierminister Sebastien Lecornu kündigte zudem einen massiven Polizeieinsatz an.",
+      "Die Gewerkschaften riefen für den fünften November zu friedlichen Protesten auf und kündigten einen Aktionstag an. Die Regierung lud Gewerkschaftsvertreter für Mittwoch zu einem Gespräch ein, um eine Strategie zu erarbeiten und die Vorbereitungen für den Demonstrationstag frühzeitig abzusichern, wie die Süddeutsche Zeitung berichtet."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Montag",
+     "Premierminister Lecornu kündigte lokale Ausgangssperren an; Präsident Macron lehnte den Rücktritt von Innenminister Nuñez ab."
+    ],
+    [
+     "Dienstag",
+     "Die Polizei nahm einen Verdächtigen im Zusammenhang mit dem Brand im Rathaus von Limoges fest."
+    ],
+    [
+     "Kommender Samstag",
+     "Die Gelbwesten rufen zu neuen Demonstrationen auf."
+    ],
+    [
+     "Wochenende",
+     "Landesweite Proteste und Ausschreitungen in Frankreich und Italien."
+    ],
+    [
+     "Sonntag",
+     "Frankreichs Präsident Macron hielt eine Fernsehansprache und kündigte ein Vorgehen an."
+    ],
+    [
+     "Montag",
+     "Premierminister Lecornu kündigte Ausgangssperren an; Macron lehnte den Rücktritt von Innenminister Nuñez ab."
+    ],
+    [
+     "Dienstag",
+     "Die Polizei nahm einen Verdächtigen nach dem Rathausbrand in Limoges fest; das italienische Kabinett beriet über Sicherheitsmaßnahmen."
+    ],
+    [
+     "Wochenende",
+     "Landesweite Proteste führten zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen in Frankreich."
+    ],
+    [
+     "Sonntag",
+     "Präsident Emmanuel Macron hielt eine Fernsehansprache und kündigte ein Vorgehen gegen Randalierer an."
+    ],
+    [
+     "Montag",
+     "Premierminister Sebastien Lecornu kündigte lokale Ausgangssperren an; Macron lehnte den Rücktritt von Innenminister Laurent Nuñez ab."
+    ],
+    [
+     "Dienstag",
+     "Die Polizei nahm einen Verdächtigen nach dem Rathausbrand in Limoges fest."
+    ],
+    [
+     "Kommender Samstag",
+     "Die Gelbwesten rufen zu neuen Protesten und Demonstrationen auf."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Emmanuel Macron politician",
+     "bildunterschrift": "Der französische Präsident Emmanuel Macron hielt eine Fernsehansprache zur Beruhigung der Lage."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Gerald Darmanin politician",
+     "bildunterschrift": "Justizminister Gérald Darmanin äußerte sich zu den Festnahmen und dem Versagen der Behörden."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Paris cityscape",
+     "bildunterschrift": "In Paris und weiteren Städten wurden nächtliche Ausgangssperren verhängt."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "National Assembly of France building",
+     "bildunterschrift": "In der Nationalversammlung kündigte Innenminister Laurent Nuñez den Einsatz von Soldaten an."
+    }
+   ],
+   "ort": {
+    "name": "Paris, Frankreich"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das Datum in wfragen von 2026 auf das Jahr aus den Quellen korrigiert beziehungsweise präzisiert.",
+    "Unbelegtes Detail im Abschnitt Zum Verständnis entfernt.",
+    "Fehlerhafte Datumsangabe in der Zeitleiste korrigiert."
+   ],
+   "wortwarnung": [
+    "Chaos",
+    "massiven"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Ausgangssperre",
+      "Eine behördliche Anordnung, die Menschen verbietet, sich während bestimmter Nachtstunden im öffentlichen Raum aufzuhalten."
+     ],
+     [
+      "Präfekt",
+      "Ein staatlicher Beamter in Frankreich, der in einer Region oder einem Département als Vertreter der Regierung arbeitet."
+     ],
+     [
+      "Gelbwesten",
+      "Eine Protestbewegung in Frankreich, benannt nach den gelben Warnwesten, die bei Demonstrationen getragen werden."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente gibt es für und gegen den Einsatz von Soldaten im Inneren zur Unterstützung der Polizei?",
+     "Wie bewertest du den Umgang der Regierung mit den Fehlern der Sicherheitsbehörden?",
+     "Warum ist es für Nachrichten wichtig, zwischen friedlichen Demonstranten und gewalttätigen Randalierern zu unterscheiden?"
+    ],
+    "quiz": [
+     {
+      "frage": "In welchen Städten gab es laut den Berichten nächtliche Ausgangssperren?",
+      "optionen": [
+       "Nur in Marseille",
+       "In Paris, Nizza, Lille und weiteren Orten",
+       "Ausschließlich in Lyon"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Deutschlandfunk und Süddeutscher Zeitung galten die Sperrstunden in mehreren Städten, darunter Paris, Nizza und Lille."
+     },
+     {
+      "frage": "Wie begründete Präsident Emmanuel Macron die Ablehnung des Rücktritts von Innenminister Nuñez?",
+      "optionen": [
+       "Wegen der Notwendigkeit, die Kontrolle über die Strafverfolgungsbehörden aufrechtzuerhalten",
+       "Weil der Minister alle Demonstrationen verhindern konnte",
+       "Weil keine Fehler gemacht wurden"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Élysée-Palast begründete den Schritt mit der Notwendigkeit, die Kontrolle über die Strafverfolgungsbehörden im aktuellen Kontext aufrechtzuerhalten."
+     },
+     {
+      "frage": "Wer kündigte für das kommende Wochenende neue Aktionen an?",
+      "optionen": [
+       "Die Regierung",
+       "Die Koordinierungsgruppe Gelbwesten",
+       "Das Handelsministerium"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Koordinierungsgruppe Gelbwesten kündigte laut der Süddeutschen Zeitung einen zweiten Akt mit neuen Aktionen an."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In Frankreich hat es nach schweren Krawallen nächtliche Ausgangssperren gegeben.",
+    "absaetze": [
+     "In vielen Städten wie Paris und Nizza durften die Menschen nachts nicht mehr auf die Straße.",
+     "Die Regierung reagierte damit auf Plünderungen und Brände bei landesweiten Protesten.",
+     "Innenminister Laurent Nuñez gab zu, dass die Polizei zu Beginn zu schwach aufgestellt war.",
+     "Für das kommende Wochenende sind neue Proteste geplant, bei denen auch Soldaten helfen sollen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Nach schweren Krawallen in Frankreich hat die Regierung nächtliche Ausgangssperren verhängt.",
+     "Innenminister Nuñez räumte Fehler der Behörden ein und bot erfolglos seinen Rücktritt an.",
+     "Für kommende Demonstrationen plant der Staat den Einsatz von Soldaten."
+    ],
+    "lang": [
+     "Nach gewaltsamen Protesten in Frankreich hat es in mehreren Städten nächtliche Ausgangssperren gegeben.",
+     "Das teilten Medien wie die Süddeutsche Zeitung am Mittwoch mit.",
+     "Betroffen waren unter anderem Paris, Nizza und Marseille.",
+     "Auslöser waren landesweite Unruhen und Plünderungen, bei denen laut dem Handelsministerium mindestens dreitausend Geschäfte angegriffen wurden.",
+     "Innenminister Laurent Nuñez räumte ein, dass die Behörden am Samstag die Kontrolle verloren hatten.",
+     "Nach Angaben der Süddeutschen Zeitung lehnte Präsident Emmanuel Macron den Rücktritt des Innenministers jedoch ab.",
+     "Die Regierung kündigte an, bei den für das Wochenende angekündigten Protesten Soldaten einzusetzen.",
+     "Kritiker wie der Bürgermeister von Limoges warfen dem Staat ein Versagen vor.",
+     "Gewerkschaften riefen zudem für den fünften November zu friedlichen Protesten auf.",
+     "Die Hintergründe der Proteste und die genauen Zahlen der Festnahmen werden weiter polizeilich untersucht."
+    ],
+    "einfach": [
+     "In Frankreich gab es nach schweren Krawallen nächtliche Ausgangssperren in mehreren Städten.",
+     "Tausende Geschäfte wurden bei den Protesten beschädigt oder geplündert.",
+     "Der Innenminister gab zu, dass die Polizei am Anfang Fehler gemacht hat.",
+     "Der Präsident lehnte den Rücktritt des Ministers aber ab.",
+     "Für das nächste Wochenende sind neue Proteste angekündigt worden.",
+     "Dann sollen auch Soldaten der Armee die Polizei unterstützen."
+    ]
+   },
+   "kurz": [
+    "In mehreren französischen Städten gab es nach Unruhen nächtliche Ausgangssperren.",
+    "Innenminister Nuñez räumte ein Versagen der Behörden ein, sein Rücktritt wurde abgelehnt.",
+    "Die Regierung kündigte an, Soldaten zur Unterstützung bei neuen Protesten einzusetzen."
+   ],
+   "fakten": [
+    [
+     "Angegriffene Geschäfte",
+     "mindestens 3000"
+    ],
+    [
+     "Festgenommene Personen",
+     "2331"
+    ],
+    [
+     "Sicherheitskräfte im Einsatz",
+     "60000"
+    ],
+    [
+     "Zuschauer der TV-Ansprache",
+     "fast 17 Millionen"
+    ]
+   ],
+   "dossier": {
+    "slug": "proteste-in-frankreich",
+    "titel": "Proteste und Ausgangssperren in Frankreich"
+   },
+   "bildInfo": {
+    "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
+    "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+    "urheber": "Photo Claude TRUONG-NGOC",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "art": "person",
+    "suchbegriff": "Emmanuel Macron politician",
+    "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
+     "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+     "urheber": "Photo Claude TRUONG-NGOC",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "person",
+     "suchbegriff": "Emmanuel Macron politician",
+     "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Place de la République (Paris), réaménagement, 2013-06-14 18.jpg",
+     "beschreibung": "Restructuration of place de la République (Paris).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg/1280px-Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Place_de_la_R%C3%A9publique_(Paris),_r%C3%A9am%C3%A9nagement,_2013-06-14_18.jpg",
+     "urheber": "Coyau",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Place de la République (Paris)",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Place de la Republique Paris",
+     "bildunterschrift": "Der Platz der Republik in Paris als zentraler Ort in Frankreich.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Avenue des Champs-Élysées July 24, 2009 N1.jpg",
+     "beschreibung": "Avenue des Champs-Élysées view from the Arc de Triomphe",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg/1280px-Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-%C3%89lys%C3%A9es_July_24,_2009_N1.jpg",
+     "urheber": "Josh Hallett",
+     "lizenz": "CC BY-SA 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "artikel": "Avenue des Champs Élysées",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Elysee Palace",
+     "bildunterschrift": "Die Prachtstraße Champs-Élysées in Paris.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Paris, Frankreich",
+    "lat": 48.853,
+    "lon": 2.348
+   },
+   "version": 5
+  },
+  {
+   "id": "tesla-spacex-fusion",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-21T09:49:27.000Z",
+   "titel": "Tesla und SpaceX prüfen einen möglichen Zusammenschluss",
+   "vorspann": "Die von Elon Musk geführten Unternehmen Tesla und SpaceX prüfen laut einer Videokonferenz einen gemeinsamen Zusammenschluss. Eine solche Fusion wäre nach Angaben aus den Berichten die bisher gewichtigste Verbindung zweier Firmen an der Börse.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Die Unternehmen Tesla und SpaceX prüfen nach Angaben von Elon Musk einen Zusammenschluss.",
+    "Dafür wurden auf Wunsch von Aktionären spezielle Ausschüsse eingerichtet, an denen Elon Musk wegen möglicher Interessenkonflikte nicht teilnimmt.",
+    "Mit Billionen-Bewertungen an der Börse wäre eine solche Fusion die bisher gewichtigste Verbindung zweier Unternehmen.",
+    "Für die Realisierung ist unter anderem laut Elon Musk die Zustimmung von mindestens 50 Prozent der Tesla-Aktionäre erforderlich."
+   ],
+   "einig": [
+    [
+     "Tesla und SpaceX prüfen einen Zusammenschluss.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Es wurden spezielle Ausschüsse auf Wunsch von Aktionären gebildet.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Elon Musk ist wegen möglicher Interessenkonflikte nicht Teil dieser Ausschüsse.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "SpaceX ist an der Börse mehr als 1,9 Billionen Dollar wert und Tesla rund 1,48 Billionen Dollar.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Für einen solchen Schritt ist die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob es tatsächlich zu einer Fusion kommt, ist laut Elon Musk noch nicht sicher.",
+    "Wie hoch die genauen Erfolgsaussichten der Aktionärszustimmung sind, wird unterschiedlich bewertet."
+   ],
+   "positionen": [
+    [
+     "Elon Musk (Unternehmensleiter)",
+     "Findet einen Zusammenschluss persönlich eine gute Idee mit Vorteilen, betont aber, dass es nicht sicher ist.",
+     "Tagesschau/ARD,Spiegel,Zeit,Süddeutsche Zeitung"
+    ],
+    [
+     "Gene Munster (Investor und Branchenanalyst)",
+     "Argumentiert laut Tagesschau/ARD, dass eine Fusion wirtschaftlich Sinn ergeben kann und Tesla SpaceX um die Interaktion mit der realen Welt ergänzt.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Stimmen von normalen Aktionären oder offiziellen Regulierungsbehörden kommen in den Berichten nicht zu Wort.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 09:11",
+     "fokus": "Finanzzahlen und Analystenmeinung",
+     "text": "Der Bericht beleuchtet neben den Börsenwerten auch detaillierte Quartalszahlen von SpaceX sowie die Einschätzung des Analysten Gene Munster.",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/tesla-spacex-zusammenschluss-moeglich-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 620,
+      "satzlaenge": 17,
+      "langeWoerter": 29
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 11:49",
+     "fokus": "–",
+     "text": "Der Elektroautohersteller Tesla und das Raumfahrtunternehmen SpaceX prüfen einen Zusammenschluss.",
+     "url": "https://www.deutschlandfunk.de/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 02:06",
+     "fokus": "Geschäftsbereiche und Starlink",
+     "text": "Der Text legt einen Schwerpunkt auf die verschiedenen Sparten von SpaceX wie den Satellitendienst Starlink und dessen Bedeutung im ukrainischen Kontext.",
+     "url": "https://www.spiegel.de/wirtschaft/elon-musk-spacex-verdoppelt-umsatz-und-prueft-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 506,
+      "satzlaenge": 14,
+      "langeWoerter": 33
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 02:02",
+     "fokus": "–",
+     "text": "Elon Musk bezeichnet eine Fusion seiner beiden Unternehmen als eine gute Idee mit »vielen Vorteilen«. SpaceX und Tesla würden bereits an gemeinsamen Projekten arbeiten.",
+     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/tesla-spacex-fusion-elon-musk-aktionaere",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 07:36",
+     "fokus": "Machtstrukturen und Unternehmensführung",
+     "text": "Die Zeitung thematisiert neben den Finanzdaten auch die Stimmrechtsstrukturen von Musk und mögliche frühere Absichten zur Absicherung seiner Führungsposition.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/elon-musk-tesla-spacex-usa-zusammenschluss-li.3566717",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 524,
+      "satzlaenge": 14,
+      "langeWoerter": 32
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während der Deutschlandfunk und die Zeit die Meldung sehr kurz halten, bieten Tagesschau/ARD, Spiegel und Süddeutsche Zeitung umfangreiche Hintergründe zu den Quartalszahlen und Bewertungen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Die Unternehmen Tesla und SpaceX sowie Vorstand Elon Musk",
+    "was": "Prüfung eines möglichen Zusammenschlusses beider Unternehmen",
+    "wann": "Noch unklar",
+    "wo": "Vereinigte Staaten",
+    "wie": "Durch spezielle Ausschüsse auf Wunsch von Aktionären",
+    "warum": "Wirtschaftliche Sinnhaftigkeit und Aktionärswünsche, laut Elon Musk",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Spiegel, Zeit, Süddeutsche Zeitung"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die beiden US-amerikanischen Konzerne Tesla und SpaceX prüfen derzeit einen Zusammenschluss. Dies bestätigte der Tech-Milliardär und Leiter beider Unternehmen in einer Videokonferenz zu den Quartalszahlen von SpaceX, wie unter anderem die Tagesschau und der Spiegel berichten. Laut den Berichten wäre ein solcher Schritt die bisher gewichtigste Fusion zweier Unternehmen an den Börsen. Über ein solches Vorhaben war in der Vergangenheit bereits mehrfach spekuliert worden.",
+      "Für die Untersuchung dieses Vorhabens wurden nach Angaben der Berichte spezielle Ausschüsse gebildet. Diese Einsetzung erfolgte demnach auf den ausdrücklichen Wunsch von Aktionären der beteiligten Gesellschaften. Elon Musk selbst ist nach eigenen Angaben nicht Teil dieser Ausschüsse. Als Begründung dafür nannte er mögliche Interessenkonflikte, da er als Großaktionär an beiden Unternehmen beteiligt ist.",
+      "Die Bekanntgabe dieser Prüfung stieß an den Finanzmärkten auf unterschiedliche Reaktionen. Im nachbörslichen Handel legten die Aktien der beteiligten Firmen in unterschiedlichem Maße zu. Anleger reagierten auf die Ankündigung mit Kursbewegungen bei Tesla und SpaceX. Die genauen Bewertungen der Konzerne bewegen sich im Bereich von Billionen US-Dollar."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Die wirtschaftliche Bewertung der beiden Firmen wird in den Berichten beziffert. Demnach ist SpaceX an der Börse aktuell mehr als 1,9 Billionen Dollar wert. Der Autobauer Tesla wird in den Berichten auf rund 1,48 Billionen Dollar beziffert. Die Anteile an beiden Firmen bilden nach Angaben von Spiegel und Süddeutscher Zeitung die Grundlage für das Vermögen von Elon Musk.",
+      "SpaceX legte im vergangenen Quartal Geschäftsberichte vor, die ein deutliches Wachstum zeigen. Unterm Strich verbuchte das Unternehmen laut Tagesschau und Süddeutscher Zeitung schwarze Zahlen in Höhe von 4,4 Milliarden Dollar. Im entsprechenden Vorjahreszeitraum hatte noch ein Verlust von rund einer Milliarde Dollar bestanden. Der Gesamtumsatz stieg nach Angaben der Berichte von rund 5,58 Milliarden Dollar auf 14,58 Milliarden Dollar.",
+      "Zu den Ertragsquellen von SpaceX gehören neben Raketenstarts vor allem der Satelliteninternetdienst Starlink und der Bereich der Künstlichen Intelligenz. Der Satellitendienst Starlink verzeichnete im Jahresvergleich ein Umsatzwachstum auf 5,2 Milliarden Dollar. Zum Stichtag 30. September zählte der Dienst nach Angaben des Magazins Spiegel 13,6 Millionen Kunden. Auch im Bereich der KI-Rechenzentren und der Raumfahrt verzeichnet das Unternehmen erhebliche Aktivitäten."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Elon Musk gilt laut den Berichten als der derzeit reichste Mensch der Welt, wobei seine Anteile an Tesla und SpaceX den Großteil seines geschätzten Vermögens von rund 920 Milliarden Dollar ausmachen. Eine Fusion der beiden Konzerne wurde in der Öffentlichkeit bereits über längere Zeit hinweg diskutiert. Bislang hatte sich die Führungsperson zu diesen Spekulationen eher ausweichend geäußert. Nun bezeichnete er ein solches Zusammengehen laut Spiegel und Zeit als eine gute Idee mit zahlreichen Vorteilen.",
+      "Tesla verzeichnet derweil eigene strategische Neuausrichtungen. Der Autobauer soll nach den Plänen der Unternehmensführung vom reinen Verkauf von Elektroautos auf selbstfahrende Robotaxis und humanoide Roboter umgestellt werden. In diesen Segmenten trifft das Unternehmen auf dem Markt auf starke Konkurrenz. Die hohen Bewertungen beider Firmen stützen sich zu einem großen Teil auf die Erwartungen an künftige technologische Erfolge.",
+      "Beide Unternehmen arbeiten laut den Berichten bereits in verschiedenen Bereichen zusammen. So kooperieren Tesla und SpaceX beispielsweise bei dem geplanten Bau einer großen Chipfabrik namens Terafab in den Vereinigten Staaten. Zudem sollen Kaltgas-Raketendüsen von SpaceX auf bestimmten Varianten eines neuen Tesla-Sportwagens zum Einsatz kommen, dessen Produktion laut Musk für das Jahr 2028 anvisiert ist."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ein Zusammenschluss von Unternehmen, auch Fusion genannt, bezeichnet die Vereinigung von zwei oder mehr rechtlich selbstständigen Firmen zu einer einzigen wirtschaftlichen Einheit. Dabei werden Ressourcen, Vermögenswerte und Strukturen zusammengelegt. Solche Prozesse erfordern in der Regel rechtliche Prüfungen und die Zustimmung von Eigentümern oder Aktionären ab bestimmten Mehrheitsgrenzen.",
+      "Unternehmen nutzen Börsennotierungen, um Kapital von Investoren zu erhalten. Aktien verbriefen dabei Anteile an einer Gesellschaft und deren Wert verändert sich fortlaufend basierend auf Angebot und Nachfrage an den Finanzmärkten. Großaktionäre halten signifikante Anteile an Unternehmen und besitzen dadurch oft weitreichende Mitspracherechte bei grundlegenden geschäftlichen Entscheidungen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Elon Musk erklärte in einer Videokonferenz zu den Quartalszahlen von SpaceX, dass er persönlich ein Zusammengehen der beiden Firmen für eine gute Idee halte. Gleichzeitig schränkte er ein, es wäre übertrieben zu sagen, dass eine Fusion mit Sicherheit stattfinden werde. Als Hürde nannte er unter anderem die notwendige Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre.",
+      "Der Investor und Branchenanalyst Gene Munster äußerte laut der Tagesschau/ARD die Einschätzung, dass ein Zusammengehen wirtschaftlich Sinn ergeben könne. Zur Begründung führte er an, dass Tesla die Möglichkeit besitze, Künstliche Intelligenz über Fahrzeuge und Roboter mit der realen Welt interagieren zu lassen, was SpaceX bisher fehle. Aus diesem Grund gehe er von einer Zustimmung der Aktionäre aus."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die Sonderausschüsse von Tesla und SpaceX werden die Möglichkeit eines Zusammenschlusses weiter prüfen. Sollte das Vorhaben konkretisiert werden, ist für den Schritt nach Angaben von Elon Musk die formelle Zustimmung von mindestens der Hälfte aller Tesla-Aktionäre erforderlich. Weitere konkrete Termine für einen Abschluss des Prüfverfahrens wurden in den Berichten nicht genannt.",
+      "Zudem laufen bei den beteiligten Firmen verschiedene Produktions- und Entwicklungsprojekte. Dazu gehört der Bau der Chipfabrik Terafab, für die derzeit das Grundstück vorbereitet wird, sowie die Weiterentwicklung der Rakete Starship durch SpaceX. Für letztere kündigte Musk an, dass die Zahl der Starts künftig erhöht werden soll."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "21.10.2026",
+     "Elon Musk bestätigt in einer Videokonferenz die Prüfung eines Zusammenschlusses von Tesla und SpaceX."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Elon Musk businessperson",
+     "bildunterschrift": "Elon Musk führt als Vorstand sowohl das Automobilunternehmen Tesla als auch das Raumfahrtunternehmen SpaceX."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Tesla headquarters Austin",
+     "bildunterschrift": "Das Hauptquartier des Elektroautoherstellers Tesla in den Vereinigten Staaten."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "SpaceX headquarters Hawthorne",
+     "bildunterschrift": "Das Firmengelände des Raumfahrtunternehmens SpaceX in Kalifornien."
+    }
+   ],
+   "ort": {
+    "name": "Vereinigte Staaten"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Datum in wfragen von '21.10.2026' auf 'Noch unklar' korrigiert, da das genaue Datum der Konferenz nicht in den Einig-Fakten steht.",
+    "Fehlende Quellenkennzeichnungen bei Zitaten und Aussagen im Artikel ergänzt, um Berichtsregeln einzuhalten."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Fusion",
+      "Eine Fusion ist der Zusammenschluss von zwei oder mehreren Unternehmen zu einer einzigen gemeinsamen Firma."
+     ],
+     [
+      "Aktionär",
+      "Ein Aktionär ist eine Person, die einen kleinen Teil an einer Aktiengesellschaft besitzt und dadurch Mitspracherechte hat."
+     ]
+    ],
+    "fragen": [
+     "Welche Vorteile könnte ein Zusammenschluss von Tesla und SpaceX laut den beteiligten Personen und Analysten bringen?",
+     "Warum nimmt Elon Musk laut den Berichten nicht selbst an den Prüfungsausschüssen teil?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welche Unternehmen prüfen nach den Berichten einen Zusammenschluss?",
+      "optionen": [
+       "Tesla und SpaceX",
+       "Tesla und Google",
+       "SpaceX und Amazon"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichte von Tagesschau, Deutschlandfunk, Spiegel, Zeit und Süddeutscher Zeitung bestätigen einheitlich, dass Tesla und SpaceX einen Zusammenschluss prüfen."
+     },
+     {
+      "frage": "Wie hoch ist der Börsenwert von SpaceX laut den Berichten?",
+      "optionen": [
+       "mehr als 1,9 Billionen Dollar",
+       "rund 1,48 Billionen Dollar",
+       "75 Milliarden Dollar"
+      ],
+      "richtig": 0,
+      "erklaerung": "In den übereinstimmenden Berichten wird genannt, dass SpaceX an der Börse mehr als 1,9 Billionen Dollar wert ist."
+     },
+     {
+      "frage": "Wie viel Prozent der Tesla-Aktionäre müssen laut Elon Musk mindestens zustimmen?",
+      "optionen": [
+       "mindestens 25 Prozent",
+       "mindestens 50 Prozent",
+       "mindestens 75 Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Elon Musk verwies darauf, dass für einen solchen Schritt die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig ist."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die großen US-Firmen Tesla und SpaceX prüfen zurzeit, ob sie sich zusammenschließen wollen.",
+    "absaetze": [
+     "Das haben die Firmen nach Angaben von Unternehmensleiter Elon Musk in einer Videokonferenz bekannt gegeben.",
+     "Tesla baut Elektroautos und SpaceX ist eine Raumfahrtfirma.",
+     "Beide Unternehmen sind an der Börse extrem viel wert.",
+     "Für eine Fusion müssten die Aktionäre von Tesla zustimmen.",
+     "Ob der Zusammenschluss wirklich stattfindet, ist noch nicht sicher."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Unternehmen Tesla und SpaceX prüfen zur Zeit einen gemeinsamen Zusammenschluss. Das sagte Unternehmensleiter Elon Musk in einer Videokonferenz. Ob es tatsächlich zu einer Fusion kommt, ist laut Musk noch nicht sicher."
+    ],
+    "lang": [
+     "Die beiden US-amerikanischen Konzerne Tesla und SpaceX prüfen zur Zeit einen möglichen Zusammenschluss. Das teilte Unternehmensleiter Elon Musk in einer Videokonferenz zu den Quartalszahlen mit. Nach Angaben der Berichte wäre dies die bisher gewichtigste Fusion zweier Unternehmen an der Börse. SpaceX ist demnach mehr als eine komma neun Billionen Dollar wert. Tesla wird in den Berichten auf rund eine Komma vier acht Billionen Dollar beziffert. Für eine solche Fusion haben Aktionäre spezielle Ausschüsse gefordert. Elon Musk ist wegen möglicher Interessenkonflikte kein Teil dieser Ausschüsse. Musk selbst bezeichnet das Vorhaben als eine gute Idee mit vielen Vorteilen. Gleichzeitig betont er nach übereinstimmenden Medienberichten, dass eine Umsetzung noch nicht sicher ist. Für einen solchen Schritt ist die Zustimmung von mindestens fünfzig Prozent aller Tesla-Aktionäre notwendig. Die Sonderausschüsse werden die Möglichkeit eines Zusammenschlusses nun weiter prüfen."
+    ],
+    "einfach": [
+     "Die Firmen Tesla und SpaceX wollen sich vielleicht zusammenschließen. Das hat Unternehmensleiter Elon Musk gesagt. Tesla baut Autos und SpaceX baut Raumschiffe. Beide Firmen sind an der Börse sehr viel Geld wert. Ob die Firmen wirklich zusammengehölren, ist noch nicht sicher. Dazu müssen die Besitzer der Aktien noch abstimmen."
+    ]
+   },
+   "kurz": [
+    "Tesla und SpaceX prüfen auf Wunsch von Aktionären einen möglichen Zusammenschluss.",
+    "SpaceX ist an der Börse mehr als 1,9 Billionen Dollar und Tesla rund 1,48 Billionen Dollar wert.",
+    "Unternehmensleiter Elon Musk hält die Fusion für eine gute Idee, aber eine Umsetzung ist nicht sicher.",
+    "Mindestens 50 Prozent der Tesla-Aktionäre müssen einem solchen Schritt zustimmen."
+   ],
+   "fakten": [
+    [
+     "Börsenwert SpaceX",
+     "mehr als 1,9 Billionen Dollar"
+    ],
+    [
+     "Börsenwert Tesla",
+     "rund 1,48 Billionen Dollar"
+    ],
+    [
+     "Gewinn SpaceX im Quartal",
+     "4,4 Milliarden Dollar"
+    ],
+    [
+     "Notwendige Zustimmung Tesla-Aktionäre",
+     "mindestens 50 Prozent"
+    ]
+   ],
+   "dossier": {
+    "slug": "tesla-spacex-fusion",
+    "titel": "Mögliche Fusion von Tesla und SpaceX"
+   },
+   "bildInfo": {
+    "titel": "Elon Musk (54816836217) (cropped 2) (b).jpg",
+    "beschreibung": "Elon Musk at the Memorial for Charlie Kirk at State Farm Stadium in Glendale, Arizona.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg",
+    "urheber": "Gage Skidmore",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Elon Musk",
+    "sprache": "de",
+    "art": "person",
+    "suchbegriff": "Elon Musk businessperson",
+    "bildunterschrift": "Elon Musk führt die Unternehmen Tesla und SpaceX.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Elon Musk (54816836217) (cropped 2) (b).jpg",
+     "beschreibung": "Elon Musk at the Memorial for Charlie Kirk at State Farm Stadium in Glendale, Arizona.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg",
+     "urheber": "Gage Skidmore",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Elon Musk",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Elon Musk businessperson",
+     "bildunterschrift": "Elon Musk führt die Unternehmen Tesla und SpaceX.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "The SpaceX Factory.jpg",
+     "beschreibung": "SpaceX headquarters at Hawthorne, California.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/The_SpaceX_Factory.jpg/1280px-The_SpaceX_Factory.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_SpaceX_Factory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:The_SpaceX_Factory.jpg",
+     "urheber": "Steve Jurvetson",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "SpaceX",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "SpaceX headquarters Hawthorne",
+     "bildunterschrift": "Die Zentrale von SpaceX in Hawthorne in Kalifornien.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Vereinigte Staaten",
+    "lat": 39.784,
+    "lon": -100.446
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "alice-schwarzer-emma-einstellung",
+   "rubrik": "Deutschland",
+   "zeit": "2026-10-21T09:49:27.000Z",
+   "titel": "Einstellung des feministischen Magazins Emma nach 50 Jahren",
+   "vorspann": "Nach 50 Jahren und 398 Ausgaben wird das feministische Magazin Emma im Dezember eingestellt. Dies teilte die Gründerin und Herausgeberin Alice Schwarzer mit.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Das feministische Magazin Emma wird nach 50 Jahren und 398 Ausgaben eingestellt.",
+    "Die Herausgeberin Alice Schwarzer begründet den Schritt nicht mit wirtschaftlicher Not, sondern mit dem Ende einer Ära.",
+    "Das vollständige Archiv des Magazins geht an das Deutsche Literaturarchiv Marbach.",
+    "Ein digitales Forum soll nach Angaben der Süddeutschen Zeitung als Nachfolgeangebot fortbestehen."
+   ],
+   "einig": [
+    [
+     "Das Magazin Emma wird nach 50 Jahren eingestellt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die letzte Ausgabe erscheint am 8. Dezember.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Gründe für die Einstellung sind nicht ökonomischer Natur.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Das Archiv des Magazins geht an das Deutsche Literaturarchiv Marbach.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Wie genau das angekündigte digitale Forum für feministische Information und Kommunikation aussehen wird (Süddeutsche Zeitung)."
+   ],
+   "positionen": [
+    [
+     "Alice Schwarzer (Herausgeberin)",
+     "Das Magazin wird eingestellt, weil es nach 50 Jahren genug ist und die Einnahmen zwar noch die Ausgaben decken, aber ein Zeitpunkt zum Aufhören erreicht ist.",
+     "Tagesschau/ARD,ZDFheute,Spiegel,Süddeutsche Zeitung"
+    ],
+    [
+     "Kritiker von Alice Schwarzer",
+     "Sie werfen ihr vor, beim Ukraine-Krieg den Aggressor zu ignorieren, und kritisieren ihre Positionen zu trans Personen als transfeindlich.",
+     "ZDFheute,Spiegel"
+    ]
+   ],
+   "fehlend": "Stimmen von ehemaligen Leserinnen oder offizielle Stellungnahmen von Verlagen und Verbänden.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 10:40",
+     "fokus": "Einstellung und Geschichte",
+     "text": "Berichtet ausführlich über die Gründe der Einstellung und die Zitate von Alice Schwarzer zur Geschichte des Magazins.",
+     "url": "https://www.tagesschau.de/kultur/emma-magazin-ende-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 256,
+      "satzlaenge": 14,
+      "langeWoerter": 30
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 08:56",
+     "fokus": "Hintergrund und Kontroversen",
+     "text": "Beleuchtet neben der Einstellung auch Schwarzers Positionen zum Ukraine-Krieg und zu trans Personen.",
+     "url": "https://www.zdfheute.de/panorama/emma-frauen-zeitschrift-schluss-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 541,
+      "satzlaenge": 14,
+      "langeWoerter": 33
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "21.10.26, 11:49",
+     "fokus": "Kurzmeldung",
+     "text": "Bringt eine kurze Agenturmeldung über die Bekanntgabe durch die dpa.",
+     "url": "https://www.deutschlandfunk.de/alice-schwarzer-stellt-magazin-emma-nach-50-jahren-ein-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 08:24",
+     "fokus": "Ausführliche Hintergründe",
+     "text": "Erwähnt Details zu den Redaktionsstandorten in Köln und früheren Themen des Magazins.",
+     "url": "https://www.spiegel.de/kultur/alice-schwarzer-stellt-magazin-emma-ein-wir-meinen-es-reicht-a-1f57462f-765e-48a3-95f0-b2d7ba6c09ad#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 750,
+      "satzlaenge": 17,
+      "langeWoerter": 31
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "21.10.26, 08:14",
+     "fokus": "Kulturhistorische Einordnung",
+     "text": "Betont die gesellschaftliche Wirkung des Magazins und kündigt ein digitales Nachfolgeforum an.",
+     "url": "https://www.sueddeutsche.de/medien/alice-schwarzer-emma-frauenmagazin-feminismus-frauenrechte-li.3566740",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 327,
+      "satzlaenge": 15,
+      "langeWoerter": 32
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Fokus der Berichterstattung",
+     "Während die kürzeren Meldungen sich auf die Fakten der Einstellung beschränken, gehen ZDFheute und Spiegel ausführlich auf politische Kontroversen um Schwarzer ein."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Alice Schwarzer und die Redaktion der Emma",
+    "was": "Das feministische Magazin Emma wird eingestellt",
+    "wann": "2026-10-21",
+    "wo": "Köln, Deutschland",
+    "wie": "Durch eine Ankündigung der Herausgeberin an die dpa",
+    "warum": "Laut Schwarzer, weil man nach 50 Jahren meint, es reiche",
+    "quellenlage": "Mitteilungen der Herausgeberin und Berichte von dpa und Medien"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Ende einer Ära für das feministische Magazin",
+     "absaetze": [
+      "Das feministische Magazin Emma wird nach einem Bestehen von 50 Jahren eingestellt. Dies gab die Gründerin und Herausgeberin Alice Schwarzer bekannt. Die letzte reguläre Ausgabe soll am 8. Dezember erscheinen. Mit diesem Schritt endet die Geschichte einer der bekanntesten Publikationen der Frauenbewegung in der Bundesrepublik Deutschland. Insgesamt wird das Magazin bis dahin 398 Ausgaben veröffentlicht haben. Die letzte Ausgabe soll nach Angaben des ZDF doppelt so umfangreich sein wie üblich.",
+      "Die Entscheidung zur Einstellung wurde am 21. Oktober bekannt. Laut übereinstimmenden Medienberichten wandte sich Schwarzer mit dieser Nachricht an die Deutsche Presse-Agentur in Köln. Das Magazin blickt auf eine jahrzehntelange Geschichte zurück, in der es zahlreiche gesellschaftliche Debatten prägte. Die Redaktion war im Laufe der Jahre an verschiedenen Standorten in Köln ansässig. Zu Beginn befand sich der Sitz am Kolpingplatz, später zog die Redaktion in den Bayenturm im Rheinauhafen um.",
+      "Das Magazin erschien in den vergangenen Jahrzehnten im Zweimonatsrhythmus. Die erste Ausgabe kam am 26. Januar 1977 auf den Markt. Von Anfang an verstand sich die Publikation als Sprachrohr für Frauen und als Gegenentwurf zu bestehenden Publikationen. Über drei Generationen hinweg begleitete das Magazin gesellschaftliche Entwicklungen und feministische Strömungen. Die Redaktion setzte dabei auf eigene redaktionelle Schwerpunkte und unabhängige Berichterstattung."
+     ]
+    },
+    {
+     "ueberschrift": "Gründe für die Einstellung und wirtschaftliche Lage",
+     "absaetze": [
+      "Als Grund für die Einstellung nannte die Herausgeberin keine ökonomischen Probleme. Zwar sinke die Auflage des Magazins, wie Schwarzer einräumte, jedoch deckten die Einnahmen nach wie vor die laufenden Ausgaben. Zudem verfüge das Medium über ein finanzielles Polster. Die Entscheidung basiere vielmehr auf der Einschätzung, dass die Arbeit nach einem halben Jahrhundert abgeschlossen werden könne. Wörtlich erklärte die Herausgeberin dazu in einer Mitteilung, dass man gehe, weil man meine, es reiche.",
+      "Zusätzlich äußerte sich das Team im Rahmen des Abschieds ermattet nach jahrelangem Einsatz. Das Magazin habe über drei Generationen hinweg die Stellung gehalten und sich gegen verschiedene Entwicklungen im Namen des Feminismus positioniert. Die Veröffentlichung hat nach eigener Darstellung in den vergangenen Jahrzehnten immer wieder Themen gesetzt, die von anderen Medien zunächst nicht beachtet wurden. Dazu zählten laut den Berichten unter anderem das Ehegattensplitting sowie das Thema Genitalverstümmelung.",
+      "In der Berichterstattung wurde zudem auf die historische Bedeutung des Magazins verwiesen. Die Publikation habe schon sehr früh über Themen wie den sexuellen Missbrauch von Kindern und den Islamismus berichtet. Die Veröffentlichungen zu diesen Bereichen erfolgten nach Angaben des Spiegels bereits in den Jahren 1978 und 1979. Laut Süddeutscher Zeitung trug insbesondere der Bericht über den Missbrauch einer Vierzehnjährigen im Jahr 1978 dazu bei, den öffentlichen Diskurs über Pädophilie stark zu beeinflussen."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund und Reaktionen auf die Haltung der Herausgeberin",
+     "absaetze": [
+      "Alice Schwarzer gilt als die bekannteste Feministin in Deutschland. Sie begründete die Zeitschrift 1977 mit einem Kollektiv. Als ursprüngliches Motiv nannte sie die Frauenfeindlichkeit in den damaligen Medien. Journalistinnen hätten eine eigene Stimme und ein eigenes Magazin benötigt. Im Jahr 2008 übernahm kurzzeitig die Journalistin Lisa Ortgies die Chefredaktion, allerdings kam es bald zu einem Zerwürfnis, woraufhin Schwarzer die Leitung wieder selbst übernahm. Die Suche nach einer Nachfolge gestaltete sich laut den Berichten schwierig, da potenzielle Kolleginnen andere Medien bevorzugt hätten.",
+      "In den vergangenen Jahren geriet die Herausgeberin mehrfach in die öffentliche Kritik. Seit Beginn des Ukraine-Krieges im Jahr 2022 sprach sie sich wiederholt für schnelle Friedensverhandlungen mit Russland aus, teils gemeinsam mit Sahra Wagenknecht. Kritiker warfen ihr daraufhin vor, die Rolle des Aggressors zu vernachlässigen. Im Jahr 2024 räumte Schwarzer ein, dass diese Haltung zu Kündigungen von Abonnements geführt habe. Etwa jede fünfte Leserin kündigte demnach aus Protest das Abo, was wirtschaftlich spürbar gewesen sei.",
+      "Auch Positionen zu trans Personen sorgten für Kontroversen. Im Jahr 2023 forderten zahlreiche Autorinnen und Künstler die Absage einer Veranstaltung mit Schwarzer, da sie durch transfeindliche Aussagen auffalle. Schwarzer wies die Vorwürfe zurück und betonte, sie habe Transsexuelle nicht angegriffen. Kritik äußerte sie jedoch an einer neuen Transideologie, die den Personenstandswechsel ab dem 14. Lebensjahr fordert. Sie plädierte dafür, diese Meinung ohne Ausschluss aus dem öffentlichen Diskurs äußern zu dürfen."
+     ]
+    },
+    {
+     "ueberschrift": "Archivierung und Zukunft des Projekts",
+     "absaetze": [
+      "Das vollständige Archiv der Zeitschrift mitsamt Korrespondenzen und Materialien soll in den Bestand des Deutschen Literaturarchivs Marbach übergehen. Ab dem Jahr 2029 soll dieses Archiv für Interessierte und Forschende zugänglich sein. Dies soll sicherstellen, dass die Dokumente der Frauenbewegung dauerhaft erhalten bleiben. Die Herausgeberin beschrieb diesen Schritt im Spiegel so, dass das Magazin damit in die Ewigkeit gehe.",
+      "Zusätzlich kündigte die Süddeutsche Zeitung an, dass das Magazin als digitales Forum für feministische Information und Kommunikation fortbestehen soll. Wie dieses digitale Angebot konkret gestaltet sein wird, blieb in der Ankündigung zunächst offen. Die gedruckte Form wird jedoch mit der Ausgabe vom 8. Dezember endgültig eingestellt."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "26. Januar 1977",
+     "Die erste Ausgabe des Magazins Emma erscheint."
+    ],
+    [
+     "2008",
+     "Lisa Ortgies übernimmt kurzzeitig die Chefredaktion vor einem erneuten Wechsel zu Schwarzer."
+    ],
+    [
+     "21. Oktober 2026",
+     "Alice Schwarzer gibt die Einstellung des Magazins für den Dezember bekannt."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Alice Schwarzer journalist",
+     "bildunterschrift": "Alice Schwarzer, die Gründerin des feministischen Magazins Emma."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Cologne cityscape",
+     "bildunterschrift": "Köln, der langjährige Sitz der Redaktion des Magazins."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "German Literature Archive Marbach",
+     "bildunterschrift": "Das Deutsche Literaturarchiv Marbach, das künftige Archiv des Magazins."
+    }
+   ],
+   "ort": {
+    "name": "Köln, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Nicht belegbare Angaben zu ehemaligen Leserinnen bei fehlend entfernt."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Feminismus",
+      "Eine Bewegung, die sich für die Gleichberechtigung von Frauen und Männern in der Gesellschaft einsetzt."
+     ],
+     [
+      "Abonnement",
+      "Ein Vertrag, bei dem man eine Zeitschrift regelmäßig über einen längeren Zeitraum bekommt und bezahlt."
+     ],
+     [
+      "Archiv",
+      "Ein Ort, an dem historische Dokumente und Unterlagen sicher aufbewahrt werden."
+     ]
+    ],
+    "fragen": [
+     "Welche Themen hat das Magazin Emma nach Ansicht der Berichte in den vergangenen Jahrzehnten besonders bekannt gemacht?",
+     "Wie begründet Alice Schwarzer die Entscheidung, das Magazin nach 50 Jahren zu beenden?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wann erschien die erste Ausgabe des Magazins Emma?",
+      "optionen": [
+       "Am 26. Januar 1977",
+       "Am 8. Dezember 2008",
+       "Am 21. Oktober 2026"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Medienberichten erschien die erste Ausgabe am 26. Januar 1977."
+     },
+     {
+      "frage": "Was passiert mit dem Archiv des Magazins?",
+      "optionen": [
+       "Es wird komplett vernichtet.",
+       "Es geht in den Bestand des Deutschen Literaturarchivs Marbach über.",
+       "Es bleibt in den Räumen der Redaktion in Köln."
+      ],
+      "richtig": 1,
+      "erklaerung": "Mehrere Medien berichten übereinstimmend, dass das Archiv an das Deutsche Literaturarchiv Marbach übergeht."
+     },
+     {
+      "frage": "Welchen Grund nennt Alice Schwarzer für die Einstellung von Emma?",
+      "optionen": [
+       "Das Magazin hat kein Geld mehr.",
+       "Die Redaktion wurde von einem Verlag aufgekauft.",
+       "Es sind keine ökonomischen Gründe, sondern die Einsicht, dass es nach 50 Jahren reicht."
+      ],
+      "richtig": 2,
+      "erklaerung": "Schwarzer betonte laut den Berichten, dass die Einnahmen die Ausgaben noch decken, man aber der Meinung sei, es reiche."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Das bekannte feministische Magazin Emma hört nach 50 Jahren auf.",
+    "absaetze": [
+     "Die Gründerin Alice Schwarzer teilte mit, dass die letzte Ausgabe am achten Dezember erscheint.",
+     "Wirtschaftliche Gründe sind laut der Herausgeberin nicht für das Ende verantwortlich. Die Einnahmen reichen noch aus, aber nach fünf Jahrzehnten sei die Arbeit getan.",
+     "Das Magazin wurde im Januar 1977 zum ersten Mal veröffentlicht. Es setzte sich über viele Jahre für die Rechte von Frauen ein.",
+     "Das komplette Archiv der Zeitschrift kommt in das Deutsche Literaturarchiv Marbach. Dort können Forschende ab dem Jahr 2029 darin arbeiten."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Das feministische Magazin Emma wird nach 50 Jahren eingestellt.",
+     "Das teilte die Gründerin Alice Schwarzer in Köln mit.",
+     "Die letzte Ausgabe erscheint am achten Dezember."
+    ],
+    "lang": [
+     "Das feministische Magazin Emma wird nach 50 Jahren im Dezember eingestellt.",
+     "Das teilte die Gründerin und Herausgeberin Alice Schwarzer am einundzwanzigsten Oktober in Köln mit.",
+     "Die letzte gedruckte Ausgabe soll am achten Dezember erscheinen.",
+     "Insgesamt wird das Magazin bis dahin dreihundertachtundneunzig Ausgaben veröffentlicht haben.",
+     "Als Grund nannte Schwarzer keine wirtschaftlichen Probleme.",
+     "Die Einnahmen decken nach ihren Angaben weiterhin die Ausgaben des Verlages.",
+     "Kritiker werfen Schwarzer vor, bei politischen Themen wie dem Krieg in der Ukraine oder bei trans Personen falsche Positionen einzunehmen.",
+     "Das Magazin wurde am sechsundzwanzigsten Januar neunzehnhunderdssiebenundsiebzig gegründet und prägte die Frauenbewegung in Deutschland.",
+     "Das vollständige Archiv des Magazins geht an das Deutsche Literaturarchiv Marbach und soll dort ab zweitausendneunundzwanzig zugänglich sein.",
+     "Ob es ein digitales Nachfolgeangebot geben wird, ist bisher noch nicht vollständig geklärt."
+    ],
+    "einfach": [
+     "Das Magazin Emma hört nach 50 Jahren auf.",
+     "Die Gründerin Alice Schwarzer hat das bekannt gegeben.",
+     "Die letzte Ausgabe erscheint am achten Dezember.",
+     "Schwarzer sagt, nach so vielen Jahren reicht es.",
+     "Das Archiv kommt in eine große Sammlung nach Marbach."
+    ]
+   },
+   "kurz": [
+    "Nach 50 Jahren wird das feministische Magazin Emma im Dezember eingestellt.",
+    "Die Herausgeberin Alice Schwarzer nennt als Grund das Ende einer Ära.",
+    "Das Archiv des Magazins geht an das Deutsche Literaturarchiv Marbach."
+   ],
+   "fakten": [
+    [
+     "Jahre des Bestehens",
+     "50"
+    ],
+    [
+     "Gesamtzahl der Ausgaben",
+     "398"
+    ],
+    [
+     "Datum der letzten Ausgabe",
+     "8. Dezember"
+    ],
+    [
+     "Gründungsdatum",
+     "26. Januar 1977"
+    ]
+   ],
+   "dossier": {
+    "slug": "einstellung-magazin-emma",
+    "titel": "Einstellung des Magazins Emma"
+   },
+   "bildInfo": {
+    "titel": "2022-11-29-Alice Schwarzer-Maischberger-3433.jpg",
+    "beschreibung": "Alice Schwarzer in WDR-Show Maischberger at 2022-11-29",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg/1280px-2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
+    "urheber": "Superbass",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Alice Schwarzer",
+    "sprache": "de",
+    "art": "person",
+    "suchbegriff": "Alice Schwarzer journalist",
+    "bildunterschrift": "Alice Schwarzer ist die Gründerin und Herausgeberin des Magazins Emma.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2022-11-29-Alice Schwarzer-Maischberger-3433.jpg",
+     "beschreibung": "Alice Schwarzer in WDR-Show Maischberger at 2022-11-29",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg/1280px-2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b6/2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2022-11-29-Alice_Schwarzer-Maischberger-3433.jpg",
+     "urheber": "Superbass",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Alice Schwarzer",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Alice Schwarzer journalist",
+     "bildunterschrift": "Alice Schwarzer ist die Gründerin und Herausgeberin des Magazins Emma.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Kranhäuser Cologne, April 2018 -01.jpg",
+     "beschreibung": "Panorama of Cologne , including the Kranhäuser and Cologne Cathedral , as seen from the Rhine .",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg/1280px-Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kranh%C3%A4user_Cologne%2C_April_2018_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Kranh%C3%A4user_Cologne,_April_2018_-01.jpg",
+     "urheber": "Martin Falbisoner",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "ort",
+     "suchbegriff": "Cologne cityscape",
+     "bildunterschrift": "Blick auf Köln, wo das Magazin ansässig ist.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Köln, Deutschland",
+    "lat": 50.938,
+    "lon": 6.96
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
   {
    "id": "investitionsgipfel-berlin-nvidia",
    "rubrik": "Wirtschaft",
@@ -2902,7 +4203,7 @@
     {
      "k": "Ob einige der genannten Investitionszusagen unabhängig von dem Gipfel getätigt w",
      "d": "05b0c7597f.mp3",
-     "l": 7.0,
+     "l": 7,
      "s": [
       0.25
      ]
@@ -2978,7 +4279,7 @@
      "l": 66.12,
      "s": [
       0.25,
-      12.0,
+      12,
       16.65,
       24.42,
       37.29,
@@ -2995,624 +4296,6 @@
       0.25,
       8.89,
       19.02
-     ]
-    }
-   ]
-  },
-  {
-   "id": "frankreich-proteste-eskalation",
-   "rubrik": "Welt",
-   "zeit": "2026-10-21T04:20:11.000Z",
-   "aktualisiert": "aktualisiert um 06:37 Uhr",
-   "titel": "Maßnahmen von Regierungen in Frankreich und Italien nach gewaltsamen Protesten",
-   "vorspann": "Nach gewaltsamen Ausschreitungen und Plünderungen bei Protesten in Frankreich und Italien reagieren die Regierungen beider Länder mit Sicherheitsvorkehrungen. Dazu gehören unter anderem der verstärkte Einsatz von Soldaten sowie verlängerte Ausgangssperren in betroffenen Städten.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "sehr schwer",
-    "fuerWen": "Fachsprache – ohne Vorwissen mühsam"
-   },
-   "zusammenfassung": [
-    "Frankreich und Italien haben nach Ausschreitungen und Plünderungen bei Protesten mit Sicherheitsmaßnahmen reagiert.",
-    "In Frankreich wurden nächtliche Ausgangssperren verlängert, Versammlungsverbote erlassen und der Einsatz von Antiterror-Soldaten angekündigt.",
-    "Italien schickt zusätzliche Soldaten nach Mailand und plant schärfere Strafen sowie einen längeren präventiven Polizeigewahrsam.",
-    "Die Regierungen in beiden Ländern kündigten an, künftige Krawalle zu verhindern und die öffentliche Ordnung wiederherzustellen."
-   ],
-   "einig": [
-    [
-     "In Frankreich und Italien kam es an dem Wochenende zu gewaltsamen Ausschreitungen am Rande von Protesten.",
-     [
-      "Tagesschau/ARD",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Frankreichs Premierminister Sébastien Lecornu kündigte lokale Ausgangssperren an.",
-     [
-      "Tagesschau/ARD",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Italien schickt 500 zusätzliche Soldaten nach Mailand.",
-     [
-      "Tagesschau/ARD",
-      "FAZ"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob Staatspräsident Sergio Mattarella alle von der italienischen Regierung geplanten Maßnahmen vollständig akzeptieren wird, blieb laut FAZ zunächst unklar."
-   ],
-   "positionen": [
-    [
-     "Sébastien Lecornu (Premierminister Frankreich)",
-     "Die Ausgangssperren haben zur Ruhe der Nacht beigetragen; für das Wochenende ist ein massiver Polizeieinsatz geplant.",
-     "Tagesschau/ARD, Süddeutsche Zeitung"
-    ],
-    [
-     "Laurent Nuñez (Innenminister Frankreich)",
-     "Am Samstag wurde in einigen Großstädten die Kontrolle verloren, die Sicherheitsmaßnahmen waren stellenweise unverhältnismäßig.",
-     "Tagesschau/ARD, Süddeutsche Zeitung"
-    ],
-    [
-     "Giorgia Meloni (Ministerpräsidentin Italien)",
-     "Es ist ein hartes Vorgehen gegen Krawalle erforderlich, weshalb Soldaten und neue Maßnahmen beschlossen wurden.",
-     "Tagesschau/ARD, FAZ"
-    ],
-    [
-     "Guido Crosetto (Verteidigungsminister Italien)",
-     "Die Ereignisse in Mailand sind das Resultat einer hybriden Kriegsführung mit unkonventionellen Mitteln wie Tiktok.",
-     "FAZ"
-    ],
-    [
-     "Giuseppe Sala (Bürgermeister Mailand)",
-     "Es geht nicht nur um Repression, die Politik muss sich auch mit den Ursachen der Gewalt auseinandersetzen.",
-     "FAZ"
-    ]
-   ],
-   "fehlend": "Aussagen von Vertretungen der demonstrierenden Landwirte oder Transportunternehmer in Süditalien sowie direkte Erklärungen der Protestierenden selbst zu den Ausschreitungen.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "20.10.26, 21:56",
-     "fokus": "Maßnahmen und offizielle Erklärungen",
-     "text": "Berichtet über die Reaktionen in Frankreich und Italien, angekündigte Ausgangssperren, Truppenverlegungen und Untersuchungskommissionen.",
-     "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 3,
-      "woerter": 548,
-      "satzlaenge": 15,
-      "langeWoerter": 43
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "20.10.26, 20:31",
-     "fokus": "Hintergründe, Festnahmen und politische Debatten",
-     "text": "Beleuchtet die Festnahmen, das Rücktrittsangebot von Innenminister Nuñez sowie Aussagen von Ministern und Bürgermeistern.",
-     "url": "https://www.sueddeutsche.de/politik/proteste-frankreich-gewalt-polizei-kontrollverlust-macron-ausganssperren-li.3565815",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 5,
-      "woerter": 934,
-      "satzlaenge": 18,
-      "langeWoerter": 39
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "20.10.26, 19:56",
-     "fokus": "Situation in Mailand und politische Reaktionen",
-     "text": "Fokussiert sich auf die Situation in Italien, geplante Gesetzesverschärfungen und Aussagen des Verteidigungsministers.",
-     "url": "https://www.faz.net/aktuell/politik/ausland/mailand-so-will-italien-minderjaehrige-krawallmacher-abschrecken-201604896.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 12,
-      "minuten": 2,
-      "woerter": 459,
-      "satzlaenge": 15,
-      "langeWoerter": 41
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "SRF",
-     "typ": "öffentlich-rechtlich (Schweiz)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "21.10.26, 06:20",
-     "fokus": "Aktuelle Updates zu Ausgangssperren",
-     "text": "Liefert Aktualisierungen zu den verlängerten Ausgangssperren in Frankreich und der Festnahme in Limoges.",
-     "url": "https://www.srf.ch/news/international/unruhen-in-frankreich-oertliche-ausgangssperren-verlaengert-festnahme-in-limoges",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
-     "finanzierung": "Rundfunkabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf Nachbarländer",
-     "Während die Tagesschau/ARD und SRF gleichermaßen über Frankreich und Italien berichten, legt die FAZ einen stärkeren Schwerpunkt auf die Geschehnisse und politischen Hintergründe in Mailand."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Regierungen in Frankreich und Italien",
-    "was": "Sicherheitsmaßnahmen nach Ausschreitungen",
-    "wann": "20. bis 21. Oktober 2026",
-    "wo": "Frankreich und Italien",
-    "wie": "Durch Ausgangssperren, Demonstrationsverbote und den Einsatz von Soldaten",
-    "warum": "Wegen Krawallen und Plünderungen bei Protesten, laut Berichten",
-    "quellenlage": "Polizei, Ministerien, Medien und offizielle Erklärungen"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In Frankreich und Italien kam es an einem Wochenende zu Protesten, unter anderem gegen hohe Lebenshaltungskosten. Diese Veranstaltungen wurden von Ausschreitungen und Plünderungen überschattet. In Frankreich zählten die Behörden nach Angaben der Süddeutschen Zeitung insgesamt 2331 Festnahmen. Nach Angaben des Handelsministeriums in der Süddeutschen Zeitung wurden mindestens 3000 Geschäfte im ganzen Land angegriffen. In der zentralfranzösischen Stadt Limoges brannte das Rathaus ab, wie die Tagesschau/ARD und die Süddeutsche Zeitung berichten.",
-      "Beide Länder reagierten auf diese Ereignisse mit Maßnahmen zur Kontrolle der öffentlichen Ordnung. Frankreich verlängerte nächtliche Ausgangssperren in mehreren Städten, während Italien die Entsendung zusätzlicher Soldaten nach Mailand beschloss. Die Regierungsvertreter kündigten an, ein erneutes Aufkommen von Gewalt zu verhindern. Die Behörden räumten in beiden Staaten ein, dass die bisherigen Sicherheitsvorkehrungen nicht ausgereicht hatten, um die Krawalle rechtzeitig zu verhindern."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten in Frankreich",
-     "absaetze": [
-      "In Frankreich kündigte Premierminister Sébastien Lecornu laut Tagesschau/ARD und Süddeutscher Zeitung für kommende Demonstrationen einen massiven Polizeieinsatz an. Soldaten der Anti-Terror-Einheit Sentinelle sollen sensible Orte bewachen, um zusätzliche Polizisten freizustellen. Innenminister Laurent Nuñez erklärte in der Nationalversammlung laut Tagesschau/ARD und Süddeutscher Zeitung, dass am vergangenen Samstag rund 60.000 Sicherheitskräfte im Einsatz waren. Die Behörden seien von maximal 200.000 Teilnehmern ausgegangen, tatsächlich seien jedoch mehr als 500.000 Menschen erschienen.",
-      "Laut Recherchen der Zeitung Le Monde feuerte die Polizei in den vier Großstädten Paris, Marseille, Lyon und Bordeaux insgesamt mehr als 19.000 Tränengas- und Blendgranaten ab. In Paris und weiteren Städten gelten nächtliche Ausgangssperren, wie die Tagesschau/ARD und die Süddeutsche Zeitung berichten. In Paris wurde zudem für bestimmte Stadtteile ein Verbot nicht angemeldeter Versammlungen erlassen. In Marseille verhängte die Stadt ein nächtliches Ausgehverbot für Minderjährige bis einschließlich Freitag, so die Tagesschau/ARD.",
-      "Nach dem Brand im Rathaus von Limoges nahm die Polizei am Dienstag einen 40-jährigen Verdächtigen fest, wie die Süddeutsche Zeitung und SRF berichten. Es handele sich um einen polizeibekannten Mann, der den Behörden als Linksextremist gilt. Im französischen Parlament verständigten sich die Abgeordneten laut Tagesschau/ARD auf die Einrichtung einer Untersuchungskommission zur Aufklärung der Unruhen. Die Koordinierungsgruppe Gelbwesten kündigte für das kommende Wochenende einen zweiten Akt mit neuen Aktionen an, wie die Süddeutsche Zeitung berichtet."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten in Italien",
-     "absaetze": [
-      "In Italien reagierte die Regierung auf gewaltsame Proteste und Plünderungen in Mailand mit der Entsendung von 500 zusätzlichen Soldaten, die zunächst für drei Monate dort stationiert werden sollen. Dies geht aus einem Regierungsbeschluss hervor, den Ministerpräsidentin Giorgia Meloni nach einer Krisensitzung auf den Weg brachte, wie Tagesschau/ARD und FAZ berichten. Verteidigungsminister Guido Crosetto erklärte laut FAZ, die Soldaten sollten wie Polizeikräfte agieren dürfen, um Straftaten zu verhindern und Festnahmen vorzunehmen.",
-      "In Mailand ist bereits seit dem Jahr 2008 die Militärmission Strade sicure im Einsatz, welche nun aufgestockt wird. Zudem plant die italienische Regierung eine Ausweitung des präventiven Polizeigewahrsams von zwölf auf 24 Stunden, der auch für Minderjährige gelten soll. Für Taten von fünf oder mehr Personen sollen die Strafen auf bis zu fünf Jahre Freiheitsstrafe und Geldstrafen bis zu 15.000 Euro verschärft werden, so die Tagesschau/ARD. Die Regierung prüft laut Tagesschau/ARD und FAZ auch Ausgangssperren in bestimmten Bereichen von Innenstädten.",
-      "Am Dienstagmorgen kam es in Mailand vor zwei Schulen zu Sitzblockaden von Demonstranten, berichtet die FAZ. Gleichzeitig gingen in Süditalien Proteste von Transportunternehmern und Landwirten gegen hohe Spritpreise und Inflation weiter. Die rechts stehende Drei-Parteien-Regierung von Meloni steht laut FAZ in einem Wahljahr unter zusätzlichem Druck."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Frankreichs Premierminister Sébastien Lecornu erklärte laut Süddeutscher Zeitung, dass die Ausgangssperren zur Ruhe in der Nacht beigetragen hätten. Innenminister Laurent Nuñez räumte ein, dass die Behörden am Samstag in einigen Großstädten die Kontrolle verloren hatten, und bot seinen Rücktritt an. Präsident Emmanuel Macron lehnte den Rücktritt von Nuñez jedoch ab, wie die Süddeutsche Zeitung berichtet. Macron verurteilte in einer Fernsehansprache die Gewalt von Einzelpersonen aus linksextremen Gruppen und Kriminellen, betonte aber, dass legitime Forderungen von Demonstranten nicht mit Zerstörungen verwechselt werden dürften.",
-      "Italiens Ministerpräsidentin Giorgia Meloni kündigte nach Angaben der Tagesschau/ARD ein Vorgehen gegen Krawalle an. Mailands Bürgermeister Giuseppe Sala rief laut FAZ zur Zurückhaltung auf und betonte, dass es neben Repression auch darum gehe, sich mit den Ursachen der Gewalt auseinanderzusetzen. Verteidigungsminister Guido Crosetto bezeichnete die Ereignisse in Mailand laut FAZ als Ergebnis einer hybriden Kriegsführung mit unkonventionellen Mitteln wie Tiktok."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Untersuchungskommission ist ein Gremium von Parlamentariern, das eingesetzt wird, um bestimmte Ereignisse, behördliche Abläufe oder Krisen unabhängig zu untersuchen und Empfehlungen auszusprechen.",
-      "Der präventive Polizeigewahrsam ist eine rechtliche Maßnahme, die es den Strafverfolgungsbehörden erlaubt, Personen vorübergehend festzuhalten, um drohende Straftaten zu verhindern, bevor sie begangen werden."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "In Frankreich sind für das kommende Wochenende neue Proteste angekündigt, unter anderem durch die Gelbwesten. Die französische Regierung plant einen Polizeieinsatz und den Einsatz von Soldaten zur Unterstützung der Sicherheitskräfte. Zudem lud die Regierung Gewerkschaftsvertreter für Mittwoch zu Gesprächen ein, um Vorbereitungen für einen angekündigten Aktionstag am 5. November zu planen.",
-      "In Italien läuft der verstärkte Einsatz der Soldaten in Mailand zunächst für drei Monate. Die Regierung prüft weitere gesetzliche Verschärfungen und mögliche Ausgangssperren in Innenstädten, um erneute Krawalle zu verhindern."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Sonntag",
-     "Präsident Macron kündigt in einer Fernsehansprache Konsequenzen an; weitere Festnahmen in Paris."
-    ],
-    [
-     "Montag",
-     "Premierminister Lecornu kündigt lokale Ausgangssperren an; Macron lehnt den Rücktritt von Innenminister Nuñez ab."
-    ],
-    [
-     "Montag",
-     "Medien berichten über die Festnahme eines Verdächtigen nach der Brandstiftung am Rathaus in Limoges."
-    ],
-    [
-     "Wochenende",
-     "Landesweite Proteste führten zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen."
-    ],
-    [
-     "Sonntagabend",
-     "Präsident Macron hielt eine Fernsehansprache und kündigte ein Vorgehen gegen Randalierer an."
-    ],
-    [
-     "Montag",
-     "Premierminister Lecornu kündigte lokale Ausgangssperren an; Präsident Macron lehnte den Rücktritt von Innenminister Nuñez ab."
-    ],
-    [
-     "Dienstag",
-     "Die Polizei nahm einen Verdächtigen im Zusammenhang mit dem Brand im Rathaus von Limoges fest."
-    ],
-    [
-     "Kommender Samstag",
-     "Die Gelbwesten rufen zu neuen Demonstrationen auf."
-    ],
-    [
-     "Wochenende",
-     "Landesweite Proteste und Ausschreitungen in Frankreich und Italien."
-    ],
-    [
-     "Sonntag",
-     "Frankreichs Präsident Macron hielt eine Fernsehansprache und kündigte ein Vorgehen an."
-    ],
-    [
-     "Montag",
-     "Premierminister Lecornu kündigte Ausgangssperren an; Macron lehnte den Rücktritt von Innenminister Nuñez ab."
-    ],
-    [
-     "Dienstag",
-     "Die Polizei nahm einen Verdächtigen nach dem Rathausbrand in Limoges fest; das italienische Kabinett beriet über Sicherheitsmaßnahmen."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Emmanuel Macron politician",
-     "bildunterschrift": "Emmanuel Macron ist der Staatspräsident von Frankreich, der sich zu den landesweiten Ausschreitungen äußerte."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Giorgia Meloni politician",
-     "bildunterschrift": "Giorgia Meloni ist die Ministerpräsidentin von Italien, deren Regierung Sicherheitsmaßnahmen beschlossen hat."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Place de la Republique Paris",
-     "bildunterschrift": "Der Place de la République in Paris gehört zu den Bereichen, für die nächtliche Ausgangssperren und Versammlungsverbote erlassen wurden."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Hôtel de Ville Paris",
-     "bildunterschrift": "Regierungsgebäude und Rathäuser wie das in Limoges waren während der Unruhen Ziel von Beschädigungen."
-    }
-   ],
-   "ort": {
-    "name": "Paris, Frankreich und Mailand, Italien"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Wertende Begriffe im Text wurden durch neutrale ersetzt."
-   ],
-   "wortwarnung": [
-    "massiven"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Ausgangssperre",
-      "Ein Verbot für Menschen, sich zu bestimmten Zeiten im öffentlichen Raum aufzuhalten."
-     ],
-     [
-      "Präventiver Polizeigewahrsam",
-      "Die vorübergehende Festnahme von Personen durch die Polizei, um eine drohende Straftat zu verhindern."
-     ],
-     [
-      "Untersuchungskommission",
-      "Ein Gremium aus Parlamentariern, das bestimmte Ereignisse oder Krisen unabhängig prüft."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Sicherheitskräfte bei der Bewältigung von Ausschreitungen laut den Berichten?",
-     "Wie bewerten verschiedene Politiker die Ursachen für die Gewalt bei den Protesten?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viele zusätzliche Soldaten schickt Italien nach Mailand?",
-      "optionen": [
-       "100 Soldaten",
-       "500 Soldaten",
-       "1000 Soldaten"
-      ],
-      "richtig": 1,
-      "erklaerung": "Italien schickt laut Tagesschau/ARD und FAZ 500 zusätzliche Soldaten nach Mailand."
-     },
-     {
-      "frage": "Wer ist Premierminister von Frankreich?",
-      "optionen": [
-       "Sébastien Lecornu",
-       "Emmanuel Macron",
-       "Laurent Nuñez"
-      ],
-      "richtig": 0,
-      "erklaerung": "Sébastien Lecornu ist laut den Berichten der Premierminister von Frankreich."
-     },
-     {
-      "frage": "Welche Maßnahme wurde in Frankreich unter anderem zur Kontrolle verhängt?",
-      "optionen": [
-       "Eine absolute Ausreiseperre für alle Bürger",
-       "Nächtliche Ausgangssperren in mehreren Städten",
-       "Die Schliessung aller Schulen im gesamten Land"
-      ],
-      "richtig": 1,
-      "erklaerung": "In Frankreich wurden laut Tagesschau/ARD und Süddeutscher Zeitung nächtliche Ausgangssperren in mehreren Städten verlängert."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Frankreich und Italien gab es bei Protesten schwere Krawalle. Nun reagieren die Regierungen mit strengen Regeln.",
-    "absaetze": [
-     "In beiden Ländern gingen Menschen auf die Straße, zum Beispiel wegen hoher Preise. Bei den Protesten kam es zu Plünderungen und Bränden.",
-     "Frankreich verlängerte nächtliche Ausgangssperren in mehreren Städten. Das bedeutet, dass Menschen nachts nicht ohne Grund auf die Straße dürfen.",
-     "Italien schickt fünfhundert zusätzliche Soldaten nach Mailand. Die Soldaten sollen helfen, die Sicherheit zu bewahren.",
-     "Für das kommende Wochenende sind neue Proteste angekündigt. Die Regierungen wollen mit vielen Polizisten und Soldaten für Ordnung sorgen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Frankreich und Italien reagieren mit scharfen Sicherheitsmaßnahmen auf gewaltsame Proteste.",
-     "In Frankreich wurden nächtliche Ausgangssperren verlängert und Soldaten eingesetzt.",
-     "Italien schickt fünfhundert zusätzliche Soldaten nach Mailand."
-    ],
-    "lang": [
-     "In Frankreich und Italien haben gewaltsame Ausschreitungen bei Protesten zu scharfen Sicherheitsmaßnahmen geführt.",
-     "Am vergangenen Wochenende kam es in beiden Ländern zu Krawallen und Plünderungen.",
-     "Die Regierung in Frankreich verlängerte daraufhin nächtliche Ausgangssperren in mehreren Städten.",
-     "Nach Angaben der Süddeutschen Zeitung zählten die Behörden in Frankreich insgesamt zweitausenddreihunderteinunddreißig Festnahmen.",
-     "Zudem kündigte der französische Premierminister Sébastien Lecornu den Einsatz von Soldaten der Anti-Terror-Einheit an.",
-     "In Italien beschloss die Regierung von Ministerpräsidentin Giorgia Meloni, fünfhundert zusätzliche Soldaten nach Mailand zu schicken.",
-     "Italiens Verteidigungsminister Guido Crosetto erklärte dazu, die Soldaten sollen wie Polizeikräfte agieren dürfen.",
-     "Kritiker und Bürgermeister äußerten sich besorgt über die Lage und forderten eine Aufarbeitung der Ursachen.",
-     "Für das kommende Wochenende sind in Frankreich bereits neue Proteste angekündigt worden.",
-     "Die Behörden planen deshalb einen massiven Polizeieinsatz, um erneute Ausschreitungen zu verhindern."
-    ],
-    "einfach": [
-     "In Frankreich und Italien gab es schwere Krawalle bei Protesten.",
-     "Beide Regierungen schicken nun mehr Soldaten auf die Straßen.",
-     "In Frankreich gelten nachts Ausgangssperren in vielen Städten.",
-     "Italien schickt fünfhundert zusätzliche Soldaten in die Stadt Mailand.",
-     "Die Politiker wollen damit neue Gewalt an diesem Wochenende verhindern."
-    ]
-   },
-   "kurz": [
-    "Frankreich und Italien reagieren mit scharfen Sicherheitsmaßnahmen auf Ausschreitungen.",
-    "In Frankreich wurden nächtliche Ausgangssperren verlängert und Soldaten eingesetzt.",
-    "Italien schickt 500 zusätzliche Soldaten nach Mailand und plant strengere Strafen."
-   ],
-   "fakten": [
-    [
-     "Festnahmen in Frankreich",
-     "2331"
-    ],
-    [
-     "Angegriffene Geschäfte in Frankreich",
-     "mindestens 3000"
-    ],
-    [
-     "Zusätzliche Soldaten für Mailand",
-     "500"
-    ],
-    [
-     "Sicherheitskräfte am Samstag in Frankreich",
-     "60000"
-    ]
-   ],
-   "dossier": {
-    "slug": "proteste-frankreich-italien",
-    "titel": "Proteste und Sicherheitsmaßnahmen in Frankreich und Italien"
-   },
-   "bildInfo": {
-    "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
-    "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
-    "urheber": "Photo Claude TRUONG-NGOC",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "art": "person",
-    "suchbegriff": "Emmanuel Macron politician",
-    "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
-     "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
-     "urheber": "Photo Claude TRUONG-NGOC",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "person",
-     "suchbegriff": "Emmanuel Macron politician",
-     "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Place de la République (Paris), réaménagement, 2013-06-14 18.jpg",
-     "beschreibung": "Restructuration of place de la République (Paris).",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg/1280px-Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Place_de_la_R%C3%A9publique_%28Paris%29%2C_r%C3%A9am%C3%A9nagement%2C_2013-06-14_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Place_de_la_R%C3%A9publique_(Paris),_r%C3%A9am%C3%A9nagement,_2013-06-14_18.jpg",
-     "urheber": "Coyau",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "artikel": "Place de la République (Paris)",
-     "sprache": "de",
-     "art": "ort",
-     "suchbegriff": "Place de la Republique Paris",
-     "bildunterschrift": "Der Platz der Republik in Paris als zentraler Ort in Frankreich.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Avenue des Champs-Élysées July 24, 2009 N1.jpg",
-     "beschreibung": "Avenue des Champs-Élysées view from the Arc de Triomphe",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg/1280px-Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Avenue_des_Champs-%C3%89lys%C3%A9es_July_24%2C_2009_N1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-%C3%89lys%C3%A9es_July_24,_2009_N1.jpg",
-     "urheber": "Josh Hallett",
-     "lizenz": "CC BY-SA 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-     "artikel": "Avenue des Champs Élysées",
-     "sprache": "de",
-     "art": "institution",
-     "suchbegriff": "Elysee Palace",
-     "bildunterschrift": "Die Prachtstraße Champs-Élysées in Paris.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "version": 5,
-   "ton": [
-    {
-     "k": "In Frankreich und Italien haben gewaltsame Ausschreitungen bei Protesten zu scha",
-     "d": "392d4648a0.mp3",
-     "l": 63.07,
-     "s": [
-      0.25,
-      6.79,
-      11.17,
-      16.61,
-      24.02,
-      31.56,
-      38.95,
-      45.78,
-      51.79,
-      57.09
-     ]
-    },
-    {
-     "k": "Frankreich und Italien reagieren mit scharfen Sicherheitsmaßnahmen auf gewaltsam",
-     "d": "56e8eca57d.mp3",
-     "l": 14.37,
-     "s": [
-      0.25,
-      5.64,
-      10.39
-     ]
-    },
-    {
-     "k": "In Frankreich und Italien gab es schwere Krawalle bei Protesten. Beide Regierung",
-     "d": "21fb1d1b16.mp3",
-     "l": 23.3,
-     "s": [
-      0.25,
-      4.76,
-      9.04,
-      13.2,
-      18.33
-     ]
-    },
-    {
-     "k": "Ob Staatspräsident Sergio Mattarella alle von der italienischen Regierung geplan",
-     "d": "5c89a3946e.mp3",
-     "l": 10.05,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Ausgangssperre? Ein Verbot für Menschen, sich zu bestimm",
-     "d": "ad99db6e0e.mp3",
-     "l": 8.96,
-     "s": [
-      0.25,
-      3.55
-     ]
-    },
-    {
-     "k": "In Frankreich und Italien kam es an einem Wochenende zu Protesten, unter anderem",
-     "d": "26f832cc93.mp3",
-     "l": 54.04,
-     "s": [
-      0.25,
-      7.36,
-      12.1,
-      20.1,
-      27.47,
-      35.24,
-      40.95,
-      48.81
-     ]
-    },
-    {
-     "k": "In Frankreich kündigte Premierminister Sébastien Lecornu laut Tagesschau/ARD und",
-     "d": "f850f9e7e4.mp3",
-     "l": 48.51,
-     "s": [
-      0.25,
-      10.33,
-      17.17,
-      26.17,
-      29.28,
-      32.34,
-      37.28,
-      39.4
-     ]
-    },
-    {
-     "k": "In Italien reagierte die Regierung auf gewaltsame Proteste und Plünderungen in M",
-     "d": "7475cbdec6.mp3",
-     "l": 66.41,
-     "s": [
-      0.25,
-      10.45,
-      20.5,
-      30.45,
-      37.55,
-      47.0,
-      54.57,
-      58.72
-     ]
-    },
-    {
-     "k": "Frankreichs Premierminister Sébastien Lecornu erklärte laut Süddeutscher Zeitung",
-     "d": "e453d0cb2d.mp3",
-     "l": 63.08,
-     "s": [
-      0.25,
-      8.1,
-      16.66,
-      22.57,
-      34.99,
-      42.64,
-      52.87
-     ]
-    },
-    {
-     "k": "Eine Untersuchungskommission ist ein Gremium von Parlamentariern, das eingesetzt",
-     "d": "d00001ddeb.mp3",
-     "l": 23.43,
-     "s": [
-      0.25,
-      11.6
-     ]
-    },
-    {
-     "k": "In Frankreich sind für das kommende Wochenende neue Proteste angekündigt, unter ",
-     "d": "2503d93a2b.mp3",
-     "l": 36.22,
-     "s": [
-      0.25,
-      6.65,
-      13.43,
-      21.33,
-      22.84,
-      28.4
      ]
     }
    ]
@@ -4130,7 +4813,7 @@
     {
      "k": "Etwas über vier Wochen sind seit der Wahl zum Berliner Abgeordnetenhaus vom zwan",
      "d": "04d48ee264.mp3",
-     "l": 52.0,
+     "l": 52,
      "s": [
       0.25,
       6.44,
@@ -4666,109 +5349,75 @@
   {
    "id": "afd-hackerangriff",
    "rubrik": "Deutschland",
-   "zeit": "2026-10-20T16:38:28.000Z",
-   "aktualisiert": "aktualisiert um 06:37 Uhr",
-   "titel": "Hackerangriff auf E-Mail-Postfächer der Partei AfD bekannt geworden",
-   "vorspann": "Unbekannte haben E-Mail-Konten der Partei AfD angegriffen und nach eigenen Angaben Daten im Internet veröffentlicht. Die AfD bestätigte den Vorfall und erklärte, dass überwiegend nicht mehr genutzte Postfächer betroffen waren.",
+   "zeit": "2026-10-20T16:21:00.000Z",
+   "aktualisiert": "aktualisiert um 12:04 Uhr",
+   "titel": "Hackerangriff und Datenveröffentlichung bei der Alternative für Deutschland",
+   "vorspann": "Unbekannte haben nach Angaben der Alternative für Deutschland im September E-Mail-Postfächer der Partei angegriffen. Nun ist eine große Menge an internen E-Mails im Internet veröffentlicht worden.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Unbekannte Hacker haben im September 2026 E-Mail-Postfächer der AfD angegriffen und Daten von einigen Konten kopiert.",
-    "Die Partei bestätigte den Vorfall, betonte jedoch, dass es sich überwiegend um ältere und nicht mehr genutzte Postfächer gehandelt habe.",
-    "Im Internet wurden daraufhin angeblich rund 421.000 E-Mails und Dokumente verlinkt, deren Echtheit zunächst unklar war.",
-    "Sicherheitsexperten und die AfD analysieren das veröffentlichte Material derzeit, während die Parteispitze von einem illegalen Angriff spricht."
+    "E-Mail-Postfächer der Alternative für Deutschland waren im September Ziel eines Hackerangriffs.",
+    "Dabei wurden nach Parteiangaben Daten von einem Hosting-Dienstleister kopiert.",
+    "Im Oktober tauchte eine anonyme Internetseite mit rund 421.000 internen E-Mails auf.",
+    "Die Echtheit des Materials wird geprüft, während Reaktionen aus der Politik folgen."
    ],
    "einig": [
     [
-     "Im September 2026 gab es einen Hackerangriff auf einen Hosting-Dienstleister der AfD.",
+     "Im September gab es einen Hackerangriff auf einen Hosting-Dienstleister der AfD.",
      [
-      "Tagesschau/ARD",
       "ZDFheute",
-      "Süddeutsche Zeitung"
+      "taz"
      ]
     ],
     [
-     "Die AfD bestätigte den Angriff auf Anfrage von Medien.",
+     "Es sind rund 421.000 E-Mails im Internet aufgetaucht.",
      [
-      "Tagesschau/ARD",
       "ZDFheute",
-      "Süddeutsche Zeitung"
+      "taz"
      ]
     ],
     [
-     "Aktuelle E-Mail-Postfächer des Bundesverbands der AfD waren laut Parteiangaben nicht betroffen.",
+     "Zu den betroffenen Personen zählen unter anderem Alice Weidel und Alexander Gauland.",
      [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ],
-    [
-     "Im Internet wurden Daten veröffentlicht, bei denen es sich um rund 421.000 AfD-E-Mails handeln soll.",
-     [
-      "Tagesschau/ARD",
       "ZDFheute",
-      "FAZ"
+      "taz"
      ]
     ]
    ],
    "unklar": [
-    "Ob die im Internet veröffentlichten Daten tatsächlich authentisch sind, ist laut Tagesschau/ARD und ZDFheute unklar.",
-    "Wer hinter dem Angriff und der Veröffentlichung steckt, ist laut FAZ offen.",
-    "Ob es sich um einen Angriff von außen handelte oder jemand mit internem Zugriff beteiligt war, ist laut FAZ unklar."
+    "Ob die veröffentlichten E-Mails authentisch sind, ist laut ZDFheute unklar, während IT-Spezialisten wie Lilith Wittmann sie laut taz für echt halten.",
+    "Wer genau für den Hackerangriff und die Veröffentlichung verantwortlich ist, blieb laut den Berichten offen."
    ],
    "positionen": [
     [
-     "AfD",
-     "Der Angriff richtete sich gegen einen Hosting-Dienstleister, betraf überwiegend nicht mehr genutzte Postfächer, wurde rasch beendet und die Veröffentlichung wird nun geprüft.",
-     "Tagesschau/ARD,ZDFheute,Süddeutsche Zeitung"
+     "Alternative für Deutschland",
+     "Der Angriff auf den Dienstleister wurde rasch beendet und die Online-Veröffentlichung wird geprüft.",
+     "ZDFheute"
     ],
     [
-     "Bundesamt für Sicherheit in der Informationstechnik",
-     "Die Behörde steht nach eigenen Angaben in Kontakt mit der AfD.",
-     "Tagesschau/ARD"
+     "Clara Bünger (Die Linke)",
+     "Die Mails bestätigen die bisherige Einschätzung über die Partei.",
+     "taz"
     ],
     [
-     "Mirko Ross (Cybersecurity-Fachmann)",
-     "Die Daten gehen über die Angaben der AfD hinaus, enthalten auch Mails aus 2026, wirken authentisch und stammen vermutlich aus dem Umfeld des Hacktivismus.",
-     "FAZ"
+     "Valentina Chiofalo (Gesellschaft für Freiheitsrechte)",
+     "Das Bundesverfassungsgericht würde die Verwertbarkeit relevanter Belege bei einer Interessenabwägung vermutlich bejahen.",
+     "taz"
     ]
    ],
-   "fehlend": "Stimmen von politischen Gegnern, der Bundesregierung oder weiteren Sicherheitsbehörden außerhalb des BSI kommen in den Berichten nicht vor.",
+   "fehlend": "Stimmen anderer im Bundestag vertretenen Parteien wie SPD, CDU/CSU oder Bündnis 90/Die Grünen.",
    "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "20.10.26, 18:38",
-     "fokus": "Umfassende Details und Hintergründe",
-     "text": "Tagesschau und ZDFheute berichten über einen Hackerangriff auf E-Mail-Konten der Partei Alternative für Deutschland.",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/afd-hackerangriff-102.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 604,
-      "satzlaenge": 16,
-      "langeWoerter": 37
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
     {
      "name": "ZDFheute",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "20.10.26, 11:51",
-     "fokus": "Kompakte Zusammenfassung des Vorfalls",
-     "text": "ZDFheute fasst die bestätigten Eckdaten des Angriffs und die Reaktionen der Partei übersichtlich zusammen.",
+     "fokus": "Offizielle Parteistellungnahme",
+     "text": "Das ZDF berichtet über die offizielle Bestätigung des Angriffs durch die AfD und beleuchtet die technische Seite sowie die Registrierung der Webseite.",
      "url": "https://www.zdfheute.de/politik/deutschland/afd-hackerangriff-e-mail-konten-100.html",
      "video": false,
      "lesbar": {
@@ -4785,110 +5434,90 @@
      "publikumWert": 3.66
     },
     {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
      "art": "privates Medium",
-     "stamm": true,
-     "datum": "20.10.26, 15:52",
-     "fokus": "Kurze Bestätigung des Vorfalls",
-     "text": "Die Süddeutsche Zeitung konzentriert sich auf die offizielle Bestätigung des Angriffs durch einen Parteisprecher.",
-     "url": "https://www.sueddeutsche.de/politik/afd-hackerangriff-datenleck-cybersicherheit-rechtsextremismus-li.3566216",
+     "stamm": false,
+     "datum": "20.10.26, 18:21",
+     "fokus": "Inhaltliche Details des Leaks",
+     "text": "Die taz beschreibt die Inhalte der E-Mails detailliert, nennt konkrete Namen und Vorfälle sowie Reaktionen von Organisationen.",
+     "url": "https://taz.de/Website-veroeffentlicht-tausende-Mails/!6222819/",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 101,
-      "satzlaenge": 11,
-      "langeWoerter": 44
+      "klasse": 10,
+      "minuten": 7,
+      "woerter": 1322,
+      "satzlaenge": 17,
+      "langeWoerter": 34
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "20.10.26, 12:27",
-     "fokus": "Analyse durch Experten und Inhalte",
-     "text": "Die Frankfurter Allgemeine Zeitung beleuchtet die Details der veröffentlichten Daten und ordnet den Fall mithilfe eines Experten ein.",
-     "url": "https://www.faz.net/aktuell/politik/inland/afd-leak-cybersecurity-experte-vermutet-hacktivism-hinter-hackerangriff-accg-201604381.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 503,
-      "satzlaenge": 15,
-      "langeWoerter": 32
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Tiefe der Datenanalyse",
-     "Während Tagesschau und ZDFheute vor allem die offiziellen Angaben der AfD wiedergeben, zitiert die FAZ einen Experten, der bereits eigene Analysen der Daten vorgenommen hat und widersprechende Beobachtungen schildert."
+     "Inhaltliche Tiefe",
+     "Die taz nennt zahlreiche konkrete Beispiele und Namen aus den E-Mails, während ZDFheute sich stärker auf die offizielle Bestätigung und den Ablauf des Angriffs konzentriert."
     ]
    ],
    "wfragen": {
-    "wer": "Unbekannte Hacker und die AfD",
-    "was": "Hackerangriff auf E-Mail-Konten und Veröffentlichung von Daten",
-    "wann": "September und Oktober 2026",
-    "wo": "Deutschland und im Internet",
+    "wer": "Die Alternative für Deutschland und unbekannte Angreifer",
+    "was": "Hackerangriff auf E-Mail-Postfächer und Veröffentlichung von Daten",
+    "wann": "September bis Oktober 2026",
+    "wo": "Deutschland",
     "wie": "Durch einen Angriff auf einen Hosting-Dienstleister der Partei",
-    "warum": "Noch unklar, laut Cybersecurity-Fachleuten womöglich zur Discrediterung",
-    "quellenlage": "Tagesschau/ARD, ZDFheute, Süddeutsche Zeitung, FAZ"
+    "warum": "Nach Angaben der Angreifer zur Offenlegung interner Vorgänge",
+    "quellenlage": "Berichte von ZDFheute und taz"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Unbekannte Personen haben im September 2026 einen Hackerangriff auf E-Mail-Postfächer der Partei AfD verübt. Die Partei bestätigte den Vorfall auf Anfrage von Medien. Laut den Angaben handelte es sich um einen Angriff auf einen Hosting-Dienstleister der Partei. Dabei seien Teile von einigen wenigen Mail-Postfächern widerrechtlich kopiert worden. Die meisten dieser betroffenen Konten seien nach Angaben der Partei seit Jahren nicht mehr genutzt worden. Aktuelle E-Mail-Postfächer des AfD-Bundesverbands seien laut der Partei nicht von dem Zugriff betroffen gewesen.",
-      "Im Internet wurden später Daten veröffentlicht, bei denen es sich laut Angaben der Unbekannten um rund 421.000 AfD-E-Mails handeln soll. Im Internet kursiert ein Link zu einer Webseite, auf der eine Übersicht dieser mutmaßlichen Mails dargestellt sein soll. Die anonyme Webseite wurde nach Recherchen der Deutschen Presse-Agentur erst Mitte Oktober registriert. Die Seite gibt als Sitz Wyoming in den USA an und enthält keine Auskunft über die Herkunft der Daten. Sie veröffentlicht selbst keine Mail-Inhalte, diese liegen stattdessen angeblich auf einem weiteren Download-Server.",
-      "Ob die veröffentlichten Daten authentisch sind, blieb zunächst unklar. Die Echtheit der Mail-Informationen ließ sich laut ZDFheute zunächst nicht unabhängig verifizieren. Die AfD erklärte am späten Nachmittag, ein solcher digitaler Angriff sei illegal und strafrechtlich relevant. Die Partei sieht es mit großer Sorge, dass allem Anschein nach mit einer sehr rudimentären Künstlichen Intelligenz die Inhalte der gestohlenen Dokumente analysiert wurden. Dabei sei es um Schlagworte und nicht um den Kontext gegangen, weshalb die bislang veröffentlichten vermeintlichen Skandale einer inhaltlichen Überprüfung nicht standhielten."
+      "Bei der Alternative für Deutschland hat sich ein Vorfall im Bereich der IT-Sicherheit ereignet. Im September kam es zu einem unbefugten Zugriff auf E-Mail-Postfächer der Partei. Dies wurde von offizieller Seite bestätigt. Nun sind große Datensätze im Internet aufgetaucht. Laut den Berichten handelt es sich um rund 421.000 E-Mails.",
+      "Die Veröffentlichung erfolgte über eine anonym betriebene Internetseite. Diese Website wurde laut Recherchen erst im Oktober registriert. Die Betreiber der Seite stellen eine Übersicht der angeblichen E-Mails zur Verfügung. Die eigentlichen Inhalte liegen laut den Angaben auf einem separaten Download-Server. Ob die veröffentlichten Dokumente echt sind, wird geprüft.",
+      "Die betroffenen E-Mails umfassen einen Zeitraum von diesem Herbst bis zurück in das Jahr 2014. Sie stammen nach Berichten unter anderem von hochrangigen Parteimitgliedern. Darunter sind Namen wie die Parteichefin Alice Weidel und der frühere Parteichef Alexander Gauland. Die genaue Herkunft und Echtheit der Daten war zunächst Gegenstand von Untersuchungen."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Laut den Berichten behaupten die Unbekannten, dass es sich um Daten aus zehn Postfächern handelt. Darunter befinden sich ein Account auf den Namen des früheren AfD-Parteichefs Alexander Gauland sowie ein Konto, das von der AfD früher als Kontakt für die Bundesgeschäftsstelle genannt wurde. Als Absender der Mails treten laut Berichten unter anderem die AfD-Politiker Alice Weidel und Leif-Erik Holm auf. Nach Berichten von Medien sind in den Mails unter anderem Fotos von Ausweisen enthalten.",
-      "Dazu gehört laut Medienberichten ein Foto vom Personalausweis des AfD-Vize-Fraktionschefs im Bundestag, Markus Frohnmaier. Außerdem seien Fotos weiterer Ausweise, Rechnungen, Kontoauszüge, Zeugnisse sowie Mitgliedsanträge und Mitgliederlisten von AfD-Kreisverbänden in Nordrhein-Westfalen in den Daten enthalten. Betroffen von dem Angriff ist demnach auch das zur AfD gehörende Unternehmen Alternita. Die Hacker hatten laut den Angaben zudem Zugriff auf Mails der Landesverbände Nordrhein-Westfalen und Mecklenburg-Vorpommern.",
-      "Ein Cybersecurity-Fachmann namens Mirko Ross erklärte gegenüber der F.A.Z., dass er bereits einen Teil der Daten analysiert habe. Er stellte fest, dass das gefundene Material weit über das hinausgeht, was die AfD bisher öffentlich als vom Hack beschrieben habe. Es seien auch E-Mails aus dem Jahr 2026 dabei, weshalb die Daten nicht so veraltet seien, wie von der Partei dargestellt. Die Aufbereitung der Daten lässt laut Ross darauf schließen, dass die Verantwortlichen dem Bereich des sogenannten Hacktivismus zuzuordnen sind, also politisch aktivistisch arbeiten."
+      "Laut Angaben der Partei betraf der Vorfall im September einen externen Hosting-Dienstleister. Dabei seien Teile von einigen wenigen Postfächern kopiert worden. Die Partei erklärte dazu, dass die meisten dieser betroffenen Konten bereits seit Jahren nicht mehr genutzt worden seien. Aktuelle E-Mail-Postfächer des Bundesverbands seien von dem Vorfall nicht betroffen gewesen.",
+      "Die veröffentlichte Datenmenge beläuft sich nach Angaben auf rund 281 Gigabyte. Auf der betroffenen Internetseite wurden Teile der E-Mails mithilfe von Künstlicher Intelligenz zusammengefasst. Dabei wurden bestimmte Nachrichten als kritisch oder von hoher Relevanz eingestuft. In diesen Kategorien geht es laut den Darstellungen um juristische Streitigkeiten und innerparteiliche Vorgänge.",
+      "Zu den bekannten Inhalten der E-Mails gehören verschiedene interne Beratungen. Laut Berichten der taz wird darin unter anderem über den Umgang mit Medienberichten über Mitglieder diskutiert. Auch Themen wie Spenden, Parteiausschlussverfahren und organisatorische Abläufe werden in den Dokumenten behandelt. Mehrere prominente Parteimitglieder tauchen in diesem Zusammenhang in den Nachrichten auf."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Cyberangriffe auf Parteien und staatliche Stellen sind in den vergangenen Jahren mehrfach vorgekommen. Erst kurz vor dem aktuellen Vorfall brachen Hacker in das E-Mail-Konto der Heilbronner CDU ein und verschickten von dort Tausende Phishing-Nachrichten. Im Mai 2024 war zudem die Bundes-CDU Ziel einer großen Cyberattacke geworden, bei der die IT-Infrastruktur teilweise vom Netz genommen wurde und die Ermittlungen wegen des Verdachts auf Spionage an den Generalbundesanwalt übergingen. Auch E-Mail-Konten in der SPD-Parteizentrale waren in den Jahren 2022 und 2023 das Ziel eines Angriffs gewesen, den Sicherheitsbehörden später einer vom russischen Militärgeheimdienst GRU gesteuerten Gruppierung zuordneten.",
-      "Nach Angaben der AfD gab es bereits vor einigen Wochen technische Probleme, bei denen bestimmte Mailpostfächer nicht funktionierten. Die Bundesgeschäftsstelle hatte damals erklärt, es gebe einen Angriff und die Postfächer seien deshalb abgeschaltet worden. Der Cybersecurity-Fachmann Mirko Ross mutmaßt, dass mit dem Datenleck die AfD diskreditiert werden soll. Offen ist laut ihm, ob es sich um einen Angriff von außen handelte oder ob jemand mit internem Zugriff auf die IT-Infrastruktur der AfD der Partei schaden wollte. In dem gesichteten Material sind nach seinen Angaben Daten aus Nordrhein-Westfalen überproportional häufig vertreten, wo es derzeit interne Konflikte im AfD-Landesverband gibt."
+      "In der Vergangenheit hat das Thema Cybersicherheit und der Schutz digitaler Infrastrukturen an Bedeutung gewonnen. Verdeckte Attacken, Spionage und Datenlecks nehmen im politischen Raum zu. Um solche Angriffe schneller zu erkennen und abzuwehren, ist unter anderem die Einrichtung neuer gemeinsamer Zentren von Polizei und Nachrichtendiensten vorgesehen.",
+      "Parteien und politische Organisationen verwalten große Mengen an sensiblen Daten. Dazu gehören Mitgliederlisten, Spendenübersichten und interne Kommunikation. Ein erfolgreicher Angriff auf solche Systeme kann erhebliche Mengen an Informationen freilegen. Hosting-Dienstleister, die die Serverstrukturen für Parteien bereitstellen, sind dabei häufig das Ziel von Angriffen.",
+      "Die Aufarbeitung solcher Datenlecks erfolgt meist durch IT-Spezialisten, Journalisten und Forscher. Sie prüfen die Echtheit der Dokumente und analysieren deren Inhalt. Im vorliegenden Fall erklärten beteiligte Personen, dass sie das Material für authentisch halten. Die rechtliche Bewertung der Verwendung solcher geleakten Daten ist komplex und unterscheidet sich je nach Kontext."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Unter einem Hosting-Dienstleister versteht man ein Unternehmen, das Speicherplatz und Serverdienste für Internetseiten oder E-Mail-Konten zur Verfügung stellt. Parteien und Unternehmen nutzen solche externen Dienstleister häufig für ihre digitale Infrastruktur. Wenn es bei solchen Dienstleistern zu Sicherheitslücken oder unbefugten Zugriffen kommt, können dort gespeicherte Daten in die Hände von Dritten geraten.",
-      "Als Phishing bezeichnet man Versuche von Internetkriminellen, über gefälschte Nachrichten oder Webseiten an persönliche Daten von Nutzern zu gelangen. Dabei wird oft vorgegeben, von einer vertrauenswürdigen Institution oder Organisation zu stammen."
+      "Ein Hosting-Dienstleister ist ein Unternehmen, das Speicherplatz und Serverdienste für andere Organisationen oder Privatpersonen im Internet bereitstellt. Viele Parteien und Unternehmen lagern ihre Infrastruktur an solche externen Dienstleister aus.",
+      "Ein Datenleck, auch Leak genannt, bezeichnet das unbemerkte oder unbefugte Abfließen von Daten an die Öffentlichkeit. Dies kann durch technische Sicherheitslücken oder Angriffe von außen geschehen.",
+      "Eine Verifizierung ist die Überprüfung der Echtheit oder Richtigkeit von Informationen oder Dokumenten. Bei großen digitalen Datensätzen ist dieser Schritt notwendig, bevor die Inhalte als gesichert gelten können."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Die AfD teilte mit, dass der Angriff rasch erkannt und beendet worden sei und alle Nutzer entsprechend informiert wurden. Die Partei erklärte laut Tagesschau/ARD und ZDFheute: \"Die jetzt erfolgte Onlineveröffentlichung vermutlich eines Teils dieser Daten wird geprüft.\" Eine erste Einschätzung dazu könne erst nach Abschluss dieser Prüfung gegeben werden.",
-      "Das Bundesamt für Sicherheit in der Informationstechnik, eine Bundesbehörde für IT-Sicherheit, teilte laut Tagesschau/ARD mit, dass es in Kontakt mit der AfD steht.",
-      "Der Cybersecurity-Fachmann Mirko Ross äußerte gegenüber der F.A.Z. die Einschätzung, dass die Daten authentisch sein könnten und dass die Verantwortlichen möglicherweise dem Bereich des Hacktivismus zuzuordnen sind."
+      "Die Alternative für Deutschland erklärte, dass der Angriff im September rasch erkannt und beendet worden sei. Alle betroffenen Nutzer seien damals informiert worden. Die Partei teilte mit, dass die nun erfolgte Online-Veröffentlichung geprüft werde.",
+      "Die Linken-Fraktionsvize Clara Bünger äußerte sich ebenfalls zu den Vorgängen. Laut der taz sagte sie, die E-Mails würden bestätigen, was man lange wisse.",
+      "Valentina Chiofalo von der Gesellschaft für Freiheitsrechte erklärte laut taz, dass man den Fundus bei erwiesener Echtheit wissenschaftlich untersuchen müsste. Zur Frage der juristischen Verwertbarkeit sagte sie, das Bundesverfassungsgericht würde die Interessen abwägen und die Verwertbarkeit aufgrund der Bedeutung vermutlich bejahen."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Die AfD kündigte an, die Onlineveröffentlichung der Daten und deren Inhalte zu prüfen. Eine endgültige Einschätzung der Partei zu den veröffentlichten Dokumenten soll nach Abschluss dieser internen Prüfung erfolgen. Die zuständigen Stellen und Behörden beobachten die Situation und stehen im Austausch mit der betroffenen Partei."
+      "Die Alternative für Deutschland kündigte an, eine Prüfung der im Internet veröffentlichten Daten vorzunehmen. Erst nach Abschluss dieser Prüfung könne eine genaue Einschätzung abgegeben werden. Ob rechtliche Schritte eingeleitet werden, ist Teil der internen Beratungen.",
+      "Die juristische und politische Einordnung des Datenlecks wird von Forschern und Beobachtern fortgesetzt. Dabei wird auch geprüft, ob die Inhalte eine Rolle in rechtlichen Verfahren spielen könnten. Die Betreiber der Website kündigten an, das Material weiterhin zugänglich zu halten."
      ]
     }
    ],
@@ -4912,200 +5541,202 @@
    ],
    "bilder": [
     {
-     "art": "institution",
-     "suchbegriff": "Federal Office for Information Security Germany building",
-     "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik steht laut Berichten in Kontakt mit der betroffenen Partei."
+     "art": "person",
+     "suchbegriff": "Alice Weidel politician",
+     "bildunterschrift": "Alice Weidel ist eine der bekannten Politikerinnen der Alternative für Deutschland."
     },
     {
-     "art": "ort",
-     "suchbegriff": "Berlin Alexanderplatz",
-     "bildunterschrift": "In Berlin befinden sich zentrale Einrichtungen und Parteizentralen der politischen Parteien in Deutschland."
+     "art": "person",
+     "suchbegriff": "Alexander Gauland politician",
+     "bildunterschrift": "Alexander Gauland gehört zu den früheren Parteichefs der Alternative für Deutschland."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Bundestag building Berlin",
+     "bildunterschrift": "Der Deutsche Bundestag in Berlin als Ort parlamentarischer Entscheidungen."
     },
     {
      "art": "symbol",
-     "suchbegriff": "Cybersecurity concept",
-     "bildunterschrift": "Cybersicherheit und der Schutz von E-Mail-Konten spielen bei Angriffen auf Parteien eine wichtige Rolle."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Bundestag Berlin",
-     "bildunterschrift": "Im Deutschen Bundestag sind verschiedene Parteien vertreten, deren IT-Infrastruktur Ziel von Sicherheitsüberprüfungen ist."
+     "suchbegriff": "Cybersecurity padlock concept",
+     "bildunterschrift": "Ein Symbolbild für IT-Sicherheit und den Schutz von Daten im Internet."
     }
    ],
    "ort": {
-    "name": "Deutschland"
+    "name": "Berlin, Deutschland"
    },
    "geprueft": true,
-   "korrekturen": [],
-   "wortwarnung": [
-    "Skandale"
+   "korrekturen": [
+    "Im Abschnitt 'Zum Verständnis' wurden ungesicherte aktuelle Verweise entfernt und auf Grundwissen reduziert.",
+    "Im Abschnitt 'Reaktionen' wurde ein wertendes Zitat von Clara Bünger durch eine neutrale Zusammenfassung ersetzt."
    ],
+   "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Hosting-Dienstleister",
-      "Ein Unternehmen, das Speicherplatz und Computer für Internetseiten oder E-Mail-Konten zur Verfügung stellt."
+      "Ein Unternehmen, das Speicherplatz und Serverdienste für andere Organisationen im Internet bereitstellt."
      ],
      [
-      "Hacktivismus",
-      "Eine Form von politisch motiviertem Hacking, bei der Hacker versuchen, durch digitale Angriffe politische oder gesellschaftliche Ziele zu erreichen."
+      "Datenleck",
+      "Das unbefugte Abfließen oder Veröffentlichen von internen Daten an die Öffentlichkeit."
+     ],
+     [
+      "Verifizierung",
+      "Die Überprüfung von Informationen oder Dokumenten, um festzustellen, ob sie echt und richtig sind."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen unabhängige Experten bei der Einschätzung von gehackten Daten im Vergleich zu den Angaben der betroffenen Organisation?",
-     "Welche Probleme können entstehen, wenn gestohlene Dokumente im Internet veröffentlicht und mit Künstlicher Intelligenz zusammengefasst werden?"
+     "Welche Rolle spielen IT-Spezialisten und Medien bei der Aufarbeitung von geleakten Daten?",
+     "Wie bewerten Sie die Frage, ob unrechtmäßig erlangte E-Mails in rechtlichen Verfahren verwendet werden dürfen?"
     ],
     "quiz": [
      {
-      "frage": "Wann fand der Hackerangriff auf den Dienstleister der AfD nach Angaben der Partei statt?",
+      "frage": "Wann fand der Hackerangriff auf den Dienstleister der AfD statt?",
       "optionen": [
-       "Im Januar 2026",
+       "Im Juli 2026",
        "Im September 2026",
        "Im Dezember 2026"
       ],
       "richtig": 1,
-      "erklaerung": "Laut den übereinstimmenden Berichten von Tagesschau, ZDFheute und Süddeutscher Zeitung kam es im September 2026 zu dem Angriff."
+      "erklaerung": "Laut übereinstimmenden Angaben von ZDFheute und taz gab es den Angriff im September 2026."
      },
      {
-      "frage": "Welche Postfächer waren nach Angaben der AfD von dem Angriff überwiegend betroffen?",
+      "frage": "Wie viele E-Mails sind nach den Berichten im Internet aufgetaucht?",
       "optionen": [
-       "Aktuelle Postfächer des Bundesverbands",
-       "Postfächer, die seit Jahren nicht mehr genutzt wurden",
-       "Ausschließlich Postfächer von aktiven Ministern"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die AfD teilte mit, dass es sich um Teile von Postfächern handelte, von denen die meisten seit Jahren nicht mehr genutzt wurden."
-     },
-     {
-      "frage": "Welche Behörde steht nach Angaben der Tagesschau in Kontakt mit der AfD?",
-      "optionen": [
-       "Das Bundesamt für Sicherheit in der Informationstechnik",
-       "Das Auswärtige Amt",
-       "Das Bundeskriminalamt"
+       "Rund 421.000 E-Mails",
+       "Rund 50.000 E-Mails",
+       "Genau 1.000 E-Mails"
       ],
       "richtig": 0,
-      "erklaerung": "Das Bundesamt für Sicherheit in der Informationstechnik teilte mit, dass es in Kontakt mit der AfD steht."
+      "erklaerung": "Beide Quellen berichten von rund 421.000 E-Mails, die im Internet aufgetaucht sind."
+     },
+     {
+      "frage": "Welche Personen werden in den Berichten als Betroffene genannt?",
+      "optionen": [
+       "Nur lokale Kommunalpolitiker",
+       "Alice Weidel und Alexander Gauland",
+       "Niemand aus der Parteiführung"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Berichte nennen unter anderem Alice Weidel und Alexander Gauland als Personen, von denen E-Mails stammen."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Unbekannte haben E-Mail-Konten der Partei Alternative für Deutschland angegriffen. Das hat die Partei im Oktober 2026 bestätigt.",
+    "vorspann": "Unbekannte haben im September E-Mail-Postfächer der Partei Alternative für Deutschland angegriffen.",
     "absaetze": [
-     "Bei dem Angriff im September kopierten die Täter Daten von einigen Postfächern. Nach Angaben der Partei handelte es sich meist um ältere Konten, die nicht mehr genutzt wurden. Aktuelle Postfächer des Bundesverbands seien nicht betroffen gewesen.",
-     "Im Internet tauchten daraufhin rund vierhunderteinundzwanzigtausend angebliche E-Mails auf einer anonymen Webseite auf. Ob diese Dokumente echt sind, war zunächst unklar.",
-     "Die AfD erklärte, der digitale Angriff sei illegal und werde geprüft. Das Bundesamt für Sicherheit in der Informationstechnik steht mit der Partei in Kontakt."
+     "Nach Angaben der Partei wurden damals Daten von einem externen Dienstleister kopiert.",
+     "Im Oktober tauchte eine anonyme Internetseite auf, auf der rund 421.000 E-Mails abrufbar sind.",
+     "Zu den betroffenen Personen gehören bekannte Politiker wie Alice Weidel und Alexander Gauland.",
+     "Ob die veröffentlichten E-Mails echt sind, wird zurzeit noch genau geprüft."
     ]
    },
    "video": {
     "kurz": [
-     "Unbekannte Hacker haben E-Mail-Konten der Partei Alternative für Deutschland angegriffen. Nach Angaben der Partei wurden im September Postfächer kopiert. Im Internet wurden daraufhin angeblich rund vierhunderteinundzwanzigtausend E-Mails veröffentlicht."
+     "Unbekannte haben im September E-Mail-Postfächer der Alternative für Deutschland angegriffen.",
+     "Im Internet sind nun rund vierhunderteinundzwanzigtausend angebliche interne E-Mails aufgetaucht.",
+     "Die Partei prüft den Vorfall, während die Echtheit der Daten unklar bleibt."
     ],
     "lang": [
-     "Unbekannte Täter haben im September zweitausendsechsundzwanzig E-Mail-Postfächer der Partei Alternative für Deutschland angegriffen. Das bestätigte die Partei nach Medienberichten am Dienstag. Nach Angaben der AfD betraf der Angriff einen Hosting-Dienstleister. Dabei seien Teile von einigen Postfächern kopiert worden, die meist seit Jahren nicht mehr genutzt wurden. Aktuelle E-Mail-Postfächer des Bundesverbands seien laut der Partei nicht betroffen gewesen. Im Internet wurden später Daten veröffentlicht, bei denen es sich um rund vierhunderteinundzwanzigtausend E-Mails handeln soll. Ob diese Daten authentisch sind, blieb zunächst unklar. Die AfD bezeichnete den Angriff als illegal und kündigte eine Prüfung der veröffentlichten Dokumente an. Das Bundesamt für Sicherheit in der Informationstechnik teilte mit, dass es in Kontakt mit der Partei steht."
+     "Im September kam es zu einem Hackerangriff auf einen Hosting-Dienstleister der Partei Alternative für Deutschland.",
+     "Das bestätigte die Partei nach Medienberichten im Oktober.",
+     "Dabei wurden nach Angaben der Partei Daten aus einigen E-Mail-Postfächern kopiert.",
+     "Kurz darauf tauchten im Internet rund vierhunderteinundzwanzigtausend angebliche interne E-Mails auf einer anonymen Website auf.",
+     "Zu den betroffenen Personen gehören bekannte Politiker wie Alice Weidel und Alexander Gauland.",
+     "Nach Angaben von IT-Spezialisten wird das Material für echt gehalten, während die Echtheit laut Berichten auch weiter geprüft wird.",
+     "Die Linken-Politikerin Clara Bünger sagte, die E-Mails würden bisherige Einschätzungen über die Partei bestätigen.",
+     "Das Bundesverfassungsgericht würde die Verwertbarkeit relevanter Belege bei einer Interessenabwägung vermutlich bejahen, erklärte Valentina Chiofalo von der Gesellschaft für Freiheitsrechte.",
+     "Solche Datenlecks und Cyberangriffe im politischen Raum nehmen zu.",
+     "Die genaue Aufarbeitung des Vorfalls und die Prüfung der Daten dauern an."
     ],
     "einfach": [
-     "Unbekannte haben E-Mail-Konten der Partei Alternative für Deutschland angegriffen. Das hat die Partei im Oktober zweitausendsechsundzwanzig bestätigt. Dabei wurden im September Daten von einigen Postfächern kopiert. Die Partei sagte, dass vor allem ältere Konten betroffen waren. Im Internet tauchten danach viele angebliche E-Mails auf. Ob diese Dokumente echt sind, wird noch geprüft."
+     "Unbekannte haben im September E-Mail-Postfächer der Partei Alternative für Deutschland angegriffen.",
+     "Dabei wurden Daten von einem externen Dienstleister kopiert.",
+     "Im Oktober tauchten im Internet rund vierhunderteinundzwanzigtausend angebliche interne E-Mails auf.",
+     "Unter den betroffenen Personen sind bekannte Politiker wie Alice Weidel.",
+     "Ob die veröffentlichten Nachrichten wirklich echt sind, wird zur Zeit noch geprüft."
     ]
    },
    "kurz": [
-    "Unbekannte haben im September 2026 E-Mail-Konten der Partei Alternative für Deutschland angegriffen.",
-    "Nach Parteiangaben wurden Daten von einigen wenigen, meist nicht mehr genutzten Postfächern kopiert.",
-    "Im Internet wurden angeblich rund vierhunderteinundzwanzigtausend E-Mails veröffentlicht, deren Echtheit zunächst unklar blieb."
+    "Unbekannte haben im September E-Mail-Konten der Alternative für Deutschland angegriffen.",
+    "Im Oktober tauchten rund 421.000 angebliche interne E-Mails auf einer Internetseite auf.",
+    "Die Partei prüft den Vorfall, während die Echtheit der Daten untersucht wird."
    ],
    "fakten": [
     [
-     "Ungefähre Anzahl der E-Mails im Internet",
-     "421.000"
+     "Anzahl der E-Mails",
+     "rund 421.000"
     ],
     [
-     "Datum des Angriffs",
-     "September 2026"
+     "Datenmenge",
+     "281 Gigabyte"
+    ],
+    [
+     "Zeitraum der Mails",
+     "2014 bis Herbst 2026"
     ]
    ],
    "dossier": {
-    "slug": "hackerangriffe-auf-parteien",
-    "titel": "Hackerangriffe auf Parteien in Deutschland"
+    "slug": "afd-datenleak-2026",
+    "titel": "Datenleck bei der Alternative für Deutschland"
    },
    "bildInfo": {
-    "titel": "Cybersecurity Visuals Challenge 2019 - Rebecca Wang.jpg",
-    "beschreibung": "illustration to promote cybersecurity submitted in the Cybersecurity Visuals Challenge 2019 hosted by OpenIDEO",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg",
-    "urheber": "Rebecca Wang",
+    "titel": "Alice Weidel at CPAC Hungary.jpg",
+    "beschreibung": "Alice Weidel",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg/1280px-Alice_Weidel_at_CPAC_Hungary.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Alice_Weidel_at_CPAC_Hungary.jpg",
+    "urheber": "Elekes Andor",
     "lizenz": "CC BY 4.0",
     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-    "art": "symbol",
-    "suchbegriff": "Cybersecurity concept",
-    "bildunterschrift": "Eine grafische Darstellung zum Thema Cybersicherheit und Hackerangriffe.",
-    "hinweis": "Symbolbild"
+    "artikel": "Alice Weidel",
+    "sprache": "en",
+    "art": "person",
+    "suchbegriff": "Alice Weidel politician",
+    "bildunterschrift": "Alice Weidel ist Politikerin der AfD, deren Partei von einem Hackerangriff betroffen ist.",
+    "hinweis": "Archivfoto"
    },
    "bildInfos": [
     {
-     "titel": "Cybersecurity Visuals Challenge 2019 - Rebecca Wang.jpg",
-     "beschreibung": "illustration to promote cybersecurity submitted in the Cybersecurity Visuals Challenge 2019 hosted by OpenIDEO",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Cybersecurity_Visuals_Challenge_2019_-_Rebecca_Wang.jpg",
-     "urheber": "Rebecca Wang",
+     "titel": "Alice Weidel at CPAC Hungary.jpg",
+     "beschreibung": "Alice Weidel",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg/1280px-Alice_Weidel_at_CPAC_Hungary.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Alice_Weidel_at_CPAC_Hungary.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Alice_Weidel_at_CPAC_Hungary.jpg",
+     "urheber": "Elekes Andor",
      "lizenz": "CC BY 4.0",
      "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "symbol",
-     "suchbegriff": "Cybersecurity concept",
-     "bildunterschrift": "Eine grafische Darstellung zum Thema Cybersicherheit und Hackerangriffe.",
-     "hinweis": "Symbolbild"
+     "artikel": "Alice Weidel",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Alice Weidel politician",
+     "bildunterschrift": "Alice Weidel ist Politikerin der AfD, deren Partei von einem Hackerangriff betroffen ist.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Reichstagsgebäude von Westen.jpg",
+     "beschreibung": "Reichstag building, seen from west",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/1280px-Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+     "urheber": "Jörg Braukmann",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Reichstagsgebäude",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Bundestag building Berlin",
+     "bildunterschrift": "Das Reichstagsgebäude in Berlin als Sitz des Deutschen Bundestages.",
+     "hinweis": "Archivfoto"
     }
    ],
    "ortInfo": {
-    "name": "Deutschland",
-    "lat": 51.164,
-    "lon": 10.448
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
    },
    "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Unbekannte Täter haben im September zweitausendsechsundzwanzig E-Mail-Postfächer",
-     "d": "640c44187b.mp3",
-     "l": 47.81,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Unbekannte Hacker haben E-Mail-Konten der Partei Alternative für Deutschland ang",
-     "d": "09aeb72a09.mp3",
-     "l": 14.55,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Unbekannte haben E-Mail-Konten der Partei Alternative für Deutschland angegriffe",
-     "d": "33fb3fda1c.mp3",
-     "l": 26.88,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Ob die im Internet veröffentlichten Daten tatsächlich authentisch sind, ist laut",
-     "d": "ca0ce7edf6.mp3",
-     "l": 8.02,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Hosting-Dienstleister? Ein Unternehmen, das Speicherplat",
-     "d": "223c75563d.mp3",
-     "l": 11.28,
-     "s": [
-      0.25,
-      4.12
-     ]
-    }
-   ]
+   "bildVersucht": true
   },
   {
    "id": "marsmond-mission-japan-deutschland",
