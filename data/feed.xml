@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 22 Oct 2026 04:35:34 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 10:05:40 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-10-22</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Weltweite Sicherheitslücke in der Programmiersprache PHP entdeckt · Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich · Ausschreitungen bei Protesten in Frankreich und politische Reaktionen · UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Weltweite Sicherheitslücke in der Programmiersprache PHP entdeckt · Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich · Ausschreitungen bei Protesten in Frankreich und politische Reaktionen · UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung</itunes:summary>
+    <pubDate>Thu, 22 Oct 2026 04:35:34 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-22</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-22.mp3" length="3748701" type="audio/mpeg"/>
+    <itunes:duration>00:10:25</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>UN-Klimabericht warnt vor Erwärmung um 2,8 Grad</title>
     <description>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</description>
     <itunes:summary>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</itunes:summary>
@@ -23,17 +34,6 @@
     <guid isPermaLink="false">podcast-un-klimabericht-2-8-grad</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-un-klimabericht-2-8-grad.mp3" length="4509933" type="audio/mpeg"/>
     <itunes:duration>00:09:24</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-21</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Abschluss des Investitionsgipfels in Berlin · Maßnahmen von Regierungen in Frankreich und Italien nach gewaltsamen Protesten · Koalitionsverhandlungen in Berlin nach Parteitagen und Beratungen · Kompromiss im Europaparlament zu den CO2-Grenzwerten für Neuwagen</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Abschluss des Investitionsgipfels in Berlin · Maßnahmen von Regierungen in Frankreich und Italien nach gewaltsamen Protesten · Koalitionsverhandlungen in Berlin nach Parteitagen und Beratungen · Kompromiss im Europaparlament zu den CO2-Grenzwerten für Neuwagen</itunes:summary>
-    <pubDate>Wed, 21 Oct 2026 04:37:05 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-21</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-21.mp3" length="3508797" type="audio/mpeg"/>
-    <itunes:duration>00:09:45</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
@@ -93,17 +93,6 @@
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
-    <title>Wie entsteht eigentlich ein Schluckauf?</title>
-    <description>Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.</description>
-    <itunes:summary>Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 07:51:36 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-schluckauf</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/800524ff8e.mp3" length="289965" type="audio/mpeg"/>
-    <itunes:duration>00:00:48</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
     <title>Ausschreitungen und Festnahmen in Frankreich</title>
     <description>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</description>
     <itunes:summary>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</itunes:summary>
@@ -144,6 +133,17 @@
     <guid isPermaLink="false">podcast-fruehstartrente-bundestag</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-fruehstartrente-bundestag.mp3" length="2710701" type="audio/mpeg"/>
     <itunes:duration>00:05:39</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Wirtschaftspreis in Stockholm geht an Hall und Woodford</title>
+    <description>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</description>
+    <itunes:summary>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</itunes:summary>
+    <pubDate>Thu, 15 Oct 2026 20:02:46 GMT</pubDate>
+    <guid isPermaLink="false">podcast-wirtschaftsnobelpreis-2026</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-wirtschaftsnobelpreis-2026.mp3" length="7694061" type="audio/mpeg"/>
+    <itunes:duration>00:16:02</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

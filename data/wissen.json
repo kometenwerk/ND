@@ -1,6 +1,182 @@
 {
- "stand": "2026-10-22T04:35:34.763Z",
+ "stand": "2026-10-22T10:05:40.321Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-deutsche-wahlsystem",
+   "zeit": "2026-10-22T10:21:02.190Z",
+   "bereich": "Gesellschaft und Zusammenleben",
+   "titel": "Wie funktioniert eigentlich das deutsche Wahlsystem?",
+   "vorspann": "Alle vier Jahre bestimmen die Bürgerinnen und Bürger in Deutschland die Zusammensetzung des Parlaments. Die Wahl folgt dabei festen Regeln aus dem Grundgesetz und dem Bundeswahlgesetz.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Bei der Bundestagswahl wählen die Bürger die Abgeordneten des Deutschen Bundestages. Die reguläre Wahlperiode dauert laut Grundgesetz vier Jahre. Der Termin wird vom Bundespräsidenten in Absprache mit der Bundesregierung und den Ländern festgelegt. Die letzte Wahl fand als vorgezogene Neuwahl am 23. Februar 2025 statt. Die nächste Wahl wird voraussichtlich zwischen Januar und März 2029 durchgeführt.",
+      "Das Grundgesetz legt fest, dass Bundestagswahlen allgemein, frei, unmittelbar, gleich und geheim sein müssen. Allgemein bedeutet, dass jeder Staatsbürger ab der Volljährigkeit wählen und gewählt werden kann. Eine Wahlpflicht besteht in Deutschland nicht. Die Stimmabgabe erfolgt direkt, ohne dass Wahlmänner dazwischengeschaltet sind. Zudem soll jede Stimme den gleichen Zählwert und Erfolgswert haben."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Das Wahlsystem beruht auf dem Prinzip der personalisierten Verhältniswahl mit einer Fünfprozenthürde. Wählbar sind Parteien und Einzelbewerber, wobei Parteien unter bestimmten Bedingungen Unterstützungsunterschriften sammeln müssen. Die Anzahl der Abgeordneten im Bundestag beträgt derzeit 630. Jede wahlberechtigte Person hat zwei Stimmen. Mit der Erststimme wird ein Direktkandidat im jeweiligen Wahlkreis gewählt. Wer dort die meisten Stimmen erhält, zieht direkt in das Parlament ein.",
+      "Mit der Zweitstimme wird der prozentuale Anteil der Parteien im Parlament bestimmt. Erreicht eine Partei bundesweit mindestens fünf Prozent der Zweitstimmen oder mindestens drei Direktmandate, zieht sie entsprechend ihrem Stimmenanteil in den Bundestag ein. Seit einer Änderung des Bundeswahlgesetzes im Jahr 2024 fallen Überhangmandate weg. Gewinnt eine Partei mehr Wahlkreise als ihr nach Zweitstimmen zustehen, darf sie künftig nur noch ihre bestplatzierten Wahlkreissieger in den Bundestag entsenden."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Regeln für die Wahl sind im Grundgesetz der Bundesrepublik Deutschland sowie im Bundeswahlgesetz festgehalten. Zusätzliche Informationen und rechtliche Vorgaben stützen sich auf die ständige Rechtsprechung des Bundesverfassungsgerichts. Studien, wie jene der Stiftung für Zukunftsfragen, untersuchen zudem die Bedeutung von Wahlwerbung und Plakaten im Wahlkampf."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Der Wikipedia-Artikel enthält keine Angaben zu offenen Fragen oder Forschungsbereichen, die noch nicht geklärt sind."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Mitglieder des Bundestages aktuell",
+     "630"
+    ],
+    [
+     "Reguläre Wahlperiode in Jahren",
+     "4"
+    ],
+    [
+     "Sperrklausel in Prozent",
+     "5"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Erststimme",
+     "Mit der Erststimme wählen die Bürger einen direkten Kandidaten im eigenen Wahlkreis."
+    ],
+    [
+     "Zweitstimme",
+     "Mit der Zweitstimme wird der prozentuale Sitzanteil der Parteien im Bundestag bestimmt."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wie lange dauert die reguläre Wahlperiode des Bundestages?",
+     "optionen": [
+      "Drei Jahre",
+      "Vier Jahre",
+      "Fünf Jahre"
+     ],
+     "richtig": 1,
+     "erklaerung": "Laut Grundgesetz wird der Bundestag grundsätzlich auf vier Jahre gewählt."
+    }
+   ],
+   "video": [
+    "Die Bundestagswahl bestimmt die Abgeordneten des Deutschen Bundestages.",
+    "Die Wahl findet grundsätzlich alle vier Jahre statt.",
+    "Jeder Staatsbürger ab achtzehn Jahren hat das aktive Wahlrecht.",
+    "Die Wahl muss allgemein, frei, unmittelbar, gleich und geheim sein.",
+    "Wählende haben zwei Stimmen zur Verfügung.",
+    "Mit der Erststimme wird ein Direktkandidat im Wahlkreis gewählt.",
+    "Die Zweitstimme bestimmt den Sitzanteil der Parteien im Parlament.",
+    "Eine Partei muss grundsätzlich die Fünfprozenthürde überwinden."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Bundestagswahl",
+    "bildunterschrift": "Die Bundestagswahl regelt die Zusammensetzung des deutschen Parlaments."
+   },
+   "quelle": {
+    "titel": "Bundestagswahl",
+    "url": "https://de.wikipedia.org/wiki/Bundestagswahl",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 297,
+   "bildInfos": [
+    {
+     "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "2025 German federal election",
+     "sprache": "en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die Bundestagswahl regelt die Zusammensetzung des deutschen Parlaments."
+    },
+    {
+     "titel": "Btw2009-126.jpg",
+     "beschreibung": "Btw2009-126",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Btw2009-126.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/Btw2009-126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Btw2009-126.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Btw2009-126"
+    },
+    {
+     "titel": "Bundesarchiv Bild 173-1326, Bonn, Bundestagswahl, Wahlplakate.jpg",
+     "beschreibung": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . Bonn, Bundestagswahl, Wahlplakate Bun",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bundesarchiv_Bild_173-1326%2C_Bonn%2C_Bundestagswahl%2C_Wahlplakate.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bundesarchiv_Bild_173-1326%2C_Bonn%2C_Bundestagswahl%2C_Wahlplakate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_173-1326,_Bonn,_Bundestagswahl,_Wahlplakate.jpg",
+     "urheber": "Helmut J. Wolf",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . Bonn, Bundestagswahl, Wahlplakate Bun"
+    },
+    {
+     "titel": "Bundestagswahl Beteiligungen 2025.png",
+     "beschreibung": "Wahlbeteiligung bei den Bundestagswahlen 1949–2025",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Bundestagswahl_Beteiligungen_2025.png/1280px-Bundestagswahl_Beteiligungen_2025.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bundestagswahl_Beteiligungen_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundestagswahl_Beteiligungen_2025.png",
+     "urheber": "Pascalg622",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Wahlbeteiligung bei den Bundestagswahlen 1949–2025"
+    },
+    {
+     "titel": "Stimmzettel Bundestagswahl 1949.jpg",
+     "beschreibung": "Ballot paper of the 1949 West German federal election, the first free federal election since the end of the Second World War",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Stimmzettel_Bundestagswahl_1949.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Stimmzettel_Bundestagswahl_1949.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Stimmzettel_Bundestagswahl_1949.jpg",
+     "urheber": "Returning Officer of the Federal Republic of Germany",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ballot paper of the 1949 West German federal election, the first free federal election since the end of the Second World War"
+    }
+   ],
+   "bildInfo": {
+    "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+    "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+    "urheber": "Steffen Prößdorf",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "2025 German federal election",
+    "sprache": "en",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Die Bundestagswahl regelt die Zusammensetzung des deutschen Parlaments."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-das-deutsche-schulsystem",
    "zeit": "2026-10-22T04:45:00.749Z",
@@ -6818,126 +6994,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Der cursus publicus war das staatliche Transportsystem im Römischen Reich."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-gaensehaut",
-   "zeit": "2026-10-04T13:14:39.596Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Wie entsteht eigentlich Gänsehaut?",
-   "vorspann": "Eine Gänsehaut zeigt sich durch aufgerichtete Körperbehaarung und kleine Erhebungen auf der Haut. Sie erinnert an den Anblick einer gerupften Gans und tritt bei verschiedenen Reizen auf.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Als Gänsehaut bezeichnet man das typische Bild von aufgerichteter Körperbehaarung und kleinen Erhebungen der Hautoberfläche. Dies geschieht vor allem an den Armen und an den Beinen. Das Phänomen ähnelt dem Anblick einer gerupften Gans. Daher stammt auch der Name in vielen verschiedenen Sprachen. Im Englischen spricht man beispielsweise von goose bumps. In anderen Sprachen wie dem Spanischen oder dem Niederländischen wird die Hühnerhaut als Vergleich genutzt.",
-      "Das Phänomen hat je nach Region unterschiedliche Namen. In Wien sagt man dazu Ganslhaut. In der Schweiz, in Vorarlberg und Teilen von Bayern spricht man oft von Hühnerhaut oder Hennenhaut. Medizinisch nennt man den Vorgang Piloerektion oder Piloarrektion. Auf Lateinisch heißt die Haut cutis anserina. Die Reaktion kann an allen Hautstellen entstehen, die auch nur minimal behaart sind."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Bei Kälte, Angst oder Erregung reagiert der Körper auf eine bestimmte Weise. Dabei kommt es zu einer Kontraktion des Haarbalgmuskels. Dieser Muskel heißt medizinisch Musculus arrector pili. Gesteuert wird dieser Vorgang durch das vegetative Nervensystem. Durch die Muskelspannung erhebt sich der Haarfollikel über die Hautoberfläche. Zeitgleich richtet sich das Haar auf. Dieser medizinische Fachbegriff lautet Piloerektion. Die Funktion dient im Tierreich dazu, mehr Luft zwischen den Haaren einzuschließen.",
-      "Auf generell unbehaarten Hautflächen kann keine Gänsehaut entstehen. Dazu gehören zum Beispiel die Fußsohlen und die Handflächen. Regionen mit selbst minimaler Behaarung zeigen diese Reaktion bei entsprechenden Bedingungen jedoch sehr deutlich. Gänsehaut tritt auch dann auf, wenn man von einem positiven Moment oder einem emotionalen Erlebnis berührt wird. Solche Erlebnisse können ein Musikstück oder eine jubelnde Menschenmenge sein. Zudem kann Gänsehaut im Rahmen der Totenstarre entstehen."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Beobachtungen zeigen, dass die Muskeln an den Haaren durch das vegetative Nervensystem gesteuert werden. Bei der Totenstarre bleibt die Erregbarkeit der Musculi arrectores pilorum erhalten. Dadurch kann auch nach dem Tod eine Gänsehaut entstehen."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Die genaue Ursache für das Entstehen einer Gänsehaut beim Menschen ist bis heute nicht vollständig geklärt."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Medizinischer Fachbegriff",
-     "Piloerektion"
-    ],
-    [
-     "Lateinischer Begriff für Gänsehaut",
-     "cutis anserina"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Piloerektion",
-     "Das Aufrichten der Haare durch kleine Muskeln an den Haarwurzeln."
-    ],
-    [
-     "Vegetatives Nervensystem",
-     "Ein Teil des Nervensystems, der unbewusste Körperfunktionen steuert."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wie heißt die lateinische Bezeichnung für Gänsehaut?",
-     "optionen": [
-      "cutis anserina",
-      "musculus arrector",
-      "piloerectio"
-     ],
-     "richtig": 0,
-     "erklaerung": "Im Artikel steht die lateinische Bezeichnung cutis anserina für Gänsehaut."
-    }
-   ],
-   "video": [
-    "Eine Gänsehaut zeigt sich durch kleine Erhebungen auf der Haut.",
-    "Dabei richtet sich die Körperbehaarung an Armen und Beinen auf.",
-    "Der Anblick erinnert an eine gerupfte Gans.",
-    "Auslöser sind Kälte, Angst oder starke Gefühle.",
-    "Das vegetative Nervensystem steuert diesen Vorgang im Körper.",
-    "Ein Muskel zieht sich zusammen und lässt das Haar steigen.",
-    "Auch bei positiven Momenten wie Musik kann dies passieren.",
-    "Die genaue Ursache ist bis heute nicht vollständig geklärt."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Gänsehaut",
-    "bildunterschrift": "Eine Gänsehaut zeigt sich durch aufgerichtete Haare und kleine Erhebungen auf der Haut."
-   },
-   "quelle": {
-    "titel": "Gänsehaut",
-    "url": "https://de.wikipedia.org/wiki/G%C3%A4nsehaut",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 308,
-   "bildInfos": [
-    {
-     "titel": "Gaensehaut.jpg",
-     "beschreibung": "Goose bumps, goose pimples, goose flesh",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaensehaut.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaensehaut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Gaensehaut.jpg",
-     "urheber": "Ralf Roletschek",
-     "lizenz": "GFDL 1.2",
-     "lizenzUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-     "artikel": "Gänsehaut",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Gänsehaut zeigt sich durch aufgerichtete Haare und kleine Erhebungen auf der Haut."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Gaensehaut.jpg",
-    "beschreibung": "Goose bumps, goose pimples, goose flesh",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaensehaut.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Gaensehaut.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Gaensehaut.jpg",
-    "urheber": "Ralf Roletschek",
-    "lizenz": "GFDL 1.2",
-    "lizenzUrl": "http://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
-    "artikel": "Gänsehaut",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Gänsehaut zeigt sich durch aufgerichtete Haare und kleine Erhebungen auf der Haut."
    }
   }
  ]
