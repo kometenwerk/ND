@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 22 Oct 2026 10:05:40 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 15:15:34 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -82,17 +82,6 @@
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
-    <title>Wie funktioniert das Herz?</title>
-    <description>Das Herz ist ein muskuläres Hohlorgan, das Blut durch den Körper pumpt. Es sichert so die Versorgung aller Organe.</description>
-    <itunes:summary>Das Herz ist ein muskuläres Hohlorgan, das Blut durch den Körper pumpt. Es sichert so die Versorgung aller Organe.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 15:36:30 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktioniert-das-herz</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/c4a63b4705.mp3" length="178221" type="audio/mpeg"/>
-    <itunes:duration>00:00:30</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
     <title>Ausschreitungen und Festnahmen in Frankreich</title>
     <description>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</description>
     <itunes:summary>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</itunes:summary>
@@ -144,6 +133,17 @@
     <guid isPermaLink="false">podcast-wirtschaftsnobelpreis-2026</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-wirtschaftsnobelpreis-2026.mp3" length="7694061" type="audio/mpeg"/>
     <itunes:duration>00:16:02</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Sachsen-Anhalt fordert Stopp von Ukraine-Hilfen und Sanktionen</title>
+    <description>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</description>
+    <itunes:summary>Der Landtag in Magdeburg hat mit den Stimmen von AfD und BSW ein Ende weitergehender Ukraine-Hilfen verlangt. Wir beleuchten die Hintergründe der Debatte und die Reaktionen der anderen Fraktionen.</itunes:summary>
+    <pubDate>Wed, 14 Oct 2026 20:21:14 GMT</pubDate>
+    <guid isPermaLink="false">podcast-sachsen-anhalt-ukraine-hilfen</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-sachsen-anhalt-ukraine-hilfen.mp3" length="6784173" type="audio/mpeg"/>
+    <itunes:duration>00:14:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

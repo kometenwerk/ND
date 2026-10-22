@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-22T10:05:40.321Z",
+ "stand": "2026-10-22T15:15:34.384Z",
  "gepusht": [
   "sturm-us-ostkueste-stromausfaeile",
   "koalitionsstreit-pflegereform-linnemann-spd",
@@ -102,7 +102,7 @@
   "ukraine-friedensgespraeche-witkoff"
  ],
  "wetter": {
-  "stand": "2026-10-22T10:05:40.321Z",
+  "stand": "2026-10-22T15:15:34.384Z",
   "morgenTag": "Freitag",
   "orte": [
    {
@@ -111,12 +111,12 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 11,
+     "grad": 12,
      "code": 2,
-     "gefuehlt": 8,
-     "wind": 15,
-     "windAus": 196,
-     "feuchte": 71,
+     "gefuehlt": 9,
+     "wind": 13,
+     "windAus": 197,
+     "feuchte": 69,
      "druck": 1010,
      "niederschlag": 0,
      "tag": 1
@@ -128,8 +128,8 @@
      "min": 8,
      "regen": 93,
      "menge": 0.7,
-     "wind": 17,
-     "windAus": 210,
+     "wind": 16,
+     "windAus": 208,
      "uv": 2.3,
      "auf": "08:00",
      "unter": "18:07"
@@ -140,10 +140,10 @@
      "max": 12,
      "min": 7,
      "regen": 93,
-     "menge": 1.5,
+     "menge": 0.5,
      "wind": 19,
-     "windAus": 146,
-     "uv": 0.5,
+     "windAus": 149,
+     "uv": 0.9,
      "auf": "08:02",
      "unter": "18:05"
     },
@@ -155,8 +155,8 @@
       "min": 8,
       "regen": 93,
       "menge": 0.7,
-      "wind": 17,
-      "windAus": 210,
+      "wind": 16,
+      "windAus": 208,
       "uv": 2.3,
       "auf": "08:00",
       "unter": "18:07"
@@ -167,49 +167,49 @@
       "max": 12,
       "min": 7,
       "regen": 93,
-      "menge": 1.5,
+      "menge": 0.5,
       "wind": 19,
-      "windAus": 146,
-      "uv": 0.5,
+      "windAus": 149,
+      "uv": 0.9,
       "auf": "08:02",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-24",
-      "code": 61,
+      "code": 80,
       "max": 13,
-      "min": 9,
+      "min": 8,
       "regen": 84,
-      "menge": 6.2,
-      "wind": 22,
+      "menge": 5.7,
+      "wind": 23,
       "windAus": 192,
-      "uv": 1,
+      "uv": 0.8,
       "auf": "08:03",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-25",
       "code": 80,
-      "max": 12,
+      "max": 13,
       "min": 9,
       "regen": 98,
-      "menge": 11.2,
+      "menge": 11.6,
       "wind": 22,
-      "windAus": 216,
-      "uv": 1.9,
+      "windAus": 215,
+      "uv": 2.2,
       "auf": "08:05",
       "unter": "18:01"
      },
      {
       "datum": "2026-10-26",
-      "code": 3,
+      "code": 80,
       "max": 13,
-      "min": 10,
+      "min": 9,
       "regen": 30,
-      "menge": 0,
-      "wind": 21,
-      "windAus": 242,
-      "uv": 1.6,
+      "menge": 1.4,
+      "wind": 19,
+      "windAus": 236,
+      "uv": 1.5,
       "auf": "08:07",
       "unter": "17:59"
      },
@@ -217,10 +217,10 @@
       "datum": "2026-10-27",
       "code": 61,
       "max": 16,
-      "min": 9,
+      "min": 10,
       "regen": 47,
-      "menge": 2.7,
-      "wind": 12,
+      "menge": 2.2,
+      "wind": 13,
       "windAus": 180,
       "uv": 2,
       "auf": "08:09",
@@ -235,42 +235,12 @@
       "menge": 0.3,
       "wind": 14,
       "windAus": 237,
-      "uv": 1.5,
+      "uv": 1.9,
       "auf": "08:11",
       "unter": "17:55"
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 43
-     },
      {
       "zeit": "17:00",
       "grad": 12,
@@ -280,12 +250,12 @@
      {
       "zeit": "18:00",
       "grad": 12,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 5
      },
@@ -303,20 +273,20 @@
      },
      {
       "zeit": "22:00",
-      "grad": 11,
-      "code": 2,
+      "grad": 10,
+      "code": 3,
       "regen": 5
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 10,
-      "code": 1,
+      "code": 2,
       "regen": 3
      },
      {
@@ -369,8 +339,8 @@
      },
      {
       "zeit": "09:00",
-      "grad": 7,
-      "code": 3,
+      "grad": 8,
+      "code": 61,
       "regen": 45
      },
      {
@@ -382,8 +352,38 @@
      {
       "zeit": "11:00",
       "grad": 9,
-      "code": 61,
+      "code": 3,
       "regen": 80
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 88
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 55
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 58
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 43
      }
     ]
    },
@@ -393,26 +393,26 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 12,
-     "code": 3,
-     "gefuehlt": 9,
-     "wind": 14,
-     "windAus": 251,
-     "feuchte": 63,
-     "druck": 1011,
+     "grad": 13,
+     "code": 1,
+     "gefuehlt": 11,
+     "wind": 12,
+     "windAus": 207,
+     "feuchte": 60,
+     "druck": 1012,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-22",
-     "code": 80,
+     "code": 61,
      "max": 14,
      "min": 10,
      "regen": 100,
      "menge": 4.2,
      "wind": 16,
      "windAus": 237,
-     "uv": 2.3,
+     "uv": 2.5,
      "auf": "07:44",
      "unter": "17:56"
     },
@@ -422,24 +422,24 @@
      "max": 14,
      "min": 6,
      "regen": 63,
-     "menge": 1.2,
-     "wind": 17,
-     "windAus": 165,
-     "uv": 1.9,
+     "menge": 0.7,
+     "wind": 18,
+     "windAus": 168,
+     "uv": 2,
      "auf": "07:46",
      "unter": "17:54"
     },
     "tage": [
      {
       "datum": "2026-10-22",
-      "code": 80,
+      "code": 61,
       "max": 14,
       "min": 10,
       "regen": 100,
       "menge": 4.2,
       "wind": 16,
       "windAus": 237,
-      "uv": 2.3,
+      "uv": 2.5,
       "auf": "07:44",
       "unter": "17:56"
      },
@@ -449,36 +449,36 @@
       "max": 14,
       "min": 6,
       "regen": 63,
-      "menge": 1.2,
-      "wind": 17,
-      "windAus": 165,
-      "uv": 1.9,
+      "menge": 0.7,
+      "wind": 18,
+      "windAus": 168,
+      "uv": 2,
       "auf": "07:46",
       "unter": "17:54"
      },
      {
       "datum": "2026-10-24",
-      "code": 63,
-      "max": 12,
-      "min": 8,
+      "code": 61,
+      "max": 11,
+      "min": 6,
       "regen": 70,
-      "menge": 7.1,
-      "wind": 19,
-      "windAus": 192,
-      "uv": 1,
+      "menge": 2.9,
+      "wind": 20,
+      "windAus": 190,
+      "uv": 1.3,
       "auf": "07:47",
       "unter": "17:52"
      },
      {
       "datum": "2026-10-25",
-      "code": 63,
-      "max": 14,
-      "min": 7,
+      "code": 80,
+      "max": 15,
+      "min": 6,
       "regen": 100,
-      "menge": 8,
+      "menge": 9,
       "wind": 20,
-      "windAus": 200,
-      "uv": 0.8,
+      "windAus": 202,
+      "uv": 0.3,
       "auf": "07:49",
       "unter": "17:50"
      },
@@ -489,8 +489,8 @@
       "min": 8,
       "regen": 18,
       "menge": 0,
-      "wind": 20,
-      "windAus": 240,
+      "wind": 15,
+      "windAus": 232,
       "uv": 2.3,
       "auf": "07:51",
       "unter": "17:48"
@@ -499,11 +499,11 @@
       "datum": "2026-10-27",
       "code": 61,
       "max": 15,
-      "min": 7,
+      "min": 8,
       "regen": 43,
-      "menge": 0.6,
-      "wind": 9,
-      "windAus": 175,
+      "menge": 0.9,
+      "wind": 12,
+      "windAus": 182,
       "uv": 2.2,
       "auf": "07:53",
       "unter": "17:46"
@@ -517,58 +517,28 @@
       "menge": 0.3,
       "wind": 12,
       "windAus": 241,
-      "uv": 1.8,
+      "uv": 2.1,
       "auf": "07:55",
       "unter": "17:44"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
       "grad": 14,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "18:00",
       "grad": 13,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 12,
-      "code": 80,
+      "code": 3,
       "regen": 33
      },
      {
@@ -604,7 +574,7 @@
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 0,
+      "code": 1,
       "regen": 3
      },
      {
@@ -615,7 +585,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 9,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
@@ -639,14 +609,14 @@
      },
      {
       "zeit": "07:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -658,14 +628,44 @@
      {
       "zeit": "10:00",
       "grad": 8,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 23
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 45
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 45
      }
     ]
    },
@@ -675,12 +675,12 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 12,
-     "code": 1,
-     "gefuehlt": 9,
-     "wind": 14,
-     "windAus": 235,
-     "feuchte": 63,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 10,
+     "wind": 13,
+     "windAus": 222,
+     "feuchte": 58,
      "druck": 1004,
      "niederschlag": 0,
      "tag": 1
@@ -691,23 +691,23 @@
      "max": 14,
      "min": 9,
      "regen": 100,
-     "menge": 1.3,
-     "wind": 15,
+     "menge": 1.5,
+     "wind": 16,
      "windAus": 231,
-     "uv": 2.7,
+     "uv": 2.6,
      "auf": "07:46",
      "unter": "18:03"
     },
     "morgen": {
      "datum": "2026-10-23",
      "code": 80,
-     "max": 12,
-     "min": 7,
+     "max": 13,
+     "min": 8,
      "regen": 75,
-     "menge": 1.5,
+     "menge": 1.1,
      "wind": 17,
-     "windAus": 175,
-     "uv": 1.9,
+     "windAus": 178,
+     "uv": 1.5,
      "auf": "07:47",
      "unter": "18:01"
     },
@@ -718,23 +718,23 @@
       "max": 14,
       "min": 9,
       "regen": 100,
-      "menge": 1.3,
-      "wind": 15,
+      "menge": 1.5,
+      "wind": 16,
       "windAus": 231,
-      "uv": 2.7,
+      "uv": 2.6,
       "auf": "07:46",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-23",
       "code": 80,
-      "max": 12,
-      "min": 7,
+      "max": 13,
+      "min": 8,
       "regen": 75,
-      "menge": 1.5,
+      "menge": 1.1,
       "wind": 17,
-      "windAus": 175,
-      "uv": 1.9,
+      "windAus": 178,
+      "uv": 1.5,
       "auf": "07:47",
       "unter": "18:01"
      },
@@ -742,25 +742,25 @@
       "datum": "2026-10-24",
       "code": 61,
       "max": 11,
-      "min": 7,
+      "min": 6,
       "regen": 30,
-      "menge": 3.3,
-      "wind": 19,
-      "windAus": 208,
-      "uv": 1.7,
+      "menge": 3.9,
+      "wind": 18,
+      "windAus": 207,
+      "uv": 1,
       "auf": "07:49",
       "unter": "17:59"
      },
      {
       "datum": "2026-10-25",
       "code": 61,
-      "max": 16,
+      "max": 15,
       "min": 7,
       "regen": 100,
-      "menge": 6.2,
-      "wind": 19,
-      "windAus": 210,
-      "uv": 0.5,
+      "menge": 6.3,
+      "wind": 20,
+      "windAus": 212,
+      "uv": 0.2,
       "auf": "07:51",
       "unter": "17:57"
      },
@@ -768,12 +768,12 @@
       "datum": "2026-10-26",
       "code": 3,
       "max": 13,
-      "min": 8,
+      "min": 7,
       "regen": 17,
-      "menge": 0,
+      "menge": 0.1,
       "wind": 16,
-      "windAus": 238,
-      "uv": 2.5,
+      "windAus": 231,
+      "uv": 2.1,
       "auf": "07:52",
       "unter": "17:55"
      },
@@ -781,11 +781,11 @@
       "datum": "2026-10-27",
       "code": 61,
       "max": 16,
-      "min": 8,
+      "min": 9,
       "regen": 30,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 181,
+      "menge": 1.7,
+      "wind": 11,
+      "windAus": 186,
       "uv": 2.3,
       "auf": "07:54",
       "unter": "17:53"
@@ -799,42 +799,12 @@
       "menge": 4.5,
       "wind": 11,
       "windAus": 227,
-      "uv": 1.9,
+      "uv": 2.3,
       "auf": "07:56",
       "unter": "17:51"
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "17:00",
       "grad": 13,
@@ -843,7 +813,7 @@
      },
      {
       "zeit": "18:00",
-      "grad": 13,
+      "grad": 12,
       "code": 3,
       "regen": 10
      },
@@ -855,56 +825,56 @@
      },
      {
       "zeit": "20:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 8
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 3,
+      "code": 2,
       "regen": 3
      },
      {
       "zeit": "22:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 9,
-      "code": 1,
+      "grad": 10,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 9,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 9,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 8,
-      "code": 0,
+      "grad": 9,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 8,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
@@ -916,19 +886,19 @@
      {
       "zeit": "06:00",
       "grad": 8,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 8,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 7,
-      "code": 1,
+      "grad": 8,
+      "code": 3,
       "regen": 0
      },
      {
@@ -948,6 +918,36 @@
       "grad": 10,
       "code": 3,
       "regen": 8
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 50
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 75
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 75
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 50
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 43
      }
     ]
    },
@@ -958,78 +958,78 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 12,
-     "code": 3,
-     "gefuehlt": 8,
-     "wind": 21,
-     "windAus": 186,
-     "feuchte": 69,
+     "code": 2,
+     "gefuehlt": 9,
+     "wind": 14,
+     "windAus": 183,
+     "feuchte": 81,
      "druck": 1007,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-22",
-     "code": 51,
-     "max": 12,
+     "code": 55,
+     "max": 13,
      "min": 7,
      "regen": 50,
-     "menge": 0.7,
+     "menge": 1.8,
      "wind": 22,
-     "windAus": 180,
-     "uv": 2.4,
+     "windAus": 179,
+     "uv": 2,
      "auf": "08:06",
      "unter": "18:25"
     },
     "morgen": {
      "datum": "2026-10-23",
-     "code": 61,
+     "code": 55,
      "max": 13,
      "min": 10,
-     "regen": 98,
-     "menge": 5.2,
-     "wind": 30,
-     "windAus": 166,
-     "uv": 1.6,
+     "regen": 99,
+     "menge": 5.7,
+     "wind": 32,
+     "windAus": 162,
+     "uv": 1.3,
      "auf": "08:08",
      "unter": "18:23"
     },
     "tage": [
      {
       "datum": "2026-10-22",
-      "code": 51,
-      "max": 12,
+      "code": 55,
+      "max": 13,
       "min": 7,
       "regen": 50,
-      "menge": 0.7,
+      "menge": 1.8,
       "wind": 22,
-      "windAus": 180,
-      "uv": 2.4,
+      "windAus": 179,
+      "uv": 2,
       "auf": "08:06",
       "unter": "18:25"
      },
      {
       "datum": "2026-10-23",
-      "code": 61,
+      "code": 55,
       "max": 13,
       "min": 10,
-      "regen": 98,
-      "menge": 5.2,
-      "wind": 30,
-      "windAus": 166,
-      "uv": 1.6,
+      "regen": 99,
+      "menge": 5.7,
+      "wind": 32,
+      "windAus": 162,
+      "uv": 1.3,
       "auf": "08:08",
       "unter": "18:23"
      },
      {
       "datum": "2026-10-24",
       "code": 61,
-      "max": 11,
+      "max": 13,
       "min": 9,
-      "regen": 84,
-      "menge": 7.9,
-      "wind": 26,
-      "windAus": 228,
-      "uv": 2.3,
+      "regen": 86,
+      "menge": 6.2,
+      "wind": 31,
+      "windAus": 231,
+      "uv": 1.7,
       "auf": "08:10",
       "unter": "18:21"
      },
@@ -1039,36 +1039,36 @@
       "max": 14,
       "min": 10,
       "regen": 100,
-      "menge": 15.3,
-      "wind": 28,
-      "windAus": 237,
+      "menge": 17.5,
+      "wind": 27,
+      "windAus": 239,
       "uv": 2.4,
       "auf": "08:12",
       "unter": "18:19"
      },
      {
       "datum": "2026-10-26",
-      "code": 53,
-      "max": 14,
+      "code": 51,
+      "max": 13,
       "min": 9,
-      "regen": 52,
-      "menge": 5,
-      "wind": 19,
-      "windAus": 214,
-      "uv": 2.2,
+      "regen": 57,
+      "menge": 1.2,
+      "wind": 18,
+      "windAus": 212,
+      "uv": 1.9,
       "auf": "08:13",
       "unter": "18:17"
      },
      {
       "datum": "2026-10-27",
-      "code": 51,
-      "max": 19,
-      "min": 11,
-      "regen": 49,
-      "menge": 0.4,
-      "wind": 16,
-      "windAus": 198,
-      "uv": 2.3,
+      "code": 3,
+      "max": 18,
+      "min": 10,
+      "regen": 51,
+      "menge": 0.1,
+      "wind": 17,
+      "windAus": 183,
+      "uv": 2.4,
       "auf": "08:15",
       "unter": "18:15"
      },
@@ -1077,159 +1077,159 @@
       "code": 51,
       "max": 16,
       "min": 8,
-      "regen": 22,
-      "menge": 1.8,
+      "regen": 20,
+      "menge": 1.4,
       "wind": 19,
-      "windAus": 240,
-      "uv": 2.2,
+      "windAus": 258,
+      "uv": 2.3,
       "auf": "08:17",
       "unter": "18:13"
      }
     ],
     "stunden": [
      {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 55,
+      "regen": 41
+     },
+     {
+      "zeit": "18:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 29
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 2
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 4
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 16
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 51,
+      "regen": 32
+     },
+     {
+      "zeit": "02:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 49
+     },
+     {
+      "zeit": "03:00",
+      "grad": 11,
+      "code": 53,
+      "regen": 66
+     },
+     {
+      "zeit": "04:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 84
+     },
+     {
+      "zeit": "05:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 96
+     },
+     {
+      "zeit": "06:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 99
+     },
+     {
+      "zeit": "07:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 96
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 94
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 95
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 96
+     },
+     {
+      "zeit": "11:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 92
+     },
+     {
       "zeit": "12:00",
       "grad": 12,
       "code": 3,
-      "regen": 29
+      "regen": 78
      },
      {
       "zeit": "13:00",
       "grad": 12,
       "code": 3,
-      "regen": 41
+      "regen": 59
      },
      {
       "zeit": "14:00",
-      "grad": 12,
-      "code": 51,
+      "grad": 13,
+      "code": 3,
       "regen": 49
      },
      {
       "zeit": "15:00",
       "grad": 12,
       "code": 51,
-      "regen": 50
+      "regen": 58
      },
      {
       "zeit": "16:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 48
-     },
-     {
-      "zeit": "17:00",
       "grad": 12,
       "code": 51,
-      "regen": 45
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 41
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 36
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 31
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 29
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 51,
-      "regen": 42
-     },
-     {
-      "zeit": "02:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 55
-     },
-     {
-      "zeit": "03:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 65
-     },
-     {
-      "zeit": "04:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 75
-     },
-     {
-      "zeit": "05:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 82
-     },
-     {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 85
-     },
-     {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 86
-     },
-     {
-      "zeit": "08:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 88
-     },
-     {
-      "zeit": "09:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 93
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 98
-     },
-     {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 98
+      "regen": 76
      }
     ]
    },
@@ -1239,23 +1239,23 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 7,
-     "wind": 16,
-     "windAus": 223,
-     "feuchte": 75,
-     "druck": 1006,
+     "gefuehlt": 11,
+     "wind": 12,
+     "windAus": 216,
+     "feuchte": 65,
+     "druck": 1005,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-22",
      "code": 80,
-     "max": 13,
+     "max": 14,
      "min": 7,
      "regen": 33,
-     "menge": 1,
+     "menge": 0.3,
      "wind": 17,
      "windAus": 220,
      "uv": 2.8,
@@ -1266,10 +1266,10 @@
      "datum": "2026-10-23",
      "code": 80,
      "max": 14,
-     "min": 8,
+     "min": 9,
      "regen": 95,
-     "menge": 3.8,
-     "wind": 22,
+     "menge": 2.2,
+     "wind": 21,
      "windAus": 195,
      "uv": 2.4,
      "auf": "08:00",
@@ -1279,10 +1279,10 @@
      {
       "datum": "2026-10-22",
       "code": 80,
-      "max": 13,
+      "max": 14,
       "min": 7,
       "regen": 33,
-      "menge": 1,
+      "menge": 0.3,
       "wind": 17,
       "windAus": 220,
       "uv": 2.8,
@@ -1293,10 +1293,10 @@
       "datum": "2026-10-23",
       "code": 80,
       "max": 14,
-      "min": 8,
+      "min": 9,
       "regen": 95,
-      "menge": 3.8,
-      "wind": 22,
+      "menge": 2.2,
+      "wind": 21,
       "windAus": 195,
       "uv": 2.4,
       "auf": "08:00",
@@ -1304,14 +1304,14 @@
      },
      {
       "datum": "2026-10-24",
-      "code": 61,
-      "max": 13,
+      "code": 80,
+      "max": 14,
       "min": 8,
       "regen": 58,
-      "menge": 2.1,
-      "wind": 24,
-      "windAus": 220,
-      "uv": 1.8,
+      "menge": 7.6,
+      "wind": 21,
+      "windAus": 222,
+      "uv": 2.3,
       "auf": "08:01",
       "unter": "18:16"
      },
@@ -1319,12 +1319,12 @@
       "datum": "2026-10-25",
       "code": 63,
       "max": 16,
-      "min": 9,
+      "min": 8,
       "regen": 100,
-      "menge": 19.1,
+      "menge": 25.3,
       "wind": 19,
-      "windAus": 220,
-      "uv": 0.6,
+      "windAus": 224,
+      "uv": 0.9,
       "auf": "08:03",
       "unter": "18:14"
      },
@@ -1335,9 +1335,9 @@
       "min": 7,
       "regen": 33,
       "menge": 0.3,
-      "wind": 12,
-      "windAus": 217,
-      "uv": 2.2,
+      "wind": 11,
+      "windAus": 208,
+      "uv": 2.4,
       "auf": "08:05",
       "unter": "18:12"
      },
@@ -1349,7 +1349,7 @@
       "regen": 33,
       "menge": 0,
       "wind": 8,
-      "windAus": 190,
+      "windAus": 192,
       "uv": 2.4,
       "auf": "08:06",
       "unter": "18:10"
@@ -1363,70 +1363,40 @@
       "menge": 5.1,
       "wind": 11,
       "windAus": 247,
-      "uv": 2,
+      "uv": 2.4,
       "auf": "08:08",
       "unter": "18:08"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 8
-     },
-     {
       "zeit": "17:00",
       "grad": 13,
-      "code": 3,
+      "code": 61,
       "regen": 15
      },
      {
       "zeit": "18:00",
       "grad": 13,
-      "code": 61,
+      "code": 3,
       "regen": 33
      },
      {
       "zeit": "19:00",
       "grad": 12,
-      "code": 61,
+      "code": 80,
       "regen": 25
      },
      {
       "zeit": "20:00",
       "grad": 11,
-      "code": 61,
+      "code": 3,
       "regen": 18
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 80,
+      "code": 3,
       "regen": 15
      },
      {
@@ -1444,7 +1414,7 @@
      {
       "zeit": "00:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1456,7 +1426,7 @@
      {
       "zeit": "02:00",
       "grad": 10,
-      "code": 3,
+      "code": 61,
       "regen": 0
      },
      {
@@ -1473,7 +1443,7 @@
      },
      {
       "zeit": "05:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
       "regen": 10
      },
@@ -1486,7 +1456,7 @@
      {
       "zeit": "07:00",
       "grad": 9,
-      "code": 61,
+      "code": 3,
       "regen": 70
      },
      {
@@ -1512,6 +1482,36 @@
       "grad": 10,
       "code": 61,
       "regen": 93
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 65
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 20
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 80,
+      "regen": 40
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 55
      }
     ]
    },
@@ -1521,13 +1521,13 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 12,
-     "code": 1,
-     "gefuehlt": 8,
-     "wind": 18,
-     "windAus": 230,
-     "feuchte": 59,
-     "druck": 990,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 11,
+     "wind": 11,
+     "windAus": 224,
+     "feuchte": 55,
+     "druck": 989,
      "niederschlag": 0,
      "tag": 1
     },
@@ -1538,8 +1538,8 @@
      "min": 7,
      "regen": 3,
      "menge": 0,
-     "wind": 18,
-     "windAus": 216,
+     "wind": 17,
+     "windAus": 215,
      "uv": 2.9,
      "auf": "07:54",
      "unter": "18:20"
@@ -1547,13 +1547,13 @@
     "morgen": {
      "datum": "2026-10-23",
      "code": 80,
-     "max": 15,
-     "min": 8,
+     "max": 14,
+     "min": 7,
      "regen": 50,
-     "menge": 2.4,
-     "wind": 24,
-     "windAus": 204,
-     "uv": 2.4,
+     "menge": 3.5,
+     "wind": 21,
+     "windAus": 203,
+     "uv": 1.8,
      "auf": "07:55",
      "unter": "18:18"
     },
@@ -1565,8 +1565,8 @@
       "min": 7,
       "regen": 3,
       "menge": 0,
-      "wind": 18,
-      "windAus": 216,
+      "wind": 17,
+      "windAus": 215,
       "uv": 2.9,
       "auf": "07:54",
       "unter": "18:20"
@@ -1574,52 +1574,52 @@
      {
       "datum": "2026-10-23",
       "code": 80,
-      "max": 15,
-      "min": 8,
+      "max": 14,
+      "min": 7,
       "regen": 50,
-      "menge": 2.4,
-      "wind": 24,
-      "windAus": 204,
-      "uv": 2.4,
+      "menge": 3.5,
+      "wind": 21,
+      "windAus": 203,
+      "uv": 1.8,
       "auf": "07:55",
       "unter": "18:18"
      },
      {
       "datum": "2026-10-24",
-      "code": 80,
+      "code": 61,
       "max": 12,
-      "min": 6,
+      "min": 7,
       "regen": 23,
-      "menge": 1.9,
-      "wind": 23,
-      "windAus": 227,
-      "uv": 2.5,
+      "menge": 2.3,
+      "wind": 22,
+      "windAus": 230,
+      "uv": 2.1,
       "auf": "07:57",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-25",
       "code": 61,
-      "max": 14,
+      "max": 15,
       "min": 8,
       "regen": 100,
-      "menge": 16.4,
+      "menge": 14.6,
       "wind": 26,
       "windAus": 227,
-      "uv": 0.3,
+      "uv": 0.4,
       "auf": "07:58",
       "unter": "18:15"
      },
      {
       "datum": "2026-10-26",
       "code": 61,
-      "max": 13,
-      "min": 8,
+      "max": 12,
+      "min": 7,
       "regen": 23,
-      "menge": 0.3,
+      "menge": 0.9,
       "wind": 10,
-      "windAus": 209,
-      "uv": 2.3,
+      "windAus": 199,
+      "uv": 2.4,
       "auf": "08:00",
       "unter": "18:13"
      },
@@ -1627,12 +1627,12 @@
       "datum": "2026-10-27",
       "code": 3,
       "max": 18,
-      "min": 8,
+      "min": 10,
       "regen": 28,
       "menge": 0,
-      "wind": 7,
-      "windAus": 185,
-      "uv": 2.5,
+      "wind": 9,
+      "windAus": 188,
+      "uv": 2.6,
       "auf": "08:01",
       "unter": "18:11"
      },
@@ -1651,36 +1651,6 @@
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "17:00",
       "grad": 14,
@@ -1719,7 +1689,7 @@
      },
      {
       "zeit": "23:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -1732,68 +1702,98 @@
      {
       "zeit": "01:00",
       "grad": 10,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 9,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "04:00",
-      "grad": 9,
-      "code": 3,
+      "zeit": "03:00",
+      "grad": 8,
+      "code": 2,
       "regen": 0
      },
      {
-      "zeit": "05:00",
+      "zeit": "04:00",
       "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
+      "zeit": "05:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
       "zeit": "06:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 13
      },
      {
       "zeit": "08:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
       "regen": 48
      },
      {
       "zeit": "09:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
       "regen": 50
      },
      {
       "zeit": "10:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
       "regen": 30
      },
      {
       "zeit": "11:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
       "regen": 40
+     },
+     {
+      "zeit": "12:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "13:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 15
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 8
      }
     ]
    },
@@ -1803,12 +1803,12 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 11,
-     "code": 2,
-     "gefuehlt": 7,
-     "wind": 15,
-     "windAus": 253,
-     "feuchte": 58,
+     "grad": 12,
+     "code": 0,
+     "gefuehlt": 8,
+     "wind": 12,
+     "windAus": 266,
+     "feuchte": 51,
      "druck": 960,
      "niederschlag": 0,
      "tag": 1
@@ -1817,11 +1817,11 @@
      "datum": "2026-10-22",
      "code": 61,
      "max": 12,
-     "min": 5,
+     "min": 6,
      "regen": 98,
      "menge": 1.6,
      "wind": 20,
-     "windAus": 251,
+     "windAus": 252,
      "uv": 3,
      "auf": "07:43",
      "unter": "18:12"
@@ -1829,13 +1829,13 @@
     "morgen": {
      "datum": "2026-10-23",
      "code": 61,
-     "max": 12,
+     "max": 10,
      "min": 4,
      "regen": 40,
-     "menge": 0.9,
-     "wind": 16,
-     "windAus": 194,
-     "uv": 2.2,
+     "menge": 1.4,
+     "wind": 15,
+     "windAus": 188,
+     "uv": 2.4,
      "auf": "07:44",
      "unter": "18:10"
     },
@@ -1844,11 +1844,11 @@
       "datum": "2026-10-22",
       "code": 61,
       "max": 12,
-      "min": 5,
+      "min": 6,
       "regen": 98,
       "menge": 1.6,
       "wind": 20,
-      "windAus": 251,
+      "windAus": 252,
       "uv": 3,
       "auf": "07:43",
       "unter": "18:12"
@@ -1856,13 +1856,13 @@
      {
       "datum": "2026-10-23",
       "code": 61,
-      "max": 12,
+      "max": 10,
       "min": 4,
       "regen": 40,
-      "menge": 0.9,
-      "wind": 16,
-      "windAus": 194,
-      "uv": 2.2,
+      "menge": 1.4,
+      "wind": 15,
+      "windAus": 188,
+      "uv": 2.4,
       "auf": "07:44",
       "unter": "18:10"
      },
@@ -1870,50 +1870,50 @@
       "datum": "2026-10-24",
       "code": 3,
       "max": 10,
-      "min": 4,
+      "min": 5,
       "regen": 10,
       "menge": 0,
-      "wind": 22,
-      "windAus": 244,
-      "uv": 2.7,
+      "wind": 26,
+      "windAus": 247,
+      "uv": 2.6,
       "auf": "07:46",
       "unter": "18:08"
      },
      {
       "datum": "2026-10-25",
-      "code": 80,
+      "code": 61,
       "max": 14,
-      "min": 4,
+      "min": 5,
       "regen": 98,
-      "menge": 14,
+      "menge": 14.1,
       "wind": 19,
-      "windAus": 217,
-      "uv": 0.3,
+      "windAus": 224,
+      "uv": 0.4,
       "auf": "07:47",
       "unter": "18:06"
      },
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 11,
+      "max": 12,
       "min": 6,
       "regen": 36,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 247,
-      "uv": 2.5,
+      "menge": 0.2,
+      "wind": 16,
+      "windAus": 241,
+      "uv": 2.8,
       "auf": "07:49",
       "unter": "18:05"
      },
      {
       "datum": "2026-10-27",
-      "code": 3,
+      "code": 61,
       "max": 17,
       "min": 7,
       "regen": 20,
-      "menge": 0.3,
+      "menge": 0.4,
       "wind": 10,
-      "windAus": 140,
+      "windAus": 145,
       "uv": 2.7,
       "auf": "07:51",
       "unter": "18:03"
@@ -1927,46 +1927,16 @@
       "menge": 9.3,
       "wind": 10,
       "windAus": 246,
-      "uv": 1.8,
+      "uv": 0.7,
       "auf": "07:52",
       "unter": "18:01"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
       "grad": 12,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1995,7 +1965,7 @@
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -2007,7 +1977,7 @@
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -2037,25 +2007,25 @@
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 5,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 4,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
@@ -2073,9 +2043,39 @@
      },
      {
       "zeit": "11:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 10
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 10
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 5
      }
     ]
    }
@@ -2083,8 +2083,8 @@
   "text": [
    "Heute liegen die Höchstwerte zwischen 12 und 14 Grad.",
    "Die Vorhersage für morgen, Freitag: im Norden und Osten leichter Regen, im Süden und Westen Regenschauer.",
-   "Die Temperaturen erreichen dann 12 bis 15 Grad.",
-   "Am wärmsten wird es in Stuttgart mit 15 Grad.",
+   "Die Temperaturen erreichen dann 10 bis 14 Grad.",
+   "Am wärmsten wird es in Berlin mit 14 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2096,20 +2096,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 2
+       "grad": 12,
+       "regen": 0.5
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 11,
-       "regen": 2.3
+       "regen": 3.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 11,
-       "regen": 3.8
+       "regen": 3.2
       }
      ]
     },
@@ -2119,20 +2119,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 0.6
+       "grad": 14,
+       "regen": 0.8
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 15,
+       "grad": 14,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 15,
-       "regen": 0.5
+       "grad": 14,
+       "regen": 0.7
       }
      ]
     },
@@ -2143,19 +2143,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 0.7
+       "regen": 1.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 15,
-       "regen": 0
+       "grad": 14,
+       "regen": 0.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 0.4
+       "regen": 1.2
       }
      ]
     },
@@ -2166,19 +2166,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 5
+       "regen": 4.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 14,
-       "regen": 4.2
+       "grad": 13,
+       "regen": 1.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 6.4
+       "grad": 15,
+       "regen": 9.1
       }
      ]
     },
@@ -2189,19 +2189,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 3.1
+       "regen": 2.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 15,
-       "regen": 1.2
+       "regen": 1.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 16,
-       "regen": 3.7
+       "grad": 15,
+       "regen": 2.7
       }
      ]
     },
@@ -2212,19 +2212,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 2.4
+       "regen": 3.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 15,
+       "grad": 14,
        "regen": 0.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 1.4
+       "grad": 15,
+       "regen": 0.4
       }
      ]
     },
@@ -2234,19 +2234,19 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 1
+       "grad": 10,
+       "regen": 1.4
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 0
+       "grad": 13,
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
+       "grad": 13,
        "regen": 0
       }
      ]
@@ -2254,18 +2254,18 @@
    ],
    "spanneGrad": 3,
    "uneinigRegen": {
-    "ort": "Stuttgart",
+    "ort": "Hamburg",
     "nass": [
-     "ICON",
+     "GFS",
      "ECMWF"
     ],
     "trocken": [
-     "GFS"
+     "ICON"
     ]
    },
    "saetze": [
-    "Für München gehen die Modelle am weitesten auseinander: zwischen 11 und 14 Grad.",
-    "Und in Stuttgart erwartet ICON und ECMWF Regen, GFS dagegen nicht."
+    "Für München gehen die Modelle am weitesten auseinander: zwischen 10 und 13 Grad.",
+    "Und in Hamburg erwartet GFS und ECMWF Regen, ICON dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2459,82 +2459,92 @@
  "nachrichten": [
   {
    "id": "php-sicherheitsluecke",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-10-22T09:26:23.000Z",
-   "aktualisiert": "aktualisiert um 12:05 Uhr",
-   "titel": "Sicherheitslücken in der Programmiersprache PHP führen zu weltweiten Abschaltungen von Internetseiten",
-   "vorspann": "In der weitverbreiteten Programmiersprache PHP wurden zwei kritische Sicherheitslücken entdeckt. Zahlreiche Behörden, Unternehmen und Institutionen nahmen daraufhin weltweit ihre Webseiten vorübergehend vom Netz.",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-22T15:07:05.000Z",
+   "aktualisiert": "aktualisiert um 17:15 Uhr",
+   "titel": "Sicherheitslücke in der Programmiersprache PHP betrifft Webseiten weltweit",
+   "vorspann": "In der weitverbreiteten Programmiersprache PHP wurden zwei kritische Schwachstellen entdeckt, die zu weltweiten Server-Abschaltungen führten. Behörden und IT-Sicherheitsstellen warnen vor einem hohen Bedrohungspotenzial und raten zu sofortigen Updates.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "sehr schwer",
-    "fuerWen": "Fachsprache – ohne Vorwissen mühsam"
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "In der Programmiersprache PHP wurden zwei kritische Sicherheitslücken entdeckt, die unter der Bezeichnung PHP2Shell bekannt wurden.",
-    "Zahlreiche Behörden, Universitäten und Unternehmen reagierten weltweit mit der vorübergehenden Abschaltung ihrer Internetseiten.",
-    "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus und rief zu sofortigen Updates auf.",
-    "Das Entwicklerteam stellte inzwischen aktualisierte Programmversionen zur Verfügung, um Angriffe durch Cyberkriminelle zu verhindern."
+    "In der weitverbreiteten Programmiersprache PHP wurden zwei kritische Schwachstellen entdeckt, die zu weltweiten Server-Abschaltungen führten.",
+    "Das BSI und internationale IT-Sicherheitsstellen gaben offizielle Warnungen heraus und stuften das Risiko als sehr hoch ein.",
+    "Das PHP-Projekt veröffentlichte umgehend Notfall-Updates, um die Sicherheitslücken zu schließen.",
+    "Bislang wurden laut BSI keine erfolgreichen Angriffe oder Schäden festgestellt, die Welle automatisierter Scan-Versuche läuft jedoch an."
    ],
    "einig": [
     [
-     "Zwei kritische Sicherheitslücken in PHP wurden unter den Kennungen CVE-2026-109618 und CVE-2026-109619 entdeckt.",
+     "Zwei kritische Schwachstellen in der Programmiersprache PHP wurden unter dem Namen PHP2Shell bekannt.",
      [
       "Tagesschau/ARD",
-      "FAZ"
+      "ZDFheute"
      ]
     ],
     [
-     "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus.",
+     "Das BSI gab eine Cybersicherheitswarnung heraus und stufte das Risiko hoch ein.",
      [
       "Tagesschau/ARD",
-      "FAZ"
+      "ZDFheute"
      ]
     ],
     [
-     "Zahlreiche Webseiten wurden weltweit vorsorglich vom Netz genommen.",
+     "Das Entwicklerteam stellte am Mittwoch Notfall-Updates bereit.",
      [
       "Tagesschau/ARD",
-      "BBC"
+      "ZDFheute"
      ]
     ],
     [
-     "Die Sicherheitslücken wurden mit Hilfe von Künstlicher Intelligenz entdeckt.",
+     "Bislang hat das BSI keine Angriffe oder Schäden durch die Lücke festgestellt.",
      [
-      "FAZ",
-      "BBC"
+      "Tagesschau/ARD",
+      "Deutschlandfunk"
      ]
     ]
    ],
    "unklar": [
-    "Das genaue Ausmaß der bereits erfolgten Angriffe ist unklar; laut Deutschlandfunk hat das BSI bisher keine Fälle festgestellt, während Cloudflare laut FAZ und BBC von Millionen Versuchen spricht."
+    "Wie genau die PHP-Fehler entdeckt wurden, ist laut ZDFheute nicht genau bekannt, es spreche aber viel für den Einsatz von Künstlicher Intelligenz."
    ],
    "positionen": [
     [
-     "Marc Henrichmann (Vorsitzender des Parlamentarischen Kontrollgremiums für die Geheimdienste)",
-     "Warnte vor einer neuen Dimension der Cyberbedrohung und einer der ernstesten Sicherheitslücken der vergangenen Jahre.",
-     "Tagesschau/ARD,FAZ"
-    ],
-    [
      "Thomas Caspers (Vizepräsident des BSI)",
-     "Erklärte, es habe bisher keine großen Schäden gegeben, aber ungespeicherte Systeme liefen Gefahr, kurzfristig betroffen zu sein.",
-     "Tagesschau/ARD,FAZ"
+     "Bislang keine großen Schäden gesehen, aber wer keine Aktualisierung installiert, laufe Gefahr, kurzfristig betroffen zu sein.",
+     "Tagesschau/ARD"
     ],
     [
-     "Dennis-Kenji Kipker (IT-Fachmann)",
-     "Bezeichnete das Problem als eine der schwerwiegendsten Sicherheitslücken der letzten fünf Jahre im Fundament des Internets.",
-     "ZDFheute,FAZ"
+     "Marc Henrichmann (Vorsitzender des Parlamentarischen Kontrollgremiums)",
+     "Warnte vor einer neuen Dimension der Cyberbedrohung und sprach von einer der ernstesten Sicherheitslücken der vergangenen Jahre.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Karsten Wildberger (Digitalminister)",
+     "Bisher wurden keine Schäden an IT-Systemen des Bundes verursacht; kein Hinweis auf Betroffenheit des Bundes.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Deutscher Sparkassen- und Giroverband",
+     "Beobachtet die Lage mit Aufmerksamkeit, kann Stand jetzt aber keine Auswirkungen erkennen.",
+     "ZDFheute"
+    ],
+    [
+     "Markus Beckedahl (Digitalexperte)",
+     "Politik und Unternehmen müssen mehr in IT-Sicherheit investieren.",
+     "ZDFheute"
     ]
    ],
-   "fehlend": "Stimmen von Vertretern der betroffenen Internetkonzerne oder Hackergruppen selbst.",
+   "fehlend": "Stimmen von Betreibern gehackter Webseiten oder offizielle Stellungnahmen internationaler Regierungen ausserhalb von Sicherheitsbehörden.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "22.10.26, 10:20",
-     "fokus": "Auswirkungen in Deutschland und BSI-Warnung",
-     "text": "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus.",
+     "datum": "22.10.26, 15:41",
+     "fokus": "Umfassende Berichterstattung mit Reaktionen",
+     "text": "Die Tagesschau liefert viele Details zu den technischen Kennungen, politischen Reaktionen sowie Einschätzungen des BSI und von Experten.",
      "url": "https://www.tagesschau.de/wirtschaft/digitales/php-panne-100.html",
      "video": false,
      "lesbar": {
@@ -2542,9 +2552,9 @@
       "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
       "klasse": 13,
       "minuten": 4,
-      "woerter": 732,
+      "woerter": 824,
       "satzlaenge": 16,
-      "langeWoerter": 42
+      "langeWoerter": 43
      },
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
@@ -2555,19 +2565,19 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "22.10.26, 11:25",
-     "fokus": "Hintergründe zu Cybersicherheit",
-     "text": "Stadtverwaltungen, Unternehmen und Infrastruktur werden immer häufiger Ziel von Hackern.",
-     "url": "https://www.zdfheute.de/wirtschaft/cyberkrimialitaet-ethische-hacker-cybersicherheit-ki-100.html",
+     "datum": "22.10.26, 16:00",
+     "fokus": "Verbraucherfragen und KI-Rolle",
+     "text": "ZDFheute konzentriert sich stark auf Fragen für Verbraucher, die Rolle von KI und ordnet die Auswirkungen auf Banken und Router ein.",
+     "url": "https://www.zdfheute.de/politik/php-sicherheitsluecke-faq-websites-internet-100.html",
      "video": false,
      "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
       "klasse": 12,
-      "minuten": 3,
-      "woerter": 614,
-      "satzlaenge": 15,
-      "langeWoerter": 42
+      "minuten": 4,
+      "woerter": 761,
+      "satzlaenge": 16,
+      "langeWoerter": 41
      },
      "traeger": "ZDF, Anstalt des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
@@ -2578,10 +2588,10 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "22.10.26, 11:26",
-     "fokus": "Aktueller Stand bei den Behörden",
-     "text": "Das Bundesamt für Sicherheit in der Informationstechnik hat bisher keine Fälle festgestellt, bei denen Hacker die Sicherheitslücken ausgenutzt haben.",
-     "url": "https://www.deutschlandfunk.de/viele-internetseiten-nach-it-sicherheitsvorfall-wieder-online-bsi-haelt-gefahr-noch-nicht-fuer-geban-100.html",
+     "datum": "22.10.26, 17:03",
+     "fokus": "Kurzmeldung zum BSI-Stand",
+     "text": "Der Deutschlandfunk meldet kurz und prägnant, dass das BSI bislang keine Angriffe festgestellt hat.",
+     "url": "https://www.deutschlandfunk.de/bsi-stellt-bislang-keine-angriffe-durch-php-sicherheitsluecke-fest-100.html",
      "video": false,
      "lesbar": null,
      "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
@@ -2589,113 +2599,102 @@
      "publikumWert": null
     },
     {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "22.10.26, 09:30",
-     "fokus": "Technische Details und Entstehungsgeschichte",
-     "text": "Vor zwei Tagen wurden die kritischen PHP-Schwachstellen öffentlich bekannt.",
-     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schwachstelle-in-php-was-dahintersteckt-und-nun-jeder-tun-muss-accg-201610624.html",
+     "datum": "22.10.26, 13:45",
+     "fokus": "EU-CERT Warnung",
+     "text": "Der Spiegel verweist kurz auf die Warnung der europäischen IT-Sicherheitsstelle EU-CERT vor millionenfachen Versuchen.",
+     "url": "https://www.spiegel.de/netzwelt/netzpolitik/php2shell-wie-eine-server-schwachstelle-behoerden-aus-dem-netz-kegelte-a-1d993c5a-2f97-4190-86b1-64bc2bf5070b#ref=rss",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 5,
-      "woerter": 917,
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 126,
       "satzlaenge": 14,
-      "langeWoerter": 39
+      "langeWoerter": 38
      },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     },
     {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
      "stamm": true,
-     "datum": "21.10.26, 21:54",
-     "fokus": "Internationale Reaktionen und Agenturen",
-     "text": "International governments and agencies have urged websites to address two critical cyber-security flaws.",
-     "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+     "datum": "22.10.26, 17:07",
+     "fokus": "Einordnung der Krise",
+     "text": "Die Zeit thematisiert die Sicherheitslücke im Rahmen einer Übersicht und verknüpft sie mit weiteren politischen Themen.",
+     "url": "https://www.zeit.de/politik/2026-10/php-sicherheitsluecke-bsi-cybersicherheit-server",
      "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 5,
-      "woerter": 1021,
-      "satzlaenge": 21,
-      "langeWoerter": 29
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Zahlenangaben",
-     "Die BBC nennt eine Schätzung von Cloudflare, dass 70 Prozent des Internets betroffen sein könnten, merkt jedoch an, dies nicht verifizieren zu können. Die FAZ nennt einen Anteil von 70 bis 80 Prozent."
+     "Tiefe der Berichterstattung",
+     "Tagesschau/ARD und ZDFheute bieten sehr ausführliche FAQ und Hintergrundberichte, während Deutschlandfunk und Spiegel sehr kurze Meldungen oder Teaser veröffentlichen."
     ]
    ],
    "wfragen": {
-    "wer": "Das PHP-Projekt, das BSI und internationale Sicherheitsbehörden",
-    "was": "Entdeckung von zwei kritischen Sicherheitslücken in PHP",
+    "wer": "Das PHP-Projekt, das BSI und internationale IT-Sicherheitsexperten.",
+    "was": "Zwei kritische Schwachstellen in der Programmiersprache PHP.",
     "wann": "2026-10-21",
     "wo": "Weltweit",
-    "wie": "Durch das Einspielen von Software-Updates und temporäre Abschaltungen von Webseiten",
-    "warum": "Zum Schutz vor unbefugtem Zugriff und Schadcode-Ausführung, laut Bundesamt für Sicherheit in der Informationstechnik",
-    "quellenlage": "Berichte von Tagesschau/ARD, ZDFheute, Deutschlandfunk, FAZ und BBC"
+    "wie": "Durch Bereitstellung von Notfall-Updates und weltweites Scannen ungeschützter Server durch Kriminelle.",
+    "warum": "Unbeabsichtigte Vorab-Veröffentlichung von Details, laut ZDFheute.",
+    "quellenlage": "Stützt sich auf Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel und Zeit."
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "In der weitverbreiteten Programmiersprache PHP wurden zwei kritische Sicherheitslücken entdeckt, die unter den offiziellen Kennungen CVE-2026-109618 und CVE-2026-109619 registriert wurden. Fachleute fassen diese Schwachstellen zusammen unter dem Namen PHP2Shell. Die Lücken ermöglichen es Cyberkriminellen nach Angaben der beteiligten Medien, ohne vorherige Anmeldung aus der Ferne eigenen Schadcode auf betroffenen Webservern auszuführen.",
-      "Als Reaktion auf die Bedrohung nahmen zahlreiche Betreiber weltweit Webseiten, Onlinedienste und Internetportale vorsorglich vom Netz. Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus und stufte das Risiko mit der Warnstufe 3 beziehungsweise Orange ein. Dies entspricht laut den Mitteilungen einer außerordentlich hohen Gefährdung.",
-      "Das Entwicklerteam des PHP-Projektes veröffentlichte am Mittwochnachmittag aktualisierte Versionen der Webskriptsprache, in denen die Sicherheitslücken geschlossen wurden. Das Bundesamt für Sicherheit in der Informationstechnik und weitere internationale Behörden rieten allen zuständigen Stellen umgehend dazu, die entsprechenden Sicherheitsupdates zu installieren."
+      "Eine gravierende Sicherheitslücke in der weitverbreiteten Programmiersprache PHP hat weltweit zu vorsorglichen Abschaltungen zahlreicher Webseiten und Onlinedienste geführt. Die Programmiersprache dient als technisches Fundament für einen Großteil aller weltweiten Webseiten. Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus und sprach von einem großen Bedrohungspotenzial. Auch Online-Dienste mehrerer Einrichtungen wie Universitäten, Stadtverwaltungen und Kliniken nahmen ihre Angebote vorübergehend vom Netz. Die Entwickler des PHP-Projektes veröffentlichten daraufhin aktualisierte Programmversionen zur Schließung der Sicherheitslücken.",
+      "Die Programmiersprache PHP bildet die Grundlage für viele verschiedene Anwendungen im Internet. Dazu gehören einfache Blogs, große Nachrichtenportale, komplexe Onlineshops sowie Content-Management-Systeme. IT-Fachleute schätzen, dass allein mit der Anwendung WordPress weltweit hunderte Millionen Webseiten betrieben werden. Auf PHP setzen zudem andere Content-Management-Systeme wie Joomla! oder Typo3 sowie das Lernmanagementsystem Moodle. Normale Internetnutzer haben beim alltäglichen Surfen auf dem Smartphone oder PC laut den Berichten keinen direkten Handlungsbedarf.",
+      "Verbraucher können laut den Angaben jedoch indirekt betroffen sein, etwa durch Ausfälle wichtiger Onlinedienste oder potenzielle Datenabflüsse. Wenn eine Website, ein Bürgerportal oder ein Onlineshop die betroffene PHP-Version nutzt und nicht rechtzeitig geschützt wird, können Angreifer Zugriff auf Datenbanken erlangen. Dadurch könnten nach Angaben der Berichte sensible Kundendaten, Passwörter oder Kontaktdaten abfließen. Bank-Anwendungen sind von den PHP-Schwachstellen laut ZDFheute nicht betroffen, da sie mit anderen technischen Komponenten arbeiten. Die digitalen Schaufenster von Banken und Sparkassen wurden jedoch zeitweise vom Netz genommen, da sie herkömmliche PHP-Technik einsetzen."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Die Programmiersprache PHP dient als technische Grundlage für zahlreiche Anwendungen im Internet, darunter Content-Management-Systeme wie WordPress, Joomla oder Typo3 sowie Lernplattformen wie Moodle. Laut Medienberichten läuft die Sprache im Hintergrund von einem großen Teil aller Websites weltweit. IT-Fachleute schätzen, dass allein mit WordPress Hunderte Millionen Webseiten betrieben werden.",
-      "Zu den betroffenen Einrichtungen zählten in Deutschland unter anderem verschiedene Universitäten, Stadtverwaltungen und Kliniken, darunter das Portal der Landeshauptstadt Mainz sowie die Berliner Charité. Auch in anderen Ländern reagierten staatliche Stellen und Organisationen wie die finnische Regierung, das britische Parlament beziehungsweise Edinburgh Council sowie die Wikimedia Foundation, welche die Online-Enzyklopädie Wikipedia betreibt, mit vorübergehenden Abschaltungen.",
-      "Die US-amerikanische National Security Agency sowie das britische National Cyber Security Centre sprachen ähnliche Warnungen aus und empfahlen Organisationen, Systeme bei fehlenden Updates offline zu nehmen. Laut Berichten der Frankfurter Allgemeinen Zeitung suchte ein Fachmann mit Hilfe eines KI-Modells von OpenAI den PHP-Code nach den Schwachstellen ab."
+      "Unter dem Namen PHP2Shell warnen Sicherheitsexperten vor gleich zwei kritischen Schwachstellen in der PHP-Software. Diese wurden unter den offiziellen Kennungen CVE-2026-109618 und CVE-2026-109619 registriert. Das Bundesamt für Sicherheit in der Informationstechnik ordnete das Risiko in seiner Warnung mit der Warnstufe 3 beziehungsweise Orange ein. Dies bedeutet, dass unverzüglich Gegenmaßnahmen ergriffen werden müssen, da eine massive Beeinträchtigung des Regelbetriebs droht. Kriminelle Akteure könnten die Schwachstelle ausnutzen, um ohne vorherige Anmeldung aus der Ferne einen eigenen Schadcode auf betroffenen Servern auszuführen. Dies wird auch als Remote Code Execution bezeichnet.",
+      "In der Praxis ermöglicht dies Angreifern die vollständige Kontrolle über eine Website zu übernehmen. Zudem können sensible Datenbanken und Kundendaten abgegriffen oder die Infrastruktur für weitere Cyberattacken missbraucht werden. Die europäische IT-Sicherheitsstelle EU-CERT warnte laut Spiegel vor millionenfachen Versuchen, Server zu übernehmen. Matthew Prince vom US-Netzwerk- und Sicherheitsunternehmen Cloudflare berichtete im britischen Sender Sky News von einer beachtlichen Welle automatisierter Attacken. Laut Prince begannen kriminelle Akteure unmittelbar nach Bekanntwerden der Details damit, das weltweite Netz nach ungeschützten Servern zu scannen. Binnen weniger Stunden seien die Zugriffsversuche exponentiell gestiegen.",
+      "Die weltweite Welle automatisierter Angriffe läuft nach übereinstimmenden Angaben derzeit an und wird voraussichtlich noch über Wochen und Monate hinweg andauern. Entwarnung kann erst gegeben werden, wenn die breite Masse der Webhoster und Systemadministratoren die Sicherheitsupdates eingespielt hat. Systeme und veraltete PHP-Versionen, für die es keine offiziellen Updates mehr gibt, müssen von Betreibern isoliert oder unverzüglich abgeschaltet werden. Große Webhoster wie Ionos haben nach Angaben der Berichte bereits in ihren Systemen die PHP-Version aktualisiert. Dadurch sind zumindest Websites geschützt, die automatische Sicherheitsupdates vorgesehen haben."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Die Programmiersprache PHP wurde im Jahr 1994 von dem dänisch-kanadischen Programmierer Rasmus Lerdorf als Sammlung von Werkzeugen für seine eigene Homepage entwickelt. Vom Jahr 1997 an entwickelten die israelischen Softwareingenieure Zeev Suraski und Andi Gutmans den Kern weiter, was zu der Version PHP 3 führte. Inzwischen wird PHP als Open-Source-Projekt von einem Entwicklerteam sowie der im Jahr 2021 gegründeten PHP Foundation getragen.",
-      "Die Entdeckung der aktuellen Lücken erfolgte laut übereinstimmenden Medienberichten mithilfe von Künstlicher Intelligenz. Sicherheitsforscher der Firmen Wiz und Calif sowie ein interner Forscher von OpenAI fanden die Schwachstellen im Rahmen eines von OpenAI gestarteten Programms namens Patch the Planet. Die entdeckten Schwachstellen waren nach Angaben der Berichte zuvor mehr als ein Jahrzehnt unentdeckt geblieben.",
-      "Nachdem Details zu den Sicherheitslücken auf Social Media vorzeitig an die Öffentlichkeit gelangten, sahen sich die Verantwortlichen zu einer raschen Veröffentlichung der Warnungen und Updates veranlasst. Laut Aussagen von IT-Experten läuft eine weltweite Welle automatisierter Angriffe an, deren Ausmaß in den kommenden Tagen und Wochen bewertet werden muss."
+      "Über die Entstehung der Sicherheitslücke gibt es verschiedene Hinweise in der Berichterstattung. Laut ZDFheute ist bislang nicht genau bekannt, wie die PHP-Fehler entdeckt worden sind. Es spricht laut ZDFheute jedoch viel dafür, dass sie durch den massiven Einsatz von Künstlicher Intelligenz aufgespürt wurden. Ein Grund für den hohen Handlungsdruck war laut ZDFheute auch, dass die Details der Lücke zuvor unbeabsichtigt an die Öffentlichkeit gelangten. Die Entwickler reagierten am Mittwochnachmittag mit der Veröffentlichung aktualisierter Versionen.",
+      "Die Rolle von Künstlicher Intelligenz wird in den Berichten mehrfach beleuchtet. Neben der möglichen Entdeckung der Fehler durch KI spielt die Technologie auch beim Bedrohungsszenario eine Rolle. Angreifer können laut ZDFheute Künstliche Intelligenz einsetzen, um die Schwachstellen ungeschützter PHP-Server zu scannen. Dadurch können Angriffe in Sekundenschnelle ohne manuellen Aufwand im großen Stil vorgenommen werden. KI wirkt in dieser Krise somit nach Darstellung von ZDFheute als Katalysator auf beiden Seiten beim Angreifen wie beim Verteidigen."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Eine Programmiersprache wie PHP ist eine formale Sprache zur Formulierung von Datenverarbeitungsstrukturen, die von Computern ausgeführt werden können. Im Fall von PHP handelt es sich um eine Webskriptsprache, die auf einem Webserver läuft, bevor eine Internetseite an den Browser eines Anwenders geschickt wird. Auf diese Weise entstehen dynamische Inhalte wie Nutzerkonten oder Onlineshops.",
-      "Das Bundesamt für Sicherheit in der Informationstechnik ist die zentrale Melde- und Cybersicherheitsbehörde der Bundesrepublik Deutschland. Sie ist dem Bundesministerium des Innern unterstellt und hat unter anderem die Aufgabe, Behörden, Unternehmen und Bürger vor Gefahren aus der Informationstechnik zu warnen und Schutzmaßnahmen zu empfehlen.",
-      "Als Open-Source-Projekt wird eine Software bezeichnet, deren Quelltext öffentlich zugänglich ist und von Dritten eingesehen, verändert und genutzt werden kann. Die Entwicklung wird in der Regel durch eine Gemeinschaft von Programmierern oder Stiftungen koordiniert."
+      "Das Bundesamt für Sicherheit in der Informationstechnik ist eine Bundesbehörde in Deutschland. Sie ist für Fragen der IT-Sicherheit und der Informationstechnik zuständig."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Der Vorsitzende des Parlamentarischen Kontrollgremiums für die Geheimdienste, Marc Henrichmann, warnte laut Tagesschau und FAZ vor einer neuen Dimension der Cyberbedrohung und bezeichnete den Vorfall als eine der ernstesten Sicherheitslücken der vergangenen Jahre. Künstliche Intelligenz mache aus Schwachstellen in kurzer Zeit echte Einfallstore, so der CDU-Politiker.",
-      "Der Vizepräsident des Bundesamtes für Sicherheit in der Informationstechnik, Thomas Caspers, erklärte in den Tagesthemen laut Tagesschau und FAZ, dass bisher noch keine großen Schäden festgestellt wurden, eine kurzfristige Ausnutzung der Lücken jedoch wahrscheinlich sei. Er betonte die Bedeutung der schnellen Bereitstellung von Aktualisierungen durch das PHP-Projekt.",
-      "Der IT-Fachmann Dennis-Kenji Kipker sprach in der Bild-Zeitung laut FAZ von einer der schwerwiegendsten Sicherheitslücken der letzten fünf Jahre und nannte PHP den unsichtbaren Motor des Internets. Der japanische Premierminister Sanae Takaichi rief die Öffentlichkeit laut BBC dazu auf, zu prüfen, ob öffentlich zugängliche Webseiten auf PHP basieren."
+      "Das Bundesamt für Sicherheit in der Informationstechnik erklärte laut Tagesschau/ARD und Deutschlandfunk, dass bislang keine Fälle festgestellt wurden, in denen die Sicherheitslücke ausgenutzt wurde. Der Vizepräsident des BSI, Thomas Caspers, sagte in den tagesthemen laut Tagesschau/ARD, dass man bisher keine großen Schäden gesehen habe. Caspers lobte, dass die Sicherheitslücken von zwei Unternehmen entdeckt wurden, die im Rahmen einer koordinierten Offenlegung schnell Sicherheitsaktualisierungen veröffentlichten. Gleichzeitig warnte Caspers, dass wer heute die Aktualisierung nicht installiere, Gefahr laufe, kurzfristig betroffen zu sein.",
+      "Marc Henrichmann, der Vorsitzende des Parlamentarischen Kontrollgremiums für die Geheimdienste, warnte im Handelsblatt laut Tagesschau/ARD vor einer neuen Dimension der Cyberbedrohung. Er sprach von einer der ernstesten Sicherheitslücken der vergangenen Jahre. Digitalminister Karsten Wildberger erklärte laut Bild-Zeitung und Tagesschau/ARD, dass bisher keine Schäden an IT-Systemen des Bundes verursacht wurden. Es gebe keinen Hinweis darauf, dass Webseiten und die IT-Infrastruktur des Bundes von der PHP-Sicherheitslücke betroffen sind.",
+      "Der Deutsche Sparkassen- und Giroverband erklärte laut ZDFheute, dass man die Lage mit besonderer Aufmerksamkeit beobachte, aber Stand jetzt keine Auswirkungen der PHP-Lücken erkennen könne. Digitalexperte Markus Beckedahl forderte laut ZDFheute, dass Politik und Unternehmen mehr in IT-Sicherheit investieren müssen. IT-Sicherheitsberater Linus Neumann bewertete den Einsatz von KI bei der Entdeckung laut ZDFheute langfristig als Chance, kurzfristig aber als Risiko für Angriffe. IT-Sicherheitsexperte Dennis-Kenji Kipker erklärte die Hintergründe bei ZDFheute live."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Betreiber von Webseiten müssen umgehend die verwendete PHP-Version ihrer Serverumgebung überprüfen und die bereitgestellten Sicherheitsupdates einspielen. Das Bundesamt für Sicherheit in der Informationstechnik rät dazu, betroffene Webserver im Zweifel vorübergehend vollständig vom Internet zu trennen, wenn kein Update durchgeführt werden kann.",
-      "Sicherheitsbehörden und Experten gehen davon aus, dass die Überprüfung und Absicherung aller betroffenen Systeme noch über Wochen und Monate hinweg andauern wird. Entwarnung kann erst gegeben werden, wenn die breite Masse der Webhoster und Systemadministratoren die Sicherheitsaktualisierungen vorgenommen hat."
+      "Betreiber von Webseiten müssen die verwendete PHP-Version ihrer Serverumgebung überprüfen. Das Entwicklerteam hat entsprechende Notfall-Updates bereitgestellt, die von Administratoren und Webhoster eingespielt werden müssen. Verbrauchende sollten laut Empfehlungen in den Berichten darauf achten, dass regelmäßige Updates durchgeführt werden und im Idealfall automatische Aktualisierungen eingeschaltet sind.",
+      "Die weltweite Welle automatisierter Angriffe wird nach Einschätzung der Berichte noch über Wochen und Monate hinweg andauern. Eine Entwarnung kann erst gegeben werden, wenn die breite Masse der Webhoster und Systemadministratoren die Sicherheitsupdates eingespielt hat. Veraltete Systeme ohne offizielle Updates müssen isoliert oder abgeschaltet werden."
      ]
     }
    ],
@@ -2711,111 +2710,129 @@
    ],
    "bilder": [
     {
+     "art": "person",
+     "suchbegriff": "Thomas Caspers",
+     "bildunterschrift": "Thomas Caspers, Vizepräsident des Bundesamtes für Sicherheit in der Informationstechnik, ordnete die Sicherheitslücke ein."
+    },
+    {
      "art": "institution",
-     "suchbegriff": "Federal Office for Information Security",
-     "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus."
+     "suchbegriff": "Bundesamt für Sicherheit in der Informationstechnik",
+     "bildunterschrift": "Das Bundesamt für Sicherheit in der Informationstechnik gab offizielle Cybersicherheitswarnungen heraus."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Bonn",
+     "bildunterschrift": "In Bonn befindet sich der Hauptsitz des Bundesamtes für Sicherheit in der Informationstechnik."
     },
     {
      "art": "symbol",
-     "suchbegriff": "PHP logo",
-     "bildunterschrift": "Das Logo der Programmiersprache PHP, die als Grundlage für viele Webseiten dient."
-    },
-    {
-     "art": "building",
-     "suchbegriff": "OpenAI headquarters",
-     "bildunterschrift": "Das Unternehmen OpenAI stellte KI-Modelle zur Verfügung, die bei der Entdeckung der Lücken halfen."
+     "suchbegriff": "Source code",
+     "bildunterschrift": "Quellcode auf einem Bildschirm symbolisiert die programmierbasierte Grundlage der betroffenen Software."
     }
    ],
    "ort": {
     "name": "Bonn, Deutschland"
    },
    "geprueft": true,
-   "korrekturen": [],
-   "wortwarnung": [],
+   "korrekturen": [
+    "Das Datum in wfragen wurde von 2026-10-22 auf das korrekte Berichtsdatum 2026-10-21 korrigiert."
+   ],
+   "wortwarnung": [
+    "massive"
+   ],
    "lernen": {
     "begriffe": [
      [
-      "Programmiersprache",
-      "Eine formale Sprache, mit der Computerprogramme und Webseiten erstellt werden."
+      "PHP",
+      "Eine weitverbreitete Programmiersprache, die als technische Grundlage für viele Internetseiten dient."
      ],
      [
-      "Sicherheitslücke",
-      "Ein Fehler in einem Computersystem, durch den Unbefugte Zugriff erlangen können."
+      "Schwachstelle",
+      "Ein Sicherheitsfehler in einem Computerprogramm, den Kriminelle ausnutzen können."
+     ],
+     [
+      "Server",
+      "Ein leistungsstarker Computer, der Webseiten speichert und im Internet abrufbar macht."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielt Künstliche Intelligenz bei der Entdeckung und Bekämpfung von Sicherheitslücken?",
-     "Wie sollten Institutionen mit der Entdeckung neuer Cybersicherheitsrisiken umgehen?"
+     "Welche Rolle spielen automatische Updates bei der Sicherheit von Webseiten und Geräten?",
+     "Wie bewerten Sie den Einsatz von Künstlicher Intelligenz sowohl bei der Entdeckung als auch beim Ausnutzen von Sicherheitslücken?"
     ],
     "quiz": [
      {
-      "frage": "Welche Behörde gab in Deutschland eine offizielle Cybersicherheitswarnung heraus?",
+      "frage": "Wie lautet der Name der entdeckten Schwachstellen in der PHP-Software?",
       "optionen": [
-       "Das Bundesamt für Sicherheit in der Informationstechnik",
-       "Das Bundeskriminalamt",
-       "Das Auswärtige Amt"
+       "PHP2Shell",
+       "WebShell2026",
+       "SecurePHP"
       ],
       "richtig": 0,
-      "erklaerung": "Laut Tagesschau/ARD und FAZ gab das Bundesamt für Sicherheit in der Informationstechnik eine offizielle Cybersicherheitswarnung heraus."
+      "erklaerung": "In den Berichten wird die Schwachstelle unter dem Namen PHP2Shell beschrieben."
+     },
+     {
+      "frage": "Welche Warnstufe vergab das BSI für die Sicherheitslücke?",
+      "optionen": [
+       "Warnstufe 1 / Rot",
+       "Warnstufe 3 / Orange",
+       "Warnstufe 5 / Schwarz"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das BSI ordnete das Risiko mit der Warnstufe 3 / Orange ein."
+     },
+     {
+      "frage": "Was erklärte das BSI zu eventuellen Schäden?",
+      "optionen": [
+       "Es gab bereits Millionenschäden.",
+       "Es wurden bislang keine Schäden festgestellt.",
+       "Alle Bundesministerien wurden gehackt."
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut BSI wurden bisher keine Angriffe oder Schäden durch die Lücke festgestellt."
      }
     ]
    },
    "einfach": {
-    "vorspann": "In der Programmiersprache PHP wurden zwei große Sicherheitslücken gefunden. Viele Behörden und Firmen haben ihre Webseiten deshalb vorübergehend abgeschaltet.",
+    "vorspann": "In einer sehr wichtigen Programmiersprache wurden zwei große Sicherheitslücken entdeckt. Viele Internetseiten wurden deshalb vorübergehend abgeschaltet.",
     "absaetze": [
-     "PHP ist eine Programmiersprache, die im Hintergrund von vielen Internetseiten läuft.",
-     "Die entdeckten Schwachstellen ermöglichen Kriminellen den Zugriff auf Server.",
-     "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Warnung heraus.",
-     "Das Entwicklerteam stellte am Mittwoch neue Programmversionen zur Verfügung, um die Lücken zu schliessen."
+     "Die Programmiersprache heißt PHP. Sie bildet die Grundlage für viele Webseiten im Internet.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik hat eine offizielle Warnung herausgegeben. Das Risiko wurde als sehr hoch eingestuft.",
+     "Kriminelle könnten die Lücken ausnutzen, um fremden Schadcode auf Servern auszuführen. Deshalb haben die Entwickler sofort Notfall-Updates veröffentlicht.",
+     "Normale Nutzer müssen am eigenen Computer oder Smartphone nichts machen. Sie sollten aber darauf achten, dass wichtige Updates installiert werden."
     ]
    },
    "video": {
     "kurz": [
-     "Zwei kritische Sicherheitslücken in der Programmiersprache PHP wurden entdeckt.",
-     "Zahlreiche Behörden und Unternehmen schalteten ihre Webseiten daraufhin ab.",
-     "Das Bundesamt für Sicherheit in der Informationstechnik rät zu sofortigen Software-Updates."
+     "In der Programmiersprache PHP wurden zwei kritische Sicherheitslücken entdeckt.",
+     "Das Bundesamt für Sicherheit in der Informationstechnik hat eine offizielle Warnung herausgegeben.",
+     "Entwickler haben Notfall-Updates veröffentlicht, um die Systeme zu schützen."
     ],
     "lang": [
-     "In der Programmiersprache PHP wurden zwei schwere Sicherheitslücken entdeckt.",
-     "Das gaben IT-Fachleute am einundzwanzigsten Oktober zweitausendsechsundzwanzig bekannt.",
-     "Die Schwachstellen tragen die Bezeichnungen C V E minus zweitausendsechsundzwanzig minus zehn neun sechs eins acht und C V E minus zweitausendsechsundzwanzig minus zehn neun sechs eins neun.",
-     "Zahlreiche Behörden und Unternehmen nahmen daraufhin weltweit ihre Internetseiten vorübergehend vom Netz.",
-     "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung aus.",
-     "Das Risiko wurde mit der Warnstufe drei beziehungsweise Orange bewertet.",
-     "Das Entwicklerteam von PHP veröffentlichte am Mittwochnachmittag aktualisierte Versionen zur Schließung der Lücken.",
-     "Das Bundesamt für Sicherheit in der Informationstechnik erklärte nach Angaben der Medien, es habe bisher keine großen Schäden gegeben.",
-     "Experten raten allen Betreibern dazu, die Sicherheitsupdates sofort zu installieren."
+     "In der Programmiersprache PHP gibt es zwei kritische Sicherheitslücken. Das teilten das Bundesamt für Sicherheit in der Informationstechnik und Experten mit. Die Schwachstellen erhielten den Namen PHP2Shell. Wegen der Gefahr nahmen viele Webseiten ihre Server vorübergehend vom Netz. Das Bundesamt für Sicherheit in der Informationstechnik stufte das Risiko als sehr hoch ein. Kriminelle könnten die Lücke ausnutzen, um Schadcode auf Servern auszuführen. Die Entwickler haben inzwischen Notfall-Updates veröffentlicht. Bislang wurden nach Angaben der Behörde noch keine Schäden festgestellt. Eine weltweite Welle von automatisierten Angriffen läuft nach Angaben von Experten derzeit an. Webseitenbetreiber müssen die Updates nun dringend installieren."
     ],
     "einfach": [
-     "In der Programmiersprache PHP wurden zwei große Sicherheitslücken gefunden.",
-     "PHP ist eine wichtige Sprache für das Internet.",
-     "Kriminelle könnten diese Lücken für Angriffe nutzen.",
-     "Viele Behörden haben ihre Internetseiten deshalb abgeschaltet.",
-     "Das Bundesamt für Sicherheit in der Informationstechnik empfiehlt schnelle Updates."
+     "In der Programmiersprache PHP gibt es zwei große Sicherheitslücken. Das Bundesamt für Sicherheit in der Informationstechnik hat davor gewarnt. Viele Webseiten wurden deshalb kurzzeitig abgeschaltet. Kriminelle könnten die Lücke für Angriffe nutzen. Die Entwickler haben schnell neue Updates zur Sicherheit veröffentlicht. Bislang sind noch keine Schäden an den Systemen bekannt. Alle Betreiber von Webseiten müssen die Updates jetzt installieren."
     ]
    },
    "kurz": [
-    "Zwei kritische Sicherheitslücken in der Programmiersprache PHP wurden entdeckt.",
-    "Zahlreiche Webseiten und Behörden wurden weltweit vorübergehend vom Netz genommen.",
-    "Das Bundesamt für Sicherheit in der Informationstechnik rief zu sofortigen Updates auf."
+    "Zwei kritische Schwachstellen in der Programmiersprache PHP wurden weltweit bekannt.",
+    "Das Bundesamt für Sicherheit in der Informationstechnik gab eine offizielle Cybersicherheitswarnung heraus.",
+    "Das PHP-Projekt stellte umgehend Notfall-Updates bereit, um die Lücken zu schließen.",
+    "Bislang wurden laut BSI keine erfolgreichen Angriffe oder Schäden festgestellt."
    ],
    "fakten": [
     [
-     "Entdeckte Sicherheitslücken",
-     "2"
+     "Weltweite Webseiten mit WordPress",
+     "400 bis 500 Millionen"
     ],
     [
-     "BSI-Warnstufe",
+     "Warnstufe des BSI",
      "3 / Orange"
-    ],
-    [
-     "Jahr der Erfindung von PHP",
-     "1994"
     ]
    ],
    "dossier": {
     "slug": "sicherheitsluecke-php-2026",
-    "titel": "Sicherheitslücke PHP2Shell"
+    "titel": "Sicherheitslücke in PHP"
    },
    "bildInfo": {
     "titel": "Php-logo.png",
@@ -2852,219 +2869,67 @@
     "lat": 50.735,
     "lon": 7.102
    },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "In der Programmiersprache PHP wurden zwei schwere Sicherheitslücken entdeckt. Da",
-     "d": "ff0a9bd120.mp3",
-     "l": 58.68,
-     "s": [
-      0.25,
-      4.86,
-      10.23,
-      22.13,
-      27.96,
-      34.27,
-      38.92,
-      45.71,
-      53.18
-     ]
-    },
-    {
-     "k": "Zwei kritische Sicherheitslücken in der Programmiersprache PHP wurden entdeckt. ",
-     "d": "5f978c2afb.mp3",
-     "l": 14.98,
-     "s": [
-      0.25,
-      4.96,
-      9.26
-     ]
-    },
-    {
-     "k": "In der Programmiersprache PHP wurden zwei große Sicherheitslücken gefunden. PHP ",
-     "d": "1367db3c22.mp3",
-     "l": 23.62,
-     "s": [
-      0.25,
-      5.54,
-      9.47,
-      13.39,
-      17.96
-     ]
-    },
-    {
-     "k": "Das genaue Ausmaß der bereits erfolgten Angriffe ist unklar; laut Deutschlandfun",
-     "d": "db6e492ae7.mp3",
-     "l": 12.44,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Programmiersprache? Eine formale Sprache, mit der Comput",
-     "d": "ceb8031a1e.mp3",
-     "l": 9.76,
-     "s": [
-      0.25,
-      3.85
-     ]
-    },
-    {
-     "k": "In der weitverbreiteten Programmiersprache PHP wurden zwei kritische Sicherheits",
-     "d": "ec47297e52.mp3",
-     "l": 74.62,
-     "s": [
-      0.25,
-      17.46,
-      22.61,
-      32.25,
-      40.52,
-      50.44,
-      54.7,
-      64.02
-     ]
-    },
-    {
-     "k": "Die Programmiersprache PHP dient als technische Grundlage für zahlreiche Anwendu",
-     "d": "61bbdaca39.mp3",
-     "l": 70.1,
-     "s": [
-      0.25,
-      12.32,
-      18.02,
-      23.63,
-      34.4,
-      48.84,
-      61.32
-     ]
-    },
-    {
-     "k": "Die Programmiersprache PHP wurde im Jahr 1994 von dem dänisch-kanadischen Progra",
-     "d": "ad58f54f68.mp3",
-     "l": 75.52,
-     "s": [
-      0.25,
-      12.61,
-      23.53,
-      32.38,
-      39.68,
-      50.42,
-      56.32,
-      66.25
-     ]
-    },
-    {
-     "k": "Eine Programmiersprache wie PHP ist eine formale Sprache zur Formulierung von Da",
-     "d": "611185d719.mp3",
-     "l": 56.21,
-     "s": [
-      0.25,
-      9.04,
-      18.17,
-      23.07,
-      30.74,
-      41.55,
-      50.42
-     ]
-    },
-    {
-     "k": "Der Vorsitzende des Parlamentarischen Kontrollgremiums für die Geheimdienste, Ma",
-     "d": "f5eb5b4404.mp3",
-     "l": 61.26,
-     "s": [
-      0.25,
-      14.29,
-      20.63,
-      35.03,
-      40.83,
-      51.22
-     ]
-    },
-    {
-     "k": "Betreiber von Webseiten müssen umgehend die verwendete PHP-Version ihrer Serveru",
-     "d": "16c77efa1c.mp3",
-     "l": 36.74,
-     "s": [
-      0.25,
-      9.22,
-      19.66,
-      28.91
-     ]
-    }
-   ]
+   "version": 5
   },
   {
    "id": "einziger-neues-thema-2",
    "rubrik": "Welt",
-   "zeit": "2026-10-22T09:26:23.000Z",
-   "aktualisiert": "aktualisiert um 12:05 Uhr",
-   "titel": "Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich",
-   "vorspann": "Nach einer Lungenoperation benötigt Papst Leo XIV. laut Angaben seiner Ärzte keine weitere medizinische Therapie. Der bösartige Tumor im rechten Lungenflügel war nach Angaben der Ärzte lokal begrenzt geblieben und hatte nicht gestreut.",
+   "zeit": "2026-10-22T15:03:47.000Z",
+   "aktualisiert": "aktualisiert um 17:15 Uhr",
+   "titel": "Keine weitere Krebstherapie nach Operation bei Papst Leo XIV. erforderlich",
+   "vorspann": "Nach einer Operation wegen Lungenkrebs muss sich Papst Leo XIV. laut Angaben des Vatikans keinen weiteren Behandlungen unterziehen. Der Tumor war lokal begrenzt und hat nach Angaben der behandelnden Ärzte nicht gestreut.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Papst Leo XIV. benötigt nach seiner Lungenkrebs-Operation keine weitere medizinische Behandlung.",
-    "Gewebeuntersuchungen bestätigten ein Lungenadenokarzinom, das jedoch lokal begrenzt war und nicht gestreut hat.",
-    "Der Papst hat das Krankenhaus bereits verlassen und plant anstehende Termine und Reisen."
+    "Papst Leo XIV. hat nach einer Lungenkrebs-Operation keine weitere Behandlung nötig.",
+    "Gewebeuntersuchungen bestätigten ein Lungenkarzinom, das jedoch lokal begrenzt war und laut Ärzten nicht gestreut hat.",
+    "Der 71-Jährige wurde nach dem Eingriff am rechten Lungenflügel bereits nach wenigen Tagen aus dem Krankenhaus entlassen.",
+    "Im November plant der Papst eine Reise nach Südamerika."
    ],
    "einig": [
     [
-     "Papst Leo XIV. benötigt nach seiner Lungenkrebs-Operation keine weitere Behandlung.",
+     "Papst Leo XIV. wurde ein Teil seiner Lunge wegen eines Tumors entfernt.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
-      "FAZ",
-      "BBC"
+      "Deutsche Welle",
+      "SRF"
      ]
     ],
     [
-     "Der Tumor war lokal begrenzt und hat nicht gestreut.",
+     "Der Krebs hat nach Angaben der Ärzte nicht gestreut und eine weitere Therapie ist nach Angaben des Vatikans nicht nötig.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
-      "FAZ",
-      "BBC"
+      "Deutschlandfunk",
+      "Deutsche Welle",
+      "SRF"
      ]
     ],
     [
-     "Dem Papst wurde in einer Operation am Dienstag vergangener Woche der untere Lappen seines rechten Lungenflügels entfernt.",
+     "Der Papst plant im November eine Reise nach Südamerika.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
-      "FAZ",
-      "BBC"
-     ]
-    ],
-    [
-     "Der Papst wurde am Samstag nach dem Eingriff aus dem Krankenhaus entlassen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "FAZ",
-      "BBC"
+      "Deutsche Welle",
+      "SRF"
      ]
     ]
    ],
    "unklar": [
-    "Ob die geplante Südamerikareise an den Zustand des Papstes angepasst werden könnte, bleibt laut ZDFheute offen."
+    "Ob das straffe Programm der geplanten Südamerikareise an den Gesundheitszustand des Papstes angepasst wird (laut ZDFheute offen)."
    ],
    "positionen": [
     [
-     "Ärzte (Stefano Margaritora und Luigi Carbone)",
-     "Keine weitere Therapie erforderlich, da der Tumor lokal begrenzt war und nicht gestreut hat.",
-     "Tagesschau/ARD, ZDFheute, FAZ, BBC"
-    ],
-    [
-     "Vatikan",
-     "Teilte die medizinischen Erklärungen der Ärzte offiziell mit.",
-     "Tagesschau/ARD, ZDFheute, BBC"
+     "Stefano Margaritora (Chefchirurg) und Luigi Carbone (Leibarzt)",
+     "Der Tumor war lokal begrenzt, eine weitere onkologische Therapie ist nicht erforderlich.",
+     "Tagesschau/ARD, ZDFheute, SRF"
     ]
    ],
-   "fehlend": "Stimmen von Gläubigen oder offiziellen Regierungsvertretern zu den politischen Telefonaten des Papstes.",
+   "fehlend": "Stimmen von Kirchenvertretern außerhalb des Vatikans oder externe medizinische Zweitmeinungen.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
@@ -3072,8 +2937,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "21.10.26, 22:47",
-     "fokus": "Allgemeine Gesundheitsmeldung",
-     "text": "Berichtet sachlich über die Mitteilung des Vatikans zur nicht notwendigen Nachbehandlung und die bevorstehende Südamerikareise.",
+     "fokus": "Medizinischer Befund und Reisepläne",
+     "text": "Berichtet detailliert über die Erklärung des Vatikans und die geplante Peru-Reise des Papstes.",
      "url": "https://www.tagesschau.de/ausland/europa/papst-leo-lungenkrebs-100.html",
      "video": false,
      "lesbar": {
@@ -3095,8 +2960,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "21.10.26, 21:36",
-     "fokus": "Medizinische Details und Termine",
-     "text": "Liefert zusätzliche Erklärungen von Experten zu Lungenadenokarzinomen und den gesundheitlichen Auswirkungen des Lungenlappenverlusts.",
+     "fokus": "Hintergrunddetails und Lungenkrebsarten",
+     "text": "Liefert zusätzliche Erklärungen von Experten zum Adenokarzinom und zum genauen Verlauf der Genesung.",
      "url": "https://www.zdfheute.de/panorama/papst-leo-krebs-erkrankung-100.html",
      "video": false,
      "lesbar": {
@@ -3104,7 +2969,7 @@
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 9,
       "minuten": 2,
-      "woerter": 440,
+      "woerter": 434,
       "satzlaenge": 16,
       "langeWoerter": 33
      },
@@ -3117,7 +2982,7 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "22.10.26, 11:26",
+     "datum": "22.10.26, 17:03",
      "fokus": "–",
      "text": "Der Lungenkrebs bei Papst Leo XIV. hat offenbar nicht gestreut.",
      "url": "https://www.deutschlandfunk.de/aerzte-krebs-bei-papst-leo-hat-nicht-gestreut-106.html",
@@ -3128,138 +2993,110 @@
      "publikumWert": null
     },
     {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
      "stamm": true,
-     "datum": "21.10.26, 22:09",
-     "fokus": "Klinikstandort und Vorgeschichte",
-     "text": "Erwähnt die Gemelli-Klinik in Rom namentlich und geht auf die Bekanntgabe des Lungenknotens ein.",
-     "url": "https://www.faz.net/aktuell/gesellschaft/menschen/papst-leo-xiv-aerzte-geben-nach-lungenkrebs-op-entwarnung-201609884.html",
+     "datum": "22.10.26, 09:01",
+     "fokus": "–",
+     "text": "Analysierte Gewebeproben zeigen: Der entfernte Tumor des Papstes war begrenzt. Der DW-Nachrichtenüberblick.",
+     "url": "https://www.dw.com/de/news-kompakt-papst-leo-xiv-braucht-keine-weitere-krebsbehandlung/a-79728632?maca=de-rss-de-all-1119-rdf",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 378,
-      "satzlaenge": 17,
-      "langeWoerter": 33
+      "klasse": 12,
+      "minuten": 3,
+      "woerter": 650,
+      "satzlaenge": 16,
+      "langeWoerter": 41
      },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
      "publikumWert": null
     },
     {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "21.10.26, 22:09",
-     "fokus": "Diplomatische Aktivitäten",
-     "text": "Führt zusätzlich die Telefonate des Papstes mit Wladimir Putin und Wolodymyr Selenskyj in den Tagen nach der Operation auf.",
-     "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
+     "name": "SRF",
+     "typ": "öffentlich-rechtlich (Schweiz)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "21.10.26, 21:52",
+     "fokus": "Persönliche Details zum Papst",
+     "text": "Erwähnt sportliche Aktivitäten wie Tennis und den Nichtraucherstatus des Papstes.",
+     "url": "https://www.srf.ch/news/international/adenokarzinom-entfernt-krebs-hat-bei-papst-leo-xiv-nicht-gestreut",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 307,
-      "satzlaenge": 26,
-      "langeWoerter": 28
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 144,
+      "satzlaenge": 14,
+      "langeWoerter": 36
      },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
+     "finanzierung": "Rundfunkabgabe",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Erwähnung diplomatischer Kontakte",
-     "Die BBC berichtet als einzige Quelle über die Telefonate des Papstes mit Putin und Selenskyj."
-    ],
-    [
-     "Klinikname",
-     "Die FAZ und BBC nennen explizit die Gemelli-Klinik in Rom als Ort der Behandlung."
+     "Zusatzinformationen zum Gesundheitszustand",
+     "ZDFheute und SRF nennen Details wie den Sport und den Nichtraucherstatus des Papstes sowie medizinische Erklärungen zum Lungenadenokarzinom, die in kürzeren Berichten fehlen."
     ]
    ],
    "wfragen": {
     "wer": "Papst Leo XIV. und seine behandelnden Ärzte",
-    "was": "Keine weitere Krebstherapie nach Lungenoperation erforderlich",
+    "was": "Keine weitere Krebstherapie nach Lungenkrebs-Operation nötig",
     "wann": "21.10.2026",
-    "wo": "Vatikan und Rom",
-    "wie": "Laut medizinischem Bulletin nach Gewebeuntersuchungen",
-    "warum": "Tumor war lokal begrenzt und hat nicht gestreut",
-    "quellenlage": "Mitteilungen des Vatikans sowie Berichte von Tagesschau/ARD, ZDFheute, Deutschlandfunk, FAZ und BBC"
+    "wo": "Vatikanstadt",
+    "wie": "Mitteilung des Vatikans basierend auf Gewebeuntersuchungen",
+    "warum": "Krebs war lokal begrenzt und hat laut Ärzten nicht gestreut",
+    "quellenlage": "Mitteilungen des Vatikans und Erklärungen der behandelnden Ärzte"
    },
    "artikel": [
     {
-     "ueberschrift": "Das ist passiert",
+     "ueberschrift": "Medizinischer Befund",
      "absaetze": [
-      "Papst Leo XIV. muss sich nach seiner Lungenkrebs-Operation keiner weiteren Behandlung unterziehen. Das teilte der Vatikan am Abend mit. Gewebeuntersuchungen haben die Diagnose eines Lungenkarzinoms bestätigt, jedoch blieb der Tumor lokal begrenzt. Eine onkologische Beurteilung ergab, dass keine weitere Therapie erforderlich ist.",
-      "Laut Angaben der behandelnden Ärzte hat der Krebs nicht gestreut. Die histologischen Befunde sowie die molekularbiologischen Untersuchungen des während des Eingriffs entfernten Gewebematerials wurden ausgewertet und dokumentiert. Die Ergebnisse bestätigten, dass es sich um ein Lungenadenokarzinom handelte.",
-      "Der Eingriff hatte an einem Dienstag der vergangenen Woche in der Gemelli-Klinik in Rom stattgefunden. Dabei war dem 71-jährigen Kirchenoberhaupt der untere Lappen seines rechten Lungenflügels entfernt worden, in dem sich der bösartige Tumor befand. Die Operation dauerte 90 Minuten."
+      "Papst Leo XIV. muss sich nach seiner Operation am rechten Lungenflügel laut Angaben der behandelnden Ärzte keiner weiteren Behandlung unterziehen. Das teilte der Vatikan mit. Gewebeuntersuchungen haben die Diagnose eines Lungenkarzinoms bestätigt. Der Tumor war laut den behandelnden Ärzten jedoch lokal begrenzt geblieben.",
+      "Eine anschließende onkologische Beurteilung hat laut Angaben der Mediziner bestätigt, dass keine weitere Therapie erforderlich ist. Zu den behandelnden Medizinern gehören der Chefchirurg Stefano Margaritora und der Leibarzt des Papstes, Luigi Carbone. Die finalen histologischen Befunde sowie molekularbiologischen Untersuchungen des während des Eingriffs entnommenen Gewebematerials wurden demnach ausgewertet. Die Ergebnisse bestätigten das Vorliegen eines Lungenadenokarzinoms.",
+      "Laut Berichten von ZDFheute handelt es sich bei einem Lungenadenokarzinom um die häufigste Form von Lungenkrebs. Die Sorge um das Oberhaupt der Kirche war groß. Es gab Fragen, ob der Krebs gestreut haben könnte. Die behandelnden Ärzte erklärten jedoch offiziell, dass die Erkrankung laut ihren Untersuchungen nicht gestreut hat."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten",
+     "ueberschrift": "Ablauf des Eingriffs und Entlassung",
      "absaetze": [
-      "Bereits am Samstag nach dem Eingriff konnte Papst Leo XIV. das Krankenhaus im Nordwesten der italienischen Hauptstadt verlassen. Am darauffolgenden Sonntag trat er wieder ans Fenster, um das Angelus-Gebet vor Zehntausenden Gläubigen auf dem Petersplatz zu sprechen.",
-      "Am Mittwoch wandte sich der Papst bei einer Generalaudienz auf dem Petersplatz an die Gläubigen. Laut ZDFheute versammelten sich mehr als 30.000 Menschen auf dem Petersplatz. Er kündigte an, seine Amtsgeschäfte Schritt für Schritt wieder aufzunehmen.",
-      "Vor der Operation hatte der Papst während des Sonntagsgebets mitgeteilt, dass Ärzte einen Knoten in seiner Lunge entdeckt hatten. Damals erklärte er, dass dieser Knoten im Anfangsstadium entdeckt worden sei."
+      "Bei dem 71-jährigen Kirchenoberhaupt war in der vergangenen Woche Dienstag in einer Operation der untere Lappen seines rechten Lungenflügels entfernt worden. In diesem Bereich befand sich der bösartige Tumor. Der Eingriff fand laut ZDFheute in Rom statt. Die Tagesschau und SRF berichten ebenfalls von der Entnahme des unteren rechten Lungenlappens.",
+      "Bereits am folgenden Samstag wurde Papst Leo XIV. wieder aus dem Krankenhaus entlassen. Nach nur wenigen Tagen im Krankenhaus konnte er die Klinik verlassen. Tags darauf hielt er bereits wieder das Mittagsgebet auf dem Petersplatz.",
+      "Mehr als 30.000 Menschen versammelten sich laut ZDFheute am Sonntag auf dem Petersplatz, um dem Gebet des Papstes zu folgen. Bei diesem öffentlichen Auftritt kündigte das Kirchenoberhaupt an, seine Amtsgeschäfte Schritt für Schritt wieder aufzunehmen. Wenige Tage nach der Operation zeigte sich der Pontifex wieder den Gläubigen."
      ]
     },
     {
-     "ueberschrift": "Hintergrund",
+     "ueberschrift": "Hintergrund und Person",
      "absaetze": [
-      "Leo XIV. war im Mai des vergangenen Jahres als Oberhaupt der Kirche auf den verstorbenen Papst Franziskus gefolgt. Der 71-Jährige gehört zu den verhältnismäßig jungen Päpsten. Seit seiner Wahl waren nach Angaben der Berichte keine gesundheitlichen Probleme bekannt geworden.",
-      "Die Sorge um das Oberhaupt der katholischen Kirche war nach Bekanntwerden der Erkrankung groß gewesen. Experten hatten im Vorfeld erklärt, dass im besten Fall nach einer Operation ohne Streuung des Krebses nur noch Nachsorge anstehe. Der Verlust eines Lungenlappens geht laut medizinischen Einschätzungen mit einem geringen Leistungsverlust der Lunge einher.",
-      "In den Tagen nach seiner Operation nutzte der Papst seine Zeit auch für Kontakte. Laut BBC telefonierte er mit dem russischen Präsidenten Wladimir Putin, um eine Feuerpause in der Stadt Oleshky zu fordern. Am Montag folgte ein Telefonat mit dem ukrainischen Präsidenten Wolodymyr Selenskyj."
+      "Papst Leo XIV. war im Mai des vergangenen Jahres als Oberhaupt der katholischen Kirche auf den verstorbenen Papst Franziskus gefolgt. Der 71-Jährige gehört in der Geschichte der katholischen Kirche zu den verhältnismäßig jungen Päpsten. Seit seiner Wahl waren laut Tagesschau keine gesundheitlichen Probleme bekannt geworden. SRF ergänzt, dass der Papst Sport treibt, unter anderem Tennis spielt und nicht als Raucher bekannt ist.",
+      "Der Verlust eines Lungenlappens muss laut medizinischen Expertenberichten bei ZDFheute nicht dramatisch sein. Der Verlust eines der fünf Lappen gehe mit etwa zehn bis zwölfundzwanzig Prozent Leistungsverlust der Lunge einher. Dieser Verlust falle im Alltag oft kaum auf. Experten hatten vor den Ergebnissen erklärt, dass im besten Fall bei nicht gestreutem Krebs nur noch Nachsorge ansteht."
      ]
     },
     {
-     "ueberschrift": "Zum Verständnis",
+     "ueberschrift": "Geplante Auslandsreisen",
      "absaetze": [
-      "Ein Lungenadenokarzinom ist Medizinern zufolge die häufigste Form von Lungenkrebs.",
-      "Der Verlust eines Lungenlappens führt nach Expertenangaben zu einem Leistungsverlust der Lunge von etwa 10 bis 20 Prozent."
+      "Für den Papst steht in den kommenden Wochen ein Terminprogramm an. Im kommenden Monat November ist eine fast zweiwöchige Reise nach Südamerika geplant. Dabei will das Kirchenoberhaupt Uruguay, Argentinien und Peru besuchen, wie verschiedene Medien berichten. In Peru war der Papst vor seiner Zeit im Vatikan viele Jahre als Missionar und Bischof tätig.",
+      "Die geplante Reise stand laut ZDFheute zwischenzeitlich auf der Kippe. Einer der behandelnden Ärzte hatte jedoch zuvor versichert, dass aus medizinischer Sicht nichts gegen die Reise spreche. Mit den nun veröffentlichten Untersuchungsergebnissen dürfte der Südamerikareise nichts mehr im Wege stehen. Offen ist laut ZDFheute lediglich, ob das sportliche Programm an den Zustand des Papstes angepasst werden könnte."
      ]
     },
     {
-     "ueberschrift": "Reaktionen",
+     "ueberschrift": "Reaktionen und Offizielle Erklärungen",
      "absaetze": [
-      "Der Chefchirurg Stefano Margaritora und der Leibarzt des Papstes, Luigi Carbone, erklärten in einer Mitteilung, dass die onkologische Beurteilung keine weitere Therapie erfordere. Die behandelnden Ärzte betonten, dass die Erkrankung lokal begrenzt geblieben sei.",
-      "Der Vatikan verbreitete die Erklärungen der Mediziner und informierte die Öffentlichkeit am Abend über den gesundheitlichen Verlauf des Kirchenoberhauptes."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Für den Papst steht in den kommenden Wochen ein Terminprogramm an. Einer seiner behandelnden Ärzte versicherte laut ZDFheute, dass aus medizinischer Sicht nichts gegen geplante Reisen spreche. Am 27. Oktober ist ein Termin in Assisi vorgesehen.",
-      "Im kommenden Monat plant der Papst eine fast zweiwöchige Reise nach Südamerika. Diese soll ihn vom 6. bis 17. November nach Uruguay, Argentinien und Peru führen. In Peru war er vor seiner Zeit im Vatikan als Missionar und Bischof tätig gewesen."
+      "Der Vatikan veröffentlichte eine offizielle Erklärung der Ärzte Stefano Margaritora und Luigi Carbone. Darin hieß es, eine anschließende onkologische Beurteilung habe bestätigt, dass keine weitere Therapie erforderlich sei. Die Ärzte erklärten zudem, dass der Tumor lokal begrenzt geblieben ist.",
+      "Kreis der behandelnden Ärzte betonte laut ZDFheute, dass die endgültigen histologischen Befunde und molekularbiologischen Untersuchungen ausgewertet wurden."
      ]
     }
    ],
    "zeitleiste": [
     [
-     "Sonntag, 18. Oktober 2026",
-     "Papst Leo XIV. spricht das Angelus-Gebet vom Fenster des Apostolischen Palastes vor Gläubigen auf dem Petersplatz."
-    ],
-    [
-     "6. bis 17. November 2026",
-     "Geplante Auslandsreise des Papstes nach Südamerika, unter anderem nach Peru."
-    ],
-    [
-     "Vor einer Woche",
-     "Papst Leo XIV. kündigte beim Angelus-Gebet an, dass ein Lungenknoten entfernt werden muss."
-    ],
-    [
      "Dienstag",
      "Der untere rechte Lungenlappen mit einem Tumor wurde in einer Operation in der Gemelli-Klinik entfernt."
-    ],
-    [
-     "Samstag",
-     "Papst Leo XIV. wurde nach wenigen Tagen aus dem Krankenhaus entlassen."
     ],
     [
      "Sonntag",
@@ -3286,7 +3123,23 @@
      "Der Vatikan und die behandelnden Ärzte geben bekannt, dass keine weitere Krebstherapie nötig ist."
     ],
     [
-     "6. bis 17. November 2026",
+     "Dienstag, vergangene Woche",
+     "Der untere Lappen des rechten Lungenflügels mit einem bösartigen Tumor wurde in einer Operation entfernt."
+    ],
+    [
+     "Samstag",
+     "Papst Leo XIV. wurde nach wenigen Tagen aus dem Krankenhaus entlassen."
+    ],
+    [
+     "Sonntag",
+     "Der Papst sprach das traditionelle Gebet vor Gläubigen auf dem Petersplatz."
+    ],
+    [
+     "21.10.2026",
+     "Der Vatikan und die behandelnden Ärzte gaben bekannt, dass keine weitere Krebstherapie nötig ist."
+    ],
+    [
+     "November 2026",
      "Geplante Südamerikareise des Papstes nach Uruguay, Argentinien und Peru."
     ]
    ],
@@ -3299,114 +3152,120 @@
     {
      "art": "ort",
      "suchbegriff": "St. Peter's Square",
-     "bildunterschrift": "Der Petersplatz in Rom, wo sich der Papst nach der Operation den Gläubigen zeigte."
+     "bildunterschrift": "Der Petersplatz in Rom, wo der Papst das Gebet sprach."
     },
     {
      "art": "institution",
-     "suchbegriff": "Agostino Gemelli University Polyclinic",
-     "bildunterschrift": "Die Gemelli-Klinik in Rom, in der die Lungenoperation des Papstes durchgeführt wurde."
-    },
-    {
-     "art": "symbol",
      "suchbegriff": "Vatican City",
-     "bildunterschrift": "Der Vatikan, von dem aus die Erklärungen zum Gesundheitszustand des Papstes veröffentlicht wurden."
+     "bildunterschrift": "Der Staat der Vatikanstadt, von dem aus die gesundheitlichen Mitteilungen veröffentlicht wurden."
     }
    ],
    "ort": {
-    "name": "Vatikan und Rom, Italien"
+    "name": "Vatikanstadt, Vatikan"
    },
    "geprueft": true,
    "korrekturen": [
-    "Entfernung nicht belegter wertender Adjektive und nicht exakt belegter Datumsangaben im Entwurf zur Wahrung neutraler Formulierungen."
+    "Das Datum im Artikel (21. Oktober 2026) wurde beibehalten, da es im Programmtext der Tagesschau genannt wird.",
+    "Werte und Angaben zur Lungenleistung wurden sprachlich an die Angaben in den Berichten angepasst.",
+    "Aussagen über den Zustand wurden durchgehend den Ärzten oder dem Vatikan zugeordnet."
    ],
-   "wortwarnung": [],
+   "wortwarnung": [
+    "dramatisch"
+   ],
    "lernen": {
     "begriffe": [
      [
-      "Lungenadenokarzinom",
-      "Das ist die medizinische Bezeichnung für eine bestimmte und sehr häufige Art von Lungenkrebs."
+      "Lungenkarzinom",
+      "Ein Lungenkarzinom ist ein bösartiger Tumor in der Lunge, der auch als Lungenkrebs bezeichnet wird."
      ],
      [
-      "Generalaudienz",
-      "Das ist ein Treffen des Papstes mit vielen Gläubigen auf dem Petersplatz in Rom."
+      "Vatikan",
+      "Der Vatikan ist ein eigenständiger Staat in Rom und der Ort, von dem aus der Papst die katholische Kirche leitet."
+     ],
+     [
+      "Onkologie",
+      "Die Onkologie ist ein Fachbereich der Medizin, der sich mit der Behandlung von Krebserkrankungen beschäftigt."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen offizielle Berichte von Ärzten und dem Vatikan für die Berichterstattung über den Gesundheitszustand des Papstes?",
-     "Warum ist es für Medien wichtig, zwischen nachgewiesenen medizinischen Fakten und offenen Fragen zu unterscheiden?"
+     "Welche Vorteile und Nachteile hat es, wenn medizinische Informationen über das Staatsoberhaupt der katholischen Kirche öffentlich gemacht werden?",
+     "Wie berichten verschiedene Medien übereinstimmend über die gesundheitliche Situation des Papstes?"
     ],
     "quiz": [
      {
-      "frage": "Welcher Teil der Lunge wurde dem Papst bei der Operation entfernt?",
+      "frage": "Welcher Teil der Lunge wurde Papst Leo XIV. entfernt?",
       "optionen": [
-       "Der gesamte linke Lungenflügel",
        "Der untere Lappen des rechten Lungenflügels",
-       "Zwei Lappen der linken Lunge"
+       "Der komplette linke Lungenflügel",
+       "Beide oberen Lungenlappen"
       ],
-      "richtig": 1,
-      "erklaerung": "In den Berichten von Tagesschau/ARD, ZDFheute, FAZ und BBC steht übereinstimmend, dass der untere Lappen des rechten Lungenflügels entfernt wurde."
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmender Berichte von Tagesschau, ZDFheute, Deutscher Welle und SRF wurde dem Papst der untere Lappen des rechten Lungenflügels entfernt."
      },
      {
-      "frage": "Muss sich der Papst nach der Operation noch weiter behandeln lassen?",
+      "frage": "Was ergaben die Gewebeuntersuchungen des Tumors nach Angaben des Vatikans?",
       "optionen": [
-       "Ja, eine Chemo-Therapie ist geplant",
-       "Nein, laut den Ärzten ist keine weitere Therapie erforderlich",
-       "Ja, er muss für Monate im Krankenhaus bleiben"
+       "Der Krebs hat sich im gesamten Körper ausgebreitet.",
+       "Der Tumor war lokal begrenzt und eine weitere Therapie ist nicht nötig.",
+       "Es handelte sich um eine gutartige Zyste."
       ],
       "richtig": 1,
-      "erklaerung": "Laut Tagesschau/ARD, ZDFheute, FAZ und BBC hat eine onkologische Beurteilung bestätigt, dass keine weitere Therapie nötig ist."
+      "erklaerung": "Mehrere Medien wie die Tagesschau und ZDFheute berichten übereinstimmend, dass der Tumor lokal begrenzt war und keine weitere Therapie erforderlich ist."
      },
      {
-      "frage": "In welcher Stadt wurde die Operation durchgeführt?",
+      "frage": "Welche Auslandsreise plant der Papst für den kommenden Monat?",
       "optionen": [
-       "In Paris",
-       "In Rom",
-       "In Buenos Aires"
+       "Eine Reise nach Nordamerika",
+       "Eine Reise nach Südamerika",
+       "Eine Reise nach Asien"
       ],
-      "richtig": 1,
-      "erklaerung": "Die Berichte von FAZ und BBC nennen die Gemelli-Klinik in Rom als Ort des Eingriffs."
+      "richtig": 2,
+      "erklaerung": "Hinweis: Die richtige Antwort ist Südamerika. (Option 3 ist als Ablenkung gedacht, da in den Berichten Uruguay, Argentinien und Peru genannt werden)."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Papst Leo XIV. hat eine Lungenkrebs-Operation gut überstanden.",
+    "vorspann": "Papst Leo XIV. war an der Lunge operiert worden. Nun gibt es gute Nachrichten aus dem Vatikan.",
     "absaetze": [
-     "Nach Angaben seiner Ärzte muss sich der Papst nicht weiter behandeln lassen.",
-     "Der bösartige Tumor in seiner Lunge hatte nicht gestreut.",
-     "Der Papst hat das Krankenhaus in Rom bereits nach wenigen Tagen verlassen.",
-     "Nun plant er schon seine nächsten Reisen und Auftritte vor Gläubigen."
+     "Vor wenigen Tagen wurde dem Papst ein bösartiger Tumor aus der Lunge entfernt.",
+     "Nun haben die Ärzte untersucht, ob sich der Krebs im Körper ausgebreitet hat.",
+     "Nach Angaben der Ärzte ist der Tumor lokal geblieben und hat nicht gestreut.",
+     "Deshalb muss sich der Papst keiner weiteren Krebsbehandlung unterziehen.",
+     "Im November will der Papst nach Südamerika reisen."
     ]
    },
    "video": {
     "kurz": [
-     "Papst Leo XIV. braucht nach einer Lungenkrebs-Operation keine weitere Behandlung.",
-     "Der Tumor war nach Angaben seiner Ärzte lokal begrenzt und hat nicht gestreut.",
-     "Der Papst hat das Krankenhaus in Rom bereits verlassen."
+     "Papst Leo XIV. braucht nach seiner Lungenkrebs-Operation keine weitere Behandlung.",
+     "Der Tumor war lokal begrenzt und hat nach Angaben der Ärzte nicht gestreut.",
+     "Im November plant der Papst eine Reise nach Südamerika."
     ],
     "lang": [
      "Papst Leo XIV. muss sich nach einer Lungenkrebs-Operation keiner weiteren Behandlung unterziehen.",
-     "Das teilte der Vatikan am Abend mit.",
-     "Nach Angaben der behandelnden Ärzte Stefano Margaritora und Luigi Carbone hat der Krebs nicht gestreut.",
-     "Der Tumor war demnach lokal begrenzt geblieben.",
-     "Dem einundsiebzig Jahre alten Kirchenoberhaupt war in der Gemelli-Klinik in Rom der rechte Lungenlappen entfernt worden.",
-     "Am Samstag wurde er aus dem Krankenhaus entlassen.",
-     "Ob die für November geplante Südamerikareise angepasst wird, ist nach Angaben des ZDF noch offen.",
-     "Ein Lungenadenokarzinom ist Medizinern zufolge die häufigste Form von Lungenkrebs.",
-     "Der Papst zeigte sich bereits wieder auf dem Petersplatz.",
-     "Er plant nun seine anstehenden Termine und Reisen."
+     "Das teilte der Vatikan am Mittwoch mit.",
+     "Dem einundsiebzigjährigen Oberhaupt der katholischen Kirche war in der vergangenen Woche ein Teil der rechten Lunge entfernt worden.",
+     "Gewebeuntersuchungen bestätigten ein Lungenkarzinom.",
+     "Der Tumor war laut den behandelnden Ärzten Stefano Margaritora und Luigi Carbone aber lokal begrenzt.",
+     "Eine anschließende onkologische Beurteilung bestätigte nach Angaben des Vatikans, dass keine weitere Therapie erforderlich ist.",
+     "ZDFheute und andere Medien berichten, dass der Krebs nicht gestreut hat und der Papst krebsfrei ist.",
+     "Der Papst wurde bereits am Samstag aus dem Krankenhaus entlassen und zeigte sich am Sonntag auf dem Petersplatz.",
+     "Im November plant das Kirchenoberhaupt eine Reise nach Uruguay, Argentinien und Peru.",
+     "Ob das Programm der Reise angepasst wird, ist nach Angaben von Medienberichten noch offen."
     ],
     "einfach": [
-     "Papst Leo XIV. hatte eine Operation an der Lunge.",
-     "Sein Arzt erklärte, dass der Krebs nicht weiter gestreut hat.",
-     "Deshalb braucht der Papst keine neue Behandlung.",
-     "Er hat das Krankenhaus schon vor einigen Tagen verlassen.",
-     "Jetzt will er bald wieder arbeiten und reisen."
+     "Papst Leo XIV. war an der Lunge operiert worden.",
+     "Nun gibt es gute Nachrichten aus dem Vatikan.",
+     "Der Tumor war nach Angaben der Ärzte lokal begrenzt.",
+     "Er hat sich nicht im Körper ausgebreitet.",
+     "Der Papst braucht deshalb keine weitere Behandlung.",
+     "Im November plant er eine Reise nach Südamerika."
     ]
    },
    "kurz": [
-    "Papst Leo XIV. benötigt nach einer Lungenkrebs-Operation keine weitere medizinische Behandlung.",
-    "Nach Angaben seiner Ärzte war der bösartige Tumor lokal begrenzt und hat nicht gestreut.",
-    "Der Papst hat das Krankenhaus bereits verlassen und plant anstehende Reisen."
+    "Papst Leo XIV. benötigt nach seiner Lungenkrebs-Operation keine weitere Therapie.",
+    "Der Tumor war lokal begrenzt und hat laut Ärzten nicht gestreut.",
+    "Der 71-Jährige wurde nach wenigen Tagen aus dem Krankenhaus entlassen.",
+    "Im November plant der Papst eine Reise nach Südamerika."
    ],
    "fakten": [
     [
@@ -3414,16 +3273,16 @@
      "71 Jahre"
     ],
     [
-     "Dauer der Operation",
-     "90 Minuten"
+     "Datum der Entlassung aus dem Krankenhaus",
+     "Samstag"
     ],
     [
-     "Leistungsverlust der Lunge",
-     "10 bis 20 Prozent"
+     "Geplante Reisedauer nach Südamerika",
+     "Fast zwei Wochen"
     ]
    ],
    "dossier": {
-    "slug": "gesundheit-papst-leo-xiv",
+    "slug": "paps-leo-gesundheit",
     "titel": "Gesundheitszustand von Papst Leo XIV."
    },
    "bildInfo": {
@@ -3490,213 +3349,76 @@
      "hinweis": "Symbolbild"
     }
    ],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Papst Leo XIV. muss sich nach einer Lungenkrebs-Operation keiner weiteren Behand",
-     "d": "9ba6091585.mp3",
-     "l": 45.48,
-     "s": [
-      0.25,
-      6.78,
-      9.46,
-      16.0,
-      18.97,
-      25.12,
-      28.24,
-      34.22,
-      39.18,
-      42.19
-     ]
-    },
-    {
-     "k": "Papst Leo XIV. braucht nach einer Lungenkrebs-Operation keine weitere Behandlung",
-     "d": "1a3d1011a8.mp3",
-     "l": 13.59,
-     "s": [
-      0.25,
-      5.8,
-      10.45
-     ]
-    },
-    {
-     "k": "Papst Leo XIV. hatte eine Operation an der Lunge. Sein Arzt erklärte, dass der K",
-     "d": "2ab3ce4ba2.mp3",
-     "l": 20.27,
-     "s": [
-      0.25,
-      5.06,
-      9.38,
-      12.89,
-      16.92
-     ]
-    },
-    {
-     "k": "Ob die geplante Südamerikareise an den Zustand des Papstes angepasst werden könn",
-     "d": "207f504f8e.mp3",
-     "l": 7.21,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Lungenadenokarzinom? Das ist die medizinische Bezeichnun",
-     "d": "36eee2edfe.mp3",
-     "l": 10.1,
-     "s": [
-      0.25,
-      3.96
-     ]
-    },
-    {
-     "k": "Papst Leo XIV. muss sich nach seiner Lungenkrebs-Operation keiner weiteren Behan",
-     "d": "de56eb672c.mp3",
-     "l": 40.48,
-     "s": [
-      0.25,
-      2.33,
-      7.36,
-      10.22,
-      17.11,
-      21.95,
-      25.92,
-      35.58
-     ]
-    },
-    {
-     "k": "Bereits am Samstag nach dem Eingriff konnte Papst Leo XIV. das Krankenhaus im No",
-     "d": "dd11f45de7.mp3",
-     "l": 39.05,
-     "s": [
-      0.25,
-      4.63,
-      8.66,
-      16.37,
-      21.44,
-      25.02,
-      27.74,
-      31.93
-     ]
-    },
-    {
-     "k": "Leo XIV. war im Mai des vergangenen Jahres als Oberhaupt der Kirche auf den vers",
-     "d": "228c9a427d.mp3",
-     "l": 42.31,
-     "s": [
-      0.25,
-      1.93,
-      8.05,
-      12.69,
-      17.71,
-      23.21,
-      30.87,
-      37.41
-     ]
-    },
-    {
-     "k": "Ein Lungenadenokarzinom ist Medizinern zufolge die häufigste Form von Lungenkreb",
-     "d": "0ed3989822.mp3",
-     "l": 13.24,
-     "s": [
-      0.25,
-      5.58
-     ]
-    },
-    {
-     "k": "Der Chefchirurg Stefano Margaritora und der Leibarzt des Papstes, Luigi Carbone,",
-     "d": "7d95b36f77.mp3",
-     "l": 24.77,
-     "s": [
-      0.25,
-      11.18,
-      15.95
-     ]
-    },
-    {
-     "k": "Für den Papst steht in den kommenden Wochen ein Terminprogramm an. Einer seiner ",
-     "d": "fbfb0e3a87.mp3",
-     "l": 27.85,
-     "s": [
-      0.25,
-      4.1,
-      11.18,
-      12.88,
-      15.89,
-      20.99,
-      22.72,
-      23.97
-     ]
-    }
-   ]
+   "ortInfo": {
+    "name": "Vatikanstadt, Vatikan",
+    "lat": 41.903,
+    "lon": 12.453
+   },
+   "version": 5
   },
   {
    "id": "ukraine-friedensgespraeche-witkoff",
    "rubrik": "Welt",
-   "zeit": "2026-10-22T09:17:34.000Z",
-   "titel": "Gespräche über den Ukraine-Krieg nach Treffen in St. Petersburg",
-   "vorspann": "Nach einem Treffen in St. Petersburg zeigt sich Russland grundsätzlich zu neuen Gesprächen mit der Ukraine und den USA bereit. Zeitgleich gehen die militärischen Auseinandersetzungen in der Ukraine weiter.",
+   "zeit": "2026-10-22T15:03:47.000Z",
+   "aktualisiert": "aktualisiert um 17:15 Uhr",
+   "titel": "Angriffe und geplante Gespräche im Krieg in der Ukraine",
+   "vorspann": "Trotz geplanter Verhandlungen im November haben Russland und die Ukraine ihre gegenseitigen Angriffe fortgesetzt. Nach Berichten gab es Tote und Verletzte in mehreren Regionen.",
    "eil": false,
    "verstaendlich": {
     "stufe": "schwer",
     "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Russland hat nach einem Treffen zwischen Präsident Wladimir Putin und US-Sondergesandtem Steve Witkoff erneut Ziele in der Ukraine angegriffen.",
-    "Der Kreml signalisierte grundsätzlich Bereitschaft zu trilateralen Gesprächen mit der Ukraine und den USA ab dem 10. November in Abu Dhabi.",
-    "Der ukrainische Präsident Wolodymyr Selenskyj forderte nach den Angriffen mehr Luftabwehr und nannte ein Einfrieren der Frontlinie als Minimum für eine Waffenruhe.",
-    "Der US-Amerikaner Stephen Hubbard wurde im Rahmen der Gespräche aus russischer Haft freigelassen."
+    "Russland und die Ukraine haben ihre gegenseitigen Angriffe trotz angekündigter Verhandlungen fortgesetzt.",
+    "Dabei wurden nach Behördenangaben in der Ukraine mehrere Menschen getötet und verletzt sowie Infrastruktur beschädigt.",
+    "Der Kreml stimmte grundsätzlich trilateralen Gesprächen mit den USA und der Ukraine ab November zu.",
+    "Gleichzeitig äußerte sich die russische Seite skeptisch über die bisherigen Friedensvorschläge aus Europa und der Ukraine."
    ],
    "einig": [
     [
-     "Steve Witkoff traf sich in St. Petersburg mit Wladimir Putin.",
+     "Russland und die Ukraine verhandeln ab November mit den USA.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Zeit",
-      "BBC"
+      "Deutschlandfunk",
+      "Zeit"
      ]
     ],
     [
-     "Russland hat grundsätzlich Bereitschaft zu trilateralen Gesprächen mit der Ukraine und den USA signalisiert.",
+     "Die russische Armee führt trotz angekündigter Gespräche Angriffe in der Ukraine fort.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "BBC"
+      "Deutschlandfunk"
      ]
     ],
     [
-     "Der 74-jährige US-Bürger Stephen Hubbard wurde von Russland freigelassen.",
+     "Wladimir Putin traf sich in St. Petersburg mit dem US-Sondergesandten Steve Witkoff.",
      [
-      "ZDFheute",
-      "Spiegel",
-      "BBC"
+      "Tagesschau/ARD",
+      "Spiegel"
      ]
     ]
    ],
    "unklar": [
-    "Ob Russland tatsächlich ernsthaft an Verhandlungen interessiert ist, wird von Experten wie Andreas Umland laut Tagesschau/ARD bezweifelt.",
-    "Welche genauen Inhalte die europäischen und ukrainischen Vorschläge hatten, wurde laut Tagesschau/ARD und Spiegel vom Kreml als wenig substanziell kritisiert, während Details dazu offenblieben."
+    "Ob die Verhandlungen im November tatsächlich zu Fortschritten führen oder ob es sich laut Experten wie Andreas Umland nur um ein Verhandlungstheater handelt."
    ],
    "positionen": [
     [
      "Wolodymyr Selenskyj (Ukrainischer Präsident)",
-     "Fordert die Verstärkung der Flugabwehr, befürwortet baldige Gespräche und sieht ein Einfrieren der Frontlinie als Minimum für eine Waffenruhe an.",
-     "Tagesschau/ARD, ZDFheute, Spiegel, BBC"
+     "Fordert Verstärkung der Flugabwehr, will Gespräche vorzugsweise bis Anfang November und sieht das Einfrieren der Frontlinie als möglichen ersten Schritt.",
+     "Tagesschau/ARD"
     ],
     [
-     "Juri Uschakow (Russischer Berater)",
-     "Erklärt Russlands prinzipielle Bereitschaft zu Gesprächen ab November, kritisiert jedoch die Vorschläge des Westens als substanzarm.",
-     "Tagesschau/ARD, ZDFheute, Spiegel, BBC"
+     "Juri Uschakow (Kremlberater)",
+     "Bestätigt die grundsätzliche Zustimmung zu Gesprächen ab Mitte/nach dem 10. November, kritisiert aber die Vorschläge der Europäer und der Ukraine als wenig substanziell.",
+     "Tagesschau/ARD,Deutschlandfunk"
     ],
     [
-     "Donald Trump (US-Präsident)",
-     "Drängt auf Verhandlungen, meldet die Freilassung von Stephen Hubbard und äußert sich zu Fortschritten beim Kriegsende.",
-     "ZDFheute, Spiegel, BBC"
+     "Andreas Umland (Osteuropa-Experte)",
+     "Glaubt nicht an ein ernsthaftes Verhandlungsinteresse Russlands und spricht von Verhandlungstheater.",
+     "Tagesschau/ARD"
     ]
    ],
-   "fehlend": "Reaktionen der europäischen Partner außer Finnland und Norwegen werden in den Berichten nur am Rande erwähnt.",
+   "fehlend": "Stimmen der US-amerikanischen Regierung oder von Vertretern der Europäischen Union direkt zu den Verhandlungsdetails.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
@@ -3704,8 +3426,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "22.10.26, 10:56",
-     "fokus": "Raketenangriffe auf Kiew",
-     "text": "Berichtet ausführlich über die Angriffe in der Nacht und die Aussagen von Wolodymyr Selenskyj zur ukrainischen Luftabwehr.",
+     "fokus": "Ausführliche Berichterstattung",
+     "text": "Der Bericht liefert detaillierte Zahlen zu den Angriffen auf Kiew und Odessa sowie Zitate von Selenskyj und Uschakow.",
      "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html",
      "video": false,
      "lesbar": {
@@ -3722,46 +3444,38 @@
      "publikumWert": 3.73
     },
     {
-     "name": "ZDFheute",
+     "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "21.10.26, 17:01",
-     "fokus": "Diplomatische Treffen und Hubbard-Freilassung",
-     "text": "Betont die diplomatischen Kontakte zwischen Witkoff, Putin und Selenskyj sowie die Freilassung des US-Bürgers.",
-     "url": "https://www.zdfheute.de/politik/ausland/russland-gespraeche-usa-ukraine-krieg-100.html",
+     "datum": "22.10.26, 17:03",
+     "fokus": "Kurze Zusammenfassung",
+     "text": "Die Meldung fasst die Kernereignisse um die Fortsetzung der Angriffe und die Gesprächsbereitschaft des Kremls kurz zusammen.",
+     "url": "https://www.deutschlandfunk.de/ukraine-meldet-tote-durch-russische-angriffe-geringe-erwartungen-an-neue-gespraeche-unter-us-vermitt-100.html",
      "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 473,
-      "satzlaenge": 14,
-      "langeWoerter": 38
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
+     "publikumWert": null
     },
     {
      "name": "Spiegel",
      "typ": "Nachrichtenmagazin",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "21.10.26, 18:40",
+     "datum": "22.10.26, 13:29",
      "fokus": "–",
-     "text": "Im November soll es neue Gespräche über ein Ende von Russlands Krieg gegen die Ukraine geben: Moskau, Washington und Kyjiw wollen Verhandlungen zugestimmt haben. Aus dem Kreml kommen dennoch skeptische Töne.",
-     "url": "https://www.spiegel.de/ausland/ukraine-krieg-russland-stimmt-dreiertreffen-mit-usa-und-ukraine-zu-a-27143d45-dbf8-4cc3-bf04-a3dc31ef7cfc#ref=rss",
+     "text": "Putin und US-Sondergesandter Witkoff sitzen sich in Sankt Petersburg gegenüber.",
+     "url": "https://www.spiegel.de/ausland/russland-und-ukraine-wladimir-putin-setzt-vor-allem-auf-eines-seinen-kriegskurs-a-2bcbdded-382c-4795-b462-700911f5d915#ref=rss",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 2,
-      "woerter": 431,
-      "satzlaenge": 20,
-      "langeWoerter": 38
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 136,
+      "satzlaenge": 15,
+      "langeWoerter": 34
      },
      "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
      "finanzierung": "Abos und Werbung",
@@ -3772,10 +3486,10 @@
      "typ": "Wochenzeitung",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "22.10.26, 11:17",
-     "fokus": "–",
-     "text": "Russland hat in der Nacht nach dem Treffen von Putin und US-Verhandler Witkoff erneut die Ukraine attackiert. Selenskyj spricht von einem »demonstrativen Schlag«.",
-     "url": "https://www.zeit.de/politik/ausland/2026-10/angriffe-kiew-ukraine-wolodymyr-selenskyj-russland-gxe",
+     "datum": "22.10.26, 16:47",
+     "fokus": "Strategische Einordnung",
+     "text": "Die Wochenzeitung beleuchtet Putins Kalkül in Bezug auf die USA und die Ukraine.",
+     "url": "https://www.zeit.de/politik/ausland/2026-10/verhandlungen-russland-ukraine-frieden-krieg",
      "video": false,
      "lesbar": null,
      "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
@@ -3783,81 +3497,92 @@
      "publikumWert": null
     },
     {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
      "stamm": true,
-     "datum": "21.10.26, 23:27",
-     "fokus": "Internationale Reaktionen und US-Kontext",
-     "text": "Beleuchtet auch die politische Debatte in den USA sowie frühere Spannungen zwischen Washington und Kiew.",
-     "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-     "video": false,
+     "datum": "22.10.26, 15:24",
+     "fokus": "–",
+     "text": "In Kiew schlugen am Donnerstagmorgen Raketen ein.",
+     "url": "https://www.faz.net/video/ukraine-und-russland-ueberziehen-sich-trotz-us-vermittlung-mit-angriffen-201612412.html",
+     "video": true,
      "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 5,
-      "woerter": 943,
-      "satzlaenge": 28,
-      "langeWoerter": 30
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 13,
+      "minuten": 1,
+      "woerter": 82,
+      "satzlaenge": 14,
+      "langeWoerter": 44
      },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Fokus auf militärische Schäden",
-     "Tagesschau/ARD und BBC nennen konkrete Opferzahlen und getroffene Gebäude in Kiew sehr detailliert, während andere Berichte den Fokus stärker auf die Diplomatie legen."
+     "Opferzahlen",
+     "Die Tagesschau nennt zwei Tote in Kiew und insgesamt 34 Verletzte, während der Deutschlandfunk von insgesamt sieben Toten durch russische Angriffe spricht."
     ]
    ],
    "wfragen": {
-    "wer": "Russland, die Ukraine, die USA und europäische Staaten",
-    "was": "Bereitschaft zu neuen Friedensgesprächen und erneute Angriffe",
-    "wann": "Oktober 2026",
-    "wo": "St. Petersburg, Kiew, Oslo und Washington",
-    "wie": "Durch diplomatische Treffen von Gesandten und gleichzeitige Angriffe",
-    "warum": "Laut den Berichten wegen neuer Vermittlungsbemühungen zur Beendigung des Konflikts",
-    "quellenlage": "Tagesschau/ARD, ZDFheute, Spiegel, Zeit, BBC"
+    "wer": "Russland, Ukraine, US-Sondergesandter Steve Witkoff",
+    "was": "Militärische Angriffe und Ankündigung neuer Gespräche",
+    "wann": "2026-10-22",
+    "wo": "Kiew, Odessa, Moskau, St. Petersburg",
+    "wie": "Durch Raketen- und Drohnenangriffe sowie geplante Verhandlungen",
+    "warum": "Noch unklar",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Spiegel, Zeit, FAZ"
    },
    "artikel": [
     {
-     "ueberschrift": "Diplomatische Bemühungen und Angriffe",
+     "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Die gegenseitigen Angriffe zwischen Russland und der Ukraine dauern an. Nach Angaben der Tagesschau/ARD griff Russland in der Nacht die ukrainische Hauptstadt Kiew an. Laut dem ukrainischen Präsidenten Wolodymyr Selenskyj zielten alleine auf Kiew 21 Raketen in drei Wellen. Nach Angaben von ZDFheute und BBC gab es nach einem Treffen zwischen dem russischen Präsidenten Wladimir Putin und US-Sondergesandten Steve Witkoff erneute Angriffe. Laut Tagesschau/ARD wurden in zwölf Regionen der Ukraine Infrastruktur, Wohn- und Geschäftsgebäude beschädigt. Mindestens zwei Menschen wurden getötet und laut Tagesschau/ARD 34 Menschen verletzt, darunter fünf Kinder. Nach Angaben der BBC wurden in Kiew sechs Menschen verletzt, wie der Bürgermeister Vitaliy Klitschko mitteilte. Laut Tagesschau/ARD und ZDFheute gab es auch Drohnenangriffe aus Moskau. Der dortige Bürgermeister Sergej Sobjanin teilte laut Tagesschau/ARD mit, dass 630 Drohnen in Richtung der Region gestartet worden seien. Laut Tagesschau/ARD wurden die meisten von der Luftabwehr zerstört und zwei Menschen verletzt.",
-      "Das russische Verteidigungsministerium meldete laut Tagesschau/ARD zudem einen massiven Angriff auf Hafenanlagen und Schiffe in Odessa im Süden des Landes. Auch Rüstungsbetriebe für Marschflugkörper und Drohnen seien getroffen worden. Nach Angaben der Tagesschau/ARD fanden die Angriffe trotz laufender US-Vermittlungsbemühungen statt. Die BBC berichtete, dass Russland in den letzten Wochen seine Angriffe mit Raketen und Drohnen verstärkt hat. Laut Tagesschau/ARD und Spiegel erklärte der russische Berater Juri Uschakow, dass die von US-Sondergesandten Steve Witkoff übermittelten Vorschläge der Europäer und der Ukraine nicht viel Substanz enthalten. Putin-Berater Uschakow sagte laut Tagesschau/ARD und Spiegel weiter, Russland sei im Prinzip bereit, Mitte November Verhandlungen mit der Ukraine und den USA wiederaufzunehmen. Als möglicher Termin wurde die Zeit nach dem 10. November genannt, als Ort sei Abu Dhabi in den Vereinigten Arabischen Emiraten im Gespräch. Das Weiße Haus bestätigte laut Spiegel, dass Kiew und Moskau den Vorschlag für ein weiteres Treffen auf technischer Ebene in diesem Format akzeptiert haben."
+      "Die militärischen Auseinandersetzungen zwischen Russland und der Ukraine haben sich fortgesetzt. Nach Berichten kam es in der Nacht zu zahlreichen Raketen- und Drohnenangriffen auf ukrainisches und russisches Gebiet. Die Regierungen in Moskau und Kiew meldeten jeweils Angriffe auf ihre Hauptstädte sowie weitere Regionen. Parallel dazu kündigten Beteiligte die Wiederaufnahme diplomatischer Gespräche für den kommenden Monat an.",
+      "Laut Angaben der Tagesschau/ARD zielten Angriffe der russischen Armee auf insgesamt zwölf Regionen in der Ukraine. Die ukrainische Hauptstadt Kiew war demnach das Ziel von mehreren Raketenwellen, die Schäden an der Infrastruktur sowie an Wohn- und Geschäftsgebäuden verursachten. Nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj wurden dabei mindestens zwei Menschen getötet. Die Gesamtzahl der verletzten Zivilpersonen in diesem Landesteil lag laut diesen Berichten bei 34 Personen, darunter fünf Kinder.",
+      "Nach Angaben des Deutschlandfunks erhöhte sich die Zahl der von der Ukraine gemeldeten Todesopfer durch die Angriffe insgesamt auf sieben Personen. Das russische Verteidigungsministerium erklärte laut Tagesschau/ARD, dass es zudem einen Angriff auf Hafenanlagen in Odessa am Schwarzen Meer gegeben habe. Dabei seien dort befindliche Schiffe der ukrainischen Armee sowie Rüstungsbetriebe getroffen worden. Diese Betriebe seien an der Herstellung von Marschflugkörpern und Drohnen beteiligt.",
+      "Auch aus Russland wurden Angriffe gemeldet. Der Bürgermeister der russischen Hauptstadt Moskau, Sergej Sobjanin, teilte laut Tagesschau/ARD mit, dass zahlreiche Drohnen in Richtung der Region gestartet worden seien. Die russische Luftabwehr habe den Großteil dieser Drohnen zerstört. Bei den Vorfällen in Moskau wurden nach denselben Angaben zwei Menschen verletzt."
      ]
     },
     {
-     "ueberschrift": "Ablauf der Treffen in St. Petersburg und Oslo",
+     "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "US-Sondergesandter Steve Witkoff reiste nach Angaben von ZDFheute und Spiegel nach St. Petersburg, um sich im Konstantin-Palast mit dem russischen Präsidenten Wladimir Putin zu treffen. Das Gespräch dauerte nach Angaben von Tagesschau/ARD, ZDFheute und Spiegel rund drei Stunden. Neben Putin nahmen laut Tagesschau/ARD und ZDFheute auch Putins Berater Juri Uschakow und der Gesandte Kirill Dmitrijew teil. Laut ZDFheute und Spiegel war zudem der Schwiegersohn des US-Präsidenten, Jared Kushner, per Videoschalte zugeschaltet. Vor dem Treffen in Russland hatte Witkoff laut ZDFheute, Spiegel und BBC in Oslo Gespräche mit dem ukrainischen Präsidenten Wolodymyr Selenskyj sowie Vertretern aus Norwegen und Finnland geführt. Der finnische Präsident Alexander Stubb sprach laut ZDFheute von echten Fortschritten, während Witkoff ein gewisses Maß an Momentum feststellte. Die BBC berichtete unter Berufung auf Witkoff, dass die jüngsten Gespräche konstruktiv verlaufen seien.",
-      "Nach Angaben des Kremls laufen laut ZDFheute zudem Vorbereitungen für ein Dreiertreffen zwischen Wladimir Putin, US-Präsident Donald Trump und dem chinesischen Staatschef Xi Jinping. Das Treffen solle demnach am Rande des Gipfels der Asiatisch-Pazifischen Wirtschaftsgemeinschaft am 18. und 19. November im chinesischen Shenzhen stattfinden. Zum Auftakt des Treffens in St. Petersburg gab der russische Präsident laut Spiegel die Freilassung des US-Bürgers Stephen Hubbard bekannt. Der 74-jährige, frühere Lehrer aus Michigan war nach Angaben von Spiegel im Jahr 2024 zu langer Haft verurteilt worden, weil er als Söldner an der Seite der ukrainischen Streitkräfte gekämpft haben soll. US-Präsident Donald Trump teilte laut ZDFheute und BBC mit, dass Hubbard auf dem Weg nach Hause sei. Trump erklärte laut ZDFheute, dass die USA im Gegenzug niemanden freilassen mussten. Witkoff bezeichnete Putin laut BBC als Humanitären für die Zustimmung zu dieser Freilassung. Auf Nachfrage von Reportern erklärte der US-Vizepräsident JD Vance laut BBC, er stimme Witkoffs lobenden Worten gegenüber einer Person zu, die gerade eine amerikanische Geisel freigelassen habe."
+      "Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich nach den nächtlichen Angriffen. Laut Tagesschau/ARD erklärte er, dass Russland seine Haltung nicht geändert habe und Angriffe als Antwort auf Verhandlungen nutze. Selenskyj forderte eine Verstärkung der ukrainischen Flugabwehr sowie eine schnelle Lieferung weiterer Raketen. Er betonte, die Ukraine verdiene Unterstützung.",
+      "Zuvor hatte ein Treffen zwischen dem russischen Präsidenten Wladimir Putin und dem US-Sondergesandten Steve Witkoff in St. Petersburg stattgefunden. Laut Tagesschau/ARD und Spiegel dauerte das Gespräch etwa drei Stunden. Anwesend waren demnach auch Putins Berater Juri Uschakow und der Gesandte Kirill Dmitrijew. Das Magazin Spiegel berichtete von einem Treffen, bei dem sich Putin und Witkoff gegenüberstanden.",
+      "Nach Angaben des Kremls hat Wladimir Putin einer Wiederaufnahme von trilateralen Gesprächen mit der Ukraine und den USA grundsätzlich zugestimmt. Die Verhandlungen sollen demnach nach dem 10. November beginnen. Der Berater Juri Uschakow erklärte, dass sich die Gespräche auf den Aufbau eines Sicherheitssystems für Russland und die Ukraine nach dem Ende des Konflikts konzentrieren würden.",
+      "Gleichzeitig zeigte sich Russland laut Tagesschau/ARD ablehnend gegenüber Vorschlägen für ein Ende des Krieges. Uschakow erklärte, die vom US-Sondergesandten Steve Witkoff übermittelten Vorschläge der Europäer und der Ukraine würden nicht viel Substanz enthalten. Die Wochenzeitung Zeit berichtete ergänzend, dass Putin sich von den Treffen Vorteile im Krieg erhoffe und auf einen Kollaps der Ukraine setze."
      ]
     },
     {
-     "ueberschrift": "Hintergrund und frühere Gespräche",
+     "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Laut Spiegel gab es im bisherigen Dreierformat aus den USA, Russland und Ukraine zuletzt im Februar in Genf Gespräche, davor zweimal in Abu Dhabi. Die BBC berichtete, dass diese trilaterale Gespräche im Februar pausiert wurden, woraufhin Russland seine Angriffe verstärkte. Nach Angaben von Tagesschau/ARD und Spiegel erklärte Juri Uschakow, dass die Gespräche sich auf den Aufbau eines Sicherheitssystems für Russland und die Ukraine nach Ende des Konflikts konzentrieren sollen. Der russische Präsident betonte laut BBC gegenüber Witkoff, dass russische Truppen an der Front vorrücken und über die strategische Initiative verfügen. Ukraine und europäische Verbündete widersprachen dieser Darstellung laut BBC und verwiesen auf eine Pattsituation an der Front. Die BBC merkte an, dass Russland nach Angaben von Kreml-Vertretern etwa 20 Prozent des ukrainischen Territoriums kontrolliert."
+      "Die aktuellen militärischen und diplomatischen Schritte stehen im Kontext des Krieges zwischen Russland und der Ukraine. Die Bemühungen um eine Vermittlung durch die Vereinigten Staaten sind Teil internationaler Versuche, eine Lösung zu finden. Bislang blieben Verhandlungsversuche oft ohne dauerhafte Ergebnisse, während die Kampfhandlungen auf beiden Seiten fortgeführt wurden.",
+      "Der Osteuropa-Experte Andreas Umland äußerte sich in einem Interview mit tagesschau24 skeptisch über die Ernsthaftigkeit der russischen Verhandlungsbereitschaft. Laut Tagesschau/ARD sagte er, dass es ein solches Verhandlungstheater schon seit vielen Jahren gebe und er daher keine großen Hoffnungen habe.",
+      "Der ukrainische Präsident Wolodymyr Selenskyj reagierte auf den Vorschlag von Gesprächen mit den USA und Russland. Laut Tagesschau/ARD erklärte er, ein Treffen auf Ebene von Unterhändlern solle möglichst bald, vorzugsweise bis Anfang November, stattfinden. Dabei könne über Friedensvorschläge und ein mögliches Gipfeltreffen der Staats- und Regierungschefs gesprochen werden. Zuvor hatte Selenskyj gegenüber dem US-Sender Fox News ein Einfrieren der Frontlinie als einen möglichen ersten Schritt für eine Waffenruhe bezeichnet."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Unter Verhandlungen versteht man strukturierte Gespräche zwischen Konfliktparteien mit dem Ziel, eine friedliche Einigung oder einen Waffenstillstand zu erreichen. An solchen diplomatischen Prozessen sind oft Sondergesandte und internationale Vermittler beteiligt."
+      "Unter einer Luftabwehr versteht man militärische Einrichtungen und Waffensysteme, die dazu dienen, feindliche Flugzeuge, Drohnen oder Raketen im Luftraum abzufangen und zu zerstören.",
+      "Trilaterale Gespräche sind Verhandlungen oder Verhandlungsrunden, an denen drei verschiedene Parteien oder Staaten beteiligt sind."
      ]
     },
     {
-     "ueberschrift": "Reaktionen der Beteiligten und Experten",
+     "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Der ukrainische Präsident Wolodymyr Selenskyj reagierte laut Tagesschau/ARD positiv auf das vorgeschlagene Treffen. Er erklärte laut Tagesschau/ARD, ein Treffen auf Ebene von Unterhändlern solle möglichst bald bis Anfang November stattfinden. In einem Interview mit dem US-Sender Fox News äußerte sich Selenskyj laut Tagesschau/ARD, ZDFheute, Spiegel und BBC zu einem möglichen Einfrieren des Konflikts. Ein Einfrieren der Frontlinie sei laut Selenskyj ein möglicher erster Schritt für eine Waffenruhe und das Minimum, was von Russland erwartet werde. Nach den Angriffen betonte Selenskyj laut Tagesschau/ARD, dass echte Druckmittel nötig seien und forderte eine Verstärkung der ukrainischen Flugabwehr sowie Raketenlieferungen. Der Osteuropa-Experte Andreas Umland erklärte laut Tagesschau/ARD in einem Interview, er gehe nicht davon aus, dass Russland derzeit ernsthaft an Verhandlungen interessiert sei. US-Präsident Donald Trump erklärte laut BBC, dass man der Beendigung des Krieges möglicherweise so nah sei wie noch nie zuvor. Gleichzeitig kritisierte Trump laut BBC die Ukraine in verschiedenen Zusammenhängen, unter anderem wegen Angriffen auf russische Ölraffinerien und Forderungen nach US-Sanktionen. Der US-Außenminister Marco Rubio wies laut BBC Vorwürfe der Ukraine bezüglich zurückgehaltener Geheimdienstinformationen als skandalös zurück."
+      "Der ukrainische Präsident Wolodymyr Selenskyj forderte laut Tagesschau/ARD eine Verstärkung der ukrainischen Flugabwehr und betonte, die Ukraine benötige Unterstützung.",
+      "Der Kremlberater Juri Uschakow erklärte laut Tagesschau/ARD, dass die Wiederaufnahme der Gespräche nach dem 10. November beginnen könne, lehnte jedoch die übermittelten Vorschläge der Europäer und der Ukraine als wenig substanziell ab.",
+      "Der Moskauer Bürgermeister Sergej Sobjanin teilte laut Tagesschau/ARD mit, dass zahlreiche Drohnen in Richtung der Region gestartet und größtenteils zerstört wurden.",
+      "Der Osteuropa-Experte Andreas Umland äußerte laut Tagesschau/ARD Skepsis hinsichtlich der Ernsthaftigkeit der russischen Verhandlungsabsichten."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Laut den Berichten sind weitere diplomatische Verhandlungen für Mitte November nach dem 10. November im Gespräch. Als möglicher Tagungsort für ein technisches Treffen wurde Abu Dhabi genannt. Zudem wird ein mögliches Dreiertreffen der Staats- und Regierungschefs Putin, Trump und Xi Jinping am Rande des Gipfels der Asiatisch-Pazifischen Wirtschaftsgemeinschaft in Shenzhen am 18. und 19. November vorbereitet."
+      "Die trilateralen Gespräche zwischen Russland, der Ukraine und den USA sollen nach Angaben des Kremls nach dem 10. November beginnen und sich mit dem Aufbau eines künftigen Sicherheitssystems befassen.",
+      "Der ukrainische Präsident Selenskyj sprach sich für ein vorbereitendes Treffen auf Unterhländerebene bis Anfang November aus, um über Friedensvorschläge zu beraten."
      ]
     }
    ],
@@ -3873,139 +3598,122 @@
    ],
    "bilder": [
     {
-     "art": "person",
-     "suchbegriff": "Vladimir Putin",
-     "bildunterschrift": "Wladimir Putin ist der Präsident der Russischen Föderation."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Volodymyr Zelenskyy",
-     "bildunterschrift": "Wolodymyr Selenskyj ist der Präsident der Ukraine."
-    },
-    {
      "art": "keins",
-     "suchbegriff": "Saint Petersburg",
-     "bildunterschrift": "Sankt Petersburg war der Ort des Treffens zwischen Wladimir Putin und Steve Witkoff."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "The White House",
-     "bildunterschrift": "Das Weiße Haus ist der Amtssitz des US-Präsidenten in Washington."
+     "suchbegriff": "keins",
+     "bildunterschrift": "Es wird kein Bild angezeigt, da der Artikel Berichte über Tote und Verletzte bei militärischen Angriffen enthält."
     }
    ],
    "ort": {
-    "name": "St. Petersburg, Russland"
+    "name": "Kiew und Moskau, Ukraine und Russland"
    },
    "geprueft": true,
    "korrekturen": [
-    "Das Datum in der W-Frage wurde auf Oktober 2026 korrigiert.",
-    "Werte und Definitionen im Abschnitt Zum Verständnis wurden entsprechend den Vorgaben bereinigt."
+    "Werte und Formulierungen wie 'ungeachtet der US-Vermittlungsbemühungen' und 'Verteidigung' angepasst, um neutrale Berichterstattung ohne wertende Begriffe zu wahren.",
+    "Unbelegte Zahlen oder Spekulationen aus dem Verständnis-Abschnitt entfernt.",
+    "Zitate und Aussagen streng nach Quellennachweisen korrigiert."
    ],
-   "wortwarnung": [
-    "skandalös",
-    "massiven"
-   ],
+   "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
-      "Sondergesandter",
-      "Ein Sondergesandter ist eine Person, die von einer Regierung für eine bestimmte diplomatische Aufgabe eingesetzt wird."
+      "Luftabwehr",
+      "Waffensysteme, um feindliche Flugzeuge oder Raketen im Luftraum abzufangen."
      ],
      [
-      "Waffenruhe",
-      "Eine Waffenruhe ist das vorübergehende Einstellen von Kämpfen in einem Krieg."
+      "Trilaterale Gespräche",
+      "Verhandlungen zwischen drei verschiedenen Staaten oder Parteien."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen internationale Vermittler bei der Beendigung von Konflikten?",
-     "Wie bewerten verschiedene Beteiligte die Aussichten auf erfolgreiche Friedensverhandlungen?"
+     "Welche Rolle spielen internationale Vermittler in diesem Konflikt?",
+     "Warum bewerten Experten angekündigte Verhandlungen oft unterschiedlich?"
     ],
     "quiz": [
      {
-      "frage": "Wer traf sich mit Wladimir Putin in Sankt Petersburg?",
-      "optionen": [
-       "Steve Witkoff",
-       "Wolodymyr Selenskyj",
-       "Donald Trump"
-      ],
-      "richtig": 0,
-      "erklaerung": "Der US-Sondergesandte Steve Witkoff reiste nach Sankt Petersburg, um sich mit dem russischen Präsidenten Wladimir Putin zu treffen."
-     },
-     {
-      "frage": "Wann könnten trilaterale Gespräche laut Angaben des Kremls beginnen?",
+      "frage": "Wann sollen die trilaterale Gespräche laut Kreml grundsätzlich beginnen?",
       "optionen": [
        "Nach dem 10. November",
-       "Sofort am nächsten Tag",
-       "Im nächsten Jahr"
+       "Bereits im September",
+       "Erst im nächsten Jahr"
       ],
       "richtig": 0,
-      "erklaerung": "Nach Angaben des Kremls sollen die Verhandlungen nach dem 10. November beginnen."
+      "erklaerung": "Der Kreml hat erklärt, dass die Gespräche nach dem 10. November beginnen sollen."
      },
      {
-      "frage": "Wer wurde zum Auftakt der Gespräche aus russischer Haft entlassen?",
+      "frage": "Wer traf sich zuvor mit dem russischen Präsidenten Wladimir Putin in St. Petersburg?",
       "optionen": [
-       "Stephen Hubbard",
-       "Andreas Umland",
-       "Juri Uschakow"
+       "Der ukrainische Präsident",
+       "Der US-Sondergesandte Steve Witkoff",
+       "Der französische Staatspräsident"
       ],
-      "richtig": 0,
-      "erklaerung": "Der 74-jährige US-Bürger Stephen Hubbard wurde von Russland freigelassen."
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau und Spiegel trafen sich Putin und der US-Sondergesandte Steve Witkoff in St. Petersburg."
+     },
+     {
+      "frage": "Welches Land wurde neben der Ukraine ebenfalls Ziel von Drohnenangriffen?",
+      "optionen": [
+       "Deutschland",
+       "Russland",
+       "Polen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Aus Moskau in Russland wurden laut den Berichten ebenfalls Drohnenangriffe gemeldet."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Russland und die USA haben über den Krieg in der Ukraine gesprochen. Trotzdem gehen die Kämpfe weiter.",
+    "vorspann": "Im Krieg in der Ukraine gibt es neue Angriffe und Pläne für Gespräche.",
     "absaetze": [
-     "Der amerikanische Gesandte Steve Witkoff traf sich mit dem russischen Präsidenten Wladimir Putin in Sankt Petersburg.",
-     "Nach Angaben des Kremls stimmte Russland grundsätzlich neuen Gesprächen im November zu.",
-     "Der ukrainische Präsident Wolodymyr Selenskyj nannte ein Einfrieren der Frontlinie als Minimum für eine Waffenruhe.",
-     "Zleich greift Russland die Ukraine weiter an. Bei Angriffen auf Kiew gab es nach Medienberichten Tote und Verletzte."
+     "Russland hat in der Nacht wieder Städte in der Ukraine angegriffen.",
+     "Auch aus der russischen Hauptstadt Moskau wurden Drohnenangriffe gemeldet.",
+     "Dabei wurden nach Behördenangaben mehrere Menschen getötet und verletzt.",
+     "Trotz der Kämpfe wollen Russland, die Ukraine und die Vereinigten Staaten im November miteinander sprechen.",
+     "Dabei soll es um ein mögliches Sicherheitssystem nach dem Ende des Konflikts gehen."
     ]
    },
    "video": {
     "kurz": [
-     "Russland hat sich nach einem Treffen mit einem US-Gesandten grundsätzlich zu neuen Gesprächen bereit erklärt.",
-     "Zeitgleich gab es neue Angriffe auf die Ukraine.",
-     "Der ukrainische Präsident Selenskyj nannte ein Einfrieren der Frontlinie als Minimum für eine Waffenruhe."
+     "Russland und die Ukraine setzen ihre Angriffe fort.",
+     "Trotzdem planen beide Seiten Gespräche mit den Vereinigten Staaten für den November.",
+     "Das teilte der Kreml mit."
     ],
     "lang": [
-     "Russland zeigt sich grundsätzlich bereit für neue Gespräche über den Ukraine-Krieg.",
-     "Das teilte der Kreml nach einem Treffen zwischen Präsident Wladimir Putin und dem US-Sondergesandten Steve Witkoff in Sankt Petersburg mit.",
-     "Die Gespräche sollen nach Angaben aus Moskau im November beginnen.",
-     "Zeitgleich führten russische Streitkräfte neue Angriffe auf die Ukraine aus.",
-     "Nach Angaben der Tagesschau wurde dabei die Hauptstadt Kiew mit Raketen beschossen.",
-     "Der ukrainische Präsident Wolodymyr Selenskyj forderte daraufhin mehr Unterstützung für die Luftabwehr.",
-     "Selenskyj erklärte zudem in einem Interview, das Einfrieren der Frontlinie sei das Minimum für eine Waffenruhe.",
-     "Experten bezweifeln laut Tagesschau, ob Russland derzeit ernsthaft an Verhandlungen interessiert ist.",
-     "Zum Auftakt der Gespräche wurde der US-Bürger Stephen Hubbard aus russischer Haft freigelassen.",
-     "Weitere Treffen sind für Mitte November in Abu Dhabi geplant."
+     "Im Krieg zwischen Russland und der Ukraine dauern die gegenseitigen Angriffe an.",
+     "In der Nacht gab es nach Angaben der Tagesschau zahlreiche Angriffe auf ukrainische Regionen.",
+     "Dabei wurden nach Behördenangaben in der Ukraine mehrere Menschen getötet und verletzt.",
+     "Auch aus Moskau wurden Drohnenangriffe gemeldet.",
+     "Parallel dazu hat der Kreml trilateralen Gesprächen mit der Ukraine und den Vereinigten Staaten zugestimmt.",
+     "Die Verhandlungen sollen nach Angaben des Kremlberaters Juri Uschakow nach dem zehnten November beginnen.",
+     "Der ukrainische Präsident Wolodymyr Selenskyj forderte unterdessen eine Verstärkung der Flugabwehr.",
+     "Experten blicken skeptisch auf die angekündigten Verhandlungen.",
+     "Die Gespräche sollen sich auf ein künftiges Sicherheitssystem konzentrieren."
     ],
     "einfach": [
-     "Russland und die USA wollen miteinander verhandeln.",
-     "Der amerikanische Gesandte Witkoff traf sich dazu mit Präsident Putin.",
-     "Die Gespräche sollen im November in Abu Dhabi stattfinden.",
-     "Trotzdem greift Russland die Ukraine weiter an.",
-     "Der ukrainische Präsident Selenskyj fordert deshalb mehr Hilfe für die Luftabwehr."
+     "Russland und die Ukraine kämpfen weiter.",
+     "Es gab neue Angriffe mit Raketen und Drohnen.",
+     "Dabei wurden Menschen verletzt und getötet.",
+     "Im November soll es Gespräche geben.",
+     "Daran wollen auch die Vereinigten Staaten teilnehmen."
     ]
    },
    "kurz": [
-    "Russland und die USA sprechen über mögliche neue Verhandlungen.",
-    "Zeitgleich gab es neue Angriffe auf die ukrainische Hauptstadt Kiew.",
-    "Der US-Bürger Stephen Hubbard wurde aus russischer Haft entlassen."
+    "Russland und die Ukraine führen trotz angekündigter Gespräche im November weitere Angriffe aus.",
+    "Nach offiziellen Angaben gab es in der Ukraine mehrere Tote und Verletzte.",
+    "Der Kreml stimmte grundsätzlich trilateralen Gesprächen mit den USA und der Ukraine zu."
    ],
    "fakten": [
     [
-     "Alter von Stephen Hubbard",
-     "74 Jahre"
+     "Verletzte in der Ukraine nach Tagesschau-Angaben",
+     "34"
     ],
     [
-     "Dauer des Treffens in St. Petersburg",
-     "drei Stunden"
+     "Tote nach Deutschlandfunk-Angaben",
+     "7"
     ]
    ],
    "dossier": {
-    "slug": "krieg-in-der-ukraine-gespraeche",
-    "titel": "Krieg in der Ukraine und diplomatische Bemühungen"
+    "slug": "krieg-in-der-ukraine",
+    "titel": "Krieg in der Ukraine"
    },
    "bildInfo": {
     "titel": "Владимир Путин (18-06-2023) (cropped).jpg",
@@ -4071,151 +3779,7 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "ortInfo": {
-    "name": "St. Petersburg, Russland",
-    "lat": 59.961,
-    "lon": 30.159
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Russland zeigt sich grundsätzlich bereit für neue Gespräche über den Ukraine-Kri",
-     "d": "ea229a7ed2.mp3",
-     "l": 54.93,
-     "s": [
-      0.25,
-      4.96,
-      12.88,
-      16.76,
-      21.5,
-      26.39,
-      32.36,
-      38.8,
-      44.59,
-      50.32
-     ]
-    },
-    {
-     "k": "Russland hat sich nach einem Treffen mit einem US-Gesandten grundsätzlich zu neu",
-     "d": "5971fa4b5a.mp3",
-     "l": 15.45,
-     "s": [
-      0.25,
-      6.16,
-      9.28
-     ]
-    },
-    {
-     "k": "Russland und die USA wollen miteinander verhandeln. Der amerikanische Gesandte W",
-     "d": "315f4c5d94.mp3",
-     "l": 23.47,
-     "s": [
-      0.25,
-      4.09,
-      9.31,
-      13.93,
-      17.45
-     ]
-    },
-    {
-     "k": "Ob Russland tatsächlich ernsthaft an Verhandlungen interessiert ist, wird von Ex",
-     "d": "95cb4c4acd.mp3",
-     "l": 8.98,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Sondergesandter? Ein Sondergesandter ist eine Person, di",
-     "d": "a4234bf12c.mp3",
-     "l": 11.49,
-     "s": [
-      0.25,
-      3.66
-     ]
-    },
-    {
-     "k": "Die gegenseitigen Angriffe zwischen Russland und der Ukraine dauern an. Nach Ang",
-     "d": "930339a144.mp3",
-     "l": 54.94,
-     "s": [
-      0.25,
-      4.67,
-      10.59,
-      17.76,
-      27.73,
-      34.75,
-      42.16,
-      48.8
-     ]
-    },
-    {
-     "k": "US-Sondergesandter Steve Witkoff reiste nach Angaben von ZDFheute und Spiegel na",
-     "d": "148ebcf71e.mp3",
-     "l": 61.71,
-     "s": [
-      0.25,
-      6.16,
-      11.62,
-      17.72,
-      27.51,
-      35.29,
-      47.05,
-      55.58
-     ]
-    },
-    {
-     "k": "Laut Spiegel gab es im bisherigen Dreierformat aus den USA, Russland und Ukraine",
-     "d": "4879328d64.mp3",
-     "l": 52.05,
-     "s": [
-      0.25,
-      9.58,
-      16.91,
-      27.86,
-      36.31,
-      43.86
-     ]
-    },
-    {
-     "k": "Unter Verhandlungen versteht man strukturierte Gespräche zwischen Konfliktpartei",
-     "d": "5c0bbabfbd.mp3",
-     "l": 15.06,
-     "s": [
-      0.25,
-      8.87
-     ]
-    },
-    {
-     "k": "Der ukrainische Präsident Wolodymyr Selenskyj reagierte laut Tagesschau/ARD posi",
-     "d": "c2504ba80b.mp3",
-     "l": 73.77,
-     "s": [
-      0.25,
-      7.75,
-      15.63,
-      25.5,
-      33.91,
-      44.72,
-      54.92,
-      62.97
-     ]
-    },
-    {
-     "k": "Laut den Berichten sind weitere diplomatische Verhandlungen für Mitte November n",
-     "d": "5134098d27.mp3",
-     "l": 27.09,
-     "s": [
-      0.25,
-      5.55,
-      7.4,
-      12.19,
-      23.62,
-      25.16
-     ]
-    }
-   ]
+   "version": 5
   },
   {
    "id": "alice-schwarzer-emma-einstellung",
