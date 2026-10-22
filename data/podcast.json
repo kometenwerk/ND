@@ -1,15 +1,15 @@
 {
- "stand": "2026-10-21T20:06:33.798Z",
+ "stand": "2026-10-22T04:35:34.763Z",
  "folgen": [
   {
-   "id": "hauptausgabe-2026-10-21",
+   "id": "hauptausgabe-2026-10-22",
    "art": "nachrichten",
-   "titel": "Hauptausgabe vom 2026-10-21",
-   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Abschluss des Investitionsgipfels in Berlin · Maßnahmen von Regierungen in Frankreich und Italien nach gewaltsamen Protesten · Koalitionsverhandlungen in Berlin nach Parteitagen und Beratungen · Kompromiss im Europaparlament zu den CO2-Grenzwerten für Neuwagen",
-   "zeit": "2026-10-21T04:37:05.594Z",
-   "d": "folge-hauptausgabe-2026-10-21.mp3",
-   "l": 584.76,
-   "b": 3508797
+   "titel": "Hauptausgabe vom 2026-10-22",
+   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Weltweite Sicherheitslücke in der Programmiersprache PHP entdeckt · Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich · Ausschreitungen bei Protesten in Frankreich und politische Reaktionen · UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung",
+   "zeit": "2026-10-22T04:35:34.763Z",
+   "d": "folge-hauptausgabe-2026-10-22.mp3",
+   "l": 624.74,
+   "b": 3748701
   },
   {
    "id": "wissen-wie-entsteht-eigentlich-eine-sternschnuppe",
@@ -42,16 +42,6 @@
    "b": 178221
   },
   {
-   "id": "wissen-wie-entsteht-eigentlich-ein-schluckauf",
-   "art": "wissen",
-   "titel": "Wie entsteht eigentlich ein Schluckauf?",
-   "text": "Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.",
-   "zeit": "2026-10-19T07:51:36.031Z",
-   "d": "800524ff8e.mp3",
-   "l": 48.26,
-   "b": 289965
-  },
-  {
    "id": "doku-die-geschichte-unserer-schrift",
    "art": "doku",
    "titel": "Die Geschichte unserer Schrift",
@@ -60,6 +50,16 @@
    "d": "folge-doku-die-geschichte-unserer-schrift.mp3",
    "l": 1316.74,
    "b": 7900653
+  },
+  {
+   "id": "doku-die-reise-des-wassers",
+   "art": "doku",
+   "titel": "Die Reise des Wassers",
+   "text": "Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.",
+   "zeit": "2026-09-23T05:55:16.319Z",
+   "d": "folge-doku-die-reise-des-wassers.mp3",
+   "l": 340.18,
+   "b": 2041293
   }
  ]
 }
