@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 23 Oct 2026 04:40:46 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 09:59:38 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-23</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</itunes:summary>
+    <pubDate>Fri, 23 Oct 2026 04:40:46 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-23</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-23.mp3" length="3772317" type="audio/mpeg"/>
+    <itunes:duration>00:10:29</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Mutmaßlicher russischer Spion in Brandenburg festgenommen</title>
     <description>Ein ukrainischer Staatsbürger sitzt in Brandenburg unter Spionageverdacht in U-Haft. Wir analysieren die Hintergründe der Festnahme und die Warnungen der Politik.</description>
@@ -27,17 +38,6 @@
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
-    <title>Hauptausgabe vom 2026-10-22</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Weltweite Sicherheitslücke in der Programmiersprache PHP entdeckt · Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich · Ausschreitungen bei Protesten in Frankreich und politische Reaktionen · UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Großbrand auf kanadischem Militärstützpunkt fordert Menschenleben · Weltweite Sicherheitslücke in der Programmiersprache PHP entdeckt · Keine weitere Behandlung nach Operation bei Papst Leo XIV. erforderlich · Ausschreitungen bei Protesten in Frankreich und politische Reaktionen · UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung</itunes:summary>
-    <pubDate>Thu, 22 Oct 2026 04:35:34 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-22</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-22.mp3" length="3748701" type="audio/mpeg"/>
-    <itunes:duration>00:10:25</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
     <title>UN-Klimabericht warnt vor Erwärmung um 2,8 Grad</title>
     <description>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</description>
     <itunes:summary>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</itunes:summary>
@@ -45,17 +45,6 @@
     <guid isPermaLink="false">podcast-un-klimabericht-2-8-grad</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-un-klimabericht-2-8-grad.mp3" length="4509933" type="audio/mpeg"/>
     <itunes:duration>00:09:24</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Wie entsteht eigentlich eine Sternschnuppe?</title>
-    <description>Ein Aufleuchten am Nachthimmel entsteht, wenn kleine Teilchen in der Erdatmosphäre verglühen. Die Astronomie erforscht diese Leuchterscheinungen seit dem neunzehnten Jahrhundert.</description>
-    <itunes:summary>Ein Aufleuchten am Nachthimmel entsteht, wenn kleine Teilchen in der Erdatmosphäre verglühen. Die Astronomie erforscht diese Leuchterscheinungen seit dem neunzehnten Jahrhundert.</itunes:summary>
-    <pubDate>Tue, 20 Oct 2026 20:38:29 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-eine-sternschnuppe</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/a829b8a422.mp3" length="177789" type="audio/mpeg"/>
-    <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

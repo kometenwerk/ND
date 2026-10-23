@@ -1,0 +1,541 @@
+{
+ "id": "2026-10-23-09",
+ "name": "9-Uhr-Ausgabe",
+ "stunde": 9,
+ "zeit": "2026-10-23T09:59:38.560Z",
+ "themen": [
+  {
+   "id": "erdbeben-tibet-china",
+   "titel": "Schweres Erdbeben trifft die autonome Region Tibet in China",
+   "rubrik": "Welt",
+   "eil": true,
+   "bilder": [],
+   "ort": {
+    "name": "Tibet, China",
+    "lat": 29.856,
+    "lon": 90.875
+   },
+   "saetze": [
+    "Ein schweres Erdbeben hat die Autonome Region Tibet in China getroffen.",
+    "Das Unglück ereignete sich am späten Abend des zwanzigsten Oktober zweitausendsechsundzwanzig.",
+    "Nach übereinstimmenden Berichten von Medien und Beobachtungsstellen hatte das Beben eine Stärke von sieben Komma null.",
+    "Das Epizentrum lag in einer Tiefe von zehn Kilometern.",
+    "Bei dem Erdbeben starben nach Angaben aller vorliegenden Berichte mindestens sechzehn Menschen.",
+    "Zudem stürzten mehr als dreihundert Häuser ein und hunderte Nachbeben wurden registriert.",
+    "Chinas Staats- und Parteichef Xi Jinping erklärte, die Rettungsmaßnahmen müssten mit aller Kraft vorangetrieben werden.",
+    "Das betroffene Gebiet in Tibet liegt sehr hoch und gilt als dünn besiedelt.",
+    "Die Regierung entsandte hunderte Einsatzkräfte sowie Hilfsgüter in die Region.",
+    "Wie sich die Situation vor Ort weiterentwickelt, ist wegen strenger Medienkontrollen schwer unabhängig zu überprüfen."
+   ]
+  },
+  {
+   "id": "israel-abriegelung-westjordanland",
+   "titel": "Israel bereitet nach Angriff vollständige Abriegelung des Westjordanlands vor",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [],
+   "ort": {
+    "name": "Hebron, Westjordanland",
+    "lat": 31.529,
+    "lon": 35.094
+   },
+   "saetze": [
+    "Nach einem Schusswaffenangriff in der Nähe von Hebron bereitet Israel eine vollständige Abriegelung des Westjordanlands vor. Das teilte das Büro des israelischen Ministerpräsidenten Benjamin Netanjahu mit. Bei dem Angriff am Morgen wurden nach Angaben von Rettungsdiensten fünf Menschen verletzt. Israelische Soldaten töteten daraufhin die zwei mutmaßlichen palästinensischen Angreifer. Netanjahu erklärte, die Sicherheitskräfte hätten dadurch einen schweren Anschlag verhindert. Der Regierungschef wies das Militär an, die Stadt Hebron sofort zu sperren und sich auf die Schließung aller Übergänge vorzubereiten. Die Hamas lobte den Angriff, übernahm aber keine direkte Verantwortung dafür. Die Maßnahmen finden kurz vor der Parlamentswahl in Israel am siebenundzwanzigsten Oktober statt. Der Konflikt mit den Palästinensern ist ein zentrales Thema im Wahlkampf. Umfragen zufolge ist der Ausgang der Wahl völlig offen."
+   ]
+  },
+  {
+   "id": "volkswagen-sparkurs-konflikt",
+   "titel": "Gespräche zwischen Volkswagen und IG Metall über Einsparungen und Tarifverträge",
+   "rubrik": "Wirtschaft",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Dr. Oliver Blume CEO Porsche AG.jpg",
+     "beschreibung": "Dr. Oliver Blume Member of the Executive Board - Production and Logistics - of Dr. Ing. h.c. F. Porsche AGMitglied des Vorstandes, Produktion und Logistik der Dr. Ing. h.c. F. Porsche AGFoto: PORSCHE ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Dr._Oliver_Blume_CEO_Porsche_AG.jpg/1280px-Dr._Oliver_Blume_CEO_Porsche_AG.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Dr._Oliver_Blume_CEO_Porsche_AG.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Dr._Oliver_Blume_CEO_Porsche_AG.jpg",
+     "urheber": "Foto: Marco Prosch, Porsche AG, überreicht durch Diana Sänger, Public Relations and Press ",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "artikel": "Oliver Blume",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Oliver Blume businessman",
+     "bildunterschrift": "Oliver Blume im Zusammenhang mit dem Automobilkonzern Volkswagen.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Wolfsburg VWHochhaus.jpg",
+     "beschreibung": "Wolfsburg, Lower Saxony, headquarters of Volkswagen AG",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Wolfsburg_VWHochhaus.jpg/1280px-Wolfsburg_VWHochhaus.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wolfsburg_VWHochhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Wolfsburg_VWHochhaus.jpg",
+     "urheber": "Vanellus Foto",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "institution",
+     "suchbegriff": "Volkswagen headquarters Wolfsburg",
+     "bildunterschrift": "Das Hochhaus der Konzernzentrale von Volkswagen in Wolfsburg.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Vorstandsverwaltung IG Metall, Frankfurt am Main.jpg",
+     "beschreibung": "Eingangsbereich der Vorstandsverwaltung der IG Metall im MainForum, Frankfurt am Main",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Vorstandsverwaltung_IG_Metall%2C_Frankfurt_am_Main.jpg/1280px-Vorstandsverwaltung_IG_Metall%2C_Frankfurt_am_Main.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Vorstandsverwaltung_IG_Metall%2C_Frankfurt_am_Main.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Vorstandsverwaltung_IG_Metall,_Frankfurt_am_Main.jpg",
+     "urheber": "OBSFFM",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "suchbegriff": "IG Metall logo",
+     "bildunterschrift": "Der Eingangsbereich der Vorstandsverwaltung der Gewerkschaft IG Metall in Frankfurt am Main.",
+     "hinweis": "Symbolbild"
+    }
+   ],
+   "ort": {
+    "name": "Hannover, Deutschland",
+    "lat": 52.374,
+    "lon": 9.739
+   },
+   "saetze": [
+    "Bei dem Automobilkonzern Volkswagen beraten Vertreter des Managements und der Gewerkschaften über die finanzielle Zukunft.",
+    "Das Treffen findet in der Stadt Hannover statt.",
+    "Der Aufsichtsrat hat einen neuen Zukunftsplan beschlossen.",
+    "Nach Angaben der Berichte will das Management weltweit fünfzigtausend Arbeitsplätze streichen.",
+    "Zudem hat das Unternehmen zehn Tarifverträge zum Jahresende gekündigt.",
+    "Das betrifft einen Haustarif für rund einhundertdreißigtausend Beschäftigte in Deutschland.",
+    "Die Gewerkschaft IG Metall fordert fünf Prozent mehr Geld und kritisiert das Vorgehen scharf.",
+    "Nach Angaben der Gewerkschaftsvertreter Thorsten Gröger und Daniela Cavallo drohen nach dem Ende der Friedenspflicht heftige Auseinandersetzungen.",
+    "Ein Überprüfungsgespräch soll klären, ob frühere Zusagen des Unternehmens eingehalten werden können.",
+    "Wie die Verhandlungen ausgehen und ob es zu Streiks kommt, bleibt vorerst offen."
+   ]
+  },
+  {
+   "id": "pferdekutschen-central-park-new-york",
+   "titel": "New York beschließt schrittweises Verbot von Pferdekutschen im Central Park",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [],
+   "ort": {
+    "name": "New York, USA",
+    "lat": 40.713,
+    "lon": -74.006
+   },
+   "saetze": [
+    "In New York endet nach Angaben der Medien eine rund einhundertfünfzig Jahre alte Tradition.",
+    "Der Stadtrat stimmte am Donnerstag für ein schrittweises Verbot der Pferdekutschen im Central Park.",
+    "Die Maßnahme soll nach übereinstimmenden Berichten bis zum ersten Juni 2028 vollständig umgesetzt sein.",
+    "Für das Gesetz stimmten im Stadtrat vierzig Mitglieder, während sieben dagegen waren.",
+    "Auslöser für den politischen Druck war nach Angaben der Berichte ein schwerer Unfall im vergangenen Juni.",
+    "Dabei kam ein achtzehnjähriger Tourist ums Leben, nachdem ein Pferd in Panik geraten war.",
+    "Tierschützer fordern das Verbot schon lange wegen mangelnder Tierhaltung.",
+    "Die Kutscher und Betreiber wiesen diese Vorwürfe nach Angaben der FAZ jedoch zurück.",
+    "Die Gewerkschaft kündigte an, das Gesetz vor Gericht anzufechten.",
+    "In einer zweijährigen Übergangszeit will die Stadt nun neue Arbeitsplätze für die Kutscher finden."
+   ]
+  },
+  {
+   "id": "tom-skerritt-tot",
+   "titel": "US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Tom Skerritt 2014 (cropped).jpg",
+     "beschreibung": "Tom Skerritt speaking at the 2014 Phoenix Comicon Fan Fest at the University of Phoenix Stadium in Glendale, Arizona. Please attribute to Gage Skidmore if used elsewhere.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tom_Skerritt_2014_%28cropped%29.jpg/1280px-Tom_Skerritt_2014_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Tom_Skerritt_2014_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Tom_Skerritt_2014_(cropped).jpg",
+     "urheber": "Gage Skidmore",
+     "lizenz": "CC BY-SA 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+     "artikel": "Tom Skerritt",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Tom Skerritt",
+     "bildunterschrift": "Der US-amerikanische Schauspieler Tom Skerritt bei einer Veranstaltung im Jahr 2014.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Vereinigte Staaten",
+    "lat": 39.784,
+    "lon": -100.446
+   },
+   "saetze": [
+    "Der US-amerikanische Schauspieler Tom Skerritt ist im Alter von dreiundneunzig Jahren gestorben.",
+    "Das bestätigten seine Angehörigen und sein Management übereinstimmend gegenüber mehreren Medien.",
+    "Nach Angaben der Familie starb der Schauspieler am Mittwoch eines natürlichen Todes.",
+    "Ein genauer Sterbeort wurde in den Berichten bisher nicht genannt.",
+    "Skerritt stand mehr als sechzig Jahre lang vor Filmkameras und Fernsehkameras.",
+    "Große Bekanntheit erlangte er durch Rollen in Klassikern wie Alien und Top Gun.",
+    "Im Jahr neunzehnhundertdreiundneunzig gewann er für die Serie Picket Fences den Fernsehpreis Emmy.",
+    "Schauspielerin Julia Roberts würdigte Skerritt öffentlich als Vorbild eines sanftmütigen Mannes.",
+    "Der Emmy gilt in den Vereinigten Staaten als wichtigste Auszeichnung für das Fernsehen.",
+    "Zu Terminen für eine Beisetzung machten die Angehörigen bisher keine Angaben."
+   ]
+  },
+  {
+   "id": "serbien-wahlen-studentenproteste",
+   "titel": "Parlamentswahl in Serbien: Opposition und Regierung bereiten sich auf Abstimmung vor",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Aleksandar Vučić 2019 (cropped).jpg",
+     "beschreibung": "Aleksandar Vučić in 2019",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg/1280px-Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Aleksandar_Vu%C4%8Di%C4%87_2019_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aleksandar_Vu%C4%8Di%C4%87_2019_(cropped).jpg",
+     "urheber": "duma.gov.ru",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "person",
+     "suchbegriff": "Aleksandar Vucic politician",
+     "bildunterschrift": "Aleksandar Vučić im Jahr 2019.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Airport City, Belgrade 13.jpg",
+     "beschreibung": "Airport City, business park and a commercial neighborhood at the site of the old Belgrade Airport",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Airport_City%2C_Belgrade_13.jpg/1280px-Airport_City%2C_Belgrade_13.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Airport_City%2C_Belgrade_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Airport_City,_Belgrade_13.jpg",
+     "urheber": "Lessormore",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "ort",
+     "suchbegriff": "Belgrade city view",
+     "bildunterschrift": "Ein Geschäftspark in Belgrad, dem Schauplatz der Wahlen.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Belgrad, Serbien",
+    "lat": 44.815,
+    "lon": 20.446
+   },
+   "saetze": [
+    "In Serbien findet an diesem Sonntag eine vorgezogene Parlamentswahl statt.",
+    "Zehntausende Menschen haben in der Hauptstadt Belgrad demonstriert.",
+    "Das war die Abschlusskundgebung der oppositionellen Studentenliste.",
+    "Nach Angaben der Tagesschau nahmen etwa einhundertfünfzigtausend Menschen an der Kundgebung teil.",
+    "Die Bewegung fordert ein Ende der Regierung der Serbischen Fortschrittspartei.",
+    "Ausgelöst wurden die Proteste nach Angaben der Tagesschau durch den Einsturz eines Bahnhofsvordachs im November des Jahres zweitausendvierundzwanzig.",
+    "Bei diesem Unglück in der Stadt Novi Sad starben sechzehn Menschen.",
+    "Der frühere Präsident Aleksandar Vučić trat im September zurück und kandidiert nun für das Amt des Regierungschefs.",
+    "Die Süddeutsche Zeitung berichtet zudem über Vorwürfe von Unregelmäßigkeiten und angeblichem Stimmenkauf im Wahlkampf.",
+    "Die Wählerinnen und Wähler entscheiden am Sonntag über die politische Zukunft des Landes."
+   ]
+  },
+  {
+   "id": "hitzetote-europa-studie",
+   "titel": "Wissenschaftliche Analyse verzeichnet Rekordzahl von Hitzetote in Europa",
+   "rubrik": "Wissen & Klima",
+   "eil": false,
+   "bilder": [],
+   "saetze": [
+    "Eine neue wissenschaftliche Untersuchung zeigt eine Rekordzahl von Hitzetoten für den Sommer 2026 in Europa.",
+    "Nach Angaben der Studie starben in europäischen Städten schätzungsweise etwa fünfzigtausend Menschen infolge von Hitze.",
+    "Die Forscher vom Imperial College London und der London School of Hygiene and Tropical Medicine veröffentlichten diese Zahlen.",
+    "Fast zwei Drittel der Todesfälle werden direkt auf den von Menschen verursachten Klimawandel zurückgeführt.",
+    "Für ihre Untersuchung werteten die Wissenschaftler Daten aus urbanen Zentren in mehreren europäischen Ländern aus.",
+    "Besonders der Monat Juni brachte mit Temperaturen von im Schnitt fünf Grad über dem Normalwert eine hohe Sterblichkeit.",
+    "Nach Angaben von Clair Barnes war dies der schlimmste Sommer seit Beginn der Aufzeichnungen.",
+    "Eine Übersterblichkeit bezeichnet eine statistisch auffällige Häufung von Todesfällen im Vergleich zu historischen Durchschnittswerten.",
+    "Forscher fordern nun, dass Städte durch mehr Grünflächen und eine bessere medizinische Versorgung gekühlt werden müssen.",
+    "Über konkrete politische Maßnahmen zur schnellen Umsetzung enthalten die Berichte bisher keine Angaben."
+   ]
+  },
+  {
+   "id": "php-sicherheitsluecke",
+   "titel": "Sicherheitslücken in Web-Programmiersprache PHP lösen weltweite Schutzmaßnahmen aus",
+   "rubrik": "Wirtschaft",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Claudia Plattner at Republica25 2025-05-27 05.jpg",
+     "beschreibung": "Claudia Plattner at the re:publica 25 in Berlin.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Claudia_Plattner_at_Republica25_2025-05-27_05.jpg/1280px-Claudia_Plattner_at_Republica25_2025-05-27_05.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Claudia_Plattner_at_Republica25_2025-05-27_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Claudia_Plattner_at_Republica25_2025-05-27_05.jpg",
+     "urheber": "Leonhard Lenz",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Claudia Plattner",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Claudia Plattner",
+     "bildunterschrift": "Claudia Plattner bei der Konferenz re:publica 25.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Bundesamt für Sicherheit in der Informationstechnik (ISO 27001-Zertifikat - kreisrundes Emblem) etwa Jahr 2025.png",
+     "beschreibung": "Bundesamt_für_Sicherheit_in_der_Informationstechnik_(ISO_27001-Zertifikat als Emblem)_etwa Jahr_2025, Bonn",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik_%28ISO_27001-Zertifikat_-_kreisrundes_Emblem%29_etwa_Jahr_2025.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik_%28ISO_27001-Zertifikat_-_kreisrundes_Emblem%29_etwa_Jahr_2025.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundesamt_f%C3%BCr_Sicherheit_in_der_Informationstechnik_(ISO_27001-Zertifikat_-_kreisrundes_Emblem)_etwa_Jahr_2025.png",
+     "urheber": "Bundesamt für Sicherheit in der Informationstechnik, Bonn",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "institution",
+     "suchbegriff": "Bundesamt für Sicherheit in der Informationstechnik",
+     "bildunterschrift": "Das Emblem des Bundesamtes für Sicherheit in der Informationstechnik.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Satya Nadella.jpg",
+     "beschreibung": "Satya Nadella",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Satya_Nadella.jpg/1280px-Satya_Nadella.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Satya_Nadella.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Satya_Nadella.jpg",
+     "urheber": "OFFICIAL LEWEB PHOTOS",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "Satya Nadella",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Satya Nadella",
+     "bildunterschrift": "Microsoft-CEO Satya Nadella.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "saetze": [
+    "Eine weltweite Sicherheitslücke in der Programmiersprache PHP hat umfangreiche Schutzmaßnahmen ausgelöst.",
+    "Fachleute entdeckten zwei schwere Fehler in der Software, die viele Internetseiten antreibt.",
+    "Nach Angaben der Firma Wiz nutzen rund siebzig Prozent aller Webseiten diese Programmiersprache.",
+    "Kriminelle versuchten, über die Schwachstellen fremde Computer aus der Ferne zu steuern.",
+    "Das Bundesamt für Sicherheit in der Informationstechnik stufte die Lage als außerordentlichen Notfall ein.",
+    "Zahlreiche Ministerien, Universitäten und Unternehmen schalteten ihre Onlineangebote vorsorglich ab.",
+    "Die Infrastrukturfirma Cloudflare registrierte kurz nach der Veröffentlichung Millionen automatisierter Angriffsversuche.",
+    "Nach Angaben deutscher und britischer Regierungsstellen gab es bisher keine erfolgreichen Angriffe auf staatliche Systeme.",
+    "Künstliche Intelligenz half Forschern beim Aufspüren der Fehler, wird aber auch von Angreifern genutzt.",
+    "Fachleute mahnen Betreiber weiterhin dazu, alle verfügbaren Sicherheitsaktualisierungen unverzüglich einzuspielen."
+   ]
+  },
+  {
+   "id": "starshield-drosselung-ukraine",
+   "titel": "US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine",
+   "rubrik": "Welt",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Donald Trump official portrait.jpg",
+     "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
+     "urheber": "Shealeah Craighead",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "Donald Trump official portrait",
+     "bildunterschrift": "US-Präsident Donald Trump, der sich zur Nutzung von Starlink äußerte.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Elon Musk (54816836217) (cropped 2) (b).jpg",
+     "beschreibung": "Elon Musk at the Memorial for Charlie Kirk at State Farm Stadium in Glendale, Arizona.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg/1280px-Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Elon_Musk_%2854816836217%29_%28cropped_2%29_%28b%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(54816836217)_(cropped_2)_(b).jpg",
+     "urheber": "Gage Skidmore",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Elon Musk",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Elon Musk 2023",
+     "bildunterschrift": "SpaceX-Chef Elon Musk, dessen Unternehmen das Satelliteninternet betreibt.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "New Year's Eve from President of Ukraine Volodymyr Zelensky (31-12-2025) (cropped).jpg",
+     "beschreibung": "Новорічне звернення президента України Володимира Зеленського.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_%2831-12-2025%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+     "urheber": "Press Service of the President of Ukraine",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Wolodymyr Selenskyj",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Volodymyr Zelenskyy official portrait",
+     "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "2017 - Київ - Місячний вечір на Замковій горі.jpg",
+     "beschreibung": "St Andrew's Church and Andriyivskyy Descent in Kyiv , Ukraine.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%9C%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D1%96%D1%80_%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D0%B3%D0%BE%D1%80%D1%96.jpg/1280px-2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%9C%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D1%96%D1%80_%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D0%B3%D0%BE%D1%80%D1%96.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%9C%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D1%96%D1%80_%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D0%B3%D0%BE%D1%80%D1%96.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2017_-_%D0%9A%D0%B8%D1%97%D0%B2_-_%D0%9C%D1%96%D1%81%D1%8F%D1%87%D0%BD%D0%B8%D0%B9_%D0%B2%D0%B5%D1%87%D1%96%D1%80_%D0%BD%D0%B0_%D0%97%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D1%96%D0%B9_%D0%B3%D0%BE%D1%80%D1%96.jpg",
+     "urheber": "Moahim",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "ort",
+     "suchbegriff": "Kyiv cityscape",
+     "bildunterschrift": "Ansicht der ukrainischen Hauptstadt Kiew.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "saetze": [
+    "Der US-Präsident Donald Trump hat erklärt, dass der SpaceX-Chef Elon Musk das Satelliteninternet Starlink für die Ukraine wieder eingeschaltet hat.",
+    "Das teilte Trump am Donnerstag vor Journalisten in Washington mit.",
+    "Zuvor hatten Medienberichte geschildert, dass Musk eine Drosselung des Systems angeordnet haben soll.",
+    "Durch diese Einschränkung waren ukrainische Drohnen nach Angaben aus Berichten zeitweise funktionsunfähig.",
+    "Das Wall Street Journal berichtete unter Berufung auf US-Regierungsmitarbeiter über eine Geschwindigkeitsbegrenzung von einhunderteinundsechzig Kilometern per Stunde.",
+    "Der ukrainische Präsident Wolodymyr Selenskij erklärte jedoch, dass die Geschwindigkeit des Netzes noch nicht vollständig wiederhergestellt ist.",
+    "Ob ein Anruf von Trump zu der Aufhebung geführt hat, ließ der US-Präsident offen.",
+    "Das Satellitennetzwerk Starlink ist für die ukrainischen Streitkräfte an der Front von zentraler Bedeutung.",
+    "Die ukrainische Regierung arbeitet nach eigenen Angaben weiter an der vollständigen Lösung der technischen Probleme.",
+    "Offizielle Bestätigungen von SpaceX oder dem US-Militär zu den Ursachen der Drosselung stehen noch aus."
+   ]
+  },
+  {
+   "id": "steuerschaeszung-rekordhoch",
+   "titel": "Steuerschätzung für Bund, Länder und Kommunen",
+   "rubrik": "Wirtschaft",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "2023-10-31 Einweihung Reformationsfenster (Fliegenfenster), Kirchenfenster von Markus Lüpertz in der Marktkirche von Hannover (100) 174 (cropped).jpg",
+     "beschreibung": "Dokumentarfotografie rund um die feierliche Einweihung des Reformationsfensters (\"Fliegenfenster\") von Markus Lüpertz am 31. Oktober 2023 ( Reformationstag ) in der Marktkirche von Hannover . Zu den r",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/2023-10-31_Einweihung_Reformationsfenster_%28Fliegenfenster%29%2C_Kirchenfenster_von_Markus_L%C3%BCpertz_in_der_Marktkirche_von_Hannover_%28100%29_174_%28cropped%29.jpg/1280px-2023-10-31_Einweihung_Reformationsfenster_%28Fliegenfenster%29%2C_Kirchenfenster_von_Markus_L%C3%BCpertz_in_der_Marktkirche_von_Hannover_%28100%29_174_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/2023-10-31_Einweihung_Reformationsfenster_%28Fliegenfenster%29%2C_Kirchenfenster_von_Markus_L%C3%BCpertz_in_der_Marktkirche_von_Hannover_%28100%29_174_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2023-10-31_Einweihung_Reformationsfenster_(Fliegenfenster),_Kirchenfenster_von_Markus_L%C3%BCpertz_in_der_Marktkirche_von_Hannover_(100)_174_(cropped).jpg",
+     "urheber": "Bernd Schwabe in Hannover",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Gerhard Schröder",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Lars Klingbeil politician",
+     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil zu den neuen Prognosen der Steuereinnahmen.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "saetze": [
+    "Der Arbeitskreis Steuerschätzung hat seine neuen Prognosen für die Steuereinnahmen bis zum Jahr 2030 vorgelegt. Bis zum Ende des Jahrzehnts kann der Staat mit rund 43 Milliarden Euro mehr rechnen als im Frühjahr erwartet. Verantwortlich dafür ist ein leicht verbessertes Wirtschaftswachstum. Bundesfinanzminister Lars Klingbeil stellte die Zahlen an einem Donnerstag in Berlin vor. Für das Jahr 2027 wird mit Steuereinnahmen von etwa einer Billion Euro gerechnet. Klingbeil erklärte jedoch, dass es trotz der Mehreinnahmen keine neuen Spielräume im Haushalt gibt. Verschiedene Politiker und Wirtschaftsverbände forderten dagegen Entlastungen wie eine Senkung der Stromsteuer. Eine Steuerschätzung ist eine amtliche Prognose als Grundlage für die Haushaltsplanung von Bund, Ländern und Kommunen. Der Bundestag berät zur Zeit über den Haushalt für das Jahr 2027."
+   ]
+  },
+  {
+   "id": "korallenriffe-bedroht-un",
+   "titel": "Untersuchung zu Korallenriffen vorgestellt",
+   "rubrik": "Wissen & Klima",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "Inger Andersen - 2022 (52546882286) (cropped).jpg",
+     "beschreibung": "Inger Andersen at the 2022 United Nations Biodiversity Conference",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Inger_Andersen_-_2022_%2852546882286%29_%28cropped%29.jpg/1280px-Inger_Andersen_-_2022_%2852546882286%29_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Inger_Andersen_-_2022_%2852546882286%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Inger_Andersen_-_2022_(52546882286)_(cropped).jpg",
+     "urheber": "UN Biodiversity",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "Inger Andersen (environmentalist)",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Grethel Aguilar",
+     "bildunterschrift": "Inger Andersen bei der Biodiversitätskonferenz der Vereinten Nationen.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "GreatBarrierReef-EO.JPG",
+     "beschreibung": "Satelite image of the Great Barrier Reef",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/GreatBarrierReef-EO.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/GreatBarrierReef-EO.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:GreatBarrierReef-EO.JPG",
+     "urheber": "NASA, by MISR",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Great Barrier Reef",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Great Barrier Reef",
+     "bildunterschrift": "Eine Satellitenaufnahme des Great Barrier Reef.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Eriwan, Armenien",
+    "lat": 40.178,
+    "lon": 44.513
+   },
+   "saetze": [
+    "Eine neue Studie der Weltnaturschutzunion warnt vor dem weltweiten Sterben von Korallenriffen.",
+    "Die Organisation stellte die Untersuchung am Rande der Vereinte Nationen Artenschutzkonferenz in Armenien vor.",
+    "Bis zum Jahr 2075 sind demnach sechsundneunzig Prozent aller Flachwasser Korallenriffe vom Absterben bedroht.",
+    "Für die Bewertung nutzten Wissenschaftler ein Klimaszenario mit einer Erwärmung von zwei Komma sieben Grad.",
+    "Als Hauptursache für die Zerstörung nennen Fachleute den Hitzestress infolge des Klimawandels.",
+    "Durch zu warme Ozeane stoßen Korallen wichtige Mikroalgen ab und bleichen aus.",
+    "Forscher wie der Meeresbiologe Georg Flückiger fordern rasche und drastische Reduktionen von Kohlendioxid.",
+    "Die Weltnaturschutzunion hat die Riffe nun auf die Rote Liste der Ökosysteme gesetzt.",
+    "Die Organisation betont jedoch, dass ein Schutz der Riffe bei schnellem Handeln noch möglich ist."
+   ]
+  },
+  {
+   "id": "russland-spion-brandenburg",
+   "titel": "Festnahme eines mutmaßlichen Spions in Brandenburg",
+   "rubrik": "Deutschland",
+   "eil": false,
+   "bilder": [
+    {
+     "titel": "2024-08-21 Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024 STP 3111 by Stepro.jpg",
+     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg/1280px-2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2024-08-21_Event%2C_CDU%2C_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Event,_CDU,_Wahlkampf_mit_Friedrich_Merz_in_Erfurt_2024_STP_3111_by_Stepro.jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "person",
+     "suchbegriff": "Friedrich Merz",
+     "bildunterschrift": "Friedrich Merz als Parteivorsitzender der CDU.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Logo - BMJV (en).png",
+     "beschreibung": "English logo of the German Federal Ministry of Justice and Consumer Protection (BMJV).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Logo_-_BMJV_%28en%29.png/1280px-Logo_-_BMJV_%28en%29.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/Logo_-_BMJV_%28en%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Logo_-_BMJV_(en).png",
+     "urheber": "Federal Ministry of Justice and Consumer Protection (BMJV)",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Federal Ministry of Justice and Consumer Protection",
+     "sprache": "en",
+     "art": "institution",
+     "suchbegriff": "Federal Court of Justice of Germany",
+     "bildunterschrift": "Das Logo des zuständigen Bundesministeriums.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ort": {
+    "name": "Brandenburg, Deutschland",
+    "lat": 52.846,
+    "lon": 13.246
+   },
+   "saetze": [
+    "In Brandenburg hat die Polizei einen mutmaßlichen Spion festgenommen.",
+    "Der Mann ist dreiundfünfzig Jahre alt und besitzt die ukrainische Staatsbürgerschaft.",
+    "Das gaben Ermittler von Polizei und Bundesanwaltschaft bekannt.",
+    "Der Verdächtige soll seit mindestens Juli zweitausendfünfundzwanzig für einen russischen Nachrichtendienst gearbeitet haben.",
+    "Dabei soll er Rüstungsfirmen und militärische Daten ausgespäht haben.",
+    "Bundeskanzler Friedrich Merz bezeichnete die Aufdeckung des Falls als Erfolg.",
+    "Merz sagte nach Angaben der Rundfunkanstalt British Broadcasting Corporation, dass die Spionageaktivitäten in Deutschland auf einem hohen Niveau bleiben.",
+    "Russland wies andere Vorwürfe im Zusammenhang mit Sabotage zuvor zurück.",
+    "Der Beschuldigte soll einem Ermittlungsrichter vorgeführt werden."
+   ]
+  }
+ ]
+}
