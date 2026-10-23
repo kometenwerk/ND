@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-22T20:01:59.897Z",
+ "stand": "2026-10-23T04:40:46.402Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -334,7 +334,72 @@
     "wikipedia": "Spore",
     "fokus": "Dieses Kapitel erläutert die Mechanismen der Fortpflanzung und Ausbreitung.",
     "versuche": 2,
-    "zuDuenn": 2
+    "zuDuenn": 3,
+    "absaetze": [
+     "Nach der Entstehung der Fruchtkörper schauen wir nun auf die Mechanismen der Fortpflanzung und Ausbreitung.",
+     "Eine Spore ist meistens ein einzelliges Entwicklungsstadium von Lebewesen.",
+     "Sporen werden von Pilzen und weiteren Lebewesen in großer Zahl gebildet.",
+     "Viele Sporen sind außerordentlich widerstandsfähig und überleben lange.",
+     "Im nächsten Kapitel betrachten wir weitere Schritte im Leben der Pilze."
+    ],
+    "fakten": [
+     [
+      "Zahl der Zellen",
+      "zumeist einzellig, seltener wenigzellig"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Spore",
+      "Ein zumeist einzelliges Entwicklungsstadium von Lebewesen zur Vermehrung und Ausbreitung."
+     ],
+     [
+      "Basidiosporen",
+      "So werden die Sporen von Ständerpilzen genannt."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Spore",
+     "bildunterschrift": "Eine Spore dient der Vermehrung und Ausbreitung von Pilzen."
+    },
+    "quelle": {
+     "titel": "Spore",
+     "url": "https://de.wikipedia.org/wiki/Spore"
+    },
+    "woerter": 54,
+    "bildInfos": [
+     {
+      "titel": "Puffballs emitting spores.jpg",
+      "beschreibung": "A common puffball emits spores.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Puffballs_emitting_spores.jpg/1280px-Puffballs_emitting_spores.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Puffballs_emitting_spores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Puffballs_emitting_spores.jpg",
+      "urheber": "Lesmalvern",
+      "lizenz": "CC BY-SA 4.0",
+      "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artikel": "Spore",
+      "sprache": "de",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Eine Spore dient der Vermehrung und Ausbreitung von Pilzen."
+     }
+    ],
+    "bildInfo": {
+     "titel": "Puffballs emitting spores.jpg",
+     "beschreibung": "A common puffball emits spores.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Puffballs_emitting_spores.jpg/1280px-Puffballs_emitting_spores.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Puffballs_emitting_spores.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Puffballs_emitting_spores.jpg",
+     "urheber": "Lesmalvern",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Spore",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Eine Spore dient der Vermehrung und Ausbreitung von Pilzen."
+    }
    },
    {
     "ueberschrift": "Das unterirdische Netzwerk im Wald",
