@@ -1,6 +1,175 @@
 {
- "stand": "2026-10-23T15:00:31.786Z",
+ "stand": "2026-10-23T19:08:49.190Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-ein-kompass",
+   "zeit": "2026-10-23T19:25:51.768Z",
+   "bereich": "Technik und Erfindungen",
+   "titel": "Wie funktioniert eigentlich ein Kompass?",
+   "vorspann": "Ein Kompass zeigt uns die Himmelsrichtungen an und hilft bei der Orientierung. Schon vor Jahrhunderten nutzten Menschen die magnetische Kraft der Erde für die Navigation.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Der Kompass ist ein Instrument zur Anzeige der Richtung des Erdmagnetfelds. Damit bestimmt er die Richtung von Nord- und Südpol der Erde und daraus abgeleitet die anderen Himmelsrichtungen. In seiner einfachsten Form besteht ein Magnetkompass aus einer frei beweglichen Nadel aus magnetischem Material. Der magnetische Nordpol der Nadel dreht sich zum magnetischen Südpol der Erde, der nahe beim geografischen Nordpol in der Arktis liegt. Andere Ausführungen sind elektronische Magnetkompasse auf Basis von Hall-Sensoren oder Kreiselkompasse.",
+      "Ganz ohne Ausnutzung des Erdmagnetfelds arbeiten Kreiselkompasse, deren Wirkungsweise auf der Erdrotation beruht. Die Richtungsmessung erfolgt hier bezüglich der geografischen Nord-Süd-Richtung anstatt zur Richtung der Feldlinien des Erdmagnetfelds. Es gibt auch Sonnenkompasse, die ganz ohne Magnetfeld auskommen. Für die Land-Navigation wird heute meist ein Plattenkompass verwendet, dessen Gehäuse sich in einer durchsichtigen Acrylglas-Platte befindet."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Der klassische Magnetkompass besteht aus einem drehbaren Zeiger aus ferromagnetischem Material und einem Gehäuse, in dem dieser Zeiger reibungsarm gelagert ist. Als Träger der Magnetnadel dienen abriebfeste Edelsteine wie Rubin oder Saphir. Am Gehäuse ist in der Regel eine Winkelskala angebracht. Bei Schiffskompassen befindet sich diese Winkelskala als komplette Scheibe auf der Nadel, während am Gehäuse nur ein Steuerstrich zu finden ist.",
+      "Wenn der Zeiger nach allen Richtungen frei beweglich ist, richtet er sich in Richtung des Erdmagnetfelds aus. Dessen Feldlinien verlaufen ungefähr in geographischer Nord-Süd-Richtung. Kompasskapseln sind heutzutage meist mit einer Flüssigkeit gefüllt, um die Bewegung der Nadel zu dämpfen. Dadurch vibriert sie bei Erschütterungen weniger, was das Ablesen erleichtert, ohne das rasche Einschwingen zu erschweren.",
+      "Anfang des 15. Jahrhunderts bemerkte man in Europa, dass die Kompassnadel nicht genau zum geografischen Nordpol zeigt. Diese Abweichung nennt man Ortsmissweisung oder Deklination. Ein englischer Kompassbauer namens Robert Norman bemerkte zudem die Inklination, bei der sich eine ausbalancierte Magnetnadel nach dem Magnetisieren neigte."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Erkenntnis, dass sich Splitter von Magneteisenstein in die Nord-Süd-Richtung drehen, war in Europa seit der griechischen Antike und in China seit der Zeit der Streitenden Reiche zwischen 475 vor Christus und 221 vor Christus bekannt. Chinesische Navigatoren kannten den nassen Kompass bereits um die Jahrtausendwende und benutzten eine schwimmende Magnetnadel. In Europa beschrieb der englische Gelehrte Alexander Neckam den nassen Kompass im Jahr 1187 als eine magnetisierte schwimmende Nadel unter Seeleuten.",
+      "Die erste schriftliche Erwähnung einer trockenen Magnetnadel findet sich im Epistola de magnete von 1269, geschrieben von Petrus Peregrinus de Maricourt. Ein Seefahrer namens Flavio Gioia wird am Hafen von Amalfi als angeblicher Erfinder geehrt, wobei diese Legende wahrscheinlich auf einem Übersetzungsfehler beruht. Edmund Oskar von Lippmann veröffentlichte 1932 eine Studie über eine hypothetische Erfindung in Europa, deren Theorie heute teilweise noch vertreten wird."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Es ist nicht sicher, wer die Missweisung der Kompassnadel zuerst erkannt hat, auch wenn Georg von Peuerbach als der erste gilt, der darüber schrieb."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Entstehungszeit nasser Kompass in China",
+     "Um die Jahrtausendwende"
+    ],
+    [
+     "Erste schriftliche Erwähnung des trockenen Kompasses",
+     "1269"
+    ],
+    [
+     "Erwähnung durch Alexander Neckam",
+     "1187"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Deklination",
+     "Die Abweichung der Kompassnadel vom geografischen Nordpol."
+    ],
+    [
+     "Inklination",
+     "Das Neigen einer magnetisierten Nadel nach unten."
+    ],
+    [
+     "Bussole",
+     "Ein Kompass mit Peilvorrichtung."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann wurde der trockene Kompass das erste Mal schriftlich erwähnt?",
+     "optionen": [
+      "1187",
+      "1269",
+      "1400"
+     ],
+     "richtig": 1,
+     "erklaerung": "Im Epistola de magnete von 1269 wird die trocken auf einem Stift spielende Magnetnadel erstmals erwähnt."
+    }
+   ],
+   "video": [
+    "Ein Kompass zeigt die Richtung des Erdmagnetfelds an.",
+    "In seiner einfachen Form besteht er aus einer frei beweglichen Nadel.",
+    "Diese Nadel dreht sich zum magnetischen Südpol der Erde.",
+    "Schon im alten China nutzten Menschen schwimmende Magnetnadeln.",
+    "Im Jahr 1269 wurde der trockene Kompass erstmals schriftlich beschrieben.",
+    "Flüssigkeiten in der Kompasskapsel dämpfen die Bewegungen der Nadel.",
+    "Die Abweichung zum geografischen Nordpol nennt man Deklination.",
+    "Auch heute noch nutzen Profis den Kompass als zuverlässige Orientierung."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Kompass",
+    "bildunterschrift": "Ein klassischer Kompass mit einer Magnetnadel und einer Winkelskala."
+   },
+   "quelle": {
+    "titel": "Kompass",
+    "url": "https://de.wikipedia.org/wiki/Kompass",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 450,
+   "bildInfos": [
+    {
+     "titel": "Anders Kompass (cropped).jpg",
+     "beschreibung": "OHCHR’s Anders Kompass on March 2, 2012 at the High Level Segment of the 19th Session of the HRC. U.S. Mission Photo by Eric Bridiers",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Anders_Kompass_%28cropped%29.jpg/1280px-Anders_Kompass_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Anders_Kompass_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Anders_Kompass_(cropped).jpg",
+     "urheber": "United States Mission Geneva",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "Anders Kompass",
+     "sprache": "en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein klassischer Kompass mit einer Magnetnadel und einer Winkelskala."
+    },
+    {
+     "titel": "Boussole avec inclinomètre.jpg",
+     "beschreibung": "Boussole avec inclinomètre",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Boussole_avec_inclinom%C3%A8tre.jpg/1280px-Boussole_avec_inclinom%C3%A8tre.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Boussole_avec_inclinom%C3%A8tre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Boussole_avec_inclinom%C3%A8tre.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Boussole avec inclinomètre"
+    },
+    {
+     "titel": "Boussole en grades table conversion.jpg",
+     "beschreibung": "Aguja náutica para navegación deportiva",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Boussole_en_grades_table_conversion.jpg/1280px-Boussole_en_grades_table_conversion.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Boussole_en_grades_table_conversion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Boussole_en_grades_table_conversion.jpg",
+     "urheber": "No machine-readable author provided. Jaypee assumed (based on copyright claims).",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Aguja náutica para navegación deportiva"
+    },
+    {
+     "titel": "Boussole fantassin russe.jpg",
+     "beschreibung": "Soviet Army wrist compass with two (opposite) scales, 360 degrees clockwise and 6000 Soviet mil counterclockwise, the latter shown in hundreds (0–60, i.e. 15 = 1500 mil, 30 = 3000 mil, 45 = 4500 mil).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Boussole_fantassin_russe.jpg/1280px-Boussole_fantassin_russe.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/Boussole_fantassin_russe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Boussole_fantassin_russe.jpg",
+     "urheber": "Jean-Patrick Donzey",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Soviet Army wrist compass with two (opposite) scales, 360 degrees clockwise and 6000 Soviet mil counterclockwise, the latter shown in hundreds (0–60, i.e. 15 = 1500 mil, 30 = 3000 mil, 45 = 4500 mil)."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Anders Kompass (cropped).jpg",
+    "beschreibung": "OHCHR’s Anders Kompass on March 2, 2012 at the High Level Segment of the 19th Session of the HRC. U.S. Mission Photo by Eric Bridiers",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Anders_Kompass_%28cropped%29.jpg/1280px-Anders_Kompass_%28cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Anders_Kompass_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Anders_Kompass_(cropped).jpg",
+    "urheber": "United States Mission Geneva",
+    "lizenz": "CC BY 2.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+    "artikel": "Anders Kompass",
+    "sprache": "en",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein klassischer Kompass mit einer Magnetnadel und einer Winkelskala."
+   }
+  },
   {
    "id": "wie-lebten-die-roemischen-gladiatoren-wirklich",
    "zeit": "2026-10-23T15:21:50.077Z",
@@ -6849,171 +7018,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Während einer Mondfinsternis wandert der Mond durch den Schatten der Erde."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-nebel",
-   "zeit": "2026-10-06T20:22:55.376Z",
-   "bereich": "Natur und Tiere",
-   "titel": "Wie entsteht eigentlich Nebel?",
-   "vorspann": "Nebel besteht aus feinen Wassertröpfchen in der Luft, die direkten Bodenkontakt haben. Wenn die Sichtweite unter einen Kilometer sinkt, sprechen Fachleute von Nebel.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Unter Nebel versteht man in der Meteorologie einen Teil der Atmosphäre, in dem Wassertröpfchen fein verteilt sind. Dieser Teil der Luft steht in direkten Kontakt mit dem Boden. Entstanden sind die Wassertröpfchen durch Kondensation des Wassers in feuchter und übersättigter Luft. Fachlich gesehen handelt es sich bei Nebel um ein Aerosol. In der meteorologischen Systematik wird er zu den Hydrometeoren gezählt.",
-      "Sichtweiteneinschränkungen sind für die genaue Bestimmung wichtig. Erst bei einer Sichtweite von weniger als einem Kilometer wird von Nebel gesprochen. Sichtweiten von einem bis etwa vier Kilometern gelten dagegen als Dunst. Nebel und Dunst unterscheiden sich von Wolken im Grunde nur durch ihren Bodenkontakt. Ansonsten sind sie nahezu identisch mit Wolken."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Nebel entsteht bei einer meistens stabilen Atmosphärenschichtung, wenn wassergesättigte Luft den Taupunkt erreicht. Ein Absinken der Temperatur oder eine Erhöhung des absoluten Wassergehalts führt im Idealfall zur sofortigen Kondensation. Dabei bilden sich kleine Wassertrömchen. Ob diese Kondensation sofort erfolgt, hängt wesentlich von sogenannten Kondensationskernen ab.",
-      "Es gibt verschiedene Arten von Nebel, die meistens nach ihren Entstehungsbedingungen unterschieden werden. Dazu gehören Strahlungsnebel, Advektionsnebel, Verdunstungsnebel, Mischungsnebel und orographische Nebel. Als Sonderform wird oft der Eisnebel betrachtet. Strahlungsnebel entstehen beispielsweise infolge der nächtlichen Ausstrahlung der Erdoberfläche."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Die Eigenschaften von Nebel lassen sich genau messen und bestimmen. So haben Tröpfchendurchmesser in Nebeln meistens nur wenige hundertstel Millimeter. Bei leicht nässendem Nebel überschreiten die Tröpfchen im Mittel zehn bis zwanzig Mikrometer nicht. Bei dichtem Nebel liegt die Größe eher bei zwanzig bis vierzig Mikrometern. Ein Kubikmeter Luft enthält bei Nebel etwa 0,01 bis 0,3 Gramm kondensiertes Wasser."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der bereitgestellte Text enthält keine Angaben darüber, welche Fragen in der Forschung zum Thema Nebel noch ungeklärt sind."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Sichtweite bei Nebel",
-     "unter einem Kilometer"
-    ],
-    [
-     "Wassergehalt in einem Kubikmeter Nebelluft",
-     "0,01 bis 0,3 Gramm"
-    ],
-    [
-     "Tröpfchengröße bei dichtem Nebel",
-     "20 bis 40 Mikrometer"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Aerosol",
-     "Ein Aerosol ist ein Gemisch aus schwebenden festen oder flüssigen Teilchen und einem Gas wie Luft."
-    ],
-    [
-     "Kondensation",
-     "Kondensation beschreibt den Vorgang, bei dem ein Stoff von einem gasförmigen in einen flüssigen Zustand übergeht."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Ab welcher Sichtweite spricht man offiziell von Nebel?",
-     "optionen": [
-      "Unter einem Kilometer",
-      "Genau bei fünf Kilometern",
-      "Bei exakt zehn Kilometern"
-     ],
-     "richtig": 0,
-     "erklaerung": "Erst bei einer Sichtweite von weniger als einem Kilometer sprechen Fachleute von Nebel."
-    }
-   ],
-   "video": [
-    "Nebel ist in der Meteorologie ein Teil der Atmosphäre.",
-    "Dort sind winzige Wassertröpfchen fein verteilt.",
-    "Diese Tröpfchen haben direkten Kontakt zum Boden.",
-    "Erst bei einer Sichtweite unter einem Kilometer spricht man von Nebel.",
-    "Dunst hat dagegen eine Sichtweite von ein bis vier Kilometern.",
-    "Es gibt verschiedene Arten wie Strahlungsnebel oder Advektionsnebel.",
-    "Strahlungsnebel entstehen oft in klaren Nächten durch Abkühlung.",
-    "Dabei kühlt sich die bodennahe Luft stark ab.",
-    "Wasser dampft aus und kondensiert zu winzigen Tröpfchen.",
-    "So bildet sich die sichtbare Nebelschicht über dem Boden."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Nebel",
-    "bildunterschrift": "Nebel entsteht, wenn feuchte Luft am Boden abkühlt und Wassertröpfchen sichtbar werden."
-   },
-   "quelle": {
-    "titel": "Nebel",
-    "url": "https://de.wikipedia.org/wiki/Nebel",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 272,
-   "bildInfos": [
-    {
-     "titel": "Clouds CL6.jpg",
-     "beschreibung": "Grey Stratus nebulosus translucidus , C L = 6.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Clouds_CL6.jpg/1280px-Clouds_CL6.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Clouds_CL6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Clouds_CL6.jpg",
-     "urheber": "Simon Eugster -- Simon",
-     "lizenz": "CC BY-SA 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-     "artikel": "Nebel",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Nebel entsteht, wenn feuchte Luft am Boden abkühlt und Wassertröpfchen sichtbar werden."
-    },
-    {
-     "titel": "A Glorious View (detail) - Flickr - NASA Goddard Photo and Video.jpg",
-     "beschreibung": "Click here to see the full res file: www.flickr.com/photos/gsfc/7551317226 A layer of stratocumulus clouds over the Pacific Ocean served as the backdrop for this rainbow-like optical phenomenon known ",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/A_Glorious_View_%28detail%29_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg/1280px-A_Glorious_View_%28detail%29_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/A_Glorious_View_%28detail%29_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:A_Glorious_View_(detail)_-_Flickr_-_NASA_Goddard_Photo_and_Video.jpg",
-     "urheber": "NASA Goddard Space Flight Center from Greenbelt, MD, USA",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Click here to see the full res file: www.flickr.com/photos/gsfc/7551317226 A layer of stratocumulus clouds over the Pacific Ocean served as the backdrop for this rainbow-like optical phenomenon known "
-    },
-    {
-     "titel": "Aufkommender Nebel am Nebelhorn.jpg",
-     "beschreibung": "Aufkommender Nebel am Nebelhorn",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Aufkommender_Nebel_am_Nebelhorn.jpg/1280px-Aufkommender_Nebel_am_Nebelhorn.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Aufkommender_Nebel_am_Nebelhorn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aufkommender_Nebel_am_Nebelhorn.jpg",
-     "urheber": "Dirk D.",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Aufkommender Nebel am Nebelhorn"
-    },
-    {
-     "titel": "Birka Paradise i dimma.jpg",
-     "beschreibung": "The ship Birka Paradise in fog utside Djurgården in Stockholm.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Birka_Paradise_i_dimma.jpg/1280px-Birka_Paradise_i_dimma.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Birka_Paradise_i_dimma.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Birka_Paradise_i_dimma.jpg",
-     "urheber": "Modeen",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "The ship Birka Paradise in fog utside Djurgården in Stockholm."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Clouds CL6.jpg",
-    "beschreibung": "Grey Stratus nebulosus translucidus , C L = 6.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Clouds_CL6.jpg/1280px-Clouds_CL6.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Clouds_CL6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Clouds_CL6.jpg",
-    "urheber": "Simon Eugster -- Simon",
-    "lizenz": "CC BY-SA 2.5",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "artikel": "Nebel",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Nebel entsteht, wenn feuchte Luft am Boden abkühlt und Wassertröpfchen sichtbar werden."
    }
   }
  ]
