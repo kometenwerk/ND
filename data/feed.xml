@@ -2,139 +2,126 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 23 Oct 2026 19:08:49 GMT</lastBuildDate>
-  <generator>Nachrichten-Heft</generator>
+  <lastBuildDate>Fri, 23 Oct 2026 20:05:00 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
-  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <item>
+    <title>Schusswaffenangriff in der Pariser Großraumregion</title>
+    <description>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</description>
+    <itunes:summary>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</itunes:summary>
+    <pubDate>Fri, 23 Oct 2026 20:05:00 +0000</pubDate>
+    <guid isPermaLink="false">podcast-paris-schuesse-terrorverdacht</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-paris-schuesse-terrorverdacht.mp3" length="2836077" type="audio/mpeg"/>
+    <itunes:duration>00:05:54</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Hauptausgabe vom 2026-10-23</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</itunes:summary>
-    <pubDate>Fri, 23 Oct 2026 04:40:46 GMT</pubDate>
+    <pubDate>Fri, 23 Oct 2026 04:40:46 +0000</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-23</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-23.mp3" length="3772317" type="audio/mpeg"/>
     <itunes:duration>00:10:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Mutmaßlicher russischer Spion in Brandenburg festgenommen</title>
     <description>Ein ukrainischer Staatsbürger sitzt in Brandenburg unter Spionageverdacht in U-Haft. Wir analysieren die Hintergründe der Festnahme und die Warnungen der Politik.</description>
     <itunes:summary>Ein ukrainischer Staatsbürger sitzt in Brandenburg unter Spionageverdacht in U-Haft. Wir analysieren die Hintergründe der Festnahme und die Warnungen der Politik.</itunes:summary>
-    <pubDate>Thu, 22 Oct 2026 20:19:48 GMT</pubDate>
+    <pubDate>Thu, 22 Oct 2026 20:19:48 +0000</pubDate>
     <guid isPermaLink="false">podcast-russland-spion-brandenburg</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-russland-spion-brandenburg.mp3" length="3766317" type="audio/mpeg"/>
     <itunes:duration>00:07:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>UN-Klimabericht warnt vor Erwärmung um 2,8 Grad</title>
     <description>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</description>
     <itunes:summary>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</itunes:summary>
-    <pubDate>Wed, 21 Oct 2026 20:21:47 GMT</pubDate>
+    <pubDate>Wed, 21 Oct 2026 20:21:47 +0000</pubDate>
     <guid isPermaLink="false">podcast-un-klimabericht-2-8-grad</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-un-klimabericht-2-8-grad.mp3" length="4509933" type="audio/mpeg"/>
     <itunes:duration>00:09:24</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Koalitionsverhandlungen in Berlin bei Grünen und SPD</title>
     <description>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</description>
     <itunes:summary>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</itunes:summary>
-    <pubDate>Tue, 20 Oct 2026 20:12:05 GMT</pubDate>
+    <pubDate>Tue, 20 Oct 2026 20:12:05 +0000</pubDate>
     <guid isPermaLink="false">podcast-berliner-sondierungsgespraeche-unterbrochen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-berliner-sondierungsgespraeche-unterbrochen.mp3" length="2658477" type="audio/mpeg"/>
     <itunes:duration>00:05:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Vorfall am Flughafen Leipzig-Halle und die Ermittlungen</title>
     <description>Nach einem Zaundurchbruch am Flughafen Leipzig-Halle haben sich zwei Tatverdächtige gestellt. Die Hintergründe des Vorfalls und mögliche Zusammenhänge mit früheren Ereignissen bleiben Gegenstand der Ermittlungen.</description>
     <itunes:summary>Nach einem Zaundurchbruch am Flughafen Leipzig-Halle haben sich zwei Tatverdächtige gestellt. Die Hintergründe des Vorfalls und mögliche Zusammenhänge mit früheren Ereignissen bleiben Gegenstand der Ermittlungen.</itunes:summary>
-    <pubDate>Mon, 19 Oct 2026 21:17:35 GMT</pubDate>
+    <pubDate>Mon, 19 Oct 2026 21:17:35 +0000</pubDate>
     <guid isPermaLink="false">podcast-flughafen-leipzig-sicherheitsvorfall</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-flughafen-leipzig-sicherheitsvorfall.mp3" length="6589869" type="audio/mpeg"/>
     <itunes:duration>00:13:44</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Ausschreitungen und Festnahmen in Frankreich</title>
     <description>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</description>
     <itunes:summary>Hundertetausende Menschen protestieren in Frankreich gegen hohe Lebenshaltungskosten und Missstände im Bildungssystem. Am Rande der Demonstrationen kommt es zu schweren Ausschreitungen, Plünderungen und zahlreichen Festnahmen.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 18:53:19 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 18:53:19 +0000</pubDate>
     <guid isPermaLink="false">podcast-frankreich-proteste-eskalation</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-frankreich-proteste-eskalation.mp3" length="3699309" type="audio/mpeg"/>
     <itunes:duration>00:07:42</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Die Geschichte unserer Schrift</title>
     <description>Wie aus einfachen Zeichen unser modernes Alphabet wurde.</description>
     <itunes:summary>Wie aus einfachen Zeichen unser modernes Alphabet wurde.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 10:57:27 GMT</pubDate>
+    <pubDate>Sun, 18 Oct 2026 10:57:27 +0000</pubDate>
     <guid isPermaLink="false">doku-die-geschichte-unserer-schrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-doku-die-geschichte-unserer-schrift.mp3" length="7900653" type="audio/mpeg"/>
     <itunes:duration>00:21:57</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Trumps Dekret stoppt Russland-Sanktionen vorerst</title>
     <description>US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.</description>
     <itunes:summary>US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.</itunes:summary>
-    <pubDate>Sat, 17 Oct 2026 18:50:31 GMT</pubDate>
+    <pubDate>Sat, 17 Oct 2026 18:50:31 +0000</pubDate>
     <guid isPermaLink="false">podcast-trump-russland-sanktionen-ausgesetzt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-trump-russland-sanktionen-ausgesetzt.mp3" length="6780909" type="audio/mpeg"/>
     <itunes:duration>00:14:08</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Bundestag beschließt Einführung der Frühstartrente für Kinder</title>
     <description>Der Bundestag hat die Einführung der Frühstartrente beschlossen. Wir besprechen die Hintergründe, Zahlen und offenen Fragen zur privaten Altersvorsorge für Kinder.</description>
     <itunes:summary>Der Bundestag hat die Einführung der Frühstartrente beschlossen. Wir besprechen die Hintergründe, Zahlen und offenen Fragen zur privaten Altersvorsorge für Kinder.</itunes:summary>
-    <pubDate>Fri, 16 Oct 2026 19:46:00 GMT</pubDate>
+    <pubDate>Fri, 16 Oct 2026 19:46:00 +0000</pubDate>
     <guid isPermaLink="false">podcast-fruehstartrente-bundestag</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-fruehstartrente-bundestag.mp3" length="2710701" type="audio/mpeg"/>
     <itunes:duration>00:05:39</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Wirtschaftspreis in Stockholm geht an Hall und Woodford</title>
-    <description>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</description>
-    <itunes:summary>Die diesjährige Auszeichnung in Gedenken an Alfred Nobel ehrt zwei US-Forscher für ihre Arbeiten zur Stabilisierungspolitik. Im Podcast besprechen wir die Hintergründe der Entscheidung und offene Punkte aus der Berichterstattung.</itunes:summary>
-    <pubDate>Thu, 15 Oct 2026 20:02:46 GMT</pubDate>
-    <guid isPermaLink="false">podcast-wirtschaftsnobelpreis-2026</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-wirtschaftsnobelpreis-2026.mp3" length="7694061" type="audio/mpeg"/>
-    <itunes:duration>00:16:02</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Die Reise des Wassers</title>
     <description>Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.</description>
     <itunes:summary>Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.</itunes:summary>
-    <pubDate>Wed, 23 Sep 2026 05:55:16 GMT</pubDate>
+    <pubDate>Wed, 23 Sep 2026 05:55:16 +0000</pubDate>
     <guid isPermaLink="false">doku-die-reise-des-wassers</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-doku-die-reise-des-wassers.mp3" length="2041293" type="audio/mpeg"/>
     <itunes:duration>00:05:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
