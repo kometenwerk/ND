@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 24 Oct 2026 07:14:26 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 12:38:35 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-10-24</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schüsse in Vororten von Paris: Anti-Terror-Staatsanwaltschaft ermittelt · Russland und die Ukraine vereinbaren örtliche Waffenruhe für Oleschky · Israel startet Anti-Terror-Operation im Westjordanland nach Angriff · Schusswaffenangriff auf eine Kirche in Jordanien · Verwendung des Satelliteninternets Starlink in der Ukraine</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schüsse in Vororten von Paris: Anti-Terror-Staatsanwaltschaft ermittelt · Russland und die Ukraine vereinbaren örtliche Waffenruhe für Oleschky · Israel startet Anti-Terror-Operation im Westjordanland nach Angriff · Schusswaffenangriff auf eine Kirche in Jordanien · Verwendung des Satelliteninternets Starlink in der Ukraine</itunes:summary>
+    <pubDate>Sat, 24 Oct 2026 07:14:26 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-24</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-24.mp3" length="3763533" type="audio/mpeg"/>
+    <itunes:duration>00:10:27</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>Schusswaffenangriff in der Pariser Großraumregion</title>
     <description>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</description>
     <itunes:summary>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</itunes:summary>
@@ -23,17 +34,6 @@
     <guid isPermaLink="false">podcast-paris-schuesse-terrorverdacht</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-paris-schuesse-terrorverdacht.mp3" length="2836077" type="audio/mpeg"/>
     <itunes:duration>00:05:54</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-23</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Sicherheitslücke in der Programmiersprache PHP führt weltweit zu Problemen · Erdbeben der Stärke 7,0 in der autonomen Region Tibet · US-Präsident Trump äußert sich zur Nutzung des Satelliteninternets Starlink in der Ukraine · US-Schauspieler Tom Skerritt im Alter von 93 Jahren gestorben · Parlamentswahl in Serbien: Schlusskundgebung der oppositionellen Studentenliste in Belgrad</itunes:summary>
-    <pubDate>Fri, 23 Oct 2026 04:40:46 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-23</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-23.mp3" length="3772317" type="audio/mpeg"/>
-    <itunes:duration>00:10:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

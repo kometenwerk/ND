@@ -1,6 +1,189 @@
 {
- "stand": "2026-10-24T07:14:26.379Z",
+ "stand": "2026-10-24T12:38:35.630Z",
  "stuecke": [
+  {
+   "id": "wie-fische-und-andere-wassertiere-atmen",
+   "zeit": "2026-10-24T13:01:28.385Z",
+   "bereich": "Natur und Tiere",
+   "titel": "Wie Fische und andere Wassertiere atmen",
+   "vorspann": "Kiemen sind wichtige Organe, mit denen viele Wassertiere unter Wasser atmen. Sie nehmen den im Wasser gelösten Sauerstoff auf.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Kieme ist ein Organ, das bei vielen Wassertieren dem Blut den im Wasser gelösten Sauerstoff zuführt. Diese Form der Atmung unter Wasser wird als Kiemenatmung bezeichnet. Kleinere Tiere benötigen keine Kiemen, da bei ihnen Hautatmung ausreicht. Die Kiemen größerer Tiere sind mit einer sehr dünnen und durchlässigen Haut bekleidet. In ihrem Inneren lassen sie das Blut in Adern oder Lücken zirkulieren.",
+      "Dadurch kann das Blut mit dem Wasser durch Diffusion möglichst nahe in Austausch treten. Kiemen liegen an verschiedenen Stellen des Körpers, wie bei Würmern und Krebsen an den Extremitäten. Bei Muscheln und Wasserschnecken befinden sie sich in der Mantelhöhle und bei Fischen an den Kiemenspalten im Vorderdarm. Meistens liegen die Kiemen frei oder sie sind in besonderen Höhlungen geschützt untergebracht."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Um dem Wasser auf kleinem Raum eine große Fläche zu bieten, sind Kiemen kamm-, blatt-, büschel- oder baumförmig. Die Fischkiemen stehen auf knorpeligen oder knöchernen Kiemenbögen und haben meist eine rosa bis rötliche Färbung. Dies liegt daran, dass die Blutgefäße sehr dicht unter der Oberfläche liegen. Die Gesamtfläche der Kiemen entspricht laut dem Text dem zehn- bis sechzigfachen der Hautoberfläche eines Fisches.",
+      "Da die Kiemenblätter leicht eintrocknen und miteinander verkleben, können die Tiere außerhalb des Wassers sehr rasch ersticken. Auch bei einer zu geringen Sauerstoffkonzentration im Wasser können sie ersticken. Bei den meisten Fischarten fließen Wasser und Blut in den Kiemen in entgegengesetzter Richtung, um den Stoffaustausch zu verbessern. Dieses Prinzip wird als Gegenstrom-Prinzip bezeichnet.",
+      "Zusätzlich haben Kiemen bei Fischen eine Ausscheidungsfunktion und geben zum Beispiel Ammoniak ab. Bei der Entwicklung von Landlebewesen schlossen sich die Kiemenspalten notwendigerweise, um den Feuchtigkeitsverlust zu unterbinden. Aus Kiemenbögen und Kiemenspalten entwickelten sich im Laufe der Evolution neue Organe wie Kieferknochen oder die Eustachische Röhre."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Forschung nutzt verschiedene Theorien, um die Entstehung von Kiemen und deren Weiterentwicklung zu erklären. Laut der Kiemen-Theorie entwickelten sich aus den Kiemen der wasserlebenden Ur-Arthropoden die Flügel der Insekten. Eine andere Theorie besagt, dass die Kiemen der Knorpel- und Knochenfische aus dem ursprünglichen Kiemendarm der frühen Chordatiere entstanden.",
+      "Zudem wird die Ontogenese der Landwirbeltiere betrachtet, wobei die biogenetische Grundregel von Ernst Haeckel Beachtung findet. Diese besagt, dass auch der Mensch im Alter von wenigen Wochen in der Halsregion Kiemenspalten ausbildet. Einige Kritiker sind der Ansicht, dass es sich dabei um eine unzulässige Interpretation handelt, aber laut dem Artikel gibt es keine schlüssige Deutungsalternative."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Zu künstlichen Kiemen als technisches Konzept wird diskutiert, sie wurden bislang jedoch nur im Aquarium für kleine Landtiere realisiert."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Faktor der Kiemenoberfläche im Vergleich zur Haut",
+     "10- bis 60-fache"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Kieme",
+     "Ein Organ bei Wassertieren, das dem Blut den im Wasser gelösten Sauerstoff zuführt."
+    ],
+    [
+     "Gegenstrom-Prinzip",
+     "Das entgegengesetzte Fließen von Wasser und Blut in den Kiemen zur Verbesserung des Stoffaustauschs."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wozu dient die Kieme bei vielen Wassertieren?",
+     "optionen": [
+      "Sie führt dem Blut den im Wasser gelösten Sauerstoff zu.",
+      "Sie dient ausschließlich der Nahrungsaufnahme.",
+      "Sie hilft den Tieren beim Hören unter Wasser."
+     ],
+     "richtig": 0,
+     "erklaerung": "Die Kieme ist laut dem Text ein Organ, das dem Blut den im Wasser gelösten Sauerstoff zuführt."
+    }
+   ],
+   "video": [
+    "Die Kieme ist ein wichtiges Organ bei vielen Wassertieren.",
+    "Sie führt dem Blut den im Wasser gelösten Sauerstoff zu.",
+    "Kleinere Tiere benötigen keine Kiemen und nutzen Hautatmung.",
+    "Bei Fischen liegen die Kiemen an den Kiemenspalten im Vorderdarm.",
+    "Die Kiemenblätter sorgen für eine sehr große Oberfläche.",
+    "Wasser und Blut fließen oft in entgegengesetzter Richtung.",
+    "Außerhalb des Wassers können Kiementiere sehr rasch ersticken.",
+    "Aus früheren Kiemenbögen haben sich im Laufe der Zeit neue Organe gebildet."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Kieme",
+    "bildunterschrift": "Kiemen sind Atmungsorgane bei vielen Wassertieren."
+   },
+   "quelle": {
+    "titel": "Kieme",
+    "url": "https://de.wikipedia.org/wiki/Kieme",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 406,
+   "bildInfos": [
+    {
+     "titel": "Tuna Gills in Situ 01.jpg",
+     "beschreibung": "Tuna Gills in Situ 01",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tuna_Gills_in_Situ_01.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tuna_Gills_in_Situ_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Tuna_Gills_in_Situ_01.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Kieme",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Kiemen sind Atmungsorgane bei vielen Wassertieren."
+    },
+    {
+     "titel": "Carcharhinus amblyrhynchos (cropped).jpg",
+     "beschreibung": "Gill slits of a shark (Carcharhinus amblyrhynchos)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Carcharhinus_amblyrhynchos_%28cropped%29.jpg/1280px-Carcharhinus_amblyrhynchos_%28cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Carcharhinus_amblyrhynchos_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Carcharhinus_amblyrhynchos_(cropped).jpg",
+     "urheber": "cello caruso-turiello",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Gill slits of a shark (Carcharhinus amblyrhynchos)"
+    },
+    {
+     "titel": "Crucian carp-gills microscope prPNr°20.jpg",
+     "beschreibung": "The gills of a crucian carp under the microscope",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Crucian_carp-gills_microscope_prPNr%C2%B020.jpg/1280px-Crucian_carp-gills_microscope_prPNr%C2%B020.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Crucian_carp-gills_microscope_prPNr%C2%B020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Crucian_carp-gills_microscope_prPNr%C2%B020.jpg",
+     "urheber": "D-Kuru",
+     "lizenz": "CC BY-SA 3.0 at",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "The gills of a crucian carp under the microscope"
+    },
+    {
+     "titel": "Featherduster 300.jpg",
+     "beschreibung": "Featherduster 300",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Featherduster_300.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Featherduster_300.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Featherduster_300.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Featherduster 300"
+    },
+    {
+     "titel": "LarveKamsalamander.JPG",
+     "beschreibung": "Crested Newt Triturus cristatus larval stage",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/LarveKamsalamander.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/72/LarveKamsalamander.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:LarveKamsalamander.JPG",
+     "urheber": "Piet Spaans",
+     "lizenz": "CC BY 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Crested Newt Triturus cristatus larval stage"
+    },
+    {
+     "titel": "Leucistic female Axolotl head side view2 2010-02-24.jpg",
+     "beschreibung": "Leucistic female Axolotl from behind",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Leucistic_female_Axolotl_head_side_view2_2010-02-24.jpg/1280px-Leucistic_female_Axolotl_head_side_view2_2010-02-24.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Leucistic_female_Axolotl_head_side_view2_2010-02-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Leucistic_female_Axolotl_head_side_view2_2010-02-24.jpg",
+     "urheber": "Henry Mühlpfordt",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Leucistic female Axolotl from behind"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Tuna Gills in Situ 01.jpg",
+    "beschreibung": "Tuna Gills in Situ 01",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tuna_Gills_in_Situ_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Tuna_Gills_in_Situ_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Tuna_Gills_in_Situ_01.jpg",
+    "urheber": "unbekannt",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artikel": "Kieme",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Kiemen sind Atmungsorgane bei vielen Wassertieren."
+   }
+  },
   {
    "id": "wie-entsteht-eigentlich-gaensehaut",
    "zeit": "2026-10-24T07:32:29.212Z",
@@ -6805,166 +6988,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Reisepass dient weltweit als offizielles Dokument zum Reisen."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-ein-pfandsystem",
-   "zeit": "2026-10-07T15:57:35.013Z",
-   "bereich": "Gesellschaft und Zusammenleben",
-   "titel": "Wie funktioniert eigentlich ein Pfandsystem?",
-   "vorspann": "Ein Pfand ist ein Geldbetrag für die Ausleihe von wiederverwendbaren Gegenständen. Bei der Rückgabe des Gegenstands erhalten Käufer den Betrag vollständig zurück.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Im Alltag ist ein Pfand ein hinterlegter Geldbetrag für die Ausleihe eines wiederverwendbaren Gegenstands bis zu dessen Rückgabe. Beispiele für solche Gegenstände sind Behälter für Getränke und Gase sowie Audio-Abspielgeräte in Museen. Auch Autobatterien gehören dazu. Bei der Rückgabe des Gegenstands wird der Betrag an die Person zurückgezahlt.",
-      "Konsumenten zahlen das Pfand beim Kauf von Getränken zusätzlich zum eigentlichen Kaufpreis. Bei einer korrekten Rückgabe erhalten sie dieses Geld vollständig zurück. Es gibt verschiedene Arten von Behältern im Handel. Diese werden bei der Rücknahme unterschiedlich behandelt."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Einwegbehälter mit Pfand werden während der Rücknahme im Automaten zerstört. Danach werden sie stofflich verwertet. Dazu zählen unter anderem PET-Flaschen, Getränkedosen und Getränkekartons. Mehrwegbehälter bestehen vor allem aus Glasflaschen. Diese können nach der Rücknahme gereinigt und wiederverwendet werden.",
-      "Pfandbons gelten in Deutschland nach dem Bürgerlichen Gesetzbuch drei Jahre lang. Die Frist beginnt ab dem Ende des Jahres, in dem sie ausgestellt wurden.",
-      "Der Pfandgutschwund beschreibt die Differenz zwischen ausgegebenem und zurückgelangtem Pfandgut. Der Gewinn oder Verlust aus diesem Schwund verbleibt bei demjenigen, der in der Lieferkette erstmals Pfand verlangt. Bei Behältern ist das der Abfüller. Bei Audio-Museumsführern ist es das Museum. Bei Auto-Akkus ist es der Auto-Hersteller oder -Händler."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "In Deutschland wurden bis zum Jahr zweitausendsechs etwa zehn Prozent der ausgegebenen pfandpflichtigen Getränkeverpackungen nicht wieder eingelöst. Der entsprechende Pfandwert betrug im Jahr zweitausendfünf eins Komma zwei Milliarden Euro. Nach Expertenschätzungen hat sich der Schwund durch Vereinfachungen halbiert. Für das Jahr zweitausendzwölf geht das Umweltbundesamt von einer Rücklaufquote von neunundfünfzig Komma neun Prozent aus.",
-      "Seit der gesetzlichen Einführung des Pfandes auf bestimmte Einweg-Verpackungen in Deutschland im Jahr zweitausendunddrei hat sich der Schwund allein bei diesen bis zum Februar zweitausend siebzehn auf mehr als dreieinhalb Milliarden Euro summiert."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der bereitgestellte Text nennt keine weiteren offenen Fragen oder Forschungsbereiche zu diesem Thema."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Zeitraum Pfandbon-Gültigkeit",
-     "Drei Jahre"
-    ],
-    [
-     "Nicht eingelöste Verpackungen bis 2006",
-     "Etwa zehn Prozent"
-    ],
-    [
-     "Pfandwert nicht eingelöster Verpackungen 2005",
-     "1,2 Milliarden Euro"
-    ],
-    [
-     "Rücklaufquote 2012 laut Umweltbundesamt",
-     "95,9 Prozent"
-    ],
-    [
-     "Summierter Schwund bei Einweg-Verpackungen bis Februar 2017",
-     "Mehr als 3,5 Milliarden Euro"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Pfand",
-     "Ein Geldbetrag, der für die Ausleihe eines Gegenstands hinterlegt und bei Rückgabe zurückgezahlt wird."
-    ],
-    [
-     "Pfandgutschwund",
-     "Die Differenz zwischen ausgegebenem und wieder zurückgelangtem Pfandgut."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Was geschieht mit Einwegbehältern mit Pfand bei der Rücknahme im Automaten?",
-     "optionen": [
-      "Sie werden gereinigt und wiederbefüllt.",
-      "Sie werden zerstört und stofflich verwertet.",
-      "Sie werden an den Abfüller zurückgeschickt."
-     ],
-     "richtig": 1,
-     "erklaerung": "Einwegbehälter werden im Automaten zerstört und später stofflich verwertet."
-    }
-   ],
-   "video": [
-    "Ein Pfand ist ein Geldbetrag für die Ausleihe von Gegenständen.",
-    "Beispiele sind Getränkebehälter oder Audio-Abspielgeräte in Museen.",
-    "Bei der Rückgabe erhalten die Kunden das Geld zurück.",
-    "Einwegbehälter werden im Automaten zerstört und verwertet.",
-    "Mehrwegbehälter werden nach der Rücknahme gereinigt und wiederverwendet.",
-    "Pfandbons gelten in Deutschland drei Jahre lang.",
-    "Nicht zurückgebrachtes Pfand nennt man Pfandgutschwund.",
-    "Das Umweltbundesamt berechnet dazu genaue Quoten."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Pfand",
-    "bildunterschrift": "Einweg- und Mehrwegbehälter erhalten in Geschäften einen Pfandbetrag."
-   },
-   "quelle": {
-    "titel": "Pfand",
-    "url": "https://de.wikipedia.org/wiki/Pfand",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 294,
-   "bildInfos": [
-    {
-     "titel": "Sprudelkasten (fcm).jpg",
-     "beschreibung": "Bildinhalt: Mineralwasserkasten GDB Deutscher Brunnen Format (Breite x Tiefe x Höhe) 355 mm × 270 mm × 345 mm (Höhe wenn durch Stapeln eingesunken: 330 mm) Aufnahmeort: Baden-Baden, Deutschland",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sprudelkasten_%28fcm%29.jpg/1280px-Sprudelkasten_%28fcm%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sprudelkasten_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sprudelkasten_(fcm).jpg",
-     "urheber": "Photograph: Frank C. Müller , Baden-Baden",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Pfand auf Getränkebehälter",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Einweg- und Mehrwegbehälter erhalten in Geschäften einen Pfandbetrag."
-    },
-    {
-     "titel": "2 zerbrochene Flaschen - Pfandschlupf-7233.jpg",
-     "beschreibung": "2 zerbrochene Flaschen - mit ein Grund für Pfandschlupf",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2_zerbrochene_Flaschen_-_Pfandschlupf-7233.jpg/1280px-2_zerbrochene_Flaschen_-_Pfandschlupf-7233.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/2_zerbrochene_Flaschen_-_Pfandschlupf-7233.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2_zerbrochene_Flaschen_-_Pfandschlupf-7233.jpg",
-     "urheber": "Raimond Spekking",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "2 zerbrochene Flaschen - mit ein Grund für Pfandschlupf"
-    },
-    {
-     "titel": "Flattened beverage can with German -container deposit-5144.jpg",
-     "beschreibung": "flattened beverage can with German container deposit",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Flattened_beverage_can_with_German_-container_deposit-5144.jpg/1280px-Flattened_beverage_can_with_German_-container_deposit-5144.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Flattened_beverage_can_with_German_-container_deposit-5144.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Flattened_beverage_can_with_German_-container_deposit-5144.jpg",
-     "urheber": "Raimond Spekking",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "flattened beverage can with German container deposit"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Sprudelkasten (fcm).jpg",
-    "beschreibung": "Bildinhalt: Mineralwasserkasten GDB Deutscher Brunnen Format (Breite x Tiefe x Höhe) 355 mm × 270 mm × 345 mm (Höhe wenn durch Stapeln eingesunken: 330 mm) Aufnahmeort: Baden-Baden, Deutschland",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sprudelkasten_%28fcm%29.jpg/1280px-Sprudelkasten_%28fcm%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sprudelkasten_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Sprudelkasten_(fcm).jpg",
-    "urheber": "Photograph: Frank C. Müller , Baden-Baden",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Pfand auf Getränkebehälter",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Einweg- und Mehrwegbehälter erhalten in Geschäften einen Pfandbetrag."
    }
   }
  ]
