@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-24T12:38:35.630Z",
+ "stand": "2026-10-24T16:33:39.131Z",
  "gepusht": [
   "spanische-wohnungskrise-parlament",
   "schuelerproteste-frankreich",
@@ -87,9 +87,7 @@
  "notified": [
   "einziger-neues-thema-2",
   "frankreich-proteste-eskalation",
-  "tesla-spacex-fusion",
   "alice-schwarzer-emma-einstellung",
-  "un-klimabericht-2-8-grad",
   "php-sicherheitsluecke",
   "ukraine-friedensgespraeche-witkoff",
   "russland-spion-brandenburg",
@@ -110,7 +108,7 @@
   "csu-parteitag-merz-aigner"
  ],
  "wetter": {
-  "stand": "2026-10-24T12:38:35.630Z",
+  "stand": "2026-10-24T16:33:39.131Z",
   "morgenTag": "Sonntag",
   "orte": [
    {
@@ -119,25 +117,25 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 11,
-     "code": 3,
-     "gefuehlt": 8,
-     "wind": 21,
-     "windAus": 224,
-     "feuchte": 77,
-     "druck": 1005,
+     "grad": 10,
+     "code": 1,
+     "gefuehlt": 6,
+     "wind": 16,
+     "windAus": 210,
+     "feuchte": 74,
+     "druck": 1006,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
      "code": 80,
      "max": 11,
-     "min": 8,
+     "min": 7,
      "regen": 93,
      "menge": 1.8,
      "wind": 21,
-     "windAus": 197,
+     "windAus": 196,
      "uv": 1.3,
      "auf": "08:03",
      "unter": "18:03"
@@ -148,8 +146,8 @@
      "max": 13,
      "min": 8,
      "regen": 100,
-     "menge": 8.4,
-     "wind": 28,
+     "menge": 8.7,
+     "wind": 26,
      "windAus": 212,
      "uv": 1.8,
      "auf": "08:05",
@@ -160,11 +158,11 @@
       "datum": "2026-10-24",
       "code": 80,
       "max": 11,
-      "min": 8,
+      "min": 7,
       "regen": 93,
       "menge": 1.8,
       "wind": 21,
-      "windAus": 197,
+      "windAus": 196,
       "uv": 1.3,
       "auf": "08:03",
       "unter": "18:03"
@@ -175,8 +173,8 @@
       "max": 13,
       "min": 8,
       "regen": 100,
-      "menge": 8.4,
-      "wind": 28,
+      "menge": 8.7,
+      "wind": 26,
       "windAus": 212,
       "uv": 1.8,
       "auf": "08:05",
@@ -186,11 +184,11 @@
       "datum": "2026-10-26",
       "code": 80,
       "max": 12,
-      "min": 9,
+      "min": 8,
       "regen": 33,
-      "menge": 0,
-      "wind": 23,
-      "windAus": 235,
+      "menge": 0.6,
+      "wind": 22,
+      "windAus": 231,
       "uv": 1.9,
       "auf": "08:07",
       "unter": "17:59"
@@ -198,25 +196,25 @@
      {
       "datum": "2026-10-27",
       "code": 61,
-      "max": 17,
-      "min": 10,
-      "regen": 73,
-      "menge": 1.1,
+      "max": 16,
+      "min": 9,
+      "regen": 85,
+      "menge": 2.6,
       "wind": 16,
-      "windAus": 199,
+      "windAus": 191,
       "uv": 2.2,
       "auf": "08:09",
       "unter": "17:57"
      },
      {
       "datum": "2026-10-28",
-      "code": 61,
+      "code": 3,
       "max": 14,
       "min": 10,
-      "regen": 29,
-      "menge": 1.2,
-      "wind": 17,
-      "windAus": 242,
+      "regen": 17,
+      "menge": 0.6,
+      "wind": 15,
+      "windAus": 244,
       "uv": 2.1,
       "auf": "08:11",
       "unter": "17:55"
@@ -224,12 +222,12 @@
      {
       "datum": "2026-10-29",
       "code": 80,
-      "max": 15,
-      "min": 11,
-      "regen": 20,
+      "max": 13,
+      "min": 10,
+      "regen": 18,
       "menge": 0.6,
       "wind": 14,
-      "windAus": 273,
+      "windAus": 256,
       "uv": 1.8,
       "auf": "08:13",
       "unter": "17:53"
@@ -239,10 +237,10 @@
       "code": 3,
       "max": 13,
       "min": 9,
-      "regen": 0,
+      "regen": 5,
       "menge": 0,
-      "wind": 6,
-      "windAus": 312,
+      "wind": 10,
+      "windAus": 301,
       "uv": 1.5,
       "auf": "08:15",
       "unter": "17:51"
@@ -250,45 +248,21 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 33
-     },
-     {
       "zeit": "18:00",
       "grad": 10,
       "code": 3,
-      "regen": 13
+      "regen": 20
      },
      {
       "zeit": "19:00",
       "grad": 10,
-      "code": 2,
+      "code": 1,
       "regen": 3
      },
      {
       "zeit": "20:00",
       "grad": 9,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
@@ -305,7 +279,7 @@
      },
      {
       "zeit": "23:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
@@ -317,13 +291,13 @@
      },
      {
       "zeit": "01:00",
-      "grad": 9,
+      "grad": 8,
       "code": 61,
-      "regen": 23
+      "regen": 20
      },
      {
       "zeit": "02:00",
-      "grad": 9,
+      "grad": 8,
       "code": 61,
       "regen": 90
      },
@@ -342,7 +316,7 @@
      {
       "zeit": "05:00",
       "grad": 9,
-      "code": 61,
+      "code": 63,
       "regen": 100
      },
      {
@@ -355,31 +329,31 @@
       "zeit": "07:00",
       "grad": 10,
       "code": 61,
-      "regen": 98
+      "regen": 93
      },
      {
       "zeit": "08:00",
       "grad": 10,
       "code": 61,
-      "regen": 93
+      "regen": 88
      },
      {
       "zeit": "09:00",
       "grad": 11,
-      "code": 2,
-      "regen": 75
+      "code": 1,
+      "regen": 65
      },
      {
       "zeit": "10:00",
       "grad": 11,
-      "code": 2,
-      "regen": 25
+      "code": 1,
+      "regen": 20
      },
      {
       "zeit": "11:00",
       "grad": 12,
       "code": 2,
-      "regen": 8
+      "regen": 5
      },
      {
       "zeit": "12:00",
@@ -390,8 +364,32 @@
      {
       "zeit": "13:00",
       "grad": 13,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 28
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 80,
+      "regen": 65
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
       "code": 3,
-      "regen": 10
+      "regen": 75
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 80,
+      "regen": 40
      }
     ]
    },
@@ -402,22 +400,22 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 10,
-     "code": 61,
-     "gefuehlt": 6,
-     "wind": 19,
-     "windAus": 221,
-     "feuchte": 70,
-     "druck": 1008,
-     "niederschlag": 0.1,
-     "tag": 1
+     "code": 3,
+     "gefuehlt": 7,
+     "wind": 13,
+     "windAus": 194,
+     "feuchte": 82,
+     "druck": 1009,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
-     "code": 61,
+     "code": 80,
      "max": 12,
-     "min": 7,
-     "regen": 88,
-     "menge": 0.9,
+     "min": 8,
+     "regen": 90,
+     "menge": 0.4,
      "wind": 21,
      "windAus": 197,
      "uv": 0.4,
@@ -427,12 +425,12 @@
     "morgen": {
      "datum": "2026-10-25",
      "code": 80,
-     "max": 15,
+     "max": 14,
      "min": 7,
      "regen": 100,
-     "menge": 6.5,
+     "menge": 10.7,
      "wind": 25,
-     "windAus": 203,
+     "windAus": 201,
      "uv": 0.8,
      "auf": "07:49",
      "unter": "17:50"
@@ -440,11 +438,11 @@
     "tage": [
      {
       "datum": "2026-10-24",
-      "code": 61,
+      "code": 80,
       "max": 12,
-      "min": 7,
-      "regen": 88,
-      "menge": 0.9,
+      "min": 8,
+      "regen": 90,
+      "menge": 0.4,
       "wind": 21,
       "windAus": 197,
       "uv": 0.4,
@@ -454,25 +452,25 @@
      {
       "datum": "2026-10-25",
       "code": 80,
-      "max": 15,
+      "max": 14,
       "min": 7,
       "regen": 100,
-      "menge": 6.5,
+      "menge": 10.7,
       "wind": 25,
-      "windAus": 203,
+      "windAus": 201,
       "uv": 0.8,
       "auf": "07:49",
       "unter": "17:50"
      },
      {
       "datum": "2026-10-26",
-      "code": 80,
+      "code": 3,
       "max": 13,
       "min": 8,
-      "regen": 8,
-      "menge": 0.3,
-      "wind": 19,
-      "windAus": 237,
+      "regen": 3,
+      "menge": 0,
+      "wind": 22,
+      "windAus": 238,
       "uv": 2.2,
       "auf": "07:51",
       "unter": "17:48"
@@ -482,36 +480,36 @@
       "code": 61,
       "max": 17,
       "min": 9,
-      "regen": 35,
-      "menge": 0.2,
-      "wind": 10,
-      "windAus": 188,
+      "regen": 45,
+      "menge": 2,
+      "wind": 11,
+      "windAus": 184,
       "uv": 2.3,
       "auf": "07:53",
       "unter": "17:46"
      },
      {
       "datum": "2026-10-28",
-      "code": 3,
+      "code": 61,
       "max": 14,
       "min": 9,
-      "regen": 30,
-      "menge": 2.7,
-      "wind": 17,
-      "windAus": 258,
+      "regen": 23,
+      "menge": 0.6,
+      "wind": 14,
+      "windAus": 261,
       "uv": 2.2,
       "auf": "07:55",
       "unter": "17:44"
      },
      {
       "datum": "2026-10-29",
-      "code": 61,
+      "code": 3,
       "max": 14,
       "min": 9,
-      "regen": 14,
-      "menge": 2.6,
-      "wind": 13,
-      "windAus": 264,
+      "regen": 15,
+      "menge": 1.2,
+      "wind": 11,
+      "windAus": 253,
       "uv": 1.9,
       "auf": "07:56",
       "unter": "17:42"
@@ -521,10 +519,10 @@
       "code": 3,
       "max": 12,
       "min": 9,
-      "regen": 6,
+      "regen": 11,
       "menge": 0,
-      "wind": 8,
-      "windAus": 305,
+      "wind": 9,
+      "windAus": 297,
       "uv": 1.9,
       "auf": "07:58",
       "unter": "17:40"
@@ -532,68 +530,44 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 63
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 73
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 33
-     },
-     {
       "zeit": "18:00",
       "grad": 10,
       "code": 3,
-      "regen": 8
+      "regen": 23
      },
      {
       "zeit": "19:00",
       "grad": 10,
       "code": 3,
-      "regen": 5
+      "regen": 8
      },
      {
       "zeit": "20:00",
       "grad": 9,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 9,
-      "code": 2,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 8,
-      "code": 0,
+      "grad": 9,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 8,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 7,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
@@ -611,7 +585,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 7,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
@@ -630,25 +604,25 @@
      {
       "zeit": "06:00",
       "grad": 8,
-      "code": 3,
-      "regen": 10
+      "code": 61,
+      "regen": 20
      },
      {
       "zeit": "07:00",
-      "grad": 9,
+      "grad": 8,
       "code": 61,
-      "regen": 68
+      "regen": 90
      },
      {
       "zeit": "08:00",
-      "grad": 9,
+      "grad": 8,
       "code": 61,
-      "regen": 95
+      "regen": 100
      },
      {
       "zeit": "09:00",
-      "grad": 9,
-      "code": 61,
+      "grad": 8,
+      "code": 63,
       "regen": 100
      },
      {
@@ -659,21 +633,45 @@
      },
      {
       "zeit": "11:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
-      "regen": 95
+      "regen": 93
      },
      {
       "zeit": "12:00",
-      "grad": 11,
+      "grad": 10,
       "code": 61,
-      "regen": 83
+      "regen": 60
      },
      {
       "zeit": "13:00",
       "grad": 11,
       "code": 61,
-      "regen": 50
+      "regen": 33
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 1,
+      "regen": 20
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 2,
+      "regen": 15
+     },
+     {
+      "zeit": "17:00",
+      "grad": 14,
+      "code": 1,
+      "regen": 10
      }
     ]
    },
@@ -684,14 +682,14 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 9,
-     "code": 61,
-     "gefuehlt": 5,
-     "wind": 14,
-     "windAus": 212,
-     "feuchte": 80,
+     "code": 2,
+     "gefuehlt": 6,
+     "wind": 12,
+     "windAus": 203,
+     "feuchte": 71,
      "druck": 1001,
-     "niederschlag": 0.3,
-     "tag": 1
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
@@ -699,9 +697,9 @@
      "max": 13,
      "min": 7,
      "regen": 100,
-     "menge": 2.1,
+     "menge": 1.8,
      "wind": 18,
-     "windAus": 206,
+     "windAus": 207,
      "uv": 0.5,
      "auf": "07:49",
      "unter": "17:59"
@@ -709,12 +707,12 @@
     "morgen": {
      "datum": "2026-10-25",
      "code": 61,
-     "max": 14,
+     "max": 13,
      "min": 7,
      "regen": 100,
-     "menge": 4.3,
+     "menge": 5.8,
      "wind": 21,
-     "windAus": 210,
+     "windAus": 207,
      "uv": 0.7,
      "auf": "07:51",
      "unter": "17:57"
@@ -726,9 +724,9 @@
       "max": 13,
       "min": 7,
       "regen": 100,
-      "menge": 2.1,
+      "menge": 1.8,
       "wind": 18,
-      "windAus": 206,
+      "windAus": 207,
       "uv": 0.5,
       "auf": "07:49",
       "unter": "17:59"
@@ -736,38 +734,38 @@
      {
       "datum": "2026-10-25",
       "code": 61,
-      "max": 14,
+      "max": 13,
       "min": 7,
       "regen": 100,
-      "menge": 4.3,
+      "menge": 5.8,
       "wind": 21,
-      "windAus": 210,
+      "windAus": 207,
       "uv": 0.7,
       "auf": "07:51",
       "unter": "17:57"
      },
      {
       "datum": "2026-10-26",
-      "code": 3,
-      "max": 14,
+      "code": 61,
+      "max": 13,
       "min": 7,
       "regen": 5,
-      "menge": 0,
-      "wind": 16,
-      "windAus": 239,
+      "menge": 0.1,
+      "wind": 17,
+      "windAus": 235,
       "uv": 2.5,
       "auf": "07:52",
       "unter": "17:55"
      },
      {
       "datum": "2026-10-27",
-      "code": 3,
+      "code": 61,
       "max": 18,
       "min": 9,
-      "regen": 30,
-      "menge": 0,
+      "regen": 45,
+      "menge": 0.3,
       "wind": 10,
-      "windAus": 189,
+      "windAus": 184,
       "uv": 2.5,
       "auf": "07:54",
       "unter": "17:53"
@@ -775,38 +773,38 @@
      {
       "datum": "2026-10-28",
       "code": 3,
-      "max": 14,
-      "min": 9,
+      "max": 13,
+      "min": 8,
       "regen": 30,
-      "menge": 0.6,
-      "wind": 13,
-      "windAus": 253,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 256,
       "uv": 2.4,
       "auf": "07:56",
       "unter": "17:51"
      },
      {
       "datum": "2026-10-29",
-      "code": 61,
-      "max": 14,
-      "min": 9,
-      "regen": 7,
-      "menge": 0.9,
-      "wind": 12,
-      "windAus": 255,
+      "code": 3,
+      "max": 13,
+      "min": 8,
+      "regen": 14,
+      "menge": 0.6,
+      "wind": 11,
+      "windAus": 242,
       "uv": 2,
       "auf": "07:58",
       "unter": "17:49"
      },
      {
       "datum": "2026-10-30",
-      "code": 3,
-      "max": 12,
+      "code": 80,
+      "max": 13,
       "min": 9,
-      "regen": 4,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 299,
+      "regen": 13,
+      "menge": 0.9,
+      "wind": 10,
+      "windAus": 300,
       "uv": 2.1,
       "auf": "07:59",
       "unter": "17:47"
@@ -814,32 +812,8 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 95
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 55
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 5
-     },
-     {
       "zeit": "18:00",
-      "grad": 9,
+      "grad": 10,
       "code": 2,
       "regen": 0
      },
@@ -851,7 +825,7 @@
      },
      {
       "zeit": "20:00",
-      "grad": 8,
+      "grad": 9,
       "code": 1,
       "regen": 0
      },
@@ -864,7 +838,7 @@
      {
       "zeit": "22:00",
       "grad": 7,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -900,20 +874,20 @@
      {
       "zeit": "04:00",
       "grad": 9,
-      "code": 61,
-      "regen": 5
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 9,
       "code": 61,
-      "regen": 65
+      "regen": 80
      },
      {
       "zeit": "06:00",
       "grad": 9,
       "code": 61,
-      "regen": 98
+      "regen": 100
      },
      {
       "zeit": "07:00",
@@ -937,25 +911,49 @@
       "zeit": "10:00",
       "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 98
      },
      {
       "zeit": "11:00",
       "grad": 11,
       "code": 61,
-      "regen": 75
+      "regen": 58
      },
      {
       "zeit": "12:00",
       "grad": 12,
       "code": 3,
-      "regen": 28
+      "regen": 13
      },
      {
       "zeit": "13:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 18
+     },
+     {
+      "zeit": "16:00",
       "grad": 13,
-      "code": 3,
-      "regen": 5
+      "code": 1,
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
      }
     ]
    },
@@ -966,14 +964,14 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 12,
-     "code": 2,
+     "code": 3,
      "gefuehlt": 8,
      "wind": 17,
-     "windAus": 242,
-     "feuchte": 55,
-     "druck": 1006,
+     "windAus": 199,
+     "feuchte": 65,
+     "druck": 1004,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
@@ -981,9 +979,9 @@
      "max": 13,
      "min": 8,
      "regen": 100,
-     "menge": 5.8,
+     "menge": 5.6,
      "wind": 32,
-     "windAus": 232,
+     "windAus": 231,
      "uv": 2.6,
      "auf": "08:10",
      "unter": "18:21"
@@ -994,8 +992,8 @@
      "max": 13,
      "min": 9,
      "regen": 100,
-     "menge": 20.9,
-     "wind": 27,
+     "menge": 23.1,
+     "wind": 28,
      "windAus": 234,
      "uv": 2.6,
      "auf": "08:12",
@@ -1008,9 +1006,9 @@
       "max": 13,
       "min": 8,
       "regen": 100,
-      "menge": 5.8,
+      "menge": 5.6,
       "wind": 32,
-      "windAus": 232,
+      "windAus": 231,
       "uv": 2.6,
       "auf": "08:10",
       "unter": "18:21"
@@ -1021,8 +1019,8 @@
       "max": 13,
       "min": 9,
       "regen": 100,
-      "menge": 20.9,
-      "wind": 27,
+      "menge": 23.1,
+      "wind": 28,
       "windAus": 234,
       "uv": 2.6,
       "auf": "08:12",
@@ -1030,13 +1028,13 @@
      },
      {
       "datum": "2026-10-26",
-      "code": 53,
+      "code": 51,
       "max": 14,
       "min": 8,
-      "regen": 76,
-      "menge": 2.5,
-      "wind": 18,
-      "windAus": 198,
+      "regen": 75,
+      "menge": 1.2,
+      "wind": 19,
+      "windAus": 202,
       "uv": 2.1,
       "auf": "08:13",
       "unter": "18:17"
@@ -1045,11 +1043,11 @@
       "datum": "2026-10-27",
       "code": 53,
       "max": 18,
-      "min": 11,
-      "regen": 52,
-      "menge": 1.4,
+      "min": 10,
+      "regen": 62,
+      "menge": 1.2,
       "wind": 16,
-      "windAus": 177,
+      "windAus": 175,
       "uv": 2.6,
       "auf": "08:15",
       "unter": "18:15"
@@ -1059,7 +1057,7 @@
       "code": 3,
       "max": 14,
       "min": 8,
-      "regen": 25,
+      "regen": 30,
       "menge": 0,
       "wind": 14,
       "windAus": 255,
@@ -1072,7 +1070,7 @@
       "code": 3,
       "max": 14,
       "min": 6,
-      "regen": 19,
+      "regen": 10,
       "menge": 0,
       "wind": 7,
       "windAus": 222,
@@ -1085,7 +1083,7 @@
       "code": 45,
       "max": 12,
       "min": 6,
-      "regen": 0,
+      "regen": 2,
       "menge": 0,
       "wind": 5,
       "windAus": 322,
@@ -1096,62 +1094,38 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
       "grad": 12,
       "code": 3,
-      "regen": 4
+      "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 12,
-      "code": 51,
-      "regen": 11
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 11,
       "code": 3,
-      "regen": 24
+      "regen": 8
      },
      {
       "zeit": "21:00",
       "grad": 11,
       "code": 51,
-      "regen": 48
+      "regen": 36
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 53,
-      "regen": 78
+      "regen": 73
      },
      {
       "zeit": "23:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
       "regen": 100
      },
@@ -1164,7 +1138,7 @@
      {
       "zeit": "01:00",
       "grad": 9,
-      "code": 61,
+      "code": 63,
       "regen": 100
      },
      {
@@ -1211,33 +1185,57 @@
      },
      {
       "zeit": "09:00",
-      "grad": 11,
+      "grad": 12,
       "code": 51,
-      "regen": 76
+      "regen": 78
      },
      {
       "zeit": "10:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 43
+      "grad": 12,
+      "code": 0,
+      "regen": 48
      },
      {
       "zeit": "11:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 18
+      "grad": 13,
+      "code": 3,
+      "regen": 24
      },
      {
       "zeit": "12:00",
       "grad": 13,
-      "code": 3,
-      "regen": 7
+      "code": 0,
+      "regen": 11
      },
      {
       "zeit": "13:00",
       "grad": 13,
       "code": 3,
-      "regen": 4
+      "regen": 5
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 6
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 20
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 43
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 57
      }
     ]
    },
@@ -1247,15 +1245,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 12,
-     "code": 1,
+     "grad": 11,
+     "code": 3,
      "gefuehlt": 8,
-     "wind": 15,
-     "windAus": 249,
-     "feuchte": 47,
+     "wind": 11,
+     "windAus": 208,
+     "feuchte": 68,
      "druck": 1003,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
@@ -1263,7 +1261,7 @@
      "max": 13,
      "min": 8,
      "regen": 100,
-     "menge": 1.8,
+     "menge": 2,
      "wind": 22,
      "windAus": 225,
      "uv": 2.7,
@@ -1276,9 +1274,9 @@
      "max": 15,
      "min": 8,
      "regen": 100,
-     "menge": 25.8,
+     "menge": 25.7,
      "wind": 20,
-     "windAus": 220,
+     "windAus": 222,
      "uv": 1.4,
      "auf": "08:03",
      "unter": "18:14"
@@ -1290,7 +1288,7 @@
       "max": 13,
       "min": 8,
       "regen": 100,
-      "menge": 1.8,
+      "menge": 2,
       "wind": 22,
       "windAus": 225,
       "uv": 2.7,
@@ -1303,22 +1301,22 @@
       "max": 15,
       "min": 8,
       "regen": 100,
-      "menge": 25.8,
+      "menge": 25.7,
       "wind": 20,
-      "windAus": 220,
+      "windAus": 222,
       "uv": 1.4,
       "auf": "08:03",
       "unter": "18:14"
      },
      {
       "datum": "2026-10-26",
-      "code": 61,
+      "code": 3,
       "max": 13,
       "min": 6,
-      "regen": 27,
-      "menge": 0.1,
-      "wind": 12,
-      "windAus": 220,
+      "regen": 23,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 214,
       "uv": 2.4,
       "auf": "08:05",
       "unter": "18:12"
@@ -1326,12 +1324,12 @@
      {
       "datum": "2026-10-27",
       "code": 61,
-      "max": 18,
+      "max": 19,
       "min": 9,
-      "regen": 24,
-      "menge": 1.5,
-      "wind": 9,
-      "windAus": 208,
+      "regen": 19,
+      "menge": 0.3,
+      "wind": 8,
+      "windAus": 207,
       "uv": 2.7,
       "auf": "08:06",
       "unter": "18:10"
@@ -1341,23 +1339,23 @@
       "code": 3,
       "max": 14,
       "min": 8,
-      "regen": 35,
+      "regen": 30,
       "menge": 0,
       "wind": 10,
-      "windAus": 240,
+      "windAus": 239,
       "uv": 2.6,
       "auf": "08:08",
       "unter": "18:08"
      },
      {
       "datum": "2026-10-29",
-      "code": 61,
+      "code": 2,
       "max": 14,
-      "min": 6,
-      "regen": 2,
-      "menge": 0.6,
+      "min": 5,
+      "regen": 3,
+      "menge": 0,
       "wind": 5,
-      "windAus": 214,
+      "windAus": 215,
       "uv": 2.1,
       "auf": "08:09",
       "unter": "18:07"
@@ -1367,10 +1365,10 @@
       "code": 45,
       "max": 13,
       "min": 5,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 48,
+      "wind": 3,
+      "windAus": 31,
       "uv": 2.2,
       "auf": "08:11",
       "unter": "18:05"
@@ -1378,50 +1376,26 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
-      "grad": 11,
+      "grad": 12,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
       "regen": 3
      },
      {
       "zeit": "20:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
@@ -1435,13 +1409,13 @@
       "zeit": "23:00",
       "grad": 10,
       "code": 61,
-      "regen": 18
+      "regen": 25
      },
      {
       "zeit": "00:00",
       "grad": 9,
       "code": 61,
-      "regen": 90
+      "regen": 95
      },
      {
       "zeit": "01:00",
@@ -1489,37 +1463,61 @@
       "zeit": "08:00",
       "grad": 10,
       "code": 61,
-      "regen": 98
+      "regen": 88
      },
      {
       "zeit": "09:00",
       "grad": 11,
       "code": 61,
-      "regen": 95
+      "regen": 70
      },
      {
       "zeit": "10:00",
       "grad": 11,
       "code": 61,
-      "regen": 83
+      "regen": 90
      },
      {
       "zeit": "11:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
       "regen": 95
      },
      {
       "zeit": "12:00",
       "grad": 12,
-      "code": 63,
-      "regen": 68
+      "code": 61,
+      "regen": 88
      },
      {
       "zeit": "13:00",
-      "grad": 13,
+      "grad": 11,
       "code": 61,
-      "regen": 38
+      "regen": 48
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 23
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 1,
+      "regen": 5
+     },
+     {
+      "zeit": "16:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 15,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1529,37 +1527,37 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 12,
-     "code": 1,
-     "gefuehlt": 8,
-     "wind": 13,
-     "windAus": 260,
-     "feuchte": 46,
+     "grad": 10,
+     "code": 3,
+     "gefuehlt": 7,
+     "wind": 11,
+     "windAus": 217,
+     "feuchte": 67,
      "druck": 988,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
      "code": 80,
      "max": 12,
      "min": 8,
-     "regen": 3,
+     "regen": 10,
      "menge": 0.2,
      "wind": 17,
-     "windAus": 230,
+     "windAus": 229,
      "uv": 2.6,
      "auf": "07:57",
      "unter": "18:16"
     },
     "morgen": {
      "datum": "2026-10-25",
-     "code": 61,
+     "code": 80,
      "max": 15,
      "min": 9,
      "regen": 100,
-     "menge": 15.8,
-     "wind": 28,
+     "menge": 17.6,
+     "wind": 27,
      "windAus": 221,
      "uv": 0.3,
      "auf": "07:58",
@@ -1571,22 +1569,22 @@
       "code": 80,
       "max": 12,
       "min": 8,
-      "regen": 3,
+      "regen": 10,
       "menge": 0.2,
       "wind": 17,
-      "windAus": 230,
+      "windAus": 229,
       "uv": 2.6,
       "auf": "07:57",
       "unter": "18:16"
      },
      {
       "datum": "2026-10-25",
-      "code": 61,
+      "code": 80,
       "max": 15,
       "min": 9,
       "regen": 100,
-      "menge": 15.8,
-      "wind": 28,
+      "menge": 17.6,
+      "wind": 27,
       "windAus": 221,
       "uv": 0.3,
       "auf": "07:58",
@@ -1597,10 +1595,10 @@
       "code": 3,
       "max": 13,
       "min": 8,
-      "regen": 16,
+      "regen": 13,
       "menge": 0,
-      "wind": 11,
-      "windAus": 210,
+      "wind": 12,
+      "windAus": 209,
       "uv": 2.6,
       "auf": "08:00",
       "unter": "18:13"
@@ -1610,10 +1608,10 @@
       "code": 3,
       "max": 20,
       "min": 8,
-      "regen": 13,
+      "regen": 10,
       "menge": 0,
       "wind": 7,
-      "windAus": 191,
+      "windAus": 187,
       "uv": 2.7,
       "auf": "08:01",
       "unter": "18:11"
@@ -1621,25 +1619,25 @@
      {
       "datum": "2026-10-28",
       "code": 61,
-      "max": 14,
-      "min": 8,
-      "regen": 26,
-      "menge": 0.6,
-      "wind": 11,
-      "windAus": 274,
+      "max": 13,
+      "min": 7,
+      "regen": 31,
+      "menge": 0.9,
+      "wind": 12,
+      "windAus": 276,
       "uv": 2.4,
       "auf": "08:03",
       "unter": "18:09"
      },
      {
       "datum": "2026-10-29",
-      "code": 45,
-      "max": 14,
+      "code": 3,
+      "max": 13,
       "min": 4,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 113,
+      "wind": 5,
+      "windAus": 192,
       "uv": 2.3,
       "auf": "08:05",
       "unter": "18:08"
@@ -1648,11 +1646,11 @@
       "datum": "2026-10-30",
       "code": 45,
       "max": 13,
-      "min": 4,
-      "regen": 0,
+      "min": 3,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 110,
+      "wind": 5,
+      "windAus": 210,
       "uv": 2.4,
       "auf": "08:06",
       "unter": "18:06"
@@ -1660,40 +1658,16 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 3
-     },
-     {
       "zeit": "18:00",
       "grad": 11,
-      "code": 3,
-      "regen": 3
+      "code": 2,
+      "regen": 10
      },
      {
       "zeit": "19:00",
       "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "20:00",
@@ -1723,13 +1697,13 @@
       "zeit": "00:00",
       "grad": 9,
       "code": 3,
-      "regen": 5
+      "regen": 10
      },
      {
       "zeit": "01:00",
       "grad": 9,
       "code": 61,
-      "regen": 63
+      "regen": 70
      },
      {
       "zeit": "02:00",
@@ -1751,7 +1725,7 @@
      },
      {
       "zeit": "05:00",
-      "grad": 10,
+      "grad": 9,
       "code": 61,
       "regen": 100
      },
@@ -1759,7 +1733,7 @@
       "zeit": "06:00",
       "grad": 10,
       "code": 61,
-      "regen": 100
+      "regen": 98
      },
      {
       "zeit": "07:00",
@@ -1783,11 +1757,11 @@
       "zeit": "10:00",
       "grad": 12,
       "code": 61,
-      "regen": 93
+      "regen": 98
      },
      {
       "zeit": "11:00",
-      "grad": 14,
+      "grad": 13,
       "code": 61,
       "regen": 93
      },
@@ -1795,13 +1769,37 @@
       "zeit": "12:00",
       "grad": 14,
       "code": 61,
-      "regen": 98
+      "regen": 93
      },
      {
       "zeit": "13:00",
       "grad": 15,
       "code": 61,
-      "regen": 95
+      "regen": 93
+     },
+     {
+      "zeit": "14:00",
+      "grad": 15,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 53
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 20
      }
     ]
    },
@@ -1811,25 +1809,25 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 9,
-     "code": 3,
+     "grad": 7,
+     "code": 1,
      "gefuehlt": 4,
-     "wind": 21,
-     "windAus": 250,
-     "feuchte": 58,
+     "wind": 9,
+     "windAus": 223,
+     "feuchte": 69,
      "druck": 958,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-10-24",
      "code": 61,
      "max": 10,
      "min": 6,
-     "regen": 38,
+     "regen": 48,
      "menge": 0.3,
      "wind": 22,
-     "windAus": 249,
+     "windAus": 248,
      "uv": 2.8,
      "auf": "07:46",
      "unter": "18:08"
@@ -1840,9 +1838,9 @@
      "max": 14,
      "min": 6,
      "regen": 100,
-     "menge": 12.1,
-     "wind": 23,
-     "windAus": 232,
+     "menge": 13.2,
+     "wind": 21,
+     "windAus": 230,
      "uv": 0.9,
      "auf": "07:47",
      "unter": "18:06"
@@ -1853,10 +1851,10 @@
       "code": 61,
       "max": 10,
       "min": 6,
-      "regen": 38,
+      "regen": 48,
       "menge": 0.3,
       "wind": 22,
-      "windAus": 249,
+      "windAus": 248,
       "uv": 2.8,
       "auf": "07:46",
       "unter": "18:08"
@@ -1867,9 +1865,9 @@
       "max": 14,
       "min": 6,
       "regen": 100,
-      "menge": 12.1,
-      "wind": 23,
-      "windAus": 232,
+      "menge": 13.2,
+      "wind": 21,
+      "windAus": 230,
       "uv": 0.9,
       "auf": "07:47",
       "unter": "18:06"
@@ -1878,11 +1876,11 @@
       "datum": "2026-10-26",
       "code": 3,
       "max": 12,
-      "min": 7,
+      "min": 6,
       "regen": 13,
       "menge": 0,
-      "wind": 16,
-      "windAus": 243,
+      "wind": 17,
+      "windAus": 242,
       "uv": 2.6,
       "auf": "07:49",
       "unter": "18:05"
@@ -1892,23 +1890,23 @@
       "code": 3,
       "max": 18,
       "min": 8,
-      "regen": 15,
+      "regen": 8,
       "menge": 0,
       "wind": 8,
-      "windAus": 159,
+      "windAus": 145,
       "uv": 2.8,
       "auf": "07:51",
       "unter": "18:03"
      },
      {
       "datum": "2026-10-28",
-      "code": 61,
-      "max": 13,
+      "code": 63,
+      "max": 11,
       "min": 7,
-      "regen": 49,
-      "menge": 3,
+      "regen": 50,
+      "menge": 6.9,
       "wind": 13,
-      "windAus": 278,
+      "windAus": 270,
       "uv": 1.3,
       "auf": "07:52",
       "unter": "18:01"
@@ -1918,10 +1916,10 @@
       "code": 3,
       "max": 12,
       "min": 4,
-      "regen": 3,
+      "regen": 5,
       "menge": 0,
       "wind": 7,
-      "windAus": 347,
+      "windAus": 90,
       "uv": 2.1,
       "auf": "07:54",
       "unter": "18:00"
@@ -1929,12 +1927,12 @@
      {
       "datum": "2026-10-30",
       "code": 45,
-      "max": 10,
-      "min": 2,
-      "regen": 0,
+      "max": 11,
+      "min": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 8,
-      "windAus": 89,
+      "wind": 5,
+      "windAus": 271,
       "uv": 2.6,
       "auf": "07:55",
       "unter": "17:58"
@@ -1942,57 +1940,33 @@
     ],
     "stunden": [
      {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 38
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 25
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 13
-     },
-     {
       "zeit": "18:00",
       "grad": 8,
       "code": 1,
-      "regen": 3
+      "regen": 10
      },
      {
       "zeit": "19:00",
-      "grad": 8,
-      "code": 0,
+      "grad": 7,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 7,
+      "grad": 6,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 7,
-      "code": 1,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
@@ -2003,7 +1977,7 @@
      },
      {
       "zeit": "00:00",
-      "grad": 6,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
@@ -2029,25 +2003,25 @@
       "zeit": "04:00",
       "grad": 6,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 6,
-      "code": 3,
-      "regen": 43
+      "code": 61,
+      "regen": 45
      },
      {
       "zeit": "06:00",
       "grad": 7,
       "code": 61,
-      "regen": 85
+      "regen": 95
      },
      {
       "zeit": "07:00",
       "grad": 7,
       "code": 61,
-      "regen": 98
+      "regen": 100
      },
      {
       "zeit": "08:00",
@@ -2063,7 +2037,7 @@
      },
      {
       "zeit": "10:00",
-      "grad": 9,
+      "grad": 8,
       "code": 61,
       "regen": 100
      },
@@ -2071,17 +2045,41 @@
       "zeit": "11:00",
       "grad": 11,
       "code": 61,
-      "regen": 100
+      "regen": 98
      },
      {
       "zeit": "12:00",
-      "grad": 13,
+      "grad": 12,
       "code": 61,
       "regen": 100
      },
      {
       "zeit": "13:00",
       "grad": 14,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "17:00",
+      "grad": 13,
       "code": 61,
       "regen": 100
      }
@@ -2090,9 +2088,9 @@
   ],
   "text": [
    "Heute liegen die Höchstwerte zwischen 10 und 13 Grad.",
-   "Die Vorhersage für morgen, Sonntag: im Norden und Osten Regenschauer, im Süden und Westen leichter Regen.",
+   "Die Vorhersage für morgen, Sonntag: im Norden und Osten Regenschauer, im Süden und Westen Regen.",
    "Die Temperaturen erreichen dann 13 bis 15 Grad.",
-   "Am wärmsten wird es in Berlin mit 15 Grad.",
+   "Am wärmsten wird es in Frankfurt mit 15 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2105,7 +2103,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 8.2
+       "regen": 8.7
       },
       {
        "name": "GFS",
@@ -2117,7 +2115,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 11.3
+       "regen": 11.8
       }
      ]
     },
@@ -2127,8 +2125,8 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 15,
-       "regen": 6.7
+       "grad": 14,
+       "regen": 10.9
       },
       {
        "name": "GFS",
@@ -2140,7 +2138,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 7.9
+       "regen": 9
       }
      ]
     },
@@ -2150,8 +2148,8 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 14,
-       "regen": 4.3
+       "grad": 13,
+       "regen": 5.8
       },
       {
        "name": "GFS",
@@ -2163,7 +2161,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 14,
-       "regen": 7.6
+       "regen": 8
       }
      ]
     },
@@ -2174,7 +2172,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 15,
-       "regen": 19
+       "regen": 17.3
       },
       {
        "name": "GFS",
@@ -2186,7 +2184,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 14,
-       "regen": 25.5
+       "regen": 23.9
       }
      ]
     },
@@ -2197,7 +2195,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 15,
-       "regen": 25.8
+       "regen": 25.7
       },
       {
        "name": "GFS",
@@ -2208,8 +2206,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 24.6
+       "grad": 15,
+       "regen": 23.2
       }
      ]
     },
@@ -2220,7 +2218,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 15,
-       "regen": 15.8
+       "regen": 17.6
       },
       {
        "name": "GFS",
@@ -2231,8 +2229,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 20.4
+       "grad": 13,
+       "regen": 18.4
       }
      ]
     },
@@ -2243,7 +2241,7 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 12.1
+       "regen": 13.2
       },
       {
        "name": "GFS",
@@ -2254,8 +2252,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 16.8
+       "grad": 11,
+       "regen": 15.1
       }
      ]
     }
@@ -12631,1004 +12629,6 @@
       38.93,
       45.05,
       52.11
-     ]
-    }
-   ]
-  },
-  {
-   "id": "un-klimabericht-2-8-grad",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-10-21T15:53:00.000Z",
-   "aktualisiert": "aktualisiert um 06:35 Uhr",
-   "titel": "UN-Umweltprogramm veröffentlicht Emissions Gap Report zur weltweiten Erwärmung",
-   "vorspann": "Das UN-Umweltprogramm hat einen neuen Bericht zur globalen Klimapolitik und den projizierten Temperaturanstiegen vorgelegt. Demnach steuert die Erde bei gleichbleibender Politik auf eine Erwärmung von 2,8 Grad Celsius bis zum Ende des Jahrhunderts zu.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Das UN-Umweltprogramm hat den Emissions Gap Report vorgelegt und warnt vor einer weltweiten Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts.",
-    "Das Ziel des Pariser Abkommens, die Erwärmung auf 1,5 Grad zu begrenzen, gilt dem Bericht zufolge als nicht mehr direkt einhaltbar, soll aber durch spätere Absenkungen korrigiert werden.",
-    "Als Hauptgründe für die schlechtere Prognose nennt das UN-Umweltprogramm den Ausstieg der USA aus dem Pariser Abkommen sowie aktualisierte Daten zum Treibhausgasausstoß.",
-    "Im November 2026 findet die Weltklimakonferenz COP31 im türkischen Antalya statt, bei der unter anderem über die Klimafinanzierung und den Ausstieg aus fossilen Energien beraten wird."
-   ],
-   "einig": [
-    [
-     "Die Erde steuert bei aktueller Klimapolitik bis zum Ende des Jahrhunderts auf eine Erwärmung von 2,8 Grad zu.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Süddeutsche Zeitung",
-      "taz"
-     ]
-    ],
-    [
-     "Das 1,5-Grad-Limit ist nach Angaben des UN-Berichts nicht mehr direkt einzuhalten.",
-     [
-      "ZDFheute",
-      "taz"
-     ]
-    ],
-    [
-     "Der Rückzug der USA aus dem Pariser Abkommen verschlechtert die globalen Prognosen.",
-     [
-      "ZDFheute",
-      "Spiegel",
-      "Süddeutsche Zeitung"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die technologische Entfernung von 320 Gigatonnen Kohlenstoffdioxid aus der Atmosphäre erfolgreich sein wird, ist laut dem Bericht des UN-Umweltprogramms unsicher."
-   ],
-   "positionen": [
-    [
-     "Inger Andersen (Direktorin des UN-Umweltprogramms)",
-     "Die Erwärmung muss so gering wie möglich gehalten werden; es gibt Beispiele für erfolgreiche Emissionssenkungen.",
-     "ZDFheute, Spiegel, Süddeutsche Zeitung"
-    ],
-    [
-     "António Guterres (UN-Generalsekretär)",
-     "Eine Überschreitung der 1,5-Grad-Grenze ist keine Kapitulation, die Temperaturen können bis zum Jahr 2100 wieder gesenkt werden.",
-     "Spiegel"
-    ],
-    [
-     "Dr. Louise Jeffery (NewClimate Institute)",
-     "Längere Verzögerungen erhöhen die Risiken; Deutschland verlangsamt Fortschritte durch politische Entscheidungen wie neue Gaskraftwerke.",
-     "ZDFheute"
-    ],
-    [
-     "Jan Minx (Potsdam-Institut für Klimaforschung)",
-     "Globale Erfolge beim Ausbau erneuerbarer Energien stehen einem großen Rückstand beim Ausstieg aus fossilen Energien gegenüber.",
-     "taz"
-    ],
-    [
-     "Fentje Jacobsen (WWF Deutschland)",
-     "Deutschland hat eine historische Verantwortung und muss Gesetze für den Ausbau sauberer Energien nutzen.",
-     "taz"
-    ]
-   ],
-   "fehlend": "Stimmen aus der Regierung der Vereinigten Staaten zu den Vorwürfen bezüglich des Austritts aus dem Pariser Abkommen.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.10.26, 17:46",
-     "fokus": "Zusammenfassung des UN-Berichts",
-     "text": "Der Bericht konzentriert sich auf die Kernzahlen der Erwärmung und die Veröffentlichung des UN-Umweltprogramms.",
-     "url": "https://www.tagesschau.de/video/video-1670158.html",
-     "video": true,
-     "lesbar": null,
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.10.26, 07:00",
-     "fokus": "Folgen für Deutschland und Expertengespräche",
-     "text": "Der Artikel beleuchtet zusätzlich Hitzezahlen in Deutschland und Aussagen des NewClimate Institute zur deutschen Klimapolitik.",
-     "url": "https://www.zdfheute.de/wissen/klimawandel-emissionen-co2-un-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 4,
-      "woerter": 865,
-      "satzlaenge": 15,
-      "langeWoerter": 33
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 09:48",
-     "fokus": "USA als Treiber und technische Hürden",
-     "text": "Der Beitrag betont besonders die Rolle der USA unter Donald Trump als Verschlechterungsfaktor sowie CO2-Entnahmetechnologien.",
-     "url": "https://www.spiegel.de/wissenschaft/klimakrise-erde-steuert-tatsaechlich-auf-erwaermung-um-2-8-grad-zu-uno-sieht-usa-als-treiber-a-19db1fbf-f48c-407a-950b-543ec47b182c#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 741,
-      "satzlaenge": 21,
-      "langeWoerter": 33
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 07:39",
-     "fokus": "Kompakte Darstellung der UN-Zahlen",
-     "text": "Die Zeitung fasst die wichtigsten Prognosen zum Temperaturanstieg und die weltweiten Szenarien kurz zusammen.",
-     "url": "https://www.sueddeutsche.de/wissen/klimawandel-erderwaermung-klimakrise-un-vereinte-nationen-usa-li.3566724",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 1,
-      "woerter": 264,
-      "satzlaenge": 20,
-      "langeWoerter": 31
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "taz",
-     "typ": "Tageszeitung (Genossenschaft)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "21.10.26, 17:53",
-     "fokus": "G20-Länder und deutsche Klimapolitik",
-     "text": "Der Text analysiert die nationalen Klimaziele der G20-Mitglieder und bietet Einordnungen von Forschungsinstituten und dem WWF.",
-     "url": "https://taz.de/UN-Bericht-zur-Klimakrise/!6223341/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 4,
-      "woerter": 798,
-      "satzlaenge": 14,
-      "langeWoerter": 33
-     },
-     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
-     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf einzelne Länder",
-     "Während Spiegel und Süddeutsche Zeitung vor allem den US-Austritt als Grund für die Verschlechterung nennen, analysiert die taz detailliert die Erfüllungsquoten verschiedener G20-Staaten."
-    ],
-    [
-     "Zusätzliche Details",
-     "ZDFheute nennt spezifische Daten des Robert-Koch-Instituts zu hitzebedingten Todesfällen in Deutschland, die in den anderen Berichten nicht vorkommen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Das UN-Umweltprogramm",
-    "was": "Veröffentlichung des Emissions Gap Reports zur weltweiten Erwärmung",
-    "wann": "Oktober 2026",
-    "wo": "Weltweit",
-    "wie": "Durch Berechnungen von Emissionslücken und Klimaschutzplänen",
-    "warum": "Darstellung der Differenz zwischen Klimazielen und aktueller Politik",
-    "quellenlage": "Berichte von UN-Institutionen, Forschungsinstituten und Medienquellen"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Das Umweltprogramm der Vereinten Nationen hat im Oktober 2026 seinen jährlichen Emissions Gap Report veröffentlicht. Der Bericht untersucht die Lücke zwischen den tatsächlichen internationalen Klimaambitionen und den Zielen des Pariser Abkommens. Nach den Berechnungen steuert die Erde bei Beibehaltung der aktuellen weltweiten Klimapolitik auf eine Erwärmung von 2,8 Grad Celsius bis zum Ende des Jahrhunderts zu. Im Vergleich zum Vorjahr hat sich dieser Pfad laut den Angaben nicht verbessert. Die Veröffentlichung erfolgt kurz vor Beginn der anstehenden UN-Klimakonferenz.",
-      "Die im Pariser Klimavertrag festgelegte Obergrenze von möglichst 1,5 Grad Erderwärmung wird nach Einschätzung des Berichts inzwischen überschritten. Expertinnen und Experten gehen nicht mehr davon aus, dass dieses Limit direkt eingehalten werden kann. Stattdessen wird in dem Report mit einem sogenannten Overshoot-Szenario gerechnet. Dabei wird die Marke von 1,5 Grad zeitweise überschritten und die Temperatur soll bis zum Ende des Jahrhunderts durch zusätzliche Maßnahmen wieder abgesenkt werden.",
-      "Die weltweiten Treibhausgasemissionen des Jahres 2025 lagen nach den Daten auf einem ähnlichen Niveau wie im Vorjahr. Um das Ziel einer späteren Absenkung der Temperaturen zu erreichen, müssten die Emissionen deutlich schneller und stärker sinken als bisher. Laut den Berechnungen wäre gegenüber 2025 eine weltweite Minderung um 18 Prozent bis 2030 und um 45 Prozent bis 2035 erforderlich. Der Spiegel nennt ergänzend eine Reduktion um 69 Prozent bis zum Jahr 2040."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Selbst wenn alle Staaten ihre derzeit vorliegenden nationalen Klimaschutzpläne konsequent umsetzen würden, läge die prognostizierte Erwärmung laut dem Bericht bei 2,6 Grad Celsius. Im optimistischsten Szenario, in dem alle Länder ihre langfristigen Klimaneutralitätsziele vollständig erreichen, würde sich die Erde bis zum Jahr 2100 nach Angaben des Spiegels und der Süddeutschen Zeitung um 2,1 Grad erwärmen. Im Vorjahr war das UN-Umweltprogramm bei vollständiger Umsetzung noch von 2,3 bis 2,5 Grad ausgegangen. Diese Verschlechterung wird im Bericht mit dem vollständigen Ausstieg der USA aus dem Pariser Vertrag sowie mit aktualisierten Schätzungen zu historischen Treibhausgasemissionen begründet.",
-      "Der Bericht hebt hervor, dass die Zahl der nationalen Klimaschutzpläne mit Zielen bis 2035 sich seit dem Vorjahr zwar verdoppelt hat, das erforderliche Niveau jedoch weiterhin unterschritten wird. Laut der Tageszeitung taz wird weniger als die Hälfte der G20-Mitglieder ihre Vorhaben bis 2030 umsetzen, wobei Deutschland hier ebenfalls genannt wird. Als Länder, die voraussichtlich ihre eigenen Ziele erreichen, führt die taz China, Indien, Indonesien, Russland, Südafrika und die Türkei an. Die USA, Indonesien und China verzeichneten 2025 demnach höhere Emissionen als im Vorjahr, während Indien, Russland und die EU ihre Emissionen reduzieren konnten.",
-      "Zusätzlich zur Emissionsminderung müssten dem Bericht zufolge im Laufe des Jahrhunderts große Mengen Kohlenstoffdioxid aktiv aus der Atmosphäre entfernt und gespeichert werden. Das UN-Umweltprogramm beziffert diese Menge auf 320 Gigatonnen, was dem Achtfachen des weltweiten Ausstoßes des Jahres 2024 entspricht. Ob dieser technologische Schritt gelingt, gilt im Bericht wegen enormer wirtschaftlicher und technischer Hürden als unsicher. Der EU-Klimadienst Copernicus verzeichnete im September 2026 weltweit Temperaturen, die um 1,63 Grad über dem vorindustriellen Niveau lagen. Nach Angaben von ZDFheute war dies der zweite Monat in Folge über der 1,5-Grad-Marke. Der europäische Sommer 2026 brachte laut Copernicus in Westeuropa eine Durchschnittstemperatur von 21,7 Grad, was um 2,5 Grad über dem Durchschnitt der Jahre 1991 bis 2020 lag. Das Robert-Koch-Institut schätzt die Zahl der hitzebedingten Sterbefälle in Deutschland im selben Sommer auf rund 16.000."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Das Pariser Klimaabkommen wurde im Jahr 2015 beschlossen, um die weltweite Erwärmung auf möglichst 1,5 Grad Celsius im Vergleich zum vorindustriellen Zeitalter zu begrenzen. Zum zehnten Jubiläum des Abkommens verweist der aktuelle Bericht darauf, dass sich die weltweite Erwärmungsprognose seit dem Beginn der Vereinbarungen von damals geschätzten 3 bis 3,5 Grad auf den aktuellen Wert verringert hat. Der Ausbau der erneuerbaren Energien verlief seit 2015 nach Angaben des Berichts dreimal schneller als damals erwartet.",
-      "Als Konsequenz aus dem veränderten Klimapfad verweist der Report auf konkrete regionale und klimatische Folgen. So erwarten Wissenschaftler in den Alpen vermehrt Felsstürze durch schwindenden Permafrost, während Blitzeinschläge und Starkregen das Gebirge zusätzlich belasten. Der Spiegel und die Süddeutsche Zeitung betonen, dass jeder Bruchteil eines Grades über 1,5 Grad das Risiko für klimabedingte Naturkatastrophen wie Fluten, Hitzewellen und Waldbrände erhöht."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Das UN-Umweltprogramm ist ein Programm der Vereinten Nationen, das die Umweltaktivitäten koordiniert und Entwicklungsländer unterstützt. Der Emissions Gap Report ist ein regelmäßiger Bericht, der die Diskrepanz zwischen den weltweiten Reduktionszusagen und den wissenschaftlich notwendigen Emissionswerten analysiert.",
-      "Der EU-Klimadienst Copernicus ist ein Programm der Europäischen Union zur Erdbeobachtung. Er nutzt Satellitendaten und bodengestützte Messungen für Informationen über den Zustand von Umwelt und Klima."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Die Direktorin des UN-Umweltprogramms, Inger Andersen, erklärte laut den Berichten, dass eine Begrenzung der Erwärmung so gering wie möglich gehalten werden muss und es etliche erfolgreiche Beispiele für schnelle Emissionssenkungen gibt. Sie betonte, dass es nun an den Staaten liege, dringend Maßnahmen für tiefe und nachhaltige Senkungen zu ergreifen. Auch der Generalsekretär der Vereinten Nationen, António Guterres, betonte laut dem Spiegel, dass eine Überschreitung keine Kapitulation bedeute und die Temperaturen bis zum Ende des Jahrhunderts wieder unter 1,5 Grad gesenkt werden können.",
-      "Dr. Louise Jeffery vom NewClimate Institute warnte laut ZDFheute, dass längere Verzögerungen bei den notwendigen Maßnahmen zu größeren Risiken führen. Sie bemängelte, dass Deutschland zwar Fortschritte mache, diese jedoch nicht mit der nötigen Geschwindigkeit geschehen und jüngste politische Entscheidungen wie Pläne für neue Gaskraftwerke den Fortschritt verlangsamt hätten. Jan Minx vom Potsdam-Institut für Klimaforschung erklärte laut der taz, dass beim Ausbau erneuerbarer Energien zwar viel erreicht wurde, man beim Ausstieg aus fossilen Energien aber völlig hinterherhänge.",
-      "Fentje Jacobsen vom WWF Deutschland forderte laut der taz von der Bundesregierung die Nutzung des Erneuerbare-Energien-Gesetzes und des Netzpakets. Forschende und Experten wie Christian Stöcker äußerten laut der taz die Ansicht, dass Deutschland die Infrastruktur konsequent ausbauen und Kohlenstoffdioxid durch einen globalen Mindestpreis angemessen bepreisen müsse."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die 31. Weltklimakonferenz der Vereinten Nationen findet ab dem 9. November 2026 in der Türkei in Antalya statt. Die Türkei übernimmt die Gastgeberschaft, während Australien die Verhandlungen leitet. Zu dem zweiwöchigen Treffen werden Zehntausende Delegierte sowie Staats- und Regierungschefs erwartet. Im Fokus der Verhandlungen stehen die Klimafinanzierung und der Übergang weg von fossilen Energien.",
-      "Zusätzlich steht in Brasilien eine Stichwahl um die Präsidentschaft an, bei der der amtierende linke Präsident Luiz Inácio Lula da Silva und ein Herausforderer gegeneinander antreten. Der Spiegel merkt an, dass dieser politische Kontext für den Schutz des Amazonas-Regenwaldes und das Weltklima von großer Bedeutung ist."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "21. Oktober 2026",
-     "Das UNEP veröffentlicht seinen Jahresbericht mit der Prognose von 2,8 Grad Erwärmung"
-    ],
-    [
-     "2015",
-     "Beschluss des Pariser Klimaabkommens mit dem Ziel, die Erwärmung auf 1,5 Grad zu begrenzen"
-    ],
-    [
-     "2023 bis 2025",
-     "Copernicus misst erstmals für einen Dreijahreszeitraum einen weltweiten Temperaturanstieg von über 1,5 Grad"
-    ],
-    [
-     "Oktober 2026",
-     "Das UN-Umweltprogramm veröffentlicht seinen Jahresbericht mit der Prognose von 2,8 Grad Erwärmung"
-    ],
-    [
-     "November 2026",
-     "31. Weltklimakonferenz in Antalya (Türkei)"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "António Guterres",
-     "bildunterschrift": "Der Generalsekretär der Vereinten Nationen, António Guterres, äußerte sich zu den Möglichkeiten einer Rückkehr unter das 1,5-Grad-Ziel."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "United Nations Environment Programme headquarters",
-     "bildunterschrift": "Das UN-Umweltprogramm veröffentlicht jährlich den Emissions Gap Report zur weltweiten Klimapolitik."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Wind turbine renewable energy",
-     "bildunterschrift": "Der Ausbau erneuerbarer Energien wie Windkraft gilt laut Berichten als einer der erfolgreichen Bereiche im Klimaschutz."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Antalya",
-     "bildunterschrift": "In Antalya in der Türkei findet die kommende 31. Weltklimakonferenz statt."
-    }
-   ],
-   "ort": {
-    "name": "Nairobi, Kenia"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Präzisiert, dass sich das UN-Umweltprogramm auf den Bericht bezieht.",
-    "Genaue Datumsangaben im Text angepasst."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Emissions Gap Report",
-      "Ein regelmäßiger Bericht der Vereinten Nationen. Er vergleicht die tatsächlich geplanten Klimaschutzmaßnahmen mit den Werten, die wissenschaftlich für den Klimaschutz nötig wären."
-     ],
-     [
-      "Treibhausgasemissionen",
-      "Gase wie Kohlenstoffdioxid, die in die Atmosphäre abgegeben werden und zur Erderwärmung beitragen."
-     ],
-     [
-      "Pariser Abkommen",
-      "Ein internationaler Vertrag aus dem Jahr 2015. Darin haben sich Staaten verpflichtet, die globale Erwärmung zu begrenzen."
-     ]
-    ],
-    "fragen": [
-     "Welche Argumente nennen die Berichte für die Verschlechterung der Klimaprognosen?",
-     "Welche Rolle spielen einzelne Staaten wie die Vereinigten Staaten oder Deutschland laut den Berichten beim Klimaschutz?"
-    ],
-    "quiz": [
-     {
-      "frage": "Auf wie viel Grad steuert die Erde nach dem Bericht bei aktueller Politik zu?",
-      "optionen": [
-       "1,5 Grad",
-       "2,8 Grad",
-       "3,5 Grad"
-      ],
-      "richtig": 1,
-      "erklaerung": "Alle analysierten Quellen stimmen überein, dass die Erde bei aktueller Politik auf 2,8 Grad Erwärmung zusteuert."
-     },
-     {
-      "frage": "Was ist laut dem Bericht mit dem 1,5-Grad-Ziel passiert?",
-      "optionen": [
-       "Es wurde bereits im Jahr 2020 erreicht.",
-       "Es gilt laut dem UN-Bericht als nicht mehr direkt einhaltbar.",
-       "Es wurde offiziell abgeschafft."
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut ZDFheute und taz geht der UN-Bericht davon aus, dass das 1,5-Grad-Limit nicht mehr direkt einzuhalten ist."
-     },
-     {
-      "frage": "Welcher Staat wird im Bericht als wesentlicher Grund für die Verschlechterung genannt?",
-      "optionen": [
-       "Deutschland",
-       "China",
-       "Die USA"
-      ],
-      "richtig": 2,
-      "erklaerung": "ZDFheute, der Spiegel und die Süddeutsche Zeitung nennen den Rückzug der USA aus dem Pariser Vertrag als Hauptgrund für die schlechtere Prognose."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Ein neuer Bericht der Vereinten Nationen zeigt, dass sich die Erde stark erwärmt.",
-    "absaetze": [
-     "Das UN-Umweltprogramm hat einen neuen Bericht veröffentlicht. Der Bericht heißt Emissions Gap Report. Darin steht, wie stark sich die Erde in Zukunft erwärmt. Wenn die Staaten ihre Politik nicht ändern, steuert die Erde auf eine Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts zu.",
-     "Das Ziel aus dem Pariser Klimaabkommen war es, die Erwärmung auf 1,5 Grad zu begrenzen. Nach Angaben des Berichts ist dieses Ziel nicht mehr direkt einzuhalten. Die Temperatur wird die Marke von 1,5 Grad voraussichtlich überschreiten. Später im Jahrhundert soll sie aber wieder gesenkt werden.",
-     "Als Grund für die schlechte Prognose nennen die Vereinten Nationen den Austritt der USA aus dem Pariser Abkommen. Außerdem stoßen viele Länder zu viele Treibhausgase aus. Im November 2026 treffen sich Politiker aus aller Welt in der Türkei zur nächsten Weltklimakonferenz."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Das UN-Umweltprogramm warnt in einem neuen Bericht vor einer Erwärmung der Erde um 2,8 Grad.",
-     "Das Ziel, die Erwärmung auf 1,5 Grad zu begrenzen, lässt sich demnach nicht mehr direkt einhalten.",
-     "Im November tagen die Staaten bei der Weltklimakonferenz in der Türkei."
-    ],
-    "lang": [
-     "Die Erde steuert nach einem Bericht der Vereinten Nationen auf eine Erwärmung von zwei Komma acht Grad zu.",
-     "Das teilte das UN-Umweltprogramm im Oktober im Emissions Gap Report mit.",
-     "Das wichtige Ziel des Pariser Abkommens, die Erwärmung auf 1,5 Grad zu begrenzen, lässt sich demnach nicht mehr direkt einhalten.",
-     "Als Hauptgrund für die negative Entwicklung nennen die Vereinten Nationen den Ausstieg der USA aus dem Abkommen.",
-     "Um die Temperaturen bis zum Ende des Jahrhunderts wieder unter das Limit zu senken, müssten die weltweiten Treibhausgase bis 2030 um 18 Prozent sinken.",
-     "Das sagte die Direktorin des UN-Umweltprogramms, Inger Andersen, laut Berichten von Medien.",
-     "ZDFheute und der Spiegel berichten zudem über technische Hürden bei der Entnahme von Kohlenstoffdioxid aus der Atmosphäre.",
-     "Im November beginnt die Weltklimakonferenz im türkischen Antalya.",
-     "Dort beraten die Staaten über die Zukunft der Klimapolitik."
-    ],
-    "einfach": [
-     "Die Erde erwärmt sich immer stärker.",
-     "Das steht in einem neuen Bericht der Vereinten Nationen.",
-     "Das Ziel von maximal 1,5 Grad Erwärmung ist nicht mehr zu halten.",
-     "Schuld daran ist laut dem Bericht auch der Austritt der USA aus dem Klimavertrag.",
-     "Im November treffen sich Politiker in der Türkei zur nächsten Klimakonferenz."
-    ]
-   },
-   "kurz": [
-    "Das UN-Umweltprogramm warnt vor einer Erwärmung der Erde um 2,8 Grad bis zum Jahr 2100.",
-    "Das 1,5-Grad-Ziel des Pariser Abkommens ist nach dem Bericht nicht mehr direkt einhaltbar.",
-    "Im November 2026 findet die Weltklimakonferenz im türkischen Antalya statt."
-   ],
-   "fakten": [
-    [
-     "Prognostizierte Erwärmung bis 2100",
-     "2,8 Grad Celsius"
-    ],
-    [
-     "Erforderliche Minderung der Emissionen bis 2030",
-     "18 Prozent"
-    ],
-    [
-     "Erforderliche Minderung der Emissionen bis 2035",
-     "45 Prozent"
-    ],
-    [
-     "Hitzebedingte Sterbefälle in Deutschland im Sommer",
-     "rund 16.000"
-    ],
-    [
-     "Zu entziehende Kohlenstoffdioxid-Menge",
-     "320 Gigatonnen"
-    ]
-   ],
-   "dossier": {
-    "slug": "un-klimabericht-2026",
-    "titel": "UN-Klimabericht und weltweite Erwärmung"
-   },
-   "bildInfo": {
-    "titel": "António Guterres, 23.03.23.jpg",
-    "beschreibung": "António Guterres in Brussels, Belgium, for the European Council spring meeting",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ant%C3%B3nio_Guterres%2C_23.03.23.jpg/1280px-Ant%C3%B3nio_Guterres%2C_23.03.23.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ant%C3%B3nio_Guterres%2C_23.03.23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres,_23.03.23.jpg",
-    "urheber": "European Commission (Christophe Licoppe)",
-    "lizenz": "CC BY 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-    "artikel": "António Guterres",
-    "sprache": "de",
-    "art": "person",
-    "suchbegriff": "António Guterres",
-    "bildunterschrift": "António Guterres, der mit Berichten zur globalen Klimapolitik verbunden ist.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "António Guterres, 23.03.23.jpg",
-     "beschreibung": "António Guterres in Brussels, Belgium, for the European Council spring meeting",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Ant%C3%B3nio_Guterres%2C_23.03.23.jpg/1280px-Ant%C3%B3nio_Guterres%2C_23.03.23.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ant%C3%B3nio_Guterres%2C_23.03.23.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Guterres,_23.03.23.jpg",
-     "urheber": "European Commission (Christophe Licoppe)",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "artikel": "António Guterres",
-     "sprache": "de",
-     "art": "person",
-     "suchbegriff": "António Guterres",
-     "bildunterschrift": "António Guterres, der mit Berichten zur globalen Klimapolitik verbunden ist.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Nairobi, Kenia",
-    "lat": -1.302,
-    "lon": 36.829
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Die Erde steuert nach einem Bericht der Vereinten Nationen auf eine Erwärmung vo",
-     "d": "680a00d837.mp3",
-     "l": 56.35,
-     "s": [
-      0.25,
-      6.15,
-      10.79,
-      18.17,
-      24.68,
-      34.56,
-      40.37,
-      48.14,
-      52.45
-     ]
-    },
-    {
-     "k": "Das UN-Umweltprogramm warnt in einem neuen Bericht vor einer Erwärmung der Erde ",
-     "d": "f7d918526b.mp3",
-     "l": 16.86,
-     "s": [
-      0.25,
-      6.13,
-      12.32
-     ]
-    },
-    {
-     "k": "Die Erde erwärmt sich immer stärker. Das steht in einem neuen Bericht der Verein",
-     "d": "23f673fab5.mp3",
-     "l": 22.61,
-     "s": [
-      0.25,
-      2.97,
-      6.75,
-      11.79,
-      17.11
-     ]
-    },
-    {
-     "k": "Ob die technologische Entfernung von 320 Gigatonnen Kohlenstoffdioxid aus der At",
-     "d": "e166d68fa6.mp3",
-     "l": 10.85,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Emissions Gap Report? Ein regelmäßiger Bericht der Verei",
-     "d": "5de5482eb3.mp3",
-     "l": 15.86,
-     "s": [
-      0.25,
-      4.11,
-      7.69
-     ]
-    }
-   ]
-  },
-  {
-   "id": "tesla-spacex-fusion",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-10-21T13:08:11.000Z",
-   "aktualisiert": "aktualisiert um 06:35 Uhr",
-   "titel": "Mögliche Fusion der Unternehmen Tesla und SpaceX",
-   "vorspann": "Die von Elon Musk geführten Unternehmen Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Laut den Berichten wurden spezielle Ausschüsse gebildet, um eine Transaktion zu untersuchen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Die Unternehmen Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss.",
-    "Elon Musk bestätigte formelle Gespräche und die Bildung unabhängiger Sonderausschüsse.",
-    "SpaceX legte starke Quartalszahlen mit einem Gewinn von 4,4 Milliarden Dollar vor.",
-    "Eine mögliche Fusion müsste von Aktionären sowie internationalen Behörden genehmigt werden."
-   ],
-   "einig": [
-    [
-     "Tesla und SpaceX prüfen einen Zusammenschluss.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Zeit"
-     ]
-    ],
-    [
-     "Es wurden spezielle Ausschüsse aus unabhängigen Direktoren gebildet.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ],
-    [
-     "SpaceX verzeichnete im Quartal einen Gewinn von 4,4 Milliarden Dollar.",
-     [
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die Gespräche tatsächlich zu einer Fusion führen, ist laut Musk unklar.",
-    "Wer die Drosselung des Starlink-Netzwerks in der Ukraine angeordnet hat, ist strittig: Die Ukraine und Insider beschuldigen laut ZDFheute Elon Musk, während Donald Trump jegliche Verantwortung von sich und Musk weist."
-   ],
-   "positionen": [
-    [
-     "Elon Musk",
-     "Hält eine Fusion für eine gute Idee mit vielen Vorteilen.",
-     "Tagesschau/ARD,ZDFheute,Spiegel,Zeit"
-    ],
-    [
-     "Befürworter",
-     "Argumentieren, dass das kombinierte Unternehmen Kapital effizienter einsetzen kann.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Kritiker",
-     "Glauben, dass Investoren sich dadurch einem breiteren Spektrum an technischen und regulatorischen Risiken aussetzen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Donald Trump",
-     "Erklärt, er habe keine Einschränkungen für Starlink gefordert und glaube nicht, dass Musk dies getan habe.",
-     "ZDFheute"
-    ]
-   ],
-   "fehlend": "Stimmen von Aktionären, Vertretern der US-Wettbewerbsbehörden sowie der chinesischen Regierung.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.10.26, 15:08",
-     "fokus": "Hintergründe und Risiken der Fusion",
-     "text": "Der Bericht beleuchtet die geopolitischen Herausforderungen, regulatorischen Hürden in den USA und China sowie die technologischen Synergien der beiden Konzerne.",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/faq-tesla-spacex-zusammenschluss-folgen-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 622,
-      "satzlaenge": 16,
-      "langeWoerter": 37
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.10.26, 09:43",
-     "fokus": "Finanzen und Ukraine-Konflikt",
-     "text": "Der Artikel konzentriert sich auf die Quartalszahlen von SpaceX, das Starlink-Geschäft und die Vorwürfe aus der Ukraine bezüglich möglicher Daten-Drosselungen.",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/spacex-umsatz-tesla-zusammenschluss-musk-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 531,
-      "satzlaenge": 15,
-      "langeWoerter": 36
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 02:06",
-     "fokus": "Quartalsergebnisse und Börsenwerte",
-     "text": "Der Beitrag liefert Zahlen zu den Umsätzen und Gewinnen der Sparten von SpaceX sowie die Einschätzungen zur Börsenbewertung.",
-     "url": "https://www.spiegel.de/wirtschaft/elon-musk-spacex-verdoppelt-umsatz-und-prueft-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 506,
-      "satzlaenge": 14,
-      "langeWoerter": 33
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 02:02",
-     "fokus": "Kurzmeldung zur Bestätigung",
-     "text": "Die Wochenzeitung fasst kurz zusammen, dass Elon Musk die Prüfung eines Zusammenschlusses bestätigt hat.",
-     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-10/tesla-spacex-fusion-elon-musk-aktionaere",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.10.26, 10:48",
-     "fokus": "Einschätzung und Show-Elemente",
-     "text": "Die Tageszeitung beschreibt eine Inszenierung in Texas und bewertet den Schritt als riskant.",
-     "url": "https://www.sueddeutsche.de/wirtschaft/tesla-space-x-elon-musk-fusion-kommentar-li.3566748",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 1,
-      "woerter": 131,
-      "satzlaenge": 19,
-      "langeWoerter": 24
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf Randthemen",
-     "ZDFheute widmet sich den Vorwürfen der Ukraine bezüglich Starlink, während andere Quellen dies kaum oder gar nicht erwähnen."
-    ],
-    [
-     "Ausführlichkeit der Finanzdaten",
-     "Spiegel und ZDFheute nennen exakte Quartalszahlen und Umsätze der einzelnen SpaceX-Sparten, während Tagesschau und Zeit den Fokus stärker auf die Fusionsprüfung legen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Elon Musk und die Konzerne Tesla und SpaceX",
-    "was": "Prüfung einer möglichen Fusion der Unternehmen",
-    "wann": "Oktober 2026",
-    "wo": "USA",
-    "wie": "Durch eigens gebildete Sonderausschüsse unabhängiger Direktoren",
-    "warum": "Wirtschaftliche Vorteile, Synergien und Einfluss von Elon Musk laut Tesla und SpaceX",
-    "quellenlage": "Mitteilungen von Tesla und SpaceX, Quartalszahlen sowie Medienberichte"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Die Unternehmen Tesla und SpaceX prüfen nach offiziellen Angaben einen Zusammenschluss zu einem gemeinsamen Konzern. Dies teilten die Firmen in den Berichten zu den Quartalszahlen mit. Der Tech-Milliardär Elon Musk bestätigte das Vorhaben in Gesprächen. Er selbst nimmt wegen möglicher Interessenkonflikte nicht an den Beratungen der Gremien teil.",
-      "Laut den Berichten wurden von beiden Unternehmen spezielle Ausschüsse aus unabhängigen Direktoren gebildet. Diese Gremien prüfen gegenwärtig die Bedingungen einer möglichen Transaktion. Eine Investmentbank berät den Automobilkonzern Tesla bei diesem Prozess. Bislang handelt es sich um formelle Gespräche ohne endgültige Beschlüsse.",
-      "Elon Musk betonte, es sei verfrüht, von einer festen Fusion auszugehen. Die Ausschüsse hätten sich noch nicht auf die Bedingungen geeinigt und würden dies möglicherweise auch in Zukunft nicht tun. Ein Insider erklärte gegenüber der Nachrichtenagentur Reuters, dass die Gespräche in den vergangenen Wochen begonnen haben. Sie könnten in einer Übernahme von Tesla durch SpaceX enden.",
-      "Das fusionierte Unternehmen könnte einen Marktwert von mehreren Billionen Dollar erreichen. Die Geschäftsfelder würden von Elektroautos über Künstliche Intelligenz und Robotik bis zur Satellitenkommunikation reichen. Elon Musk erklärte, dass eine solche Fusion eine gute Idee mit vielen Vorteilen sein könnte. Er äußerte sich in der Vergangenheit zu Spekulationen dieser Art ansonsten eher ausweichend."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Das Raumfahrtunternehmen SpaceX verzeichnete im abgelaufenen Quartal einen Gewinn von 4,4 Milliarden Dollar, nachdem im Vorjahreszeitraum noch ein Verlust von einer Milliarde Dollar verbucht worden war. Der Umsatz stieg um 161 Prozent auf 14,6 Milliarden Dollar. Der Satellitendienst Starlink erhöhte seinen Umsatz um 69 Prozent auf 5,2 Milliarden Dollar. Die Anzahl der Kunden von Starlink lag zum Stichtag Ende September bei 13,6 Millionen.",
-      "Die Sparte für Künstliche Intelligenz verzeichnete ebenfalls starke Zuwächse und erwirtschaftete einen Umsatz von 7,56 Milliarden Dollar. SpaceX vermietet große Rechenzentren unter anderem an Unternehmen wie Anthropic und Reflection AI. Die Ausgaben für die neue Infrastruktur im Bereich Künstliche Intelligenz haben sich verdreifacht. Insgesamt investierte der Raumfahrtkonzern 16,4 Milliarden Dollar in diesen Bereich.",
-      "Im Bereich der Börsenbewertungen wird SpaceX derzeit auf mehr als 1,9 Billionen Dollar geschätzt. Tesla wird in den Berichten mit einem Wert von rund 1,48 Billionen Dollar beziffert. Eine Kombination beider Firmen würde einen neuen Giganten mit einem geschätzten Gesamtwert von etwa 3,5 Billionen Dollar schaffen. Die Aktienkurse von SpaceX stiegen nach den Mitteilungen im nachbörslichen Handel um acht Prozent. Die Papiere von Tesla legten um 1,8 Prozent zu.",
-      "Die Süddeutsche Zeitung beschrieb ergänzend eine Vorführung in Waco im US-Bundesstaat Texas, bei der Elon Musk einen Tesla mit Triebwerken des Raketenbauers vorführen ließ. Dies wurde in dem Bericht als Teil einer Inszenierung dargestellt. Ein Insider berichtete zudem über die beratenden Investmentbanken im Hintergrund der Transaktion."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Elon Musk hält knapp ein Fünftel der Anteile an dem Automobilkonzern Tesla. Bei dem Unternehmen SpaceX verfügt er über die stimmrechtliche Kontrolle. Er gilt damit als reichster Mensch der Welt mit einem Vermögen von geschätzt rund 920 Milliarden Dollar laut dem Spiegel. Eine Fusion könnte seinen geschäftlichen Einfluss auf die Unternehmen weiter festigen.",
-      "Beide Firmen arbeiten bereits an gemeinsamen Projekten wie der sogenannten Terafab zur Herstellung von KI-Chips. Zudem sollen Batterien von Tesla den Energiebedarf von SpaceX decken, während Starlink-Satelliten die Kommunikation für Robotaxis und humanoide Roboter von Tesla sichern könnten. Tesla plant eine Umstellung auf autonome Robotaxis und Roboter. SpaceX hat sich als wichtiger Auftragnahmer für das US-Militär, Geheimdienste und die US-Weltraumbehörde NASA etabliert.",
-      "Laut dem ZDFheute-Bericht gibt es politische Diskussionen um das Starlink-System im Zusammenhang mit der Ukraine. Die Ukraine wirft dem Unternehmen vor, die Datenübertragung gedrosselt und damit die Verteidigung behindert zu haben. Laut Insidern und Berichten des Wall Street Journal sowie des Senders CBS News soll Musk dies nach Absprache mit Donald Trump angeordnet haben. Trump dementierte jegliche Forderungen nach Einschränkungen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Unternehmensfusion beschreibt den Zusammenschluss von zwei oder mehr rechtlich selbstständigen Firmen zu einer einzigen wirtschaftlichen Einheit. Dies geschieht in der Regel durch den Austausch von Aktien oder die Übernahme eines Unternehmens durch ein anderes. Dabei werden die Ressourcen und das Management beider Firmen zusammengeführt, um gemeinsame Ziele zu verfolgen.",
-      "Sonderausschüsse sind zeitlich begrenzte Gremien innerhalb von Unternehmen, die sich aus unabhängigen Direktoren zusammensetzen. Sie werden gebildet, um bestimmte komplexe Vorgänge wie Übernahmen oder Fusionen neutral zu prüfen. Dadurch soll sichergestellt werden, dass die Interessen aller beteiligten Aktionäre gewahrt bleiben."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Elon Musk erklärte, dass er eine Fusion seiner beiden Unternehmen als eine gute Idee mit vielen Vorteilen ansieht. Laut Tagesschau/ARD argumentieren Befürworter der Fusion, dass das kombinierte Unternehmen Kapital effizienter einsetzen könne. Kritiker halten dagegen, dass sich Investoren einem breiteren Spektrum an technischen und regulatorischen Risiken aussetzen würden.",
-      "Laut ZDFheute erklärte Donald Trump zu Vorwürfen bezüglich der Drosselung von Satellitenverbindungen, dass er es nicht war und er auch nicht glaube, dass es Elon war. Zuvor hatte der Tech-Milliardär die US-Regierung für entsprechende Handnungen verantwortlich gemacht, wie der Bericht anmerkt.",
-      "In Bezug auf den Telekommunikationsmarkt reagierten andere Firmen auf die Ausbreitung von Starlink. Die Unternehmen Telekom, Telefonica, Vodafone und Orange haben laut ZDFheute eine Partnerschaft vereinbart, um der Konkurrenz zu begegnen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die gebildeten Sonderausschüsse werden die Bedingungen einer Transaktion weiter prüfen. Ob es zu einem Zusammenschluss kommt, ist nach Angaben des Managements derzeit offen. Für eine Umsetzung ist laut den Berichten die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig.",
-      "Zudem wird das Vorhaben voraussichtlich eine Prüfung durch Wettbewerbs- und Sicherheitsbehörden nach sich ziehen. Dies betrifft insbesondere die Behörden in den USA sowie die Regierung in Peking, da Tesla ein Werk in Schanghai betreibt und SpaceX eng mit dem US-Militär und der NASA zusammenarbeitet."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "21.10.2026",
-     "Elon Musk bestätigt in einer Videokonferenz die Prüfung eines Zusammenschlusses von Tesla und SpaceX."
-    ],
-    [
-     "Oktober 2026",
-     "Elon Musk bestätigt in einer Konferenz die Prüfung eines Zusammenschlusses von Tesla und SpaceX."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Elon Musk businessperson",
-     "bildunterschrift": "Elon Musk leitet die Unternehmen Tesla und SpaceX."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Tesla Inc. headquarters",
-     "bildunterschrift": "Der Autobauer Tesla ist an der Prüfung des Zusammenschlusses beteiligt."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "SpaceX headquarters",
-     "bildunterschrift": "Das Raumfahrtunternehmen SpaceX verzeichnete zuletzt gestiegene Umsätze."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Starlink satellite",
-     "bildunterschrift": "Starlink-Satelliten gehören zum Geschäftsbereich von SpaceX."
-    }
-   ],
-   "ort": {
-    "name": "USA"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Begriffe wie 'Milliarden-Plus', 'größenwahnsinnig' oder 'krachend' wurden durch neutrale Ausdrücke ersetzt.",
-    "Nicht belegte Zitate und Details, die nicht in den Quellen standen, wurden entfernt oder angepasst."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Fusion",
-      "Der Zusammenschluss von zwei oder mehr rechtlich selbstständigen Unternehmen zu einer einzigen Firma."
-     ],
-     [
-      "Sonderausschuss",
-      "Eine Gruppe von Personen, die innerhalb eines Unternehmens gebildet wird, um eine bestimmte Aufgabe oder Prüfung unabhängig zu bearbeiten."
-     ]
-    ],
-    "fragen": [
-     "Welche Vorteile sehen Befürworter in einer Fusion der beiden Unternehmen Tesla und SpaceX?",
-     "Welche Rollen spielen Behörden und Aktionäre bei einer möglichen Unternehmensfusion?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer hat die formellen Gespräche über eine mögliche Fusion bestätigt?",
-      "optionen": [
-       "Der US-Präsident Donald Trump",
-       "Der Unternehmer Elon Musk",
-       "Die Weltraumbehörde NASA"
-      ],
-      "richtig": 1,
-      "erklaerung": "Elon Musk hat laut den übereinstimmenden Berichten von Tagesschau, ZDFheute und Spiegel die formellen Gespräche bestätigt."
-     },
-     {
-      "frage": "Wie hoch war der Gewinn von SpaceX im abgelaufenen Quartal nach Angaben der Berichte?",
-      "optionen": [
-       "4,4 Milliarden Dollar",
-       "1,48 Billionen Dollar",
-       "5,2 Milliarden Dollar"
-      ],
-      "richtig": 0,
-      "erklaerung": "SpaceX hat im letzten Quartal einen Gewinn von 4,4 Milliarden Dollar erzielt."
-     },
-     {
-      "frage": "Was ist für die Umsetzung einer Fusion bei Tesla unter anderem notwendig?",
-      "optionen": [
-       "Die Zustimmung von der Regierung in Peking",
-       "Die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre",
-       "Die Erlaubnis der Europäischen Union"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut den Berichten ist für den Schritt die Zustimmung von mindestens 50 Prozent aller Tesla-Aktionäre notwendig."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Die großen Firmen Tesla und SpaceX prüfen zurzeit, ob sie sich zusammenschließen wollen. Das hat der Unternehmer Elon Musk bestätigt.",
-    "absaetze": [
-     "Tesla baut Elektroautos, und SpaceX baut Raumschiffe und Satelliten für das Internet. Beide Firmen gehören zu den Unternehmen von Elon Musk. Nun wurden spezielle Gruppen gebildet, um eine gemeinsame Zukunft zu prüfen. Ob es wirklich zu einer Fusion kommt, ist noch völlig unklar. SpaceX hat zudem mitgeteilt, dass die Firma im letzten Quartal viel Geld eingenommen und einen Gewinn von vier Komma vier Milliarden Dollar gemacht hat. Für einen Zusammenschluss müssten die Aktionäre und verschiedene Behörden ihre Zustimmung geben."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Die Konzerne Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Das bestätigte der Unternehmer Elon Musk nach Angaben der Berichte. Für die Prüfung wurden spezielle Ausschüsse aus unabhängigen Direktoren gebildet."
-    ],
-    "lang": [
-     "Die Unternehmen Tesla und SpaceX prüfen nach übereinstimmenden Berichten einen Zusammenschluss. Das bestätigte der Leiter der Firmen, Elon Musk, in einer Videokonferenz. Für die Prüfung wurden spezielle Ausschüsse gebildet, die aus unabhängigen Direktoren bestehen. Das Raumfahrtunternehmen SpaceX meldete gleichzeitig einen Quartalsgewinn von vier Komma vier Milliarden Dollar. Der Umsatz stieg nach Angaben des Unternehmens auf vierzehn Komma sechs Milliarden Dollar. Das Satellitensystem Starlink zählte Ende September dreizehn Komma sechs Millionen Kunden. Über eine mögliche Fusion wird nach Angaben der Berichte schon länger spekuliert. Ob es tatsächlich zu einem Zusammenschluss kommt, ist derzeit noch völlig offen. Für den Schritt ist unter anderem die Zustimmung von mindestens fünfzig Prozent aller Tesla-Aktionäre notwendig. Die Pläne dürften zudem von internationalen Wettbewerbsbehörden geprüft werden."
-    ],
-    "einfach": [
-     "Die Firmen Tesla und SpaceX wollen vielleicht zusammengehen. Das hat der Chef Elon Musk gesagt. Beide Firmen haben dafür spezielle Gruppen gebildet. SpaceX hat außerdem bekannt gegeben, dass die Firma viel Gewinn gemacht hat. Ob die Firmen wirklich zusammengelegt werden, ist noch nicht sicher."
-    ]
-   },
-   "kurz": [
-    "Die Unternehmen Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss.",
-    "Elon Musk bestätigte formelle Gespräche durch unabhängige Sonderausschüsse.",
-    "SpaceX verzeichnete im abgelaufenen Quartal einen Gewinn von 4,4 Milliarden Dollar.",
-    "Eine mögliche Fusion benötigt die Zustimmung von Aktionären und Behörden."
-   ],
-   "fakten": [
-    [
-     "Gewinn von SpaceX im Quartal",
-     "4,4 Milliarden Dollar"
-    ],
-    [
-     "Umsatz von SpaceX im Quartal",
-     "14,6 Milliarden Dollar"
-    ],
-    [
-     "Starlink-Kunden Ende September",
-     "13,6 Millionen"
-    ],
-    [
-     "Notwendige Zustimmung Tesla-Aktionäre",
-     "mindestens 50 Prozent"
-    ]
-   ],
-   "dossier": {
-    "slug": "tesla-spacex-fusion",
-    "titel": "Mögliche Fusion von Tesla und SpaceX"
-   },
-   "bildInfo": {
-    "titel": "2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "beschreibung": "Tesla HQ Salute. With one finger up for the first Model S delivery, VIN 0001, at the Deer Creek HQ. Driving inside is OK for an EV. =) Licence plate TSLA S1 ( T e sla Model S , VIN 1 ), belonging to S",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg/1280px-2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-    "urheber": "Steve Jurvetson",
-    "lizenz": "CC BY 2.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-    "art": "institution",
-    "suchbegriff": "Tesla Inc. headquarters",
-    "bildunterschrift": "Hauptquartier von Tesla, einem der an den Fusionsprüfungen beteiligten Unternehmen.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-     "beschreibung": "Tesla HQ Salute. With one finger up for the first Model S delivery, VIN 0001, at the Deer Creek HQ. Driving inside is OK for an EV. =) Licence plate TSLA S1 ( T e sla Model S , VIN 1 ), belonging to S",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg/1280px-2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/2012-06-01-tesla-headquarters-group-photo-s1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2012-06-01-tesla-headquarters-group-photo-s1.jpg",
-     "urheber": "Steve Jurvetson",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "art": "institution",
-     "suchbegriff": "Tesla Inc. headquarters",
-     "bildunterschrift": "Hauptquartier von Tesla, einem der an den Fusionsprüfungen beteiligten Unternehmen.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "SpaceX Headquarters, Hawthorne, CA.jpg",
-     "beschreibung": "SpaceX Headquarters, Hawthorne, CA.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/SpaceX_Headquarters%2C_Hawthorne%2C_CA.jpg/1280px-SpaceX_Headquarters%2C_Hawthorne%2C_CA.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/SpaceX_Headquarters%2C_Hawthorne%2C_CA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:SpaceX_Headquarters,_Hawthorne,_CA.jpg",
-     "urheber": "SpaceX",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "institution",
-     "suchbegriff": "SpaceX headquarters",
-     "bildunterschrift": "Hauptquartier von SpaceX, dem zweiten an den Prüfungen beteiligten Unternehmen.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "USA",
-    "lat": 39.784,
-    "lon": -100.446
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Die Unternehmen Tesla und SpaceX prüfen nach übereinstimmenden Berichten einen Z",
-     "d": "11c6b3ab3a.mp3",
-     "l": 50.78,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Die Konzerne Tesla und SpaceX prüfen einen gemeinsamen Zusammenschluss. Das best",
-     "d": "9049fb430a.mp3",
-     "l": 13.23,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Die Firmen Tesla und SpaceX wollen vielleicht zusammengehen. Das hat der Chef El",
-     "d": "59221d6197.mp3",
-     "l": 19.39,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Ob die Gespräche tatsächlich zu einer Fusion führen, ist laut Musk unklar.",
-     "d": "aecefd90ac.mp3",
-     "l": 4.94,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Fusion? Der Zusammenschluss von zwei oder mehr rechtlich",
-     "d": "a0a7e5d678.mp3",
-     "l": 9.57,
-     "s": [
-      0.25,
-      3.31
      ]
     }
    ]
