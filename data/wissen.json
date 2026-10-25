@@ -1,6 +1,186 @@
 {
- "stand": "2026-10-25T16:07:20.558Z",
+ "stand": "2026-10-25T19:34:27.279Z",
  "stuecke": [
+  {
+   "id": "wie-entsteht-eigentlich-ein-regenbogen",
+   "zeit": "2026-10-25T19:45:08.772Z",
+   "bereich": "Erde und Klima",
+   "titel": "Wie entsteht eigentlich ein Regenbogen?",
+   "vorspann": "Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht durch Sonnenlicht in Regentropfen.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Ein Regenbogen erscheint als kreisbogenförmiges farbiges Lichtband in einem Regenschauer. Die Sonne muss diesen Schauer beschienen, während der Beobachter zwischen Sonne und Regenwand steht. Der Farbverlauf zeigt die Farben des sichtbaren Sonnenspektrums. Dazu gehören die verschiedenen Spektralfarben.",
+      "Bei sehr hellem Himmel vor der Regenwolke ist manchmal ein zweiter Bogen sichtbar. Das ist der Nebenregenbogen. Er liegt über dem kräftigen Hauptregenbogen und ist lichtschwächer. Seine Farbfolge ist genau umgekehrt."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Sonnenlicht ist eine Mischung verschiedener Anteile des Lichtspektrums. Wenn dieses Licht in einen kugelförmigen Wassertropfen eintritt, wird es gebrochen. Kurzwellige Anteile werden dabei stärker abgelenkt als langwellige Anteile. Im Inneren des Tropfens wird das Licht zusätzlich an der Rückwand reflektiert.",
+      "Beim Hauptregenbogen findet diese Reflexion einmal statt. Das Licht verlässt den Tropfen wieder und wird in verschiedene Farben zerlegt. Rotes Licht wird dabei unter einem anderen Winkel zurückgeworfen als blaues Licht. Das rote Licht kommt aus Tropfen in einem Winkel von rund 42 Grad.",
+      "Der Nebenregenbogen entsteht, wenn das Licht zweimal im Inneren des Tropfens reflektiert wird. Durch die zweimalige Reflexion ist dieser Bogen dunkler. Auch der Weg des Lichts ändert sich dadurch so, dass sich die Reihenfolge der Farben umkehrt."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Der Strahlengang im Wassertropfen lässt sich mit physikalischen Gesetzen berechnen. Dazu gehören das Brechungsgesetz und Formeln für den Eintrittswinkel des Lichts. Auch der Brechungsindex des Wassers spielt dabei eine wichtige Rolle."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Winkel für rotes Licht",
+     "42 Grad"
+    ],
+    [
+     "Winkel für blaues Licht",
+     "40 Grad"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Hauptregenbogen",
+     "Der helle Regenbogen, der durch einmalige Reflexion des Lichts in den Wassertropfen entsteht."
+    ],
+    [
+     "Nebenregenbogen",
+     "Ein blasserer Regenbogen über dem Hauptregenbogen, bei dem das Licht zweimal im Tropfen reflektiert wurde."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wie oft wird das Licht im Wassertropfen beim Hauptregenbogen reflektiert?",
+     "optionen": [
+      "Einmal",
+      "Zweimal",
+      "Dreimal"
+     ],
+     "richtig": 0,
+     "erklaerung": "Der Hauptregenbogen kommt laut Artikel durch einmalige Reflexion in den Tropfen zustande."
+    }
+   ],
+   "video": [
+    "Ein Regenbogen ist ein farbiges Lichtband am Himmel.",
+    "Er zeigt sich bei Regen und Sonnenschein.",
+    "Das Sonnenlicht trifft dabei auf Wassertropfen.",
+    "Im Inneren der Tropfen wird das Licht gebrochen.",
+    "Zudem wird das Licht an der Tropfenrückwand reflektiert.",
+    "Durch diese Vorgänge wird das weiße Licht in Farben zerlegt.",
+    "Rotes Licht ist außen und blaues Licht innen zu sehen.",
+    "Der Hauptregenbogen entsteht durch eine einmalige Reflexion im Tropfen."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Regenbogen",
+    "bildunterschrift": "Ein Regenbogen zeigt die Farben des Sonnenspektrums als bogenförmiges Lichtband am Himmel."
+   },
+   "quelle": {
+    "titel": "Regenbogen",
+    "url": "https://de.wikipedia.org/wiki/Regenbogen",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 220,
+   "bildInfos": [
+    {
+     "titel": "Double-alaskan-rainbow.jpg",
+     "beschreibung": "Full featured double rainbow in Wrangell-St. Elias National Park, Alaska.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/1280px-Double-alaskan-rainbow.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+     "urheber": "Eric Rolph at English Wikipedia",
+     "lizenz": "CC BY-SA 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+     "artikel": "Regenbogen",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein Regenbogen zeigt die Farben des Sonnenspektrums als bogenförmiges Lichtband am Himmel."
+    },
+    {
+     "titel": "Bad nauheim p 003.jpg",
+     "beschreibung": "Rainbows im Kurpark Bad Nauheim",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bad_nauheim_p_003.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bad_nauheim_p_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bad_nauheim_p_003.jpg",
+     "urheber": "Peng ( talk ) 13:55, 15 August 2012 (UTC)",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Rainbows im Kurpark Bad Nauheim"
+    },
+    {
+     "titel": "Caumasee Rainbow.jpg",
+     "beschreibung": "After a thunderstorm millions of small particles from the woods around form a layer on Lake Cauma that shape the lake surface three-dimensional to reflect the morning sun. On the right side you see a ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Caumasee_Rainbow.jpg/1280px-Caumasee_Rainbow.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Caumasee_Rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Caumasee_Rainbow.jpg",
+     "urheber": "Mukitil",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "After a thunderstorm millions of small particles from the woods around form a layer on Lake Cauma that shape the lake surface three-dimensional to reflect the morning sun. On the right side you see a "
+    },
+    {
+     "titel": "Circular rainbow.jpg",
+     "beschreibung": "A circular rainbow (with faint double rainbow) captured on video while skydiving.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Circular_rainbow.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/Circular_rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Circular_rainbow.jpg",
+     "urheber": "Steve Kaufman",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "A circular rainbow (with faint double rainbow) captured on video while skydiving."
+    },
+    {
+     "titel": "Descartes Rainbow.png",
+     "beschreibung": "René Descartes’ sketch of how a rainbow is formed",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Descartes_Rainbow.png/1280px-Descartes_Rainbow.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Descartes_Rainbow.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Descartes_Rainbow.png",
+     "urheber": "René Descartes",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "René Descartes’ sketch of how a rainbow is formed"
+    },
+    {
+     "titel": "Double-Rainbow.jpg",
+     "beschreibung": "A double rainbow fotografed in Karlsruhe on July 22, 2011.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Double-Rainbow.jpg/1280px-Double-Rainbow.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Double-Rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Double-Rainbow.jpg",
+     "urheber": "User:LeonardoWeiss",
+     "lizenz": "CC BY 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "A double rainbow fotografed in Karlsruhe on July 22, 2011."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Double-alaskan-rainbow.jpg",
+    "beschreibung": "Full featured double rainbow in Wrangell-St. Elias National Park, Alaska.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/1280px-Double-alaskan-rainbow.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+    "urheber": "Eric Rolph at English Wikipedia",
+    "lizenz": "CC BY-SA 2.5",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "artikel": "Regenbogen",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein Regenbogen zeigt die Farben des Sonnenspektrums als bogenförmiges Lichtband am Himmel."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-das-deutsche-steuersystem",
    "zeit": "2026-10-25T16:31:19.964Z",
@@ -6706,207 +6886,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "In der Erdumlaufbahn erfahren Raumfahrer den Zustand der Mikrogravitation."
-   }
-  },
-  {
-   "id": "wie-augen-in-der-natur-funktionieren",
-   "zeit": "2026-10-10T08:40:21.649Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Wie Augen in der Natur funktionieren",
-   "vorspann": "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen und ermöglicht das Sehen. Die Augen von Tieren unterscheiden sich in Aufbau und Funktionalität teilweise erheblich.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen. Es ist Teil des visuellen Systems und ermöglicht das Sehen. Die Aufnahme der Reize geschieht mit Hilfe von Fotorezeptoren, die lichtempfindliche Nervenzellen sind. Deren Erregungszustand wird durch die unterschiedlichen Wellenlängen elektromagnetischer Strahlung aus dem sichtbaren Spektrum verändert. Bei Wirbeltieren werden die Nervenimpulse bereits in der Netzhaut beginnend bearbeitet. Sie gelangen über die Sehnervenbahnen zum Sehzentrum des Gehirns, wo sie zu einer visuellen Wahrnehmung verarbeitet werden.",
-      "Die Augen von Tieren unterscheiden sich in Aufbau und Funktionalität teilweise erheblich. Ihre Leistungsfähigkeit ist eng an die Anforderungen für den jeweiligen Organismus angepasst. Auch die Anzahl der Augen ist ein evolutionäres Ergebnis der Lebensumstände. Manche Tiere benötigen lediglich eine grobe Unterscheidung von Hell und Dunkel. Andere Tiere benötigen eine kontrastreiche Bildwahrnehmung oder ein großes Gesichtsfeld sowie eine differenzierte Farbwahrnehmung."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Als Resultat einer visuellen Reizverarbeitung sind Eigenschaften wie Richtungssehen, Sehschärfe, Gesichtsfeld, Farbsehen, Formsehen und Bewegungssehen zu nennen. Manche Augentypen sind lediglich in der Lage, die Richtung auszumachen, aus der Licht auf ihre Sinneszellen fällt. Mit Sehschärfe wird die Fähigkeit eines Lebewesens bezeichnet, Konturen und Muster in der Außenwelt als solche zu erkennen. Die Farbwahrnehmung ist die Fähigkeit, elektromagnetische Wellen verschiedener Wellenlängen in ihrer Intensität zu unterscheiden.",
-      "In der Natur gibt es verschiedene Bauformen von Augen. Die einfachsten Augen sind lichtempfindliche Sinneszellen auf der Außenhaut. Insekten und andere Gliederfüßer haben Facettenaugen, die sich aus einer Vielzahl von Einzelaugen zusammensetzen. Neben Linsenaugen findet man in der Natur gelegentlich auch Spiegelaugen. Bei Spiegelaugen wird das Bild durch Hohlspiegel erzeugt, die hinter der Netzhaut angeordnet sind.",
-      "Zu den weiteren Bauformen gehören das Flachauge, das Pigmentbecherauge, das Grubenauge sowie das Lochauge und das Blasenauge. Lochaugen oder Lochkameraaugen sind weiterentwickelte Grubenaugen und funktionieren nach dem Prinzip der Lochkamera. Das Blasenauge ist ein Lochauge mit verbesserter Leistung, bei dem die Öffnung von einer durchsichtigen Haut bedeckt ist. Das Linsenauge besteht aus nicht viel mehr als Linse, Pigmentzellen und Retina."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Es gibt Schätzungen, dass Augen der verschiedensten Bauweisen im Laufe der Evolution etwa vierzig mal neu entwickelt worden seien. Fossilfunde belegen, dass es frühe Augen bereits vor fünfhundertfünfundfremzig Millionen Jahren im Erdzeitalter Kambrium gab. Die ersten Linsen hatten Trilobiten in Facettenaugen vor fünfhundertzwanzig bis fünfhundert Millionen Jahren."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Alter früher Augen laut Fossilfunden",
-     "505 Millionen Jahre"
-    ],
-    [
-     "Alter erster Linsen in Facettenaugen",
-     "520 bis 500 Millionen Jahre"
-    ],
-    [
-     "Horizontales Gesichtsfeld beim Menschen",
-     "214°"
-    ],
-    [
-     "Horizontales Gesichtsfeld bei Fliegen",
-     "fast 360°"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Fotorezeptoren",
-     "Lichtempfindliche Nervenzellen, deren Erregungszustand sich durch unterschiedliche Wellenlängen verändert."
-    ],
-    [
-     "Facettenauge",
-     "Ein Auge, das sich aus einer Vielzahl von Einzelaugen zusammensetzt und ein rasterartiges Bild liefert."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Woraus entwickeln sich Linsenaugen bei Wirbeltieren laut dem Text?",
-     "optionen": [
-      "Aus einer Einstülpung der embryonalen Epidermis",
-      "Aus einer Ausstülpung des Gehirns",
-      "Aus den Sinneszellen auf der Außenhaut"
-     ],
-     "richtig": 1,
-     "erklaerung": "Linsenaugen der Wirbeltiere entwickeln sich aus einer Ausstülpung des Gehirns."
-    }
-   ],
-   "video": [
-    "Das Auge ist ein wichtiges Sinnesorgan in der Natur.",
-    "Es dient der Wahrnehmung von Lichtreizen und ermöglicht das Sehen.",
-    "Die Aufnahme der Reize erfolgt durch lichtempfindliche Fotorezeptoren.",
-    "Es gibt in der Natur sehr unterschiedliche Bauformen von Augen.",
-    "Dazu gehören einfache Sinneszellen, Flachaugen und Pigmentbecheraugen.",
-    "Insekten besitzen komplexe Facettenaugen aus vielen Einzelaugen.",
-    "Auch Lochaugen und Linsenaugen sind weit verbreitete Bauformen.",
-    "Fossilfunde belegen frühe Augen aus dem Erdzeitalter Kambrium."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Auge",
-    "bildunterschrift": "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen."
-   },
-   "quelle": {
-    "titel": "Auge",
-    "url": "https://de.wikipedia.org/wiki/Auge",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 363,
-   "bildInfos": [
-    {
-     "titel": "Human eye, anterior view.jpg",
-     "beschreibung": "Anterior view of an Asian male human eye, showing light brown iris with a prominent and dark limbal ring. The pupil is in a semi dilated state.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Human_eye%2C_anterior_view.jpg/1280px-Human_eye%2C_anterior_view.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Human_eye%2C_anterior_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Human_eye,_anterior_view.jpg",
-     "urheber": "Rapidreflex",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Auge",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen."
-    },
-    {
-     "titel": "Auge Carybdea marsupialis.jpg",
-     "beschreibung": "Auge der Qualle (eine Cubomeduse) Carybdea marsupialis als Beispiel für ein einfaches Linsenauge",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Auge_Carybdea_marsupialis.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Auge_Carybdea_marsupialis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Auge_Carybdea_marsupialis.jpg",
-     "urheber": "Kersti 14:28, 15 January 2007 (UTC)",
-     "lizenz": "CC BY 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.5",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Auge der Qualle (eine Cubomeduse) Carybdea marsupialis als Beispiel für ein einfaches Linsenauge"
-    },
-    {
-     "titel": "Auge des Nautilus.png",
-     "beschreibung": "Lochauge eines Perlboots (Nautilus) mit von den Rändern eines vorbeischwimmenden Kleinkrebses einfallenden Lichtstrahlen.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Auge_des_Nautilus.png/1280px-Auge_des_Nautilus.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/36/Auge_des_Nautilus.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Auge_des_Nautilus.png",
-     "urheber": "Sciencia58",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Lochauge eines Perlboots (Nautilus) mit von den Rändern eines vorbeischwimmenden Kleinkrebses einfallenden Lichtstrahlen."
-    },
-    {
-     "titel": "Bremse de 2009 detail.JPG",
-     "beschreibung": "Compound eyes of a male horse-fly (Diptera, family Tabanidae) in Southern Germany, 2009.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bremse_de_2009_detail.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bremse_de_2009_detail.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bremse_de_2009_detail.JPG",
-     "urheber": "Michael Hanselmann",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Compound eyes of a male horse-fly (Diptera, family Tabanidae) in Southern Germany, 2009."
-    },
-    {
-     "titel": "Cat's eye in middle light 2.jpg",
-     "beschreibung": "Auge einer Hauskatze",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cat%27s_eye_in_middle_light_2.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cat%27s_eye_in_middle_light_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Cat%27s_eye_in_middle_light_2.jpg",
-     "urheber": "Lovecats99",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Auge einer Hauskatze"
-    },
-    {
-     "titel": "Dugesia-gonocephala-01-fws.jpg",
-     "beschreibung": "Dugesia gonocephala (Dugès, 1830). Germany: Niedersachsen, Landkreis Göttingen, Nieme river near Bursfelde.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Dugesia-gonocephala-01-fws.jpg/1280px-Dugesia-gonocephala-01-fws.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dugesia-gonocephala-01-fws.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Dugesia-gonocephala-01-fws.jpg",
-     "urheber": "Francisco Welter-Schultes",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Dugesia gonocephala (Dugès, 1830). Germany: Niedersachsen, Landkreis Göttingen, Nieme river near Bursfelde."
-    },
-    {
-     "titel": "Eye iris.jpg",
-     "beschreibung": "Human eye.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eye_iris.jpg/1280px-Eye_iris.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/65/Eye_iris.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Eye_iris.jpg",
-     "urheber": "che (Please credit as \"Petr Novák, Wikipedia\" in case you use this outside Wikimedia proje",
-     "lizenz": "CC BY-SA 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Human eye."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Human eye, anterior view.jpg",
-    "beschreibung": "Anterior view of an Asian male human eye, showing light brown iris with a prominent and dark limbal ring. The pupil is in a semi dilated state.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Human_eye%2C_anterior_view.jpg/1280px-Human_eye%2C_anterior_view.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/0/08/Human_eye%2C_anterior_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Human_eye,_anterior_view.jpg",
-    "urheber": "Rapidreflex",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Auge",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen."
    }
   }
  ]
