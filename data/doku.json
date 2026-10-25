@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-25T06:04:44.019Z",
+ "stand": "2026-10-25T16:07:20.558Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -412,8 +412,76 @@
     "ueberschrift": "Zersetzung und Kreislauf der Natur",
     "wikipedia": "Saprobionten",
     "fokus": "Dieses Kapitel erklärt die wichtige Rolle der Pilze beim Abbau von totem Material.",
-    "zuDuenn": 2,
-    "versuche": 2
+    "zuDuenn": 3,
+    "versuche": 2,
+    "absaetze": [
+     "Nach der Verbreitung von Sporen betrachten wir nun die wichtige Rolle der Pilze beim Abbau von totem Material in der Natur.",
+     "Saprobionten sind heterotrophe Organismen, die in toter und sich zersetzender organischer Substanz leben.",
+     "Dazu gehören die Streuschicht von Wäldern, Faulschlamm, Kot, Aas und Mulm.",
+     "Organismen, die sich von toten Materialien direkt ernähren, tragen den Namen Saprophage.",
+     "Saprotrophe Organismen nutzen tote organische Substanz als Nahrung, und dieser Begriff ist besonders für Pilze üblich.",
+     "Mineralisierer bauen organische Nährstoffe zu anorganischen Stoffen wie Kohlenstoffdioxid oder Nitraten ab.",
+     "Zerkleinerer verkleinern totes organisches Material und scheiden nährstoffhaltiges Feinmaterial aus, was den Abbau beschleunigt.",
+     "Im nächsten Kapitel erfahren wir mehr über weitere spannende Eigenschaften aus der Welt der Pilze."
+    ],
+    "fakten": [
+     [
+      "Saprobionten",
+      "heterotrophe Organismen in toter organischer Substanz"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Saprobionten",
+      "Organismen, die in toter, sich zersetzender organischer Substanz leben."
+     ],
+     [
+      "Mineralisierer",
+      "Aerobe Bakterien und Pilze, die organische Nährstoffe zu anorganischen Stoffen abbauen."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Saprobiont",
+     "bildunterschrift": "Saprobionten leben in toter organischer Substanz wie der Streuschicht von Wäldern."
+    },
+    "quelle": {
+     "titel": "Saprobiont",
+     "url": "https://de.wikipedia.org/wiki/Saprobiont"
+    },
+    "woerter": 114,
+    "bildInfos": [
+     {
+      "titel": "Mistkäfer (Geotrupidae spec.) im Naturpark Pfälzerwald.jpg",
+      "beschreibung": "Mistkäfer (Geotrupidae spec.) im Naturpark Pfälzerwald Focusstack aus mehreren Bildern.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg/1280px-Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Mistk%C3%A4fer_(Geotrupidae_spec.)_im_Naturpark_Pf%C3%A4lzerwald.jpg",
+      "urheber": "Stephan Sprinz",
+      "lizenz": "CC BY 4.0",
+      "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+      "artikel": "Saprobiont",
+      "sprache": "de",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Saprobionten leben in toter organischer Substanz wie der Streuschicht von Wäldern."
+     }
+    ],
+    "bildInfo": {
+     "titel": "Mistkäfer (Geotrupidae spec.) im Naturpark Pfälzerwald.jpg",
+     "beschreibung": "Mistkäfer (Geotrupidae spec.) im Naturpark Pfälzerwald Focusstack aus mehreren Bildern.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg/1280px-Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mistk%C3%A4fer_%28Geotrupidae_spec.%29_im_Naturpark_Pf%C3%A4lzerwald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Mistk%C3%A4fer_(Geotrupidae_spec.)_im_Naturpark_Pf%C3%A4lzerwald.jpg",
+     "urheber": "Stephan Sprinz",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Saprobiont",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Saprobionten leben in toter organischer Substanz wie der Streuschicht von Wäldern."
+    }
    },
    {
     "ueberschrift": "Pilze als Krankheitserreger",

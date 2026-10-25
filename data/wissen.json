@@ -1,6 +1,92 @@
 {
- "stand": "2026-10-25T06:04:44.019Z",
+ "stand": "2026-10-25T16:07:20.558Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-deutsche-steuersystem",
+   "zeit": "2026-10-25T16:31:19.964Z",
+   "bereich": "Gesellschaft und Zusammenleben",
+   "titel": "Wie funktioniert eigentlich das deutsche Steuersystem?",
+   "vorspann": "Die Umsatzsteuer ist nach der Lohnsteuer die zweitwichtigste staatliche Einnahmequelle in Deutschland. Sie fällt immer an, wenn im Inland eine Ware geliefert oder eine Dienstleistung erbracht wird.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Umsatzsteuer in Deutschland wird auch Mehrwertsteuer genannt. Sie ist eine Gemeinschaftsteuer, Verkehrsteuer und indirekte Steuer. Wirtschaftlich ist sie eine Mehrwertsteuer, da sie die Differenz zwischen dem Entgelt für eine Leistung und den Vorleistungen anderer besteuert. Das Grundgesetz sieht die Einfuhrumsatzsteuer zudem als Verbrauchsteuer an. Das dazugehörige Steuersystem wird auch als Allphasen-Nettosystem mit Vorsteuerabzug bezeichnet.",
+      "Das Umsatzsteueraufkommen steht laut dem Grundgesetz teilweise dem Bund, den Ländern und den Kommunen zu. Die genauen Verteilungsmaßstäbe werden im Maßstäbegesetz festgelegt. Details dazu regelt das Finanzausgleichsgesetz. Diese Regelungen sind ein Teil des Länderfinanzausgleichs zwischen den verschiedenen Gebietskörperschaften innerhalb Deutschlands. Die Vorschriften werden dabei häufig angepasst."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Umsatzsteuer fällt nach dem Umsatzsteuergesetz immer dann an, wenn im Inland eine Dienstleistung durch ein Unternehmen erbracht wird. Das Gleiche gilt, wenn eine Ware gegen Entgelt geliefert wird. Der Regelsteuersatz beträgt seit dem ersten Januar 2007 neunzehn Prozent. Bestimmte Leistungen werden mit einem ermäßigten Steuersatz von sieben Prozent besteuert oder sind steuerbefreit. Dieser ermäßigte Steuersatz gilt bereits seit dem ersten Juli 1983.",
+      "Die Steuer wird in jährlichen Umsatzsteuererklärungen elektronisch beim Finanzamt eingereicht. Die Abgabefrist dafür ist der einfundreißigste Juli des Folgejahres. Vorab müssen monatlich oder quartalsweise Umsatzsteuer-Voranmeldungen abgegeben werden. Die Frist dafür ist jeweils der zehnte Tag nach Ablauf des Voranmeldungszeitraums. Zur Bekämpfung von Steuerbetrug gibt es zudem die Umsatzsteuer-Nachschau."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Rechtsgrundlagen für die Umsatzsteuer finden sich in verschiedenen europäischen Richtlinien und Verordnungen sowie im nationalen Recht. Dazu gehören das Umsatzsteuergesetz, die Abgabenordnung und zahlreiche weitere Verordnungen. Genaue Zahlen zum Steueraufkommen nennt das Bundesministerium der Finanzen. So betrug das Aufkommen der Umsatzsteuer im Jahr 2018 laut Angaben des Ministeriums etwa zweihundertfünfunddreißig Milliarden Euro."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Regelsteuersatz",
+     "19 Prozent"
+    ],
+    [
+     "Ermäßigter Steuersatz",
+     "7 Prozent"
+    ],
+    [
+     "Umsatzsteueraufkommen 2018",
+     "ca. 235 Milliarden Euro"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Umsatzsteuer",
+     "Eine Steuer, die bei dem Verkauf von Waren und Dienstleistungen anfällt und auch Mehrwertsteuer genannt wird."
+    ],
+    [
+     "Vorsteuerabzug",
+     "Ein Verfahren, bei dem Unternehmen die bereits gezahlte Umsatzsteuer auf ihre Einkäufe mit der eigenen Steuerschuld verrechnen."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wie hoch ist der Regelsteuersatz der Umsatzsteuer in Deutschland?",
+     "optionen": [
+      "7 Prozent",
+      "19 Prozent",
+      "30 Prozent"
+     ],
+     "richtig": 1,
+     "erklaerung": "Der Regelsteuersatz beträgt seit dem ersten Januar 2007 neunzehn Prozent."
+    }
+   ],
+   "video": [
+    "Die Umsatzsteuer ist eine wichtige Einnahmequelle für den Staat.",
+    "Sie wird auch als Mehrwertsteuer bezeichnet.",
+    "Der normale Steuersatz liegt bei neunzehn Prozent.",
+    "Für bestimmte Dinge gibt es einen ermäßigten Satz von sieben Prozent.",
+    "Unternehmen müssen die Steuer über jährliche Erklärungen an das Finanzamt melden.",
+    "Dafür gilt jeweils der einfundreißigste Juli des Folgejahres als Abgabefrist.",
+    "Zusätzlich müssen Betriebe monatlich oder quartalsweise Voranmeldungen abgeben.",
+    "Im Jahr 2018 nahm der Staat rund zweihundertfünfunddreißig Milliarden Euro ein."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Umsatzsteuer Deutschland",
+    "bildunterschrift": "Die Umsatzsteuer ist eine der wichtigsten Einnahmequellen des Staates."
+   },
+   "quelle": {
+    "titel": "Umsatzsteuer (Deutschland)",
+    "url": "https://de.wikipedia.org/wiki/Umsatzsteuer_(Deutschland)",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 264
+  },
   {
    "id": "das-deutsche-einbuergerungstest-verfahren",
    "zeit": "2026-10-25T06:20:24.175Z",
@@ -6821,186 +6907,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Auge ist ein Sinnesorgan zur Wahrnehmung von Lichtreizen."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-ein-regenbogen",
-   "zeit": "2026-10-09T16:17:18.543Z",
-   "bereich": "Natur und Tiere",
-   "titel": "Wie entsteht eigentlich ein Regenbogen?",
-   "vorspann": "Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht, wenn Sonnenlicht auf Regentropfen trifft.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Der Regenbogen ist ein atmosphärisch-optisches Phänomen. Er erscheint als kreisbogenförmiges farbiges Lichtband an der Regenwand. Die Erscheinung zeigt den mit dem Auge sichtbaren Bereich des Sonnenspektrums. Der Farbverlauf umfasst dabei verschiedene Spektralfarben. Beobachter sehen das Phänomen bei Sonnenschein und gleichzeitigem Regenfall.",
-      "Die Farben des Regenbogens sind weniger rein als in einem künstlichen Prismenspektroskop. Beim Wassertropfen fehlt eine Schlitzblende, weshalb sich farbige Strahlen teilweise überlagern. Am roten Rand ist die Sättigung der Farben am größten. An der blauen Seite ist sie am geringsten."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Das Sonnenlicht trifft auf die transparenten und kugelförmigen Regentropfen. Sowohl beim Eintritt als auch beim Austritt wird das Sonnenlicht gebrochen. Kurzwellige blaue Anteile werden dabei stärker abgelenkt als langwellige rote Anteile. Zwischen dem Eintritt und dem Austritt wird das Licht an der Tropfeninnenwand teilweise reflektiert. Das Licht wird auf diese Weise in verschieden stark abgelenkte Strahlen zerlegt.",
-      "Der Hauptregenbogen entsteht durch eine einmalige Reflexion im Inneren des Tropfens. Rotes Licht wird dabei unter einem Winkelabstand von rund 42 Grad wahrgenommen. Das blaue Licht stammt aus Regentropfen, die auf einem spitzeren Kegelmantel von rund 40 Grad liegen. Der Beobachter sieht diese Strahlen als konzentrische Kreisbögen.",
-      "Bei sehr hellem Himmel ist manchmal auch ein Nebenregenbogen sichtbar. Dieser entsteht durch eine zweimalige Reflexion des Sonnenlichts innerhalb der Tropfen. Durch die doppelte Reflexion ist der Nebenregenbogen lichtschwächer und zeigt eine umgekehrte Farbfolge."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Der Strahlengang im Regentropfen lässt sich physikalisch berechnen. Dabei gilt nach dem Brechungsgesetz ein Zusammenhang zwischen dem Eintrittswinkel und dem Winkel im Wassertropfen. Der Brechungsindex des Wassers hängt von der Wellenlänge des Lichts ab. Die gesamte Winkeländerung beim Durchgang durch den Tropfen ergibt sich aus diesen Werten."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Winkel für rotes Licht",
-     "42 Grad"
-    ],
-    [
-     "Winkel für blaues Licht",
-     "40 Grad"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Regenbogen",
-     "Ein kreisbogenförmiges farbiges Lichtband, das bei Sonnenschein in einem Regenschauer erscheint."
-    ],
-    [
-     "Spektralfarben",
-     "Die Farben, in die das Sonnenlicht zerlegt wird und die für das menschliche Auge sichtbar sind."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wie oft wird das Licht im Wassertropfen beim Hauptregenbogen reflektiert?",
-     "optionen": [
-      "Einmal",
-      "Zweimal",
-      "Dreimal"
-     ],
-     "richtig": 0,
-     "erklaerung": "Der Hauptregenbogen entsteht durch einmalige Reflexion in den Tropfen."
-    }
-   ],
-   "video": [
-    "Ein Regenbogen ist ein farbiges Lichtband am Himmel.",
-    "Er entsteht in einem von der Sonne beschienenen Regenschauer.",
-    "Sonnenlicht dringt dabei in die kugelförmigen Regentropfen ein.",
-    "Dort wird das Licht gebrochen und im Inneren reflektiert.",
-    "Blaues Licht wird stärker abgelenkt als rotes Licht.",
-    "Der Hauptregenbogen entsteht durch eine einmalige Reflexion.",
-    "Rotes Licht sehen wir in einem Winkel von rund zweiundvierzig Grad.",
-    "Blaues Licht stammt von Tropfen in einem Winkel von rund vierzig Grad."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Regenbogen",
-    "bildunterschrift": "Ein Regenbogen zeigt sich als farbiges Lichtband am Himmel."
-   },
-   "quelle": {
-    "titel": "Regenbogen",
-    "url": "https://de.wikipedia.org/wiki/Regenbogen",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 267,
-   "bildInfos": [
-    {
-     "titel": "Double-alaskan-rainbow.jpg",
-     "beschreibung": "Full featured double rainbow in Wrangell-St. Elias National Park, Alaska.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/1280px-Double-alaskan-rainbow.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
-     "urheber": "Eric Rolph at English Wikipedia",
-     "lizenz": "CC BY-SA 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-     "artikel": "Regenbogen",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein Regenbogen zeigt sich als farbiges Lichtband am Himmel."
-    },
-    {
-     "titel": "Bad nauheim p 003.jpg",
-     "beschreibung": "Rainbows im Kurpark Bad Nauheim",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bad_nauheim_p_003.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Bad_nauheim_p_003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bad_nauheim_p_003.jpg",
-     "urheber": "Peng ( talk ) 13:55, 15 August 2012 (UTC)",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Rainbows im Kurpark Bad Nauheim"
-    },
-    {
-     "titel": "Caumasee Rainbow.jpg",
-     "beschreibung": "After a thunderstorm millions of small particles from the woods around form a layer on Lake Cauma that shape the lake surface three-dimensional to reflect the morning sun. On the right side you see a ",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Caumasee_Rainbow.jpg/1280px-Caumasee_Rainbow.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Caumasee_Rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Caumasee_Rainbow.jpg",
-     "urheber": "Mukitil",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "After a thunderstorm millions of small particles from the woods around form a layer on Lake Cauma that shape the lake surface three-dimensional to reflect the morning sun. On the right side you see a "
-    },
-    {
-     "titel": "Circular rainbow.jpg",
-     "beschreibung": "A circular rainbow (with faint double rainbow) captured on video while skydiving.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Circular_rainbow.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/Circular_rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Circular_rainbow.jpg",
-     "urheber": "Steve Kaufman",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A circular rainbow (with faint double rainbow) captured on video while skydiving."
-    },
-    {
-     "titel": "Descartes Rainbow.png",
-     "beschreibung": "René Descartes’ sketch of how a rainbow is formed",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Descartes_Rainbow.png/1280px-Descartes_Rainbow.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Descartes_Rainbow.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Descartes_Rainbow.png",
-     "urheber": "René Descartes",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "René Descartes’ sketch of how a rainbow is formed"
-    },
-    {
-     "titel": "Double-Rainbow.jpg",
-     "beschreibung": "A double rainbow fotografed in Karlsruhe on July 22, 2011.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Double-Rainbow.jpg/1280px-Double-Rainbow.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/34/Double-Rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Double-Rainbow.jpg",
-     "urheber": "User:LeonardoWeiss",
-     "lizenz": "CC BY 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A double rainbow fotografed in Karlsruhe on July 22, 2011."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Double-alaskan-rainbow.jpg",
-    "beschreibung": "Full featured double rainbow in Wrangell-St. Elias National Park, Alaska.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Double-alaskan-rainbow.jpg/1280px-Double-alaskan-rainbow.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Double-alaskan-rainbow.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
-    "urheber": "Eric Rolph at English Wikipedia",
-    "lizenz": "CC BY-SA 2.5",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "artikel": "Regenbogen",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein Regenbogen zeigt sich als farbiges Lichtband am Himmel."
    }
   }
  ]
