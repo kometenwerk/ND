@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-24T19:01:28.385703Z",
+ "stand": "2026-10-25T19:16:30.381554Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -23,6 +23,145 @@
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-starshield-drosselung-ukraine",
+   "themaId": "starshield-drosselung-ukraine",
+   "art": "podcast",
+   "titel": "Starlink in der Ukraine: Vorwürfe und Verbindungen",
+   "text": "Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.",
+   "zeit": "2026-10-25T19:16:30.381554Z",
+   "besetzung": [
+    "Thorsten",
+    "Sigrid",
+    "Malte",
+    "Nora"
+   ],
+   "d": "folge-podcast-starshield-drosselung-ukraine.mp3",
+   "l": 432.96,
+   "b": 3464301,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Herzlich willkommen zu unserem Podcast. Heute geht es um die Verwendung des Satelliteninternetdienstes Starlink in der Ukraine. Alle Stimmen dieser Sendung sind Computerstimmen. Ich begrüße meine Kolleginnen und Kollegen im Studio."
+    },
+    {
+     "s": 23.97,
+     "wer": "Thorsten",
+     "text": "Mit dabei sind heute Sigrid, Malte und Nora. Wir blicken auf die aktuellen Berichte unter anderem aus Tagesschau, Deutschlandfunk und Spiegel. Sigrid, wie siehst du das Ganze zum Einstieg?"
+    },
+    {
+     "s": 43.28,
+     "wer": "Sigrid",
+     "text": "Im Zentrum steht der Tech-Milliardär Elon Musk. Er hat dem ukrainischen Militär vorgeworfen, den Internetdienst Starlink für offensive Drohnenangriffe missbraucht zu haben. Die Ukraine wies diese Vorwürfe entschieden zurück."
+    },
+    {
+     "s": 60.87,
+     "wer": "Sigrid",
+     "text": "Gleichzeitig meldete die Ukraine aber auch eine wiederhergestellte und stabile Verbindung. Die Berichte dazu stammen aus Medien wie der Frankfurter Allgemeinen Zeitung und der BBC. Es ist also eine sehr dynamische Situation."
+    },
+    {
+     "s": 76.03,
+     "wer": "Thorsten",
+     "text": "Damit zu Malte, der sich die Details und den genauen Ablauf angesehen hat. Was genau wird in den Berichten übereinstimmend geschildert, Malte?"
+    },
+    {
+     "s": 89.63,
+     "wer": "Malte",
+     "text": "Einig sind sich die Berichte in mehreren Punkten. Elon Musk warf der Ukraine vor, Starlink für offensive Drohnenangriffe genutzt zu haben. Die Ukraine meldete eine wiederhergestellte und stabile Verbindung zum Satelliteninternet."
+    },
+    {
+     "s": 105.76,
+     "wer": "Malte",
+     "text": "Zudem erklärte US-Präsident Donald Trump, dass Musk den Zugang zu Starlink wiederhergestellt habe. Die Quellen dazu umfassen den Spiegel und den Deutschlandfunk. Technische Probleme traten während politischer Spannungen zwischen Kiew und Washington auf."
+    },
+    {
+     "s": 123.31,
+     "wer": "Nora",
+     "text": "Malte, lass uns da genauer auf die einzelnen Positionen schauen. Wie stellt sich die Seite von SpaceX und Elon Musk dar? Welche Argumente bringt er vor?"
+    },
+    {
+     "s": 143.64,
+     "wer": "Malte",
+     "text": "Elon Musk als SpaceX-Chef argumentiert, dass die Ukraine Starlink für offensive Drohnenangriffe missbraucht hat. Dies verstoße klar gegen die Nutzungsbedingungen. Auf der Plattform X warf er der Ukraine am vierundzwanzigsten Oktober diesen Missbrauch vor."
+    },
+    {
+     "s": 160.93,
+     "wer": "Nora",
+     "text": "Und wie reagiert die Ukraine darauf? Wie wird die Lage dort beschrieben, Sigrid? Du hast dir die ukrainischen Reaktionen angesehen."
+    },
+    {
+     "s": 174.34,
+     "wer": "Sigrid",
+     "text": "Präsident Wolodymyr Selenskyj erklärte, dass die Starlink- und Starshield-Verbindung wieder mit der erforderlichen Geschwindigkeit funktioniert. Sie wird demnach für Frontlogistik und Raketenabwehr gebraucht. Die Ukraine wies die Missbrauchsvorwürfe am fünfundzwanzigsten Oktober offiziell zurück."
+    },
+    {
+     "s": 192.22,
+     "wer": "Sigrid",
+     "text": "Es gibt auch Stimmen aus dem ukrainischen Apparat, die Musks Aussagen anzweifeln. Der ukrainische Präsidentschaftsberater Serhij Beskrestnov nannte Musks Post sehr seltsam. Kommerzielle Starlink-Terminals seien in der Ukraine geschwindigkeitsgedrosselt und würden in Russland gar nicht arbeiten."
+    },
+    {
+     "s": 210.6,
+     "wer": "Nora",
+     "text": "Damit kommen wir zu der Rolle der Vereinigten Staaten und Präsident Donald Trump. Was sagt Washington dazu? Malte, welche Aussagen gibt es von Trump?"
+    },
+    {
+     "s": 226.51,
+     "wer": "Malte",
+     "text": "US-Präsident Donald Trump erklärte vor Journalisten am dreiundzwanzigsten Oktober, dass Musk den uneingeschränkten Zugang zu Starlink wiederhergestellt habe. Trump erklärte zudem, er habe auf die Wiederherstellung des Zugangs hingewirkt. Andere Vorwürfe und Berichte über eigene Anordnungen zur Drosselung wurden von ihm zurückgewiesen."
+    },
+    {
+     "s": 247.84,
+     "wer": "Nora",
+     "text": "Genau das ist aber der Punkt, der laut den Medien unklar bleibt, wie Nora eben angedeutet hat. Wer ist denn nun wirklich verantwortlich für die Drosselung? Laut dem Spiegel ist das völlig offen."
+    },
+    {
+     "s": 265.66,
+     "wer": "Nora",
+     "text": "Zudem ist zwischen den Berichten und ukrainischen Angaben strittig, ob die USA tatsächlich gedroht haben, den Geheimdienstaustausch zu beenden. Das bleibt in der Berichterstattung ein offener und umstrittener Punkt."
+    },
+    {
+     "s": 279.73,
+     "wer": "Sigrid",
+     "text": "Es gab in den Berichten auch konkrete Zahlen und eine zeitliche Abfolge. Malte, kannst du uns dazu noch einige Details nennen, die in der Vorlage stehen?"
+    },
+    {
+     "s": 291.91,
+     "wer": "Malte",
+     "text": "Sehr gerne, Sigrid. In der Berichterstattung gibt es Angaben zu einer Geschwindigkeitsbegrenzung für Drohnen von siebzig bis neunzig Kilometer pro Stunde. Zudem werden drei getötete Personen in Dnipropetrowsk im Zusammenhang mit den Berichten genannt."
+    },
+    {
+     "s": 312.51,
+     "wer": "Nora",
+     "text": "Und schauen wir auf die Zeitleiste, die vom vierzehnten Oktober bis zum fünfundzwanzigsten Oktober reicht. Am vierzehnten Oktober meldete die Ukraine eine erste Unterbrechung oder Drosselung des Netzes. Am zweiundzwanzigsten Oktober berichtete das Wall Street Journal über angebliche Anordnungen Musks zur Drosselung."
+    },
+    {
+     "s": 336.1,
+     "wer": "Sigrid",
+     "text": "Am dreiundzwanzigsten Oktober erklärte Trump dann vor Journalisten die Wiederherstellung des Zugangs. Am vierundzwanzigsten Oktober meldete die Ukraine eine stabile Verbindung und Angriffe auf russische Industrieanlagen. Am selben Tag folgte Musks Vorwurf auf X."
+    },
+    {
+     "s": 354.35,
+     "wer": "Thorsten",
+     "text": "Wir sehen also, dass hier viele verschiedene Aussagen aufeinanderprallen. Sigrid, wie bewertest du das Zusammenspiel zwischen den politischen Akteuren und dem Unternehmen SpaceX?"
+    },
+    {
+     "s": 371.26,
+     "wer": "Sigrid",
+     "text": "Es zeigt, wie abhängig moderne militärische Operationen von kommerzieller Satelliteninfrastruktur sind. Auf der einen Seite steht die ukrainische Frontlogistik, die dringend auf stabile Verbindungen angewiesen ist. Auf der anderen Seite stehen die Vorgaben und Einflüsse des Betreibers SpaceX und der US-Regierung."
+    },
+    {
+     "s": 391.47,
+     "wer": "Nora",
+     "text": "Und wie Nora und Malte bereits ausgeführt haben, bleiben die genauen Hintergründe im Dunkeln. Ob es politische Druckmittel gab oder wer die Drosselung veranlasst hat, lässt sich anhand der vorliegenden Medienberichte nicht abschließend klären. Die Vorwürfe stehen im Raum."
+    },
+    {
+     "s": 414.02,
+     "wer": "Thorsten",
+     "text": "Damit haben wir die verschiedenen Positionen, Zahlen und offenen Fragen aus den Berichten beleuchtet. Ich danke euch für diese ausführliche Runde. Damit schließen wir diese Folge unseres Podcasts."
+    }
+   ]
+  },
   {
    "id": "podcast-kehlsteinhaus-brand-obersalzberg",
    "themaId": "kehlsteinhaus-brand-obersalzberg",
@@ -978,205 +1117,6 @@
      "s": 443.85,
      "wer": "Thorsten",
      "text": "Damit sind wir am Ende unserer heutigen Sendung angekommen. Wir haben die verschiedenen Perspektiven und Zahlen zu den Unruhen in Frankreich beleuchtet. Danke an Sigrid, Malte und Nora für das Gespräch."
-    }
-   ]
-  },
-  {
-   "id": "podcast-trump-russland-sanktionen-ausgesetzt",
-   "themaId": "trump-russland-sanktionen-ausgesetzt",
-   "art": "podcast",
-   "titel": "Trumps Dekret stoppt Russland-Sanktionen vorerst",
-   "text": "US-Präsident Donald Trump hat neue Sanktionen gegen Russland kurz vor dem Inkrafttreten ausgesetzt. Die Entscheidung löst in Kiew scharfe Kritik aus, während Moskau den Schritt begrüßt.",
-   "zeit": "2026-10-17T18:50:31.561252Z",
-   "besetzung": [
-    "Thorsten",
-    "Sigrid",
-    "Malte",
-    "Nora"
-   ],
-   "d": "folge-podcast-trump-russland-sanktionen-ausgesetzt.mp3",
-   "l": 847.54,
-   "b": 6780909,
-   "marken": [
-    {
-     "s": 0.3,
-     "wer": "Thorsten",
-     "text": "Willkommen zu unserem Podcast. Heute sprechen wir über die überraschende Entscheidung aus Washington, beschlossene Sanktionen und Zölle gegen Russland vorerst nicht in Kraft treten zu lassen. Alle Stimmen dieser Sendung sind Computerstimmen. Wir stützen uns in dieser Analyse auf Berichte von ARD, ZDFheute, Deutschlandfunk, Spiegel und FAZ."
-    },
-    {
-     "s": 33.08,
-     "wer": "Thorsten",
-     "text": "Mit mir im Studio sind wie immer Sigrid, Malte und Nora. Sigrid wird uns helfen, die politischen Zusammenhänge einzuordnen. Malte hat die genauen Zahlen und Berichte vorliegen, und Nora behält im Blick, welche Fragen derzeit noch unbeantwortet bleiben. Sigrid, wie siehst du den Vorgang, worum geht es dabei im Kern?"
-    },
-    {
-     "s": 65.12,
-     "wer": "Sigrid",
-     "text": "Im Kern geht es um ein umfassendes Gesetzespaket, das der US-Kongress bereits verabschiedet hatte. Dieses Paket sah neue Abgaben und Strafmaßnahmen auf russische Energieexporte vor. US-Präsident Donald Trump hat diese Maßnahmen nun unmittelbar vor dem geplanten Start per Dekret gestoppt. Das sorgt international natürlich für sehr gegensätzliche Reaktionen."
-    },
-    {
-     "s": 91.33,
-     "wer": "Malte",
-     "text": "Man muss sich die zeitliche Abfolge ansehen, wie sie die Medien dokumentieren. Das Gesetz, das nach dem verstorbenen Senator Lindsey Graham benannt ist, wurde von Donald Trump Mitte September zweitausendsechsundzwanzig unterzeichnet. Es galt eine Frist von dreißig Tagen bis zum Inkrafttreten. Am siebzehnten Oktober, also kurz vor Ablauf dieser Frist, setzte Trump das Vorhaben per Dekret bis auf Weiteres aus."
-    },
-    {
-     "s": 120.98,
-     "wer": "Nora",
-     "text": "Mich interessiert vor allem, worin sich die vorliegenden Berichte eigentlich einig sind. Gibt es bei den Grundfakten einen klaren Konsens zwischen den verschiedenen Quellen. Oder gibt es bereits bei den Ausgangsdaten Widersprüche."
-    },
-    {
-     "s": 138.88,
-     "wer": "Sigrid",
-     "text": "Bei den Grundtatsachen herrscht große Einigkeit. Alle Quellen berichten übereinstimmend, dass Trump das bereits beschlossene Sanktionspaket vorerst ausgesetzt hat. Ebenso berichten alle Medien, dass der US-Präsident dies mit den nationalen Interessen der Vereinigten Staaten begründet hat. Er verwies dabei explizit auf die gestiegenen Energiepreise."
-    },
-    {
-     "s": 160.41,
-     "wer": "Malte",
-     "text": "Ein weiterer Punkt, den alle Berichte deckungsgleich erwähnen, ist die Vereinbarung über Diesel-Lieferungen. Trump hatte Anfang Oktober zweitausendsechsundzwanzig eine Vereinbarung über die Lieferung von russischem Diesel getroffen, und zwar für die USA und den Weltmarkt. Auch die Reaktionen aus Kiew und Moskau werden in allen Medien übereinstimmend als gegensätzlich beschrieben."
-    },
-    {
-     "s": 183.93,
-     "wer": "Thorsten",
-     "text": "Damit sind die wichtigsten Eckdaten klar benannt. Lassen Sie uns nun auf die verschiedenen Positionen schauen, die von den Beteiligten eingenommen werden. Sigrid, wie begründet das Weiße Haus diesen Schritt ganz konkret?"
-    },
-    {
-     "s": 204.49,
-     "wer": "Sigrid",
-     "text": "US-Präsident Donald Trump argumentiert aus einer klaren Verhandlungsposition heraus. Er erklärte, dass die Aussetzung der Zölle und Strafmaßnahmen zum jetzigen Zeitpunkt im nationalen Interesse der Vereinigten Staaten liege. Hintergrund sind die gestiegenen Energiepreise, die durch zusätzliche Abgaben auf russische Energieexporte weiter hätten steigen können. Er sieht darin also einen Schutz der heimischen Verbraucher und der Wirtschaft."
-    },
-    {
-     "s": 231.88,
-     "wer": "Nora",
-     "text": "Auf der anderen Seite steht die ukrainische Regierung, die das völlig anders bewertet. Der ukrainische Staatschef Wolodymyr Selenskyj kritisierte die Lockerung scharf als falsches Signal an Moskau. Er erklärte, dass eine Lockerung des Drucks und finanzielle Belohnungen Russland zu weiteren Angriffen auf die Energieinfrastruktur ermutigen würden. Für Kiew bedeutet der Schritt eine gefährliche Entlastung des Gegners."
-    },
-    {
-     "s": 258.64,
-     "wer": "Malte",
-     "text": "In Moskau wird die Entscheidung naturgemäß ganz anders eingeordnet. Der Kreml-Beauftragte Kirill Dmitrijew bezeichnete den Schritt der US-Regierung als einen wichtigen Moment. Nach seiner Darstellung fördert das Aussetzen der Strafmaßnahmen den bilateralen Dialog. Zudem schütze es die Wirtschaft vor schweren Schäden, womit er die russische Perspektive betont."
-    },
-    {
-     "s": 283.63,
-     "wer": "Thorsten",
-     "text": "Wir haben hier also drei sehr deutliche und unvereinbare Haltungen. Einerseits nationale US-Interessen und Energiepreise, andererseits die Warnung vor neuer Eskalation, und drittens die Hoffnung auf Dialog. Wie Nora eben andeutete, spielt dabei auch das Timing eine Rolle."
-    },
-    {
-     "s": 308.46,
-     "wer": "Sigrid",
-     "text": "Das Timing ist in der Tat auffällig. Noch Mitte September unterzeichnet Trump das Graham-Gesetz, doch kurz vor Ablauf der Frist folgt die Wende. Dazwischen liegt Anfang Oktober die Vereinbarung über die Diesel-Lieferungen. Das zeigt, dass wirtschaftliche Abkommen und handelspolitische Sanktionen hier direkt ineinandergreifen."
-    },
-    {
-     "s": 331.74,
-     "wer": "Nora",
-     "text": "Genau bei diesem Diesel-Deal ergeben sich aber viele offene Fragen. Wie Malte vorhin schon erwähnte, wissen wir zwar von der Grundsatzvereinbarung, aber die Details sind unklar. Mich würde interessieren, was die Medienberichte über das tatsächliche Ausmaß dieser Lieferungen schreiben."
-    },
-    {
-     "s": 350.7,
-     "wer": "Malte",
-     "text": "Hier gibt es tatsächlich eine Diskrepanz in der Berichterstattung. ZDFheute nennt an einer Stelle eine Menge von mehr als dreihunderttausend Tonnen vereinbartem Diesel. An einer anderen Stelle spricht derselbe Sender jedoch von Millionen Tonnen. Die genaue Größenordnung der Diesellieferungen bleibt in den Quellen somit offen."
-    },
-    {
-     "s": 375.89,
-     "wer": "Thorsten",
-     "text": "Das ist ein beachtlicher Unterschied in den Zahlen. Damit zu Malte und Nora bezüglich der aktuellen Lage in der Ukraine, denn dort gab es parallel militärische Entwicklungen. Wie sah die Situation am Tag vor der Aussetzung der Sanktionen aus?"
-    },
-    {
-     "s": 398.26,
-     "wer": "Nora",
-     "text": "Am sechzehnten Oktober zweitausendsechsundzwanzig, also unmittelbar vor Trumps Dekret, gab es massive Angriffe. Nach ukrainischen Angaben griff Russland mehr als fünfzehn Energieanlagen an. Das verdeutlicht Selenskyjs Sorge, dass Angriffe auf die Infrastruktur trotz aller diplomatischen Signale unvermindert weitergehen."
-    },
-    {
-     "s": 423.89,
-     "wer": "Malte",
-     "text": "Das russische Militär hat zu diesen Operationen ebenfalls Stellung bezogen. Nach deren Angaben wurden Treffer auf Stahlwerke und Industrieziele gemeldet. Gleichzeitig gab es Meldungen über Angriffe in Cherson und Belgorod. Hier müssen wir allerdings sehr vorsichtig sein, was die Faktenlage angeht."
-    },
-    {
-     "s": 445.49,
-     "wer": "Nora",
-     "text": "Genau dieser Punkt ist entscheidend für unsere Einordnung. Der Spiegel weist ausdrücklich darauf hin, dass sich die Opfer- und Schadensmeldungen infolge der jüngsten Angriffe in Cherson und Belgorod nicht unabhängig überprüfen lassen. Wir müssen also festhalten, dass diese Angaben von den Kriegsparteien stammen und unbestätigt sind."
-    },
-    {
-     "s": 468.93,
-     "wer": "Sigrid",
-     "text": "Das zeigt die Zerrissenheit der Gesamtlage sehr deutlich. Während auf militärischer Ebene Energieinfrastruktur und Industrieanlagen attackiert werden, setzt Washington Abgaben auf Energieexporte aus. Für Selenskyj ist das eine Belohnung Moskaus, während Trump schlicht auf die weltweiten und heimischen Energiepreise schaut."
-    },
-    {
-     "s": 488.18,
-     "wer": "Thorsten",
-     "text": "Dmitrijew sprach von einem wichtigen Moment für den Dialog. Sigrid, wie bewerten die Berichte diesen Aspekt im Hinblick auf die Beziehungen zwischen Washington und Moskau?"
-    },
-    {
-     "s": 503.67,
-     "wer": "Sigrid",
-     "text": "Die Berichte geben Dmitrijews Aussage so wieder, dass das Dekret den bilateralen Dialog fördere. Aus Moskauer Sicht wird die Aussetzung der Maßnahmen als Chance begriffen, wirtschaftliche Härten abzuwenden. Ob daraus ein weitergehender politischer Prozess entsteht, lässt sich den Berichten allerdings nicht entnehmen. Es bleibt vorerst eine Absichtserklärung der russischen Seite."
-    },
-    {
-     "s": 528.28,
-     "wer": "Malte",
-     "text": "Man darf auch nicht vergessen, dass das Gesetz nach Senator Lindsey Graham ursprünglich eine parteiübergreifende Initiative im Kongress war. Der Kongress wollte Abgaben auf russische Energieexporte festschreiben, um Einnahmen Moskaus zu beschneiden. Trumps Entscheidung, das per Dekret bis auf Weiteres auszusetzen, stellt die Anwendung dieses Gesetzes nun faktisch auf Eis."
-    },
-    {
-     "s": 555.15,
-     "wer": "Nora",
-     "text": "Und genau das wirft die Frage auf, wie lange dieser Zustand anhalten soll. In Trumps Dekret heißt es, die Maßnahmen seien vorerst und bis auf Weiteres gestoppt. Das bedeutet, dass die Zölle theoretisch jederzeit wieder in Kraft gesetzt werden könnten, wenn sich die Interessenlage ändert. Diese rechtliche Schwebe ist für alle Seiten ein Unsicherheitsfaktor."
-    },
-    {
-     "s": 582.38,
-     "wer": "Sigrid",
-     "text": "Aus Sicht der US-Administration scheint der jetzige Zeitpunkt ausschlaggebend zu sein. Trump betonte ja, dass der Schritt zum jetzigen Zeitpunkt im nationalen Interesse liege. Das lässt die Tür in beide Richtungen offen, je nachdem, wie sich die Energiepreise weiterentwickeln."
-    },
-    {
-     "s": 601.05,
-     "wer": "Malte",
-     "text": "Dabei spielt die vereinbarte Menge an russischem Diesel eine zentrale Rolle. Wenn es tatsächlich Millionen Tonnen sind, hätte das ein ganz anderes wirtschaftliches Gewicht, als wenn es bei mehr als dreihunderttausend Tonnen bleibt. Da ZDFheute beide Zahlen nennt, können wir als Beobachter den tatsächlichen Umfang des Geschäfts schlicht nicht verifizieren."
-    },
-    {
-     "s": 622.17,
-     "wer": "Nora",
-     "text": "Ebenso wenig wissen wir, wie sich die militärische Lage nach den Angriffen auf die mehr als fünfzehn Energieanlagen entwickelt. Wenn Kiew meldet, dass die Energieversorgung massiv beschädigt wurde, und Moskau von Treffern auf Stahlwerke spricht, sehen wir zwei unterschiedliche Narrative. Beide Seiten stellen den jeweiligen militärischen Erfolg oder die eigene Betroffenheit heraus."
-    },
-    {
-     "s": 649.19,
-     "wer": "Thorsten",
-     "text": "Damit haben wir die zentralen Streitpunkte herausgearbeitet. Nora, kannst du noch einmal bündeln, welche Kernfragen derzeit definitiv unbeantwortet bleiben?"
-    },
-    {
-     "s": 663.85,
-     "wer": "Nora",
-     "text": "Zwei Punkte bleiben nach der Quellenlage völlig offen. Erstens das genaue Volumen des vereinbarten russischen Diesels, bei dem die Berichte zwischen dreihunderttausend Tonnen und Millionen Tonnen schwanken. Und zweitens lassen sich laut dem Spiegel die genauen Opfer- und Schadenszahlen nach den jüngsten Angriffen in Cherson und Belgorod nicht unabhängig überprüfen."
-    },
-    {
-     "s": 688.38,
-     "wer": "Malte",
-     "text": "Festzuhalten bleibt aber das klare Vorgehen auf der politischen Ebene. Mitte September die Verabschiedung des Graham-Gesetzes, Anfang Oktober der Diesel-Deal, Mitte Oktober die Angriffe auf ukrainische Energieanlagen und am siebzehnten Oktober schließlich das Dekret zur Aussetzung. Diese Daten sind durch FAZ, Spiegel, Deutschlandfunk und die öffentlich-rechtlichen Sender gesichert."
-    },
-    {
-     "s": 713.14,
-     "wer": "Sigrid",
-     "text": "Am Ende stehen zwei fundamentale Bewertungen unversöhnlich nebeneinander. Für die Ukraine und Selenskyj ist es eine Schwächung der Sanktionsfront, die Moskau finanziell belohnt und ermutigt. Für Moskau und Kirill Dmitrijew ist es ein Schritt zur wirtschaftlichen Entlastung und ein Wegbereiter für Gespräche mit Washington."
-    },
-    {
-     "s": 733.61,
-     "wer": "Nora",
-     "text": "Und für die USA begründet Donald Trump alles mit den eigenen nationalen Interessen und den Energiepreisen. Keine der Quellen wagt eine Prognose, ob dieses Dekret dauerhaft bestehen bleibt oder nur ein Hebel für weitere Verhandlungen ist. Es bleibt abzuwarten, wie der Kongress auf diesen Schritt reagiert."
-    },
-    {
-     "s": 752.9,
-     "wer": "Malte",
-     "text": "Wir sehen anhand der Berichte von Tagesschau, ZDFheute, Deutschlandfunk, Spiegel und FAZ, wie schnell sich die amerikanische Haltung verschieben kann. Innerhalb von dreißig Tagen wurde aus einem beschlossenen Sanktionsgesetz ein ausgesetztes Vorhaben. Die kommenden Wochen werden zeigen, welche Auswirkungen das auf den Energiemarkt hat."
-    },
-    {
-     "s": 775.55,
-     "wer": "Sigrid",
-     "text": "Wichtig ist festzuhalten, dass beide Seiten ihre Positionen mit nachvollziehbaren Begründungen vertreten, ohne dass wir von außen beurteilen können, wer die besseren Argumente hat. Die Ukraine fürchtet um ihre Sicherheit und Infrastruktur, während Washington auf die Preisstabilität für die eigene Bevölkerung abstellt."
-    },
-    {
-     "s": 795.36,
-     "wer": "Nora",
-     "text": "Genau deshalb lohnt sich der genaue Blick auf die Quellen. Die Widersprüche bei den Dieselmengen und die unüberprüfbaren Berichte aus den Kampfgebieten mahnen zur Zurückhaltung. Man sollte die vorliegenden Aussagen genau so nehmen, wie sie berichtet werden, nämlich als getrennte Positionen der Konfliktparteien."
-    },
-    {
-     "s": 817.28,
-     "wer": "Thorsten",
-     "text": "Damit schließen wir unseren heutigen Überblick ab. Wir haben gesehen, wie das Dekret von Donald Trump die Dynamik im Konflikt verändert und welche Fragen vorerst offen bleiben müssen. Vielen Dank an Sigrid, Malte und Nora für die Einordnungen und die präzisen Belege. Bis zur nächsten Ausgabe."
     }
    ]
   }
