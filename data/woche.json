@@ -1,143 +1,116 @@
 {
- "erstellt": "2026-10-18T05:50:15.290Z",
- "von": "2026-10-11T05:50:15.290Z",
- "bis": "2026-10-18T05:50:15.290Z",
+ "erstellt": "2026-10-25T06:04:44.019Z",
+ "von": "2026-10-18T06:04:44.019Z",
+ "bis": "2026-10-25T06:04:44.019Z",
  "themen": [
   {
-   "id": "baerbel-bas-ruecktritt",
-   "titel": "Ruecktritt von Baerbel Bas als Bundesarbeitsministerin und SPD-Co-Vorsitzende",
+   "id": "jordanien-kirche-angriff",
+   "titel": "Angriff auf Kirche in Jordanien",
+   "rubrik": "Welt",
+   "zeit": "2026-10-25T06:00:05.000Z",
+   "saetze": [
+    "Bei einem Angriff auf eine griechisch-orthodoxe Kirche in Jordanien wurden Menschen getötet und verletzt.",
+    "Die jordanische Regierung kündigte ein hartes Vorgehen gegen die Verantwortlichen an.",
+    "Die jordanischen Behörden stufen die Tat laut Berichten als terroristischen Akt ein."
+   ]
+  },
+  {
+   "id": "csu-parteitag-merz-aigner",
+   "titel": "CSU-Parteitag in München: Bundeskanzler Merz fordert Geschlossenheit der Union",
    "rubrik": "Deutschland",
-   "zeit": "2026-10-12T18:42:05.000Z",
+   "zeit": "2026-10-25T06:00:05.000Z",
    "bild": {
-    "titel": "BaerbelBas.JPG",
-    "beschreibung": "Bärbel Bas- Member of Parliament",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/BaerbelBas.JPG/1280px-BaerbelBas.JPG",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/BaerbelBas.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:BaerbelBas.JPG",
-    "urheber": "Fotografin des Bildes ist Angelika Kohlmeier, uneingeschränktes Nutzungsrecht liegt dem Bü",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "titel": "Friedrich Merz in 2026.jpg",
+    "beschreibung": "55095287508_663dacb01a_o",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Friedrich_Merz_in_2026.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Friedrich_Merz_in_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Friedrich_Merz_in_2026.jpg",
+    "urheber": "Stenbocki maja from Estonia",
+    "lizenz": "CC BY 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "artikel": "Friedrich Merz",
+    "sprache": "de",
     "art": "person",
-    "suchbegriff": "Baerbel Bas politician",
-    "bildunterschrift": "Die Politikerin Bärbel Bas, deren Rücktritt als Bundesarbeitsministerin und SPD-Co-Vorsitzende bekannt gegeben wurde.",
+    "suchbegriff": "Friedrich Merz",
+    "bildunterschrift": "Friedrich Merz nahm an politischen Veranstaltungen der Union teil.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "Bundesarbeitsministerin Baerbel Bas hat ihren sofortigen Ruecktritt von allen Regierungs- und Parteiaemtern erklaert.",
-    "Sie begruendete diesen Schritt mit einem privaten Trauerfall und oeffentlichen Angriffen.",
-    "Als Nachfolger fuer das Ministerium ist Alexander Schweitzer benannt worden."
+    "Bundeskanzler Friedrich Merz hat auf dem CSU-Parteitag in München zu einem engen Zusammenhalt aufgerufen.",
+    "Er forderte Geschlossenheit, um Extremismus von links und rechts abzuwehren.",
+    "CSU-Vorsitzender Markus Söder sprach Merz die Unterstützung seiner Partei aus."
    ]
   },
   {
    "id": "frankreich-proteste-eskalation",
    "titel": "Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich",
    "rubrik": "Welt",
-   "zeit": "2026-10-18T05:39:38.000Z",
-   "saetze": [
-    "Bei landesweiten Demonstrationen in Frankreich kam es zu schwereren Ausschreitungen, Brandstiftungen und Pluenderungen.",
-    "Regierungsangaben zufolge wurden 1200 Personen festgenommen.",
-    "Zahlreiche Polizisten wurden bei den Einsaetzen verletzt."
-   ]
-  },
-  {
-   "id": "siedlergewalt-westjordanland",
-   "titel": "Gewaltakte im Westjordanland während der Olivenernte",
-   "rubrik": "Welt",
-   "zeit": "2026-10-18T05:39:38.000Z",
-   "saetze": [
-    "Im Westjordanland kam es während der Olivenernte zu gewaltsamen Übergriffen durch Siedler.",
-    "Unter den Opfern befinden sich palästinensische Helfer, eine US-Journalistin sowie europäische Diplomaten.",
-    "Die Vorfälle lösten internationale Reaktionen und Forderungen nach juristischer Verfolgung aus."
-   ]
-  },
-  {
-   "id": "taz-korrespondentin-einreise-israel",
-   "titel": "Israel verweigert taz-Korrespondentin Visum und Einreise",
-   "rubrik": "Welt",
-   "zeit": "2026-10-12T18:26:42.000Z",
+   "zeit": "2026-10-25T06:00:05.000Z",
    "bild": {
-    "titel": "Benjamin Netanyahu, February 2023.jpg",
-    "beschreibung": "Official portrait of Israel's 9th Prime Minister, Benjamin Netanyahu",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Benjamin_Netanyahu%2C_February_2023.jpg/1280px-Benjamin_Netanyahu%2C_February_2023.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg",
-    "urheber": "Avi Ohayon",
+    "titel": "Emmanuel Macron par Claude Truong-Ngoc avril 2015.jpg",
+    "beschreibung": "Emmanuel Macron , né le 21 décembre 1977 à Amiens, est un haut fonctionnaire et homme politique français. Ancien secrétaire général adjoint au cabinet du président de la République française, ministre",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg/1280px-Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_par_Claude_Truong-Ngoc_avril_2015.jpg",
+    "urheber": "Photo Claude TRUONG-NGOC",
     "lizenz": "CC BY-SA 3.0",
     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artikel": "Benjamin Netanjahu",
-    "sprache": "de",
     "art": "person",
-    "suchbegriff": "Benjamin Netanyahu",
-    "bildunterschrift": "Benjamin Netanjahu, der Premierminister von Israel, dessen Regierung das Visum verweigerte.",
+    "suchbegriff": "Emmanuel Macron politician",
+    "bildunterschrift": "Der französische Präsident Emmanuel Macron.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "Die israelische Regierung hat der taz-Korrespondentin Serena Bilanceri ein Arbeitsvisum und die Einreise verweigert.",
-    "Die Zeitung und Organisationen werten dies als Eingriff in die Pressefreiheit.",
-    "Behörden verweisen auf frühere Kommentare der Journalistin als Boykottvorwürfe."
+    "In Frankreich haben Hunderttausende Menschen an landesweiten Demonstrationen teilgenommen.",
+    "Nach einem weitgehend friedlichen Beginn kam es in mehreren Städten zu Zusammenstössen und Festnahmen.",
+    "Das Innenministerium meldete fast eine Million Teilnehmende."
    ]
   },
   {
-   "id": "trump-russland-sanktionen-ausgesetzt",
-   "titel": "US-Präsident Trump setzt geplante Sanktionen gegen Russland per Dekret aus",
+   "id": "erdbeben-tibet-china",
+   "titel": "Schweres Erdbeben trifft die Region Tibet in China",
    "rubrik": "Welt",
-   "zeit": "2026-10-17T17:31:00.000Z",
+   "zeit": "2026-10-23T18:49:04.000Z",
+   "saetze": [
+    "Ein schweres Erdbeben der Stärke 7,0 hat den Norden der Autonomen Region Tibet in China erschüttert.",
+    "Dabei kamen nach offiziellen Angaben mindestens 16 Menschen ums Leben.",
+    "Mehr als 300 Gebäude stürzten ein und die Stromversorgung fiel in Teilen aus."
+   ]
+  },
+  {
+   "id": "investitionsgipfel-berlin-nvidia",
+   "titel": "Abschluss des Investitionsgipfels in Berlin",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-10-21T04:32:17.000Z",
    "bild": {
-    "titel": "Official Presidential Portrait of President Donald J. Trump (2025).jpg",
-    "beschreibung": "Official Presidential Portrait of President Donald J. Trump in his second term",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/1280px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg",
-    "urheber": "Daniel Torok",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Donald Trump",
-    "sprache": "de",
-    "art": "person",
-    "suchbegriff": "Donald Trump",
-    "bildunterschrift": "US-Präsident Donald Trump, der die Sanktionen gegen Russland per Dekret aussetzte.",
+    "titel": "Berlin Mitte June 2023 01.jpg",
+    "beschreibung": "Central Berlin (Berlin-Mitte) seen from Fischerinsel.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Berlin_Mitte_June_2023_01.jpg/1280px-Berlin_Mitte_June_2023_01.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/18/Berlin_Mitte_June_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Berlin_Mitte_June_2023_01.jpg",
+    "urheber": "ArildV",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "art": "ort",
+    "suchbegriff": "Berlin skyline",
+    "bildunterschrift": "Zentraler Blick auf Berlin, den Ort des Investitionsgipfels der Bundesregierung.",
     "hinweis": "Archivfoto"
    },
    "saetze": [
-    "US-Präsident Donald Trump hat neue Sanktionen und Zölle gegen Russland bis auf Weiteres ausgesetzt.",
-    "Die russische Führung begrüßt diesen Schritt laut Berichten.",
-    "In der Ukraine sowie bei US-Demokraten und US-Republikanern stößt die Entscheidung auf Kritik."
+    "In Berlin ist der zweitägige Investitionsgipfel der Bundesregierung zu Ende gegangen.",
+    "Bundeskanzler Friedrich Merz zog eine positive Bilanz der Gespräche.",
+    "Laut Regierungsangaben wurden Investitionszusagen in Höhe von rund 230 Milliarden Euro gemacht."
    ]
   },
   {
-   "id": "eu-haushalt-streit-merz",
-   "titel": "EU-Staats- und Regierungschefs vertagen Verhandlungen über künftigen Gemeinschaftshaushalt",
+   "id": "indien-massenpanik-durga-puja",
+   "titel": "Massenpanik bei religiösem Fest in Indien",
    "rubrik": "Welt",
-   "zeit": "2026-10-16T12:16:13.000Z",
+   "zeit": "2026-10-18T11:46:19.000Z",
    "saetze": [
-    "Die Staats- und Regierungschefs der EU haben ihre Verhandlungen über den mehrjährigen Finanzrahmen vertagt.",
-    "Deutschland und weitere Staaten fordern Kürzungen am Haushaltsentwurf.",
-    "Andere Mitgliedsländer und EU-Vertreter sprechen sich gegen Einsparungen aus."
-   ]
-  },
-  {
-   "id": "nord-stream-prozess-beginn",
-   "titel": "Prozessbeginn nach Anschlägen auf Nord-Stream-Pipelines in Hamburg",
-   "rubrik": "Deutschland",
-   "zeit": "2026-10-14T17:15:26.000Z",
-   "bild": {
-    "titel": "Cloud cumulonimbus at baltic sea(1).jpg",
-    "beschreibung": "Cumulonimbus cloud at the Baltic Sea near island of Öland , Sweden .",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg/1280px-Cloud_cumulonimbus_at_baltic_sea%281%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cloud_cumulonimbus_at_baltic_sea%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Cloud_cumulonimbus_at_baltic_sea(1).jpg",
-    "urheber": "Arnold Paul",
-    "lizenz": "CC BY-SA 2.5",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-    "art": "symbol",
-    "suchbegriff": "Baltic Sea",
-    "bildunterschrift": "Eine Cumulonimbus-Wolke über der Ostsee, dem Gebiet der Gaspipelines.",
-    "hinweis": "Symbolbild"
-   },
-   "saetze": [
-    "Vor dem Hanseatischen Oberlandesgericht in Hamburg hat ein Prozess begonnen.",
-    "Angeklagt ist der ukrainische Staatsbürger Serhii Kusnetzow.",
-    "Die Bundesanwaltschaft wirft ihm vor, ein Sabotage-Team bei der Sprengung der Nord-Stream-Pipelines angeführt zu haben."
+    "Bei einer Massenpanik während eines hinduistischen Festes in Indien sind Menschen gestorben.",
+    "Das Unglück ereignete sich bei plötzlichem Regen an einem Pavillonausgang in Kolkata.",
+    "Zahlreiche weitere Personen erlitten Verletzungen und mussten in Krankenhäuser gebracht werden."
    ]
   }
  ]
