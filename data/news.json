@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-26T06:12:44.769Z",
+ "stand": "2026-10-26T14:12:00.492Z",
  "gepusht": [
   "merz-kiew-besuch",
   "brasilien-praesidentschaftswahl",
@@ -93,7 +93,6 @@
   "israel-abriegelung-westjordanland",
   "volkswagen-sparkurs-konflikt",
   "pferdekutschen-central-park-new-york",
-  "hitzetote-europa-studie",
   "feuerpause-oleschky-ukraine",
   "paris-schuesse-terrorverdacht",
   "jordanien-kirche-angriff",
@@ -104,7 +103,7 @@
   "machado-rueckkehr-venezuela"
  ],
  "wetter": {
-  "stand": "2026-10-26T06:12:44.769Z",
+  "stand": "2026-10-26T14:12:00.492Z",
   "morgenTag": "Dienstag",
   "orte": [
    {
@@ -113,13 +112,13 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 9,
-     "code": 2,
-     "gefuehlt": 5,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 9,
      "wind": 16,
-     "windAus": 231,
-     "feuchte": 81,
-     "druck": 1007,
+     "windAus": 237,
+     "feuchte": 65,
+     "druck": 1013,
      "niederschlag": 0,
      "tag": 1
     },
@@ -128,11 +127,11 @@
      "code": 80,
      "max": 13,
      "min": 9,
-     "regen": 50,
+     "regen": 18,
      "menge": 1.5,
      "wind": 20,
-     "windAus": 226,
-     "uv": 2.1,
+     "windAus": 228,
+     "uv": 2,
      "auf": "07:07",
      "unter": "16:59"
     },
@@ -141,11 +140,11 @@
      "code": 61,
      "max": 17,
      "min": 10,
-     "regen": 53,
-     "menge": 1.9,
-     "wind": 15,
-     "windAus": 185,
-     "uv": 1.9,
+     "regen": 60,
+     "menge": 2.8,
+     "wind": 14,
+     "windAus": 179,
+     "uv": 2.1,
      "auf": "07:09",
      "unter": "16:57"
     },
@@ -155,11 +154,11 @@
       "code": 80,
       "max": 13,
       "min": 9,
-      "regen": 50,
+      "regen": 18,
       "menge": 1.5,
       "wind": 20,
-      "windAus": 226,
-      "uv": 2.1,
+      "windAus": 228,
+      "uv": 2,
       "auf": "07:07",
       "unter": "16:59"
      },
@@ -168,62 +167,62 @@
       "code": 61,
       "max": 17,
       "min": 10,
-      "regen": 53,
-      "menge": 1.9,
-      "wind": 15,
-      "windAus": 185,
-      "uv": 1.9,
+      "regen": 60,
+      "menge": 2.8,
+      "wind": 14,
+      "windAus": 179,
+      "uv": 2.1,
       "auf": "07:09",
       "unter": "16:57"
      },
      {
       "datum": "2026-10-28",
-      "code": 80,
+      "code": 61,
       "max": 13,
-      "min": 9,
-      "regen": 45,
-      "menge": 2.1,
-      "wind": 14,
-      "windAus": 241,
+      "min": 10,
+      "regen": 50,
+      "menge": 1.7,
+      "wind": 13,
+      "windAus": 244,
       "uv": 2,
       "auf": "07:11",
       "unter": "16:55"
      },
      {
       "datum": "2026-10-29",
-      "code": 80,
+      "code": 61,
       "max": 14,
       "min": 10,
-      "regen": 13,
-      "menge": 0.9,
+      "regen": 16,
+      "menge": 0.4,
       "wind": 11,
-      "windAus": 272,
-      "uv": 1.8,
+      "windAus": 266,
+      "uv": 2,
       "auf": "07:13",
       "unter": "16:53"
      },
      {
       "datum": "2026-10-30",
       "code": 3,
-      "max": 12,
-      "min": 6,
+      "max": 13,
+      "min": 9,
       "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 342,
+      "wind": 7,
+      "windAus": 304,
       "uv": 2,
       "auf": "07:15",
       "unter": "16:51"
      },
      {
       "datum": "2026-10-31",
-      "code": 45,
+      "code": 3,
       "max": 11,
-      "min": 5,
+      "min": 6,
       "regen": 3,
       "menge": 0,
       "wind": 5,
-      "windAus": 4,
+      "windAus": 0,
       "uv": 1.9,
       "auf": "07:17",
       "unter": "16:49"
@@ -237,60 +236,12 @@
       "menge": 0,
       "wind": 4,
       "windAus": 248,
-      "uv": 1.4,
+      "uv": 1.3,
       "auf": "07:19",
       "unter": "16:47"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "09:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 8
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 13,
@@ -317,7 +268,7 @@
      },
      {
       "zeit": "19:00",
-      "grad": 10,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
@@ -331,25 +282,25 @@
       "zeit": "21:00",
       "grad": 10,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 10,
       "code": 3,
-      "regen": 23
+      "regen": 10
      },
      {
       "zeit": "23:00",
       "grad": 10,
-      "code": 61,
-      "regen": 50
+      "code": 3,
+      "regen": 18
      },
      {
       "zeit": "00:00",
       "grad": 10,
       "code": 61,
-      "regen": 53
+      "regen": 40
      },
      {
       "zeit": "01:00",
@@ -361,12 +312,12 @@
       "zeit": "02:00",
       "grad": 10,
       "code": 61,
-      "regen": 5
+      "regen": 13
      },
      {
       "zeit": "03:00",
       "grad": 10,
-      "code": 3,
+      "code": 61,
       "regen": 3
      },
      {
@@ -384,7 +335,55 @@
      {
       "zeit": "06:00",
       "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 11,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -395,13 +394,13 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 8,
-     "code": 1,
-     "gefuehlt": 4,
-     "wind": 14,
-     "windAus": 222,
-     "feuchte": 73,
-     "druck": 1009,
+     "grad": 13,
+     "code": 3,
+     "gefuehlt": 10,
+     "wind": 13,
+     "windAus": 254,
+     "feuchte": 59,
+     "druck": 1013,
      "niederschlag": 0,
      "tag": 1
     },
@@ -410,11 +409,11 @@
      "code": 3,
      "max": 13,
      "min": 8,
-     "regen": 5,
+     "regen": 10,
      "menge": 0,
-     "wind": 17,
-     "windAus": 228,
-     "uv": 1.9,
+     "wind": 19,
+     "windAus": 231,
+     "uv": 2.1,
      "auf": "06:51",
      "unter": "16:48"
     },
@@ -425,9 +424,9 @@
      "min": 8,
      "regen": 3,
      "menge": 0,
-     "wind": 12,
-     "windAus": 169,
-     "uv": 2.1,
+     "wind": 13,
+     "windAus": 163,
+     "uv": 1.9,
      "auf": "06:53",
      "unter": "16:46"
     },
@@ -437,11 +436,11 @@
       "code": 3,
       "max": 13,
       "min": 8,
-      "regen": 5,
+      "regen": 10,
       "menge": 0,
-      "wind": 17,
-      "windAus": 228,
-      "uv": 1.9,
+      "wind": 19,
+      "windAus": 231,
+      "uv": 2.1,
       "auf": "06:51",
       "unter": "16:48"
      },
@@ -452,9 +451,9 @@
       "min": 8,
       "regen": 3,
       "menge": 0,
-      "wind": 12,
-      "windAus": 169,
-      "uv": 2.1,
+      "wind": 13,
+      "windAus": 163,
+      "uv": 1.9,
       "auf": "06:53",
       "unter": "16:46"
      },
@@ -462,11 +461,11 @@
       "datum": "2026-10-28",
       "code": 61,
       "max": 14,
-      "min": 9,
-      "regen": 32,
-      "menge": 2,
-      "wind": 11,
-      "windAus": 269,
+      "min": 8,
+      "regen": 55,
+      "menge": 1.4,
+      "wind": 12,
+      "windAus": 267,
       "uv": 1.8,
       "auf": "06:55",
       "unter": "16:44"
@@ -475,11 +474,11 @@
       "datum": "2026-10-29",
       "code": 61,
       "max": 12,
-      "min": 9,
-      "regen": 19,
-      "menge": 2.4,
-      "wind": 9,
-      "windAus": 262,
+      "min": 8,
+      "regen": 16,
+      "menge": 0.6,
+      "wind": 8,
+      "windAus": 253,
       "uv": 2.2,
       "auf": "06:56",
       "unter": "16:42"
@@ -488,11 +487,11 @@
       "datum": "2026-10-30",
       "code": 3,
       "max": 12,
-      "min": 7,
-      "regen": 9,
-      "menge": 1.8,
-      "wind": 10,
-      "windAus": 334,
+      "min": 8,
+      "regen": 8,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 306,
       "uv": 2.2,
       "auf": "06:58",
       "unter": "16:40"
@@ -505,8 +504,8 @@
       "regen": 5,
       "menge": 0,
       "wind": 7,
-      "windAus": 353,
-      "uv": 2,
+      "windAus": 348,
+      "uv": 2.1,
       "auf": "07:00",
       "unter": "16:38"
      },
@@ -519,60 +518,12 @@
       "menge": 0,
       "wind": 5,
       "windAus": 313,
-      "uv": 1.4,
+      "uv": 1.6,
       "auf": "07:02",
       "unter": "16:36"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 5
-     },
-     {
-      "zeit": "09:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 13,
@@ -582,7 +533,7 @@
      {
       "zeit": "16:00",
       "grad": 13,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -593,80 +544,128 @@
      },
      {
       "zeit": "18:00",
-      "grad": 12,
+      "grad": 11,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 11,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 10,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 9,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 9,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 8,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 8,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 9,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "04:00",
       "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "06:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
       "grad": 10,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 15,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -677,25 +676,25 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 8,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 5,
-     "wind": 10,
-     "windAus": 226,
-     "feuchte": 74,
-     "druck": 1003,
+     "gefuehlt": 10,
+     "wind": 13,
+     "windAus": 265,
+     "feuchte": 57,
+     "druck": 1005,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-10-26",
-     "code": 3,
+     "code": 61,
      "max": 13,
      "min": 8,
      "regen": 10,
-     "menge": 0,
+     "menge": 0.1,
      "wind": 16,
-     "windAus": 232,
+     "windAus": 236,
      "uv": 2.5,
      "auf": "06:52",
      "unter": "16:55"
@@ -704,25 +703,25 @@
      "datum": "2026-10-27",
      "code": 3,
      "max": 17,
-     "min": 8,
-     "regen": 5,
+     "min": 9,
+     "regen": 3,
      "menge": 0,
-     "wind": 11,
-     "windAus": 184,
-     "uv": 2.4,
+     "wind": 10,
+     "windAus": 179,
+     "uv": 2.1,
      "auf": "06:54",
      "unter": "16:53"
     },
     "tage": [
      {
       "datum": "2026-10-26",
-      "code": 3,
+      "code": 61,
       "max": 13,
       "min": 8,
       "regen": 10,
-      "menge": 0,
+      "menge": 0.1,
       "wind": 16,
-      "windAus": 232,
+      "windAus": 236,
       "uv": 2.5,
       "auf": "06:52",
       "unter": "16:55"
@@ -731,12 +730,12 @@
       "datum": "2026-10-27",
       "code": 3,
       "max": 17,
-      "min": 8,
-      "regen": 5,
+      "min": 9,
+      "regen": 3,
       "menge": 0,
-      "wind": 11,
-      "windAus": 184,
-      "uv": 2.4,
+      "wind": 10,
+      "windAus": 179,
+      "uv": 2.1,
       "auf": "06:54",
       "unter": "16:53"
      },
@@ -745,36 +744,36 @@
       "code": 61,
       "max": 14,
       "min": 8,
-      "regen": 54,
-      "menge": 3.8,
+      "regen": 69,
+      "menge": 2.7,
       "wind": 11,
-      "windAus": 278,
-      "uv": 2.2,
+      "windAus": 267,
+      "uv": 1.5,
       "auf": "06:56",
       "unter": "16:51"
      },
      {
       "datum": "2026-10-29",
-      "code": 80,
-      "max": 13,
-      "min": 8,
-      "regen": 27,
-      "menge": 1.3,
+      "code": 61,
+      "max": 12,
+      "min": 7,
+      "regen": 16,
+      "menge": 0.5,
       "wind": 6,
-      "windAus": 253,
+      "windAus": 238,
       "uv": 2.3,
       "auf": "06:58",
       "unter": "16:49"
      },
      {
       "datum": "2026-10-30",
-      "code": 80,
+      "code": 61,
       "max": 12,
-      "min": 7,
-      "regen": 18,
-      "menge": 1,
-      "wind": 8,
-      "windAus": 323,
+      "min": 8,
+      "regen": 5,
+      "menge": 0.6,
+      "wind": 6,
+      "windAus": 292,
       "uv": 2.4,
       "auf": "06:59",
       "unter": "16:47"
@@ -787,7 +786,7 @@
       "regen": 13,
       "menge": 0,
       "wind": 7,
-      "windAus": 346,
+      "windAus": 343,
       "uv": 2.2,
       "auf": "07:01",
       "unter": "16:45"
@@ -801,60 +800,12 @@
       "menge": 0,
       "wind": 4,
       "windAus": 345,
-      "uv": 1.9,
+      "uv": 1.8,
       "auf": "07:03",
       "unter": "16:44"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "09:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 13,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 13,
@@ -870,7 +821,7 @@
      {
       "zeit": "17:00",
       "grad": 12,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -888,13 +839,13 @@
      {
       "zeit": "20:00",
       "grad": 10,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 9,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -906,14 +857,14 @@
      {
       "zeit": "23:00",
       "grad": 9,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "01:00",
@@ -925,7 +876,7 @@
       "zeit": "02:00",
       "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
@@ -935,20 +886,68 @@
      },
      {
       "zeit": "04:00",
-      "grad": 10,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 10,
+      "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 10,
       "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 13,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 14,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 16,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -959,13 +958,13 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 9,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 6,
-     "wind": 12,
-     "windAus": 213,
-     "feuchte": 78,
-     "druck": 1009,
+     "gefuehlt": 11,
+     "wind": 13,
+     "windAus": 192,
+     "feuchte": 56,
+     "druck": 1010,
      "niederschlag": 0,
      "tag": 1
     },
@@ -974,11 +973,11 @@
      "code": 51,
      "max": 14,
      "min": 9,
-     "regen": 31,
-     "menge": 0.5,
+     "regen": 45,
+     "menge": 0.4,
      "wind": 19,
      "windAus": 202,
-     "uv": 1.9,
+     "uv": 2.3,
      "auf": "07:13",
      "unter": "17:17"
     },
@@ -987,10 +986,10 @@
      "code": 53,
      "max": 17,
      "min": 11,
-     "regen": 63,
-     "menge": 1.4,
+     "regen": 71,
+     "menge": 0.9,
      "wind": 22,
-     "windAus": 160,
+     "windAus": 167,
      "uv": 2.6,
      "auf": "07:15",
      "unter": "17:15"
@@ -1001,11 +1000,11 @@
       "code": 51,
       "max": 14,
       "min": 9,
-      "regen": 31,
-      "menge": 0.5,
+      "regen": 45,
+      "menge": 0.4,
       "wind": 19,
       "windAus": 202,
-      "uv": 1.9,
+      "uv": 2.3,
       "auf": "07:13",
       "unter": "17:17"
      },
@@ -1014,10 +1013,10 @@
       "code": 53,
       "max": 17,
       "min": 11,
-      "regen": 63,
-      "menge": 1.4,
+      "regen": 71,
+      "menge": 0.9,
       "wind": 22,
-      "windAus": 160,
+      "windAus": 167,
       "uv": 2.6,
       "auf": "07:15",
       "unter": "17:15"
@@ -1027,116 +1026,68 @@
       "code": 51,
       "max": 15,
       "min": 8,
-      "regen": 47,
-      "menge": 0.1,
+      "regen": 61,
+      "menge": 0.4,
       "wind": 12,
-      "windAus": 258,
+      "windAus": 264,
       "uv": 2.4,
       "auf": "07:17",
       "unter": "17:13"
      },
      {
       "datum": "2026-10-29",
-      "code": 45,
-      "max": 13,
+      "code": 3,
+      "max": 14,
       "min": 6,
-      "regen": 6,
+      "regen": 2,
       "menge": 0,
-      "wind": 6,
-      "windAus": 142,
+      "wind": 7,
+      "windAus": 130,
       "uv": 2.5,
       "auf": "07:18",
       "unter": "17:12"
      },
      {
       "datum": "2026-10-30",
-      "code": 45,
-      "max": 11,
-      "min": 6,
-      "regen": 4,
+      "code": 3,
+      "max": 14,
+      "min": 5,
+      "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 6,
-      "uv": 2.4,
+      "wind": 9,
+      "windAus": 130,
+      "uv": 2.2,
       "auf": "07:20",
       "unter": "17:10"
      },
      {
       "datum": "2026-10-31",
       "code": 3,
-      "max": 12,
+      "max": 14,
       "min": 5,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 106,
+      "wind": 8,
+      "windAus": 126,
       "uv": 2.3,
       "auf": "07:22",
       "unter": "17:08"
      },
      {
       "datum": "2026-11-01",
-      "code": 3,
+      "code": 51,
       "max": 10,
-      "min": 3,
-      "regen": 4,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 102,
-      "uv": 0.7,
+      "min": 4,
+      "regen": 10,
+      "menge": 0.4,
+      "wind": 8,
+      "windAus": 152,
+      "uv": 1.6,
       "auf": "07:24",
       "unter": "17:06"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 1
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 4
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 1
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 14,
@@ -1145,7 +1096,7 @@
      },
      {
       "zeit": "16:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -1157,67 +1108,67 @@
      },
      {
       "zeit": "18:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 5
+      "regen": 6
      },
      {
       "zeit": "19:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 10
+      "grad": 12,
+      "code": 3,
+      "regen": 12
      },
      {
       "zeit": "20:00",
-      "grad": 11,
-      "code": 51,
-      "regen": 18
+      "grad": 12,
+      "code": 3,
+      "regen": 24
      },
      {
       "zeit": "21:00",
       "grad": 11,
-      "code": 3,
-      "regen": 27
+      "code": 51,
+      "regen": 38
      },
      {
       "zeit": "22:00",
       "grad": 11,
-      "code": 3,
-      "regen": 31
+      "code": 51,
+      "regen": 45
      },
      {
       "zeit": "23:00",
       "grad": 11,
-      "code": 3,
-      "regen": 26
+      "code": 51,
+      "regen": 38
      },
      {
       "zeit": "00:00",
       "grad": 11,
       "code": 3,
-      "regen": 16
+      "regen": 24
      },
      {
       "zeit": "01:00",
       "grad": 11,
       "code": 3,
-      "regen": 8
+      "regen": 12
      },
      {
       "zeit": "02:00",
       "grad": 11,
       "code": 3,
-      "regen": 4
+      "regen": 6
      },
      {
       "zeit": "03:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
-      "regen": 1
+      "regen": 2
      },
      {
       "zeit": "04:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
@@ -1231,7 +1182,55 @@
       "zeit": "06:00",
       "grad": 13,
       "code": 3,
-      "regen": 1
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1241,12 +1240,12 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 6,
+     "grad": 14,
      "code": 3,
-     "gefuehlt": 4,
-     "wind": 7,
-     "windAus": 227,
-     "feuchte": 92,
+     "gefuehlt": 11,
+     "wind": 9,
+     "windAus": 219,
+     "feuchte": 60,
      "druck": 1006,
      "niederschlag": 0,
      "tag": 1
@@ -1254,12 +1253,12 @@
     "heute": {
      "datum": "2026-10-26",
      "code": 3,
-     "max": 13,
+     "max": 14,
      "min": 6,
      "regen": 10,
      "menge": 0,
-     "wind": 12,
-     "windAus": 219,
+     "wind": 11,
+     "windAus": 218,
      "uv": 2.3,
      "auf": "07:05",
      "unter": "17:12"
@@ -1267,12 +1266,12 @@
     "morgen": {
      "datum": "2026-10-27",
      "code": 3,
-     "max": 18,
+     "max": 17,
      "min": 10,
-     "regen": 13,
+     "regen": 18,
      "menge": 0,
-     "wind": 7,
-     "windAus": 205,
+     "wind": 8,
+     "windAus": 212,
      "uv": 2.7,
      "auf": "07:06",
      "unter": "17:10"
@@ -1281,12 +1280,12 @@
      {
       "datum": "2026-10-26",
       "code": 3,
-      "max": 13,
+      "max": 14,
       "min": 6,
       "regen": 10,
       "menge": 0,
-      "wind": 12,
-      "windAus": 219,
+      "wind": 11,
+      "windAus": 218,
       "uv": 2.3,
       "auf": "07:05",
       "unter": "17:12"
@@ -1294,12 +1293,12 @@
      {
       "datum": "2026-10-27",
       "code": 3,
-      "max": 18,
+      "max": 17,
       "min": 10,
-      "regen": 13,
+      "regen": 18,
       "menge": 0,
-      "wind": 7,
-      "windAus": 205,
+      "wind": 8,
+      "windAus": 212,
       "uv": 2.7,
       "auf": "07:06",
       "unter": "17:10"
@@ -1308,11 +1307,11 @@
       "datum": "2026-10-28",
       "code": 61,
       "max": 14,
-      "min": 8,
-      "regen": 53,
-      "menge": 5.4,
-      "wind": 6,
-      "windAus": 262,
+      "min": 7,
+      "regen": 65,
+      "menge": 2.9,
+      "wind": 9,
+      "windAus": 270,
       "uv": 2.5,
       "auf": "07:08",
       "unter": "17:08"
@@ -1320,12 +1319,12 @@
      {
       "datum": "2026-10-29",
       "code": 45,
-      "max": 14,
-      "min": 6,
-      "regen": 5,
+      "max": 13,
+      "min": 5,
+      "regen": 0,
       "menge": 0,
-      "wind": 4,
-      "windAus": 218,
+      "wind": 2,
+      "windAus": 58,
       "uv": 2.5,
       "auf": "07:09",
       "unter": "17:07"
@@ -1337,9 +1336,9 @@
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 5,
-      "windAus": 33,
-      "uv": 2.5,
+      "wind": 6,
+      "windAus": 41,
+      "uv": 2.4,
       "auf": "07:11",
       "unter": "17:05"
      },
@@ -1351,7 +1350,7 @@
       "regen": 3,
       "menge": 0,
       "wind": 7,
-      "windAus": 34,
+      "windAus": 40,
       "uv": 2.4,
       "auf": "07:13",
       "unter": "17:03"
@@ -1365,63 +1364,15 @@
       "menge": 0,
       "wind": 7,
       "windAus": 31,
-      "uv": 2,
+      "uv": 1.9,
       "auf": "07:14",
       "unter": "17:02"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "15:00",
-      "grad": 13,
+      "grad": 14,
       "code": 3,
       "regen": 0
      },
@@ -1433,13 +1384,13 @@
      },
      {
       "zeit": "17:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 11,
+      "grad": 12,
       "code": 3,
       "regen": 0
      },
@@ -1447,7 +1398,7 @@
       "zeit": "19:00",
       "grad": 11,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "20:00",
@@ -1459,19 +1410,19 @@
       "zeit": "21:00",
       "grad": 11,
       "code": 3,
-      "regen": 10
+      "regen": 8
      },
      {
       "zeit": "22:00",
       "grad": 11,
       "code": 3,
-      "regen": 5
+      "regen": 10
      },
      {
       "zeit": "23:00",
       "grad": 11,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "00:00",
@@ -1481,19 +1432,19 @@
      },
      {
       "zeit": "01:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -1514,6 +1465,54 @@
       "grad": 10,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 17,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -1523,12 +1522,12 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 8,
+     "grad": 13,
      "code": 3,
-     "gefuehlt": 5,
-     "wind": 14,
-     "windAus": 210,
-     "feuchte": 80,
+     "gefuehlt": 11,
+     "wind": 6,
+     "windAus": 201,
+     "feuchte": 52,
      "druck": 990,
      "niederschlag": 0,
      "tag": 1
@@ -1540,9 +1539,9 @@
      "min": 8,
      "regen": 35,
      "menge": 0,
-     "wind": 14,
-     "windAus": 206,
-     "uv": 2.3,
+     "wind": 13,
+     "windAus": 209,
+     "uv": 2.2,
      "auf": "07:00",
      "unter": "17:13"
     },
@@ -1551,10 +1550,10 @@
      "code": 3,
      "max": 19,
      "min": 9,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
-     "wind": 6,
-     "windAus": 184,
+     "wind": 7,
+     "windAus": 182,
      "uv": 2.7,
      "auf": "07:01",
      "unter": "17:11"
@@ -1567,9 +1566,9 @@
       "min": 8,
       "regen": 35,
       "menge": 0,
-      "wind": 14,
-      "windAus": 206,
-      "uv": 2.3,
+      "wind": 13,
+      "windAus": 209,
+      "uv": 2.2,
       "auf": "07:00",
       "unter": "17:13"
      },
@@ -1578,10 +1577,10 @@
       "code": 3,
       "max": 19,
       "min": 9,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 184,
+      "wind": 7,
+      "windAus": 182,
       "uv": 2.7,
       "auf": "07:01",
       "unter": "17:11"
@@ -1591,11 +1590,11 @@
       "code": 61,
       "max": 13,
       "min": 6,
-      "regen": 58,
-      "menge": 1.9,
-      "wind": 13,
-      "windAus": 288,
-      "uv": 2.6,
+      "regen": 60,
+      "menge": 4.4,
+      "wind": 11,
+      "windAus": 286,
+      "uv": 2.4,
       "auf": "07:03",
       "unter": "17:09"
      },
@@ -1604,10 +1603,10 @@
       "code": 45,
       "max": 13,
       "min": 4,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 139,
+      "wind": 7,
+      "windAus": 53,
       "uv": 2.6,
       "auf": "07:05",
       "unter": "17:08"
@@ -1616,11 +1615,11 @@
       "datum": "2026-10-30",
       "code": 3,
       "max": 13,
-      "min": 4,
-      "regen": 1,
+      "min": 5,
+      "regen": 0,
       "menge": 0,
       "wind": 5,
-      "windAus": 7,
+      "windAus": 30,
       "uv": 2.6,
       "auf": "07:06",
       "unter": "17:06"
@@ -1630,10 +1629,10 @@
       "code": 45,
       "max": 10,
       "min": 4,
-      "regen": 3,
+      "regen": 2,
       "menge": 0,
       "wind": 9,
-      "windAus": 21,
+      "windAus": 14,
       "uv": 2.4,
       "auf": "07:08",
       "unter": "17:04"
@@ -1654,54 +1653,6 @@
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "15:00",
       "grad": 13,
       "code": 3,
@@ -1747,25 +1698,25 @@
       "zeit": "22:00",
       "grad": 11,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 11,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 11,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 12,
+      "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "02:00",
@@ -1775,14 +1726,14 @@
      },
      {
       "zeit": "03:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 11,
-      "code": 2,
+      "grad": 10,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1793,8 +1744,56 @@
      },
      {
       "zeit": "06:00",
-      "grad": 10,
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 13,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 16,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 17,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 18,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1805,12 +1804,12 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 7,
+     "grad": 11,
      "code": 3,
-     "gefuehlt": 4,
-     "wind": 12,
-     "windAus": 247,
-     "feuchte": 85,
+     "gefuehlt": 9,
+     "wind": 8,
+     "windAus": 273,
+     "feuchte": 56,
      "druck": 960,
      "niederschlag": 0,
      "tag": 1
@@ -1823,8 +1822,8 @@
      "regen": 28,
      "menge": 0.5,
      "wind": 15,
-     "windAus": 248,
-     "uv": 2.6,
+     "windAus": 252,
+     "uv": 2.5,
      "auf": "06:49",
      "unter": "17:05"
     },
@@ -1832,11 +1831,11 @@
      "datum": "2026-10-27",
      "code": 3,
      "max": 16,
-     "min": 8,
-     "regen": 8,
+     "min": 7,
+     "regen": 5,
      "menge": 0,
      "wind": 8,
-     "windAus": 126,
+     "windAus": 123,
      "uv": 2.8,
      "auf": "06:51",
      "unter": "17:03"
@@ -1850,8 +1849,8 @@
       "regen": 28,
       "menge": 0.5,
       "wind": 15,
-      "windAus": 248,
-      "uv": 2.6,
+      "windAus": 252,
+      "uv": 2.5,
       "auf": "06:49",
       "unter": "17:05"
      },
@@ -1859,11 +1858,11 @@
       "datum": "2026-10-27",
       "code": 3,
       "max": 16,
-      "min": 8,
-      "regen": 8,
+      "min": 7,
+      "regen": 5,
       "menge": 0,
       "wind": 8,
-      "windAus": 126,
+      "windAus": 123,
       "uv": 2.8,
       "auf": "06:51",
       "unter": "17:03"
@@ -1871,13 +1870,13 @@
      {
       "datum": "2026-10-28",
       "code": 61,
-      "max": 12,
+      "max": 11,
       "min": 6,
       "regen": 83,
-      "menge": 2.7,
+      "menge": 4.5,
       "wind": 12,
-      "windAus": 277,
-      "uv": 0.5,
+      "windAus": 275,
+      "uv": 1,
       "auf": "06:52",
       "unter": "17:01"
      },
@@ -1886,11 +1885,11 @@
       "code": 45,
       "max": 11,
       "min": 4,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 77,
-      "uv": 2.4,
+      "wind": 8,
+      "windAus": 81,
+      "uv": 2.6,
       "auf": "06:54",
       "unter": "17:00"
      },
@@ -1898,24 +1897,24 @@
       "datum": "2026-10-30",
       "code": 45,
       "max": 11,
-      "min": 3,
-      "regen": 16,
+      "min": 2,
+      "regen": 4,
       "menge": 0,
-      "wind": 6,
-      "windAus": 308,
-      "uv": 2.7,
+      "wind": 7,
+      "windAus": 59,
+      "uv": 2.6,
       "auf": "06:55",
       "unter": "16:58"
      },
      {
       "datum": "2026-10-31",
-      "code": 45,
+      "code": 3,
       "max": 9,
       "min": 2,
-      "regen": 23,
+      "regen": 19,
       "menge": 0,
       "wind": 10,
-      "windAus": 2,
+      "windAus": 1,
       "uv": 2.5,
       "auf": "06:57",
       "unter": "16:56"
@@ -1929,60 +1928,12 @@
       "menge": 0,
       "wind": 11,
       "windAus": 65,
-      "uv": 2.5,
+      "uv": 2.4,
       "auf": "06:58",
       "unter": "16:55"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 11,
@@ -2003,7 +1954,7 @@
      },
      {
       "zeit": "18:00",
-      "grad": 9,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -2016,7 +1967,7 @@
      {
       "zeit": "20:00",
       "grad": 8,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -2027,56 +1978,104 @@
      },
      {
       "zeit": "22:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 8,
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "04:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "05:00",
+      "grad": 7,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "03:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "04:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "05:00",
+      "zeit": "06:00",
       "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "06:00",
-      "grad": 9,
+      "zeit": "07:00",
+      "grad": 8,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 16,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 16,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -2099,19 +2098,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 17,
-       "regen": 1.7
+       "regen": 2.8
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 17,
-       "regen": 0.3
+       "grad": 16,
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 15,
-       "regen": 0.2
+       "regen": 0.6
       }
      ]
     },
@@ -2127,14 +2126,14 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 16,
+       "grad": 15,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 14,
-       "regen": 0
+       "grad": 15,
+       "regen": -0.1
       }
      ]
     },
@@ -2167,14 +2166,14 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 19,
-       "regen": 1.1
+       "grad": 18,
+       "regen": 1.3
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 20,
-       "regen": 0.2
+       "grad": 19,
+       "regen": 0.6
       },
       {
        "name": "ECMWF",
@@ -2190,7 +2189,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 18,
+       "grad": 17,
        "regen": 0
       },
       {
@@ -2202,7 +2201,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 18,
+       "grad": 17,
        "regen": 0
       }
      ]
@@ -2254,7 +2253,7 @@
      ]
     }
    ],
-   "spanneGrad": 3,
+   "spanneGrad": 2,
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
@@ -2266,7 +2265,7 @@
     ]
    },
    "saetze": [
-    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 17 und 20 Grad.",
+    "Für Hamburg gehen die Modelle am weitesten auseinander: zwischen 15 und 17 Grad.",
     "Und in Hamburg erwartet ICON Regen, GFS und ECMWF dagegen nicht."
    ],
    "dienste": [
@@ -11447,477 +11446,6 @@
      "s": [
       0.25,
       7.18
-     ]
-    }
-   ]
-  },
-  {
-   "id": "hitzetote-europa-studie",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-10-23T09:33:29.000Z",
-   "titel": "Wissenschaftliche Analyse verzeichnet Rekordzahl von Hitzetote in Europa",
-   "vorspann": "Eine neue wissenschaftliche Untersuchung zeigt für den Sommer 2026 eine hohe Zahl von Hitzetoten in Europa. Ein Großteil dieser Todesfälle wird dabei auf den von Menschen verursachten Klimawandel zurückgeführt.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Wissenschaftler haben für den Sommer 2026 rund 50.000 Hitzetote in Europa ermittelt.",
-    "Fast zwei Drittel dieser Todesfälle werden auf den menschengemachten Klimawandel zurückgeführt.",
-    "Besonders der Monat Juni brachte durch extreme Temperaturen eine hohe Sterblichkeit in urbanen Zentren.",
-    "Forscher fordern eine bessere Anpassung der Städte an die steigenden Temperaturen."
-   ],
-   "einig": [
-    [
-     "Etwa 50.000 Hitzetote in Europa im Sommer 2026",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "taz",
-      "SWR Baden-Württemberg"
-     ]
-    ],
-    [
-     "Untersuchung stammt von britischen Wissenschaftlern",
-     [
-      "Tagesschau/ARD",
-      "taz"
-     ]
-    ],
-    [
-     "Fast zwei Drittel der Todesfälle sind auf den Klimawandel zurückzuführen",
-     [
-      "Tagesschau/ARD",
-      "taz"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die exakte Gesamtzahl der analysierten Länder variiert in den Berichten zwischen der Nennung von gut 850 urbanen Zentren in vier Ländern und der Angabe von 30 europäischen Ländern beim SWR."
-   ],
-   "positionen": [
-    [
-     "Clair Barnes (Forscherin Imperial College)",
-     "Der Sommer 2026 war der schlimmste seit Beginn der Aufzeichnungen bezüglich der Hitzefolgen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Pierre Masselot (Epidemiologe London School)",
-     "Städte sind schlecht angepasst; es braucht mehr Grünflächen und medizinische Versorgung.",
-     "Tagesschau/ARD"
-    ]
-   ],
-   "fehlend": "Stimmen von Vertretern europäischer Regierungen oder der EU-Kommission zu den konkreten Studienergebnissen.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.10.26, 09:14",
-     "fokus": "Detaillierte Studienergebnisse",
-     "text": "Die Tagesschau liefert ausführliche Hintergründe zur Methodik der britischen Forscher und nennt konkrete Zahlen zu Altersgruppen und Zeiträumen.",
-     "url": "https://www.tagesschau.de/wissen/klima/hitzetote-sommer-studie-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 2,
-      "woerter": 410,
-      "satzlaenge": 19,
-      "langeWoerter": 34
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.10.26, 11:33",
-     "fokus": "–",
-     "text": "Wegen extrem hoher Temperaturen in vielen europäischen Ländern sind in diesem Sommer laut einer Studie mehr als 50.000 Menschen gestorben.",
-     "url": "https://www.deutschlandfunk.de/mehr-als-50-000-hitzetote-in-ganz-europa-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "taz",
-     "typ": "Tageszeitung (Genossenschaft)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "23.10.26, 10:26",
-     "fokus": "–",
-     "text": "Noch nie gab es so viele Hitzetote in Europa wie 2026. Eine britische Analyse zeigt: Die Folgen des menschengemachten Klimawandels werden deutlicher. mehr...",
-     "url": "https://taz.de/Oel-Kohle-Gas-und-ihre-Folgen/!6223996/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 3,
-      "woerter": 538,
-      "satzlaenge": 15,
-      "langeWoerter": 34
-     },
-     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
-     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
-     "publikumWert": null
-    },
-    {
-     "name": "SWR Baden-Württemberg",
-     "typ": "öffentlich-rechtlich (Region)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "23.10.26, 07:26",
-     "fokus": "Europäischer Kontext",
-     "text": "Der SWR ergänzt Details zur Datenbasis aus 30 Ländern und zur Rolle von fossilen Energieträgern als Ursache.",
-     "url": "https://www.swr.de/swraktuell-radio/info-date-am-morgen-2026-10-23-50000-hitzetote-in-europa-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 1,
-      "woerter": 244,
-      "satzlaenge": 16,
-      "langeWoerter": 32
-     },
-     "traeger": "Südwestrundfunk, ARD-Anstalt für Baden-Württemberg und Rheinland-Pfalz",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Anzahl der untersuchten Regionen",
-     "Während Tagesschau und taz von gut 850 urbanen Zentren in vier Ländern sprechen, nennt der SWR pauschal Daten aus 30 europäischen Ländern."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Wissenschaftler des Imperial College London",
-    "was": "Berechnung der Hitzetoten in Europa",
-    "wann": "23.10.2026",
-    "wo": "Europa",
-    "wie": "Durch Datenanalyse historischer Statistiken",
-    "warum": "Treibhausgasemissionen und unzureichende Stadtanpassung laut Forschern",
-    "quellenlage": "Wissenschaftliche Analysen und Medienberichte"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Laut einer aktuellen wissenschaftlichen Analyse hat der Sommer 2026 viele Hitzetote in Europa gefordert. Dies geht aus Berichten hervor, die am 23. Oktober 2026 veröffentlicht wurden. Demnach starben in europäischen Städten schätzungsweise etwa 50.000 Menschen infolge der Temperaturen. Die Untersuchung führt diesen Anstieg laut Angaben auf die Folgen der vom Menschen verursachten Erderwärmung zurück. Fast zwei Drittel dieser Todesfälle werden als Folge des Klimawandels eingestuft.",
-      "Für ihre Untersuchungen werteten die Forscher Daten aus gut 850 urbanen Zentren in der Europäischen Union, Großbritannien, Norwegen und der Schweiz aus. In diesen Regionen leben nach Angaben der Berichte etwa 40 Prozent der Bevölkerung der genannten Länder. Laut dem Sender SWR Baden-Württemberg wurden insgesamt Daten aus 30 europäischen Ländern analysiert. Die Veröffentlichung der Studienergebnisse erfolgte unter anderem in der Fachzeitschrift Nature Health."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Die beteiligten Forscher stammen vom Imperial College London sowie von der London School of Hygiene & Tropical Medicine. Sie entwickelten eine Methode zur Berechnung der Hitzetoten auf Basis historischer Daten seit dem Jahr 2000. Diese Daten wurden mit tatsächlich gemeldeten Statistiken abgeglichen. Durch die Berechnung einer hypothetischen Zahl ohne die Effekte des anthropogenen Klimawandels ermittelten die Wissenschaftler die Übersterblichkeit. Nach Angaben des SWR hätten in einer Welt ohne menschengemachte Klimaerwärmung lediglich rund 18.000 Hitzetote verzeichnet werden müssen.",
-      "Besonders wirkte sich den Angaben zufolge der Monat Juni 2026 aus. Fast ein Drittel aller Todesfälle durch Hitze entfiel auf den Zeitraum vom 17. Juni bis zum 1. Juli. In dieser Zeit lagen die Temperaturen im Schnitt fünf Grad über dem Mittel der Vergleichszeiträume der Jahre 1991 bis 2020. Als maßgebliche Ursache für die Klimaerwärmung nennen die Forscher das Verbrennen von fossilen Energieträgern wie Öl, Gas und Kohle."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Ein historischer Vergleich wird in den Berichten genannt. Für das Jahr 2022 wurde in derselben Region von etwa 29.000 Hitzetoten ausgegangen. Damals lag der Anteil der Todesfälle, die dem Klimawandel zugerechnet wurden, laut Angaben bei 59 Prozent. Im Sommer 2026 ist dieser Wert auf 65 Prozent gestiegen. Zudem übertrifft die Zahl der Hitzetoten laut dem Robert-Koch-Institut zur Jahresmitte die Werte ganzer Vorjahre.",
-      "Die Untersuchungen zeigen zudem, dass nicht ausschließlich ältere Menschen von den Folgen der Hitze betroffen sind. Schätzungsweise 6.000 der insgesamt rund 50.000 Hitzetoten waren jünger als 65 Jahre. Die Forscher betonen daher, dass die Gesundheitsrisiken bei Temperaturen nicht nur auf traditionelle Risikogruppen beschränkt sind."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Übersterblichkeit beschreibt eine statistisch auffällige Häufung von Todesfällen in einem bestimmten Zeitraum im Vergleich zu historischen Durchschnittswerten.",
-      "Als anthropogen wird in der Wissenschaft ein Phänomen bezeichnet, das vom Menschen verursacht oder beeinflusst wird. Der anthropogene Klimawandel umfasst die Erderwärmung, die durch den Ausstoß von Treibhausgasen entsteht."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Clair Barnes, Forscherin für Extremwetter und Klimawandel am Imperial College London, erklärte laut Berichten, der Sommer 2026 sei der schlimmste seit Beginn der Aufzeichnungen hinsichtlich der hitzebedingten Sterblichkeit in weiten Teilen Europas gewesen.",
-      "Pierre Masselot, Epidemiologe an der London School of Hygiene & Tropical Medicine, betonte laut Angaben, die Städte seien schlecht an die steigenden Temperaturen angepasst. Es sei entscheidend, die Anstrengungen zur Anpassung zu verstärken. Dies erfordere Kühlung durch mehr Grünflächen, weniger Umweltverschmutzung und eine verbesserte medizinische Versorgung der Bevölkerung."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Konkrete politische Schritte zur Anpassung der Städte wurden in den Analysen gefordert, aber über genaue Zeitpläne für staatliche Maßnahmen enthalten die vorliegenden Berichte keine Angaben.",
-      "Die Forscher mahnen an, dass die Anstrengungen zur Reduzierung von Umweltverschmutzung und zum Ausbau von Grünflächen in urbanen Zentren verstärkt werden müssen."
-     ]
-    }
-   ],
-   "zeitleiste": [],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Da es sich um Berichte über zahlreiche Todesfälle infolge von Hitze handelt, wird entsprechend den Vorgaben kein Bild vorgeschlagen."
-    }
-   ],
-   "ort": {
-    "name": "London, Großbritannien"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Formulierungen angepasst, um wertende und nicht belegbare Wörter zu entfernen.",
-    "Aussagen von Forschern im Artikel als solche gekennzeichnet."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Übersterblichkeit",
-      "Eine Übersterblichkeit beschreibt, wenn in einem bestimmten Zeitraum mehr Menschen sterben als im Durchschnitt früherer Jahre."
-     ],
-     [
-      "Anthropogen",
-      "Das Wort bedeutet, dass etwas von Menschen gemacht oder verursacht wurde, wie zum Beispiel der Klimawandel."
-     ],
-     [
-      "Epidemiologe",
-      "Ein Epidemiologe ist ein Wissenschaftler, der erforscht, wie Krankheiten oder gesundheitliche Gefahren in der Bevölkerung entstehen."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Städte bei den Auswirkungen von Hitzewellen laut den beteiligten Forschern?",
-     "Warum ist es wichtig, bei der Berichterstattung zwischen wissenschaftlichen Berechnungen und politischen Aussagen zu unterscheiden?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viele Hitzetote wurden für den Sommer 2026 in europäischen Städten geschätzt?",
-      "optionen": [
-       "Etwa 29.000 Menschen",
-       "Etwa 50.000 Menschen",
-       "Etwa 100.000 Menschen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, taz, SWR und Deutschlandfunk kostete der Hitzesommer 2026 schätzungsweise etwa 50.000 Menschen das Leben."
-     },
-     {
-      "frage": "Von welchen Institutionen stammte die untersuchte Analyse?",
-      "optionen": [
-       "Von britischen Wissenschaftlern",
-       "Von der Bundesregierung",
-       "Vom Robert-Koch-Institut"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Berichte von Tagesschau und taz stimmen überein, dass die Analyse von britischen Wissenschaftlern vom Imperial College London und der London School of Hygiene & Tropical Medicine stammt."
-     },
-     {
-      "frage": "Welcher Anteil der Todesfälle wurde direkt auf den Klimawandel zurückgeführt?",
-      "optionen": [
-       "Etwa ein Drittel",
-       "Fast zwei Drittel",
-       "Genau zehn Prozent"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau und taz führen die Forscher fast zwei Drittel (65 Prozent) der Todesfälle direkt auf den von Menschen verursachten Klimawandel zurück."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Eine neue Studie zeigt, dass im Sommer 2026 sehr viele Menschen durch extreme Hitze in Europa gestorben sind.",
-    "absaetze": [
-     "Wissenschaftler aus Großbritannien haben die Daten untersucht.",
-     "Ihre Schätzung liegt bei rund fünfzigtausend Hitzetoten in europäischen Städten.",
-     "Die Forscher sagen, dass fast zwei Drittel dieser Todesfälle durch den von Menschen gemachten Klimawandel verursacht wurden.",
-     "Besonders der Monat Juni war sehr heiß.",
-     "Die Wissenschaftler fordern nun, dass Städte besser gegen Hitze geschützt werden müssen, zum Beispiel durch mehr Grünflächen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Im Sommer 2026 starben in Europa laut einer neuen Studie etwa fünfzigtausend Menschen an Hitze.",
-     "Fast zwei Drittel dieser Todesfälle führen Forscher auf den menschengemachten Klimawandel zurück.",
-     "Wissenschaftler fordern deshalb einen besseren Schutz und mehr Grünflächen in Städten."
-    ],
-    "lang": [
-     "Eine neue wissenschaftliche Untersuchung zeigt eine Rekordzahl von Hitzetoten für den Sommer 2026 in Europa.",
-     "Nach Angaben der Studie starben in europäischen Städten schätzungsweise etwa fünfzigtausend Menschen infolge von Hitze.",
-     "Die Forscher vom Imperial College London und der London School of Hygiene and Tropical Medicine veröffentlichten diese Zahlen.",
-     "Fast zwei Drittel der Todesfälle werden direkt auf den von Menschen verursachten Klimawandel zurückgeführt.",
-     "Für ihre Untersuchung werteten die Wissenschaftler Daten aus urbanen Zentren in mehreren europäischen Ländern aus.",
-     "Besonders der Monat Juni brachte mit Temperaturen von im Schnitt fünf Grad über dem Normalwert eine hohe Sterblichkeit.",
-     "Nach Angaben von Clair Barnes war dies der schlimmste Sommer seit Beginn der Aufzeichnungen.",
-     "Eine Übersterblichkeit bezeichnet eine statistisch auffällige Häufung von Todesfällen im Vergleich zu historischen Durchschnittswerten.",
-     "Forscher fordern nun, dass Städte durch mehr Grünflächen und eine bessere medizinische Versorgung gekühlt werden müssen.",
-     "Über konkrete politische Maßnahmen zur schnellen Umsetzung enthalten die Berichte bisher keine Angaben."
-    ],
-    "einfach": [
-     "Im Sommer 2026 gab es sehr viele Hitzetote in Europa.",
-     "Das zeigt eine neue Untersuchung von britischen Wissenschaftlern.",
-     "Etwa fünfzigtausend Menschen starben in Städten durch die extreme Hitze.",
-     "Forscher sagen, dass der menschengemachte Klimawandel die Hauptursache dafür ist.",
-     "Deshalb fordern Experten mehr Grünflächen in Städten zur Abkühlung."
-    ]
-   },
-   "kurz": [
-    "Im Sommer 2026 starben laut einer Studie etwa 50.000 Menschen in europäischen Städten an Hitze.",
-    "Fast zwei Drittel dieser Todesfälle werden auf den menschengemachten Klimawandel zurückgeführt.",
-    "Forscher fordern eine bessere Anpassung der Städte durch Grünflächen und medizinische Versorgung."
-   ],
-   "fakten": [
-    [
-     "Geschätzte Hitzetote in Europa",
-     "etwa 50.000"
-    ],
-    [
-     "Anteil durch Klimawandel",
-     "65 Prozent"
-    ],
-    [
-     "Hitzetote unter 65 Jahren",
-     "etwa 6.000"
-    ],
-    [
-     "Vergleichszahl für das Jahr 2022",
-     "etwa 29.000"
-    ]
-   ],
-   "dossier": {
-    "slug": "hitzesommer-2026-europa",
-    "titel": "Hitzesommer und Klimawandel in Europa"
-   },
-   "bildInfos": [],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Eine neue wissenschaftliche Untersuchung zeigt eine Rekordzahl von Hitzetoten fü",
-     "d": "5736dbe590.mp3",
-     "l": 67.91,
-     "s": [
-      0.25,
-      8.07,
-      15.36,
-      23.18,
-      29.37,
-      35.84,
-      42.75,
-      47.72,
-      55.13,
-      61.89
-     ]
-    },
-    {
-     "k": "Im Sommer 2026 starben in Europa laut einer neuen Studie etwa fünfzigtausend Men",
-     "d": "f6633f9ff7.mp3",
-     "l": 18.23,
-     "s": [
-      0.25,
-      7.75,
-      13.24
-     ]
-    },
-    {
-     "k": "Im Sommer 2026 gab es sehr viele Hitzetote in Europa. Das zeigt eine neue Unters",
-     "d": "75faee5a1b.mp3",
-     "l": 26.96,
-     "s": [
-      0.25,
-      6.15,
-      10.75,
-      16.65,
-      22.06
-     ]
-    },
-    {
-     "k": "Die exakte Gesamtzahl der analysierten Länder variiert in den Berichten zwischen",
-     "d": "c880887a68.mp3",
-     "l": 13.2,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Übersterblichkeit? Eine Übersterblichkeit beschreibt, we",
-     "d": "356365d7de.mp3",
-     "l": 11.46,
-     "s": [
-      0.25,
-      3.77
-     ]
-    },
-    {
-     "k": "Laut einer aktuellen wissenschaftlichen Analyse hat der Sommer 2026 viele Hitzet",
-     "d": "9c773fbb21.mp3",
-     "l": 44.07,
-     "s": [
-      0.25,
-      7.86,
-      11.52,
-      15.05,
-      19.36,
-      22.31,
-      28.7,
-      33.69
-     ]
-    },
-    {
-     "k": "Die beteiligten Forscher stammen vom Imperial College London sowie von der Londo",
-     "d": "c523d52d43.mp3",
-     "l": 46.81,
-     "s": [
-      0.25,
-      8.03,
-      14.3,
-      18.52,
-      26.84,
-      32.65,
-      35.83,
-      41.56
-     ]
-    },
-    {
-     "k": "Ein historischer Vergleich wird in den Berichten genannt. Für das Jahr 2022 wurd",
-     "d": "8924b3448b.mp3",
-     "l": 40.58,
-     "s": [
-      0.25,
-      3.46,
-      9.36,
-      11.78,
-      19.74,
-      25.41,
-      32.46,
-      38.88
-     ]
-    },
-    {
-     "k": "Eine Übersterblichkeit beschreibt eine statistisch auffällige Häufung von Todesf",
-     "d": "88cda16e41.mp3",
-     "l": 21.54,
-     "s": [
-      0.25,
-      8.97,
-      15.37
-     ]
-    },
-    {
-     "k": "Clair Barnes, Forscherin für Extremwetter und Klimawandel am Imperial College Lo",
-     "d": "f6f2545e7b.mp3",
-     "l": 35.54,
-     "s": [
-      0.25,
-      13.95,
-      24,
-      27.78
-     ]
-    },
-    {
-     "k": "Konkrete politische Schritte zur Anpassung der Städte wurden in den Analysen gef",
-     "d": "56611f0363.mp3",
-     "l": 19.56,
-     "s": [
-      0.25,
-      10.27
      ]
     }
    ]

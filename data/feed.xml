@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Mon, 26 Oct 2026 06:12:44 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 14:12:00 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-10-26</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Aleksandar Vucic räumt Niederlage ein · Angriff auf Kirche in Jordanien · Präsidentenwahl in Brasilien: Amtsinhaber Lula gewinnt Stichwahl gegen Herausforderer Bolsonaro · Rückkehr der venezolanischen Oppositionspolitikerin María Corina Machado nach dem Exil · Militäroperation und Sicherheitsmaßnahmen im Westjordanland vor der Parlamentswahl</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Aleksandar Vucic räumt Niederlage ein · Angriff auf Kirche in Jordanien · Präsidentenwahl in Brasilien: Amtsinhaber Lula gewinnt Stichwahl gegen Herausforderer Bolsonaro · Rückkehr der venezolanischen Oppositionspolitikerin María Corina Machado nach dem Exil · Militäroperation und Sicherheitsmaßnahmen im Westjordanland vor der Parlamentswahl</itunes:summary>
+    <pubDate>Mon, 26 Oct 2026 06:12:44 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-26</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-26.mp3" length="3743373" type="audio/mpeg"/>
+    <itunes:duration>00:10:24</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>Starlink in der Ukraine: Vorwürfe und Verbindungen</title>
     <description>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</description>
     <itunes:summary>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</itunes:summary>
@@ -23,17 +34,6 @@
     <guid isPermaLink="false">podcast-starshield-drosselung-ukraine</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-starshield-drosselung-ukraine.mp3" length="3464301" type="audio/mpeg"/>
     <itunes:duration>00:07:13</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-25</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Angriff auf Kirche in Jordanien · CSU-Parteitag in München: Bundeskanzler Merz fordert Geschlossenheit der Union · Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich · Lage um Satelliteninternet Starlink in der Ukraine und militärische Handlungen · Vorgezogene Parlamentswahl in Serbien</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Angriff auf Kirche in Jordanien · CSU-Parteitag in München: Bundeskanzler Merz fordert Geschlossenheit der Union · Ausschreitungen und Festnahmen bei landesweiten Protesten in Frankreich · Lage um Satelliteninternet Starlink in der Ukraine und militärische Handlungen · Vorgezogene Parlamentswahl in Serbien</itunes:summary>
-    <pubDate>Sun, 25 Oct 2026 06:04:44 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-25</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-25.mp3" length="4056573" type="audio/mpeg"/>
-    <itunes:duration>00:11:16</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
