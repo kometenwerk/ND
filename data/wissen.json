@@ -1,6 +1,148 @@
 {
- "stand": "2026-10-26T20:26:50.701Z",
+ "stand": "2026-10-27T06:13:33.167Z",
  "stuecke": [
+  {
+   "id": "wie-entsteht-eigentlich-ein-sonnensturm",
+   "zeit": "2026-10-27T06:36:50.412Z",
+   "bereich": "Weltall",
+   "titel": "Wie entsteht eigentlich ein Sonnensturm?",
+   "vorspann": "Ein Sonnensturm stört das Magnetfeld der Erde und kann Technik beschädigen. Solche Stürme entstehen durch Eruptionen auf der Sonne.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Als magnetischen Sturm bezeichnet man eine Störung der Magnetosphäre eines Planeten oder der Erde. Ein geomagnetischer Sturm wird durch Änderungen des Erdmagnetfeldes definiert. Die Störung wird von Schockwellenfronten des Sonnenwinds ausgelöst. Diese entstehen durch Sonneneruptionen oder koronale Massenauswürfe. Die Schockwellen benötigen etwa 24 bis 36 Stunden, um die Erde zu erreichen. Ein Magnetsturm dauert etwa 24 bis 48 Stunden an.",
+      "Geomagnetische Stürme können vielfältige Auswirkungen auf die Technik und Natur haben. Die bekanntesten sind Polarlichter in gemäßigten Zonen wie Mitteleuropa. In elektrischen Stromnetzen können geomagnetisch induzierte Ströme zu Schäden an Leistungstransformatoren führen. Zeitweilig können auch Funkübertragungen und GPS-Signale gestört werden. Satelliten in niedrigen Orbits können durch einen erhöhten Luftwiderstand abgebremst werden."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Ein geomagnetischer Sturm wird in drei Phasen unterteilt. Die Anfangsphase zeichnet sich durch eine Schwächung des Magnetfelds um etwa 20 bis 50 Nanotesla innerhalb einiger Dutzend Minuten aus. Die Sturmphase beginnt, wenn die Störung größer als 50 Nanotesla wird. Die Stärke wird als moderat bezeichnet, wenn die maximale Störung weniger als 100 Nanotesla beträgt.",
+      "Die Stärke gilt als intensiv, wenn die Störung 250 Nanotesla nicht überschreitet, ansonsten handelt es sich um einen Supersturm. Nur selten wird eine maximale Abschwächung von etwa 650 Nanotesla überschritten. Die Erholungsphase endet mit dem Erreichen des Normalwerts und kann zwischen acht Stunden und einer Woche dauern."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Magnetische Stürme wurden bereits im frühen 19. Jahrhundert beobachtet. Alexander von Humboldt untersuchte von Mai 1806 bis Juni 1807 die Variation der Richtung eines Kompasses in Berlin. In der Nacht vom 1. zum 2. September 1859 wurde der bisher mächtigste geomagnetische Sturm registriert, der als Carrington-Ereignis bezeichnet wird.",
+      "Untersuchungen von Eisbohrkernen und Baumringen liefern Daten über historische und sehr alte extreme Sonnenpartikelereignisse. So wiesen Forscher durch Baumringe ein Ereignis im ersten Drittel des Jahres 12350 v. Chr. nach. Gemäß einer im Jahr 2025 veröffentlichten Studie war dies das stärkste bisher bekannte extreme Sonnenpartikelereignis."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Zu den Auswirkungen auf Lebewesen gibt es wissenschaftliche Untersuchungen, deren Beweislage jedoch umstritten ist. Diskutiert werden mögliche Einflüsse auf den zirkadianen Rhythmus, die Melatoninproduktion und die Zirbeldrüse. Auch die genauen Gründe dafür, dass das Wachstum von Bäumen bei erhöhter Sonnenaktivität schneller verläuft, sind noch nicht geklärt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Carrington-Ereignis",
+     "1. bis 2. September 1859"
+    ],
+    [
+     "Stärkstes bekanntes Ereignis (Baumringe)",
+     "12350 v. Chr."
+    ],
+    [
+     "Reisezeit der Schockwellen zur Erde",
+     "24 bis 36 Stunden"
+    ],
+    [
+     "Dauer eines Magnetsturms",
+     "24 bis 48 Stunden"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Magnetosphäre",
+     "Der Bereich um einen Planeten, der von dessen Magnetfeld beherrscht wird."
+    ],
+    [
+     "Koronaler Massenauswurf",
+     "Eine riesige Wolke aus Plasma und Magnetfeldern, die von der Sonne in den Weltraum geschleudert wird."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wodurch wird ein geomagnetischer Sturm ausgelöst?",
+     "optionen": [
+      "Durch Schockwellenfronten des Sonnenwinds",
+      "Durch Vulkanausbrüche auf der Erde",
+      "Durch den Mond"
+     ],
+     "richtig": 0,
+     "erklaerung": "Die Störung wird durch Schockwellenfronten des Sonnenwinds ausgelöst, die durch Sonneneruptionen oder koronale Massenauswürfe entstehen."
+    }
+   ],
+   "video": [
+    "Ein magnetischer Sturm stört das Magnetfeld der Erde.",
+    "Ausgelöst wird er durch den Sonnenwind von der Sonne.",
+    "Schockwellen brauchen bis zu der Erde etwa einen Tag.",
+    "Dabei entstehen oft wunderschöne Polarlichter am Himmel.",
+    "Manchmal fallen durch die Ströme Transformatoren aus.",
+    "Auch Satelliten und das GPS können gestört werden.",
+    "Forscher untersuchen alte Baumringe, um Stürme zu finden.",
+    "Das stärkste bekannte Ereignis fand im Jahr 12350 vor Christus statt."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Magnetischer Sturm",
+    "bildunterschrift": "Magnetische Stürme können Polarlichter und technische Störungen auf der Erde verursachen."
+   },
+   "quelle": {
+    "titel": "Magnetischer Sturm",
+    "url": "https://de.wikipedia.org/wiki/Magnetischer_Sturm",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 351,
+   "bildInfos": [
+    {
+     "titel": "Magnetosphere rendition.jpg",
+     "beschreibung": "Artist's rendition of Earth's magnetosphere.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magnetosphere_rendition.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magnetosphere_rendition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Magnetosphere_rendition.jpg",
+     "urheber": "NASA",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Magnetischer Sturm",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Magnetische Stürme können Polarlichter und technische Störungen auf der Erde verursachen."
+    },
+    {
+     "titel": "Ife 010331 kombination.png",
+     "beschreibung": "Zeitliche Schwankungen im Erdmagnetfeld durch einen magnetischen Sturm am 31. März 2001, gemessen in Ile-Ife, Nigeria. Auf der Abszisse ist die Zeit in Minuten (Greenwichzeit) aufgetragen, auf den Ord",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ife_010331_kombination.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ife_010331_kombination.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Ife_010331_kombination.png",
+     "urheber": "Fred Fieberg",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Zeitliche Schwankungen im Erdmagnetfeld durch einen magnetischen Sturm am 31. März 2001, gemessen in Ile-Ife, Nigeria. Auf der Abszisse ist die Zeit in Minuten (Greenwichzeit) aufgetragen, auf den Ord"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Magnetosphere rendition.jpg",
+    "beschreibung": "Artist's rendition of Earth's magnetosphere.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magnetosphere_rendition.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Magnetosphere_rendition.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Magnetosphere_rendition.jpg",
+    "urheber": "NASA",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Magnetischer Sturm",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Magnetische Stürme können Polarlichter und technische Störungen auf der Erde verursachen."
+   }
+  },
   {
    "id": "warum-ist-man-im-weltall-eigentlich-schwerelos",
    "zeit": "2026-10-26T20:52:00.210Z",
@@ -6780,165 +6922,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Reißverschluss besteht aus zwei Seitenteilen mit Zähnen und einem Schieber."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-die-blindenschrift",
-   "zeit": "2026-10-11T12:59:10.602Z",
-   "bereich": "Sprache und Kultur",
-   "titel": "Wie funktioniert eigentlich die Blindenschrift?",
-   "vorspann": "Die Brailleschrift hilft blinden und stark sehbehinderten Menschen beim Lesen. Sie besteht aus tastbaren Punkten auf dem Papier.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Die Brailleschrift ist eine internationale Blindenschrift. Sie wird von blinden und stark sehbehinderten Menschen genutzt, da sie normale Schwarzschrift nur schwer oder gar nicht lesen können. Louis Braille hat die Schrift im Jahr 1825 entwickelt. Er war selbst im Alter von drei Jahren infolge einer Augenverletzung auf beiden Augen erblindet.",
-      "Dargestellt werden die Zeichen durch tastbare Muster. Diesen liegt ein Raster aus Punkten zugrunde. Die Punkte werden meist von der Rückseite her in das Papier eingedrückt. Dadurch sind sie von vorne als Erhöhungen mit den Fingerspitzen zu ertasten. Daher wird die Brailleschrift auch als Hochdruckschrift bezeichnet."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Der klassischen Brailleschrift liegt ein System von sechs Punkten zugrunde. Diese Punkte sind in zwei Spalten zu je drei Punkten in einem Rechteck angeordnet. Die Anzahl von sechs Punkten ergab sich aus der Erfahrung, dass maximal sechs Tasteindrücke gleichzeitig wahrgenommen werden können. Bei sechs binären Punkten ergeben sich 64 Variationen.",
-      "Für die Ausgabe von Texten durch den Computer werden Braillezeilen verwendet. Da für die Arbeit am Computer mehr Zeichen notwendig sind, werden hier zwei weitere Punkte je Braillezeichen hinzugefügt. So stehen acht Punkte zur Verfügung, womit sich 256 Variationen ergeben.",
-      "In der deutschen Brailleschrift gibt es vier verschiedene Kürzungsgrade für Literaturbraille. Diese reichen von der Basisschrift über die Vollschrift und die Kurzschrift bis hin zur Blindenstenografie. Die Kurzschrift verkürzt den Text um etwa 30 bis 40 Prozent gegenüber der Vollschrift."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Louis Braille wurde noch in Reliefschrift in der Form für Sehende unterrichtet. Mit 16 Jahren entwickelte er eine eigene Schrift aus ertastbaren Zeichen. Im Frühsommer stellte er diese Schrift einer Elternkonferenz vertraulich vor. Im September 1825 präsentierte er seine Entwicklung dem Direktor des Königlichen Instituts für Blinde in Paris."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Der Wikipedia-Artikel enthält keine Angaben zu offenen Fragen oder ungelösten wissenschaftlichen Problemen der Forschung bezüglich der Brailleschrift."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Entwicklungsjahr der Brailleschrift",
-     "1825"
-    ],
-    [
-     "Anzahl Punkte im klassischen System",
-     "6"
-    ],
-    [
-     "Anzahl Variationen bei sechs Punkten",
-     "64"
-    ],
-    [
-     "Anzahl Variationen bei acht Punkten",
-     "256"
-    ],
-    [
-     "Wörter pro Minute bei erfahrenen Lesern",
-     "100"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Brailleschrift",
-     "Eine Blindenschrift aus tastbaren Punktmustern für blinde und stark sehbehinderte Menschen."
-    ],
-    [
-     "Schwarzschrift",
-     "Die normale Schrift für sehende Menschen."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wer hat die Brailleschrift entwickelt?",
-     "optionen": [
-      "Louis Braille",
-      "Ein Pariser Institutsdirektor",
-      "Eine Elternkonferenz"
-     ],
-     "richtig": 0,
-     "erklaerung": "Louis Braille hat die Schrift im Jahr 1825 im Alter von 16 Jahren entwickelt."
-    }
-   ],
-   "video": [
-    "Die Brailleschrift hilft blinden Menschen beim Lesen.",
-    "Louis Braille hat diese Schrift im Jahr 1825 entwickelt.",
-    "Die Schrift besteht aus Punkten auf dem Papier.",
-    "Diese Punkte werden von hinten in das Papier eingedrückt.",
-    "So entstehen Erhöhungen für die Fingerspitzen.",
-    "Das klassische System nutzt sechs Punkte in zwei Spalten.",
-    "Damit sind vierundsechzig verschiedene Muster möglich.",
-    "Für die Computernutzung gibt es auch achtpunktige Zeichen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Brailleschrift",
-    "bildunterschrift": "Die Brailleschrift nutzt tastbare Punkte zur Darstellung von Buchstaben."
-   },
-   "quelle": {
-    "titel": "Brailleschrift",
-    "url": "https://de.wikipedia.org/wiki/Brailleschrift",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 292,
-   "bildInfos": [
-    {
-     "titel": "A person reading a braille book.jpg",
-     "beschreibung": "A person reading a braille book with two fingers",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_person_reading_a_braille_book.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_person_reading_a_braille_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:A_person_reading_a_braille_book.jpg",
-     "urheber": "https://www.flickr.com/photos/fotoblasete/ username:antonioxalonso",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "artikel": "Brailleschrift",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Die Brailleschrift nutzt tastbare Punkte zur Darstellung von Buchstaben."
-    },
-    {
-     "titel": "Blista-Braille-Typewriter.jpg",
-     "beschreibung": "Braille typewriter made by Blista. The text on the sheet says “Wikipedia ↵ Die freie Enzyklopaedie”. The typewriter was owned by Michael Peter-Christoph Haessig until his death. He was blind sportsman",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Blista-Braille-Typewriter.jpg/1280px-Blista-Braille-Typewriter.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/db/Blista-Braille-Typewriter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Blista-Braille-Typewriter.jpg",
-     "urheber": "Simon A. Eugster",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Braille typewriter made by Blista. The text on the sheet says “Wikipedia ↵ Die freie Enzyklopaedie”. The typewriter was owned by Michael Peter-Christoph Haessig until his death. He was blind sportsman"
-    },
-    {
-     "titel": "Braille-Tafel.JPG",
-     "beschreibung": "Schreibtafel mit Griffel für Braille-Schrift",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Braille-Tafel.JPG/1280px-Braille-Tafel.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Braille-Tafel.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Braille-Tafel.JPG",
-     "urheber": "sleepytomcat (Jens Kraglund)",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Schreibtafel mit Griffel für Braille-Schrift"
-    }
-   ],
-   "bildInfo": {
-    "titel": "A person reading a braille book.jpg",
-    "beschreibung": "A person reading a braille book with two fingers",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_person_reading_a_braille_book.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/6/66/A_person_reading_a_braille_book.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:A_person_reading_a_braille_book.jpg",
-    "urheber": "https://www.flickr.com/photos/fotoblasete/ username:antonioxalonso",
-    "lizenz": "CC BY 2.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-    "artikel": "Brailleschrift",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Die Brailleschrift nutzt tastbare Punkte zur Darstellung von Buchstaben."
    }
   }
  ]
