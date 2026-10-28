@@ -109,7 +109,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Hieroglyphen sind alte Schriftzeichen mit einem bildhaften Charakter."
-   }
+   },
+   "ton": [
+    {
+     "k": "Eine Hieroglyphe ist ein Schriftzeichen mit einem erkennbar bildhaften Charakter",
+     "d": "65a2d635ed.mp3",
+     "l": 30.88,
+     "s": [
+      0.25,
+      4.83,
+      7.2,
+      9.66,
+      13.58,
+      18.33,
+      22.42,
+      25.52
+     ]
+    }
+   ]
   },
   {
    "id": "wie-entsteht-eigentlich-ein-sonnensturm",
@@ -251,7 +268,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Magnetische Stürme können Polarlichter und technische Störungen auf der Erde verursachen."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein magnetischer Sturm stört das Magnetfeld der Erde. Ausgelöst wird er durch de",
+     "d": "90277cd636.mp3",
+     "l": 29.63,
+     "s": [
+      0.25,
+      3.65,
+      6.89,
+      10.04,
+      13.4,
+      16.53,
+      19.74,
+      23.46
+     ]
+    }
+   ]
   },
   {
    "id": "warum-ist-man-im-weltall-eigentlich-schwerelos",
@@ -451,7 +485,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "In der Erdumlaufbahn schweben Astronauten, weil sie sich im ständigen freien Fall befinden."
-   }
+   },
+   "ton": [
+    {
+     "k": "Schwerelosigkeit bedeutet, dass die Gewichtskraft auf einen Körper nicht spürbar",
+     "d": "167db06ee9.mp3",
+     "l": 36.75,
+     "s": [
+      0.25,
+      5.18,
+      9.85,
+      13.93,
+      18.58,
+      22.97,
+      27.34,
+      31.69
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-keilschrift",
@@ -610,7 +661,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Eine alte Tontafel mit Keilschriftzeichen."
-   }
+   },
+   "ton": [
+    {
+     "k": "Die Keilschrift ist ein sehr altes Schriftsystem aus dem Vorderen Orient. Sie wu",
+     "d": "a57271246c.mp3",
+     "l": 29.94,
+     "s": [
+      0.25,
+      5.17,
+      8.93,
+      12.62,
+      16.22,
+      19.15,
+      23.0,
+      26.6
+     ]
+    }
+   ]
   },
   {
    "id": "wie-entsteht-eigentlich-ein-regenbogen",
@@ -790,7 +858,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Regenbogen zeigt die Farben des Sonnenspektrums als bogenförmiges Lichtband am Himmel."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er zeigt sich bei Regen und",
+     "d": "df010a7c37.mp3",
+     "l": 27.75,
+     "s": [
+      0.25,
+      3.51,
+      6.19,
+      9.07,
+      12.0,
+      15.64,
+      19.41,
+      23.03
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-das-deutsche-steuersystem",
@@ -876,7 +961,24 @@
     "url": "https://de.wikipedia.org/wiki/Umsatzsteuer_(Deutschland)",
     "lizenz": "CC BY-SA 4.0"
    },
-   "woerter": 264
+   "woerter": 264,
+   "ton": [
+    {
+     "k": "Die Umsatzsteuer ist eine wichtige Einnahmequelle für den Staat. Sie wird auch a",
+     "d": "4529b93e35.mp3",
+     "l": 34.88,
+     "s": [
+      0.25,
+      3.91,
+      6.5,
+      9.62,
+      13.87,
+      18.62,
+      23.69,
+      28.73
+     ]
+    }
+   ]
   },
   {
    "id": "das-deutsche-einbuergerungstest-verfahren",
