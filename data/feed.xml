@@ -2,126 +2,139 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Tue, 27 Oct 2026 20:58:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 05:30:57 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Parlamentswahl in Israel und UN-Vorwürfe</title>
     <description>In Israel hat an diesem Dienstag die Parlamentswahl begonnen, während die Vereinten Nationen schwere Vorwürfe zum Westjordanland veröffentlichten.</description>
     <itunes:summary>In Israel hat an diesem Dienstag die Parlamentswahl begonnen, während die Vereinten Nationen schwere Vorwürfe zum Westjordanland veröffentlichten.</itunes:summary>
-    <pubDate>Tue, 27 Oct 2026 20:58:24 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 20:58:24 GMT</pubDate>
     <guid isPermaLink="false">podcast-israel-abriegelung-westjordanland</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-israel-abriegelung-westjordanland.mp3" length="3306093" type="audio/mpeg"/>
     <itunes:duration>00:06:53</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Hauptausgabe vom 2026-10-27</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Waffenruhe in ukrainischer Frontstadt Oleschky in Kraft getreten · Vorgezogene Parlamentswahl in Serbien: Oppositionelle Studentenliste gewinnt absolute Mehrheit · Angriff auf Kirche in Jordanien · Parlamentswahl in Israel und Vorwürfe der Vereinten Nationen · Debatte über den Auftritt von Audi-Chef Döllner mit US-Präsident Trump</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Waffenruhe in ukrainischer Frontstadt Oleschky in Kraft getreten · Vorgezogene Parlamentswahl in Serbien: Oppositionelle Studentenliste gewinnt absolute Mehrheit · Angriff auf Kirche in Jordanien · Parlamentswahl in Israel und Vorwürfe der Vereinten Nationen · Debatte über den Auftritt von Audi-Chef Döllner mit US-Präsident Trump</itunes:summary>
+    <pubDate>Tue, 27 Oct 2026 06:13:33 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-27</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-27.mp3" length="4116765" type="audio/mpeg"/>
+    <itunes:duration>00:11:26</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Rückkehr von María Corina Machado nach Venezuela</title>
     <description>Die venezolanische Oppositionspolitikerin María Corina Machado ist nach knapp einem Jahr im Exil zurückgekehrt. Wir beleuchten die Hintergründe, die Reaktionen aus Washington und Caracas sowie die vielen offenen Fragen.</description>
     <itunes:summary>Die venezolanische Oppositionspolitikerin María Corina Machado ist nach knapp einem Jahr im Exil zurückgekehrt. Wir beleuchten die Hintergründe, die Reaktionen aus Washington und Caracas sowie die vielen offenen Fragen.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 21:12:18 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 21:12:18 GMT</pubDate>
     <guid isPermaLink="false">podcast-machado-rueckkehr-venezuela</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-machado-rueckkehr-venezuela.mp3" length="7665261" type="audio/mpeg"/>
     <itunes:duration>00:15:58</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-26</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Aleksandar Vucic räumt Niederlage ein · Angriff auf Kirche in Jordanien · Präsidentenwahl in Brasilien: Amtsinhaber Lula gewinnt Stichwahl gegen Herausforderer Bolsonaro · Rückkehr der venezolanischen Oppositionspolitikerin María Corina Machado nach dem Exil · Militäroperation und Sicherheitsmaßnahmen im Westjordanland vor der Parlamentswahl</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Aleksandar Vucic räumt Niederlage ein · Angriff auf Kirche in Jordanien · Präsidentenwahl in Brasilien: Amtsinhaber Lula gewinnt Stichwahl gegen Herausforderer Bolsonaro · Rückkehr der venezolanischen Oppositionspolitikerin María Corina Machado nach dem Exil · Militäroperation und Sicherheitsmaßnahmen im Westjordanland vor der Parlamentswahl</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 06:12:44 +0000</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-26</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-26.mp3" length="3743373" type="audio/mpeg"/>
-    <itunes:duration>00:10:24</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Starlink in der Ukraine: Vorwürfe und Verbindungen</title>
     <description>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</description>
     <itunes:summary>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</itunes:summary>
-    <pubDate>Sun, 25 Oct 2026 19:16:30 +0000</pubDate>
+    <pubDate>Sun, 25 Oct 2026 19:16:30 GMT</pubDate>
     <guid isPermaLink="false">podcast-starshield-drosselung-ukraine</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-starshield-drosselung-ukraine.mp3" length="3464301" type="audio/mpeg"/>
     <itunes:duration>00:07:13</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Großbrand am Obersalzberg</title>
     <description>Wir sprechen über den Großbrand am historischen Kehlsteinhaus und die Ermittlungen wegen Brandstiftung. Alle Stimmen dieser Sendung sind Computerstimmen.</description>
     <itunes:summary>Wir sprechen über den Großbrand am historischen Kehlsteinhaus und die Ermittlungen wegen Brandstiftung. Alle Stimmen dieser Sendung sind Computerstimmen.</itunes:summary>
-    <pubDate>Sat, 24 Oct 2026 19:01:28 +0000</pubDate>
+    <pubDate>Sat, 24 Oct 2026 19:01:28 GMT</pubDate>
     <guid isPermaLink="false">podcast-kehlsteinhaus-brand-obersalzberg</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-kehlsteinhaus-brand-obersalzberg.mp3" length="2854125" type="audio/mpeg"/>
     <itunes:duration>00:05:57</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Schusswaffenangriff in der Pariser Großraumregion</title>
     <description>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</description>
     <itunes:summary>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</itunes:summary>
-    <pubDate>Fri, 23 Oct 2026 20:05:00 +0000</pubDate>
+    <pubDate>Fri, 23 Oct 2026 20:05:00 GMT</pubDate>
     <guid isPermaLink="false">podcast-paris-schuesse-terrorverdacht</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-paris-schuesse-terrorverdacht.mp3" length="2836077" type="audio/mpeg"/>
     <itunes:duration>00:05:54</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Mutmaßlicher russischer Spion in Brandenburg festgenommen</title>
     <description>Ein ukrainischer Staatsbürger sitzt in Brandenburg unter Spionageverdacht in U-Haft. Wir analysieren die Hintergründe der Festnahme und die Warnungen der Politik.</description>
     <itunes:summary>Ein ukrainischer Staatsbürger sitzt in Brandenburg unter Spionageverdacht in U-Haft. Wir analysieren die Hintergründe der Festnahme und die Warnungen der Politik.</itunes:summary>
-    <pubDate>Thu, 22 Oct 2026 20:19:48 +0000</pubDate>
+    <pubDate>Thu, 22 Oct 2026 20:19:48 GMT</pubDate>
     <guid isPermaLink="false">podcast-russland-spion-brandenburg</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-russland-spion-brandenburg.mp3" length="3766317" type="audio/mpeg"/>
     <itunes:duration>00:07:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>UN-Klimabericht warnt vor Erwärmung um 2,8 Grad</title>
     <description>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</description>
     <itunes:summary>Ein neuer Bericht des UN-Umweltprogramms prognostiziert eine weltweite Erwärmung von 2,8 Grad bis zum Ende des Jahrhunderts. Wir ordnen die Zahlen, Hintergründe und Reaktionen ein.</itunes:summary>
-    <pubDate>Wed, 21 Oct 2026 20:21:47 +0000</pubDate>
+    <pubDate>Wed, 21 Oct 2026 20:21:47 GMT</pubDate>
     <guid isPermaLink="false">podcast-un-klimabericht-2-8-grad</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-un-klimabericht-2-8-grad.mp3" length="4509933" type="audio/mpeg"/>
     <itunes:duration>00:09:24</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Koalitionsverhandlungen in Berlin bei Grünen und SPD</title>
     <description>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</description>
     <itunes:summary>Die Berliner Grünen und die SPD wollen Koalitionsverhandlungen mit der Linkspartei aufnehmen. Das wirft in der Bundespolitik allerdings einige Fragen auf.</itunes:summary>
-    <pubDate>Tue, 20 Oct 2026 20:12:05 +0000</pubDate>
+    <pubDate>Tue, 20 Oct 2026 20:12:05 GMT</pubDate>
     <guid isPermaLink="false">podcast-berliner-sondierungsgespraeche-unterbrochen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-berliner-sondierungsgespraeche-unterbrochen.mp3" length="2658477" type="audio/mpeg"/>
     <itunes:duration>00:05:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Die Geschichte unserer Schrift</title>
     <description>Wie aus einfachen Zeichen unser modernes Alphabet wurde.</description>
     <itunes:summary>Wie aus einfachen Zeichen unser modernes Alphabet wurde.</itunes:summary>
-    <pubDate>Sun, 18 Oct 2026 10:57:27 +0000</pubDate>
+    <pubDate>Sun, 18 Oct 2026 10:57:27 GMT</pubDate>
     <guid isPermaLink="false">doku-die-geschichte-unserer-schrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-doku-die-geschichte-unserer-schrift.mp3" length="7900653" type="audio/mpeg"/>
     <itunes:duration>00:21:57</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Die Reise des Wassers</title>
     <description>Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.</description>
     <itunes:summary>Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.</itunes:summary>
-    <pubDate>Wed, 23 Sep 2026 05:55:16 +0000</pubDate>
+    <pubDate>Wed, 23 Sep 2026 05:55:16 GMT</pubDate>
     <guid isPermaLink="false">doku-die-reise-des-wassers</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-doku-die-reise-des-wassers.mp3" length="2041293" type="audio/mpeg"/>
     <itunes:duration>00:05:40</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
