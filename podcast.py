@@ -35,17 +35,18 @@ PODCAST = ROOT / "data" / "gespraeche.json"     # eigene Datei, ton.py hat podca
 SENDUNGEN = ROOT / "data" / "podcast.json"    # die aus den Sendungen gebauten Folgen
 TON = ROOT / "ton"
 STIMMEN = ROOT / ".stimmen"
-MODELL = "de_DE-mls-medium"
 
 # ---------------------------------------------------------------- Besetzung
-# Die Nummern stammen aus einer Messung aller Proben: Tonhöhe, Gleichmäßigkeit,
-# Lautstärke und Deutlichkeit. Wer nicht gefällt, wird hier ausgetauscht.
+# Jede Figur hat ein eigenes Piper-Sprachmodell (sauber eingesprochen, kein Stottern).
+# Früher kamen alle aus dem Paket de_DE-mls-medium – dessen Sprecher stotterten und
+# zogen Wörter in die Länge. Liste = Reihenfolge der Versuche, falls ein Modell fehlt.
 BESETZUNG = [
-    {"name": "Thorsten", "nr": 162, "rolle": "führt durch die Sendung, fasst zusammen, übergibt"},
-    {"name": "Sigrid",   "nr": 153, "rolle": "ordnet ein, stellt die Gegenfrage"},
-    {"name": "Malte",    "nr": 171, "rolle": "bringt Zahlen und Belege, nennt die Quellen"},
-    {"name": "Nora",     "nr": 36,  "rolle": "fragt kritisch nach, benennt was offen ist"},
+    {"name": "Thorsten", "modell": ["de_DE-thorsten-high", "de_DE-thorsten-medium"], "rolle": "führt durch die Sendung, fasst zusammen, übergibt"},
+    {"name": "Sigrid",   "modell": ["de_DE-kerstin-low", "de_DE-eva_k-x_low"],       "rolle": "ordnet ein, stellt die Gegenfrage"},
+    {"name": "Malte",    "modell": ["de_DE-karlsson-low", "de_DE-pavoque-low"],     "rolle": "bringt Zahlen und Belege, nennt die Quellen"},
+    {"name": "Nora",     "modell": ["de_DE-ramona-low", "de_DE-eva_k-x_low"],       "rolle": "fragt kritisch nach, benennt was offen ist"},
 ]
+ZIEL_RATE = 22050   # alle Stimmen werden auf diese Abtastrate gebracht
 MODERATION = "Thorsten"
 
 # Die Modellnamen stehen in config.json. Vorher hatte podcast.py eigene fest
@@ -368,15 +369,47 @@ def skript_pruefen(roh, besetzung, streng=True):
 
 
 # ------------------------------------------------------------- Sprechen
-def lade_stimme():
+def _modell_laden(name):
     from piper import PiperVoice
     from piper.download_voices import download_voice
     STIMMEN.mkdir(parents=True, exist_ok=True)
-    modell = STIMMEN / f"{MODELL}.onnx"
+    modell = STIMMEN / f"{name}.onnx"
     if not modell.exists():
-        log(f"Lade Stimme {MODELL} …")
-        download_voice(MODELL, STIMMEN)
+        log(f"Lade Stimme {name} …")
+        download_voice(name, STIMMEN)
     return PiperVoice.load(modell)
+
+
+def lade_stimme(besetzung=None):
+    """Lädt für jede Figur ihr eigenes Modell. Fehlt eins, spricht Thorsten die Rolle."""
+    stimmen, cache = {}, {}
+    for h in (besetzung or BESETZUNG):
+        for m in h["modell"]:
+            try:
+                if m not in cache:
+                    cache[m] = _modell_laden(m)
+                stimmen[h["name"]] = cache[m]
+                log(f"  {h['name']}: {m}")
+                break
+            except Exception as ex:
+                log(f"  {h['name']}: {m} nicht ladbar ({ex})")
+    if not stimmen:
+        raise RuntimeError("Keine Stimme konnte geladen werden.")
+    ersatz = stimmen.get(MODERATION) or next(iter(stimmen.values()))
+    for h in (besetzung or BESETZUNG):
+        stimmen.setdefault(h["name"], ersatz)
+    return stimmen
+
+
+def _auf_rate(roh, rate):
+    """int16-Ton auf ZIEL_RATE umrechnen, damit verschiedene Modelle zusammenpassen."""
+    if rate == ZIEL_RATE or not roh:
+        return roh
+    import numpy as np
+    a = np.frombuffer(roh, dtype=np.int16).astype(np.float32)
+    n = int(len(a) * ZIEL_RATE / rate)
+    b = np.interp(np.linspace(0, len(a) - 1, n), np.arange(len(a)), a)
+    return np.clip(b, -32768, 32767).astype(np.int16).tobytes()
 
 
 def sprechbar(text):
@@ -390,12 +423,10 @@ def sprechbar(text):
     return t
 
 
-def gespraech_sprechen(voice, skript, besetzung, ziel, frist):
+def gespraech_sprechen(stimmen, skript, besetzung, ziel, frist):
     """Jede Zeile mit der Stimme ihrer Figur, kurze Pause beim Sprecherwechsel."""
     from piper.config import SynthesisConfig
-    nummer = {h["name"]: h["nr"] for h in besetzung}
-    rate = voice.config.sample_rate
-    grund = getattr(voice.config, "length_scale", 1.0) or 1.0
+    rate = ZIEL_RATE
     stuecke = [b"\x00\x00" * int(rate * 0.3)]
     proben = int(rate * 0.3)
     marken = []
@@ -404,10 +435,13 @@ def gespraech_sprechen(voice, skript, besetzung, ziel, frist):
         if time.time() > frist:
             log(f"  Zeit reicht nur für {i} von {len(skript['zeilen'])} Zeilen.")
             break
+        voice = stimmen[z["wer"]]
+        grund = getattr(voice.config, "length_scale", 1.0) or 1.0
         conf = SynthesisConfig(length_scale=grund * 1.0, noise_scale=0.667, noise_w_scale=0.8,
-                               normalize_audio=True, speaker_id=nummer[z["wer"]])
+                               normalize_audio=True)
         marken.append({"s": round(proben / rate, 2), "wer": z["wer"], "text": z["text"]})
         roh = b"".join(c.audio_int16_bytes for c in voice.synthesize(sprechbar(z["text"]), conf))
+        roh = _auf_rate(roh, voice.config.sample_rate)
         stuecke.append(roh)
         proben += len(roh) // 2
         pause = 0.42 if z["wer"] != letzter else 0.26
@@ -526,7 +560,7 @@ def main():
     log(f"Skript: {len(skript['zeilen'])} Zeilen, {skript['woerter']} Wörter")
 
     TON.mkdir(parents=True, exist_ok=True)
-    voice = lade_stimme()
+    voice = lade_stimme(besetzung)
     kennung = re.sub(r"[^a-z0-9]+", "-", str(thema.get("id", "folge")).lower()).strip("-")[:50]
     ziel = TON / f"folge-podcast-{kennung}.mp3"
     frist = time.time() + int(os.environ.get("PODCAST_SEKUNDEN", "900"))

@@ -32,7 +32,7 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .stimmen
-          key: piper-stimme-de-mls-medium-v1
+          key: piper-stimmen-podcast-v2
 
       - name: Bisherige Folgen holen
         continue-on-error: true
