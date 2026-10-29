@@ -2,150 +2,86 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 29 Oct 2026 18:56:08 GMT</lastBuildDate>
-  <generator>Nachrichten-Heft</generator>
+  <lastBuildDate>Thu, 29 Oct 2026 19:48:30 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
-  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <item>
+    <title>Debatte über die Nachfolge des Bundespräsidenten</title>
+    <description>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</description>
+    <itunes:summary>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</itunes:summary>
+    <pubDate>Thu, 29 Oct 2026 19:48:30 +0000</pubDate>
+    <guid isPermaLink="false">podcast-csu-parteitag-merz-aigner</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-csu-parteitag-merz-aigner.mp3" length="3093165" type="audio/mpeg"/>
+    <itunes:duration>00:06:27</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Hauptausgabe vom 2026-10-29</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 05:39:32 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 05:39:32 +0000</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-29</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-29.mp3" length="2932365" type="audio/mpeg"/>
     <itunes:duration>00:08:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Kritik an Audi-Plänen für ein neues Werk in den USA</title>
-    <description>Wir beleuchten die scharfe Kritik von Bundesumweltminister Carsten Schneider an den Audi-Plänen in den USA. Dabei schauen wir auf den gemeinsamen Auftritt von Audi-Chef Gernot Döllner und US-Präsident Donald Trump.</description>
-    <itunes:summary>Wir beleuchten die scharfe Kritik von Bundesumweltminister Carsten Schneider an den Audi-Plänen in den USA. Dabei schauen wir auf den gemeinsamen Auftritt von Audi-Chef Gernot Döllner und US-Präsident Donald Trump.</itunes:summary>
-    <pubDate>Wed, 28 Oct 2026 21:22:34 GMT</pubDate>
-    <guid isPermaLink="false">podcast-audi-us-werk-georgia</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-audi-us-werk-georgia.mp3" length="5304045" type="audio/mpeg"/>
-    <itunes:duration>00:11:03</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie schrieben die alten Ägypter mit Hieroglyphen?</title>
     <description>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</description>
     <itunes:summary>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</itunes:summary>
-    <pubDate>Wed, 28 Oct 2026 05:47:43 GMT</pubDate>
+    <pubDate>Wed, 28 Oct 2026 05:47:43 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-schrieben-die-alten-aegypter-mit-hieroglyphen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/65a2d635ed.mp3" length="185709" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Parlamentswahl in Israel und UN-Vorwürfe</title>
-    <description>In Israel hat an diesem Dienstag die Parlamentswahl begonnen, während die Vereinten Nationen schwere Vorwürfe zum Westjordanland veröffentlichten.</description>
-    <itunes:summary>In Israel hat an diesem Dienstag die Parlamentswahl begonnen, während die Vereinten Nationen schwere Vorwürfe zum Westjordanland veröffentlichten.</itunes:summary>
-    <pubDate>Tue, 27 Oct 2026 20:58:24 GMT</pubDate>
-    <guid isPermaLink="false">podcast-israel-abriegelung-westjordanland</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-israel-abriegelung-westjordanland.mp3" length="3306093" type="audio/mpeg"/>
-    <itunes:duration>00:06:53</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Sonnensturm?</title>
     <description>Ein Sonnensturm stört das Magnetfeld der Erde und kann Technik beschädigen. Solche Stürme entstehen durch Eruptionen auf der Sonne.</description>
     <itunes:summary>Ein Sonnensturm stört das Magnetfeld der Erde und kann Technik beschädigen. Solche Stürme entstehen durch Eruptionen auf der Sonne.</itunes:summary>
-    <pubDate>Tue, 27 Oct 2026 06:36:50 GMT</pubDate>
+    <pubDate>Tue, 27 Oct 2026 06:36:50 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-sonnensturm</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/90277cd636.mp3" length="178221" type="audio/mpeg"/>
     <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Rückkehr von María Corina Machado nach Venezuela</title>
-    <description>Die venezolanische Oppositionspolitikerin María Corina Machado ist nach knapp einem Jahr im Exil zurückgekehrt. Wir beleuchten die Hintergründe, die Reaktionen aus Washington und Caracas sowie die vielen offenen Fragen.</description>
-    <itunes:summary>Die venezolanische Oppositionspolitikerin María Corina Machado ist nach knapp einem Jahr im Exil zurückgekehrt. Wir beleuchten die Hintergründe, die Reaktionen aus Washington und Caracas sowie die vielen offenen Fragen.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 21:12:18 GMT</pubDate>
-    <guid isPermaLink="false">podcast-machado-rueckkehr-venezuela</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-machado-rueckkehr-venezuela.mp3" length="7665261" type="audio/mpeg"/>
-    <itunes:duration>00:15:58</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Warum ist man im Weltall eigentlich schwerelos?</title>
     <description>Im Weltall schweben Menschen und Gegenstände frei im Raum. Das liegt daran, dass sie sich in einem ständigen freien Fall um die Erde befinden.</description>
     <itunes:summary>Im Weltall schweben Menschen und Gegenstände frei im Raum. Das liegt daran, dass sie sich in einem ständigen freien Fall um die Erde befinden.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 20:52:00 GMT</pubDate>
+    <pubDate>Mon, 26 Oct 2026 20:52:00 +0000</pubDate>
     <guid isPermaLink="false">wissen-warum-ist-man-im-weltall-eigentlich-schwerelos</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/167db06ee9.mp3" length="220989" type="audio/mpeg"/>
     <itunes:duration>00:00:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich die Keilschrift?</title>
     <description>Die Keilschrift ist eines der ältesten Schriftsysteme der Menschheit. Sie wurde Jahrtausende lang im Vorderen Orient verwendet.</description>
     <itunes:summary>Die Keilschrift ist eines der ältesten Schriftsysteme der Menschheit. Sie wurde Jahrtausende lang im Vorderen Orient verwendet.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 06:26:40 GMT</pubDate>
+    <pubDate>Mon, 26 Oct 2026 06:26:40 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-keilschrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/a57271246c.mp3" length="180093" type="audio/mpeg"/>
     <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Regenbogen?</title>
     <description>Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht durch Sonnenlicht in Regentropfen.</description>
     <itunes:summary>Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht durch Sonnenlicht in Regentropfen.</itunes:summary>
-    <pubDate>Sun, 25 Oct 2026 19:45:08 GMT</pubDate>
+    <pubDate>Sun, 25 Oct 2026 19:45:08 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-regenbogen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/df010a7c37.mp3" length="166989" type="audio/mpeg"/>
     <itunes:duration>00:00:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Starlink in der Ukraine: Vorwürfe und Verbindungen</title>
-    <description>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</description>
-    <itunes:summary>Tech-Milliardär Elon Musk wirft der Ukraine Missbrauch von Starlink vor, während Kiew die Vorwürfe zurückweist und eine stabile Verbindung meldet.</itunes:summary>
-    <pubDate>Sun, 25 Oct 2026 19:16:30 GMT</pubDate>
-    <guid isPermaLink="false">podcast-starshield-drosselung-ukraine</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-starshield-drosselung-ukraine.mp3" length="3464301" type="audio/mpeg"/>
-    <itunes:duration>00:07:13</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Großbrand am Obersalzberg</title>
-    <description>Wir sprechen über den Großbrand am historischen Kehlsteinhaus und die Ermittlungen wegen Brandstiftung. Alle Stimmen dieser Sendung sind Computerstimmen.</description>
-    <itunes:summary>Wir sprechen über den Großbrand am historischen Kehlsteinhaus und die Ermittlungen wegen Brandstiftung. Alle Stimmen dieser Sendung sind Computerstimmen.</itunes:summary>
-    <pubDate>Sat, 24 Oct 2026 19:01:28 GMT</pubDate>
-    <guid isPermaLink="false">podcast-kehlsteinhaus-brand-obersalzberg</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-kehlsteinhaus-brand-obersalzberg.mp3" length="2854125" type="audio/mpeg"/>
-    <itunes:duration>00:05:57</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Schusswaffenangriff in der Pariser Großraumregion</title>
-    <description>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</description>
-    <itunes:summary>Eine Serie von Schüssen in Vororten von Paris fordert ein Todesopfer und mehrere Verletzte. Die Anti-Terror-Staatsanwaltschaft ermittelt.</itunes:summary>
-    <pubDate>Fri, 23 Oct 2026 20:05:00 GMT</pubDate>
-    <guid isPermaLink="false">podcast-paris-schuesse-terrorverdacht</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-paris-schuesse-terrorverdacht.mp3" length="2836077" type="audio/mpeg"/>
-    <itunes:duration>00:05:54</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>

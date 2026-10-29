@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-28T21:22:34.982508Z",
+ "stand": "2026-10-29T19:48:30.849646Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -34,6 +34,120 @@
    "rolle": "fragt kritisch nach, benennt was offen ist"
   }
  ],
- "folgen": [],
- "hinweis": "Alte Folgen mit fehlerhaften Stimmen (de_DE-mls) am 29.10.2026 entfernt."
+ "folgen": [
+  {
+   "id": "podcast-csu-parteitag-merz-aigner",
+   "themaId": "csu-parteitag-merz-aigner",
+   "art": "podcast",
+   "titel": "Debatte über die Nachfolge des Bundespräsidenten",
+   "text": "In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.",
+   "zeit": "2026-10-29T19:48:30.849646Z",
+   "besetzung": [
+    "Thorsten",
+    "Sigrid",
+    "Malte",
+    "Nora"
+   ],
+   "d": "folge-podcast-csu-parteitag-merz-aigner.mp3",
+   "l": 386.57,
+   "b": 3093165,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Willkommen zu unserem Podcast. Heute geht es um die Debatte über die Nachfolge des Bundespräsidenten Frank-Walter Steinmeier. Bevor wir inhaltlich starten, ein kurzer technischer Hinweis: Alle Stimmen dieser Sendung sind Computerstimmen. Ich begrüße heute meine Kolleginnen und Kollegen im Studio."
+    },
+    {
+     "s": 16.41,
+     "wer": "Thorsten",
+     "text": "Mit dabei sind Sigrid, Malte und Nora. Wir wollen besprechen, wer auf Frank-Walter Steinmeier im höchsten Staatsamt folgen könnte. Die Amtszeit des aktuellen Bundespräsidenten endet im März 2027. Schauen wir zuerst auf den groben Rahmen der Debatte."
+    },
+    {
+     "s": 32.36,
+     "wer": "Sigrid",
+     "text": "Die Suche nach einer Nachfolge sorgt aktuell für spürbare parteiinterne Debatten in der Union. Dabei geht es um die Frage, welche Partei das Vorschlagsrecht für sich beansprucht. Bundeskanzler Friedrich Merz betont dieses Recht ganz klar für die CDU. Auf der anderen Seite bringt die CSU aber bereits eigene Personalvorschläge ins Spiel."
+    },
+    {
+     "s": 53.12,
+     "wer": "Malte",
+     "text": "Die Quellenlage ist hier recht eindeutig, wie Berichte von Tagesschau und ARD, ZDFheute, Spiegel, FAZ und Deutscher Welle zeigen. Einig sind sich alle Beteiligten über den groben Zeitplan. Frank-Walter Steinmeier scheidet im März 2027 nach zwei Amtszeiten aus dem Amt aus. Die Bundesversammlung tritt am dreißigsten Januar 2027 in Berlin zusammen, um über seine Nachfolge zu entscheiden."
+    },
+    {
+     "s": 81.73,
+     "wer": "Nora",
+     "text": "Malte hat den festen Wahltermin genannt, aber im Vorfeld ist noch sehr vieles unklar. Die Berichte lassen offen, wie das Verfahren letztlich ablaufen wird. Vor allem wird in Medien unterschiedlich bewertet, ob genannte Namen bereits offizielle Kandidaturen darstellen oder bloß als Testballons gewertet werden müssen. Auch die Frage, ob die CDU am neunten November einen konkreten Namen nennt oder erst nach Gesprächen mit SPD und Grünen entscheidet, bleibt laut ARD unklar."
+    },
+    {
+     "s": 109.38,
+     "wer": "Thorsten",
+     "text": "Damit zu Malte, der sich die verschiedenen Positionen in den Parteien genauer angesehen hat. Wer fordert aktuell was und wie begründen die Beteiligten ihre Standpunkte? Malte, nenne uns doch bitte die Details dazu."
+    },
+    {
+     "s": 121.41,
+     "wer": "Malte",
+     "text": "Bundeskanzler Friedrich Merz pocht auf das Vorschlagsrecht der CDU und fordert einen geordneten Prozess. Er plant dazu Gespräche in den Parteigremien der CDU. Ganz anders positioniert sich da der Koalitionspartner in Bayern. CSU-Chef Markus Söder sprach sich bereits auf dem Parteitag am dreiundzwanzigsten Oktober in München für die bayerische Landtagspräsidentin Ilse Aigner aus."
+    },
+    {
+     "s": 147.0,
+     "wer": "Sigrid",
+     "text": "Malte hat Markus Söder erwähnt, und dieser Vorstoß der CSU hat ja einige Reaktionen ausgelöst. Hubertus Heil von der SPD hat sich beispielsweise lobend über Ilse Aigner geäußert. Aber innerhalb der Union selbst gibt es auch mahnende Stimmen, die den Ball flach halten wollen. Außenminister Johann Wadephul von der CDU forderte ausdrücklich Zurückhaltung und Disziplin in dieser Personaldebatte."
+    },
+    {
+     "s": 170.8,
+     "wer": "Nora",
+     "text": "Sigrid, zu diesen Stimmen aus anderen Parteien passt auch die Forderung von Omid Nouripour von Bündnis neunzig die Grünen. Er verlangt nämlich eine überparteiliche und integrierende Persönlichkeit für das höchste Staatsamt. Das zeigt doch, dass die Union diesen Posten nicht einfach im stillen Kämmerlein ausmachen kann, wenn es nach den anderen Parteien geht. Und in der CDU wird neben dem Kanzleranspruch ja auch über weitere Namen gesprochen."
+    },
+    {
+     "s": 193.25,
+     "wer": "Malte",
+     "text": "Genau, Nora, in der CDU wird neben den offiziellen Gremienberatungen auch der Name von Ines Claus diskutiert. Sie hat am siebenundzwanzigsten Oktober Interesse signalisiert und wird als mögliche Kandidatin gehandelt. Ob sie jedoch echte Chancen hat oder nur als Testballon dient, ist in den Analysen von Spiegel und FAZ umstritten. Die Präsidiumssitzung der CDU am neunten November wird hier sicherlich ein wichtiger Meilenstein im Verfahren sein."
+    },
+    {
+     "s": 221.52,
+     "wer": "Thorsten",
+     "text": "Sigrid, wie bewertest du diesen innerparteilichen Wettstreit zwischen CDU und CSU in dieser frühen Phase? Es wirkt ja fast wie ein vorgezogener Machtkampf."
+    },
+    {
+     "s": 230.77,
+     "wer": "Sigrid",
+     "text": "Das kann man durchaus so sehen, Thorsten, wenn man bedenkt, wie schnell Söder den Namen Ilse Aigner platziert hat. Friedrich Merz musste daraufhin reagieren und rief auf dem CSU-Parteitag am vierundzwanzigsten Oktober direkt zu Geschlossenheit auf. Er reiste danach zwar nach Asien, aber das Thema ist damit natürlich nicht vom Tisch. Die Unionsparteien müssen hier erst einmal intern Einigkeit herstellen, bevor sie mit anderen verhandeln können."
+    },
+    {
+     "s": 257.78,
+     "wer": "Nora",
+     "text": "Und genau an dieser Stelle hakt es doch, wie ich finde. Wie Nora eben sagte, also um mich selbst zu zitieren, es ist eben völlig unklar, ob man sich überhaupt auf einen Namen einigen kann. Die Koalitionsparteien kommen zusammen zwar auf sechshundertundzweiundachtzig Gesamtstimmen, und für die Wahl in der Bundesversammlung braucht man mehr als sechshundertundeinunddreißig Stimmen. Die Mehrheit wäre also rechnerisch da, aber der Weg dorthin ist steinig."
+    },
+    {
+     "s": 283.51,
+     "wer": "Malte",
+     "text": "Nora bringt da eine wichtige Zahl ins Spiel. Die sechsthundertundzweiundachtzig Stimmen der Koalitionsparteien bieten eine komfortable Basis. Die notwendige absolute Mehrheit liegt bei mehr als sechshundertundeinunddreißig Stimmen. Dennoch zeigt die Diskussion um Personen wie Ines Claus oder Ilse Aigner, dass die Union ihren Anspruch erst noch intern verhandeln muss."
+    },
+    {
+     "s": 307.08,
+     "wer": "Thorsten",
+     "text": "Sigrid, welche Rolle spielen denn die anderen Parteien bei diesem Auswahlprozess? Sie müssen ja am Ende in der Bundesversammlung ebenfalls mitziehen oder eigene Akzente setzen."
+    },
+    {
+     "s": 317.16,
+     "wer": "Sigrid",
+     "text": "Die anderen Parteien fordern ein transparentes und integres Verfahren, wie wir bei den Grünen gehört haben. Omid Nouripour hat ja eine überparteiliche Persönlichkeit gefordert. Auch wenn die Union rein rechnerisch gute Karten hat, wird man sich den Blick der Öffentlichkeit und der Opposition gefallen lassen müssen. Ein Alleingang der Union, der völlig an den anderen Parteien vorbeigeht, könnte das Amt beschädigen."
+    },
+    {
+     "s": 340.93,
+     "wer": "Nora",
+     "text": "Malte hat vorhin den neunten November als den großen Termin der CDU genannt. Glaubst du, dass wir an diesem Tag bereits einen konkreten Namen hören werden? Die Berichte lassen das ja bewusst offen."
+    },
+    {
+     "s": 352.67,
+     "wer": "Malte",
+     "text": "Das ist laut den vorliegenden Berichten von Tagesschau und ARD eben noch völlig unklar. Ob am neunten November ein konkreter Name genannt wird oder ob man erst nach weiteren Gesprächen mit der SPD und den Grünen Nägel mit Köpfen macht, ist nicht entschieden. Die Parteigremien der CDU beraten an diesem Tag erst einmal über das weitere Vorgehen."
+    },
+    {
+     "s": 372.77,
+     "wer": "Thorsten",
+     "text": "Damit fassen wir zusammen: Der Zeitplan bis zum dreißigsten Januar 2027 steht, aber die Personalfragen sind völlig offen. Wir danken Sigrid, Malte und Nora für diese Einordnung. Damit sind wir am Ende dieser Ausgabe angelangt."
+    }
+   ]
+  }
+ ]
 }
