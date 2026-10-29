@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 29 Oct 2026 19:48:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 21:26:03 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
@@ -13,6 +13,16 @@
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <item>
+    <title>Waffenruhe für Hilfsaktion in Oleschky ausgeweitet</title>
+    <description>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</description>
+    <itunes:summary>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</itunes:summary>
+    <pubDate>Thu, 29 Oct 2026 21:26:03 +0000</pubDate>
+    <guid isPermaLink="false">podcast-feuerpause-oleschky-ukraine</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-feuerpause-oleschky-ukraine.mp3" length="3116013" type="audio/mpeg"/>
+    <itunes:duration>00:06:29</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Debatte über die Nachfolge des Bundespräsidenten</title>
     <description>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</description>
