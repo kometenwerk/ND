@@ -1,6 +1,134 @@
 {
- "stand": "2026-10-29T12:53:13.231Z",
+ "stand": "2026-10-29T18:56:08.491Z",
  "stuecke": [
+  {
+   "id": "warum-helfen-menschen-bei-notfaellen-manchmal-nicht",
+   "zeit": "2026-10-29T19:19:20.043Z",
+   "bereich": "Gesellschaft und Zusammenleben",
+   "titel": "Warum helfen Menschen bei Notfällen manchmal nicht?",
+   "vorspann": "Manchmal greifen Menschen in Notsituationen nicht ein. Die Sozialpsychologie untersucht dieses Phänomen.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Der Zuschauereffekt beschreibt das Phänomen, dass einzelne Personen weniger wahrscheinlich in eine Notsituation eingreifen, je mehr andere Personen vor Ort sind. Bibb Latané und Darley haben den Effekt nach dem Mord an Kitty Genovese beschrieben. Catherine Genovese wurde im Jahr 1964 in New York ermordet. Den Mord sollen Berichten zufolge 38 Personen beobachtet und nicht eingreifend begleitet haben.",
+      "Obwohl die Angaben bezüglich der Zeugen auf Falschmeldungen basieren, taucht die Geschichte in Lehrbüchern auf. Die Sozialpsychologie liefert verschiedene Erklärungsansätze für das Auftreten des Zuschauereffekts. In der Vergangenheit wurde zudem die Urban-Overload-Hypothese als Erklärung diskutiert. Neuere Studien stellen die Existenz des Zuschauereffekts jedoch in Frage."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "In der Sozialpsychologie haben sich drei zentrale Erklärungen für dieses Verhalten etabliert. Die Verantwortungsdiffusion beschreibt das Gefühl einer einzelnen Person, weniger Verantwortung zu tragen, wenn mehrere Zuschauende anwesend sind. Bei der Bewertungsangst fürchtet man, dass andere Zuschauende einen negativ beurteilen, wenn man in die Situation eingreift.",
+      "Pluralistische Ignoranz bezeichnet die Überzeugung, dass es sich nicht um eine Notsituation handeln kann, weil keine andere Person eingreift. Latané und Darley entwickelten ein Fünf-Stufen-Modell für den Entscheidungsprozess. Auf den Stufen zwei, drei und fünf kann sich die Anwesenheit anderer negativ auf das Hilfeverhalten auswirken."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Zahlreiche Forschungsarbeiten entstanden aufgrund des Ereignisses in New York. Latané und Darley untersuchten in einer Studie, wie sich Menschen in einer unklaren Situation beeinflussen lassen. Moriarty zeigte in einer Studie aus dem Jahr 1975 an einem Strand das Verantwortungsgefühl von Personen. Darley und Batson untersuchten im Jahr 1973 das Hilfeverhalten von Theologiestudenten.",
+      "Eine Untersuchung auf der Grundlage von 219 Aufnahmen öffentlicher Kameras erschien im Jahr 2019. Eine Meta-Analyse aus dem Jahr 2011 berichtete weitere Faktoren, die den Zuschauereffekt abschwächten. Forscher wie McMillen, Sanders und Solomon führten Studien zur Stimmung und zum Hilfeverhalten durch."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Obwohl der Zuschauereffekt in verschiedenen Untersuchungen beobachtet wurde, gibt es Forschung, die zeigt, dass der Effekt nicht uneingeschränkt gültig ist. Neuere Studien stellen die Existenz des Zuschauereffekts überhaupt in Frage."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Jahr des Mordes an Kitty Genovese",
+     "1964"
+    ],
+    [
+     "Anzahl der beobachtenden Personen laut Berichten",
+     "38"
+    ],
+    [
+     "Prozentzahl der Hilfe bei lebhaften Notfällen",
+     "89 Prozent"
+    ],
+    [
+     "Prozentzahl der Hilfe bei nicht lebhaften Notfällen",
+     "13 Prozent"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Zuschauereffekt",
+     "Das Phänomen, dass Personen weniger wahrscheinlich in eine Notsituation eingreifen, je mehr andere Personen anwesend sind."
+    ],
+    [
+     "Verantwortungsdiffusion",
+     "Das Gefühl einer einzelnen Person, weniger Verantwortung zu tragen, wenn mehrere Zuschauende anwesend sind."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wer hat den Zuschauereffekt erstmals beschrieben?",
+     "optionen": [
+      "Bibb Latané und Darley",
+      "McMillen und Sanders",
+      "Moriarty"
+     ],
+     "richtig": 0,
+     "erklaerung": "Bibb Latané und Darley haben den Effekt erstmals nach dem Mord an Kitty Genovese beschrieben."
+    }
+   ],
+   "video": [
+    "Der Zuschauereffekt beschreibt ein bekanntes Phänomen in der Psychologie.",
+    "Je mehr andere Personen anwesend sind, desto seltener helfen Menschen.",
+    "Wissenschaftler untersuchten dieses Verhalten nach einem Vorfall im Jahr neunzehnhundertvierundsechzig.",
+    "Drei Hauptgründe erklären dieses Verhalten in Gefahrensituationen.",
+    "Dazu gehören Verantwortungsdiffusion und Bewertungsangst.",
+    "Auch pluralistische Ignoranz spielt eine wichtige Rolle dabei.",
+    "Neuere Studien stellen die Existenz des Effekts jedoch in Frage."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Zuschauereffekt",
+    "bildunterschrift": "Der Zuschauereffekt beschreibt das Verhalten von Menschen in Notsituationen."
+   },
+   "quelle": {
+    "titel": "Zuschauereffekt",
+    "url": "https://de.wikipedia.org/wiki/Zuschauereffekt",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 317,
+   "bildInfos": [
+    {
+     "titel": "Österreichische Bundespolizei 02.jpg",
+     "beschreibung": "Eine Beamtin der österreichischen Bundespolizei mit Uniformhemd und Tellerkappe weiß.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%C3%96sterreichische_Bundespolizei_02.jpg/1280px-%C3%96sterreichische_Bundespolizei_02.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/%C3%96sterreichische_Bundespolizei_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Bundespolizei_02.jpg",
+     "urheber": "böhringer",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Polizei",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Der Zuschauereffekt beschreibt das Verhalten von Menschen in Notsituationen."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Österreichische Bundespolizei 02.jpg",
+    "beschreibung": "Eine Beamtin der österreichischen Bundespolizei mit Uniformhemd und Tellerkappe weiß.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/%C3%96sterreichische_Bundespolizei_02.jpg/1280px-%C3%96sterreichische_Bundespolizei_02.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/%C3%96sterreichische_Bundespolizei_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:%C3%96sterreichische_Bundespolizei_02.jpg",
+    "urheber": "böhringer",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artikel": "Polizei",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Der Zuschauereffekt beschreibt das Verhalten von Menschen in Notsituationen."
+   }
+  },
   {
    "id": "wie-entsteht-eigentlich-ein-schwarzes-loch",
    "zeit": "2026-10-29T13:17:52.890Z",
@@ -6725,209 +6853,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Pantomime ist eine darstellende Kunst ohne Worte."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-eine-polarlichter-erscheinung-im-wel",
-   "zeit": "2026-10-14T13:50:07.421Z",
-   "bereich": "Weltall",
-   "titel": "Wie entsteht eigentlich eine Polarlichter-Erscheinung im Weltall?",
-   "vorspann": "Polarlichter sind farbige Leuchterscheinungen am Nachthimmel in der Nähe der Pole. Sie entstehen durch geladene Teilchen der Sonne und das Erdmagnetfeld.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Das Polarlicht ist eine Leuchterscheinung in der Hochatmosphäre. Wissenschaftlich heißt es Aurora borealis als Nordlicht auf der Nordhalbkugel und Aurora australis als Südlicht auf der Südhalbkugel. Polarlichter sind meistens in etwa drei bis sechs Breitengrade umfassenden Bändern in der Nähe der Magnetpole zu sehen. Hervorgerufen werden sie durch energiereiche geladene Teilchen, die mit dem Erdmagnetfeld wechselwirken. Dadurch, dass jene Teilchen in den Polarregionen auf die Erdatmosphäre treffen, entsteht das Leuchten am Himmel. Besonders häufig treten Polarlichter in Alaska, Kanada, Finnland, Island und Norwegen auf.",
-      "Auch auf anderen Planeten des Sonnensystems werden diese Erscheinungen beobachtet. Voraussetzung hierfür ist, dass der Planet ein eigenes Magnetfeld und eine Atmosphäre besitzt. Beispielsweise wurden Polarlichter auf dem Mars mithilfe der Sonde MAVEN beobachtet. Im Jahre 2015 konnten Astronomen erstmals Polarlichter außerhalb des Sonnensystems beobachten. Die an dem achtzehn Lichtjahre entfernten Stern LSR J1835+3259 mit geringer Masse beobachteten Aktivitäten waren etwa zehntausendmal stärker als Polarlichter auf dem Jupiter."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Die Sonne ist unstet und kann bei heftigen Sonneneruptionen einen koronalen Massenauswurf hervorbringen. Dieser erreicht nach etwa zwei Tagen die Erde. Dann wird die Magnetosphäre gestört und es entsteht ein geomagnetischer Sturm. Infolgedessen werden Elektronen beschleunigt und bewegen sich um die Erde. Elektronen, die entlang der Magnetfeldlinien zur Erde geleitet werden, treffen auf Sauerstoff- und Stickstoffatome der Erdatmosphäre.",
-      "Die angeregten Atome senden beim Rückfall in den Grundzustand Licht aus. Meistens entsteht grünes oder rotes Phosphoreszenzlicht durch die Sauerstoffatome und Blau und Violett durch die Stickstoffatome. Das rote Licht entsteht in etwa zweihundertfünfzig Kilometer Höhe und das grüne Licht in etwa einhundertzwanzig Kilometer Höhe. Es gibt vier verschiedene Arten von Polarlichtern, welche abhängig von den Sonnenwinden sind. Diese sind Corona, Vorhänge, ruhige Bögen und Bänder."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Die Höhe der Polarlichter wurde schon im achtzehnten Jahrhundert durch Triangulation bestimmt. Dazu musste ein charakteristisches Merkmal von zwei Beobachtern in möglichst großen Abständen angepeilt werden. John Dalton und Henry Cavendish gelang siebzehnhundertneunundachtzig bis siebzehnhundertneunzig so eine Höhenbestimmung von achtzig bis einhundertsechzig Kilometer.",
-      "Carl Störmer erhielt im zwanzigsten Jahrhundert durch zahlreiche Bildauswertungen mittlere Höhen für das grüne Licht von einhundertzehn Kilometern. Zudem helfen frei verfügbare Daten von Weltraummissionen von ESA und NASA zur Erforschung der Sonne und des Sonnenwindes."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Laut dem Artikel ist die statistische Ableitung nicht absolut gesichert, dass Polarlichter hauptsächlich im Herbst und frühen Winter sowie im späten Winter und Frühjahr auftreten, weil hier andere Einflüsse wie das Wetter und die Mitternachtssonne eine Rolle spielen."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Geschwindigkeit koronaler Massenauswurf",
-     "ca. 1000 km/s"
-    ],
-    [
-     "Höhe rotes Licht",
-     "~250 km"
-    ],
-    [
-     "Höhe grüne Licht",
-     "~120 km"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Aurora borealis",
-     "Wissenschaftlicher Begriff für das Nordlicht auf der Nordhalbkugel."
-    ],
-    [
-     "Aurora australis",
-     "Wissenschaftlicher Begriff für das Südlicht auf der Südhalbkugel."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wodurch werden Polarlichter hauptsächlich hervorgerufen?",
-     "optionen": [
-      "Energiereiche geladene Teilchen der Sonne",
-      "Wasserdampf in der unteren Atmosphäre",
-      "Vulkanausbrüche auf der Erde"
-     ],
-     "richtig": 0,
-     "erklaerung": "Polarlichter werden durch energiereiche geladene Teilchen hervorgerufen, die mit dem Erdmagnetfeld wechselwirken und in der Erdatmosphäre auf Atome treffen."
-    }
-   ],
-   "video": [
-    "Polarlichter sind faszinierende Leuchterscheinungen am Nachthimmel.",
-    "Sie treten meistens in der Nähe der Magnetpole auf.",
-    "Auslöser sind energiereiche Teilchen der Sonne.",
-    "Diese Teilchen treffen auf die Erdatmosphäre.",
-    "Dort regen sie Sauerstoff und Stickstoff an.",
-    "Das führt zu grünem und rotem Licht.",
-    "Das grüne Licht entsteht in etwa einhundertzwanzig Kilometer Höhe.",
-    "Auch auf anderen Planeten gibt es solche Lichter."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Polarlicht",
-    "bildunterschrift": "Ein Polarlicht leuchtet in bunten Farben am Nachthimmel."
-   },
-   "quelle": {
-    "titel": "Polarlicht",
-    "url": "https://de.wikipedia.org/wiki/Polarlicht",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 393,
-   "bildInfos": [
-    {
-     "titel": "Leuchtturm Akranes Iceland 2015 7001.jpg",
-     "beschreibung": "Leuchtturm Akranes Iceland",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Leuchtturm_Akranes_Iceland_2015_7001.jpg",
-     "urheber": "Theo Schacht",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "artikel": "Polarlicht",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein Polarlicht leuchtet in bunten Farben am Nachthimmel."
-    },
-    {
-     "titel": "Amundsen-Scott marsstation ray h edit.jpg",
-     "beschreibung": "A full moon and 25 second exposure allowed sufficient light into this photo taken at Amundsen-Scott South Pole Station during the long Antarctic night . The new station can be seen at far left, power ",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg/1280px-Amundsen-Scott_marsstation_ray_h_edit.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Amundsen-Scott_marsstation_ray_h_edit.jpg",
-     "urheber": "Photo by Chris Danals, National Science Foundation",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A full moon and 25 second exposure allowed sufficient light into this photo taken at Amundsen-Scott South Pole Station during the long Antarctic night . The new station can be seen at far left, power "
-    },
-    {
-     "titel": "Aurora2.jpg",
-     "beschreibung": "Purple polar aurora seen from Alaska",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aurora2.jpg/1280px-Aurora2.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aurora2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aurora2.jpg",
-     "urheber": "Jan Curtis of the Geophysical Institute at the University of Alaska, ACRC",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Purple polar aurora seen from Alaska"
-    },
-    {
-     "titel": "Aurora Australis From Melbourne.jpg",
-     "beschreibung": "Photographed from Southern Melbourne (38° S)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/1280px-Aurora_Australis_From_Melbourne.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aurora_Australis_From_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_Melbourne.jpg",
-     "urheber": "Yash Soorma",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Photographed from Southern Melbourne (38° S)"
-    },
-    {
-     "titel": "Aurora Saturn.jpg",
-     "beschreibung": "Saturn with ultraviolet Aurorae, photographed in October 1997 by the Hubble Space Telescope's Space Telescope Imaging Spectrograph (STIS) from a distance of 810 million miles (1.3 billion kilometers) ",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aurora_Saturn.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aurora_Saturn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Saturn.jpg",
-     "urheber": "J.T. Trauger (Jet Propulsion Laboratory) and NASA/ESA",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Saturn with ultraviolet Aurorae, photographed in October 1997 by the Hubble Space Telescope's Space Telescope Imaging Spectrograph (STIS) from a distance of 810 million miles (1.3 billion kilometers) "
-    },
-    {
-     "titel": "Aurora Seen From Space by NASA.jpg",
-     "beschreibung": "An image from the International Space Station shows a bright green and red aurora over our planet. The red coloring is reportedly caused by nitrogen in the Earth's atmosphere being bombarded with radi",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Aurora_Seen_From_Space_by_NASA.jpg/1280px-Aurora_Seen_From_Space_by_NASA.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aurora_Seen_From_Space_by_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Seen_From_Space_by_NASA.jpg",
-     "urheber": "NASA -- US government agency",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "An image from the International Space Station shows a bright green and red aurora over our planet. The red coloring is reportedly caused by nitrogen in the Earth's atmosphere being bombarded with radi"
-    },
-    {
-     "titel": "Aurora shapes.jpg",
-     "beschreibung": "Polar aurora, Iceland Feb. 2014. Canon EOS 400D, 17mm-f2,8- Iso 1600. First row exposure time 30-20sec, with the naked eye slightly visible. Second row exposure time 4sec., clearly visible.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_shapes.jpg/1280px-Aurora_shapes.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aurora_shapes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_shapes.jpg",
-     "urheber": "Schnuffel2002",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Polar aurora, Iceland Feb. 2014. Canon EOS 400D, 17mm-f2,8- Iso 1600. First row exposure time 30-20sec, with the naked eye slightly visible. Second row exposure time 4sec., clearly visible."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Leuchtturm Akranes Iceland 2015 7001.jpg",
-    "beschreibung": "Leuchtturm Akranes Iceland",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Leuchtturm_Akranes_Iceland_2015_7001.jpg",
-    "urheber": "Theo Schacht",
-    "lizenz": "CC BY-SA 3.0 de",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-    "artikel": "Polarlicht",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein Polarlicht leuchtet in bunten Farben am Nachthimmel."
    }
   }
  ]
