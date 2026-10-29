@@ -1,6 +1,183 @@
 {
- "stand": "2026-10-29T05:39:32.003Z",
+ "stand": "2026-10-29T12:53:13.231Z",
  "stuecke": [
+  {
+   "id": "wie-entsteht-eigentlich-ein-schwarzes-loch",
+   "zeit": "2026-10-29T13:17:52.890Z",
+   "bereich": "Weltall",
+   "titel": "Wie entsteht eigentlich ein Schwarzes Loch?",
+   "vorspann": "Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Ein Schwarzes Loch ist ein Objekt, dessen Masse die Raumzeit extrem stark krümmt. Materie, Licht und jegliche Information bleiben auf einen bestimmten Bereich beschränkt. Dieser Bereich kann von außen nicht mehr verlassen werden. Die Grenze dazu nennt man den Ereignishorizont. In der Ansicht eines weit entfernten Beobachters zeigt sich im Zentrum ein dunkler bis schwarzer Bereich. Diesen nennt man den Schatten des Schwarzen Lochs.",
+      "Die Struktur der Raumzeit eines Schwarzen Lochs wird durch die allgemeine Relativitätstheorie beschrieben. Es gibt unterschiedliche Klassen von Schwarzen Löchern mit eigenen Entstehungsmechanismen. Stellare Schwarze Löcher entstehen bei dem Kollaps von gealterten massereichen Sternen. Supermassereiche Schwarze Löcher stehen im Zentrum von Galaxien und besitzen eine millionen- bis milliardenfache Sonnenmasse. Die Gravitationskraft führt dabei zu einer starken Kompression der Masse."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Allgemein erzeugt die Masse eines Körpers immer Gravitationskräfte. Normalerweise verhindern Gegenkräfte im Inneren eine weitere Kompression, sodass ein Gleichgewicht entsteht. Wenn jedoch eine kritische Dichte überschritten wird, reichen diese Gegenkräfte nicht mehr aus. Ein Gravitationskollaps ist die unvermeidliche Folge dieses Prozesses. Die Gravitationskraft steigt dabei schneller an als die Gegenkräfte.",
+      "Sterne mit Massen oberhalb von etwa vierzig Sonnenmassen enden am Ende ihrer Entwicklung als Schwarzes Loch. Bei kleineren Massen zwischen etwa acht und fünfundzwanzig Sonnenmassen entstehen meist Neutronensterne. Die Masse fällt bei einem Kollaps auf ein verschwindendes Volumen zusammen. Die immer weiter ansteigende Gravitation verzerrt lokal den Raum und die Zeit. Von außen betrachtet verlangsamt sich dieser Kollaps, und abgegebene Lichtstrahlen werden immer energieärmer."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Albert Einstein stellte im Jahr 1915 die Feldgleichungen der allgemeinen Relativitätstheorie auf. Kurz darauf gab der Astronom Karl Schwarzschild im Jahr 1916 eine Metrik für das Gravitationsfeld an. Die Bezeichnung Schwarzes Loch wurde im Jahr 1967 durch John Archibald Wheeler etabliert. Später folgten zahlreiche Beobachtungen von Auswirkungen Schwarzer Löcher durch die Forschung. Dazu gehören Untersuchungen des supermassereichen Schwarzen Lochs Sagittarius A* im Zentrum der Milchstraße.",
+      "Im Jahr 2016 wurde die Fusion zweier Schwarzer Löcher über Gravitationswellen durch LIGO beobachtet. Im Jahr 2019 gelang zudem eine radioteleskopische Aufnahme des Schwarzen Lochs M87* mit dem Event Horizon Telescope. Im Jahr 2022 folgte die Abbildung von Sagittarius A* ebenfalls mit diesem Teleskop. Für ihre Forschungen zu Schwarzen Löchern erhielten Roger Penrose, Reinhard Genzel und Andrea Ghez im Jahr 2020 den Nobelpreis für Physik."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "In den 2000er Jahren wurden experimentelle Untersuchungen von Phänomenen wie der Hawking-Strahlung an Analoga gestartet. Dabei handelt es sich nicht um echte gravitative Systeme, sondern um akustische, elektromagnetische oder optische Modelle."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Etablierung des Begriffs Schwarzes Loch",
+     "1967"
+    ],
+    [
+     "Nobelpreis für Physik an Forscher von Schwarzen Löchern",
+     "2020"
+    ],
+    [
+     "Erste Aufnahme von M87*",
+     "2019"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Ereignishorizont",
+     "Die Grenze eines Schwarzen Lochs, ab der Materie und Licht nicht mehr entkommen können."
+    ],
+    [
+     "Gravitationskollaps",
+     "Der Zusammensturz eines massereichen Sterns unter seiner eigenen Schwerkraft."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wer etablierte die Bezeichnung Schwarzes Loch im Jahr 1967?",
+     "optionen": [
+      "John Archibald Wheeler",
+      "Albert Einstein",
+      "Karl Schwarzschild"
+     ],
+     "richtig": 0,
+     "erklaerung": "John Archibald Wheeler etablierte den Begriff im Jahr 1967."
+    }
+   ],
+   "video": [
+    "Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft.",
+    "Selbst Licht kann diesem Bereich nicht mehr entkommen.",
+    "Die Grenze dieses Bereichs nennt man den Ereignishorizont.",
+    "Stellare Schwarze Löcher entstehen durch den Kollaps von massereichen Sternen.",
+    "Albert Einstein legte 1915 die Grundlagen mit der Relativitätstheorie.",
+    "Karl Schwarzschild berechnete im Jahr 1916 das Gravitationsfeld.",
+    "Im Jahr 2019 gelang das erste Bild eines Schwarzen Lochs.",
+    "Forschende erhielten dafür im Jahr 2020 den Nobelpreis für Physik."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Schwarzes Loch",
+    "bildunterschrift": "Ein Schwarzes Loch krümmt die Raumzeit so stark, dass kein Licht entkommen kann."
+   },
+   "quelle": {
+    "titel": "Schwarzes Loch",
+    "url": "https://de.wikipedia.org/wiki/Schwarzes_Loch",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 398,
+   "bildInfos": [
+    {
+     "titel": "Black hole - Messier 87 crop max res.jpg",
+     "beschreibung": "The Event Horizon Telescope (EHT) — a planet-scale array of eight ground-based radio telescopes forged through international collaboration — was designed to capture images of a black hole . In coordin",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg",
+     "urheber": "Event Horizon Telescope , uploader cropped and converted TIF to JPG",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Schwarzes Loch",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein Schwarzes Loch krümmt die Raumzeit so stark, dass kein Licht entkommen kann."
+    },
+    {
+     "titel": "Black Hole Milkyway.jpg",
+     "beschreibung": "A simulated Black Hole of ten solar masses as seen from a distance of 600km with the Milky Way in the background (horizontal camera opening angle: 90°) More Information: Step by Step into a Black Hole",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Black_Hole_Milkyway.jpg/1280px-Black_Hole_Milkyway.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_Hole_Milkyway.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Black_Hole_Milkyway.jpg",
+     "urheber": "Ute Kraus , Physics education group Kraus, Universität Hildesheim, Space Time Travel , (ba",
+     "lizenz": "CC BY-SA 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "A simulated Black Hole of ten solar masses as seen from a distance of 600km with the Milky Way in the background (horizontal camera opening angle: 90°) More Information: Step by Step into a Black Hole"
+    },
+    {
+     "titel": "Ergosphäre und Ereignishorizonte eines rotierenden schwarzen Lochs.png",
+     "beschreibung": "Diagramm der Ergosphäre und des inneren und äußeren Ereignishorizonts eines rotierendes schwarzen Lochs. \"a\" ist der Spin-Parameter des SL; die Achsen sind in Einheiten von GM/c². Animation: klick",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ergosph%C3%A4re_und_Ereignishorizonte_eines_rotierenden_schwarzen_Lochs.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ergosph%C3%A4re_und_Ereignishorizonte_eines_rotierenden_schwarzen_Lochs.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Ergosph%C3%A4re_und_Ereignishorizonte_eines_rotierenden_schwarzen_Lochs.png",
+     "urheber": "Yukterez (Simon Tyran, Vienna)",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Diagramm der Ergosphäre und des inneren und äußeren Ereignishorizonts eines rotierendes schwarzen Lochs. \"a\" ist der Spin-Parameter des SL; die Achsen sind in Einheiten von GM/c². Animation: klick"
+    },
+    {
+     "titel": "Karl schwarzschild.portrait.jpg",
+     "beschreibung": "Karl Schwarzschild, German physicist",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Karl_schwarzschild.portrait.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/05/Karl_schwarzschild.portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Karl_schwarzschild.portrait.jpg",
+     "urheber": "Not mentioned",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Karl Schwarzschild, German physicist"
+    },
+    {
+     "titel": "Microquasar GRO J1655-40.jpg",
+     "beschreibung": "Artist's rendition of a black hole with an orbiting companion star that overflows its Roche lobe. Mass from the companion star is drawn towards the black hole, forming an accretion disk. GRO J1655-40 ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Microquasar_GRO_J1655-40.jpg/1280px-Microquasar_GRO_J1655-40.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Microquasar_GRO_J1655-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Microquasar_GRO_J1655-40.jpg",
+     "urheber": "ESA, NASA, and Felix Mirabel (French Atomic Energy Commission and Institute for Astronomy ",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Artist's rendition of a black hole with an orbiting companion star that overflows its Roche lobe. Mass from the companion star is drawn towards the black hole, forming an accretion disk. GRO J1655-40 "
+    }
+   ],
+   "bildInfo": {
+    "titel": "Black hole - Messier 87 crop max res.jpg",
+    "beschreibung": "The Event Horizon Telescope (EHT) — a planet-scale array of eight ground-based radio telescopes forged through international collaboration — was designed to capture images of a black hole . In coordin",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg/1280px-Black_hole_-_Messier_87_crop_max_res.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Black_hole_-_Messier_87_crop_max_res.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Black_hole_-_Messier_87_crop_max_res.jpg",
+    "urheber": "Event Horizon Telescope , uploader cropped and converted TIF to JPG",
+    "lizenz": "CC BY 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "artikel": "Schwarzes Loch",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein Schwarzes Loch krümmt die Raumzeit so stark, dass kein Licht entkommen kann."
+   }
+  },
   {
    "id": "die-liste-der-aegyptischen-pyramiden",
    "zeit": "2026-10-29T05:47:47.414Z",
@@ -6751,178 +6928,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Polarlicht leuchtet in bunten Farben am Nachthimmel."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-eine-supernova",
-   "zeit": "2026-10-14T07:46:44.491Z",
-   "bereich": "Weltall",
-   "titel": "Wie entsteht eigentlich eine Supernova?",
-   "vorspann": "Eine Supernova ist das helle Aufleuchten eines großen Sterns am Ende seiner Lebenszeit durch eine Explosion. Dabei wird der Stern selbst vernichtet.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Eine Supernova ist das kurzzeitige, helle Aufleuchten eines massereichen Sterns am Ende seiner Lebenszeit. Dabei explodiert der Stern, und der ursprüngliche Stern wird dabei vernichtet. Die Leuchtkraft nimmt millionen- bis milliardenfach zu. Der Stern wird für kurze Zeit so hell wie eine ganze Galaxie. Innerhalb von Sekunden wird sehr viel Energie freigesetzt.",
-      "Man kennt zwei grundsätzliche Mechanismen für die Entstehung einer Supernova. Der erste Mechanismus betrifft massereiche Sterne mit einer Anfangsmasse von mehr als etwa acht Sonnenmassen, deren Kern am Ende ihrer Entwicklung kollabiert. Der zweite Mechanismus betrifft Sterne mit geringerer Masse, die als Weißer Zwerg Material aufnehmen, bis sie kollabieren."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Bei einer thermonuklearen Supernova oder Supernova vom Typ Ia nimmt ein Weißer Zwerg Material von einem Begleiter in einem Doppelsternsystem auf. Wenn er eine bestimmte Grenzmasse erreicht, zündet der Kohlenstoff im Kern. In Sekundenbruchteilen wird der komplette Kohlenstoffvorrat verbrannt, und der Stern explodiert.",
-      "Bei einer Kernkollaps- oder hydrodynamischen Supernova tritt die Explosion am Ende des Lebens eines massereichen Sterns auf, wenn er seinen Kernbrennstoff komplett verbraucht hat. Sobald der Brennstoff im Kern versiegt, fällt der Stern unter dem Einfluss seiner Gravitation zusammen. Es kommt zu verschiedenen Fusionsstufen, bis der Kern kollabiert."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Bekannte historische Supernovae wie die von Tycho Brahe aus dem Jahr 1572 und von Johannes Kepler aus dem Jahr 1604 haben die Astronomie geprägt. Sie widerlegten die klassische Auffassung von der Unveränderlichkeit der Fixsternsphäre. Die Benennung erfolgt heute mit dem Vorsatz SN, dem Entdeckungsjahr und einem alphabetischen Zusatz."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Zu den Entstehungsmodellen der Supernova vom Typ Ia wird in der Forschung diskutiert, ob die Kernfusion als Detonation oder Deflagration abläuft oder ob Magnetfelder eine Rolle spielen."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Energie eines Foe",
-     "10 hoch 44 Joule"
-    ],
-    [
-     "Geschätzte Supernovae in der Milchstraße",
-     "20 pro Jahrtausend"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Supernova",
-     "Das helle Aufleuchten und die Explosion eines Sterns am Ende seiner Lebenszeit."
-    ],
-    [
-     "Weißer Zwerg",
-     "Ein Stern mit geringerer Masse im vorläufigen Endstadium."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Was passiert bei einer Supernova mit dem ursprünglichen Stern?",
-     "optionen": [
-      "Er wird vernichtet.",
-      "Er lebt für immer weiter.",
-      "Er wird zu einem Planeten."
-     ],
-     "richtig": 0,
-     "erklaerung": "Der ursprüngliche Stern wird bei der Explosion vernichtet."
-    }
-   ],
-   "video": [
-    "Eine Supernova ist das helle Aufleuchten eines massereichen Sterns am Ende seiner Lebenszeit.",
-    "Dabei explodiert der Stern und wird vollständig vernichtet.",
-    "Die Leuchtkraft nimmt dabei millionen- bis milliardenfach zu.",
-    "Man unterscheidet grundsätzlich zwei verschiedene Mechanismen für diese Explosionen.",
-    "Massereiche Sterne kollabieren am Ende ihrer Entwicklung.",
-    "Sterne mit geringerer Masse nehmen als Weißer Zwerg Material auf.",
-    "Dadurch können sie schließlich ebenfalls explodieren.",
-    "Historische Beobachtungen halfen der Astronomie bei der Erforschung."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Supernova",
-    "bildunterschrift": "Eine Supernova ist das helle Aufleuchten eines Sterns am Ende seiner Lebenszeit."
-   },
-   "quelle": {
-    "titel": "Supernova",
-    "url": "https://de.wikipedia.org/wiki/Supernova",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 267,
-   "bildInfos": [
-    {
-     "titel": "SN1994D.jpg",
-     "beschreibung": "Hubble Space Telescope-Image of Supernova 1994D (SN1994D) in galaxy NGC 4526 (SN 1994D is the bright spot on the lower left)",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:SN1994D.jpg",
-     "urheber": "NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Supernova",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Supernova ist das helle Aufleuchten eines Sterns am Ende seiner Lebenszeit."
-    },
-    {
-     "titel": "SN 1987A (NIRCam image) (SN1987a-1).jpg",
-     "beschreibung": "The NASA/ESA/CSA James Webb Space Telescope has begun the study of one of the most renowned supernovae, SN 1987A (Supernova 1987A). Located 168,000 light-years away in the Large Magellanic Cloud, SN 1",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/SN_1987A_%28NIRCam_image%29_%28SN1987a-1%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/SN_1987A_%28NIRCam_image%29_%28SN1987a-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:SN_1987A_(NIRCam_image)_(SN1987a-1).jpg",
-     "urheber": "NASA, ESA, CSA, M. Matsuura (Cardiff University), R. Arendt (NASA’s Goddard Spaceflight Ce",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "The NASA/ESA/CSA James Webb Space Telescope has begun the study of one of the most renowned supernovae, SN 1987A (Supernova 1987A). Located 168,000 light-years away in the Large Magellanic Cloud, SN 1"
-    },
-    {
-     "titel": "Sig06-028.jpg",
-     "beschreibung": "Crab Nebula (NGC 1952). This composite image uses data from three of NASA's Great Observatories. The Chandra X-ray image is shown in light blue, the Hubble Space Telescope optical images are in green ",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Sig06-028.jpg/1280px-Sig06-028.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Sig06-028.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sig06-028.jpg",
-     "urheber": "X-ray: NASA/CXC/J.Hester (ASU); Optical: NASA/ESA/J.Hester & A.Loll (ASU); Infrared: NASA/",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Crab Nebula (NGC 1952). This composite image uses data from three of NASA's Great Observatories. The Chandra X-ray image is shown in light blue, the Hubble Space Telescope optical images are in green "
-    },
-    {
-     "titel": "Sn2006gy light curve.jpg",
-     "beschreibung": "Original caption: \"This graph shows the intrinsic brightness of SN 2006gy and how it changes over time. The graphic also demonstrates how much brighter SN 2006gy is when compared to typical examples o",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Sn2006gy_light_curve.jpg/1280px-Sn2006gy_light_curve.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/df/Sn2006gy_light_curve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sn2006gy_light_curve.jpg",
-     "urheber": "NASA/CXC/UC Berkeley/N.Smith et al.",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Original caption: \"This graph shows the intrinsic brightness of SN 2006gy and how it changes over time. The graphic also demonstrates how much brighter SN 2006gy is when compared to typical examples o"
-    },
-    {
-     "titel": "White dwarf accretion to type 1a supernova.png",
-     "beschreibung": "Diagram showing accretion by a binary white dwarf star, leading to a type 1a supernova",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/White_dwarf_accretion_to_type_1a_supernova.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/44/White_dwarf_accretion_to_type_1a_supernova.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:White_dwarf_accretion_to_type_1a_supernova.png",
-     "urheber": "FT2",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Diagram showing accretion by a binary white dwarf star, leading to a type 1a supernova"
-    }
-   ],
-   "bildInfo": {
-    "titel": "SN1994D.jpg",
-    "beschreibung": "Hubble Space Telescope-Image of Supernova 1994D (SN1994D) in galaxy NGC 4526 (SN 1994D is the bright spot on the lower left)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/SN1994D.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:SN1994D.jpg",
-    "urheber": "NASA/ESA, The Hubble Key Project Team and The High-Z Supernova Search Team",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Supernova",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Supernova ist das helle Aufleuchten eines Sterns am Ende seiner Lebenszeit."
    }
   }
  ]

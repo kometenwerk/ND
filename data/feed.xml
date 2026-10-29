@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 29 Oct 2026 05:39:32 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 12:53:13 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-29</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</itunes:summary>
+    <pubDate>Thu, 29 Oct 2026 05:39:32 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-29</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-29.mp3" length="2932365" type="audio/mpeg"/>
+    <itunes:duration>00:08:09</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Kritik an Audi-Plänen für ein neues Werk in den USA</title>
     <description>Wir beleuchten die scharfe Kritik von Bundesumweltminister Carsten Schneider an den Audi-Plänen in den USA. Dabei schauen wir auf den gemeinsamen Auftritt von Audi-Chef Gernot Döllner und US-Präsident Donald Trump.</description>
@@ -34,17 +45,6 @@
     <guid isPermaLink="false">wissen-wie-schrieben-die-alten-aegypter-mit-hieroglyphen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/65a2d635ed.mp3" length="185709" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-28</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Angriff auf Kirche in Jordanien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Debatte über die Nachfolge des Bundespräsidenten · Parlamentswahlen in Israel ohne eindeutige Mehrheitsverhältnisse</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Angriff auf Kirche in Jordanien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Debatte über die Nachfolge des Bundespräsidenten · Parlamentswahlen in Israel ohne eindeutige Mehrheitsverhältnisse</itunes:summary>
-    <pubDate>Wed, 28 Oct 2026 05:30:57 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-28</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-28.mp3" length="3903645" type="audio/mpeg"/>
-    <itunes:duration>00:10:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
