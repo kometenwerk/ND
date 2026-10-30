@@ -1,6 +1,173 @@
 {
- "stand": "2026-10-30T12:45:28.020Z",
+ "stand": "2026-10-30T18:34:09.077Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-ein-touchscreen",
+   "zeit": "2026-10-30T18:38:20.840Z",
+   "bereich": "Technik und Erfindungen",
+   "titel": "Wie funktioniert eigentlich ein Touchscreen?",
+   "vorspann": "Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät zur Steuerung technischer Geräte. Die technische Befehlseingabe bleibt für den Nutzer unsichtbar.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät. Durch die Berührung von Teilen eines Bildes kann der Programmablauf eines technischen Gerätes gesteuert werden. Meistens handelt es sich dabei um einen Computer. Die technische Umsetzung der Befehlseingabe ist für den Nutzer unsichtbar. Dies erzeugt den Eindruck einer unmittelbaren Steuerung eines Computers per Fingerzeig.",
+      "Das berührungsempfindliche Bild kann auf verschiedene Weise erzeugt werden. Es gibt dynamische Erzeugungen mittels Monitoren, über Projektionen oder physische Erzeugungen als Ausdruck. Statt einen Mauszeiger mit einer Maus zu steuern, können ein Finger oder ein Zeigestift verwendet werden. Das kurze Tippen ist dabei die Analogie zum Mausklick. Durch das Ziehen über den Touchscreen lässt sich eine Ziehen-und-Fallenlassen-Operation ausführen."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Es gibt mehrere Funktionsprinzipien zur Umsetzung der Berührungsempfindlichkeit. Dazu gehören resistive Systeme, oberflächen-kapazitive Systeme und projiziert-kapazitive Systeme. Auch induktive Systeme, SAW-Systeme als wellengesteuerte Systeme, optische Systeme und Dispersive-Signal-Technology-Systeme existieren. Optische Systeme nutzen in der Regel Infrarotlicht-Gitter vor dem Monitor.",
+      "Resistive Touchscreens reagieren auf Druck, der zwei elektrisch leitfähige Schichten stellenweise verbindet. Die Schichten bilden einen Spannungsteiler, an dem der elektrische Widerstand gemessen wird. So wird die Position der Druckstelle ermittelt. Oberflächen-kapazitive Touchscreens nutzen eine mit durchsichtigem Metalloxid beschichtete Folie. Eine an den Ecken angelegte Wechselspannung erzeugt ein konstantes elektrisches Feld."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Funktionsweisen sind durch technische Erklärungen und Bauformen genau beschrieben. Bei resistiven Touchscreens zeigt eine mathematische Rechnung, wie Spannungen gemessen werden. Die Abstände zwischen Druckstelle und Rändern lassen sich über gemessene Spannungen und bekannte Breiten errechnen. Bauformen wie Four-Wire oder Five-Wire zeigen, wie Drähte zur Messung eingesetzt werden."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Im bereitgestellten Text werden keine offenen Forschungsfragen genannt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Breite des Touchscreens im Rechenbeispiel",
+     "75 Millimeter"
+    ],
+    [
+     "Angelegte Spannung im Rechenbeispiel",
+     "5 Volt"
+    ],
+    [
+     "Gemessene Spannung U2 im Rechenbeispiel",
+     "2 Volt"
+    ],
+    [
+     "Gemessene Spannung U1 im Rechenbeispiel",
+     "3 Volt"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Touchscreen",
+     "Ein kombiniertes Ein- und Ausgabegerät, das durch Berührung den Programmablauf eines technischen Geräts steuert."
+    ],
+    [
+     "Multi-Touch",
+     "Die Fähigkeit eines Systems, mehrere gleichzeitige Berührungen oder Gesten zu verarbeiten."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Was ist ein Touchscreen?",
+     "optionen": [
+      "Ein kombiniertes Ein- und Ausgabegerät",
+      "Ein reines Ausgabegerät wie ein Fernseher",
+      "Eine mechanische Computermaus"
+     ],
+     "richtig": 0,
+     "erklaerung": "Ein Touchscreen ist laut Artikel ein kombiniertes Ein- und Ausgabegerät."
+    }
+   ],
+   "video": [
+    "Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät.",
+    "Durch Berührung wird der Programmablauf eines Computers gesteuert.",
+    "Die technische Umsetzung bleibt für den Nutzer unsichtbar.",
+    "Es gibt verschiedene Funktionsprinzipien für die Berührungsempfindlichkeit.",
+    "Optische Systeme nutzen Infrarotlicht-Gitter vor dem Monitor.",
+    "Resistive Systeme reagieren auf Druck zwischen zwei Schichten.",
+    "Dabei wird ein elektrischer Widerstand gemessen.",
+    "Manche Systeme verarbeiten auch mehrere Berührungen gleichzeitig."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Touchscreen",
+    "bildunterschrift": "Ein Touchscreen steuert technische Geräte durch Berührung."
+   },
+   "quelle": {
+    "titel": "Touchscreen",
+    "url": "https://de.wikipedia.org/wiki/Touchscreen",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 256,
+   "bildInfos": [
+    {
+     "titel": "IFA 2010 Internationale Funkausstellung Berlin 18.JPG",
+     "beschreibung": "IFA 2010, Berlin",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG/1280px-IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG",
+     "urheber": "Bin im Garten",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "artikel": "Touchscreen",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein Touchscreen steuert technische Geräte durch Berührung."
+    },
+    {
+     "titel": "Broken glass screen Huawei P7.jpg",
+     "beschreibung": "Huawei Ascend P7 with a broken LCD glass layer after a face down drop on concrete",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Broken_glass_screen_Huawei_P7.jpg/1280px-Broken_glass_screen_Huawei_P7.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Broken_glass_screen_Huawei_P7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Broken_glass_screen_Huawei_P7.jpg",
+     "urheber": "Pieceofmetalwork",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Huawei Ascend P7 with a broken LCD glass layer after a face down drop on concrete"
+    },
+    {
+     "titel": "Capacitive touchscreen.jpg",
+     "beschreibung": "Capacitive touchscreen of a mobile phone with clearly visible conductive tracks",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Capacitive_touchscreen.jpg/1280px-Capacitive_touchscreen.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/Capacitive_touchscreen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Capacitive_touchscreen.jpg",
+     "urheber": "Medvedev",
+     "lizenz": "CC BY 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Capacitive touchscreen of a mobile phone with clearly visible conductive tracks"
+    },
+    {
+     "titel": "Hp150 touchscreen 20081129.jpg",
+     "beschreibung": "Touchscreen of the HP Series 100 HP-150",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Hp150_touchscreen_20081129.jpg/1280px-Hp150_touchscreen_20081129.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hp150_touchscreen_20081129.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hp150_touchscreen_20081129.jpg",
+     "urheber": "MyName ( Cinecol ( talk ))",
+     "lizenz": "CC BY 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Touchscreen of the HP Series 100 HP-150"
+    }
+   ],
+   "bildInfo": {
+    "titel": "IFA 2010 Internationale Funkausstellung Berlin 18.JPG",
+    "beschreibung": "IFA 2010, Berlin",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG/1280px-IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:IFA_2010_Internationale_Funkausstellung_Berlin_18.JPG",
+    "urheber": "Bin im Garten",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "artikel": "Touchscreen",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein Touchscreen steuert technische Geräte durch Berührung."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-die-stenografie",
    "zeit": "2026-10-30T13:04:32.838Z",
@@ -6641,206 +6808,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
-   }
-  },
-  {
-   "id": "wie-funktionierte-die-geheimschrift-enigma",
-   "zeit": "2026-10-15T18:18:30.070Z",
-   "bereich": "Geschichte",
-   "titel": "Wie funktionierte die Geheimschrift Enigma?",
-   "vorspann": "Die Enigma ist eine bekannte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert. Im Zweiten Weltkrieg nutzten die Achsenmächte sie für ihre Nachrichten.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Im Ersten Weltkrieg suchten deutsche Militärs nach einem Ersatz für unsichere manuelle Verschlüsselungsverfahren. Erfinder der Enigma ist Arthur Scherbius, dessen erstes Patent vom 23. Februar 1918 stammt. Nach dem Krieg wurde die Maschine für zivile Anwendungen vermarktet, was jedoch kein kommerzieller Erfolg wurde. Schließlich sahen die deutschen Militärs die maschinelle Verschlüsselung als die sicherste Lösung an. Im Jahr 1926 setzte die Reichsmarine ein Enigma-Modell versuchsweise ein und ab 1927 wurde es im Geheimen gefertigt. Am 1. Juni 1930 wurde dieses Modell unter dem Namen Enigma I von der Reichswehr offiziell in Dienst gestellt.",
-      "Die Enigma I war das während des Zweiten Weltkriegs auf deutscher Seite am häufigsten benutzte Maschinenschlüsselverfahren. Neben der Enigma I kamen auch andere Modelle wie die Enigma-G oder die Enigma-M4 zum Einsatz. Eine Enigma I wiegt inklusive Holzgehäuse rund zwölf Kilogramm und besteht aus einer Tastatur, einem Walzensatz und einem Glühlampenfeld. Beim Drücken einer Buchstabentaste leuchtet eine Anzeigelampe auf, die der Verschlüsselung des gedruckten Buchstabens entspricht. Nach Ende des Krieges wurden einige Maschinen in der Schweiz weiterverwendet und in Norwegen als Norenigma eingesetzt."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Alle Enigma-Glühlampenchiffriermaschinen bestehen aus einer Tastatur zur Buchstabeneingabe, einem Walzensatz zur Verschlüsselung und einem Glühlampenfeld zur Anzeige. Bei der Enigma I sind es drei Walzen, die nebeneinander unabhängig drehbar angeordnet sind. Drückt man eine Buchstabentaste, fließt elektrischer Strom durch den Walzensatz und lässt eine Anzeigelampe aufleuchten. Bei jedem Tastendruck drehen sich die Walzen weiter, wodurch sich das geheime Schlüsselalphabet nach jedem Buchstaben ändert. Als zusätzliche kryptographische Komplikation ist an der Gerätefront ein Steckerbrett mit doppelpoligen Steckbuchsen angebracht.",
-      "Der Benutzer wählte nach Vorgabe einer geheimen Schlüsseltabelle drei Walzen aus und setzte diese nach einer vorgeschriebenen Anordnung ein. Der Tagesschlüssel wurde beim Heer um Mitternacht gewechselt und bei der Luftwaffe um drei Uhr nachts. Die Ringe an jedem Walzenkörper bestimmen den Rotationsversatz zwischen der inneren Verdrahtung und den außen zu sehenden Buchstaben oder Zahlen. Der Strom fließt beim Tastendruck durch das Steckerbrett, durchläuft alle drei Walzen, erreicht die Umkehrwalze und fließt ein zweites Mal durch den Walzensatz zurück. Am Ende leuchtet die Anzeigelampe auf, die den verschlüsselten Buchstaben anzeigt."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Über die Enigma gibt es offizielle historische Aufzeichnungen und Patente wie das erste Patent von Arthur Scherbius vom 23. Februar 1918. Zudem ist bekannt, dass den Alliierten die Entzifferung der Funksprüche gelang, was bis 1974 geheim gehalten wurde."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Erstes Patent von Arthur Scherbius",
-     "23. Februar 1918"
-    ],
-    [
-     "Offizielle Indienststellung der Enigma I",
-     "1. Juni 1930"
-    ],
-    [
-     "Gewicht der Enigma I mit Holzgehäuse",
-     "rund 12 kg"
-    ],
-    [
-     "Hergestellte Enigma-Maschinen insgesamt",
-     "etwa 40.000"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Enigma",
-     "Eine Sammelbezeichnung für eine Reihe von Rotor-Chiffriermaschinen zur Verschlüsselung von Nachrichten."
-    ],
-    [
-     "Walzensatz",
-     "Ein Satz aus mehreren drehbaren Walzen, der den elektrischen Strom bei der Verschlüsselung umleitet."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann wurde die Enigma I von der Reichswehr in Dienst gestellt?",
-     "optionen": [
-      "1. Juni 1930",
-      "23. Februar 1918",
-      "9. Juli 1923"
-     ],
-     "richtig": 0,
-     "erklaerung": "Laut dem Text wurde die Enigma I am 1. Juni 1930 offiziell in Dienst gestellt."
-    }
-   ],
-   "video": [
-    "Die Enigma ist eine berühmte Verschlüsselungsmaschine aus dem zwanzigsten Jahrhundert.",
-    "Arthur Scherbius erfand die Maschine, deren erstes Patent von achtzehnte Februar neunzehnhundertachtzehn stammt.",
-    "Im Zweiten Weltkrieg nutzte die Wehrmacht vor allem die Enigma I.",
-    "Die Maschine besteht aus einer Tastatur, einem Walzensatz und einem Glühlampenfeld.",
-    "Beim Tippen eines Buchstabens fließt Strom durch rotierende Walzen.",
-    "Dadurch leuchtet eine andere Lampe auf und verschlüsselt den Buchstaben.",
-    "Zusätzlich verändert das Steckerbrett an der Front die elektrischen Verbindungen.",
-    "Tagesschlüssel bestimmten die genaue Einstellung der Walzen für den Betrieb."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Enigma (Maschine)",
-    "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
-   },
-   "quelle": {
-    "titel": "Enigma (Maschine)",
-    "url": "https://de.wikipedia.org/wiki/Enigma_(Maschine)",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 381,
-   "bildInfos": [
-    {
-     "titel": "Enigma (20967055154).jpg",
-     "beschreibung": "Bletchley Park , Bletchley, Milton Keynes, Buckinghamshire, England.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Enigma_%2820967055154%29.jpg/1280px-Enigma_%2820967055154%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Enigma_%2820967055154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Enigma_(20967055154).jpg",
-     "urheber": "William Warby from London, England",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "artikel": "Enigma (Maschine)",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
-    },
-    {
-     "titel": "Alan Turing az 1930-as években.jpg",
-     "beschreibung": "Alan Turing az 1930-as években.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Alan_Turing_az_1930-as_%C3%A9vekben.jpg",
-     "urheber": "Unknown author Unknown author",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Alan Turing az 1930-as években."
-    },
-    {
-     "titel": "Bletchley Park Mansion.jpg",
-     "beschreibung": "Bletchley Park Mansion. This house was the headquarters for British codebreakers during World War II. The mansion is a Grade II Listed Building in England.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bletchley_Park_Mansion.jpg/1280px-Bletchley_Park_Mansion.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bletchley_Park_Mansion.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bletchley_Park_Mansion.jpg",
-     "urheber": "DeFacto",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Bletchley Park Mansion. This house was the headquarters for British codebreakers during World War II. The mansion is a Grade II Listed Building in England."
-    },
-    {
-     "titel": "Bundesarchiv Bild 101I-769-0229-10A, Frankreich, Guderian, \"Enigma\" cropped.jpg",
-     "beschreibung": "SdKfz.251/3 ausf. A armoured command vehicle",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bundesarchiv_Bild_101I-769-0229-10A%2C_Frankreich%2C_Guderian%2C_%22Enigma%22_cropped.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bundesarchiv_Bild_101I-769-0229-10A%2C_Frankreich%2C_Guderian%2C_%22Enigma%22_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_%22Enigma%22_cropped.jpg",
-     "urheber": "Bundesarchiv_Bild_101I-769-0229-10A,_Frankreich,_Guderian,_\"Enigma\".jpg : Borchert, Erich ",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "SdKfz.251/3 ausf. A armoured command vehicle"
-    },
-    {
-     "titel": "Bundesarchiv Bild 101II-MW-4222-02A, \"Enigma\" auf U-Boot U-124.jpg",
-     "beschreibung": "\"Enigma\" auf U-Boot U-124",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_101II-MW-4222-02A%2C_%22Enigma%22_auf_U-Boot_U-124.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Bundesarchiv_Bild_101II-MW-4222-02A%2C_%22Enigma%22_auf_U-Boot_U-124.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_101II-MW-4222-02A,_%22Enigma%22_auf_U-Boot_U-124.jpg",
-     "urheber": "Dietrich",
-     "lizenz": "CC BY-SA 3.0 de",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "\"Enigma\" auf U-Boot U-124"
-    },
-    {
-     "titel": "DDayMuseumEnigmaMach.jpg",
-     "beschreibung": "ENIGMA machine on display in National World War II Museum, New Orleans .",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/DDayMuseumEnigmaMach.jpg/1280px-DDayMuseumEnigmaMach.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/02/DDayMuseumEnigmaMach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:DDayMuseumEnigmaMach.jpg",
-     "urheber": "Infrogmation of New Orleans",
-     "lizenz": "GFDL",
-     "lizenzUrl": "http://www.gnu.org/copyleft/fdl.html",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "ENIGMA machine on display in National World War II Museum, New Orleans ."
-    },
-    {
-     "titel": "Der Schlüssel M - Verfahren M Allgemein (MDvNr 32-1) booklet.jpg",
-     "beschreibung": "Nazi German secret instruction order M.Dv.Nr. 31/1 - Key M - 1940. Cover page. Instructions for Enigma encryption within the German navy.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_%28MDvNr_32-1%29_booklet.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_%28MDvNr_32-1%29_booklet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Der_Schl%C3%BCssel_M_-_Verfahren_M_Allgemein_(MDvNr_32-1)_booklet.jpg",
-     "urheber": "Deutsche Kriegsmarine",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Nazi German secret instruction order M.Dv.Nr. 31/1 - Key M - 1940. Cover page. Instructions for Enigma encryption within the German navy."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Enigma (20967055154).jpg",
-    "beschreibung": "Bletchley Park , Bletchley, Milton Keynes, Buckinghamshire, England.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Enigma_%2820967055154%29.jpg/1280px-Enigma_%2820967055154%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Enigma_%2820967055154%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Enigma_(20967055154).jpg",
-    "urheber": "William Warby from London, England",
-    "lizenz": "CC BY 2.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-    "artikel": "Enigma (Maschine)",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Enigma-Maschine wurde zur Verschlüsselung von Funksprüchen eingesetzt."
    }
   }
  ]
