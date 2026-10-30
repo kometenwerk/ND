@@ -2260,7 +2260,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 9 und 15 Grad. Die Vorhersage für morgen, ",
+   "d": "9dabeff07b.mp3",
+   "l": 19.64,
+   "s": [
+    0.25,
+    3.75,
+    10.46,
+    13.91,
+    17.04
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -4748,6 +4760,66 @@
       34.06,
       40.45
      ]
+    },
+    {
+     "k": "Ein weiterer Teil der Statistik betrifft den Bezug von Sozialleistungen aus der ",
+     "d": "ef75cc6b67.mp3",
+     "l": 51.05,
+     "s": [
+      0.25,
+      7.63,
+      16.75,
+      20.15,
+      23.96,
+      33.05,
+      37.17,
+      44.58
+     ]
+    },
+    {
+     "k": "Auf dem Ausbildungsmarkt herrscht laut den Berichten von Spiegel und FAZ weiterh",
+     "d": "d6fe7b3776.mp3",
+     "l": 43.9,
+     "s": [
+      0.25,
+      7.06,
+      14.47,
+      20.4,
+      30.02,
+      34.84,
+      37.11,
+      41.36
+     ]
+    },
+    {
+     "k": "Die Vorstandsvorsitzende der Bundesagentur für Arbeit, Andrea Nahles, äußerte si",
+     "d": "73c143be33.mp3",
+     "l": 56.45,
+     "s": [
+      0.25,
+      8.01,
+      17.32,
+      22.79,
+      27.72,
+      32.17,
+      38.51,
+      46.16
+     ]
+    },
+    {
+     "k": "Der Bericht der FAZ führt über die Arbeitsmarktzahlen hinaus weitere wirtschaftl",
+     "d": "c44edf283e.mp3",
+     "l": 43.0,
+     "s": [
+      0.25,
+      5.93,
+      13.57,
+      18.56,
+      23.89,
+      29.02,
+      31.58,
+      35.23
+     ]
     }
    ]
   },
@@ -5238,6 +5310,88 @@
      "s": [
       0.25,
       3.26
+     ]
+    },
+    {
+     "k": "Der Automobilhersteller Audi hat im dritten Quartal des Jahres 2026 einen massiv",
+     "d": "5c893fffd8.mp3",
+     "l": 50.4,
+     "s": [
+      0.25,
+      8.37,
+      13.91,
+      23.55,
+      26.77,
+      33.67,
+      38.15,
+      43.03
+     ]
+    },
+    {
+     "k": "In den ersten neun Monaten des Jahres hat Audi nach Unternehmensangaben 1,2 Mill",
+     "d": "f729eeb54c.mp3",
+     "l": 65.24,
+     "s": [
+      0.25,
+      11.42,
+      16.36,
+      23.5,
+      29.44,
+      38.63,
+      50.97,
+      58.44
+     ]
+    },
+    {
+     "k": "Als Ursache für die wirtschaftliche Lage nennt das Unternehmen das Geschäft in C",
+     "d": "99efea65ce.mp3",
+     "l": 49.54,
+     "s": [
+      0.25,
+      5.0,
+      11.39,
+      18.62,
+      27.14,
+      31.71,
+      42.7
+     ]
+    },
+    {
+     "k": "Unternehmen veröffentlichen regelmäßig Quartalszahlen, um ihre finanzielle Entwi",
+     "d": "d511eac7ae.mp3",
+     "l": 30.81,
+     "s": [
+      0.25,
+      6.01,
+      11.43,
+      14.99,
+      24.96
+     ]
+    },
+    {
+     "k": "Finanzchef Jürgen Rittersberger erklärte, dass der Handlungsbedarf groß sei. Weg",
+     "d": "f54672a9ad.mp3",
+     "l": 38.05,
+     "s": [
+      0.25,
+      5.01,
+      9.38,
+      13.16,
+      20.09,
+      24.62,
+      29.84
+     ]
+    },
+    {
+     "k": "Audi erwartet für das vierte Quartal eine Geschäftsbelebung und ein stärkeres Er",
+     "d": "45f529184d.mp3",
+     "l": 24.59,
+     "s": [
+      0.25,
+      5.65,
+      10.0,
+      12.96,
+      17.76
      ]
     }
    ]
@@ -7770,23 +7924,6 @@
    "version": 5,
    "ton": [
     {
-     "k": "Der Autohersteller Audi plant den Bau eines neuen Werkes im US-Bundesstaat Georg",
-     "d": "d0f9d26551.mp3",
-     "l": 60.13,
-     "s": [
-      0.25,
-      5.61,
-      10.6,
-      18.21,
-      24.08,
-      29.6,
-      36.99,
-      44.93,
-      49.99,
-      55.52
-     ]
-    },
-    {
      "k": "Audi plant ein neues Werk im US-Bundesstaat Georgia. Dort sollen viertausendfünf",
      "d": "688cb9a70c.mp3",
      "l": 19.94,
@@ -7825,6 +7962,21 @@
      "s": [
       0.25,
       3.43
+     ]
+    },
+    {
+     "k": "Der Autohersteller Audi plant den Bau eines neuen Werkes im US-Bundesstaat Georg",
+     "d": "0829cb3bc7.mp3",
+     "l": 43.54,
+     "s": [
+      0.25,
+      5.57,
+      12.42,
+      19.65,
+      24.9,
+      32.44,
+      36.35,
+      41.15
      ]
     },
     {
@@ -8422,13 +8574,13 @@
     {
      "k": "Im März zweitausend sieben endet die Amtszeit von Bundespräsident Frank-Walter S",
      "d": "f3a0a0b4d2.mp3",
-     "l": 27.15,
+     "l": 27.07,
      "s": [
       0.25,
-      6.26,
-      12.29,
-      17.33,
-      21.47
+      6.28,
+      12.13,
+      17.28,
+      21.5
      ]
     },
     {

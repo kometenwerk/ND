@@ -166,7 +166,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Touchscreen steuert technische Geräte durch Berührung."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät. Durch Berührung wird",
+     "d": "e72df5cc92.mp3",
+     "l": 31.31,
+     "s": [
+      0.25,
+      4.55,
+      8.47,
+      11.83,
+      16.4,
+      20.37,
+      24.21,
+      27.09
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-stenografie",
@@ -320,7 +337,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Stenografie ermöglicht es, gesprochene Sprache sehr schnell mitzuschreiben."
-   }
+   },
+   "ton": [
+    {
+     "k": "Stenografie ist eine alte Schrift für schnelles Mitschreiben. Das Wort kommt aus",
+     "d": "30cbe2ab9f.mp3",
+     "l": 23.98,
+     "s": [
+      0.25,
+      3.81,
+      5.98,
+      7.96,
+      11.1,
+      14.38,
+      17.35,
+      21.01
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-blindenschrift",
@@ -1121,24 +1155,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Hieroglyphen sind alte Schriftzeichen mit einem bildhaften Charakter."
-   },
-   "ton": [
-    {
-     "k": "Eine Hieroglyphe ist ein Schriftzeichen mit einem erkennbar bildhaften Charakter",
-     "d": "65a2d635ed.mp3",
-     "l": 30.88,
-     "s": [
-      0.25,
-      4.83,
-      7.2,
-      9.66,
-      13.58,
-      18.33,
-      22.42,
-      25.52
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-entsteht-eigentlich-ein-sonnensturm",
