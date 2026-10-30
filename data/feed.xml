@@ -2,106 +2,106 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 30 Oct 2026 18:34:09 GMT</lastBuildDate>
-  <generator>Nachrichten-Heft</generator>
+  <lastBuildDate>Fri, 30 Oct 2026 21:03:00 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
-  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <item>
+    <title>Hackerangriff auf Binance und die Folgen</title>
+    <description>Wir beleuchten den massiven Hackerangriff auf die Kryptobörse Binance mit einem Schaden in Milliardenhöhe. Dabei blicken wir auf die Hintergründe, Reaktionen und die Sicherheitslage.</description>
+    <itunes:summary>Wir beleuchten den massiven Hackerangriff auf die Kryptobörse Binance mit einem Schaden in Milliardenhöhe. Dabei blicken wir auf die Hintergründe, Reaktionen und die Sicherheitslage.</itunes:summary>
+    <pubDate>Fri, 30 Oct 2026 21:03:00 +0000</pubDate>
+    <guid isPermaLink="false">podcast-binance-hackerangriff</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-binance-hackerangriff.mp3" length="2434029" type="audio/mpeg"/>
+    <itunes:duration>00:05:04</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Wie funktioniert eigentlich ein Touchscreen?</title>
+    <description>Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät zur Steuerung technischer Geräte. Die technische Befehlseingabe bleibt für den Nutzer unsichtbar.</description>
+    <itunes:summary>Ein Touchscreen ist ein kombiniertes Ein- und Ausgabegerät zur Steuerung technischer Geräte. Die technische Befehlseingabe bleibt für den Nutzer unsichtbar.</itunes:summary>
+    <pubDate>Fri, 30 Oct 2026 18:38:20 +0000</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-touchscreen</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e72df5cc92.mp3" length="188301" type="audio/mpeg"/>
+    <itunes:duration>00:00:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Wie funktioniert eigentlich die Stenografie?</title>
+    <description>Stenografie ist eine spezielle Schrift, mit der man gesprochene Sprache sehr schnell mitschreiben kann. Schon im Römischen Reich und in antiken Zeiten nutzten Menschen solche Kurzschriften.</description>
+    <itunes:summary>Stenografie ist eine spezielle Schrift, mit der man gesprochene Sprache sehr schnell mitschreiben kann. Schon im Römischen Reich und in antiken Zeiten nutzten Menschen solche Kurzschriften.</itunes:summary>
+    <pubDate>Fri, 30 Oct 2026 13:04:32 +0000</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-stenografie</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/30cbe2ab9f.mp3" length="144237" type="audio/mpeg"/>
+    <itunes:duration>00:00:24</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Wie funktioniert eigentlich die Blindenschrift?</title>
     <description>Blinde Menschen können mit ihren Fingern lesen. Dafür nutzen sie spezielle Tastschriften.</description>
     <itunes:summary>Blinde Menschen können mit ihren Fingern lesen. Dafür nutzen sie spezielle Tastschriften.</itunes:summary>
-    <pubDate>Fri, 30 Oct 2026 05:43:30 GMT</pubDate>
+    <pubDate>Fri, 30 Oct 2026 05:43:30 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-blindenschrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/fa8b6d52a3.mp3" length="129117" type="audio/mpeg"/>
     <itunes:duration>00:00:21</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hauptausgabe vom 2026-10-30</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Zugunglück in Spanien fordert mindestens 69 Menschenleben · Volkswagen verzeichnet Milliardenverlust im dritten Quartal · Parlamentswahl in Israel führt zu unklaren Mehrheitsverhältnissen · Reise von Flávio Bolsonaro in die USA nach der Stichwahl</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Zugunglück in Spanien fordert mindestens 69 Menschenleben · Volkswagen verzeichnet Milliardenverlust im dritten Quartal · Parlamentswahl in Israel führt zu unklaren Mehrheitsverhältnissen · Reise von Flávio Bolsonaro in die USA nach der Stichwahl</itunes:summary>
-    <pubDate>Fri, 30 Oct 2026 05:38:44 GMT</pubDate>
+    <pubDate>Fri, 30 Oct 2026 05:38:44 +0000</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-30</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-30.mp3" length="2887869" type="audio/mpeg"/>
     <itunes:duration>00:08:01</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Waffenruhe für Hilfsaktion in Oleschky ausgeweitet</title>
     <description>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</description>
     <itunes:summary>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 21:26:03 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 21:26:03 +0000</pubDate>
     <guid isPermaLink="false">podcast-feuerpause-oleschky-ukraine</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-feuerpause-oleschky-ukraine.mp3" length="3116013" type="audio/mpeg"/>
     <itunes:duration>00:06:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Debatte über die Nachfolge des Bundespräsidenten</title>
     <description>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</description>
     <itunes:summary>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 19:48:30 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 19:48:30 +0000</pubDate>
     <guid isPermaLink="false">podcast-csu-parteitag-merz-aigner</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-csu-parteitag-merz-aigner.mp3" length="3093165" type="audio/mpeg"/>
     <itunes:duration>00:06:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Warum helfen Menschen bei Notfällen manchmal nicht?</title>
     <description>Manchmal greifen Menschen in Notsituationen nicht ein. Die Sozialpsychologie untersucht dieses Phänomen.</description>
     <itunes:summary>Manchmal greifen Menschen in Notsituationen nicht ein. Die Sozialpsychologie untersucht dieses Phänomen.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 19:19:20 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 19:19:20 +0000</pubDate>
     <guid isPermaLink="false">wissen-warum-helfen-menschen-bei-notfaellen-manchmal-nicht</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/098670eb9e.mp3" length="189021" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Schwarzes Loch?</title>
     <description>Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.</description>
     <itunes:summary>Ein Schwarzes Loch ist ein Objekt mit enorm starker Schwerkraft. Selbst Licht kann diesem Bereich nicht mehr entkommen.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 13:17:52 GMT</pubDate>
+    <pubDate>Thu, 29 Oct 2026 13:17:52 +0000</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-schwarzes-loch</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/fb35cedb62.mp3" length="218973" type="audio/mpeg"/>
     <itunes:duration>00:00:36</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Die Liste der ägyptischen Pyramiden</title>
-    <description>Die Liste der ägyptischen Pyramiden bietet einen Überblick über alle bekannten ägyptischen Pyramiden. Der Artikel verzeichnet zahlreiche Quellen, Literatur und Karten zur geografischen Lage.</description>
-    <itunes:summary>Die Liste der ägyptischen Pyramiden bietet einen Überblick über alle bekannten ägyptischen Pyramiden. Der Artikel verzeichnet zahlreiche Quellen, Literatur und Karten zur geografischen Lage.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 05:47:47 GMT</pubDate>
-    <guid isPermaLink="false">wissen-die-liste-der-aegyptischen-pyramiden</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/98b9952a3a.mp3" length="272253" type="audio/mpeg"/>
-    <itunes:duration>00:00:45</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Wie schrieben die alten Ägypter mit Hieroglyphen?</title>
-    <description>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</description>
-    <itunes:summary>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</itunes:summary>
-    <pubDate>Wed, 28 Oct 2026 05:47:43 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-schrieben-die-alten-aegypter-mit-hieroglyphen</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/65a2d635ed.mp3" length="185709" type="audio/mpeg"/>
-    <itunes:duration>00:00:31</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>

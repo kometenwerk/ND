@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T21:26:03.360007Z",
+ "stand": "2026-10-30T21:03:00.024374Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -35,6 +35,130 @@
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-binance-hackerangriff",
+   "themaId": "binance-hackerangriff",
+   "art": "podcast",
+   "titel": "Hackerangriff auf Binance und die Folgen",
+   "text": "Wir beleuchten den massiven Hackerangriff auf die Kryptobörse Binance mit einem Schaden in Milliardenhöhe. Dabei blicken wir auf die Hintergründe, Reaktionen und die Sicherheitslage.",
+   "zeit": "2026-10-30T21:03:00.024374Z",
+   "besetzung": [
+    "Thorsten",
+    "Sigrid",
+    "Malte",
+    "Nora"
+   ],
+   "d": "folge-podcast-binance-hackerangriff.mp3",
+   "l": 304.18,
+   "b": 2434029,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Hallo und willkommen zu unserem Podcast. Alle Stimmen dieser Sendung sind Computerstimmen. Heute sprechen wir über den massiven Hackerangriff auf die Kryptobörse Binance. Bei mir im Studio sind Sigrid, Malte und Nora."
+    },
+    {
+     "s": 12.49,
+     "wer": "Thorsten",
+     "text": "Malte, du hast dir die Berichte aus Tagesschau, ZDFheute, Deutschlandfunk, dem Spiegel und der Süddeutschen Zeitung angesehen. Worum geht es bei diesem Vorfall genau und welche Zahlen liegen auf dem Tisch?"
+    },
+    {
+     "s": 24.56,
+     "wer": "Malte",
+     "text": "Die Kryptobörse Binance wurde Ziel eines schwerwiegenden Hackerangriffs. Der geschätzte Schaden beläuft sich auf rund sechs komma drei Milliarden US-Dollar. Nach Bekanntwerden des Angriffs am dreißigsten Oktober zweitausendsechsundzwanzig setzte das Unternehmen alle Ein- und Auszahlungen sofort aus."
+    },
+    {
+     "s": 43.35,
+     "wer": "Malte",
+     "text": "Um den Schaden einzudämmen, wurden rasch Gelder eingefroren. Binance selbst sicherte bereits rund drei Milliarden US-Dollar. Auch andere Emittenten halfen mit, wie Tether mit fast einer komma fünf sieben Milliarden und Circle mit mehr als achthundert Millionen eingefrorenen Dollar."
+    },
+    {
+     "s": 61.24,
+     "wer": "Malte",
+     "text": "Das Unternehmen kündigte zudem an, alle Verluste der betroffenen Nutzer vollständig zu ersetzen. Darin stimmen die Berichte der genannten Medien überein. Auch die Analysefirma TRM Labs sieht in dem Diebstahl das Werk von nordkoreanischen Hackergruppen."
+    },
+    {
+     "s": 76.64,
+     "wer": "Thorsten",
+     "text": "Sigrid, wie ordnest du diese Dimensionen ein? Wir sprechen hier über astronomische Summen und mutmasslich staatliche Hacker."
+    },
+    {
+     "s": 84.2,
+     "wer": "Sigrid",
+     "text": "Die Summen verdeutlichen die enorme Verletzungsgefahr zentralisierter Systeme. Wenn nordkoreanische Hackergruppen solche Angriffe durchführen, zeigt das eine neue Qualität der Bedrohung. Die beteiligten Unternehmen haben zwar schnell reagiert und Gelder eingefroren, aber der Vorfall erschüttert das Vertrauen in die Branche nachhaltig."
+    },
+    {
+     "s": 103.6,
+     "wer": "Sigrid",
+     "text": "Yi He, die Mitbegründerin von Binance, betonte in den Medien, dass das Unternehmen alle Verluste ersetzen wird und ein Teil der Gelder bereits gesichert ist. Das ist ein wichtiges Signal zur Beruhigung der Anleger. Dennoch bleibt die Frage, wie solche Einbrüche überhaupt möglich waren."
+    },
+    {
+     "s": 119.9,
+     "wer": "Sigrid",
+     "text": "Malte hat ja bereits die schnellen Reaktionen anderer Krypto-Unternehmen erwähnt, die ebenfalls Gelder blockierten. Das zeigt eine gewisse Solidarität im Sektor, ändert aber nichts am grundlegenden Problem der IT-Sicherheit. Nora, wie bewertest du diesen Aspekt aus Sicht der Experten?"
+    },
+    {
+     "s": 136.92,
+     "wer": "Nora",
+     "text": "Hier kommen verschiedene Einschätzungen ins Spiel, die die Debatte prägen. Tim Sun, ein Forscher bei der HashKey Group, warnt, dass dieser Vorfall die Risikobereitschaft dämpfen könnte. Anleger würden nun dazu veranlasst, die Sicherheit zentralisierter Börsen völlig neu zu bewerten."
+    },
+    {
+     "s": 152.29,
+     "wer": "Nora",
+     "text": "Dazu passt auch die Einschätzung von Bernardo Brites, dem Chef von Trace Finance. Er erklärt, dass Hackerangriffe immer schwieriger abzuwehren sind, weil künstliche Intelligenz Schwachstellen deutlich schneller finden kann als früher. Die Technologie arbeitet hier gegen die Verteidiger."
+    },
+    {
+     "s": 167.86,
+     "wer": "Nora",
+     "text": "Sigrid, du hast die Reaktion von Binance gelobt. Aber reicht das Versprechen, Verluste zu ersetzen, wirklich aus, wenn die Angreifer immer raffinierter vorgehen? Oder stehen wir vor einer fundamentalen Krise dieser Börsen?"
+    },
+    {
+     "s": 180.86,
+     "wer": "Sigrid",
+     "text": "Das ist genau der Punkt, Nora. Der Cybersicherheitsexperte Mirko Ross weist darauf hin, dass laut ersten Meldungen bereits drei Milliarden Dollar weg sind. Seine Empfehlung an die Anleger lautet daher, ihre Kryptowährungen auf Offline-Wallets abzusichern."
+    },
+    {
+     "s": 196.64,
+     "wer": "Sigrid",
+     "text": "Das Versprechen von Binance ist gut für das kurzfristige Vertrauen, aber es löst das technische Problem nicht. Wenn Anleger ihr Geld auf zentralisierten Börsen lassen, tragen sie immer dieses Restrisiko. Malte, gibt es eigentlich schon genaue Erkenntnisse darüber, wie die Hacker in das System eingedrungen sind?"
+    },
+    {
+     "s": 214.62,
+     "wer": "Malte",
+     "text": "Das ist bisher der Punkt, der laut Berichten von Tagesschau, ZDFheute und dem Spiegel noch völlig offen ist. Es wird noch untersucht, ob der Angriff über den Laptop eines IT-Mitarbeiters oder eines Ingenieurs erfolgte. Hier gibt es noch keine gesicherten Ergebnisse."
+    },
+    {
+     "s": 230.88,
+     "wer": "Malte",
+     "text": "Nora, du hast die Rolle der künstlichen Intelligenz bei der Schwachstellensuche angesprochen. Wenn Angreifer KI nutzen, um Einfallstore zu finden, stehen die internen IT-Teams natürlich unter enormem Druck. Da reicht ein einzelner kompromittierter Laptop womöglich aus, um das ganze System zu gefährden."
+    },
+    {
+     "s": 249.1,
+     "wer": "Nora",
+     "text": "Genau das macht die Sache so brisant, Malte. Wenn die Untersuchung am Ende zeigt, dass ein einzelner Arbeitsplatz das Einfallstor war, wirft das Fragen über interne Sicherheitsstandards auf. Bisher wissen wir eben nur, dass die Ermittlungen zu diesem Einbruchsweg noch laufen."
+    },
+    {
+     "s": 264.52,
+     "wer": "Nora",
+     "text": "Thorsten, wir sehen hier also einen gigantischen Schaden, schnelle Gegenmaßnahmen durch das Einfrieren von Geldern, aber auch tiefgreifende Sorgen über die generelle Sicherheit zentralisierter Strukturen."
+    },
+    {
+     "s": 275.06,
+     "wer": "Thorsten",
+     "text": "Damit fassen wir die wesentlichen Punkte zusammen. Ein Schaden von rund sechs komma drei Milliarden Dollar, nordkoreanische Hackergruppen im Visier der Analysten und Binance, das den Nutzern den Ersatz aller Verluste zugesagt hat."
+    },
+    {
+     "s": 287.13,
+     "wer": "Thorsten",
+     "text": "Offen bleibt, wie genau die Täter in das System eindringen konnten, während die Diskussion über Offline-Wallets und künstliche Intelligenz bei Sicherheitsfragen weitergeht. Vielen Dank an euch für diese differenzierte Runde."
+    },
+    {
+     "s": 298.27,
+     "wer": "Thorsten",
+     "text": "Das war unser Blick auf den Hackerangriff bei Binance. Morgen sind wir wieder mit neuen Themen für Sie da. Tschüss."
+    }
+   ]
+  },
   {
    "id": "podcast-feuerpause-oleschky-ukraine",
    "themaId": "feuerpause-oleschky-ukraine",
