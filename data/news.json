@@ -2267,7 +2267,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 10 und 14 Grad. Die Vorhersage für morgen,",
+   "d": "512b2e4331.mp3",
+   "l": 18.91,
+   "s": [
+    0.25,
+    3.64,
+    10.09,
+    13.21,
+    16.11
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2281,156 +2293,156 @@
   },
   "ansagen": [
    {
-    "k": "Nachrichten-Heft. Die Hauptausgabe vom Donnerstag, 29. Oktober. Es liest die Com",
-    "d": "bbd7d9615f.mp3",
-    "l": 8.07,
+    "k": "Nachrichten-Heft. Die Hauptausgabe vom Freitag, 30. Oktober. Es liest die Comput",
+    "d": "a71806d9ec.mp3",
+    "l": 7.08,
     "s": [
      0.25,
-     5.5
+     4.58
     ]
    },
    {
-    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Donnerstag, 29. Oktober. Es liest",
-    "d": "e064905869.mp3",
-    "l": 8.26,
+    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Freitag, 30. Oktober. Es liest di",
+    "d": "c81df8b5e4.mp3",
+    "l": 8.09,
     "s": [
      0.25,
-     5.74
+     5.33
     ]
    },
    {
-    "k": "Nachrichten-Heft. Einfach erklärt vom Donnerstag, 29. Oktober. Es liest die Comp",
-    "d": "82b797371c.mp3",
-    "l": 9.52,
+    "k": "Nachrichten-Heft. Einfach erklärt vom Freitag, 30. Oktober. Es liest die Compute",
+    "d": "cceb9dbfd3.mp3",
+    "l": 8.56,
     "s": [
      0.25,
-     6.37
+     5.42
     ]
    },
    {
-    "k": "Nachrichten-Heft. Kurzmeldungen vom Donnerstag, 29. Oktober. Es liest die Comput",
-    "d": "c56fd4503f.mp3",
-    "l": 7.96,
+    "k": "Nachrichten-Heft. Kurzmeldungen vom Freitag, 30. Oktober. Es liest die Computers",
+    "d": "a0325360e8.mp3",
+    "l": 7.1,
     "s": [
      0.25,
-     5.15
+     4.59
     ]
    },
    {
-    "k": "Nachrichten-Heft. Der Wochenrückblick vom Donnerstag, 29. Oktober. Es liest die ",
-    "d": "58127b63fb.mp3",
-    "l": 8.24,
+    "k": "Nachrichten-Heft. Der Wochenrückblick vom Freitag, 30. Oktober. Es liest die Com",
+    "d": "5800bc2794.mp3",
+    "l": 7.3,
     "s": [
      0.25,
-     5.54
+     4.83
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Donnerstag, 29. Oktober. Es liest",
-    "d": "b2d61e974c.mp3",
-    "l": 8.89,
+    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Freitag, 30. Oktober. Es liest di",
+    "d": "51669f87dd.mp3",
+    "l": 7.97,
     "s": [
      0.25,
-     6.2
+     5.38
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Donnerstag, 29. Oktober. Es liest ",
-    "d": "f8e57bec89.mp3",
-    "l": 7.86,
+    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Freitag, 30. Oktober. Es liest die",
+    "d": "044768762e.mp3",
+    "l": 7.94,
     "s": [
      0.25,
-     5.48
+     5.26
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Donnerstag, 29. Oktober. Es liest",
-    "d": "04aa73ee1e.mp3",
-    "l": 8.74,
+    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Freitag, 30. Oktober. Es liest di",
+    "d": "ed03f12e4e.mp3",
+    "l": 8.15,
     "s": [
      0.25,
-     5.95
+     5.37
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Donnerstag, 29. Oktober. Es li",
-    "d": "4d2cd98c64.mp3",
-    "l": 8.6,
+    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Freitag, 30. Oktober. Es liest",
+    "d": "6e123fb832.mp3",
+    "l": 8.01,
     "s": [
      0.25,
-     5.86
+     5.66
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Donnerstag, 29. Oktober. Es li",
-    "d": "71efef45e7.mp3",
-    "l": 8.53,
+    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Freitag, 30. Oktober. Es liest",
+    "d": "763b110736.mp3",
+    "l": 8.19,
     "s": [
      0.25,
-     5.69
+     5.46
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Donnerstag, 29. Oktober. ",
-    "d": "9da79efa6d.mp3",
-    "l": 8.51,
+    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Freitag, 30. Oktober. Es ",
+    "d": "b0a0dd23bf.mp3",
+    "l": 8.08,
     "s": [
      0.25,
-     6.01
+     5.51
     ]
    },
    {
-    "k": "Nachrichten-Heft. Deutschland vom Donnerstag, 29. Oktober. Es liest die Computer",
-    "d": "00b135299d.mp3",
-    "l": 7.52,
+    "k": "Nachrichten-Heft. Deutschland vom Freitag, 30. Oktober. Es liest die Computersti",
+    "d": "c8c9fc983c.mp3",
+    "l": 6.79,
     "s": [
      0.25,
-     4.82
+     4.14
     ]
    },
    {
-    "k": "Nachrichten-Heft. Welt vom Donnerstag, 29. Oktober. Es liest die Computerstimme ",
-    "d": "23acf71214.mp3",
-    "l": 7.33,
+    "k": "Nachrichten-Heft. Welt vom Freitag, 30. Oktober. Es liest die Computerstimme Tho",
+    "d": "301962ac01.mp3",
+    "l": 7.01,
     "s": [
      0.25,
-     4.88
+     4.22
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wirtschaft vom Donnerstag, 29. Oktober. Es liest die Computers",
-    "d": "b4157497eb.mp3",
-    "l": 7.4,
+    "k": "Nachrichten-Heft. Wirtschaft vom Freitag, 30. Oktober. Es liest die Computerstim",
+    "d": "dc3d6148aa.mp3",
+    "l": 7.35,
     "s": [
      0.25,
      4.73
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wissen und Klima vom Donnerstag, 29. Oktober. Es liest die Com",
-    "d": "412b4d95c4.mp3",
-    "l": 7.68,
+    "k": "Nachrichten-Heft. Wissen und Klima vom Freitag, 30. Oktober. Es liest die Comput",
+    "d": "7f5d269d99.mp3",
+    "l": 7.53,
     "s": [
      0.25,
-     5.18
+     4.86
     ]
    },
    {
-    "k": "Nachrichten-Heft. Sport vom Donnerstag, 29. Oktober. Es liest die Computerstimme",
-    "d": "6664f6fbec.mp3",
-    "l": 7.37,
+    "k": "Nachrichten-Heft. Sport vom Freitag, 30. Oktober. Es liest die Computerstimme Th",
+    "d": "10f9d2e8fd.mp3",
+    "l": 6.61,
     "s": [
      0.25,
-     4.75
+     4.04
     ]
    },
    {
-    "k": "Nachrichten-Heft. Region vom Donnerstag, 29. Oktober. Es liest die Computerstimm",
-    "d": "127b0ac045.mp3",
-    "l": 7.97,
+    "k": "Nachrichten-Heft. Region vom Freitag, 30. Oktober. Es liest die Computerstimme T",
+    "d": "9cf6e9bfe7.mp3",
+    "l": 7.16,
     "s": [
      0.25,
-     5.32
+     4.56
     ]
    },
    {
@@ -4565,6 +4577,29 @@
       7.7,
       16.58
      ]
+    },
+    {
+     "k": "Flávio Bolsonaro erklärte in einem offenen Brief an die Bevölkerung auf der Plat",
+     "d": "fd40d6591c.mp3",
+     "l": 52.05,
+     "s": [
+      0.25,
+      10.44,
+      18.59,
+      26.48,
+      36.46
+     ]
+    },
+    {
+     "k": "Flávio Bolsonaro kündigte an, von den Vereinigten Staaten aus die Opposition geg",
+     "d": "1fe57f12cf.mp3",
+     "l": 35.35,
+     "s": [
+      0.25,
+      8.07,
+      17.58,
+      23.21
+     ]
     }
    ]
   },
@@ -4956,23 +4991,6 @@
    "version": 5,
    "ton": [
     {
-     "k": "Der Autohersteller Audi plant den Bau eines neuen Werkes im US-Bundesstaat Georg",
-     "d": "d0f9d26551.mp3",
-     "l": 59.84,
-     "s": [
-      0.25,
-      5.52,
-      10.25,
-      17.78,
-      23.83,
-      29.43,
-      36.98,
-      44.62,
-      49.72,
-      55.15
-     ]
-    },
-    {
      "k": "Audi plant ein neues Werk im US-Bundesstaat Georgia. Dort sollen viertausendfünf",
      "d": "688cb9a70c.mp3",
      "l": 19.94,
@@ -5011,6 +5029,21 @@
      "s": [
       0.25,
       3.43
+     ]
+    },
+    {
+     "k": "Der Autohersteller Audi plant den Bau eines neuen Werkes im US-Bundesstaat Georg",
+     "d": "0829cb3bc7.mp3",
+     "l": 43.2,
+     "s": [
+      0.25,
+      5.71,
+      12.83,
+      19.9,
+      25.0,
+      32.55,
+      36.09,
+      40.98
      ]
     },
     {
@@ -5608,13 +5641,13 @@
     {
      "k": "Im März zweitausend sieben endet die Amtszeit von Bundespräsident Frank-Walter S",
      "d": "f3a0a0b4d2.mp3",
-     "l": 27.65,
+     "l": 27.87,
      "s": [
       0.25,
-      6.41,
-      12.42,
-      17.52,
-      21.75
+      6.61,
+      12.56,
+      17.57,
+      21.93
      ]
     },
     {
@@ -5675,6 +5708,44 @@
       25.11,
       29.56,
       36.76
+     ]
+    },
+    {
+     "k": "Der Bundespräsident oder die Bundespräsidentin ist das Staatsoberhaupt der Bunde",
+     "d": "4bebc7ce39.mp3",
+     "l": 33.8,
+     "s": [
+      0.25,
+      5.97,
+      12.18,
+      16.36,
+      24.57
+     ]
+    },
+    {
+     "k": "Laut Tagesschau/ARD und ZDFheute hat sich Außenminister Johann Wadephul (CDU) in",
+     "d": "b156ad545d.mp3",
+     "l": 44.76,
+     "s": [
+      0.25,
+      9.52,
+      20.24,
+      26.48,
+      31.88
+     ]
+    },
+    {
+     "k": "Laut Tagesschau/ARD und ZDFheute ist die Präsidiumssitzung der CDU am 9. Novembe",
+     "d": "9b94f175e7.mp3",
+     "l": 37.62,
+     "s": [
+      0.25,
+      6.39,
+      10.4,
+      15.14,
+      21.57,
+      23.72,
+      30.57
      ]
     }
    ]
