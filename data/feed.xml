@@ -2,96 +2,106 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Thu, 29 Oct 2026 21:26:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 05:38:44 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Waffenruhe für Hilfsaktion in Oleschky ausgeweitet</title>
     <description>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</description>
     <itunes:summary>Eine lokale Waffenruhe rund um die ukrainische Frontstadt Oleschky ist ausgeweitet worden. Die Vereinbarung dient humanitären Hilfsmaßnahmen und einer geplanten Evakuierung.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 21:26:03 +0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 21:26:03 GMT</pubDate>
     <guid isPermaLink="false">podcast-feuerpause-oleschky-ukraine</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-feuerpause-oleschky-ukraine.mp3" length="3116013" type="audio/mpeg"/>
     <itunes:duration>00:06:29</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Debatte über die Nachfolge des Bundespräsidenten</title>
     <description>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</description>
     <itunes:summary>In der Union entbrennt die Diskussion um die Nachfolge von Bundespräsident Frank-Walter Steinmeier. Wir beleuchten die Positionen und den Zeitplan bis zur Wahl im Januar 2027.</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 19:48:30 +0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 19:48:30 GMT</pubDate>
     <guid isPermaLink="false">podcast-csu-parteitag-merz-aigner</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-csu-parteitag-merz-aigner.mp3" length="3093165" type="audio/mpeg"/>
     <itunes:duration>00:06:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hauptausgabe vom 2026-10-29</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Ausreise von Flávio Bolsonaro in die USA nach der Präsidentschaftswahl in Brasilien · Kritik an Audi-Plänen für ein neues Werk in den Vereinigten Staaten · Parlamentswahl in Israel führt zu unklarem Ergebnis ohne absolute Mehrheit · Debatte über die Nachfolge des Bundespräsidenten</itunes:summary>
-    <pubDate>Thu, 29 Oct 2026 05:39:32 +0000</pubDate>
+    <pubDate>Thu, 29 Oct 2026 05:39:32 GMT</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-10-29</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-29.mp3" length="2932365" type="audio/mpeg"/>
     <itunes:duration>00:08:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie schrieben die alten Ägypter mit Hieroglyphen?</title>
     <description>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</description>
     <itunes:summary>Hieroglyphen sind alte Schriftzeichen mit einem erkennbar bildhaften Charakter. Sie wurden in verschiedenen Kulturen und ganz besonders in Ägypten verwendet.</itunes:summary>
-    <pubDate>Wed, 28 Oct 2026 05:47:43 +0000</pubDate>
+    <pubDate>Wed, 28 Oct 2026 05:47:43 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-schrieben-die-alten-aegypter-mit-hieroglyphen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/65a2d635ed.mp3" length="185709" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Sonnensturm?</title>
     <description>Ein Sonnensturm stört das Magnetfeld der Erde und kann Technik beschädigen. Solche Stürme entstehen durch Eruptionen auf der Sonne.</description>
     <itunes:summary>Ein Sonnensturm stört das Magnetfeld der Erde und kann Technik beschädigen. Solche Stürme entstehen durch Eruptionen auf der Sonne.</itunes:summary>
-    <pubDate>Tue, 27 Oct 2026 06:36:50 +0000</pubDate>
+    <pubDate>Tue, 27 Oct 2026 06:36:50 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-sonnensturm</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/90277cd636.mp3" length="178221" type="audio/mpeg"/>
     <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Warum ist man im Weltall eigentlich schwerelos?</title>
     <description>Im Weltall schweben Menschen und Gegenstände frei im Raum. Das liegt daran, dass sie sich in einem ständigen freien Fall um die Erde befinden.</description>
     <itunes:summary>Im Weltall schweben Menschen und Gegenstände frei im Raum. Das liegt daran, dass sie sich in einem ständigen freien Fall um die Erde befinden.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 20:52:00 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 20:52:00 GMT</pubDate>
     <guid isPermaLink="false">wissen-warum-ist-man-im-weltall-eigentlich-schwerelos</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/167db06ee9.mp3" length="220989" type="audio/mpeg"/>
     <itunes:duration>00:00:37</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich die Keilschrift?</title>
     <description>Die Keilschrift ist eines der ältesten Schriftsysteme der Menschheit. Sie wurde Jahrtausende lang im Vorderen Orient verwendet.</description>
     <itunes:summary>Die Keilschrift ist eines der ältesten Schriftsysteme der Menschheit. Sie wurde Jahrtausende lang im Vorderen Orient verwendet.</itunes:summary>
-    <pubDate>Mon, 26 Oct 2026 06:26:40 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2026 06:26:40 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-keilschrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/a57271246c.mp3" length="180093" type="audio/mpeg"/>
     <itunes:duration>00:00:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Regenbogen?</title>
     <description>Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht durch Sonnenlicht in Regentropfen.</description>
     <itunes:summary>Ein Regenbogen ist ein farbiges Lichtband am Himmel. Er entsteht durch Sonnenlicht in Regentropfen.</itunes:summary>
-    <pubDate>Sun, 25 Oct 2026 19:45:08 +0000</pubDate>
+    <pubDate>Sun, 25 Oct 2026 19:45:08 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-regenbogen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/df010a7c37.mp3" length="166989" type="audio/mpeg"/>
     <itunes:duration>00:00:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>

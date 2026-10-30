@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-29T18:56:08.491Z",
+ "stand": "2026-10-30T05:38:44.031Z",
  "gepusht": [
   "oktoberfest-besucherrekord",
   "medicin-nobelpreis-2026",
@@ -89,7 +89,6 @@
   "serbien-wahlen-studentenproteste",
   "israel-abriegelung-westjordanland",
   "feuerpause-oleschky-ukraine",
-  "kehlsteinhaus-brand-obersalzberg",
   "csu-parteitag-merz-aigner",
   "audi-us-werk-georgia",
   "brasilien-stichwahl-praesident",
@@ -97,8 +96,8 @@
   "volkswagen-milliardenverlust"
  ],
  "wetter": {
-  "stand": "2026-10-29T18:56:08.491Z",
-  "morgenTag": "Freitag",
+  "stand": "2026-10-30T05:38:44.031Z",
+  "morgenTag": "Samstag",
   "orte": [
    {
     "name": "Hamburg",
@@ -106,30 +105,17 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 11,
-     "code": 2,
-     "gefuehlt": 10,
-     "wind": 4,
-     "windAus": 301,
-     "feuchte": 93,
-     "druck": 1030,
+     "grad": 9,
+     "code": 45,
+     "gefuehlt": 8,
+     "wind": 3,
+     "windAus": 347,
+     "feuchte": 97,
+     "druck": 1031,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 80,
-     "max": 14,
-     "min": 9,
-     "regen": 48,
-     "menge": 0.1,
-     "wind": 11,
-     "windAus": 263,
-     "uv": 2,
-     "auf": "07:13",
-     "unter": "16:53"
-    },
-    "morgen": {
      "datum": "2026-10-30",
      "code": 51,
      "max": 12,
@@ -137,25 +123,25 @@
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 306,
+     "windAus": 312,
      "uv": 1.9,
      "auf": "07:15",
      "unter": "16:51"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 3,
+     "max": 12,
+     "min": 10,
+     "regen": 0,
+     "menge": 0,
+     "wind": 9,
+     "windAus": 345,
+     "uv": 2,
+     "auf": "07:17",
+     "unter": "16:49"
+    },
     "tage": [
-     {
-      "datum": "2026-10-29",
-      "code": 80,
-      "max": 14,
-      "min": 9,
-      "regen": 48,
-      "menge": 0.1,
-      "wind": 11,
-      "windAus": 263,
-      "uv": 2,
-      "auf": "07:13",
-      "unter": "16:53"
-     },
      {
       "datum": "2026-10-30",
       "code": 51,
@@ -164,7 +150,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 306,
+      "windAus": 312,
       "uv": 1.9,
       "auf": "07:15",
       "unter": "16:51"
@@ -173,11 +159,11 @@
       "datum": "2026-10-31",
       "code": 3,
       "max": 12,
-      "min": 9,
+      "min": 10,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 339,
+      "wind": 9,
+      "windAus": 345,
       "uv": 2,
       "auf": "07:17",
       "unter": "16:49"
@@ -185,123 +171,70 @@
      {
       "datum": "2026-11-01",
       "code": 61,
-      "max": 11,
-      "min": 8,
-      "regen": 18,
+      "max": 10,
+      "min": 6,
+      "regen": 22,
       "menge": 0.1,
-      "wind": 5,
-      "windAus": 200,
-      "uv": 1.5,
+      "wind": 7,
+      "windAus": 156,
+      "uv": 1.9,
       "auf": "07:19",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-02",
       "code": 61,
-      "max": 12,
+      "max": 11,
       "min": 8,
-      "regen": 30,
-      "menge": 2.8,
-      "wind": 12,
-      "windAus": 313,
-      "uv": 1.9,
+      "regen": 31,
+      "menge": 2,
+      "wind": 6,
+      "windAus": 314,
+      "uv": 0.5,
       "auf": "07:20",
       "unter": "16:45"
      },
      {
       "datum": "2026-11-03",
-      "code": 61,
+      "code": 53,
       "max": 10,
-      "min": 8,
-      "regen": 3,
-      "menge": 1.1,
-      "wind": 12,
-      "windAus": 30,
-      "uv": 1.8,
+      "min": 3,
+      "regen": 11,
+      "menge": 0.4,
+      "wind": 13,
+      "windAus": 43,
+      "uv": 1.7,
       "auf": "07:22",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 9,
-      "min": 4,
-      "regen": 3,
+      "max": 10,
+      "min": 2,
+      "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 58,
-      "uv": 1.7,
+      "windAus": 53,
+      "uv": 1.5,
       "auf": "07:24",
       "unter": "16:41"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 1,
+      "max": 9,
+      "min": 2,
+      "regen": 0,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 76,
+      "uv": 1.7,
+      "auf": "07:26",
+      "unter": "16:39"
      }
     ],
     "stunden": [
-     {
-      "zeit": "19:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 9,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 9,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 9,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "06:00",
       "grad": 9,
@@ -329,12 +262,12 @@
      {
       "zeit": "10:00",
       "grad": 10,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -346,7 +279,7 @@
      },
      {
       "zeit": "13:00",
-      "grad": 12,
+      "grad": 11,
       "code": 3,
       "regen": 0
      },
@@ -376,7 +309,73 @@
      },
      {
       "zeit": "18:00",
-      "grad": 12,
+      "grad": 11,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
       "code": 3,
       "regen": 0
      }
@@ -388,30 +387,17 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 10,
-     "code": 3,
-     "gefuehlt": 9,
+     "grad": 7,
+     "code": 45,
+     "gefuehlt": 5,
      "wind": 5,
-     "windAus": 326,
-     "feuchte": 94,
-     "druck": 1027,
+     "windAus": 309,
+     "feuchte": 96,
+     "druck": 1028,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 53,
-     "max": 12,
-     "min": 4,
-     "regen": 8,
-     "menge": 0.2,
-     "wind": 8,
-     "windAus": 271,
-     "uv": 1.3,
-     "auf": "06:56",
-     "unter": "16:42"
-    },
-    "morgen": {
      "datum": "2026-10-30",
      "code": 61,
      "max": 11,
@@ -424,20 +410,20 @@
      "auf": "06:58",
      "unter": "16:40"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 61,
+     "max": 11,
+     "min": 7,
+     "regen": 5,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 343,
+     "uv": 2.1,
+     "auf": "07:00",
+     "unter": "16:38"
+    },
     "tage": [
-     {
-      "datum": "2026-10-29",
-      "code": 53,
-      "max": 12,
-      "min": 4,
-      "regen": 8,
-      "menge": 0.2,
-      "wind": 8,
-      "windAus": 271,
-      "uv": 1.3,
-      "auf": "06:56",
-      "unter": "16:42"
-     },
      {
       "datum": "2026-10-30",
       "code": 61,
@@ -453,13 +439,13 @@
      },
      {
       "datum": "2026-10-31",
-      "code": 3,
-      "max": 12,
-      "min": 6,
-      "regen": 0,
+      "code": 61,
+      "max": 11,
+      "min": 7,
+      "regen": 5,
       "menge": 0,
       "wind": 12,
-      "windAus": 330,
+      "windAus": 343,
       "uv": 2.1,
       "auf": "07:00",
       "unter": "16:38"
@@ -469,36 +455,36 @@
       "code": 3,
       "max": 10,
       "min": 5,
-      "regen": 7,
+      "regen": 2,
       "menge": 0,
-      "wind": 5,
-      "windAus": 35,
+      "wind": 8,
+      "windAus": 41,
       "uv": 2,
       "auf": "07:02",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-02",
-      "code": 61,
-      "max": 7,
-      "min": 6,
-      "regen": 23,
-      "menge": 2.7,
-      "wind": 8,
-      "windAus": 203,
+      "code": 45,
+      "max": 9,
+      "min": 4,
+      "regen": 18,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 146,
       "uv": 2,
       "auf": "07:04",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-03",
-      "code": 51,
-      "max": 9,
+      "code": 3,
+      "max": 8,
       "min": 5,
       "regen": 8,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 50,
+      "menge": 0.3,
+      "wind": 11,
+      "windAus": 19,
       "uv": 2,
       "auf": "07:06",
       "unter": "16:33"
@@ -507,87 +493,34 @@
       "datum": "2026-11-04",
       "code": 3,
       "max": 10,
-      "min": 5,
+      "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 44,
-      "uv": 1.9,
+      "windAus": 46,
+      "uv": 1.8,
       "auf": "07:07",
       "unter": "16:31"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 1,
+      "max": 9,
+      "min": 2,
+      "regen": 0,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 76,
+      "uv": 1.8,
+      "auf": "07:09",
+      "unter": "16:29"
      }
     ],
     "stunden": [
      {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 8,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 0
-     },
-     {
       "zeit": "06:00",
       "grad": 7,
-      "code": 51,
+      "code": 45,
       "regen": 0
      },
      {
@@ -599,7 +532,7 @@
      {
       "zeit": "08:00",
       "grad": 7,
-      "code": 45,
+      "code": 51,
       "regen": 0
      },
      {
@@ -610,19 +543,19 @@
      },
      {
       "zeit": "10:00",
-      "grad": 7,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 9,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 9,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -641,24 +574,90 @@
      {
       "zeit": "15:00",
       "grad": 11,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
       "code": 61,
       "regen": 0
      },
      {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
       "zeit": "18:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
       "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 9,
       "code": 3,
       "regen": 0
      }
@@ -670,79 +669,66 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 11,
+     "grad": 8,
      "code": 3,
-     "gefuehlt": 11,
-     "wind": 3,
-     "windAus": 319,
-     "feuchte": 82,
-     "druck": 1017,
+     "gefuehlt": 7,
+     "wind": 4,
+     "windAus": 351,
+     "feuchte": 95,
+     "druck": 1018,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 80,
-     "max": 13,
-     "min": 5,
-     "regen": 0,
-     "menge": 0,
-     "wind": 7,
-     "windAus": 241,
-     "uv": 2.3,
-     "auf": "06:58",
-     "unter": "16:49"
-    },
-    "morgen": {
      "datum": "2026-10-30",
      "code": 61,
      "max": 11,
      "min": 8,
-     "regen": 0,
-     "menge": 0,
+     "regen": 3,
+     "menge": 0.2,
      "wind": 7,
-     "windAus": 11,
+     "windAus": 6,
      "uv": 2.3,
      "auf": "06:59",
      "unter": "16:47"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 61,
+     "max": 10,
+     "min": 7,
+     "regen": 10,
+     "menge": 0,
+     "wind": 9,
+     "windAus": 338,
+     "uv": 0.7,
+     "auf": "07:01",
+     "unter": "16:45"
+    },
     "tage": [
-     {
-      "datum": "2026-10-29",
-      "code": 80,
-      "max": 13,
-      "min": 5,
-      "regen": 0,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 241,
-      "uv": 2.3,
-      "auf": "06:58",
-      "unter": "16:49"
-     },
      {
       "datum": "2026-10-30",
       "code": 61,
       "max": 11,
       "min": 8,
-      "regen": 0,
-      "menge": 0,
+      "regen": 3,
+      "menge": 0.2,
       "wind": 7,
-      "windAus": 11,
+      "windAus": 6,
       "uv": 2.3,
       "auf": "06:59",
       "unter": "16:47"
      },
      {
       "datum": "2026-10-31",
-      "code": 3,
-      "max": 11,
-      "min": 6,
-      "regen": 5,
+      "code": 61,
+      "max": 10,
+      "min": 7,
+      "regen": 10,
       "menge": 0,
       "wind": 9,
       "windAus": 338,
-      "uv": 0.9,
+      "uv": 0.7,
       "auf": "07:01",
       "unter": "16:45"
      },
@@ -751,121 +737,68 @@
       "code": 3,
       "max": 9,
       "min": 5,
-      "regen": 7,
+      "regen": 10,
       "menge": 0,
-      "wind": 5,
-      "windAus": 36,
+      "wind": 6,
+      "windAus": 31,
       "uv": 2.2,
       "auf": "07:03",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-02",
-      "code": 61,
-      "max": 7,
-      "min": 4,
-      "regen": 16,
-      "menge": 2.4,
-      "wind": 6,
-      "windAus": 223,
-      "uv": 1.9,
+      "code": 3,
+      "max": 9,
+      "min": 5,
+      "regen": 15,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 345,
+      "uv": 2.1,
       "auf": "07:05",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-03",
-      "code": 51,
-      "max": 8,
-      "min": 2,
-      "regen": 15,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 35,
+      "code": 61,
+      "max": 9,
+      "min": 4,
+      "regen": 6,
+      "menge": 0.4,
+      "wind": 11,
+      "windAus": 52,
       "uv": 2.1,
       "auf": "07:06",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-04",
-      "code": 3,
-      "max": 8,
-      "min": 1,
-      "regen": 3,
-      "menge": 0,
-      "wind": 13,
+      "code": 51,
+      "max": 9,
+      "min": 5,
+      "regen": 0,
+      "menge": 0.1,
+      "wind": 12,
       "windAus": 53,
       "uv": 2,
       "auf": "07:08",
       "unter": "16:38"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 3,
+      "max": 6,
+      "min": 0,
+      "regen": 0,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 69,
+      "uv": 2,
+      "auf": "07:10",
+      "unter": "16:37"
      }
     ],
     "stunden": [
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 80,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "06:00",
       "grad": 8,
@@ -887,13 +820,13 @@
      {
       "zeit": "09:00",
       "grad": 8,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 9,
-      "code": 3,
+      "grad": 8,
+      "code": 51,
       "regen": 0
      },
      {
@@ -905,19 +838,19 @@
      {
       "zeit": "12:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 11,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 11,
-      "code": 3,
+      "code": 61,
       "regen": 0
      },
      {
@@ -929,7 +862,7 @@
      {
       "zeit": "16:00",
       "grad": 11,
-      "code": 3,
+      "code": 61,
       "regen": 0
      },
      {
@@ -940,8 +873,74 @@
      },
      {
       "zeit": "18:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
       "grad": 10,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 8,
+      "code": 61,
       "regen": 0
      }
     ]
@@ -952,65 +951,52 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
+     "grad": 9,
      "code": 3,
-     "gefuehlt": 9,
-     "wind": 7,
-     "windAus": 63,
-     "feuchte": 86,
+     "gefuehlt": 8,
+     "wind": 6,
+     "windAus": 118,
+     "feuchte": 85,
      "druck": 1023,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 3,
-     "max": 14,
-     "min": 7,
-     "regen": 0,
-     "menge": 0,
-     "wind": 10,
-     "windAus": 123,
-     "uv": 2.3,
-     "auf": "07:18",
-     "unter": "17:12"
-    },
-    "morgen": {
      "datum": "2026-10-30",
      "code": 3,
-     "max": 15,
+     "max": 14,
      "min": 8,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 83,
+     "wind": 9,
+     "windAus": 109,
      "uv": 2.4,
      "auf": "07:20",
      "unter": "17:10"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 3,
+     "max": 13,
+     "min": 6,
+     "regen": 0,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 63,
+     "uv": 2.4,
+     "auf": "07:22",
+     "unter": "17:08"
+    },
     "tage": [
-     {
-      "datum": "2026-10-29",
-      "code": 3,
-      "max": 14,
-      "min": 7,
-      "regen": 0,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 123,
-      "uv": 2.3,
-      "auf": "07:18",
-      "unter": "17:12"
-     },
      {
       "datum": "2026-10-30",
       "code": 3,
-      "max": 15,
+      "max": 14,
       "min": 8,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 83,
+      "wind": 9,
+      "windAus": 109,
       "uv": 2.4,
       "auf": "07:20",
       "unter": "17:10"
@@ -1019,37 +1005,37 @@
       "datum": "2026-10-31",
       "code": 3,
       "max": 13,
-      "min": 7,
-      "regen": 1,
+      "min": 6,
+      "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 39,
+      "wind": 12,
+      "windAus": 63,
       "uv": 2.4,
       "auf": "07:22",
       "unter": "17:08"
      },
      {
       "datum": "2026-11-01",
-      "code": 3,
-      "max": 11,
-      "min": 5,
-      "regen": 2,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 20,
-      "uv": 2.2,
+      "code": 51,
+      "max": 12,
+      "min": 6,
+      "regen": 1,
+      "menge": 0.2,
+      "wind": 12,
+      "windAus": 11,
+      "uv": 2.3,
       "auf": "07:24",
       "unter": "17:06"
      },
      {
       "datum": "2026-11-02",
       "code": 51,
-      "max": 11,
-      "min": 5,
-      "regen": 8,
-      "menge": 2.1,
-      "wind": 8,
-      "windAus": 342,
+      "max": 9,
+      "min": 6,
+      "regen": 14,
+      "menge": 0.5,
+      "wind": 11,
+      "windAus": 344,
       "uv": 2.2,
       "auf": "07:25",
       "unter": "17:05"
@@ -1058,123 +1044,70 @@
       "datum": "2026-11-03",
       "code": 3,
       "max": 10,
-      "min": 4,
-      "regen": 8,
+      "min": 6,
+      "regen": 4,
       "menge": 0,
-      "wind": 12,
-      "windAus": 50,
+      "wind": 14,
+      "windAus": 19,
       "uv": 2.2,
       "auf": "07:27",
       "unter": "17:03"
      },
      {
       "datum": "2026-11-04",
-      "code": 1,
+      "code": 3,
       "max": 11,
-      "min": 3,
-      "regen": 2,
+      "min": 5,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 70,
-      "uv": 1.9,
+      "wind": 12,
+      "windAus": 56,
+      "uv": 2,
       "auf": "07:29",
       "unter": "17:01"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 0,
+      "max": 10,
+      "min": 3,
+      "regen": 0,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 87,
+      "uv": 2,
+      "auf": "07:30",
+      "unter": "16:59"
      }
     ],
     "stunden": [
      {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "06:00",
-      "grad": 10,
-      "code": 0,
+      "grad": 9,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 9,
-      "code": 0,
+      "grad": 10,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 9,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 10,
+      "grad": 9,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 11,
+      "grad": 10,
       "code": 0,
       "regen": 0
      },
@@ -1186,37 +1119,37 @@
      },
      {
       "zeit": "12:00",
+      "grad": 13,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
       "grad": 14,
       "code": 0,
       "regen": 0
      },
      {
-      "zeit": "13:00",
-      "grad": 15,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 15,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
-      "grad": 15,
+      "grad": 14,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 14,
+      "grad": 13,
       "code": 0,
       "regen": 0
      },
@@ -1224,6 +1157,72 @@
       "zeit": "18:00",
       "grad": 12,
       "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 7,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1234,65 +1233,52 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 2,
-     "gefuehlt": 9,
-     "wind": 5,
-     "windAus": 45,
-     "feuchte": 87,
-     "druck": 1017,
+     "grad": 4,
+     "code": 45,
+     "gefuehlt": 2,
+     "wind": 4,
+     "windAus": 96,
+     "feuchte": 100,
+     "druck": 1018,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
+     "datum": "2026-10-30",
      "code": 45,
      "max": 14,
-     "min": 3,
+     "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 56,
-     "uv": 2.5,
-     "auf": "07:09",
-     "unter": "17:07"
-    },
-    "morgen": {
-     "datum": "2026-10-30",
-     "code": 2,
-     "max": 14,
-     "min": 6,
-     "regen": 0,
-     "menge": 0,
-     "wind": 8,
-     "windAus": 53,
+     "windAus": 64,
      "uv": 2.4,
      "auf": "07:11",
      "unter": "17:05"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 3,
+     "max": 12,
+     "min": 5,
+     "regen": 0,
+     "menge": 0,
+     "wind": 10,
+     "windAus": 29,
+     "uv": 2.5,
+     "auf": "07:13",
+     "unter": "17:03"
+    },
     "tage": [
      {
-      "datum": "2026-10-29",
+      "datum": "2026-10-30",
       "code": 45,
       "max": 14,
-      "min": 3,
+      "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 56,
-      "uv": 2.5,
-      "auf": "07:09",
-      "unter": "17:07"
-     },
-     {
-      "datum": "2026-10-30",
-      "code": 2,
-      "max": 14,
-      "min": 6,
-      "regen": 0,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 53,
+      "windAus": 64,
       "uv": 2.4,
       "auf": "07:11",
       "unter": "17:05"
@@ -1300,12 +1286,12 @@
      {
       "datum": "2026-10-31",
       "code": 3,
-      "max": 11,
+      "max": 12,
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 39,
+      "wind": 10,
+      "windAus": 29,
       "uv": 2.5,
       "auf": "07:13",
       "unter": "17:03"
@@ -1313,39 +1299,39 @@
      {
       "datum": "2026-11-01",
       "code": 3,
-      "max": 12,
-      "min": 3,
-      "regen": 2,
-      "menge": 0.3,
-      "wind": 8,
-      "windAus": 41,
-      "uv": 1.7,
+      "max": 11,
+      "min": 6,
+      "regen": 3,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 34,
+      "uv": 2.4,
       "auf": "07:14",
       "unter": "17:02"
      },
      {
       "datum": "2026-11-02",
       "code": 61,
-      "max": 7,
-      "min": 1,
+      "max": 9,
+      "min": 3,
       "regen": 13,
-      "menge": 2.1,
-      "wind": 3,
-      "windAus": 83,
+      "menge": 0.6,
+      "wind": 6,
+      "windAus": 27,
       "uv": 2.3,
       "auf": "07:16",
       "unter": "17:00"
      },
      {
       "datum": "2026-11-03",
-      "code": 45,
-      "max": 10,
-      "min": 2,
-      "regen": 13,
+      "code": 3,
+      "max": 8,
+      "min": 3,
+      "regen": 9,
       "menge": 0,
-      "wind": 13,
-      "windAus": 43,
-      "uv": 2.3,
+      "wind": 12,
+      "windAus": 39,
+      "uv": 1.4,
       "auf": "07:18",
       "unter": "16:58"
      },
@@ -1353,123 +1339,70 @@
       "datum": "2026-11-04",
       "code": 3,
       "max": 11,
-      "min": 2,
-      "regen": 5,
+      "min": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 16,
-      "windAus": 39,
-      "uv": 1.7,
+      "wind": 14,
+      "windAus": 48,
+      "uv": 2.1,
       "auf": "07:19",
       "unter": "16:57"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 1,
+      "max": 9,
+      "min": 2,
+      "regen": 0,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 47,
+      "uv": 2,
+      "auf": "07:21",
+      "unter": "16:55"
      }
     ],
     "stunden": [
      {
-      "zeit": "19:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "06:00",
-      "grad": 6,
-      "code": 2,
+      "grad": 4,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 6,
-      "code": 2,
+      "grad": 4,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 6,
-      "code": 2,
+      "grad": 4,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 7,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 9,
+      "grad": 7,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 11,
+      "grad": 10,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 12,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1487,7 +1420,7 @@
      {
       "zeit": "15:00",
       "grad": 14,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1506,6 +1439,72 @@
       "zeit": "18:00",
       "grad": 12,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 6,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1516,30 +1515,17 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 9,
-     "code": 0,
-     "gefuehlt": 7,
-     "wind": 2,
-     "windAus": 81,
-     "feuchte": 79,
+     "grad": 3,
+     "code": 45,
+     "gefuehlt": 1,
+     "wind": 3,
+     "windAus": 16,
+     "feuchte": 97,
      "druck": 998,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 45,
-     "max": 13,
-     "min": 4,
-     "regen": 0,
-     "menge": 0,
-     "wind": 7,
-     "windAus": 68,
-     "uv": 2.5,
-     "auf": "07:05",
-     "unter": "17:08"
-    },
-    "morgen": {
      "datum": "2026-10-30",
      "code": 45,
      "max": 13,
@@ -1547,25 +1533,25 @@
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 42,
+     "windAus": 40,
      "uv": 2.6,
      "auf": "07:06",
      "unter": "17:06"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 45,
+     "max": 12,
+     "min": 3,
+     "regen": 0,
+     "menge": 0,
+     "wind": 9,
+     "windAus": 36,
+     "uv": 2.5,
+     "auf": "07:08",
+     "unter": "17:04"
+    },
     "tage": [
-     {
-      "datum": "2026-10-29",
-      "code": 45,
-      "max": 13,
-      "min": 4,
-      "regen": 0,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 68,
-      "uv": 2.5,
-      "auf": "07:05",
-      "unter": "17:08"
-     },
      {
       "datum": "2026-10-30",
       "code": 45,
@@ -1574,7 +1560,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 42,
+      "windAus": 40,
       "uv": 2.6,
       "auf": "07:06",
       "unter": "17:06"
@@ -1582,194 +1568,141 @@
      {
       "datum": "2026-10-31",
       "code": 45,
-      "max": 10,
+      "max": 12,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 41,
+      "wind": 9,
+      "windAus": 36,
       "uv": 2.5,
       "auf": "07:08",
       "unter": "17:04"
      },
      {
       "datum": "2026-11-01",
-      "code": 45,
+      "code": 3,
       "max": 11,
-      "min": 3,
-      "regen": 6,
+      "min": 4,
+      "regen": 3,
       "menge": 0.1,
-      "wind": 10,
-      "windAus": 27,
-      "uv": 2.3,
+      "wind": 12,
+      "windAus": 36,
+      "uv": 2.4,
       "auf": "07:09",
       "unter": "17:03"
      },
      {
       "datum": "2026-11-02",
-      "code": 61,
+      "code": 3,
       "max": 9,
-      "min": 1,
-      "regen": 16,
-      "menge": 2,
-      "wind": 7,
-      "windAus": 323,
-      "uv": 2.3,
+      "min": 2,
+      "regen": 8,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 2,
+      "uv": 2.4,
       "auf": "07:11",
       "unter": "17:01"
      },
      {
       "datum": "2026-11-03",
-      "code": 61,
-      "max": 9,
-      "min": 4,
-      "regen": 18,
-      "menge": 0.4,
-      "wind": 12,
-      "windAus": 40,
-      "uv": 1.6,
+      "code": 3,
+      "max": 7,
+      "min": 1,
+      "regen": 8,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 50,
+      "uv": 1.7,
       "auf": "07:12",
       "unter": "17:00"
      },
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 7,
-      "min": 3,
-      "regen": 8,
-      "menge": 0.9,
-      "wind": 13,
-      "windAus": 54,
-      "uv": 0.7,
+      "max": 8,
+      "min": 2,
+      "regen": 3,
+      "menge": 0,
+      "wind": 16,
+      "windAus": 64,
+      "uv": 1.7,
       "auf": "07:14",
       "unter": "16:58"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 3,
+      "max": 8,
+      "min": 2,
+      "regen": 0,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 90,
+      "uv": 2.2,
+      "auf": "07:16",
+      "unter": "16:57"
      }
     ],
     "stunden": [
      {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 4,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 3,
-      "code": 45,
-      "regen": 0
-     },
-     {
       "zeit": "06:00",
-      "grad": 4,
+      "grad": 3,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 4,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 4,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 6,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 7,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 9,
-      "code": 2,
+      "grad": 8,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 10,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 12,
+      "grad": 11,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "15:00",
       "grad": 13,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1788,6 +1721,72 @@
       "zeit": "18:00",
       "grad": 10,
       "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 4,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 4,
+      "code": 45,
       "regen": 0
      }
     ]
@@ -1798,78 +1797,65 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 6,
-     "code": 1,
-     "gefuehlt": 4,
-     "wind": 4,
+     "grad": 4,
+     "code": 3,
+     "gefuehlt": 2,
+     "wind": 7,
      "windAus": 70,
-     "feuchte": 92,
-     "druck": 967,
+     "feuchte": 96,
+     "druck": 966,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-10-29",
-     "code": 45,
-     "max": 11,
-     "min": 4,
-     "regen": 3,
-     "menge": 0,
-     "wind": 9,
-     "windAus": 57,
-     "uv": 2.6,
-     "auf": "06:54",
-     "unter": "17:00"
-    },
-    "morgen": {
      "datum": "2026-10-30",
-     "code": 3,
-     "max": 11,
-     "min": 4,
+     "code": 51,
+     "max": 10,
+     "min": 3,
      "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 70,
+     "windAus": 71,
      "uv": 2.6,
      "auf": "06:55",
      "unter": "16:58"
     },
+    "morgen": {
+     "datum": "2026-10-31",
+     "code": 3,
+     "max": 9,
+     "min": 2,
+     "regen": 20,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 62,
+     "uv": 2.6,
+     "auf": "06:57",
+     "unter": "16:56"
+    },
     "tage": [
      {
-      "datum": "2026-10-29",
-      "code": 45,
-      "max": 11,
-      "min": 4,
-      "regen": 3,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 57,
-      "uv": 2.6,
-      "auf": "06:54",
-      "unter": "17:00"
-     },
-     {
       "datum": "2026-10-30",
-      "code": 3,
-      "max": 11,
-      "min": 4,
+      "code": 51,
+      "max": 10,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 70,
+      "windAus": 71,
       "uv": 2.6,
       "auf": "06:55",
       "unter": "16:58"
      },
      {
       "datum": "2026-10-31",
-      "code": 45,
+      "code": 3,
       "max": 9,
-      "min": 1,
-      "regen": 21,
+      "min": 2,
+      "regen": 20,
       "menge": 0,
-      "wind": 11,
-      "windAus": 47,
+      "wind": 12,
+      "windAus": 62,
       "uv": 2.6,
       "auf": "06:57",
       "unter": "16:56"
@@ -1879,125 +1865,72 @@
       "code": 80,
       "max": 8,
       "min": 1,
-      "regen": 25,
-      "menge": 0.9,
-      "wind": 11,
-      "windAus": 55,
-      "uv": 2,
+      "regen": 55,
+      "menge": 0.7,
+      "wind": 12,
+      "windAus": 51,
+      "uv": 1.2,
       "auf": "06:58",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-02",
-      "code": 45,
+      "code": 3,
       "max": 7,
-      "min": 0,
-      "regen": 10,
+      "min": 1,
+      "regen": 2,
       "menge": 0,
-      "wind": 4,
-      "windAus": 37,
-      "uv": 1.9,
+      "wind": 8,
+      "windAus": 48,
+      "uv": 1,
       "auf": "07:00",
       "unter": "16:53"
      },
      {
       "datum": "2026-11-03",
       "code": 3,
-      "max": 7,
-      "min": 1,
-      "regen": 19,
+      "max": 6,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 64,
-      "uv": 1,
+      "wind": 16,
+      "windAus": 70,
+      "uv": 1.1,
       "auf": "07:01",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 5,
-      "min": 2,
-      "regen": 20,
+      "max": 6,
+      "min": 1,
+      "regen": 3,
       "menge": 0,
       "wind": 20,
       "windAus": 76,
-      "uv": 1.2,
+      "uv": 1.1,
       "auf": "07:03",
       "unter": "16:50"
+     },
+     {
+      "datum": "2026-11-05",
+      "code": 45,
+      "max": 5,
+      "min": 0,
+      "regen": 0,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 86,
+      "uv": 2.2,
+      "auf": "07:04",
+      "unter": "16:49"
      }
     ],
     "stunden": [
      {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "06:00",
       "grad": 5,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
@@ -2008,7 +1941,7 @@
      },
      {
       "zeit": "08:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
@@ -2021,18 +1954,18 @@
      {
       "zeit": "10:00",
       "grad": 5,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 7,
+      "grad": 6,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 8,
+      "grad": 9,
       "code": 2,
       "regen": 0
      },
@@ -2050,20 +1983,20 @@
      },
      {
       "zeit": "15:00",
-      "grad": 11,
+      "grad": 10,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 10,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 9,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -2071,19 +2004,85 @@
       "grad": 8,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 11 und 14 Grad.",
-   "Die Vorhersage für morgen, Freitag: im Norden und Osten leichter Regen, im Süden und Westen bewölkt.",
-   "Die Temperaturen erreichen dann 11 bis 15 Grad.",
-   "Am wärmsten wird es in Köln mit 15 Grad.",
+   "Heute liegen die Höchstwerte zwischen 10 und 14 Grad.",
+   "Die Vorhersage für morgen, Samstag: im Norden und Osten leichter Regen, im Süden und Westen bewölkt.",
+   "Die Temperaturen erreichen dann 9 bis 13 Grad.",
+   "Am wärmsten wird es in Köln mit 13 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
-   "tag": "Freitag",
+   "tag": "Samstag",
    "orte": [
     {
      "name": "Hamburg",
@@ -2104,7 +2103,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 12,
-       "regen": 0.1
+       "regen": 0
       }
      ]
     },
@@ -2120,14 +2119,14 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 14,
+       "grad": 13,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0.4
       }
      ]
     },
@@ -2137,99 +2136,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 0
-      },
-      {
-       "name": "GFS",
-       "heim": "USA",
-       "grad": 13,
-       "regen": 0
-      },
-      {
-       "name": "ECMWF",
-       "heim": "Europa",
-       "grad": 12,
-       "regen": 0.1
-      }
-     ]
-    },
-    {
-     "name": "Köln",
-     "je": [
-      {
-       "name": "ICON",
-       "heim": "Deutscher Wetterdienst",
-       "grad": 14,
-       "regen": 0
-      },
-      {
-       "name": "GFS",
-       "heim": "USA",
-       "grad": 15,
-       "regen": 0
-      },
-      {
-       "name": "ECMWF",
-       "heim": "Europa",
-       "grad": 14,
-       "regen": 0
-      }
-     ]
-    },
-    {
-     "name": "Frankfurt",
-     "je": [
-      {
-       "name": "ICON",
-       "heim": "Deutscher Wetterdienst",
-       "grad": 14,
-       "regen": 0
-      },
-      {
-       "name": "GFS",
-       "heim": "USA",
-       "grad": 15,
-       "regen": 0
-      },
-      {
-       "name": "ECMWF",
-       "heim": "Europa",
-       "grad": 13,
-       "regen": 0
-      }
-     ]
-    },
-    {
-     "name": "Stuttgart",
-     "je": [
-      {
-       "name": "ICON",
-       "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 0
-      },
-      {
-       "name": "GFS",
-       "heim": "USA",
-       "grad": 13,
-       "regen": 0
-      },
-      {
-       "name": "ECMWF",
-       "heim": "Europa",
-       "grad": 12,
-       "regen": 0
-      }
-     ]
-    },
-    {
-     "name": "München",
-     "je": [
-      {
-       "name": "ICON",
-       "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
@@ -2242,15 +2149,117 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 10,
+       "regen": 1.2
+      }
+     ]
+    },
+    {
+     "name": "Köln",
+     "je": [
+      {
+       "name": "ICON",
+       "heim": "Deutscher Wetterdienst",
+       "grad": 11,
+       "regen": 0
+      },
+      {
+       "name": "GFS",
+       "heim": "USA",
+       "grad": 16,
+       "regen": 0
+      },
+      {
+       "name": "ECMWF",
+       "heim": "Europa",
+       "grad": 11,
+       "regen": 0
+      }
+     ]
+    },
+    {
+     "name": "Frankfurt",
+     "je": [
+      {
+       "name": "ICON",
+       "heim": "Deutscher Wetterdienst",
+       "grad": 12,
+       "regen": 0
+      },
+      {
+       "name": "GFS",
+       "heim": "USA",
+       "grad": 14,
+       "regen": 0
+      },
+      {
+       "name": "ECMWF",
+       "heim": "Europa",
+       "grad": 10,
+       "regen": 0
+      }
+     ]
+    },
+    {
+     "name": "Stuttgart",
+     "je": [
+      {
+       "name": "ICON",
+       "heim": "Deutscher Wetterdienst",
+       "grad": 12,
+       "regen": 0
+      },
+      {
+       "name": "GFS",
+       "heim": "USA",
+       "grad": 13,
+       "regen": 0
+      },
+      {
+       "name": "ECMWF",
+       "heim": "Europa",
+       "grad": 10,
+       "regen": 0
+      }
+     ]
+    },
+    {
+     "name": "München",
+     "je": [
+      {
+       "name": "ICON",
+       "heim": "Deutscher Wetterdienst",
+       "grad": 9,
+       "regen": 0
+      },
+      {
+       "name": "GFS",
+       "heim": "USA",
+       "grad": 10,
+       "regen": 0
+      },
+      {
+       "name": "ECMWF",
+       "heim": "Europa",
+       "grad": 9,
        "regen": 0
       }
      ]
     }
    ],
    "spanneGrad": 5,
-   "uneinigRegen": null,
+   "uneinigRegen": {
+    "ort": "Leipzig",
+    "nass": [
+     "ECMWF"
+    ],
+    "trocken": [
+     "ICON",
+     "GFS"
+    ]
+   },
    "saetze": [
-    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 9 und 14 Grad."
+    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 11 und 16 Grad.",
+    "Und in Leipzig erwartet ECMWF Regen, ICON und GFS dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -3355,7 +3364,7 @@
      "l": 15.11,
      "s": [
       0.25,
-      6.0,
+      6,
       10.52
      ]
     },
@@ -7600,524 +7609,6 @@
       26.45,
       31.74,
       38.64
-     ]
-    }
-   ]
-  },
-  {
-   "id": "kehlsteinhaus-brand-obersalzberg",
-   "rubrik": "Deutschland",
-   "zeit": "2026-10-26T19:57:03.000Z",
-   "aktualisiert": "aktualisiert um 21:26 Uhr",
-   "titel": "Expertenkommission soll Wiederaufbau des Kehlsteinhauses vorbereiten",
-   "vorspann": "Nach dem Brand des Kehlsteinhauses bei Berchtesgaden plant die bayerische Staatsregierung den Wiederaufbau des historischen Gebäudes. Eine Kommission aus Fachleuten soll dafür nach Angaben von Kunstminister Markus Blume ein Konzept erarbeiten.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Nach einem Brand am Kehlsteinhaus bei Berchtesgaden plant die bayerische Staatsregierung den Wiederaufbau des Gebäudes.",
-    "Eine Kommission mit Experten soll dazu ein Konzept entwickeln.",
-    "Kunstminister Markus Blume betonte, das Gebäude solle als historisches Zeugnis und Aufklärungsort erhalten bleiben.",
-    "Fachleute wie Sven Keller weisen auf die historische Belastung des Ortes hin."
-   ],
-   "einig": [
-    [
-     "Das Kehlsteinhaus hoch über Berchtesgaden ist zu großen Teilen niedergebrannt oder beschädigt worden.",
-     [
-      "Süddeutsche Zeitung",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "Eine Expertenkommission soll den Wiederaufbau des Kehlsteinhauses vorbereiten.",
-     [
-      "Deutschlandfunk",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Kunstminister Markus Blume erklärte, das Gebäude solle als Zeugnis der Geschichte und Ort der Aufklärung erhalten bleiben.",
-     [
-      "Deutschlandfunk",
-      "Süddeutsche Zeitung"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Wie das konkrete Konzept der Expertenkommission aussehen wird und ob eine vollständige Rekonstruktion erfolgt, steht noch nicht fest."
-   ],
-   "positionen": [
-    [
-     "Markus Blume (Bayerischer Kunstminister, CSU)",
-     "Befürwortet den Erhalt und Wiederaufbau als historisches Zeugnis und Ort der Aufklärung.",
-     "Deutschlandfunk, Süddeutsche Zeitung"
-    ],
-    [
-     "Joachim Herrmann (Bayerischer Innenminister, CSU)",
-     "Bekannte sich als erstes Mitglied der Staatsregierung zum Wiederaufbau des Hauses.",
-     "Süddeutsche Zeitung"
-    ],
-    [
-     "Sven Keller (Leiter der historischen Dokumentation Obersalzberg)",
-     "Äußert Vorbehalte gegenüber einer reinen Rekonstruktion und verweist auf die Nutzung als Wallfahrtsort für Rechtsextreme.",
-     "Süddeutsche Zeitung"
-    ]
-   ],
-   "fehlend": "Der genaue Inhalt des Spiegel-Artikels war aufgrund einer Bezahlschranke nicht einsehbar.",
-   "medien": [
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "26.10.26, 20:57",
-     "fokus": "–",
-     "text": "Nach dem Brand des Kehlsteinhauses bei Berchtesgaden soll eine Expertenkommission den Wiederaufbau vorbereiten. Man wolle das Gebäude als Zeugnis der Geschichte und Ort der Aufklärung für kommende Generationen erhalten, sagte Bayerns Kunstminister Blume der Deutschen Presse-Agentur.",
-     "url": "https://www.deutschlandfunk.de/expertenkommission-soll-wiederaufbau-von-kehlsteinhaus-vorbereiten-102.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "26.10.26, 19:53",
-     "fokus": "–",
-     "text": "Ein Feuer hat das Kehlsteinhaus in der Nähe des Obersalzbergs weitgehend zerstört. Historiker Sven Keller sagt, welche Bedeutung Hitlers früheres Teehaus heute noch hat. Und wie man mit der Ruine umgehen sollte.",
-     "url": "https://www.spiegel.de/panorama/gesellschaft/kehlsteinhaus-in-berchtesgaden-was-sollte-mit-dem-abgebrannten-kehlsteinhaus-passieren-herr-keller-a-2b9df635-1d80-4244-a142-8e70fcefc62e#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 1,
-      "woerter": 126,
-      "satzlaenge": 14,
-      "langeWoerter": 37
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "26.10.26, 15:19",
-     "fokus": "–",
-     "text": "Wie wichtig war das Kehlsteinhaus für die Nazis? Als Leiter der historischen Dokumentation Obersalzberg hat Sven Keller darauf einen ganz eigenen Blick. Im Interview spricht er über das Haus als Wallfahrtsort für Rechtsextreme – und räumt mit einem weitverbreiteten Mythos auf.",
-     "url": "https://www.sueddeutsche.de/bayern/kehlsteinhaus-abgebrannt-zukunft-historiker-sven-keller-interview-li.3569039",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 189,
-      "satzlaenge": 21,
-      "langeWoerter": 35
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Hintergrundinformationen zur Tat",
-     "Die Süddeutsche Zeitung nennt Details zur mutmaßlichen Brandstiftung durch einen psychisch kranken Mann, während der Deutschlandfunk nur vom Brand spricht."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Bayerns Kunstminister Markus Blume und eine Expertenkommission",
-    "was": "Planung des Wiederaufbaus nach Brand",
-    "wann": "Am späten Freitagabend und den Folgetagen",
-    "wo": "Kehlsteinhaus bei Berchtesgaden",
-    "wie": "Durch Erarbeitung eines Konzepts mit Fachleuten",
-    "warum": "Erhalt als Zeugnis der Geschichte laut Kunstminister Blume",
-    "quellenlage": "Mitteilungen der bayerischen Ministerien und Berichte von Nachrichtenmedien"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Das Kehlsteinhaus in der Nähe von Berchtesgaden ist nach Angaben der Süddeutschen Zeitung zu großen Teilen niedergebrannt. Das Feuer brach laut Berichten am späten Freitagabend aus. Die bayerische Staatsregierung hat angekündigt, das historische Gebäude wieder aufzubauen. Zur Vorbereitung dieses Vorhabens soll eine Arbeitsgruppe aus Fachleuten eingesetzt werden. Diese Entscheidung gaben Regierungsvertreter bekannt.",
-      "Als Tatverdächtiger gilt laut Angaben der Süddeutschen Zeitung ein psychisch kranken Mann, der das Feuer mutmaßlich gelegt haben soll. Bei dem Gebäude handelt es sich nach Angaben der Süddeutschen Zeitung um eine Immobilie auf 1834 Metern Seehöhe. Durch das Feuer entstand Sachschaden an der historischen Bausubstanz.",
-      "Bereits am Tag nach dem Brandfall hatte sich die bayerische Landespolitik für eine Wiederherstellung des Hauses ausgesprochen. Nach Angaben der Süddeutschen Zeitung erklärte Innenminister Joachim Herrmann als erstes Regierungsmitglied die Absicht zum Wiederaufbau. Am Montag folgte eine offizielle Bestätigung dieser Pläne durch Kunstminister Markus Blume."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Bayerns Kunstminister Markus Blume teilte mit, dass eine Expertenkommission den Wiederaufbau des Kehlsteinhauses vorbereiten wird. In diesem Gremium sollen laut der Süddeutschen Zeitung Fachleute aus verschiedenen Bereichen wie der Denkmalpflege, dem Bauwesen sowie der Erinnerungskultur zusammenarbeiten. Das Gremium hat die Aufgabe, zeitnah ein entsprechendes Konzept auszuarbeiten.",
-      "Die Kommission soll ein tragfähiges Wiederaufbaukonzept entwickeln, wie Kunstminister Blume gegenüber der Deutschen Presse-Agentur erläuterte. Ziel ist es laut den Berichten, das Gebäude zu erhalten. Die genaue Zusammensetzung des Gremiums und der Zeitplan wurden in den vorliegenden Berichten im Detail noch nicht vollständig benannt."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Das Kehlsteinhaus wurde nach Angaben der Süddeutschen Zeitung unter der Regie von Hitlers Vertrautem Martin Bormann für diesen errichtet. Das Gebäude hoch über Berchtesgaden wird in den Berichten als historisch exponiert und als politischer Protzort beschrieben, den der NS-Diktator aber kaum genutzt habe. Das Gebäude galt in der Vergangenheit zugleich als stark frequentiertes Ausflugsziel.",
-      "Gleichzeitig wird der Ort historisch als belastet eingestuft. Sven Keller, Leiter der historischen Dokumentation Obersalzberg, wies laut der Süddeutschen Zeitung darauf hin, dass das Gebäude in der Vergangenheit auch von Rechtsextremen als Wallfahrtsort genutzt wurde. Im Zusammenhang mit dem Brand äußerte Keller Skepsis bezüglich einer Rekonstruktion."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Expertenkommission dient dazu, Fachwissen für politische und bauliche Entscheidungen einzubringen. Erinnerungskultur bezeichnet den gesellschaftlichen Umgang mit historisch belasteten Orten und der Geschichte."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Kunstminister Markus Blume begründete die Entscheidung der bayerischen Staatsregierung mit dem historischen Wert des Ortes. Er sagte der Deutschen Presse-Agentur, man wolle das Gebäude als Zeugnis der Geschichte und als Ort der Aufklärung für kommende Generationen erhalten. Blume bekräftigte damit den staatlichen Willen zum Erhalt der Anlage.",
-      "Innenminister Joachim Herrmann hatte sich nach Angaben der Süddeutschen Zeitung bereits unmittelbar nach dem Brand für die Wiedererrichtung ausgesprochen. Sven Keller von der Dokumentation Obersalzberg betonte laut der Süddeutschen Zeitung die historische Problematik des Gebäudes und äußerte sich kritisch zu einer reinen Rekonstruktion."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die angekündigte Expertenkommission soll laut Kunstminister Blume zügig ein tragfähiges Wiederaufbaukonzept entwickeln. Auf der Grundlage dieser Empfehlungen wird über das weitere Vorgehen entschieden. Ein genauer Termin für den Abschluss der Arbeiten steht derzeit nicht fest."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Samstag",
-     "Einsatzkräfte führen schwierige Löscharbeiten durch, während Behörden auf einer Pressekonferenz über den Brand und die Unterbringung des Verdächtigen informieren."
-    ],
-    [
-     "Freitagabend, 21.52 Uhr",
-     "Erste Rettungskräfte treffen am Brandort ein."
-    ],
-    [
-     "Nacht zum Samstag",
-     "Die Polizei stoppt und nimmt einen verdächtigen Motorradfahrer auf der Kehlsteinstraße fest."
-    ],
-    [
-     "Samstag",
-     "Behörden informieren auf einer Pressekonferenz über den Großbrand und den Verdächtigen."
-    ],
-    [
-     "Nacht zum Sonntag",
-     "Das Feuer im Kehlsteinhaus flammt abermals auf und muss von der Feuerwehr gelöscht werden."
-    ],
-    [
-     "Freitagabend, 21.15 Uhr / 21.50 Uhr",
-     "Ein Rauchmelder löst den Brandalarm am Kehlsteinhaus aus."
-    ],
-    [
-     "Nacht zum Samstag",
-     "Erste Einsatzkräfte treffen am Brandort ein und stellen den Vollbrand fest; die Polizei nimmt einen verdächtigen Motorradfahrer fest."
-    ],
-    [
-     "Samstag",
-     "Die Behörden informieren auf einer Pressekonferenz über den Großbrand und das psychiatrische Kurzgutachten zum Verdächtigen."
-    ],
-    [
-     "Nacht zum Sonntag",
-     "Das Feuer flammt aufgrund von Glutnestern erneut auf und wird von der Feuerwehr gelöscht."
-    ],
-    [
-     "Freitagabend",
-     "Das Feuer im Kehlsteinhaus bricht aus."
-    ],
-    [
-     "Samstag",
-     "Bayerns Innenminister Joachim Herrmann spricht sich für den Wiederaufbau aus."
-    ],
-    [
-     "Montag",
-     "Kunstminister Markus Blume kündigt die Einsetzung einer Expertenkommission an."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Markus Blume",
-     "bildunterschrift": "Bayerns Kunstminister Markus Blume kündigte die Einsetzung einer Expertenkommission an."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Kehlsteinhaus",
-     "bildunterschrift": "Das Kehlsteinhaus bei Berchtesgaden."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Dokumentation Obersalzberg",
-     "bildunterschrift": "Die Dokumentation Obersalzberg befasst sich wissenschaftlich mit der Geschichte."
-    }
-   ],
-   "geprueft": true,
-   "korrekturen": [
-    "Entfernung unbelegter Details im Abschnitt Zum Verständnis und im Artikel, Ersetzung durch Informationen aus den Berichten."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Expertenkommission",
-      "Eine Gruppe von Fachleuten, die für ein bestimmtes Problem oder Vorhaben Lösungen erarbeitet."
-     ],
-     [
-      "Erinnerungskultur",
-      "Der Umgang einer Gesellschaft mit ihrer Geschichte, besonders mit schwierigen oder verbrecherischen Epochen."
-     ]
-    ],
-    "fragen": [
-     "Welche Gründe sprechen nach Ansicht von Politikern für den Erhalt des Kehlsteinhauses, und welche Bedenken äußern Fachleute dagegen?",
-     "Welche Rolle spielen Expertenkommissionen bei politischen Entscheidungen über historische Gebäude?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer kündigte die Einsetzung einer Expertenkommission für das Kehlsteinhaus an?",
-      "optionen": [
-       "Der Bundeskanzler",
-       "Bayerns Kunstminister Markus Blume",
-       "Der Leiter der Feuerwehr"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Deutschlandfunk und Süddeutscher Zeitung kündigte Bayerns Kunstminister Markus Blume die Kommission an."
-     },
-     {
-      "frage": "In welcher Höhe befindet sich das Kehlsteinhaus?",
-      "optionen": [
-       "1000 Meter",
-       "1834 Meter",
-       "2500 Meter"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die Süddeutsche Zeitung nennt eine Höhe von 1834 Metern Seehöhe."
-     },
-     {
-      "frage": "Wer äußerte Skepsis gegenüber einer reinen Rekonstruktion des Gebäudes?",
-      "optionen": [
-       "Sven Keller von der Dokumentation Obersalzberg",
-       "Der bayerische Innenminister Joachim Herrmann",
-       "Ein Sprecher der Polizei"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut der Süddeutschen Zeitung äußerte Sven Keller Vorbehalte gegenüber einer einfachen Wiederherstellung."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Nach einem Brand am Kehlsteinhaus bei Berchtesgaden plant die bayerische Regierung den Wiederaufbau des historischen Gebäudes.",
-    "absaetze": [
-     "Das Kehlsteinhaus liegt in den Bergen in Bayern. Am späten Freitagabend brach dort ein Feuer aus. Das Gebäude brannte zu großen Teilen nieder.",
-     "Bayerns Kunstminister Markus Blume kündigte an, dass eine Expertenkommission den Wiederaufbau vorbereiten soll. Fachleute sollen ein Konzept erarbeiten.",
-     "Das Gebäude soll nach Angaben des Ministers als Zeugnis der Geschichte und als Ort der Aufklärung erhalten bleiben. Kritiker weisen jedoch auf die belastete Geschichte des Ortes hin."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Das Kehlsteinhaus bei Berchtesgaden ist nach einem Brand zu großen Teilen beschädigt worden. Nach Angaben des bayerischen Kunstministers Markus Blume soll eine Expertenkommission den Wiederaufbau vorbereiten. Das Gebäude soll als Zeugnis der Geschichte erhalten bleiben."
-    ],
-    "lang": [
-     "Das Kehlsteinhaus bei Berchtesgaden ist nach einem Brand zu großen Teilen zerstört worden. Das Feuer brach nach übereinstimmenden Berichten am späten Freitagabend aus. Nach Angaben der Süddeutschen Zeitung gilt ein psychisch kranker Mann als mutmaßlicher Täter. Das Gebäude liegt auf einer Höhe von 1834 Metern. Bayerns Innenminister Joachim Herrmann sprach sich als erstes Regierungsmitglied für den Wiederaufbau aus. Das bestätigte am Montag auch Kunstminister Markus Blume. Blume kündigte an, dass eine Expertenkommission ein Konzept für den Wiederaufbau erarbeiten soll. Das Gebäude soll nach Angaben des Ministers als Zeugnis der Geschichte und Ort der Aufklärung erhalten bleiben. Sven Keller von der Dokumentation Obersalzberg äußerte dagegen Kritik an einer reinen Rekonstruktion und verwies auf die Nutzung durch Rechtsextreme. Ein genauer Zeitpunkt für den Wiederaufbau steht noch nicht fest."
-    ],
-    "einfach": [
-     "Das Kehlsteinhaus in Bayern hat gebrannt. Das Gebäude ist stark beschädigt. Eine Expertenkommission soll den Wiederaufbau planen. Das sagte der bayerische Kunstminister Markus Blume. Das Haus soll als Ort der Geschichte erhalten bleiben. Kritiker erinnern an die dunkle Vergangenheit des Gebäudes."
-    ]
-   },
-   "kurz": [
-    "Das Kehlsteinhaus bei Berchtesgaden ist durch einen Brand beschädigt worden.",
-    "Eine Expertenkommission soll nach Angaben von Kunstminister Markus Blume den Wiederaufbau vorbereiten.",
-    "Das Gebäude soll als historisches Zeugnis und Ort der Aufklärung erhalten bleiben."
-   ],
-   "fakten": [
-    [
-     "Höhe des Kehlsteinhauses",
-     "1834 Meter"
-    ]
-   ],
-   "dossier": {
-    "slug": "kehlsteinhaus-brand-wiederaufbau",
-    "titel": "Brand und Wiederaufbau des Kehlsteinhauses"
-   },
-   "bildInfo": {
-    "titel": "The Watzman 8-15-2010.jpg",
-    "beschreibung": "The Watzmann mountain photographed from Berchtesgaden , Bavaria, Germany (8-15-2010)",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Watzman_8-15-2010.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Watzman_8-15-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:The_Watzman_8-15-2010.jpg",
-    "urheber": "Wikiuser100",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artikel": "Berchtesgaden",
-    "sprache": "en",
-    "art": "ort",
-    "suchbegriff": "Berchtesgaden town view",
-    "bildunterschrift": "Das Bergmassiv des Watzmann in Berchtesgaden, in dessen Region sich der Obersalzberg befindet.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "The Watzman 8-15-2010.jpg",
-     "beschreibung": "The Watzmann mountain photographed from Berchtesgaden , Bavaria, Germany (8-15-2010)",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Watzman_8-15-2010.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/The_Watzman_8-15-2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:The_Watzman_8-15-2010.jpg",
-     "urheber": "Wikiuser100",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "artikel": "Berchtesgaden",
-     "sprache": "en",
-     "art": "ort",
-     "suchbegriff": "Berchtesgaden town view",
-     "bildunterschrift": "Das Bergmassiv des Watzmann in Berchtesgaden, in dessen Region sich der Obersalzberg befindet.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Rathaus, Berchtesgaden (Town Hall, Berchtesgaden) - geograph.org.uk - 7935.jpg",
-     "beschreibung": "Rathaus, Berchtesgaden (Town Hall, Berchtesgaden)",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rathaus%2C_Berchtesgaden_%28Town_Hall%2C_Berchtesgaden%29_-_geograph.org.uk_-_7935.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Rathaus%2C_Berchtesgaden_%28Town_Hall%2C_Berchtesgaden%29_-_geograph.org.uk_-_7935.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Rathaus,_Berchtesgaden_(Town_Hall,_Berchtesgaden)_-_geograph.org.uk_-_7935.jpg",
-     "urheber": "Colin Smith",
-     "lizenz": "CC BY-SA 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-     "art": "ort",
-     "suchbegriff": "Berchtesgaden town view",
-     "bildunterschrift": "Das Rathaus in Berchtesgaden als Ansicht des Ortes, in dem das Feuer ausbrach.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Ärmelabzeichen der Bayerischen Polizei (dunkelblau).jpg",
-     "beschreibung": "Shoulder patch of the Bavarian State Police (Bayerische Polizei) with blue backround; the previous version had a green background.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/%C3%84rmelabzeichen_der_Bayerischen_Polizei_%28dunkelblau%29.jpg/1280px-%C3%84rmelabzeichen_der_Bayerischen_Polizei_%28dunkelblau%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/%C3%84rmelabzeichen_der_Bayerischen_Polizei_%28dunkelblau%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:%C3%84rmelabzeichen_der_Bayerischen_Polizei_(dunkelblau).jpg",
-     "urheber": "StMI",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Bavarian Police",
-     "sprache": "en",
-     "art": "institution",
-     "suchbegriff": "Bavarian State Ministry of the Interior",
-     "bildunterschrift": "Das Abzeichen der Bayerischen Polizei, die nach dem Brand Ermittlungen und eine Festnahme durchführte.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Das Kehlsteinhaus bei Berchtesgaden ist nach einem Brand zu großen Teilen zerstö",
-     "d": "da56b0267a.mp3",
-     "l": 52.88,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Das Kehlsteinhaus bei Berchtesgaden ist nach einem Brand zu großen Teilen beschä",
-     "d": "c1ba9af344.mp3",
-     "l": 15.02,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Das Kehlsteinhaus in Bayern hat gebrannt. Das Gebäude ist stark beschädigt. Eine",
-     "d": "6881ba0503.mp3",
-     "l": 20.05,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Wie das konkrete Konzept der Expertenkommission aussehen wird und ob eine vollst",
-     "d": "1651539b9a.mp3",
-     "l": 8.07,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Expertenkommission? Eine Gruppe von Fachleuten, die für ",
-     "d": "12bac0453c.mp3",
-     "l": 10.29,
-     "s": [
-      0.25,
-      3.85
-     ]
-    },
-    {
-     "k": "Das Kehlsteinhaus in der Nähe von Berchtesgaden ist nach Angaben der Süddeutsche",
-     "d": "8267b055ad.mp3",
-     "l": 44.85,
-     "s": [
-      0.25,
-      7.49,
-      11.47,
-      16.51,
-      22.08,
-      25.07,
-      32.66,
-      40.69
-     ]
-    },
-    {
-     "k": "Bayerns Kunstminister Markus Blume teilte mit, dass eine Expertenkommission den ",
-     "d": "f16bcc6fa3.mp3",
-     "l": 40.85,
-     "s": [
-      0.25,
-      7.83,
-      17.5,
-      22.11,
-      29.66,
-      33.17
-     ]
-    },
-    {
-     "k": "Das Kehlsteinhaus wurde nach Angaben der Süddeutschen Zeitung unter der Regie vo",
-     "d": "a8edc187db.mp3",
-     "l": 42.6,
-     "s": [
-      0.25,
-      8.08,
-      17.67,
-      22.66,
-      26.4,
-      37.19
-     ]
-    },
-    {
-     "k": "Eine Expertenkommission dient dazu, Fachwissen für politische und bauliche Entsc",
-     "d": "25bf57c0c8.mp3",
-     "l": 12.8,
-     "s": [
-      0.25,
-      6.27
-     ]
-    },
-    {
-     "k": "Kunstminister Markus Blume begründete die Entscheidung der bayerischen Staatsreg",
-     "d": "a65f3532b5.mp3",
-     "l": 38.33,
-     "s": [
-      0.25,
-      7.65,
-      16.2,
-      19.96,
-      27.47
-     ]
-    },
-    {
-     "k": "Die angekündigte Expertenkommission soll laut Kunstminister Blume zügig ein trag",
-     "d": "9874766e8c.mp3",
-     "l": 16.13,
-     "s": [
-      0.25,
-      7.02,
-      11.47
      ]
     }
    ]

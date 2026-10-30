@@ -1,6 +1,181 @@
 {
- "stand": "2026-10-29T18:56:08.491Z",
+ "stand": "2026-10-30T05:38:44.031Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-die-blindenschrift",
+   "zeit": "2026-10-30T05:43:30.386Z",
+   "bereich": "Sprache und Kultur",
+   "titel": "Wie funktioniert eigentlich die Blindenschrift?",
+   "vorspann": "Blinde Menschen können mit ihren Fingern lesen. Dafür nutzen sie spezielle Tastschriften.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Als Blindenschrift werden Systeme von Schriftzeichen bezeichnet, die von Blinden gelesen werden können. Das Lesen erfolgt mit dem Tastsinn der Finger. Die erhabenen Strukturen der Zeichen werden von ihrer planen Umgebung unterschieden. Es gibt zwei grundsätzliche Richtungen der Blindenschrift. Das sind die Reliefschrift und die Punktschrift.",
+      "Bei der Reliefschrift werden normale lateinische Buchstaben oder vereinfachte grafische Muster tastbar gemacht. Ein Beispiel dafür ist das Moonalphabet. Die Punktschrift bildet die Buchstaben in einem Punkte-Raster nach oder übersetzt sie in einen Code. Die Brailleschrift ist die am weitesten verbreitete Punktschrift."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Die Brailleschrift wurde im Jahr 1825 von Louis Braille entwickelt. Ihr Namensgeber war selbst blind. Er gestaltete sie als ein für blinde Menschen praktikables Schriftsystem. Die Blindenschrift besteht aus sechs möglichen Punkten. Diese sind in drei Zeilen und zwei Spalten angeordnet.",
+      "Punktschriften bestehen aus erhabenen, fühlbaren Punkten. Die Brailleschrift wird mit speziellen Brailledruckern oder Punktschriftmaschinen zu Papier gebracht. Der Platzbedarf der Punktschriftsysteme ist enorm, weil die Zeichen größer sind als in der Schwarzschrift. Auch das Papier muss viel dicker sein, damit man es dauerhaft prägen kann.",
+      "Die dauerhafte Darstellung erfolgt in der Regel auf Karton oder dickerem Papier. Weitere Möglichkeiten sind Metallplatten oder Kunststofffolien. Mit einer Punktschrifttafel drückt man die Buchstaben mit einem Griffel von der Rückseite aus in das Papier. Bei der Punktschriftmaschine sind jedem Punkt des Buchstabens Tasten zugeordnet."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Entwicklung der Blindenschriften ist gut dokumentiert. Die erste Punktschrift wurde im Jahr 1670 von Francesco Lana Terzi entworfen. Charles Barbier entwickelte im Jahr 1815 seine Nachtschrift. Louis Braille erfand die nach ihm benannte Schrift im Jahr 1825. Die historischen und technischen Hintergründe sind in Archiven und Fachliteratur beschrieben."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Entwicklungsjahr der Brailleschrift",
+     "1825"
+    ],
+    [
+     "Anzahl Punkte im Braille-System",
+     "6"
+    ],
+    [
+     "Entwicklungsjahr der Nachtschrift von Barbier",
+     "1815"
+    ],
+    [
+     "Entwurf der ersten Punktschrift",
+     "1670"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Schwarzschrift",
+     "Die normale Schrift, die von Sehenden gelesen wird."
+    ],
+    [
+     "Brailleschrift",
+     "Eine weit verbreitete Punktschrift für blinde Menschen, die aus sechs Punkten in einem Raster besteht."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann wurde die Brailleschrift entwickelt?",
+     "optionen": [
+      "1670",
+      "1815",
+      "1825"
+     ],
+     "richtig": 2,
+     "erklaerung": "Die Brailleschrift wurde im Jahr 1825 von Louis Braille entwickelt."
+    }
+   ],
+   "video": [
+    "Blinde Menschen können mit den Fingern lesen.",
+    "Dazu nutzen sie den Tastsinn.",
+    "Erhabene Strukturen helfen beim Erkennen.",
+    "Die bekanntest ist die Brailleschrift.",
+    "Louis Braille erfand sie im Jahr achtzehnhundertfünfundzwanzig.",
+    "Sie besteht aus sechs Punkten.",
+    "Die Punkte sind in zwei Spalten angeordnet.",
+    "Auch Maschinen können diese Schrift drucken."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Blindenschrift",
+    "bildunterschrift": "Die Blindenschrift ermöglicht blinden Menschen das Lesen durch den Tastsinn."
+   },
+   "quelle": {
+    "titel": "Blindenschrift",
+    "url": "https://de.wikipedia.org/wiki/Blindenschrift",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 268,
+   "bildInfos": [
+    {
+     "titel": "Blindenschrift-1915.jpg",
+     "beschreibung": "Blindenschrift-1915",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blindenschrift-1915.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blindenschrift-1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Blindenschrift-1915.jpg",
+     "urheber": "unbekannt",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Blindenschrift",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die Blindenschrift ermöglicht blinden Menschen das Lesen durch den Tastsinn."
+    },
+    {
+     "titel": "Achsknick der Cathédrale St. Corentin in Quimper.JPG",
+     "beschreibung": "Achsknick der Cathédrale St. Corentin in Quimper",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Achsknick_der_Cath%C3%A9drale_St._Corentin_in_Quimper.JPG/1280px-Achsknick_der_Cath%C3%A9drale_St._Corentin_in_Quimper.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Achsknick_der_Cath%C3%A9drale_St._Corentin_in_Quimper.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Achsknick_der_Cath%C3%A9drale_St._Corentin_in_Quimper.JPG",
+     "urheber": "XFalkx",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Achsknick der Cathédrale St. Corentin in Quimper"
+    },
+    {
+     "titel": "Blindenschrift Handlauf Hauptbahnhof Dresden - (Zu den Gleisen 3-4) - Bild 002.jpg",
+     "beschreibung": "+Blindenschrift Handlauf Hauptbahnhof - (Zu den Gleise 3-4) - Bild 002",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Blindenschrift_Handlauf_Hauptbahnhof_Dresden_-_%28Zu_den_Gleisen_3-4%29_-_Bild_002.jpg/1280px-Blindenschrift_Handlauf_Hauptbahnhof_Dresden_-_%28Zu_den_Gleisen_3-4%29_-_Bild_002.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Blindenschrift_Handlauf_Hauptbahnhof_Dresden_-_%28Zu_den_Gleisen_3-4%29_-_Bild_002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Blindenschrift_Handlauf_Hauptbahnhof_Dresden_-_(Zu_den_Gleisen_3-4)_-_Bild_002.jpg",
+     "urheber": "Lupus in Saxonia",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "+Blindenschrift Handlauf Hauptbahnhof - (Zu den Gleise 3-4) - Bild 002"
+    },
+    {
+     "titel": "Six Principal Systems of Embossed Type.jpg",
+     "beschreibung": "Six Principal Systems of Embossed Type",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Six_Principal_Systems_of_Embossed_Type.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Six_Principal_Systems_of_Embossed_Type.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Six_Principal_Systems_of_Embossed_Type.jpg",
+     "urheber": "Charles George Herbermann",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Six Principal Systems of Embossed Type"
+    },
+    {
+     "titel": "Slate and Stylus 3.jpg",
+     "beschreibung": "slate and stylus, 3 Slates and 2 Styli",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Slate_and_Stylus_3.jpg/1280px-Slate_and_Stylus_3.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Slate_and_Stylus_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Slate_and_Stylus_3.jpg",
+     "urheber": "Jeepday",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "slate and stylus, 3 Slates and 2 Styli"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Blindenschrift-1915.jpg",
+    "beschreibung": "Blindenschrift-1915",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blindenschrift-1915.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Blindenschrift-1915.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Blindenschrift-1915.jpg",
+    "urheber": "unbekannt",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Blindenschrift",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Die Blindenschrift ermöglicht blinden Menschen das Lesen durch den Tastsinn."
+   }
+  },
   {
    "id": "warum-helfen-menschen-bei-notfaellen-manchmal-nicht",
    "zeit": "2026-10-29T19:19:20.043Z",
@@ -6693,166 +6868,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Gezeiten lassen das Wasser an den Küsten steigen und fallen."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-die-pantomime",
-   "zeit": "2026-10-14T18:37:40.656Z",
-   "bereich": "Sprache und Kultur",
-   "titel": "Wie funktioniert eigentlich die Pantomime?",
-   "vorspann": "Pantomime ist eine Form der darstellenden Kunst ganz ohne Worte. Dabei drücken Künstler Handlungen und Gefühle nur mit Mimik und Gestik aus.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Nach modernem Verständnis ist die Pantomime ein körperlicher Ausdruck ohne gesprochene Worte. Ein Künstler, der diese Kunst ausübt, wird ebenfalls Pantomime oder Pantomimin genannt. Äußerungen von Menschen ohne Worte werden oft als pantomimisch bezeichnet. Historisch gesehen wurden ganz unterschiedliche Kunstformen unter diesem Begriff verstanden. Im Theater der römischen Antike war der Pantomimus eine Art virtuoser Solotänzer. Diese Form war weit verbreitet, bis das Christentum alle Formen öffentlicher Aufführungen verbot.",
-      "Im Byzantinischen Reich blieb diese Form von der Spätantike bis zum Ende des Mittelalters verbreitet. In der Neuzeit versuchten verschiedene Theaterformen, sich auf die Antike zu berufen. Mit der Commedia dell’arte entstand im 16. Jahrhundert eine neuzeitliche Form der Pantomime. Diese verbreitete sich über Paris auf der ganzen westlichen Welt. Die Kunstform wurde oft durch strenge Theaterzensur begünstigt, da Aufführungen ohne Text keine politischen Äußerungen enthielten."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Im 18. Jahrhundert war die Pantomime ein populäres Gegenstück zum höfischen Ballett. Überall in Europa präsentierten Tanzkompanien diese musikbetonten Stücke oft mit vielen Kostümwechseln. Im Pariser Jahrmarktstheater entstand die stumme Pantomime. Die offiziellen Theater hatten damals ein Textverbot für diese Spielstätten durchgesetzt. Später entwickelte sich die stumme Rolle als sympathische und hilflose Figur, die sich bis zum modernen Filmmelodram erhalten hat.",
-      "Im 20. Jahrhundert ging die Pantomime neue Wege weg von der Zirkusakrobatik. Étienne Decroux entwickelte eine autonome Pantomime, die sich auf wesentliche Ausdrucksmittel konzentrierte. Er nannte sein Schema die bewegte Statue oder mime statuaire. Dabei sollte der Körper als bloßes Material von der Last der Erzählung und Rollenpsychologie befreit werden. Der Körper wurde zum alleinigen Instrument der szenischen Gestaltung.",
-      "Ein wichtiger Teil dieser neuen Mimenschule war die Befreiung von naturalistischer Überladenheit mit Kostümen und Requisiten. Stattdessen setzten die Künstler auf eine Bewusstmachung von Haltung und Geste. Zu den weiteren Forschungsgebieten gehörten die Bewegungsisolation und das Gleichgewicht als gymnastische Anforderung. Decroux erklärte den vom Tänzerischen gereinigten mime pur zur Grundform der Pantomime."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Historische Quellen und Schriften aus verschiedenen Jahrhunderten dokumentieren die Entwicklung der Pantomime. Dazu gehören Traktate wie das Werk von John Weaver aus dem Jahr 1728 über die Geschichte der Mimen und Pantomimen. Auch theoretische Äußerungen von Autoren wie Jean-Baptiste Dubos im Jahr 1719 oder Denis Diderot im Jahr 1758 geben Auskunft über die Ästhetik der Pantomime. Johann Jakob Engel fasste im Jahr 1786 in seinen Ideen zu einer Mimik viele Tendenzen des Jahrhunderts zusammen."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Die erhaltenen Quellen erlauben es laut dem Artikel nicht, den antiken Pantomimus exakt zu rekonstruieren."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Jahr des Traktats von John Weaver",
-     "1728"
-    ],
-    [
-     "Jahr der Schrift von Denis Diderot über Poesie",
-     "1758"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Pantomime",
-     "Eine Form der darstellenden Kunst durch körperlichen Ausdruck wie Mimik und Gestik ohne Worte."
-    ],
-    [
-     "Commedia dell’arte",
-     "Ein italienisches Stegreiftheater der Renaissance, das ab dem 16. Jahrhundert entstand."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Was ist die Pantomime nach modernem Verständnis?",
-     "optionen": [
-      "Ein körperlicher Ausdruck ohne Worte durch Mimik und Gestik",
-      "Eine Form des modernen Sprechtheaters",
-      "Ein klassischer Operngesang mit Orchester"
-     ],
-     "richtig": 0,
-     "erklaerung": "Nach modernem Verständnis handelt es sich bei der Pantomime um körperlichen Ausdruck ohne Worte."
-    }
-   ],
-   "video": [
-    "Die Pantomime ist eine Form der darstellenden Kunst ganz ohne Worte.",
-    "Früher im antiken Rom war der Pantomimus eine Art Tanz.",
-    "Später entstand im Pariser Jahrmarktstheater die stumme Pantomime.",
-    "Offizielle Theater hatten damals ein Textverbot für andere Spielstätten durchgesetzt.",
-    "Im zwanzigsten Jahrhundert veränderte sich die Kunstform stark.",
-    "Étienne Decroux entwickelte eine neue Form ohne Erzählungen.",
-    "Dabei sollte der Körper das alleinige Instrument der Gestaltung sein.",
-    "Künstler nutzen seitdem Haltung und Geste statt gesprochener Sprache."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Pantomime",
-    "bildunterschrift": "Pantomime ist eine darstellende Kunst ohne Worte."
-   },
-   "quelle": {
-    "titel": "Pantomime",
-    "url": "https://de.wikipedia.org/wiki/Pantomime",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 396,
-   "bildInfos": [
-    {
-     "titel": "Pantomime.jpg",
-     "beschreibung": "mime",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pantomime.jpg/1280px-Pantomime.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pantomime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Pantomime.jpg",
-     "urheber": "Wladyslaw",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "artikel": "Pantomime",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Pantomime ist eine darstellende Kunst ohne Worte."
-    },
-    {
-     "titel": "Jean + Brigitte Soubeyran Im Zirkus.JPG",
-     "beschreibung": "Mime artists Jean and Brigitte Soubeyran in the play \"In the Circus\"",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jean_%2B_Brigitte_Soubeyran_Im_Zirkus.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Jean_%2B_Brigitte_Soubeyran_Im_Zirkus.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Jean_%2B_Brigitte_Soubeyran_Im_Zirkus.JPG",
-     "urheber": "Ronald",
-     "lizenz": "CC BY-SA 1.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/1.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Mime artists Jean and Brigitte Soubeyran in the play \"In the Circus\""
-    },
-    {
-     "titel": "Jean Soubeyran als Harlekin 1.JPG",
-     "beschreibung": "Mime artist Jean Soubeyran (right) as \"Harlequin\"",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jean_Soubeyran_als_Harlekin_1.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Jean_Soubeyran_als_Harlekin_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Jean_Soubeyran_als_Harlekin_1.JPG",
-     "urheber": "Ronald",
-     "lizenz": "CC BY-SA 1.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/1.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Mime artist Jean Soubeyran (right) as \"Harlequin\""
-    },
-    {
-     "titel": "Pantomime 1803.jpg",
-     "beschreibung": "Playbill of an English circus and pantomime performance, 1803",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pantomime_1803.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/71/Pantomime_1803.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Pantomime_1803.jpg",
-     "urheber": "Unknown author Unknown author",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Playbill of an English circus and pantomime performance, 1803"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Pantomime.jpg",
-    "beschreibung": "mime",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Pantomime.jpg/1280px-Pantomime.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Pantomime.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Pantomime.jpg",
-    "urheber": "Wladyslaw",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-    "artikel": "Pantomime",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Pantomime ist eine darstellende Kunst ohne Worte."
    }
   }
  ]
