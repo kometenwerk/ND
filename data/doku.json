@@ -1,5 +1,5 @@
 {
- "stand": "2026-10-30T05:38:44.031Z",
+ "stand": "2026-10-30T12:45:28.020Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -561,7 +561,45 @@
     "wikipedia": "Mykologie",
     "fokus": "Dieses Kapitel beschreibt die wissenschaftliche Untersuchung und Geschichte der Pilzkunde.",
     "versuche": 2,
-    "zuDuenn": 2
+    "zuDuenn": 3,
+    "absaetze": [
+     "Nachdem wir die Rolle von Pilzen als Krankheitserreger kennengelernt haben, wenden wir uns nun der wissenschaftlichen Untersuchung des Reichs der Pilze zu.",
+     "Die Mykologie ist die Wissenschaft von den Pilzen. Zu ihnen gehören Schlauchpilze und Ständerpilze. Der Begriff Mykologie entstand im achtzehnten Jahrhundert. Geprägt wurde er von Christian Hendrik Persoon. Als eigentlicher Begründer der modernen Mykologie gilt der Arzt David Gruby. Er machte im neunzehnten Jahrhundert wichtige Entdeckungen über verschiedene Pilze.",
+     "Schon in der Urzeit sammelten Menschen Pilze als Nahrung. Im Mittelalter lag die Forschung meist brach. Klosterfrauen wie Hildegard von Bingen schrieben jedoch bedeutende Werke. Im sechzehnten und siebzehnten Jahrhundert machten Forscher weitere Entdeckungen. Joseph Pitton de Tournefort erkannte Pilze als eigenständige Organismen.",
+     "Im neunzehnten und zwanzigsten Jahrhundert erlebte die Mykologie grosse Fortschritte. Forscher wie Anton de Bary verfassten wichtige Lehrbücher. Später kamen molekularbiologische Methoden hinzu. Heute wissen Wissenschaftler, dass das Reich der Pilze noch weitgehend unerforscht ist.",
+     "Zu den Forschungsgebieten gehört die Systematik. Fachleute schlagen vor, den Begriff Funga neben Flora und Fauna zu verwenden. Bisher sind erst etwa achtzigtausend von schätzungsweise eineinhalb Millionen Pilzarten bekannt. Auch die Ökologie und die medizinische Mykologie sind wichtige Arbeitsbereiche. Pilze spielen dort als Krankheitserreger oder in der Therapie eine Rolle.",
+     "In der technischen Mykologie untersuchen Forscher den Stoffwechsel von Pilzen. So werden zum Beispiel Antibiotika oder Zitronensäure gewonnen. Die angewandte Mykologie umfasst viele Berufsfelder. Dazu gehören die Grundlagenforschung und die Pilzzucht. Damit endet unsere Reise durch die Welt der Pilze und führt uns zu weiteren spannenden Entdeckungen."
+    ],
+    "fakten": [
+     [
+      "Bekannte Pilzarten",
+      "achtzigtausend"
+     ],
+     [
+      "Geschätzte Pilzarten",
+      "eineinhalb Millionen"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Mykologie",
+      "Die Mykologie ist die Wissenschaft von den Pilzen."
+     ],
+     [
+      "Funga",
+      "Der Begriff Funga bezeichnet die Gesamtheit aller Pilze in einem Gebiet und steht gleichwertig neben Flora und Fauna."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Mykologie",
+     "bildunterschrift": "Die Mykologie erforscht die Vielfalt und die Lebensweise der Pilze."
+    },
+    "quelle": {
+     "titel": "Mykologie",
+     "url": "https://de.wikipedia.org/wiki/Mykologie"
+    },
+    "woerter": 246
    },
    {
     "ueberschrift": "Die Entwicklung der Pilze im Stammbaum",
