@@ -1,6 +1,184 @@
 {
- "stand": "2026-10-30T18:34:09.077Z",
+ "stand": "2026-10-31T09:31:27.834Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-pfeifen-mit-den-fingern",
+   "zeit": "2026-10-31T09:38:26.273Z",
+   "bereich": "Sprache und Kultur",
+   "titel": "Wie funktioniert eigentlich das Pfeifen mit den Fingern?",
+   "vorspann": "Beim Pfeifen strömt Luft schnell durch einen Hohlraum und erzeugt dort Wirbel. Menschen nutzen verschiedene Methoden, um solche Töne mit dem Mund zu erzeugen.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Pfeifen ist das Erzeugen von Tönen mithilfe von Luft, die schnell durch einen Hohlraum mit kleiner Öffnung strömt. Dabei entstehen Wirbel, wie laut dem Wikipedia-Artikel über Pfeifen beschrieben wird. Der Mensch nutzt Pfeiftöne zur musikalischen Betätigung und zur Kommunikation. Auch andere Lebewesen setzen das Pfeifen laut demselben Artikel zur Kommunikation ein.",
+      "Eine kurze Lautäußerung mittels Pfeifen nennen Menschen einen Pfiff. Ein Pfiff kann aus einer künstlichen Pfeife wie der Trillerpfeife des Schiedsrichters beim Sport kommen. Weitere Beispiele sind Pfiffe von Lokomotiven und Schiffen oder durch Druckluft erzeugte Töne in Maschinen."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Bei den menschlichen Pfeifmethoden unterscheidet die Quelle zwischen dem labialen Pfeifen, dem fingerlosen, nichtlabialen Pfeifen und dem Pfeifen auf Fingern. Beim labialen Pfeifen formen Menschen die Lippen zu einem kleinen O. Die Mundhöhle wirkt dabei als Helmholtz-Resonator, während die Stimmlippen im Kehlkopf laut der Quelle an der Schallerzeugung nicht beteiligt sind.",
+      "Beim nichtlabialen Pfeifen entsteht der Pfeifton weiter innen im Bereich von Zunge, Zähnen und hartem Gaumen. Die Lippen sind hierbei nicht primär beteiligt und bleiben relativ entspannt geöffnet. Der Italiener Calogero Gambino ist laut Guinness World Records der Weltrekordhalter mit 117,4 Dezibel.",
+      "Pfiffe lassen sich zudem mit Hilfe von zwei oder vier Fingern erzeugen. Nach viel Training entstehen durch eine passende Zungenstellung zwei enge Spalten für die scharf ausgestoßene Atemluft. Laut dem Wikipedia-Artikel ermöglichen diese Methoden extrem lautes Pfeifen mit Werten von über 100 Dezibel."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Physiker haben laut dem Text das labiale Pfeifen genauer erforscht. Gierke verglich im Jahr 1947 menschliche Pfeiftöne mit einer Lochtonanordnung und kam zu dem Ergebnis, dass der gleiche Mechanismus verantwortlich ist. Wilson et al. stellten im Jahr 1970 ebenfalls fest, dass menschliches Pfeifen analog zu den Tönen von Lockgeräten ist.",
+      "Schon John William Strutt, 3. Baron Rayleigh, erkannte in seinem Werk Theory of Sound in den Jahren 1894 bis 1896, dass der Ton beim lipplichen Pfeifen nicht durch Vibration der Lippen entstehen kann. Er bewies dies durch einen Selbstversuch mit einer Holzröhre."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Die übrigen vorgestellten Pfeifmethoden haben laut dem Artikel bislang nicht das Interesse der Physiker erwecken können, weshalb hierzu noch weniger erforscht ist."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Weltrekord im nichtlabialen Pfeifen",
+     "117,4 Dezibel"
+    ],
+    [
+     "Niedrigster Ton menschlicher Pfeiftöne",
+     "175 Hz"
+    ],
+    [
+     "Höchster Ton menschlicher Pfeiftöne",
+     "10599 Hz"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Helmholtz-Resonator",
+     "Ein Hohlraumresonator, der in der Akustik zur Bestimmung von Frequenzen und Resonanzen dient."
+    ],
+    [
+     "Lochtonanordnung",
+     "Eine physikalische Anordnung, bei der ein Luftstrom durch Löcher geführt wird, um Töne oder Wirbel zu erzeugen."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Welche Methode ist laut dem Text physikalisch am besten verstanden?",
+     "optionen": [
+      "Das labiale Pfeifen",
+      "Das Pfeifen mit vier Fingern",
+      "Das zweistimmige Pfeifen"
+     ],
+     "richtig": 0,
+     "erklaerung": "Laut dem Wikipedia-Artikel ist das labiale Pfeifen die physikalisch am besten verstandene Methode."
+    }
+   ],
+   "video": [
+    "Pfeifen ist das Erzeugen von Tönen durch schnell strömende Luft in einem Hohlraum.",
+    "Menschen nutzen verschiedene Methoden wie das Lippenpfeifen oder das Pfeifen mit Fingern.",
+    "Beim labialen Pfeifen formen die Lippen ein O und die Mundhöhle wirkt als Resonator.",
+    "Physiker wie Gierke untersuchten im Jahr neunzehnsiebenundvierzig die genauen Mechanismen.",
+    "Auch John William Strutt erforschte das Pfeifen bereits im neunzehnten Jahrhundert.",
+    "Das Pfeifen auf Fingern kann extrem laute Töne von über einhundert Dezibel erreichen.",
+    "Der Weltrekordhalter im nichtlabialen Pfeifen kommt laut Guinness World Records aus Italien.",
+    "Historisch wurde Pfeifen oft mit Aberglauben, Magie oder Verboten auf Bühnen verbunden."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Pfeifen",
+    "bildunterschrift": "Pfeifen funktioniert durch schnell strömende Luft, die Wirbel erzeugt."
+   },
+   "quelle": {
+    "titel": "Pfeifen",
+    "url": "https://de.wikipedia.org/wiki/Pfeifen",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 340,
+   "bildInfos": [
+    {
+     "titel": "Orgelpfeifen (Neubrandenburg).jpg",
+     "beschreibung": "Orgelpfeifen in der Konzertkirche Neubrandenburg",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Orgelpfeifen_%28Neubrandenburg%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Orgelpfeifen_%28Neubrandenburg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Orgelpfeifen_(Neubrandenburg).jpg",
+     "urheber": "Frank Liebig",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "artikel": "Orgelpfeife",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Pfeifen funktioniert durch schnell strömende Luft, die Wirbel erzeugt."
+    },
+    {
+     "titel": "Bootsmannpfeife.jpg",
+     "beschreibung": "Boatswain's pipe",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bootsmannpfeife.jpg/1280px-Bootsmannpfeife.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bootsmannpfeife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bootsmannpfeife.jpg",
+     "urheber": "ThoKay 21:11, 18 August 2007 (UTC)",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Boatswain's pipe"
+    },
+    {
+     "titel": "Dampfpfeife.jpg",
+     "beschreibung": "Steam whistle of a steam locomotive",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Dampfpfeife.jpg/1280px-Dampfpfeife.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Dampfpfeife.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Dampfpfeife.jpg",
+     "urheber": "Al Tobias",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Steam whistle of a steam locomotive"
+    },
+    {
+     "titel": "Dog ultrasound whistle ID tag.jpg",
+     "beschreibung": "Dog ultrasound whistle and collar ID tube tag.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dog_ultrasound_whistle_ID_tag.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Dog_ultrasound_whistle_ID_tag.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Dog_ultrasound_whistle_ID_tag.jpg",
+     "urheber": "Turbojet",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Dog ultrasound whistle and collar ID tube tag."
+    },
+    {
+     "titel": "Duveneck Whistling Boy.jpg",
+     "beschreibung": "The Whistling Boy",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Duveneck_Whistling_Boy.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Duveneck_Whistling_Boy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Duveneck_Whistling_Boy.jpg",
+     "urheber": "Frank Duveneck",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "The Whistling Boy"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Orgelpfeifen (Neubrandenburg).jpg",
+    "beschreibung": "Orgelpfeifen in der Konzertkirche Neubrandenburg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Orgelpfeifen_%28Neubrandenburg%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Orgelpfeifen_%28Neubrandenburg%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Orgelpfeifen_(Neubrandenburg).jpg",
+    "urheber": "Frank Liebig",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "artikel": "Orgelpfeife",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Pfeifen funktioniert durch schnell strömende Luft, die Wirbel erzeugt."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-ein-touchscreen",
    "zeit": "2026-10-30T18:38:20.840Z",
@@ -6629,202 +6807,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Gebärdensprachen sind vollwertige natürliche Sprachen mit eigener Grammatik und Mimik."
-   }
-  },
-  {
-   "id": "warum-hat-der-saturn-eigentlich-ringe",
-   "zeit": "2026-10-16T07:12:35.138Z",
-   "bereich": "Weltall",
-   "titel": "Warum hat der Saturn eigentlich Ringe?",
-   "vorspann": "Der Planet Saturn besitzt ein riesiges Ringsystem aus unzähligen Eis- und Gesteinsbrocken. Forschende haben verschiedene Theorien entwickelt, wie diese extrem dünne Scheibe entstanden ist.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Die Ringe des Saturn sind das auffälligste Merkmal des Planeten und bereits ab vierzigfacher Vergrößerung im Fernrohr sichtbar. Aus der Ferne wirken sie wie eine feste Scheibe, bestehen aber in Wahrheit aus sehr vielen einzelnen Partikeln. Diese Teilchen bestehen im Wesentlichen aus Eis und Gestein. Ihre Größe reicht von winzigen Staubteilchen bis hin zu Brocken von einigen Metern. Bei einem Durchmesser von fast einer Million Kilometern sind die Ringe mit zehn bis hundert Metern Dicke erstaunlich dünn.",
-      "Das Ringsystem liegt genau in der Äquatorebene des Saturns und wirft Schatten auf die Planetenoberfläche. Umgekehrt wirft auch der Saturn seinen Schatten auf die Ringe. Insgesamt umfasst die Masse aller Ringe etwa dreißig Billiarden Tonnen. Das entspricht ungefähr der Masse eines Asteroiden mit fast dreihundert Kilometern Durchmesser. Große und kleine Lücken unterteilen das System in mehr als einhunderttausend einzelne Unterringe."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Jeder einzelne Brocken kreist für sich um das Zentrum des Saturns und pendelt dabei leicht auf und ab. Durch inelastische Stöße mit anderen Teilchen verringert sich diese Auf- und Abbewegung ständig. Aus diesem Grund bleibt die Ringscheibe dauerhaft so extrem flach. Die Ringe sind nach der Reihenfolge ihrer Entdeckung von innen nach außen mit Buchstaben benannt. Zwischen ihnen befinden sich Lücken, die durch die Schwerkraft der zahlreichen Monde des Saturns entstehen.",
-      "Einige kleine Monde kreisen direkt an den Rändern oder in den Lücken des Systems und werden Hirtenmonde genannt. Sie stabilisieren die Kanten der Ringe durch ihre Gravitation. Zudem erzeugen größere Brocken innerhalb der Ringe manchmal besondere Strömungsmuster, die Fachleute als Propeller bezeichnen. Neben den Hauptringen gibt es sehr weit entfernte Staubringe. Dazu gehört ein riesiger Ring, der vermutlich aus ausgestoßenem Material des Mondes Phoebe besteht."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Galileo Galilei sah die Ringe im Juli 1610 mit einem der ersten Teleskope, hielt sie damals aber noch für Henkel. Erst Christiaan Huygens beschrieb 1655 korrekt, dass ein dünner, flacher Ring den Saturn berührungslos umgibt. Giovanni Domenico Cassini entdeckte 1675 die bekannteste Teilung im Ringsystem und vermutete bereits einzelne Partikel. Im neunzehnten Jahrhundert wies James Clerk Maxwell mathematisch nach, dass die Ringe aus vielen nicht zusammenhängenden Körpern bestehen müssen. Später lieferten Raumsonden wie Pioneer 11, Voyager 1, Voyager 2 und die Raumsonde Cassini detaillierte Daten und Bilder vor Ort."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Die genaue Entstehung der Saturnringe ist in der Wissenschaft noch nicht abschließend geklärt. Eine Theorie von Édouard Albert Roche besagt, dass ein früherer Mond dem Saturn zu nahe kam und durch Gezeitenkräfte zerbrach. Eine Abwandlung vermutet den Zusammenstoß eines Mondes mit einem Kometen oder Asteroiden. Nach einer anderen Ansicht entstanden die Ringe zeitgleich mit dem Saturn aus derselben Materiewolke. Diskutiert wird außerdem die genaue Ursache für die elektrische Aufladung von Staubteilchen, die zeitweise dunkle Speichen auf den Ringen erzeugen."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Dicke der Ringe",
-     "10 bis 100 Meter"
-    ],
-    [
-     "Durchmesser des Ringsystems",
-     "fast 1 Million Kilometer"
-    ],
-    [
-     "Gesamtmasse der Ringe",
-     "30 Billiarden Tonnen"
-    ],
-    [
-     "Anzahl einzelner Ringe",
-     "mehr als 100.000"
-    ],
-    [
-     "Neigung der Ringebene zur Bahnebene",
-     "26,73 Grad"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Hirtenmonde",
-     "Kleine Monde, die direkt in den Lücken oder an den Rändern der Ringe kreisen. Durch ihre Schwerkraft halten sie die Ringstrukturen stabil."
-    ],
-    [
-     "Roche-Grenze",
-     "Der kritische Abstand, bei dem die Gezeitenkräfte eines Planeten so stark werden, dass ein herannahender Mond auseinanderbricht."
-    ],
-    [
-     "Cassini-Teilung",
-     "Eine markante Lücke im Ringsystem, die den hellen A-Ring vom dunkleren B-Ring trennt."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Woraus bestehen die Ringe des Saturns hauptsächlich?",
-     "optionen": [
-      "Aus einer festen, zusammenhängenden Metallplatte",
-      "Aus Eis- und Gesteinspartikeln verschiedener Größe",
-      "Ausschließlich aus heißen Gasen und Dämpfen"
-     ],
-     "richtig": 1,
-     "erklaerung": "Die Ringe bestehen aus unzähligen einzelnen Eis- und Gesteinsbrocken, die von Staubkorngröße bis zu mehreren Metern reichen."
-    },
-    {
-     "frage": "Wer deutete die Ringe im Jahr 1610 zunächst als Henkel?",
-     "optionen": [
-      "Galileo Galilei",
-      "Christiaan Huygens",
-      "James Clerk Maxwell"
-     ],
-     "richtig": 0,
-     "erklaerung": "Galileo Galilei entdeckte die Ringe mit einem frühen Teleskop, hielt sie damals jedoch noch für Henkel am Planeten."
-    },
-    {
-     "frage": "Warum ist das Ringsystem des Saturns so extrem dünn?",
-     "optionen": [
-      "Weil starke Sonnenwinde alle oberen Teilchen wegblasen",
-      "Weil die Schwerkraft der Erde die Brocken glattzieht",
-      "Weil inelastische Stöße der Brocken ihre vertikalen Bewegungen dämpfen"
-     ],
-     "richtig": 2,
-     "erklaerung": "Jeder Brocken pendelt vertikal, doch Zusammenstöße reduzieren diese Auf- und Abbewegung und halten die Scheibe flach."
-    }
-   ],
-   "video": [
-    "Der Saturn besitzt das bekannteste und größte Ringsystem in unserem Sonnensystem.",
-    "Aus der Ferne betrachtet wirken die Ringe wie eine geschlossene feste Scheibe.",
-    "In Wahrheit bestehen sie aus unzähligen einzelnen Brocken aus Eis und Gestein.",
-    "Die Größe dieser Teilchen reicht von feinem Staub bis zu einigen Metern.",
-    "Obwohl das Ringsystem riesig ist, misst seine Dicke nur zehn bis einhundert Meter.",
-    "Zusammenstöße der kreisenden Brocken sorgen dafür, dass die Ringe so extrem flach bleiben.",
-    "Kleine Monde kreisen zwischen den Ringen und halten deren Kanten stabil.",
-    "Die Ringe entstanden möglicherweise, als ein früherer Mond durch Gezeitenkräfte zerbrach.",
-    "Forschende untersuchen bis heute, wie alt das Ringsystem tatsächlich ist."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Ringe des Saturn",
-    "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
-   },
-   "quelle": {
-    "titel": "Ringe des Saturn",
-    "url": "https://de.wikipedia.org/wiki/Ringe_des_Saturn",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 441,
-   "bildInfos": [
-    {
-     "titel": "PIA01966 Saturn and its Ring System.jpg",
-     "beschreibung": "Voyager 2 returned this view of Saturn and its ring system Aug. 11 1981, when the spacecraft was 13.9 million kilometers (8.6 million miles) away and approaching the large, gaseous planet at about l m",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:PIA01966_Saturn_and_its_Ring_System.jpg",
-     "urheber": "NASA/JPL",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Ringe des Saturn",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
-    },
-    {
-     "titel": "A Ring propeller \"Santos-Dumont\" (PIA 21433).jpg",
-     "beschreibung": "Uploader's notes : the original NASA image has been modified by cropping, removal of artifacts and converting from TIFF to JPG format. Original caption released with image : NASA's Cassini spacecraft ",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/A_Ring_propeller_%22Santos-Dumont%22_%28PIA_21433%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/A_Ring_propeller_%22Santos-Dumont%22_%28PIA_21433%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:A_Ring_propeller_%22Santos-Dumont%22_(PIA_21433).jpg",
-     "urheber": "NASA / Jet Propulsion Lab-Caltech / Space Science Institute",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Uploader's notes : the original NASA image has been modified by cropping, removal of artifacts and converting from TIFF to JPG format. Original caption released with image : NASA's Cassini spacecraft "
-    },
-    {
-     "titel": "Calypso crop resize sharp.jpg",
-     "beschreibung": "This raw, unprocessed image of Calypso was taken by Cassini on Feb. 13, 2010. The image was taken with the Cassini spacecraft narrow-angle camera on Feb. 13, 2010 using a spectral filter sensitive to ",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Calypso_crop_resize_sharp.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Calypso_crop_resize_sharp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Calypso_crop_resize_sharp.jpg",
-     "urheber": "NASA / JPL / Space Science Institute",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "This raw, unprocessed image of Calypso was taken by Cassini on Feb. 13, 2010. The image was taken with the Cassini spacecraft narrow-angle camera on Feb. 13, 2010 using a spectral filter sensitive to "
-    },
-    {
-     "titel": "Dione-PIA07746.jpg",
-     "beschreibung": "Saturnmond Dione, Mosaikbild von der Raumsonde Cassini, Entfernung im Bereich 27 180 bis 55 280km",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dione-PIA07746.jpg/1280px-Dione-PIA07746.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dione-PIA07746.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Dione-PIA07746.jpg",
-     "urheber": "Antonsusi ( talk )",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Saturnmond Dione, Mosaikbild von der Raumsonde Cassini, Entfernung im Bereich 27 180 bis 55 280km"
-    }
-   ],
-   "bildInfo": {
-    "titel": "PIA01966 Saturn and its Ring System.jpg",
-    "beschreibung": "Voyager 2 returned this view of Saturn and its ring system Aug. 11 1981, when the spacecraft was 13.9 million kilometers (8.6 million miles) away and approaching the large, gaseous planet at about l m",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PIA01966_Saturn_and_its_Ring_System.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:PIA01966_Saturn_and_its_Ring_System.jpg",
-    "urheber": "NASA/JPL",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Ringe des Saturn",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Das Ringsystem des Saturns besteht aus unzähligen Teilchen aus Eis und Gestein."
    }
   }
  ]
