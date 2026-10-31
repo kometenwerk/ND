@@ -1,6 +1,160 @@
 {
- "stand": "2026-10-31T09:31:27.834Z",
+ "stand": "2026-10-31T15:42:24.543Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-ein-metallsuchgeraet",
+   "zeit": "2026-10-31T15:54:35.717Z",
+   "bereich": "Technik und Erfindungen",
+   "titel": "Wie funktioniert eigentlich ein Metallsuchgerät?",
+   "vorspann": "Ein Metalldetektor kann verborgene Metallteile an Land und unter Wasser finden. Solche Geräte werden für viele verschiedene Zwecke eingesetzt.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Ein Metalldetektor ist ein Gerät zur Lokalisierung von verborgenen Metallteilen, Erzen, Rohrleitungen und elektrischen Leitern an Land sowie unter Wasser. Zu den Sensoren, mit denen Metalle geortet werden können, gehören insbesondere Magnetometer sowie kapazitive und induktive Sensoren. Metalldetektoren bestehen aus einer meist batteriebetriebenen elektronischen Schaltung und einer von niederfrequentem Wechselstrom durchflossenen Suchspule. Die Form der Spule ist entweder flach oder gestreckt. Die flachen Formen werden zum Absuchen von Personen oder von Bodenflächen verwendet. Die gestreckten Formen dienen zur Lokalisierung von Objekten in Hohlräumen.",
+      "Metalldetektoren haben viele Einsatzbereiche. Sie werden in Flughäfen und anderen sensiblen Bereichen zur Personenkontrolle verwendet. Man nutzt sie zum Auffinden von metallischen Leitungen und Rohren im Boden und in Wänden. Auch in der Lebensmittelindustrie und Pharmaindustrie kommen sie zum Einsatz, um Metallsplitter in Produkten zu erkennen. In der Archäologie und Geologie dienen sie zur Erstorientierung auf Grabungsplätzen. Bei der Kampfmittelbeseitigung helfen sie beim Aufspüren von Landminen, Blindgängern und Munition."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Grundsätzlich können Metalldetektoren nach dem zugrundeliegenden Messverfahren unterteilt werden. Bei der Pulsmessung werden über die Sendespule periodisch Pulse eines Magnetfelds ausgesendet. Diese erzeugen in metallischen Objekten in der Umgebung Wirbelströme. Die Wirbelströme verursachen in der Empfangsspule eine Signaländerung, die unmittelbar nach dem Ausschalten als Spannung messbar ist. Ein anderes Verfahren ist die Wechselstromerregung, bei der ein kontinuierlicher Wechselstrom in eine Sendespule geleitet wird. Dabei gibt es die Dämpfungsanalyse und die Resonanzverschiebung.",
+      "Primäre Einflussfaktoren zur Unterscheidung von Materialien sind die magnetische Permeabilität und die elektrische Leitfähigkeit. Die Signaländerung wird bei allen Messverfahren elektronisch ausgewertet. Sie wird auf einer optischen Skala sichtbar oder durch einen akustischen Signalgeber ab einem bestimmten Schwellenwert hörbar gemacht. Bei industriell eingesetzten Metalldetektoren wird die Signalauswertung zur automatischen Steuerung der Produktionsanlage verwendet."
+     ]
+    },
+    {
+     "ueberschrift": "Socherherkunft der Technik",
+     "absaetze": [
+      "Ab 1870 begann man, Geräte zur Lokalisierung von Metallen zu entwickeln. Der Physiker Heinrich Wilhelm Dove erfand im neunzehnten Jahrhundert das Prinzip der Induktionswaage. Alexander Graham Bell versuchte im Jahr 1881 erfolglos, eine Kugel in der Brust von US-Präsident James A. Garfield mit einem Metalldetektor zu finden. In den 1930er Jahren wurden modernere Metalldetektoren entwickelt. Der Techniker Gerhard Fischer erhielt im Jahr 1937 das erste Patent für einen Metalldetektor.",
+      "Józef Stanisław Kosacki entwickelte in den frühen Jahren des Zweiten Weltkrieges ein leichteres und leistungsfähigeres Gerät, das erstmals in größerem Umfang zur Suche nach Sprengminen verwendet wurde. In den 1950er Jahren entwickelte White’s Electronics den Oremaster Geigerzähler zur Ortung von Erzvorkommen. Charles Garrett entwickelte den BFO. Mit der Erfindung und Entwicklung des Transistors in den 1950er und 1960er Jahren wurde es möglich, wesentlich kleinere und leichtere Geräte zu entwickeln."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Erstes Patent erhalten",
+     "1937"
+    ],
+    [
+     "Versuch mit Metalldetektor bei US-Präsident Garfield",
+     "1881"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Metalldetektor",
+     "Ein Gerät zur Lokalisierung verborgener Metallteile, Erze, Rohrleitungen und elektrischer Leiter."
+    ],
+    [
+     "Magnetometer",
+     "Ein Sensor, der zur Ortung von Metallen und Magnetfeldern genutzt werden kann."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann erhielt Gerhard Fischer das erste Patent für einen Metalldetektor?",
+     "optionen": [
+      "1870",
+      "1937",
+      "1981"
+     ],
+     "richtig": 1,
+     "erklaerung": "Gerhard Fischer erhielt im Jahr 1937 das erste Patent für einen Metalldetektor."
+    }
+   ],
+   "video": [
+    "Ein Metalldetektor spürt verborgene Metalle auf.",
+    "Dabei helfen verschiedene Sensoren und Spulen.",
+    "Schon ab dem Jahr 1870 wurden solche Geräte entwickelt.",
+    "Alexander Graham Bell nutzte im Jahr 1881 einen Detektor.",
+    "Gerhard Fischer erhielt im Jahr 1937 das erste Patent.",
+    "Heute helfen die Geräte auf Flughäfen und bei der Archäologie.",
+    "Sie finden auch Minen und Blindgänger im Boden.",
+    "Die Signale werden elektronisch gemessen und hörbar gemacht."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Metalldetektor",
+    "bildunterschrift": "Ein Metalldetektor wird zum Suchen von Metallen verwendet."
+   },
+   "quelle": {
+    "titel": "Metalldetektor",
+    "url": "https://de.wikipedia.org/wiki/Metalldetektor",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 414,
+   "bildInfos": [
+    {
+     "titel": "Metal detector from World War 1.jpg",
+     "beschreibung": "An early experimental metal detector used for finding unexploded bombs in post World War 1 France. Named the \"Alpha\", it was designed by M. Guitton, professor of physics at Nancy. It used the principl",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Metal_detector_from_World_War_1.jpg/1280px-Metal_detector_from_World_War_1.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Metal_detector_from_World_War_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Metal_detector_from_World_War_1.jpg",
+     "urheber": "F. Honoré,",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Metalldetektor",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein Metalldetektor wird zum Suchen von Metallen verwendet."
+    },
+    {
+     "titel": "Operation Dynamic Partnership Part One 130211-M-YH552-143.jpg",
+     "beschreibung": "U.S. Marine Corps Cpl. Benjamin D. Stott, an anti-tank missleman from Portland, Ore., and assigned to Ripper Mobile Assault Platoon, Headquarters Company, Regimental Combat Team 7, sweeps a perimeter ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Operation_Dynamic_Partnership_Part_One_130211-M-YH552-143.jpg/1280px-Operation_Dynamic_Partnership_Part_One_130211-M-YH552-143.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Operation_Dynamic_Partnership_Part_One_130211-M-YH552-143.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Operation_Dynamic_Partnership_Part_One_130211-M-YH552-143.jpg",
+     "urheber": "Cpl. Alejandro Pena",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "U.S. Marine Corps Cpl. Benjamin D. Stott, an anti-tank missleman from Portland, Ore., and assigned to Ripper Mobile Assault Platoon, Headquarters Company, Regimental Combat Team 7, sweeps a perimeter "
+    },
+    {
+     "titel": "Proxxon metall finder - case opened-6793.jpg",
+     "beschreibung": "Proxxon metall finder - case opened",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Proxxon_metall_finder_-_case_opened-6793.jpg/1280px-Proxxon_metall_finder_-_case_opened-6793.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/23/Proxxon_metall_finder_-_case_opened-6793.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Proxxon_metall_finder_-_case_opened-6793.jpg",
+     "urheber": "Raimond Spekking",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Proxxon metall finder - case opened"
+    },
+    {
+     "titel": "RIAN archive 902535 Work at JSC Vladivostok International Airport.jpg",
+     "beschreibung": "“Work at JSC Vladivostok International Airport”. Law enforcement officer screens a passenger at the international airport of Vladivostok.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/RIAN_archive_902535_Work_at_JSC_Vladivostok_International_Airport.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/RIAN_archive_902535_Work_at_JSC_Vladivostok_International_Airport.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:RIAN_archive_902535_Work_at_JSC_Vladivostok_International_Airport.jpg",
+     "urheber": "Vitaliy Ankov / Виталий Аньков",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "“Work at JSC Vladivostok International Airport”. Law enforcement officer screens a passenger at the international airport of Vladivostok."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Metal detector from World War 1.jpg",
+    "beschreibung": "An early experimental metal detector used for finding unexploded bombs in post World War 1 France. Named the \"Alpha\", it was designed by M. Guitton, professor of physics at Nancy. It used the principl",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Metal_detector_from_World_War_1.jpg/1280px-Metal_detector_from_World_War_1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/90/Metal_detector_from_World_War_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Metal_detector_from_World_War_1.jpg",
+    "urheber": "F. Honoré,",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Metalldetektor",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein Metalldetektor wird zum Suchen von Metallen verwendet."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-das-pfeifen-mit-den-fingern",
    "zeit": "2026-10-31T09:38:26.273Z",
@@ -6626,169 +6780,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-die-gebaerdensprache",
-   "zeit": "2026-10-17T04:23:20.749Z",
-   "bereich": "Sprache und Kultur",
-   "titel": "Wie funktioniert eigentlich die Gebärdensprache?",
-   "vorspann": "Gebärdensprachen sind vollwertige natürliche Sprachen, die vor allem von gehörlosen Menschen genutzt werden. Dabei kommunizieren sie durch Hände, Gesicht und Körperhaltung.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Eine Gebärdensprache ist eine visuell wahrnehmbare Form von Sprache. Sie wird insbesondere von gehörlosen und schwerhörigen Menschen zur Kommunikation genutzt. Kommuniziert wird mit einer Verbindung von Gestik, Gesichtsmimik, dem Mundbild von lautlos gesprochenen Wörtern und Wechsel der Körperhaltung. Diese Elemente werden zu Sätzen und Satzfolgen kombiniert. Gebärdensprachen sind voll ausgebildete natürliche Sprachen von derselben Komplexität wie Lautsprachen.",
-      "Im deutschsprachigen Raum wird neben der Deutschen Gebärdensprache, die auch in Luxemburg genutzt wird, die Österreichische Gebärdensprache und die Deutschschweizer Gebärdensprache unterschieden. Die in Liechtenstein verwendete Gebärdensprache ist eng verwandt mit der Deutschschweizer Gebärdensprache und kann daher als ein Dialekt betrachtet werden. Innerhalb der Schweiz bildet die Deutschschweizer Gebärdensprache fünf verschiedene Dialekte aus. Weltweit am weitesten verbreitet ist die American Sign Language."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Gebärdensprachen werden in dieselben grammatischen Ebenen gegliedert wie Lautsprachen. In der Phonologie der Gebärdensprachen werden vier Parameter unterschieden: Handkonfiguration, Handorientierung, Bewegungsausführung und Ort der Bewegung. Auf der Wortebene sind viele Gebärden stark flektiert. Die durch die Hände geformten Gebärden bilden den Inhalt eines Satzes.",
-      "Daneben spielen Bewegungen des Oberkörpers und des Gesichts eine herausragende Rolle. Vor allem die Mimik dient zur Kodierung der Grammatik. Viele grammatische Funktionswörter finden ausschließlich Ausdruck im Gesicht. Da die Grammatik hauptsächlich mit der Mimik zum Ausdruck kommt, sehen sich Gebärdensprachsprecher auch in die Augen und nicht auf die Hände."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Gebärdensprachen werden von der Sprachwissenschaft als eigenständige und vollwertige Sprachen eingestuft. Zahlreiche Studien mit bildgebenden Verfahren und eine Metaanalyse deuten darauf hin, dass Gebärdensprachen in den gleichen Gehirnregionen verarbeitet werden, in welchen auch Lautsprachen verarbeitet werden. Daraus wird gefolgert, dass menschliche Sprache sich nicht mehr bloß als Lautsprachsystem definieren lässt."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Es ist nicht sicher, wie viele Gebärdensprachen es weltweit gibt. Die Ausgabe des Jahres 2013 der Zeitschrift Ethnologue nannte 137 Gebärdensprachen, während dort im Jahr 2024 insgesamt 159 Gebärdensprachen gelistet waren. Glottolog listete im Jahr 2024 insgesamt 227 Gebärdensprachen auf."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Anzahl Gebärdensprachen in Ethnologue 2013",
-     "137"
-    ],
-    [
-     "Anzahl Gebärdensprachen in Ethnologue 2024",
-     "159"
-    ],
-    [
-     "Anzahl Gebärdensprachen in Glottolog 2024",
-     "227"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Gebärdensprache",
-     "Eine visuell wahrnehmbare Form von Sprache mit eigener Grammatik, die vor allem von gehörlosen Menschen genutzt wird."
-    ],
-    [
-     "Flektierung",
-     "Eine grammatische Veränderung von Wörtern oder Gebärden, um verschiedene Bedeutungen auszudrücken."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Worauf achten Gebärdensprachsprecher meistens während der Unterhaltung?",
-     "optionen": [
-      "Auf die Hände",
-      "In die Augen",
-      "Auf die Füße"
-     ],
-     "richtig": 1,
-     "erklaerung": "Da die Grammatik hauptsächlich mit der Mimik zum Ausdruck kommt, sehen sich Gebärdensprachsprecher in die Augen."
-    }
-   ],
-   "video": [
-    "Gebärdensprachen sind eigenständige und vollwertige Sprachen.",
-    "Sie werden visuell mit Händen und Gesicht wahrgenommen.",
-    "Gehörlose und schwerhrende Menschen nutzen sie zur Kommunikation.",
-    "Dabei wird Handkonfiguration mit Mimik kombiniert.",
-    "Die Grammatik nutzt stark die Bewegungen des Gesichts.",
-    "Wissenschaftler untersuchten das Gehirn bei der Verarbeitung.",
-    "Dabei zeigte sich Aktivität in denselben Regionen wie bei Lautsprachen.",
-    "Weltweit gibt es laut verschiedenen Listen weit über einhundert Gebärdensprachen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Gebärdensprache",
-    "bildunterschrift": "Gebärdensprachen sind vollwertige natürliche Sprachen mit eigener Grammatik und Mimik."
-   },
-   "quelle": {
-    "titel": "Gebärdensprache",
-    "url": "https://de.wikipedia.org/wiki/Geb%C3%A4rdensprache",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 303,
-   "bildInfos": [
-    {
-     "titel": "Sign language, 2014 (01).jpg",
-     "beschreibung": "Kommunikation mittels Gebärdensprache (hier: American Sign Language / ASL) -- zwei Frauen im Gespräch (bei einem Ehemaligen-Treffen in einem Hotel in Pittsburgh in Pennsylvania, USA).",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sign_language%2C_2014_%2801%29.jpg/1280px-Sign_language%2C_2014_%2801%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sign_language%2C_2014_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sign_language,_2014_(01).jpg",
-     "urheber": "daveynin",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "artikel": "Gebärdensprache",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Gebärdensprachen sind vollwertige natürliche Sprachen mit eigener Grammatik und Mimik."
-    },
-    {
-     "titel": "Deutsche Fingeralphabet.jpg",
-     "beschreibung": "Das deutsche Gehörlosenalphabet mit Umlauten und Sonderzeichen für \"SCH\" zur Verfügung gestellt vom Landesverband Bayern der Gehörlosen e. V. Unterstützt von der AOK Bayern - Die Gesundheitskasse",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Deutsche_Fingeralphabet.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Deutsche_Fingeralphabet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Deutsche_Fingeralphabet.jpg",
-     "urheber": "Landesverband Bayern der Gehörlosen e. V.",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Das deutsche Gehörlosenalphabet mit Umlauten und Sonderzeichen für \"SCH\" zur Verfügung gestellt vom Landesverband Bayern der Gehörlosen e. V. Unterstützt von der AOK Bayern - Die Gesundheitskasse"
-    },
-    {
-     "titel": "Holečkova, nápis ve znakové řeči.jpg",
-     "beschreibung": "Prague - Smíchov , the Czech Republic . Sign language sculpture \"Life is beautiful, be happy and love each other!\" by Zuzana Čížková at Kobrova Bus Stop in Holečkova Street in Prague near school for h",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg/1280px-Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Hole%C4%8Dkova,_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg",
-     "urheber": "ŠJů ( cs:ŠJů )",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Prague - Smíchov , the Czech Republic . Sign language sculpture \"Life is beautiful, be happy and love each other!\" by Zuzana Čížková at Kobrova Bus Stop in Holečkova Street in Prague near school for h"
-    },
-    {
-     "titel": "Sign language interpreter.jpg",
-     "beschreibung": "One of the people being celebrated was one guy who got his doctorate (Not the one in the picture). He had become deaf. His research was about making stuff accessible to people who can't hear, see, or ",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sign_language_interpreter.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sign_language_interpreter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sign_language_interpreter.jpg",
-     "urheber": "Petteri Sulonen from Helsinki, Finland",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "One of the people being celebrated was one guy who got his doctorate (Not the one in the picture). He had become deaf. His research was about making stuff accessible to people who can't hear, see, or "
-    }
-   ],
-   "bildInfo": {
-    "titel": "Sign language, 2014 (01).jpg",
-    "beschreibung": "Kommunikation mittels Gebärdensprache (hier: American Sign Language / ASL) -- zwei Frauen im Gespräch (bei einem Ehemaligen-Treffen in einem Hotel in Pittsburgh in Pennsylvania, USA).",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sign_language%2C_2014_%2801%29.jpg/1280px-Sign_language%2C_2014_%2801%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sign_language%2C_2014_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Sign_language,_2014_(01).jpg",
-    "urheber": "daveynin",
-    "lizenz": "CC BY 2.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-    "artikel": "Gebärdensprache",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Gebärdensprachen sind vollwertige natürliche Sprachen mit eigener Grammatik und Mimik."
    }
   }
  ]

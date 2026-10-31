@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 31 Oct 2026 09:31:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 15:42:24 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-10-31</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Evakuierungsaktion und humanitäre Hilfen in der Frontstadt Oleschky · Abschluss der UN-Biodiversitätskonferenz in Armenien mit Beschlüssen zum Artenschutz · Politischer Machtkampf um das polnische Verfassungsgericht in Warschau · Hackerangriff auf die Kryptowährungsbörse Binance · Bundesagentur für Arbeit veröffentlicht Arbeitsmarktzahlen für Oktober</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Evakuierungsaktion und humanitäre Hilfen in der Frontstadt Oleschky · Abschluss der UN-Biodiversitätskonferenz in Armenien mit Beschlüssen zum Artenschutz · Politischer Machtkampf um das polnische Verfassungsgericht in Warschau · Hackerangriff auf die Kryptowährungsbörse Binance · Bundesagentur für Arbeit veröffentlicht Arbeitsmarktzahlen für Oktober</itunes:summary>
+    <pubDate>Sat, 31 Oct 2026 09:31:27 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-10-31</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-31.mp3" length="3922941" type="audio/mpeg"/>
+    <itunes:duration>00:10:54</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Hackerangriff auf Binance und die Folgen</title>
     <description>Wir beleuchten den massiven Hackerangriff auf die Kryptobörse Binance mit einem Schaden in Milliardenhöhe. Dabei blicken wir auf die Hintergründe, Reaktionen und die Sicherheitslage.</description>
@@ -56,17 +67,6 @@
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-blindenschrift</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/fa8b6d52a3.mp3" length="129117" type="audio/mpeg"/>
     <itunes:duration>00:00:21</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-10-30</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Zugunglück in Spanien fordert mindestens 69 Menschenleben · Volkswagen verzeichnet Milliardenverlust im dritten Quartal · Parlamentswahl in Israel führt zu unklaren Mehrheitsverhältnissen · Reise von Flávio Bolsonaro in die USA nach der Stichwahl</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Parlamentswahl in Serbien: Studentenliste gewinnt absolute Mehrheit · Zugunglück in Spanien fordert mindestens 69 Menschenleben · Volkswagen verzeichnet Milliardenverlust im dritten Quartal · Parlamentswahl in Israel führt zu unklaren Mehrheitsverhältnissen · Reise von Flávio Bolsonaro in die USA nach der Stichwahl</itunes:summary>
-    <pubDate>Fri, 30 Oct 2026 05:38:44 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-10-30</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-10-30.mp3" length="2887869" type="audio/mpeg"/>
-    <itunes:duration>00:08:01</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
