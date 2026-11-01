@@ -1,6 +1,189 @@
 {
- "stand": "2026-10-31T15:42:24.543Z",
+ "stand": "2026-11-01T18:52:51.660Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-eine-mikrowelle",
+   "zeit": "2026-11-01T19:17:19.504Z",
+   "bereich": "Technik und Erfindungen",
+   "titel": "Wie funktioniert eigentlich eine Mikrowelle?",
+   "vorspann": "Ein Mikrowellenherd erwärmt Lebensmittel in kurzer Zeit mit Hilfe von elektromagnetischer Hochfrequenzenergie. Das Gerät wurde nach einer Entdeckung im Zusammenhang mit Radaranlagen entwickelt.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Ein Mikrowellenherd ist ein technisches Gerät zum schnellen Erwärmen, Garen, Kochen und Trocknen von Nahrungsmitteln. Dabei wird elektromagnetische Hochfrequenzenergie in bestimmten ISM-Bändern genutzt. Die Grenzen dieser Frequenzbänder variieren je nach ITU-Region und Land. In den USA schränkt die FCC den Begriff auf Geräte für Privathaushalte und Restaurants ein. Andere Verwendungen in Labors oder in der Industrie gelten dort nicht als Mikrowellenherde.",
+      "Der zur Erwärmung genutzte Teil des Geräts besteht aus einem metallischen Garraum mit einer verschließbaren Tür. Durch Interlock-Schalter wird sichergestellt, dass der Hochfrequenzgenerator die Energie nur bei fest verschlossener Tür erzeugt. Trotzdem kann in der Umgebung eine geringe Leckstrahlung auftreten. Für die Frequenz von 2450 MHz wurde ein Emissionsgrenzwert von fünf Milliwatt pro Quadratzentimeter in fünf Zentimetern Abstand festgelegt. Das Bundesamt für Strahlenschutz hat bei Messungen im Mittel eine Leckstrahlung von ein Prozent dieses Grenzwertes gemessen."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Im Gegensatz zur konventionellen Erwärmung durch Wärmeleitung oder Strahlung, bei der die Wärme von außen nach innen dringt, wird die Wärme bei der Mikrowelle im Gargut selbst erzeugt. Dies geschieht durch die eingeleitete elektromagnetische Hochfrequenzenergie und dielektrische Verluste im Gargut. Die Strahlung regt Wassermoleküle und andere Moleküle mit einem elektrischen Dipolmoment zu einer Drehbewegung an. Durch diese Rotation erhöht sich die kinetische Energie des Wassers und somit die Temperatur des Lebensmittels.",
+      "Für die Erzeugung der Hochfrequenzenergie werden in den meisten Geräten Magnetrons verwendet. Diese arbeiten meistens mit einer Mittenfrequenz von etwa 2450 MHz. Der Wirkungsgrad variiert dabei, da nur zwischen etwa fünfzig und maximal fünfundsechzig Prozent der aufgenommenen elektrischen Energie in Mikrowellenstrahlung umgewandelt werden. Der Rest wird als Abwärme abgeführt. Bei kleinen Portionen ist ein Mikrowellenherd oft energieeffizienter und schneller als eine normale Herdplatte."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Der US-amerikanische Ingenieur Percy Spencer entdeckte die Erwärmung durch Mikrowellenstrahlung, als er Magnetrone für Radaranlagen bei dem Unternehmen Raytheon baute. Er bemerkte, dass ein Schokoriegel in seiner Tasche durch das Radar geschmolzen war. Im Jahr 1946 baute er das erste Exemplar eines Radarherdes. Im Jahr 1955 brachte das Unternehmen Tappan den ersten Mikrowellenherd für den Heimgebrauch auf den Markt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Frequenz",
+     "2450 MHz"
+    ],
+    [
+     "Erstes Radarherd-Jahr",
+     "1946"
+    ],
+    [
+     "Grenzwert Leckstrahlung",
+     "5 mW/cm²"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Magnetron",
+     "Ein Bauteil zur Erzeugung von elektromagnetischer Hochfrequenzenergie in einem Mikrowellenherd."
+    ],
+    [
+     "ISM-Bänder",
+     "Frequenzbereiche, die für industrielle, wissenschaftliche und medizinische Anwendungen freigegeben sind."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wer entdeckte die Erwärmung durch Mikrowellenstrahlung?",
+     "optionen": [
+      "Percy Spencer",
+      "Thomas Edison",
+      "Albert Einstein"
+     ],
+     "richtig": 0,
+     "erklaerung": "Der US-Ingenieur Percy Spencer entdeckte das Phänomen, als ein Schokoriegel in seiner Tasche schmolz."
+    }
+   ],
+   "video": [
+    "Eine Mikrowelle erwärmt Lebensmittel sehr schnell mit elektromagnetischer Hochfrequenzenergie.",
+    "Die Idee dazu entstand durch Zufall bei der Arbeit an Radaranlagen.",
+    "Ein Ingenieur bemerkte, dass ein Schokoriegel in seiner Tasche schmolz.",
+    "Im Jahr 1946 wurde das erste Gerät dieser Art gebaut.",
+    "Heute nutzen viele Haushalte solche Geräte zur Zubereitung von Speisen.",
+    "Im Inneren sorgt ein Bauteil namens Magnetron für die Erzeugung der Strahlung.",
+    "Diese Strahlung bringt Wassermoleküle im Essen in Bewegung.",
+    "Durch die entstehende Reibung erwärmt sich die Nahrung von innen heraus."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Mikrowellenherd",
+    "bildunterschrift": "Ein moderner Mikrowellenherd dient dem schnellen Erwärmen von Nahrungsmitteln."
+   },
+   "quelle": {
+    "titel": "Mikrowellenherd",
+    "url": "https://de.wikipedia.org/wiki/Mikrowellenherd",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 330,
+   "bildInfos": [
+    {
+     "titel": "Magnetron.jpg",
+     "beschreibung": "Magnetron, gefabriceerd ca. 1988, eigen foto (je moet iets als Wikipedia met kerst plat ligt....)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Magnetron.jpg",
+     "urheber": "Ellywa at Dutch Wikipedia",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "artikel": "Mikrowellenherd",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein moderner Mikrowellenherd dient dem schnellen Erwärmen von Nahrungsmitteln."
+    },
+    {
+     "titel": "Genehmigung Hochfrequenzgerät 1988.jpg",
+     "beschreibung": "Permission for the operation of a high frequency unit (microwave oven) issued by the Deutsche Bundespost, Germany 1988",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Genehmigung_Hochfrequenzger%C3%A4t_1988.jpg/1280px-Genehmigung_Hochfrequenzger%C3%A4t_1988.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Genehmigung_Hochfrequenzger%C3%A4t_1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Genehmigung_Hochfrequenzger%C3%A4t_1988.jpg",
+     "urheber": "Deutsche Bundespost, Funkstörungsmessstelle, Heidelberg",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Permission for the operation of a high frequency unit (microwave oven) issued by the Deutsche Bundespost, Germany 1988"
+    },
+    {
+     "titel": "Inside a used microwave oven with grill – 360° panorama.jpg",
+     "beschreibung": "This is a surround shot of a 15 year old, frequently used microwave oven. The blue light comes from the camera and is not part of the oven.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Inside_a_used_microwave_oven_with_grill_%E2%80%93_360%C2%B0_panorama.jpg/1280px-Inside_a_used_microwave_oven_with_grill_%E2%80%93_360%C2%B0_panorama.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Inside_a_used_microwave_oven_with_grill_%E2%80%93_360%C2%B0_panorama.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Inside_a_used_microwave_oven_with_grill_%E2%80%93_360%C2%B0_panorama.jpg",
+     "urheber": "Maximilian Schönherr",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "This is a surround shot of a 15 year old, frequently used microwave oven. The blue light comes from the camera and is not part of the oven."
+    },
+    {
+     "titel": "MW on fire.jpg",
+     "beschreibung": "Putting raisins in a microwave oven produces large quantities of smoke.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/MW_on_fire.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/de/MW_on_fire.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:MW_on_fire.jpg",
+     "urheber": "heb @ Wikimedia Commons ( mail )",
+     "lizenz": "CC BY-SA 2.5",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Putting raisins in a microwave oven produces large quantities of smoke."
+    },
+    {
+     "titel": "Magnetron1.jpg",
+     "beschreibung": "Magnetron with magnet in its mounting box - the horizontal aluminium plates aid in cooling the device by airflow from a fan",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Magnetron1.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Magnetron1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Magnetron1.jpg",
+     "urheber": "HCRS Home Labor Page",
+     "lizenz": "CC BY-SA 2.0 at",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0/at/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Magnetron with magnet in its mounting box - the horizontal aluminium plates aid in cooling the device by airflow from a fan"
+    },
+    {
+     "titel": "Magnetronbuis.jpg",
+     "beschreibung": "magnetronbuis",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Magnetronbuis.jpg/1280px-Magnetronbuis.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/38/Magnetronbuis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Magnetronbuis.jpg",
+     "urheber": "Uijtdewilligen",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "magnetronbuis"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Magnetron.jpg",
+    "beschreibung": "Magnetron, gefabriceerd ca. 1988, eigen foto (je moet iets als Wikipedia met kerst plat ligt....)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Magnetron.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Magnetron.jpg",
+    "urheber": "Ellywa at Dutch Wikipedia",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artikel": "Mikrowellenherd",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein moderner Mikrowellenherd dient dem schnellen Erwärmen von Nahrungsmitteln."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-ein-metallsuchgeraet",
    "zeit": "2026-10-31T15:54:35.717Z",
@@ -6593,193 +6776,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Chamäleons nutzen ihren Farbwechsel vor allem für Signale an Artgenossen und zur Temperaturregelung."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-eine-optische-taeuschung",
-   "zeit": "2026-10-17T09:22:29.834Z",
-   "bereich": "Sprache und Kultur",
-   "titel": "Wie entsteht eigentlich eine optische Täuschung?",
-   "vorspann": "Optische Täuschungen verändern unsere Sicht auf Linien, Farben und Formen. Das Gehirn interpretiert dabei unvollständige Informationen unserer Sinne.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Eine optische Täuschung ist eine Täuschung der visuellen Wahrnehmung. Sie kann nahezu alle Aspekte des Sehens betreffen. Dazu gehören Tiefenillusionen, Farbillusionen, geometrische Illusionen und Bewegungsillusionen.",
-      "Die Wahrnehmung beruht auf unvollständiger Information. Deshalb scheint das Sehsystem falsche Annahmen über die Natur des Sehreizes zu treffen."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Bei optischen Täuschungen nehmen wir Dinge anders wahr, als sie nachweislich sind. Ein Beispiel dafür ist die Müller-Lyer-Täuschung, bei der gleich lange Strecken unterschiedlich lang wirken. Auch die Helligkeits- und Farbgebung umliegender Flächen beeinflusst stark unsere Wahrnehmung.",
-      "Ein weiteres Beispiel ist das Hermann-Gitter. In den Schnittpunkten der weißen Linien sieht man schattenartige Flecken, allerdings nur dort, wohin man nicht direkt schaut.",
-      "Zusätzlich spielen Kontraste eine wichtige Rolle. Bei der Café-Wall-Illusion wirken gerade Linien durch Helligkeitsunterschiede und Schatten keilförmig oder gekrümmt."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Optische Täuschungen werden in der Wahrnehmungspsychologie untersucht. Aus ihnen lassen sich Rückschlüsse über die Verarbeitung von Sinnesreizen im Gehirn gewinnen.",
-      "Systematisch produziert und analysiert wurden optische Täuschungen zuerst in der Gestaltpsychologie. Zudem wurden viele Täuschungen im Laufe der Zeit von Forschern wie Hugo Münsterberg oder Ewald Hering beschrieben und benannt."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Bisher wurde in Lehrbüchern angenommen, dass der Effekt des Hermann-Gitters auf lateraler Hemmung beruht, doch inzwischen gilt diese Theorie als widerlegt, da sich die Illusion bei bestimmten Änderungen auflöst."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Jahr der ersten Beschreibung der Münsterberg-Täuschung",
-     "1874"
-    ],
-    [
-     "Vorstellung des Hermann-Gitters",
-     "1870"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Optische Täuschung",
-     "Eine Täuschung der visuellen Wahrnehmung, bei der das Sehsystem falsche Annahmen über einen Sehreiz trifft."
-    ],
-    [
-     "Wahrnehmungspsychologie",
-     "Ein Wissenschaftsbereich, in dem untersucht wird, wie Sinnesreize im Gehirn verarbeitet werden."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Worauf beruht die Wahrnehmung laut dem Artikel?",
-     "optionen": [
-      "Auf unvollständiger Information",
-      "Auf perfekten Messungen des Auges",
-      "Auf rein zufälligen Prozessen"
-     ],
-     "richtig": 0,
-     "erklaerung": "Optische Täuschungen beruhen auf der Tatsache, dass unsere Wahrnehmung auf unvollständiger Information beruht."
-    }
-   ],
-   "video": [
-    "Eine optische Täuschung täuscht unsere visuelle Wahrnehmung.",
-    "Dabei macht das Gehirn falsche Annahmen über gesehene Reize.",
-    "Das betrifft Linien, Farben, Längen und Helligkeiten.",
-    "Ein bekanntes Beispiel ist das Hermann-Gitter mit seinen schattenhaften Flecken.",
-    "Früher dachte man, dafür sei die laterale Hemmung verantwortlich.",
-    "Inzwischen gilt diese gängige Theorie jedoch als widerlegt.",
-    "Wissenschaftler untersuchen solche Phänomene in der Wahrnehmungspsychologie.",
-    "So lernen sie mehr über die Verarbeitung von Sinnesreizen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Optische Täuschung",
-    "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
-   },
-   "quelle": {
-    "titel": "Optische Täuschung",
-    "url": "https://de.wikipedia.org/wiki/Optische_T%C3%A4uschung",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 203,
-   "bildInfos": [
-    {
-     "titel": "Man photographing himself in hotel bathroom with mirrors all around to generate illusion (cropped).jpg",
-     "beschreibung": "Man photographing himself in a cornered mirror to generate a multiple reflection",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg/1280px-Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_(cropped).jpg",
-     "urheber": "Pittigrilli",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Optische Täuschung",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
-    },
-    {
-     "titel": "Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
-     "beschreibung": "Aer.lingus.a320-200.ei-cva.planform.arp",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aer.lingus.a320-200.ei-cva.planform.arp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Aer.lingus.a320-200.ei-cva.planform.arp.jpg",
-     "urheber": "unbekannt",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Aer.lingus.a320-200.ei-cva.planform.arp"
-    },
-    {
-     "titel": "Bezold Effekt Balken.png",
-     "beschreibung": "Die blauen Balken werden in Kombination mit den weißen Zwischenräumen in der linken Hälfte heller wahrgenommen als mit den schwarzen Zwischenräumen in der rechten Hälfte.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bezold_Effekt_Balken.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bezold_Effekt_Balken.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bezold_Effekt_Balken.png",
-     "urheber": "Mabit1",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Die blauen Balken werden in Kombination mit den weißen Zwischenräumen in der linken Hälfte heller wahrgenommen als mit den schwarzen Zwischenräumen in der rechten Hälfte."
-    },
-    {
-     "titel": "Bezold Effekt Kreise.png",
-     "beschreibung": "Die grünen Kreisringe werden in der weißen Umgebung der linken Hälfte heller wahrgenommen als in der braunen Umgebung der rechten Hälfte.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bezold_Effekt_Kreise.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Bezold_Effekt_Kreise.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Bezold_Effekt_Kreise.png",
-     "urheber": "Mabit1",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Die grünen Kreisringe werden in der weißen Umgebung der linken Hälfte heller wahrgenommen als in der braunen Umgebung der rechten Hälfte."
-    },
-    {
-     "titel": "FerromagnetischerWerkstoff.png",
-     "beschreibung": "Ferromagnetischer Werkstoff",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/FerromagnetischerWerkstoff.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/FerromagnetischerWerkstoff.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:FerromagnetischerWerkstoff.png",
-     "urheber": "Ty von Sevelingen",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ferromagnetischer Werkstoff"
-    },
-    {
-     "titel": "Hahnentrittmuster.jpg",
-     "beschreibung": "„shepherd's check“? „houndstooth“? (Example for an optical illusion in everyday life: the pattern seems to be tilt to the right.)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Hahnentrittmuster.jpg/1280px-Hahnentrittmuster.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Hahnentrittmuster.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Hahnentrittmuster.jpg",
-     "urheber": "Thomas Schoch",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "„shepherd's check“? „houndstooth“? (Example for an optical illusion in everyday life: the pattern seems to be tilt to the right.)"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Man photographing himself in hotel bathroom with mirrors all around to generate illusion (cropped).jpg",
-    "beschreibung": "Man photographing himself in a cornered mirror to generate a multiple reflection",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg/1280px-Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Man_photographing_himself_in_hotel_bathroom_with_mirrors_all_around_to_generate_illusion_(cropped).jpg",
-    "urheber": "Pittigrilli",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Optische Täuschung",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Optische Täuschungen zeigen, wie das Gehirn visuelle Reize verarbeitet."
    }
   }
  ]
