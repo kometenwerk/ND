@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-01T20:53:48.971481Z",
+ "stand": "2026-11-02T23:41:35.133129Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -35,6 +35,135 @@
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-merzd-nachfolge-bundespraesident-frau",
+   "themaId": "merzd-nachfolge-bundespraesident-frau",
+   "art": "podcast",
+   "titel": "Wer folgt auf Bundespräsident Steinmeier",
+   "text": "Bundeskanzler Friedrich Merz plädiert für eine Frau im höchsten Staatsamt. Die CSU bringt derweil Ilse Aigner ins Gespräch.",
+   "zeit": "2026-11-02T23:41:35.133129Z",
+   "besetzung": [
+    "Thorsten",
+    "Sigrid",
+    "Malte",
+    "Nora"
+   ],
+   "d": "folge-podcast-merzd-nachfolge-bundespraesident-frau.mp3",
+   "l": 354.05,
+   "b": 2833005,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Willkommen zum politischen Podcast. Es geht um die Nachfolge von Bundespräsident Frank-Walter Steinmeier und die Frage, wer das Amt künftig übernehmen könnte. Alle Stimmen dieser Sendung sind Computerstimmen. Wir beleuchten die unterschiedlichen Positionen und wollen wissen, wie die Parteien sich aufstellen."
+    },
+    {
+     "s": 16.58,
+     "wer": "Thorsten",
+     "text": "Mit dabei sind heute meine Kolleginnen und Kollegen. Sigrid ist im Studio für die Einordnung, Malte liefert die Fakten aus den Berichten und Nora schaut auf die offenen Fragen. Sigrid, wie siehst du das Gesamtbild im Moment?"
+    },
+    {
+     "s": 28.8,
+     "wer": "Sigrid",
+     "text": "Das Thema bekommt gerade eine enorme Dynamik in Berlin. Bundeskanzler Friedrich Merz hat sich bei einer internen Konferenz der Kreisvorsitzenden klar positioniert. Er möchte, dass eine Frau auf den amtierenden Bundespräsidenten Frank-Walter Steinmeier folgt. Damit ist der Startschuss für die Personaldebatte offiziell gefallen."
+    },
+    {
+     "s": 48.37,
+     "wer": "Sigrid",
+     "text": "Die Debatte berührt das wichtigste Staatsamt der Republik. Es geht darum, wer das Land nach außen und innen repräsentiert. Die Bundesversammlung wird diese wichtige Entscheidung am dreißigsten Januar treffen. Bis dahin müssen die Parteien tragfähige Vorschläge präsentieren."
+    },
+    {
+     "s": 64.81,
+     "wer": "Malte",
+     "text": "Schauen wir auf die Quellenlage, wie sie uns vorliegt. Tagesschau, ZDFheute, Deutschlandfunk, Spiegel und Zeit berichten übereinstimmend über diese Entwicklungen. Die Bundesversammlung, die aus sechshundertdreißig Mitgliedern des Bundestages besteht, wird das neue Staatsoberhaupt am dreißigsten Januar wählen."
+    },
+    {
+     "s": 84.83,
+     "wer": "Malte",
+     "text": "Konkret stammt die Äußerung von Kanzler Merz vom zweiten November zweitausendsechsundzwanzig. Auf der CDU-Kreisvorsitzendenkonferenz in Berlin hat er seine Pläne öffentlich gemacht. Er kündigte an, der Partei eine gemeinsame Kandidatin der politischen Mitte vorzuschlagen."
+    },
+    {
+     "s": 102.23,
+     "wer": "Nora",
+     "text": "Hier hakt es aber bereits bei der internen Abstimmung in der Union. Während Merz eine gemeinsame Kandidatin der politischen Mitte durchsetzen will, schießt sich die CSU auf eine ganz bestimmte Person ein. Parteichef Markus Söder und die bayerische Landespartei favorisieren die bayerische Landtagspräsidentin Ilse Aigner."
+    },
+    {
+     "s": 121.54,
+     "wer": "Nora",
+     "text": "Es bleibt laut ZDFheute und Spiegel völlig offen, ob sich die CDU am Ende mit der CSU auf eine gemeinsame Kandidatin verständigen kann. Oder ob sich vielleicht eine eigene CDU-Politikerin gegen die Wünsche aus München durchsetzt. Diese Personalfrage ist intern noch keineswegs gelöst."
+    },
+    {
+     "s": 138.7,
+     "wer": "Thorsten",
+     "text": "Damit zu Malte, der sich die Details der verschiedenen Positionen genauer angeschaut hat. Malte, welche Parteien mischen da sonst noch mit?"
+    },
+    {
+     "s": 146.49,
+     "wer": "Malte",
+     "text": "Die CSU erhält bei ihrer Favoritin Ilse Aigner überraschende Schützenhilfe. Laut den vorliegenden Berichten unterstützen auch Teile der SPD und sogar der Grünen diese Personalie. Damit bekommt Aigner eine beachtliche parteiübergreifende Basis im Vorfeld der Wahl."
+    },
+    {
+     "s": 163.63,
+     "wer": "Malte",
+     "text": "Dazu passt, dass sich SPD-Fraktionschef Matthias Miersch ebenfalls für Ilse Aigner ausgesprochen hat. Das zeigt, dass die Debatte weit über die reine Unionsfamilie hinausreicht. Die Sozialdemokraten scheinen hier durchaus Gesprächsbereitschaft zu signalisieren."
+    },
+    {
+     "s": 179.67,
+     "wer": "Sigrid",
+     "text": "Wie Nora eben sagte, stehen wir vor einer spannenden Machtprobe in der Union. Kanzler Merz will die Zügel in der Hand behalten und bis zur kommenden Woche Gespräche führen. Er plant, erst die CDU und dann die CSU einzubinden, um einen gemeinsamen Unionsvorschlag zu erarbeiten."
+    },
+    {
+     "s": 196.84,
+     "wer": "Sigrid",
+     "text": "Erst nach diesem innerparteilichen Schulterschluss sollen dann auch SPD und Grüne in die Beratungen einbezogen werden. Das ist ein ambitionierter Zeitplan für die kommenden Tage. Ob dieser Weg funktioniert, wird sich in den nächsten Verhandlungsrunden zeigen."
+    },
+    {
+     "s": 211.25,
+     "wer": "Nora",
+     "text": "Genau das ist der springende Punkt bei diesem Verfahren. Wenn die CSU öffentlich so massiv für Ilse Aigner trommelt, läuft Merz Gefahr, vorgeführt zu werden. Er hat schließlich angekündigt, selbst eine Kandidatin vorzuschlagen, ohne direkt einen Namen zu nennen."
+    },
+    {
+     "s": 225.86,
+     "wer": "Nora",
+     "text": "Die Frage ist doch, ob Merz sich gegen Söder durchsetzen kann oder ob am Ende die CSU-Kandidatin das Rennen macht. Die unterschiedlichen Lager bringen sich jetzt in Stellung. Von Harmonie in der Frage kann im Moment kaum die Rede sein."
+    },
+    {
+     "s": 238.58,
+     "wer": "Malte",
+     "text": "Die Medienberichte betonen hierbei vor allem die unterschiedlichen Richtungen der Akteure. Die Zeit und der Deutschlandfunk heben hervor, dass Merz gezielt von einer Kandidatin der politischen Mitte spricht. Das lässt Raum für Spekulationen über mögliche andere Namen außerhalb Bayerns."
+    },
+    {
+     "s": 256.31,
+     "wer": "Malte",
+     "text": "Gleichzeitig stellt sich die Frage, wie stark die Unterstützung für Aigner in der SPD wirklich trägt. Matthias Miersch hat sich zwar geäußert, aber ob das für eine geschlossene Linie der Sozialdemokraten reicht, bleibt abzuwarten. Die Bundesversammlung wird da am Ende ein klares Votum abgeben müssen."
+    },
+    {
+     "s": 275.55,
+     "wer": "Sigrid",
+     "text": "Wir sehen also zwei sehr unterschiedliche Vorstellungen davon, wie die Nominierung ablaufen soll. Auf der einen Seite der Bundeskanzler, der als Parteichef den Prozess steuern und eine breite Mitte-Kandidatin präsentieren möchte. Auf der anderen Seite die CSU, die Fakten schaffen will."
+    },
+    {
+     "s": 292.66,
+     "wer": "Sigrid",
+     "text": "Das erinnert an frühere Findungsprozesse für das höchste Staatsamt, wo oft im Hintergrund hart verhandelt wurde. Diesmal läuft ein Teil dieser Auseinandersetzung sehr öffentlich ab. Das erhöht den Druck auf alle beteiligten Parteispitzen erheblich."
+    },
+    {
+     "s": 307.64,
+     "wer": "Nora",
+     "text": "Und genau deshalb bleibt so vieles unklar für die kommenden Wochen. Wir wissen weder, ob die CDU am Ende Merz folgt noch ob Aigner die offizielle Kandidatin der Union wird. Auch die Rolle der Grünen jenseits einzelner Unterstützer für Aigner ist noch völlig offen."
+    },
+    {
+     "s": 324.89,
+     "wer": "Nora",
+     "text": "Es geht am dreißigsten Januar immerhin um das Staatsoberhaupt der Bundesrepublik. Da wollen sich die Koalitions- und Oppositionsfraktionen keine Blöße geben. Die kommenden Tage bis zur Einigung von CDU und CSU werden zeigen, wer sich durchsetzt."
+    },
+    {
+     "s": 339.84,
+     "wer": "Thorsten",
+     "text": "Danke an euch alle für diese differenzierte Bestandsaufnahme. Damit ist klar, dass uns die Personalie in den nächsten Tagen intensiv beschäftigen wird. Wir werden die weiteren Schritte von Kanzler Merz und der CSU genau beobachten. Tschüss bis zum nächsten Mal."
+    }
+   ]
+  },
   {
    "id": "podcast-patriot-raketen-ukraine",
    "themaId": "patriot-raketen-ukraine",
