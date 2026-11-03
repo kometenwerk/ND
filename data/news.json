@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T10:45:20.124Z",
+ "stand": "2026-11-03T18:24:10.507Z",
  "gepusht": [
   "jugendwort-des-jahres-2026-ragebait",
   "angriffe-saporischschja",
@@ -86,7 +86,6 @@
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "feuerpause-oleschky-ukraine",
-  "zugunglueck-spanien",
   "binance-hackerangriff",
   "un-artenschutzkonferenz-eriwan",
   "polen-verfassungsgericht-streit",
@@ -105,7 +104,7 @@
   "tod-jesus-de-miguel"
  ],
  "wetter": {
-  "stand": "2026-11-03T10:45:20.124Z",
+  "stand": "2026-11-03T18:24:10.507Z",
   "morgenTag": "Mittwoch",
   "orte": [
    {
@@ -114,15 +113,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 10,
+     "grad": 9,
      "code": 2,
-     "gefuehlt": 8,
-     "wind": 6,
-     "windAus": 117,
-     "feuchte": 77,
+     "gefuehlt": 7,
+     "wind": 10,
+     "windAus": 55,
+     "feuchte": 88,
      "druck": 1033,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
@@ -132,8 +131,8 @@
      "regen": 30,
      "menge": 0,
      "wind": 13,
-     "windAus": 71,
-     "uv": 1.7,
+     "windAus": 70,
+     "uv": 1.8,
      "auf": "07:22",
      "unter": "16:43"
     },
@@ -141,7 +140,7 @@
      "datum": "2026-11-04",
      "code": 3,
      "max": 9,
-     "min": 5,
+     "min": 6,
      "regen": 0,
      "menge": 0,
      "wind": 11,
@@ -159,8 +158,8 @@
       "regen": 30,
       "menge": 0,
       "wind": 13,
-      "windAus": 71,
-      "uv": 1.7,
+      "windAus": 70,
+      "uv": 1.8,
       "auf": "07:22",
       "unter": "16:43"
      },
@@ -168,7 +167,7 @@
       "datum": "2026-11-04",
       "code": 3,
       "max": 9,
-      "min": 5,
+      "min": 6,
       "regen": 0,
       "menge": 0,
       "wind": 11,
@@ -185,7 +184,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 82,
+      "windAus": 84,
       "uv": 1.8,
       "auf": "07:26",
       "unter": "16:39"
@@ -197,8 +196,8 @@
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 92,
+      "wind": 13,
+      "windAus": 96,
       "uv": 1.8,
       "auf": "07:28",
       "unter": "16:37"
@@ -206,38 +205,38 @@
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 5,
-      "min": 4,
+      "max": 6,
+      "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 102,
+      "wind": 10,
+      "windAus": 110,
       "uv": 1.7,
       "auf": "07:30",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
-      "max": 4,
+      "code": 3,
+      "max": 6,
       "min": 3,
-      "regen": 3,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 131,
-      "uv": 1.4,
+      "regen": 0,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 127,
+      "uv": 1.6,
       "auf": "07:32",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-09",
-      "code": 61,
-      "max": 6,
+      "code": 3,
+      "max": 8,
       "min": 3,
-      "regen": 16,
-      "menge": 0.6,
-      "wind": 5,
-      "windAus": 111,
+      "regen": 5,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 106,
       "uv": 1.5,
       "auf": "07:34",
       "unter": "16:32"
@@ -245,80 +244,32 @@
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
       "grad": 9,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "20:00",
       "grad": 9,
       "code": 2,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "21:00",
       "grad": 9,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 8,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 7,
+      "grad": 8,
       "code": 2,
       "regen": 0
      },
@@ -342,8 +293,8 @@
      },
      {
       "zeit": "03:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
@@ -360,20 +311,20 @@
      },
      {
       "zeit": "06:00",
-      "grad": 5,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 5,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
@@ -385,6 +336,54 @@
      {
       "zeit": "10:00",
       "grad": 7,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
       "code": 2,
       "regen": 0
      }
@@ -396,26 +395,26 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 9,
+     "grad": 7,
      "code": 0,
-     "gefuehlt": 7,
+     "gefuehlt": 4,
      "wind": 6,
-     "windAus": 47,
-     "feuchte": 58,
-     "druck": 1029,
+     "windAus": 38,
+     "feuchte": 79,
+     "druck": 1030,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
      "code": 3,
      "max": 10,
      "min": 4,
-     "regen": 10,
+     "regen": 3,
      "menge": 0,
      "wind": 10,
      "windAus": 36,
-     "uv": 1.7,
+     "uv": 2,
      "auf": "07:06",
      "unter": "16:33"
     },
@@ -423,11 +422,11 @@
      "datum": "2026-11-04",
      "code": 3,
      "max": 10,
-     "min": 5,
+     "min": 4,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 63,
+     "wind": 10,
+     "windAus": 61,
      "uv": 1.9,
      "auf": "07:07",
      "unter": "16:31"
@@ -438,11 +437,11 @@
       "code": 3,
       "max": 10,
       "min": 4,
-      "regen": 10,
+      "regen": 3,
       "menge": 0,
       "wind": 10,
       "windAus": 36,
-      "uv": 1.7,
+      "uv": 2,
       "auf": "07:06",
       "unter": "16:33"
      },
@@ -450,11 +449,11 @@
       "datum": "2026-11-04",
       "code": 3,
       "max": 10,
-      "min": 5,
+      "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 63,
+      "wind": 10,
+      "windAus": 61,
       "uv": 1.9,
       "auf": "07:07",
       "unter": "16:31"
@@ -462,12 +461,12 @@
      {
       "datum": "2026-11-05",
       "code": 2,
-      "max": 9,
+      "max": 10,
       "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 81,
+      "wind": 11,
+      "windAus": 83,
       "uv": 1.9,
       "auf": "07:09",
       "unter": "16:29"
@@ -476,11 +475,11 @@
       "datum": "2026-11-06",
       "code": 3,
       "max": 7,
-      "min": 2,
+      "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 88,
+      "wind": 11,
+      "windAus": 91,
       "uv": 1.9,
       "auf": "07:11",
       "unter": "16:27"
@@ -489,124 +488,76 @@
       "datum": "2026-11-07",
       "code": 3,
       "max": 7,
-      "min": 3,
-      "regen": 0,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
-      "wind": 8,
-      "windAus": 92,
+      "wind": 9,
+      "windAus": 102,
       "uv": 1.9,
       "auf": "07:13",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
-      "max": 3,
-      "min": 1,
-      "regen": 0,
+      "code": 3,
+      "max": 7,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
       "wind": 6,
-      "windAus": 136,
-      "uv": 1.7,
+      "windAus": 120,
+      "uv": 1.8,
       "auf": "07:15",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
+      "code": 3,
       "max": 8,
-      "min": 2,
-      "regen": 11,
+      "min": 3,
+      "regen": 7,
       "menge": 0,
-      "wind": 4,
-      "windAus": 113,
-      "uv": 1.7,
+      "wind": 8,
+      "windAus": 106,
+      "uv": 1.6,
       "auf": "07:17",
       "unter": "16:22"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 10
-     },
-     {
       "zeit": "19:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 8
+      "grad": 7,
+      "code": 0,
+      "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 7,
-      "code": 1,
+      "grad": 6,
+      "code": 0,
       "regen": 3
      },
      {
       "zeit": "21:00",
-      "grad": 7,
+      "grad": 6,
       "code": 1,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
@@ -642,32 +593,80 @@
      },
      {
       "zeit": "06:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 5,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 5,
-      "code": 2,
+      "grad": 4,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 5,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 6,
+      "grad": 7,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 10,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -679,77 +678,77 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 8,
-     "code": 3,
-     "gefuehlt": 5,
-     "wind": 10,
+     "code": 61,
+     "gefuehlt": 4,
+     "wind": 9,
      "windAus": 51,
-     "feuchte": 63,
+     "feuchte": 66,
      "druck": 1018,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
-     "code": 3,
-     "max": 10,
+     "code": 61,
+     "max": 9,
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 48,
-     "uv": 1.5,
+     "wind": 12,
+     "windAus": 46,
+     "uv": 1.7,
      "auf": "07:06",
      "unter": "16:40"
     },
     "morgen": {
      "datum": "2026-11-04",
      "code": 51,
-     "max": 8,
+     "max": 9,
      "min": 4,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 67,
-     "uv": 2,
+     "wind": 11,
+     "windAus": 66,
+     "uv": 2.1,
      "auf": "07:08",
      "unter": "16:38"
     },
     "tage": [
      {
       "datum": "2026-11-03",
-      "code": 3,
-      "max": 10,
+      "code": 61,
+      "max": 9,
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 48,
-      "uv": 1.5,
+      "wind": 12,
+      "windAus": 46,
+      "uv": 1.7,
       "auf": "07:06",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-04",
       "code": 51,
-      "max": 8,
+      "max": 9,
       "min": 4,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 67,
-      "uv": 2,
+      "wind": 11,
+      "windAus": 66,
+      "uv": 2.1,
       "auf": "07:08",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-05",
       "code": 3,
-      "max": 7,
+      "max": 9,
       "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 75,
+      "windAus": 78,
       "uv": 2.1,
       "auf": "07:10",
       "unter": "16:37"
@@ -761,8 +760,8 @@
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 68,
+      "wind": 10,
+      "windAus": 70,
       "uv": 2.1,
       "auf": "07:12",
       "unter": "16:35"
@@ -770,38 +769,38 @@
      {
       "datum": "2026-11-07",
       "code": 45,
-      "max": 3,
-      "min": 1,
-      "regen": 0,
+      "max": 4,
+      "min": 2,
+      "regen": 6,
       "menge": 0,
-      "wind": 8,
-      "windAus": 72,
+      "wind": 9,
+      "windAus": 95,
       "uv": 2,
       "auf": "07:13",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
+      "code": 3,
       "max": 7,
-      "min": 1,
-      "regen": 3,
+      "min": 4,
+      "regen": 9,
       "menge": 0,
-      "wind": 6,
-      "windAus": 168,
-      "uv": 1.8,
+      "wind": 4,
+      "windAus": 141,
+      "uv": 1.1,
       "auf": "07:15",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-09",
       "code": 3,
-      "max": 9,
-      "min": 4,
-      "regen": 16,
+      "max": 8,
+      "min": 3,
+      "regen": 12,
       "menge": 0,
-      "wind": 5,
-      "windAus": 132,
+      "wind": 7,
+      "windAus": 102,
       "uv": 1.8,
       "auf": "07:17",
       "unter": "16:30"
@@ -809,75 +808,27 @@
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
-      "grad": 7,
+      "grad": 8,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 3,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 7,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -889,7 +840,7 @@
      {
       "zeit": "00:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -901,55 +852,103 @@
      {
       "zeit": "02:00",
       "grad": 4,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 3
+      "grad": 4,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 6,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 7,
+      "grad": 6,
       "code": 51,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -960,15 +959,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 1,
-     "gefuehlt": 6,
+     "grad": 7,
+     "code": 0,
+     "gefuehlt": 3,
      "wind": 11,
-     "windAus": 86,
-     "feuchte": 54,
+     "windAus": 53,
+     "feuchte": 59,
      "druck": 1023,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
@@ -977,21 +976,21 @@
      "min": 5,
      "regen": 15,
      "menge": 0.2,
-     "wind": 17,
-     "windAus": 81,
+     "wind": 12,
+     "windAus": 77,
      "uv": 2.1,
      "auf": "07:27",
      "unter": "17:03"
     },
     "morgen": {
      "datum": "2026-11-04",
-     "code": 3,
+     "code": 0,
      "max": 11,
      "min": 4,
      "regen": 0,
      "menge": 0,
-     "wind": 17,
-     "windAus": 72,
+     "wind": 16,
+     "windAus": 68,
      "uv": 2.1,
      "auf": "07:29",
      "unter": "17:01"
@@ -1004,21 +1003,21 @@
       "min": 5,
       "regen": 15,
       "menge": 0.2,
-      "wind": 17,
-      "windAus": 81,
+      "wind": 12,
+      "windAus": 77,
       "uv": 2.1,
       "auf": "07:27",
       "unter": "17:03"
      },
      {
       "datum": "2026-11-04",
-      "code": 3,
+      "code": 0,
       "max": 11,
       "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 17,
-      "windAus": 72,
+      "wind": 16,
+      "windAus": 68,
       "uv": 2.1,
       "auf": "07:29",
       "unter": "17:01"
@@ -1026,12 +1025,12 @@
      {
       "datum": "2026-11-05",
       "code": 0,
-      "max": 12,
-      "min": 4,
+      "max": 13,
+      "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 97,
+      "wind": 11,
+      "windAus": 104,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:59"
@@ -1040,11 +1039,11 @@
       "datum": "2026-11-06",
       "code": 0,
       "max": 11,
-      "min": 2,
-      "regen": 0,
+      "min": 3,
+      "regen": 2,
       "menge": 0,
-      "wind": 8,
-      "windAus": 114,
+      "wind": 9,
+      "windAus": 113,
       "uv": 2.1,
       "auf": "07:32",
       "unter": "16:58"
@@ -1054,24 +1053,24 @@
       "code": 3,
       "max": 9,
       "min": 2,
-      "regen": 4,
+      "regen": 8,
       "menge": 0,
-      "wind": 9,
+      "wind": 10,
       "windAus": 131,
-      "uv": 2.1,
+      "uv": 1,
       "auf": "07:34",
       "unter": "16:56"
      },
      {
       "datum": "2026-11-08",
       "code": 3,
-      "max": 10,
+      "max": 11,
       "min": 5,
       "regen": 8,
       "menge": 0,
-      "wind": 10,
-      "windAus": 147,
-      "uv": 1.8,
+      "wind": 12,
+      "windAus": 141,
+      "uv": 1.9,
       "auf": "07:36",
       "unter": "16:55"
      },
@@ -1082,71 +1081,23 @@
       "min": 5,
       "regen": 21,
       "menge": 4.2,
-      "wind": 10,
-      "windAus": 116,
-      "uv": 1.1,
+      "wind": 12,
+      "windAus": 120,
+      "uv": 1.8,
       "auf": "07:37",
       "unter": "16:53"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
       "grad": 7,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 7,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -1158,14 +1109,14 @@
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 6,
-      "code": 3,
+      "grad": 5,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1176,14 +1127,14 @@
      },
      {
       "zeit": "01:00",
-      "grad": 6,
-      "code": 2,
+      "grad": 5,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 6,
-      "code": 3,
+      "grad": 5,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1200,13 +1151,13 @@
      },
      {
       "zeit": "05:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1218,7 +1169,7 @@
      },
      {
       "zeit": "08:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1230,7 +1181,55 @@
      },
      {
       "zeit": "10:00",
-      "grad": 7,
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
       "code": 0,
       "regen": 0
      }
@@ -1242,26 +1241,26 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 8,
+     "grad": 7,
      "code": 3,
      "gefuehlt": 4,
-     "wind": 13,
-     "windAus": 53,
-     "feuchte": 52,
+     "wind": 12,
+     "windAus": 47,
+     "feuchte": 57,
      "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
      "code": 3,
-     "max": 10,
+     "max": 9,
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 16,
+     "wind": 15,
      "windAus": 51,
-     "uv": 2.1,
+     "uv": 2.2,
      "auf": "07:18",
      "unter": "16:58"
     },
@@ -1269,11 +1268,11 @@
      "datum": "2026-11-04",
      "code": 3,
      "max": 12,
-     "min": 4,
+     "min": 5,
      "regen": 0,
      "menge": 0,
      "wind": 15,
-     "windAus": 43,
+     "windAus": 45,
      "uv": 2.2,
      "auf": "07:19",
      "unter": "16:57"
@@ -1282,13 +1281,13 @@
      {
       "datum": "2026-11-03",
       "code": 3,
-      "max": 10,
+      "max": 9,
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 16,
+      "wind": 15,
       "windAus": 51,
-      "uv": 2.1,
+      "uv": 2.2,
       "auf": "07:18",
       "unter": "16:58"
      },
@@ -1296,11 +1295,11 @@
       "datum": "2026-11-04",
       "code": 3,
       "max": 12,
-      "min": 4,
+      "min": 5,
       "regen": 0,
       "menge": 0,
       "wind": 15,
-      "windAus": 43,
+      "windAus": 45,
       "uv": 2.2,
       "auf": "07:19",
       "unter": "16:57"
@@ -1313,20 +1312,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 43,
+      "windAus": 44,
       "uv": 2.2,
       "auf": "07:21",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-06",
-      "code": 1,
-      "max": 9,
+      "code": 3,
+      "max": 8,
       "min": 2,
-      "regen": 0,
+      "regen": 2,
       "menge": 0,
       "wind": 7,
-      "windAus": 29,
+      "windAus": 28,
       "uv": 2.2,
       "auf": "07:23",
       "unter": "16:53"
@@ -1334,96 +1333,48 @@
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 8,
-      "min": 1,
-      "regen": 3,
+      "max": 7,
+      "min": 4,
+      "regen": 10,
       "menge": 0,
-      "wind": 3,
-      "windAus": 53,
-      "uv": 2.2,
+      "wind": 5,
+      "windAus": 43,
+      "uv": 0.9,
       "auf": "07:25",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
-      "max": 9,
+      "code": 3,
+      "max": 10,
       "min": 4,
-      "regen": 11,
+      "regen": 13,
       "menge": 0,
-      "wind": 3,
-      "windAus": 56,
+      "wind": 4,
+      "windAus": 60,
       "uv": 1.8,
       "auf": "07:26",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-09",
-      "code": 61,
-      "max": 7,
-      "min": 3,
-      "regen": 27,
-      "menge": 2.4,
-      "wind": 4,
-      "windAus": 32,
-      "uv": 0.5,
+      "code": 3,
+      "max": 10,
+      "min": 4,
+      "regen": 29,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 53,
+      "uv": 1.8,
       "auf": "07:28",
       "unter": "16:49"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
       "grad": 8,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1458,8 +1409,8 @@
      },
      {
       "zeit": "01:00",
-      "grad": 7,
-      "code": 3,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1471,48 +1422,96 @@
      {
       "zeit": "03:00",
       "grad": 6,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 5,
-      "code": 0,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
       "code": 0,
       "regen": 0
      }
@@ -1527,21 +1526,21 @@
      "grad": 7,
      "code": 3,
      "gefuehlt": 3,
-     "wind": 14,
+     "wind": 10,
      "windAus": 65,
-     "feuchte": 61,
+     "feuchte": 66,
      "druck": 995,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
      "code": 3,
-     "max": 8,
+     "max": 7,
      "min": 6,
      "regen": 0,
      "menge": 0,
-     "wind": 16,
+     "wind": 15,
      "windAus": 58,
      "uv": 2.3,
      "auf": "07:12",
@@ -1550,13 +1549,13 @@
     "morgen": {
      "datum": "2026-11-04",
      "code": 3,
-     "max": 11,
+     "max": 10,
      "min": 4,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
-     "wind": 14,
-     "windAus": 62,
-     "uv": 1.4,
+     "wind": 13,
+     "windAus": 71,
+     "uv": 1.3,
      "auf": "07:14",
      "unter": "16:58"
     },
@@ -1564,11 +1563,11 @@
      {
       "datum": "2026-11-03",
       "code": 3,
-      "max": 8,
+      "max": 7,
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 16,
+      "wind": 15,
       "windAus": 58,
       "uv": 2.3,
       "auf": "07:12",
@@ -1577,25 +1576,25 @@
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 11,
+      "max": 10,
       "min": 4,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 62,
-      "uv": 1.4,
+      "wind": 13,
+      "windAus": 71,
+      "uv": 1.3,
       "auf": "07:14",
       "unter": "16:58"
      },
      {
       "datum": "2026-11-05",
-      "code": 2,
-      "max": 10,
-      "min": 3,
+      "code": 3,
+      "max": 11,
+      "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 91,
+      "windAus": 95,
       "uv": 2.3,
       "auf": "07:16",
       "unter": "16:57"
@@ -1604,11 +1603,11 @@
       "datum": "2026-11-06",
       "code": 3,
       "max": 8,
-      "min": 3,
+      "min": 4,
       "regen": 2,
       "menge": 0,
-      "wind": 6,
-      "windAus": 97,
+      "wind": 4,
+      "windAus": 129,
       "uv": 2.3,
       "auf": "07:17",
       "unter": "16:55"
@@ -1617,91 +1616,43 @@
       "datum": "2026-11-07",
       "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 8,
+      "min": 5,
+      "regen": 10,
       "menge": 0,
       "wind": 4,
-      "windAus": 142,
-      "uv": 1.9,
+      "windAus": 355,
+      "uv": 1.1,
       "auf": "07:19",
       "unter": "16:54"
      },
      {
       "datum": "2026-11-08",
-      "code": 3,
+      "code": 80,
       "max": 11,
-      "min": 2,
-      "regen": 13,
-      "menge": 0,
+      "min": 4,
+      "regen": 15,
+      "menge": 0.9,
       "wind": 4,
-      "windAus": 169,
-      "uv": 2,
+      "windAus": 166,
+      "uv": 2.2,
       "auf": "07:20",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-09",
       "code": 61,
-      "max": 11,
-      "min": 8,
-      "regen": 41,
-      "menge": 15.3,
-      "wind": 6,
-      "windAus": 174,
-      "uv": 1.3,
+      "max": 10,
+      "min": 4,
+      "regen": 45,
+      "menge": 2.4,
+      "wind": 5,
+      "windAus": 144,
+      "uv": 1.5,
       "auf": "07:22",
       "unter": "16:51"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "19:00",
       "grad": 7,
@@ -1710,19 +1661,19 @@
      },
      {
       "zeit": "20:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
@@ -1735,24 +1686,24 @@
      {
       "zeit": "00:00",
       "grad": 6,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -1770,13 +1721,13 @@
      },
      {
       "zeit": "06:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -1784,18 +1735,66 @@
       "zeit": "08:00",
       "grad": 5,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "09:00",
-      "grad": 5,
+      "grad": 6,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "10:00",
       "grad": 6,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -1806,39 +1805,39 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 5,
+     "grad": 4,
      "code": 3,
-     "gefuehlt": 1,
-     "wind": 15,
-     "windAus": 83,
-     "feuchte": 73,
-     "druck": 962,
+     "gefuehlt": 0,
+     "wind": 12,
+     "windAus": 74,
+     "feuchte": 81,
+     "druck": 963,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-03",
      "code": 61,
-     "max": 6,
-     "min": 4,
+     "max": 5,
+     "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 16,
+     "wind": 15,
      "windAus": 75,
-     "uv": 1,
+     "uv": 1.3,
      "auf": "07:01",
      "unter": "16:52"
     },
     "morgen": {
      "datum": "2026-11-04",
-     "code": 3,
-     "max": 8,
+     "code": 51,
+     "max": 7,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 15,
-     "windAus": 85,
-     "uv": 1.3,
+     "wind": 14,
+     "windAus": 84,
+     "uv": 1.6,
      "auf": "07:03",
      "unter": "16:50"
     },
@@ -1846,38 +1845,38 @@
      {
       "datum": "2026-11-03",
       "code": 61,
-      "max": 6,
-      "min": 4,
+      "max": 5,
+      "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 16,
+      "wind": 15,
       "windAus": 75,
-      "uv": 1,
+      "uv": 1.3,
       "auf": "07:01",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-04",
-      "code": 3,
-      "max": 8,
+      "code": 51,
+      "max": 7,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
-      "windAus": 85,
-      "uv": 1.3,
+      "wind": 14,
+      "windAus": 84,
+      "uv": 1.6,
       "auf": "07:03",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-05",
       "code": 45,
-      "max": 8,
+      "max": 7,
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 87,
+      "wind": 10,
+      "windAus": 86,
       "uv": 2.4,
       "auf": "07:04",
       "unter": "16:49"
@@ -1886,11 +1885,11 @@
       "datum": "2026-11-06",
       "code": 45,
       "max": 4,
-      "min": 2,
-      "regen": 0,
+      "min": 3,
+      "regen": 6,
       "menge": 0,
-      "wind": 9,
-      "windAus": 97,
+      "wind": 7,
+      "windAus": 93,
       "uv": 2.3,
       "auf": "07:06",
       "unter": "16:47"
@@ -1898,92 +1897,44 @@
      {
       "datum": "2026-11-07",
       "code": 45,
-      "max": 6,
-      "min": 3,
-      "regen": 11,
+      "max": 8,
+      "min": 4,
+      "regen": 18,
       "menge": 0,
-      "wind": 4,
-      "windAus": 85,
-      "uv": 2.3,
+      "wind": 5,
+      "windAus": 114,
+      "uv": 1.7,
       "auf": "07:08",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-08",
       "code": 45,
-      "max": 6,
-      "min": 1,
-      "regen": 13,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 117,
-      "uv": 2.1,
+      "max": 7,
+      "min": 2,
+      "regen": 23,
+      "menge": 0.3,
+      "wind": 9,
+      "windAus": 111,
+      "uv": 2.2,
       "auf": "07:09",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-09",
       "code": 61,
-      "max": 9,
+      "max": 7,
       "min": 2,
-      "regen": 29,
-      "menge": 3.6,
-      "wind": 3,
-      "windAus": 126,
-      "uv": 0.7,
+      "regen": 40,
+      "menge": 3,
+      "wind": 6,
+      "windAus": 91,
+      "uv": 1.3,
       "auf": "07:11",
       "unter": "16:43"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "19:00",
       "grad": 4,
@@ -1992,61 +1943,61 @@
      },
      {
       "zeit": "20:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
@@ -2065,13 +2016,13 @@
      {
       "zeit": "08:00",
       "grad": 3,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 4,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
@@ -2079,14 +2030,62 @@
       "grad": 4,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 6 und 11 Grad.",
+   "Heute liegen die Höchstwerte zwischen 5 und 11 Grad.",
    "Die Vorhersage für morgen, Mittwoch, im ganzen Land: bewölkt.",
-   "Die Temperaturen erreichen dann 8 bis 12 Grad.",
+   "Die Temperaturen erreichen dann 7 bis 12 Grad.",
    "Am wärmsten wird es in Frankfurt mit 12 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2135,7 +2134,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 9,
-       "regen": 0.1
+       "regen": 0
       }
      ]
     },
@@ -2145,7 +2144,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2158,7 +2157,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 8,
-       "regen": 0.1
+       "regen": 0.2
       }
      ]
     },
@@ -2168,7 +2167,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 12,
        "regen": 0
       },
       {
@@ -2180,7 +2179,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 10,
+       "grad": 11,
        "regen": 0
       }
      ]
@@ -2214,13 +2213,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2237,13 +2236,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 7,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 6,
+       "grad": 7,
        "regen": 0
       },
       {
@@ -2890,7 +2889,7 @@
      "s": [
       0.25,
       7.17,
-      15.0
+      15
      ]
     },
     {
@@ -3825,7 +3824,7 @@
      "s": [
       0.25,
       6.04,
-      10.0,
+      10,
       14.32,
       17.74
      ]
@@ -11989,922 +11988,6 @@
       32.17,
       35.6,
       41.23
-     ]
-    }
-   ]
-  },
-  {
-   "id": "zugunglueck-spanien",
-   "rubrik": "Welt",
-   "zeit": "2026-10-31T15:31:37.000Z",
-   "aktualisiert": "aktualisiert um 16:42 Uhr",
-   "titel": "Zugunglück in Spanien: Fahrdatenschreiber geborgen und Ermittlungen dauern an",
-   "vorspann": "Nach dem Zusammenstoß zweier Züge in Spanien mit mindestens 69 Toten haben Ermittler die Fahrdatenschreiber geborgen. Die Suche nach der Ursache und die Identifizierung der Opfer dauern an.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "In der zentralen spanischen Provinz Toledo sind zwei Hochgeschwindigkeitszüge kollidiert.",
-    "Mindestens 69 Menschen aus 27 verschiedenen Ländern kamen bei dem Unglück ums Leben.",
-    "Ermittler haben die Fahrdatenschreiber der beiden beteiligten Züge geborgen, um die Unfallursache zu klären.",
-    "Der spanische Verkehrsminister Óscar Puente schloss einen Rücktritt trotz Forderungen der Opposition und von Gewerkschaften aus."
-   ],
-   "einig": [
-    [
-     "Mindestens 69 Menschen kamen bei dem Zugunglück ums Leben.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "BBC"
-     ]
-    ],
-    [
-     "Der spanische Verkehrsminister Óscar Puente schließt einen Rücktritt aus.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ],
-    [
-     "Ein Renfe-Zug fuhr von hinten auf einen stehenden Zug der Gesellschaft Iryo auf.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob sich deutsche Staatsbürger unter den Opfern befinden, ist laut Tagesschau/ARD weiterhin unklar.",
-    "Die genaue technische und menschliche Ursache für den Unfall wird noch untersucht."
-   ],
-   "positionen": [
-    [
-     "Óscar Puente (Verkehrsminister)",
-     "Schließt einen Rücktritt aus und sieht es als seine Pflicht an, die Untersuchungen voranzutreiben und Lösungen zu finden.",
-     "Tagesschau/ARD, BBC"
-    ],
-    [
-     "Pedro Sánchez (Ministerpräsident)",
-     "Betont, dass das Vertrauen in das Hochgeschwindigkeitsnetz zerstört ist und zwei ähnliche Tragödien innerhalb eines Jahres inakzeptabel sind.",
-     "Tagesschau/ARD, BBC"
-    ],
-    [
-     "Emiliano García-Page (Regierungschef Kastilien-La Mancha)",
-     "Erklärt vor Journalisten, dass die Zahl der Todesopfer möglicherweise noch steigen kann und die Suche an der Unglücksstelle beendet ist.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Gewerkschaften (u.a. CSIF) und Oppositionsparteien",
-     "Fordern den Rücktritt des Verkehrsministers und beklagen gestiegene Arbeitsbelastungen sowie Fehler in automatischen Systemen.",
-     "Tagesschau/ARD, BBC"
-    ],
-    [
-     "Irene Montero (Podemos-Kandidatin)",
-     "Warnt davor, die Verantwortung nur auf einen einzelnen Arbeiter zu schieben, und kritisiert die Liberalisierung des Sektors.",
-     "BBC"
-    ]
-   ],
-   "fehlend": "Stimmen von Vertretern der Bahngesellschaften Renfe und Iryo selbst sowie direkte Aussagen von betroffenen Lokführern.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "30.10.26, 13:32",
-     "fokus": "Umfassende Berichterstattung zu Ursachen und Politik",
-     "text": "Die Tagesschau liefert detaillierte Informationen zu den geborgenen Fahrdatenschreibern, dem ausgefallenen Zugsicherungssystem LZB sowie den Reaktionen der Regionalpolitiker in Spanien.",
-     "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-156.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 526,
-      "satzlaenge": 14,
-      "langeWoerter": 39
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 16:31",
-     "fokus": "Kurze Aktualisierung zu den Identifizierungen",
-     "text": "Der Deutschlandfunk konzentriert sich auf die fortlaufenden Identifizierungsarbeiten der Behörden nach dem Zugunglück mit mindestens 69 Toten.",
-     "url": "https://www.deutschlandfunk.de/identifizierung-der-opfer-dauert-an-104.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "30.10.26, 16:03",
-     "fokus": "Hintergrund zu Minister-Rücktrittsforderungen",
-     "text": "Die BBC beleuchtet vor allem die Weigerung von Verkehrsminister Óscar Puente zurückzutreten, die Kritik von Opposition und Gewerkschaften sowie internationale Details der Opfer.",
-     "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 8,
-      "minuten": 4,
-      "woerter": 743,
-      "satzlaenge": 25,
-      "langeWoerter": 27
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit der Zitate",
-     "Die BBC und Tagesschau/ARD zitieren ausführlich aus den Äußerungen des Verkehrsministers und von Politikern, während der Deutschlandfunk eine sehr kurze Meldung veröffentlicht."
-    ],
-    [
-     "Hintergrundinformationen zur Politik",
-     "Die BBC nennt konkrete Namen von Oppositionspolitikern wie Alberto Ibáñez und Irene Montero, während die Tagesschau allgemeiner von Parteien der Opposition spricht."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Ermittler, Behörden und Minister",
-    "was": "Bergung von Fahrdatenschreibern nach schwerem Zugunglück",
-    "wann": "30.10.2026",
-    "wo": "Nahe der Ortschaft Urda in der Provinz Toledo, Spanien",
-    "wie": "Durch Auswertung von Aufzeichnungen und Untersuchungen von technischen Systemen",
-    "warum": "Menschliche Fehlentscheidungen und ein technischer Defekt werden als mögliche Ursachen untersucht",
-    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, BBC"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Bei einem schweren Zugunglück in Spanien sind nach übereinstimmenden Angaben der Berichte mindestens 69 Menschen ums Leben gekommen. Der Zusammenstoß ereignete sich am Mittwochmorgen nahe der Ortschaft Urda in der zentralen Provinz Toledo. Ein Zug der staatlichen Bahngesellschaft Renfe fuhr von hinten auf einen stehenden Zug des privaten Unternehmens Iryo auf. Laut der Unfall-Untersuchungsbehörde AITAT fuhr der Renfe-Zug mit einer geschätzten Geschwindigkeit von 160 bis 200 Kilometern pro Stunde. Die Frontpartie des fahrenden Zuges bohrte sich in das Heck des stehenden Zuges.",
-      "Die Zahl der Todesopfer beläuft sich auf mindestens 69 Menschen, wobei Regierungsangaben zufolge eine steigende Zahl nicht ausgeschlossen werden kann. Ministerpräsident Pedro Sánchez teilte mit, dass die Toten aus 27 verschiedenen Ländern stammen. Die Regierung steht nach eigenen Angaben mit allen betroffenen Konsulaten in Kontakt, um diese zu informieren. Ob sich deutsche Staatsbürger unter den Opfern befinden, ist weiterhin nicht bekannt. Unter den Todesopfern befinden sich laut Medienberichten auch ein 24-jähriger Sportler und ein ehemaliger Regierungsminister.",
-      "Nach dem Zusammenstoß liefen umfangreiche Rettungs- und Bergungsarbeiten an der Unglücksstelle rund 130 Kilometer südlich von Madrid an. Die Suche nach Opfern an der Unfallstelle wurde inzwischen beendet. Neben den Todesopfern gab es zahlreiche Verletzte, die medizinisch versorgt werden mussten. Das Land befindet sich in einer mehrtägigen Phase der Trauer."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Ermittler haben inzwischen die Fahrdatenschreiber aus den Wracks beider Züge geborgen. Die Aufzeichnungsgeräte befinden sich nach Angaben der Tagesschau/ARD in den Händen der Polizeieinheit Guardia Civil und der unabhängigen Behörde für die Untersuchung von Unfällen (AITAT). Die Daten sollen in Kürze ausgewertet werden, um genaue Rückschlüsse auf den Ablauf und das genaue Tempo zum Zeitpunkt des Aufpralls zu erhalten. Die Ermittlungen befinden sich laut den Behörden in einem frühen Stadium.",
-      "Im Zentrum der Untersuchungen stehen der Ausfall des älteren Zugsicherungssystems LZB sowie mögliche Fehlentscheidungen in der Bahnleitstelle in Madrid. Laut den Berichten führte ein technischer Defekt gegen 08:30 Uhr am Mittwochmorgen zu einem initialen Halt von sechs bewegten Zügen auf der Strecke, darunter die beiden später kollidierten Fahrzeuge. Um 08:36 Uhr erhielt der Lokführer des Renfe-Zuges die Anweisung, den normalen Fahrbetrieb wieder aufzunehmen. Das automatische Zugsicherungssystem funktionierte zu diesem Zeitpunkt jedoch noch nicht wieder, und der andere Zug stand noch auf der Strecke.",
-      "Spanische Medien veröffentlichten Mitschnitte des Funkverkehrs zwischen der Leitstelle und den Lokomotivführern aus den Minuten vor dem Unglück. Demnach wurde der Zug angewiesen, ohne Geschwindigkeitsbeschränkungen weiterzufahren, obwohl ein anderer Zug etwa 25 Kilometer voraus auf den Gleisen stand. Der Verkehrsminister bezeichnete diese Anweisung als unerklärlich. Die Veröffentlichung der internen Audio-Aufnahmen in den Medien stieß bei einigen Politikern auf scharfe Kritik."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Das Zugunglück gilt laut den Berichten als eines der schwersten Eisenbahnunglücke in der modernen Geschichte Europas und als das schwerste Unglück in Spanien seit dem Jahr 2013. Ministerpräsident Pedro Sánchez betonte, dass das Vertrauen der Öffentlichkeit in Spaniens Hochgeschwindigkeitsnetz beschädigt sei. Zudem bezeichnete er es als inakzeptabel, dass es innerhalb eines Jahres zu zwei ähnlichen Katastrophen gekommen ist. Im Januar war es auf derselben Strecke zwischen Madrid und Sevilla zu einem Zusammenstoß in Adamuz im Süden Spaniens gekommen, bei dem 46 Menschen starben.",
-      "In der politischen Öffentlichkeit und bei Gewerkschaften hat das Unglück eine Debatte über die Sicherheit und die Liberalisierung des Sektors ausgelöst. Gewerkschaften hatten in den Tagen nach dem Unfall auf gestiegene Arbeitsbelastungen und sich häufende Fehler bei automatischen Sicherheitssystemen hingewiesen. Vertreter linker Parteien wie die Kandidatin Irene Montero von Podemos erklärten, dass die Verantwortung nicht auf einen einzelnen Arbeiter abgewälzt werden dürfe und warnten vor den Folgen der Liberalisierung des Schienenverkehrs.",
-      "Das Verkehrsministerium wies die Kritik an der Infrastruktur und den Arbeitsbedingungen zurück. In den vergangenen sieben Jahren habe er keinen signifikanten Anstieg von Störungen gegeben, und das Personal in den Leitstellen sei aufgestockt worden. Unabhängig davon gehen die Autopsien und Identifizierungen der Opfer weiter. Gerichtsmediziner in Toledo haben zahlreiche Autopsien vorgenommen, während Angehörige von Vermissten zur Abgabe von DNA-Proben aufgerufen wurden, um den Prozess zu beschleunigen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ein Fahrdatenschreiber ist ein technisches Gerät in Fahrzeugen wie Zügen, das Betriebsdaten und Parameter der Fahrt aufzeichnet. Die Auswertung dieser Daten ist ein Element bei der behördlichen Untersuchung von Unfällen, um den Hergang zu rekonstruieren.",
-      "Zugsicherungssysteme wie das LZB sind automatische technische Einrichtungen im Bahnverkehr. Sie überwachen die Geschwindigkeit von Zügen und den Abstand zwischen ihnen, um Kollisionen zu verhindern."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der spanische Verkehrsminister Óscar Puente erklärte in Madrid, dass er einen von Oppositionsparteien und Gewerkschaften geforderten Rücktritt ablehne. Laut BBC und Tagesschau/ARD erklärte Puente auf einer Pressekonferenz, er habe nichts zu verbergen und sehe es als seine politische Pflicht an, die Untersuchungen voranzutreiben. Die konservative Volkspartei sowie die Gewerkschaft CSIF hatten zuvor den Rücktritt des Ministers gefordert, nachdem Demonstranten bereits am Mittwochabend vor dem Ministerium protestiert hatten. Puente erklärte, sein Verbleiben im Amt sei weder eine Frage seines Charakters noch ein Ausweichen vor Verantwortung, und er wolle als Minister Lösungen für die Probleme finden.",
-      "Der regionale Regierungschef von Kastilien-La Mancha, Emiliano García-Page, äußerte sich vor Journalisten zu den Opferzahlen und der Bergung an der Unglücksstelle. Ministerpräsident Pedro Sánchez betonte auf einer gemeinsamen Pressekonferenz mit García-Page, dass die Regierung intensiv mit den Konsulaten aller betroffenen Herkunftsländer kooperiere. Gleichzeitig kritisierte Sánchez die Pannen im Schienennetz. Angehörige von Vermissten äußerten unterdessen gegenüber Medien ihren Unmut über die lange Ungewissheit und die spärlichen Informationen der Behörden bei der Suche nach ihren Verwandten."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Unfallexperten und die beteiligten Behörden werden die gesicherten Fahrdatenschreiber in den kommenden Tagen auswerten. Laut der Unfall-Untersuchungsbehörde AITAT werden die Ergebnisse in einem Abschlussbericht dargelegt werden.",
-      "Parallel dazu läuft die Identifizierung der verbleibenden Opfer durch Gerichtsmediziner in Toledo weiter. Die Behörden stehen in Austausch mit den Familien und den konsularischen Vertretungen der betroffenen ausländischen Staatsbürger."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "08:53 Uhr",
-     "Der Auffahrunfall ereignet sich nahe der Ortschaft Urda."
-    ],
-    [
-     "20:00 Uhr",
-     "Landesweite Schweigeminute in Spanien für die Opfer."
-    ],
-    [
-     "Januar 2026",
-     "Schweres Hochgeschwindigkeitszugunglück mit 46 Toten in Adamuz."
-    ],
-    [
-     "Mittwochabend 20 Uhr",
-     "Schweigeminute in Madrid, Barcelona, Sevilla und Adamuz für die Opfer."
-    ],
-    [
-     "Mittwoch, 08:30 Uhr",
-     "Ausfall des elektronischen Systems auf der Strecke."
-    ],
-    [
-     "Mittwoch, 08:36 Uhr",
-     "Der Renfe-Zug erhält die Erlaubnis zur Weiterfahrt."
-    ],
-    [
-     "Mittwochabend",
-     "Proteste vor dem Ministerium in Madrid."
-    ],
-    [
-     "Januar",
-     "Zugunglück mit 46 Toten in Adamuz."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Aufgrund des schweren Unglücks mit vielen Todesopfern wird auf Symbolbilder verzichtet."
-    }
-   ],
-   "ort": {
-    "name": "Urda, Spanien"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Uhrzeit für den Unfall präzisiert und Spekulationen entfernt.",
-    "Werte und Daten konsistent mit den Originalberichten gehalten."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Fahrdatenschreiber",
-      "Ein technisches Gerät in Fahrzeugen, das wichtige Daten wie die Geschwindigkeit aufzeichnet."
-     ],
-     [
-      "Zugsicherungssystem",
-      "Eine technische Einrichtung im Bahnverkehr, die den Abstand zwischen Zügen überwacht und Zusammenstöße verhindern soll."
-     ],
-     [
-      "Liberale Eisenbahnsektor",
-      "Ein Markt, bei dem neben staatlichen auch private Unternehmen Züge auf den Gleisen fahren lassen dürfen."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Fahrdatenschreiber bei der Aufklärung von Verkehrsunfällen?",
-     "Wie bewerten Sie die Diskussion um die Verantwortung von Politikern bei schweren Unglücken?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viele Menschen starben nach Angaben der Berichte mindestens bei dem Unglück?",
-      "optionen": [
-       "46 Menschen",
-       "69 Menschen",
-       "130 Menschen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Angaben der Berichte kamen mindestens 69 Menschen ums Leben."
-     },
-     {
-      "frage": "Was haben Ermittler aus den Wracks der Züge geborgen?",
-      "optionen": [
-       "Die Fahrdatenschreiber",
-       "Die Bremsanlagen",
-       "Die Fahrkarten der Passagiere"
-      ],
-      "richtig": 0,
-      "erklaerung": "Ermittler haben die Fahrdatenschreiber aus den Wracks gefunden und geborgen."
-     },
-     {
-      "frage": "Wie reagierte der spanische Verkehrsminister Óscar Puente auf die Rücktrittsforderungen?",
-      "optionen": [
-       "Er trat sofort zurück.",
-       "Er kündigte seinen Rücktritt für die nächste Woche an.",
-       "Er schloss einen Rücktritt aus."
-      ],
-      "richtig": 2,
-      "erklaerung": "Verkehrsminister Óscar Puente schloss einen Rücktritt aus."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Spanien hat es ein sehr schweres Zugunglück gegeben.",
-    "absaetze": [
-     "Dabei sind mindestens sechzig und neun Menschen gestorben.",
-     "Ein fahrender Zug ist von hinten auf einen stehenden Zug gefahren.",
-     "Das Unglück passierte in der Nähe der Ortschaft Urda.",
-     "Ermittler haben nun die Fahrdatenschreiber aus den zerstörten Zügen geholt.",
-     "Mit diesen Geräten wollen die Experten herausfinden, wie es zu dem Unfall kommen konnte.",
-     "Der Verkehrsminister in Spanien will trotz Kritik und Rücktrittsforderungen im Amt bleiben."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Bei einem schweren Zugunglück in Spanien starben mindestens sechzig und neun Menschen.",
-     "Ermittler haben nun die Fahrdatenschreiber aus den Zügen geholt.",
-     "Der Verkehrsminister schließt einen Rücktritt trotz Kritik aus."
-    ],
-    "lang": [
-     "In Spanien sind bei einem Zusammenstoß zweier Züge mindestens sechzig und neun Menschen ums Leben gekommen.",
-     "Das Unglück passierte am Mittwochmorgen in der Nähe der Ortschaft Urda in der Provinz Toledo.",
-     "Ein Zug der staatlichen Gesellschaft Renfe fuhr von hinten auf einen stehenden Zug auf.",
-     "Nach Angaben der Untersuchungsbehörden hatte der fahrende Zug eine Geschwindigkeit von einhundertsechzig bis zweihundert Kilometern pro Stunde.",
-     "Ermittler haben inzwischen die Fahrdatenschreiber aus den Wracks geborgen, um die Ursache zu finden.",
-     "Im Zentrum der Untersuchungen stehen ein technischer Defekt und mögliche Fehler in der Leitstelle.",
-     "Der spanische Verkehrsminister Óscar Puente erklärte, dass er trotz Forderungen der Opposition nicht zurücktreten werde.",
-     "Ministerpräsident Pedro Sánchez betonte, dass das Vertrauen in das Schienennetz beschädigt sei.",
-     "Die Identifizierung der Opfer und die Auswertung der Daten laufen derzeit weiter."
-    ],
-    "einfach": [
-     "In Spanien gab es einen schlimmen Zugunfall.",
-     "Mindestens sechzig und neun Menschen sind dabei gestorben.",
-     "Ein fahrender Zug fuhr auf einen anderen Zug auf.",
-     "Experten haben nun die Geräte zur Aufzeichnung der Fahrt gefunden.",
-     "Sie wollen damit den Grund für den Unfall klären.",
-     "Der Verkehrsminister will trotz Forderungen nicht abtreten."
-    ]
-   },
-   "kurz": [
-    "Bei einem schweren Zugunglück in Spanien starben mindestens 69 Menschen.",
-    "Ermittler haben die Fahrdatenschreiber der beiden beteiligten Züge geborgen.",
-    "Verkehrsminister Óscar Puente lehnt Forderungen nach einem Rücktritt ab."
-   ],
-   "fakten": [
-    [
-     "Mindestens Tote",
-     "69"
-    ],
-    [
-     "Herkunftsländer der Opfer",
-     "27"
-    ],
-    [
-     "Geschwindigkeit des Renfe-Zuges beim Aufprall",
-     "160 bis 200 Kilometer pro Stunde"
-    ]
-   ],
-   "dossier": {
-    "slug": "zugunglueck-spanien-2026",
-    "titel": "Zugunglück in Spanien"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Urda, Spanien",
-    "lat": 39.368,
-    "lon": -3.731
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "In Spanien sind bei einem Zusammenstoß zweier Züge mindestens sechzig und neun M",
-     "d": "8abc5fe2ae.mp3",
-     "l": 53.76,
-     "s": [
-      0.25,
-      6.67,
-      11.88,
-      17,
-      25.11,
-      30.19,
-      35.82,
-      42.71,
-      48.38
-     ]
-    },
-    {
-     "k": "Bei einem schweren Zugunglück in Spanien starben mindestens sechzig und neun Men",
-     "d": "30bd264cb4.mp3",
-     "l": 12.87,
-     "s": [
-      0.25,
-      5.52,
-      8.97
-     ]
-    },
-    {
-     "k": "In Spanien gab es einen schlimmen Zugunfall. Mindestens sechzig und neun Mensche",
-     "d": "432d2d030c.mp3",
-     "l": 24.43,
-     "s": [
-      0.25,
-      4.05,
-      8.31,
-      12.08,
-      16.76,
-      20.33
-     ]
-    },
-    {
-     "k": "Ob sich deutsche Staatsbürger unter den Opfern befinden, ist laut Tagesschau/ARD",
-     "d": "973395b7e1.mp3",
-     "l": 6.33,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Fahrdatenschreiber? Ein technisches Gerät in Fahrzeugen,",
-     "d": "0d1c8e83ba.mp3",
-     "l": 9.82,
-     "s": [
-      0.25,
-      3.72
-     ]
-    },
-    {
-     "k": "Bei einem schweren Zugunglück in Spanien sind nach übereinstimmenden Angaben der",
-     "d": "be8734b6fb.mp3",
-     "l": 57.34,
-     "s": [
-      0.25,
-      8.31,
-      14.64,
-      21.85,
-      31.08,
-      35.44,
-      44.38,
-      50.85
-     ]
-    },
-    {
-     "k": "Ermittler haben inzwischen die Fahrdatenschreiber aus den Wracks beider Züge geb",
-     "d": "85334e0edd.mp3",
-     "l": 61.04,
-     "s": [
-      0.25,
-      4.92,
-      14.62,
-      22.5,
-      26.76,
-      35.93,
-      45.91,
-      53.42
-     ]
-    },
-    {
-     "k": "Das Zugunglück gilt laut den Berichten als eines der schwersten Eisenbahnunglück",
-     "d": "b611c2d784.mp3",
-     "l": 68.85,
-     "s": [
-      0.25,
-      10.27,
-      17.87,
-      24.57,
-      34,
-      42.65,
-      51.17,
-      62.86
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ebola-ausbruch-kongo",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-10-31T15:16:20.000Z",
-   "titel": "Lage beim Ebola-Ausbruch in der Demokratischen Republik Kongo",
-   "vorspann": "In der Demokratischen Republik Kongo verzeichnen die Behörden mehr als 5.000 Todesfälle durch das Ebola-Virus. Die Gesamtzahl der registrierten Infektionen übersteigt nach Angaben des Landes den Wert von 10.000.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "In der Demokratischen Republik Kongo sterben im Rahmen des aktuellen Ebola-Ausbruchs mehr als 5.000 Menschen.",
-    "Die Gesamtzahl der gemeldeten Infektionen überschreitet nach Angaben der Gesundheitsbehörden den Wert von 10.000.",
-    "Für den grassierenden Bundibugyo-Erreger gibt es bisher weder einen zugelassenen Impfstoff noch eine spezifische Therapie.",
-    "Klinische Studien zu Therapien und Impfstoffen laufen seit Sommer beziehungsweise Oktober, während bewaffnete Konflikte die Hilfsmaßnahmen erschweren."
-   ],
-   "einig": [
-    [
-     "Mehr als 5.000 Menschen sind in der Demokratischen Republik Kongo an Ebola gestorben.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "BBC",
-      "taz"
-     ]
-    ],
-    [
-     "Es gibt mehr als 10.000 bestätigte beziehungsweise gemeldete Infektionen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "BBC",
-      "taz"
-     ]
-    ],
-    [
-     "Der aktuelle Ausbruch wird durch den Bundibugyo-Erreger verursacht, für den es noch keinen zugelassenen Impfstoff gibt.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "BBC",
-      "taz"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Höhe der Dunkelziffer der Infizierten und Toten ist laut Experten nicht exakt bezifferbar.",
-    "ZDFheute nennt in einer Textpassage zunächst mehr als 4.000 Tote, korrigiert dies aber an anderer Stelle auf die offiziellen 5.026 Toten."
-   ],
-   "positionen": [
-    [
-     "Dr. Patrick Otim (WHO)",
-     "Die Zahl der Todesopfer verdeutlicht die Schwere des Ausbruchs, von dem Familien und Gemeinden schwer getroffen wurden.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Torsten Feldt (Tropenmediziner Universitätsklinikum Düsseldorf)",
-     "Die Fallzahlen zeigen die Dynamik, aber es gibt eine erhebliche Dunkelziffer und Lücken in der Überwachung.",
-     "ZDFheute"
-    ],
-    [
-     "Jürgen May (Bernhard-Nocht-Institut für Tropenmedizin)",
-     "Die bestätigten Zahlen sind wahrscheinlich die untere Grenze, da leichtere Verläufe oft nicht getestet und gemeldet werden.",
-     "ZDFheute"
-    ],
-    [
-     "Leonie Meyer (Impfstoffforscherin UKE Hamburg)",
-     "Ein wirksamer Impfstoff könnte maßgeblich zur Eindämmung dieser Epidemie beitragen.",
-     "Tagesschau/ARD"
-    ]
-   ],
-   "fehlend": "Stimmen oder Positionen der bewaffneten Milizen oder der Rebellengruppe M23 selbst.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 12:45",
-     "fokus": "Umfassender Überblick mit WHO-Zitaten",
-     "text": "Der Bericht beleuchtet detailliert die Opferzahlen, die Sicherheitslage durch Konflikte und den Stand der Impfstudien.",
-     "url": "https://www.tagesschau.de/ausland/afrika/kongo-ebola-tote-106.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 634,
-      "satzlaenge": 14,
-      "langeWoerter": 38
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 14:16",
-     "fokus": "Experten-Einschätzungen zur Dunkelziffer",
-     "text": "ZDFheute legt einen starken Fokus auf die wissenschaftliche Einordnung der Fallzahlen durch deutsche Tropenmediziner.",
-     "url": "https://www.zdfheute.de/panorama/ebola-kongo-virus-ausbruch-tote-afrika-experte-dunkelziffer-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 537,
-      "satzlaenge": 15,
-      "langeWoerter": 36
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "31.10.26, 16:16",
-     "fokus": "Internationale Einordnung und Sicherheitsvorfälle",
-     "text": "Die BBC betont historische Vergleiche zu früheren Ausbruchen und dokumentiert Angriffe auf Hilfskräfte und Infrastruktur.",
-     "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 8,
-      "minuten": 3,
-      "woerter": 545,
-      "satzlaenge": 21,
-      "langeWoerter": 28
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    },
-    {
-     "name": "taz",
-     "typ": "Tageszeitung (Genossenschaft)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "31.10.26, 09:12",
-     "fokus": "Kompakte Zusammenfassung der Agenturmeldungen",
-     "text": "Die taz fasst die Kernfakten des Ausbruchs sowie den aktuellen Stand der Forschung zu Therapien und Impfstoffen zusammen.",
-     "url": "https://taz.de/Ebola-im-Kongo/!6226330/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 446,
-      "satzlaenge": 14,
-      "langeWoerter": 37
-     },
-     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
-     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Zahlenangaben",
-     "ZDFheute nennt in einer Zeile mehr als 4.000 Tote, während alle anderen Medien übereinstimmend mehr als 5.000 beziehungsweise exakt 5.026 Tote angeben."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Gesundheitsbehörden der Demokratischen Republik Kongo",
-    "was": "Mehr als 5.000 Ebola-Tote und über 10.000 Infektionen",
-    "wann": "2026-10-31",
-    "wo": "Demokratische Republik Kongo",
-    "wie": "Übertragung durch Körperflüssigkeiten, Körperkontakt und kontaminierte Gegenstände",
-    "warum": "Ausbruch des Bundibugyo-Erregers in Konfliktregionen laut WHO und Gesundheitsbehörden",
-    "quellenlage": "Meldungen von Behörden, WHO, UN und medizinischen Instituten"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In der Demokratischen Republik Kongo halten die Infektionen mit dem Ebola-Virus an. Laut den Berichten von Tagesschau/ARD, ZDFheute, BBC und taz starben seit Beginn des Ausbruchs mehr als 5.000 Menschen nachweislich an dem Virus. Die Gesamtzahl der gemeldeten Infektionen liegt nach diesen Angaben bei über 10.000 Patienten. Die Sterblichkeitsrate des Virus wird mit fast 50 Prozent beziffert. Der aktuelle Verlauf stellt laut den Berichten den bislang rasantesten oder gefährlichsten Ausbruch in der Geschichte des Landes dar.",
-      "Der Schwerpunkt des Geschehens liegt im Osten des zentralafrikanischen Landes, insbesondere in der Provinz Ituri. In dieser Region schränken bewaffnete Konflikte zwischen der Regierung und verschiedenen Gruppen die Arbeit des medizinischen Personals erheblich ein. Laut Tagesschau/ARD und BBC gibt es zudem in der Bevölkerung Skepsis gegenüber staatlichen Organisationen, was zu Angriffen auf Gesundheitseinrichtungen und Personal führte. Unter anderem wurden eine Krankenschwester und ein Politiker getötet.",
-      "Der aktuelle Ausbruch geht auf den sogenannten Bundibugyo-Erreger zurück, eine von sechs bekannten Ebola-Varianten. Nach Angaben aller Quellen gibt es für diese spezifische Virusvariante bislang keinen zugelassenen Impfstoff und keine spezielle Therapie. Die Weltgesundheitsorganisation WHO und weitere Institutionen weisen darauf hin, dass die anfänglichen Symptome der Erkrankung leicht mit einer Malaria-Infektion verwechelt werden können. Dies führt nach Angaben von ZDFheute und taz häufig zu einer verspäteten Isolation und Behandlung der Patienten."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Die genauen Zahlen der Behörden nennen laut Tagesschau/ARD und taz 5.026 Tote sowie 10.351 Infizierte. Die BBC nennt in ihren Berichten ebenfalls mehr als 5.000 Tote und mehr als 10.300 bestätigte Fälle in acht von insgesamt 26 betroffenen Provinzen. Das ZDFheute nennt in einer Passage mehr als 4.000 Tote und korrigiert diese Zahl im weiteren Verlauf auf die offiziellen 5.026 Toten. Der Ausbruch begann nach übereinstimmenden Berichten im Mai des Jahres.",
-      "Neben den Todesfällen und aktiven Behandlungsfällen gibt es auch genesene Patienten. Tagesschau/ARD und taz melden übereinstimmend 2.788 Menschen, die als genesen gelten. Derzeit befinden sich demnach mehr als 1.000 beziehungsweise exakt 1.101 Menschen in medizinischer Behandlung oder in Quarantäne. Experten gehen laut Tagesschau/ARD und ZDFheute von einer deutlich höheren Dunkelziffer aus, da der Ausbruch zu spät entdeckt wurde und viele Fälle in ländlichen Regionen ungetestet bleiben.",
-      "Fälle außerhalb der Demokratischen Republik Kongo wurden in mehreren Ländern registriert. Laut Tagesschau/ARD, BBC und taz traten Fälle in Uganda, Kenia und Nigeria auf. In Nigeria wurde unter anderem die Ehefrau eines Schweizer Diplomaten positiv getestet und zur Behandlung in die Schweiz ausgeflogen. Ein einziger Fall in Europa wurde im Juni in Frankreich bei einem zuvor im Kongo tätigen Arzt festgestellt, der inzwischen wieder genesen ist."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Der aktuelle Ausbruch ist laut den Berichten der 17. in der Geschichte der Demokratischen Republik Kongo. Der Bundibugyo-Erreger wurde erstmals im Jahr 2007 entdeckt. Sein Verlauf ist insbesondere in Regionen mit schwacher gesundheitlicher Versorgung lebensgefährlich. Die Übertragung erfolgt durch den Kontakt mit infizierten Tieren oder Menschen, insbesondere über Körperflüssigkeiten oder kontaminierte Gegenstände. Auch unfachgerechte Beerdigungen von Verstorbenen tragen zur Ausbreitung bei.",
-      "Die Eindämmung wird durch die Sicherheitslage im Osten des Landes erschwert. Dort sind neben der von Ruanda unterstützten Rebellengruppe M23 auch islamistische Aufstandsbewegungen und nach Angaben von ZDFheute mehr als 100 Milizen aktiv. Dies behindert die Nachverfolgung von Kontakten und den Zugang zu medizinischen Einrichtungen. Zudem erschweren Berührungsängste und Desinformation in der Bevölkerung die Bekämpfung der Epidemie."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ebola ist eine seltene und schwerwiegende Infektionskrankheit, die durch ein Virus ausgelöst wird. Die Symptome treten plötzlich auf und umfassen Fieber, Erbrechen, Durchfall sowie in einigen Fällen Organversagen und Blutungen. Die Weltgesundheitsorganisation WHO ist eine Sonderorganisation der Vereinten Nationen, die internationale öffentliche Gesundheit koordiniert und auf Epidemien reagiert."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Dr. Patrick Otim von der Weltgesundheitsorganisation (WHO) bezeichnet die gestorbenen Menschen laut Tagesschau/ARD als einen sehr tragischen Meilenstein, der Familien und Gemeinden schwer getroffen habe. WHO-Chef Tedros fordert laut Tagesschau/ARD Partner auf, die Maßnahmen der kongolesischen Regierung schneller zu finanzieren.",
-      "Torsten Feldt, Bereichsleiter Tropenmedizin am Universitätsklinikum Düsseldorf, erklärt laut ZDFheute, dass die Fallzahlen zwar die Dynamik verlässlich wiedergäben, es aber eine erhebliche Dunkelziffer und Lücken in der Überwachung gebe.",
-      "Jürgen May, Vorstandsvorsitzender des Bernhard-Nocht-Institut für Tropenmedizin, schätzt laut ZDFheute, dass die bestätigten Zahlen wahrscheinlich die untere Grenze darstellen und Meldungen über leichtere oder nicht getestete Verläufe fehlen könnten.",
-      "Die Impfstoffforscherin Leonie Meyer vom Universitätsklinikum Hamburg-Eppendorf (UKE) äußert sich laut Tagesschau/ARD mit großen Erwartungen zu den seit Oktober laufenden klinischen Impfstudien vor Ort."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Seit Juli laufen klinische Studien zur Testung zweier antiviraler Therapieverfahren sowie zu Impfstoffen. Die Forschung untersucht derzeit, ob der für andere Ebola-Varianten entwickelte Impfstoff Ervebo auch gegen den Bundibugyo-Erreger schützt oder ob neue Vakzine wirksam sind. Laut ZDFheute ist ein breiter Einsatz neuer Impfstoffe jedoch kaum vor Mitte 2027 realistisch.",
-      "Die Weltgesundheitsorganisation WHO fordert laut Tagesschau/ARD und BBC eine Ausweitung der Kontrollmaßnahmen, einen besseren Zugang zu den betroffenen Gebieten sowie verstärkte Aufklärungsarbeit in den Gemeinden. Von Grenzschließungen zur Demokratischen Republik Kongo soll nach Angaben der WHO vorerst abgesehen werden."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Mai",
-     "Beginn des aktuellen Ebola-Ausbruchs in der Demokratischen Republik Kongo"
-    ],
-    [
-     "Juni",
-     "Erster dokumentierter Fall in Europa bei einem Arzt in Frankreich"
-    ],
-    [
-     "Juli",
-     "Start klinischer Studien zu antiviralen Therapieverfahren"
-    ],
-    [
-     "23. Oktober",
-     "Beginn der Impfstudie vor Ort in der Demokratischen Republik Kongo"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Es wird kein Bild angezeigt, da der Artikel ein gesundheitliches Unglück mit Todesopfern behandelt."
-    }
-   ],
-   "ort": {
-    "name": "Kinshasa, Demokratische Republik Kongo"
-   },
-   "geprueft": true,
-   "korrekturen": [],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Ebola",
-      "Eine seltene und gefährliche Infektionskrankheit, die durch ein Virus ausgelöst wird und oft tödlich verläuft."
-     ],
-     [
-      "Dunkelziffer",
-      "Die geschätzte Zahl von Fällen, die nicht offiziell erfasst oder gemeldet wurden."
-     ],
-     [
-      "Quarantäne",
-      "Die zeitweise Absonderung von kranken oder möglicherweise angesteckten Personen, um eine Ausbreitung zu verhindern."
-     ]
-    ],
-    "fragen": [
-     "Welche Probleme können entstehen, wenn in einem Konfliktgebiet eine medizinische Krise auftritt?",
-     "Warum ist es für die Bekämpfung einer Epidemie wichtig, die genaue Zahl der Infizierten zu kennen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viele Menschen sind nach offiziellen Angaben in der Demokratischen Republik Kongo an Ebola gestorben?",
-      "optionen": [
-       "Mehr als 5.000 Menschen",
-       "Etwa 1.000 Menschen",
-       "Genau 500 Menschen"
-      ],
-      "richtig": 0,
-      "erklaerung": "Alle vier Quellen übereinstimmend berichten, dass laut den Behörden mehr als 5.000 Menschen an Ebola gestorben sind."
-     },
-     {
-      "frage": "Welche Ebola-Variante verursacht den aktuellen Ausbruch?",
-      "optionen": [
-       "Das Zaire-Ebolavirus",
-       "Der Bundibugyo-Erreger",
-       "Das Marburg-Virus"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die Berichte stimmen überein, dass der sogenannte Bundibugyo-Erreger hinter dem aktuellen Ausbruch steckt."
-     },
-     {
-      "frage": "Welche Schwierigkeit erschwert die medizinische Arbeit im Osten des Kongo zusätzlich?",
-      "optionen": [
-       "Ein Mangel an Flugzeugen",
-       "Bewaffnete Konflikte",
-       "Ständige Überschwemmungen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut den Berichten schränken bewaffnete Konflikte zwischen der Regierung und verschiedenen Gruppen den Handlungsspielraum des medizinischen Personals ein."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In der Demokratischen Republik Kongo gibt es einen schweren Ausbruch der Krankheit Ebola. Mehr als 5.000 Menschen sind bereits gestorben.",
-    "absaetze": [
-     "Nach Angaben der Behörden haben sich mehr als 10.000 Menschen mit dem Virus angesteckt.",
-     "Besonders betroffen ist der Osten des Landes, in dem es auch bewaffnete Konflikte gibt.",
-     "Das macht die Arbeit für Ärzte und Helfer sehr schwierig und gefährlich.",
-     "Gegen diesen speziellen Erreger gibt es bisher keinen zugelassenen Impfstoff.",
-     "Wissenschaftler untersuchen in klinischen Studien aber bereits mögliche neue Impfstoffe und Therapien."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In der Demokratischen Republik Kongo sterben mehr als 5.000 Menschen an Ebola.",
-     "Die Behörden melden inzwischen über 10.000 Infektionen mit dem gefährlichen Virus.",
-     "Gegen den aktuell verbreiteten Erreger gibt es bisher noch keinen zugelassenen Impfstoff.",
-     "Klinische Studien zur Bekämpfung der Krankheit laufen bereits."
-    ],
-    "lang": [
-     "In der Demokratischen Republik Kongo hält ein schwerer Ebola-Ausbruch an.",
-     "Nach Angaben der Gesundheitsbehörden starben seit Mai mehr als 5.000 Menschen an dem Virus.",
-     "Die Gesamtzahl der registrierten Infektionen liegt demnach bei über 10.000 Fällen.",
-     "Der Schwerpunkt des Ausbruchs liegt im Osten des Landes, wo bewaffnete Konflikte die Hilfsarbeiten erschweren.",
-     "Das bestätigen übereinstimmend die Berichte von Tagesschau, ZDFheute, BBC und der taz.",
-     "Für den aktuell verbreiteten Bundibugyo-Erreger gibt es bisher keinen zugelassenen Impfstoff.",
-     "Experten weisen darauf hin, dass die Dunkelziffer der Infizierten noch höher sein könnte.",
-     "Die Weltgesundheitsorganisation fordert eine schnellere Finanzierung und bessere Hilfsmaßnahmen.",
-     "Klinische Studien zu neuen Impfstoffen und Therapien laufen bereits seit Sommer.",
-     "Wann der Ausbruch gestoppt werden kann, ist derzeit noch nicht absehbar."
-    ],
-    "einfach": [
-     "In der Demokratischen Republik Kongo bricht die Krankheit Ebola aus.",
-     "Mehr als 5.000 Menschen sterben bisher an dem Virus.",
-     "Das Virus wird durch Körperflüssigkeiten übertragen.",
-     "Gegen diese Variante gibt es noch keinen Impfstoff.",
-     "Forscher testen nun neue Medikamente in klinischen Studien."
-    ]
-   },
-   "kurz": [
-    "Mehr als 5.000 Menschen starben beim Ebola-Ausbruch in der Demokratischen Republik Kongo.",
-    "Die Gesundheitsbehörden melden inzwischen über 10.000 bestätigte Infektionen.",
-    "Für den grassierenden Bundibugyo-Erreger gibt es noch keinen zugelassenen Impfstoff.",
-    "Klinische Studien zur Erforschung von Therapien und Impfstoffen laufen bereits."
-   ],
-   "fakten": [
-    [
-     "Todesfälle",
-     "5.026"
-    ],
-    [
-     "Bestätigte Infektionen",
-     "10.351"
-    ],
-    [
-     "Genesen",
-     "2.788"
-    ]
-   ],
-   "dossier": {
-    "slug": "ebola-kongo-2026",
-    "titel": "Ebola-Ausbruch in der Demokratischen Republik Kongo"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Kinshasa, Demokratische Republik Kongo",
-    "lat": -4.32,
-    "lon": 15.342
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "In der Demokratischen Republik Kongo hält ein schwerer Ebola-Ausbruch an. Nach A",
-     "d": "34b10c4c5e.mp3",
-     "l": 54.2,
-     "s": [
-      0.25,
-      4.85,
-      10.32,
-      15.34,
-      21.88,
-      28.35,
-      34.1,
-      39.09,
-      45.24,
-      49.94
-     ]
-    },
-    {
-     "k": "In der Demokratischen Republik Kongo sterben mehr als 5.000 Menschen an Ebola. D",
-     "d": "dea0105d85.mp3",
-     "l": 18.78,
-     "s": [
-      0.25,
-      5.46,
-      10.16,
-      15.12
-     ]
-    },
-    {
-     "k": "In der Demokratischen Republik Kongo bricht die Krankheit Ebola aus. Mehr als 5.",
-     "d": "250045b991.mp3",
-     "l": 21.41,
-     "s": [
-      0.25,
-      5.17,
-      9.12,
-      13.25,
-      16.6
-     ]
-    },
-    {
-     "k": "Die genaue Höhe der Dunkelziffer der Infizierten und Toten ist laut Experten nic",
-     "d": "9da01d67de.mp3",
-     "l": 6.62,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Ebola? Eine seltene und gefährliche Infektionskrankheit,",
-     "d": "3a1c163004.mp3",
-     "l": 10.8,
-     "s": [
-      0.25,
-      3.16
      ]
     }
    ]
