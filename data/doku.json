@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-02T20:43:52.716Z",
+ "stand": "2026-11-03T10:45:20.124Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -405,8 +405,8 @@
     "ueberschrift": "Das unterirdische Netzwerk im Wald",
     "wikipedia": "Mykorrhiza",
     "fokus": "Dieses Kapitel beleuchtet die enge Lebensgemeinschaft zwischen Pilzen und Bäumen.",
-    "versuche": 3,
-    "fehlgeschlagen": true
+    "versuche": 0,
+    "fehlgeschlagen": false
    },
    {
     "ueberschrift": "Zersetzung und Kreislauf der Natur",
@@ -606,14 +606,15 @@
     "wikipedia": "Evolution",
     "fokus": "Dieses Kapitel geht auf die stammesgeschichtliche Entwicklung und Verwandtschaft der Pilze ein.",
     "zuDuenn": 2,
-    "versuche": 3,
-    "fehlgeschlagen": true
+    "versuche": 0,
+    "fehlgeschlagen": false
    },
    {
     "ueberschrift": "Unbekannte Arten und offene Fragen",
     "wikipedia": "Artenreichhaltigkeit",
     "fokus": "Dieses Kapitel thematisiert die noch unerforschte Vielfalt der Pilzarten weltweit.",
-    "versuche": 2
+    "versuche": 0,
+    "fehlgeschlagen": false
    }
   ]
  },
