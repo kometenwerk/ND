@@ -1,15 +1,15 @@
 {
- "stand": "2026-11-02T20:43:52.716Z",
+ "stand": "2026-11-03T10:45:20.124Z",
  "folgen": [
   {
-   "id": "hauptausgabe-2026-11-02",
+   "id": "hauptausgabe-2026-11-03",
    "art": "nachrichten",
-   "titel": "Hauptausgabe vom 2026-11-02",
-   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Bundeskanzler Merz spricht sich für eine Frau als Bundespräsidentin aus · Ausschreitungen nach Jugendprotesten in mehreren deutschen Städten · Cyberangriffe auf Supermarkt-Kühlanlagen in mehreren europäischen Ländern · Funde von Metallteilen in Halloween-Süßigkeiten in mehreren Regionen · Angriffe in der Region Saporischschja fordern zahlreiche Todesopfer",
-   "zeit": "2026-11-02T20:43:52.716Z",
-   "d": "folge-hauptausgabe-2026-11-02.mp3",
-   "l": 637.75,
-   "b": 3826749
+   "titel": "Hauptausgabe vom 2026-11-03",
+   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Zwischenwahlen in den Vereinigten Staaten begonnen · Friedrich Merz spricht sich für eine Frau als Bundespräsidentin aus · Cyberangriffe auf Supermarkt-Kühlanlagen in mehreren europäischen Ländern · Reaktionen auf den Hackerangriff auf die Kryptobörse Binance · Automobil- und Industriezulieferer Schaeffler kündigt Stellenabbau und Schließung von Standorten an",
+   "zeit": "2026-11-03T10:45:20.124Z",
+   "d": "folge-hauptausgabe-2026-11-03.mp3",
+   "l": 601.68,
+   "b": 3610317
   },
   {
    "id": "wissen-wie-funktioniert-eigentlich-ein-touchscreen",
@@ -42,16 +42,6 @@
    "b": 129117
   },
   {
-   "id": "wissen-warum-helfen-menschen-bei-notfaellen-manchmal-nicht",
-   "art": "wissen",
-   "titel": "Warum helfen Menschen bei Notfällen manchmal nicht?",
-   "text": "Manchmal greifen Menschen in Notsituationen nicht ein. Die Sozialpsychologie untersucht dieses Phänomen.",
-   "zeit": "2026-10-29T19:19:20.043Z",
-   "d": "098670eb9e.mp3",
-   "l": 31.42,
-   "b": 189021
-  },
-  {
    "id": "doku-die-geschichte-unserer-schrift",
    "art": "doku",
    "titel": "Die Geschichte unserer Schrift",
@@ -60,6 +50,16 @@
    "d": "folge-doku-die-geschichte-unserer-schrift.mp3",
    "l": 1316.74,
    "b": 7900653
+  },
+  {
+   "id": "doku-die-reise-des-wassers",
+   "art": "doku",
+   "titel": "Die Reise des Wassers",
+   "text": "Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.",
+   "zeit": "2026-09-23T05:55:16.319Z",
+   "d": "folge-doku-die-reise-des-wassers.mp3",
+   "l": 340.18,
+   "b": 2041293
   }
  ]
 }
