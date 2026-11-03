@@ -2265,7 +2265,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 5 und 11 Grad. Die Vorhersage für morgen, ",
+   "d": "b94878c190.mp3",
+   "l": 16.77,
+   "s": [
+    0.25,
+    3.68,
+    7.47,
+    10.77,
+    13.92
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2808,7 +2820,7 @@
     {
      "k": "In den Vereinigten Staaten haben am Dienstag die Zwischenwahlen zum Kongress beg",
      "d": "8241974165.mp3",
-     "l": 18.73,
+     "l": 18.93,
      "s": [
       0.25
      ]
@@ -3299,13 +3311,13 @@
     {
      "k": "Bundeskanzler Friedrich Merz will eine Frau als Bundespräsidentin vorschlagen. D",
      "d": "87868aff00.mp3",
-     "l": 23.76,
+     "l": 23.31,
      "s": [
       0.25,
-      6.1,
-      10.26,
-      13.52,
-      18.97
+      6.17,
+      10.42,
+      13.55,
+      18.52
      ]
     },
     {
@@ -3387,6 +3399,18 @@
      "s": [
       0.25,
       13.3
+     ]
+    },
+    {
+     "k": "In der kommenden Woche am Montag könnte laut Tagesschau/ARD eine Vorentscheidung",
+     "d": "72d8fa7b66.mp3",
+     "l": 27.05,
+     "s": [
+      0.25,
+      7.09,
+      12.96,
+      20.76,
+      21.95
      ]
     }
    ]
@@ -3844,6 +3868,85 @@
      "s": [
       0.25,
       3.39
+     ]
+    },
+    {
+     "k": "In mehreren europäischen Ländern sind Supermärkte in der Nacht auf Montag mutmaß",
+     "d": "92a7c042a7.mp3",
+     "l": 56.93,
+     "s": [
+      0.25,
+      7.64,
+      16.23,
+      22.17,
+      28.88,
+      35.67,
+      42.32,
+      47.05
+     ]
+    },
+    {
+     "k": "In Belgien waren laut Tagesschau und BBC unter anderem Supermärkte von Delhaize,",
+     "d": "ccb78be538.mp3",
+     "l": 55.96,
+     "s": [
+      0.25,
+      10.01,
+      17.82,
+      26.94,
+      28.66,
+      34.9,
+      43.44,
+      49.31
+     ]
+    },
+    {
+     "k": "Das aktuelle Geschehen ähnelt stark einem großangelegten Angriff in Frankreich i",
+     "d": "765b17771d.mp3",
+     "l": 49.63,
+     "s": [
+      0.25,
+      6.19,
+      13.1,
+      17.79,
+      24.45,
+      31.49,
+      36.42,
+      42.68
+     ]
+    },
+    {
+     "k": "Eine Institution ist eine wichtige Einrichtung, die dauerhaft Aufgaben für die G",
+     "d": "dbe2eda658.mp3",
+     "l": 19.38,
+     "s": [
+      0.25,
+      6.64,
+      10.04
+     ]
+    },
+    {
+     "k": "Pontus Johnson, Leiter des Zentrums für Cyberabwehr an der Königlich Technischen",
+     "d": "ff53f72d56.mp3",
+     "l": 53.7,
+     "s": [
+      0.25,
+      9.94,
+      16.53,
+      21.88,
+      30.15,
+      39.83,
+      46.43
+     ]
+    },
+    {
+     "k": "Die betroffenen Unternehmen und technischen Dienstleister arbeiten nach eigenen ",
+     "d": "8a5dcaea32.mp3",
+     "l": 25.51,
+     "s": [
+      0.25,
+      8.97,
+      14.92
      ]
     }
    ]
@@ -4727,6 +4830,85 @@
       0.25,
       3.69
      ]
+    },
+    {
+     "k": "Der Automobil- und Industriezulieferer Schaeffler hat weitreichende Umstrukturie",
+     "d": "ee59919b1e.mp3",
+     "l": 34.26,
+     "s": [
+      0.25,
+      6.87,
+      10.04,
+      13.27,
+      16.59,
+      20.11,
+      23.69,
+      28.53
+     ]
+    },
+    {
+     "k": "Das angekündigte Programm sieht vor, die Kosten des Konzerns ab dem Jahr 2030 jä",
+     "d": "716177c2ba.mp3",
+     "l": 55.16,
+     "s": [
+      0.25,
+      8.65,
+      17.06,
+      24.33,
+      30.28,
+      32.02,
+      35.96,
+      44.72
+     ]
+    },
+    {
+     "k": "Das Unternehmen sieht sich nach eigenen Angaben mit einem anhaltend schwierigen ",
+     "d": "ccc2a359bd.mp3",
+     "l": 57.32,
+     "s": [
+      0.25,
+      7.42,
+      14.4,
+      22.03,
+      31.19,
+      37.71,
+      43.84,
+      51.09
+     ]
+    },
+    {
+     "k": "Automobilzulieferer sind Unternehmen, die Bauteile an Autohersteller liefern. Si",
+     "d": "d35cd8dfda.mp3",
+     "l": 19.42,
+     "s": [
+      0.25,
+      5.05,
+      9.52,
+      14.58
+     ]
+    },
+    {
+     "k": "Die angekündigten Sparmaßnahmen stießen bei Arbeitnehmervertretern auf Kritik. T",
+     "d": "f28dc14a6b.mp3",
+     "l": 39.72,
+     "s": [
+      0.25,
+      4.87,
+      13.45,
+      21.13,
+      26.82,
+      31.72
+     ]
+    },
+    {
+     "k": "Das Unternehmen plant die Umsetzung des Programms bis zum Jahr 2030. Die Details",
+     "d": "2fd264b476.mp3",
+     "l": 20.53,
+     "s": [
+      0.25,
+      5.41,
+      12.57
+     ]
     }
    ]
   },
@@ -5150,6 +5332,83 @@
       0.25,
       4.01
      ]
+    },
+    {
+     "k": "Die Streitkräfte der Vereinigten Staaten haben nach übereinstimmenden Medienberi",
+     "d": "a755b1e8ed.mp3",
+     "l": 52.73,
+     "s": [
+      0.25,
+      7.38,
+      11.07,
+      17.49,
+      23.41,
+      32.03,
+      35.78,
+      43.9
+     ]
+    },
+    {
+     "k": "Neben den Luftangriffen meldeten iranische Staatsmedien weitere Vorkommnisse in ",
+     "d": "7a1d81a896.mp3",
+     "l": 47.78,
+     "s": [
+      0.25,
+      5.84,
+      12.2,
+      14.85,
+      22.14,
+      31.07,
+      39.01
+     ]
+    },
+    {
+     "k": "Die Straße von Hormus gilt als eine der wichtigsten Öl-Handelsrouten der Welt. D",
+     "d": "fd0ed27889.mp3",
+     "l": 50.1,
+     "s": [
+      0.25,
+      5.07,
+      12.35,
+      21.15,
+      25.36,
+      31.83,
+      36.19,
+      46.49
+     ]
+    },
+    {
+     "k": "Die Straße von Hormus ist eine schmale Meerenge zwischen dem Persischen Golf und",
+     "d": "af806f1d92.mp3",
+     "l": 21.56,
+     "s": [
+      0.25,
+      6.44,
+      11.99,
+      18.35
+     ]
+    },
+    {
+     "k": "US-Vizepräsident JD Vance erklärte, er habe mit US-Präsident Donald Trump über d",
+     "d": "de9d164b16.mp3",
+     "l": 37.7,
+     "s": [
+      0.25,
+      7.76,
+      14.44,
+      21.31,
+      28.8
+     ]
+    },
+    {
+     "k": "Die Beteiligten beobachten, ob die diplomatischen Verhandlungen über eine Einigu",
+     "d": "2513e36300.mp3",
+     "l": 19.8,
+     "s": [
+      0.25,
+      5.93,
+      12.37
+     ]
     }
    ]
   },
@@ -5526,6 +5785,49 @@
       0.25,
       3.64
      ]
+    },
+    {
+     "k": "Beim Zweitligaspiel zwischen CD Teneriffa und dem FC Andorra kam es in der Nachs",
+     "d": "0df2e961c1.mp3",
+     "l": 54.43,
+     "s": [
+      0.25,
+      11.39,
+      19.26,
+      24.49,
+      29.25,
+      37.08,
+      42.03,
+      47.64
+     ]
+    },
+    {
+     "k": "Jesús de Miguel wurde in Madrid geboren und begann seine fußballerische Laufbahn",
+     "d": "87aff40227.mp3",
+     "l": 45.87,
+     "s": [
+      0.25,
+      7.93,
+      18.57,
+      26.99,
+      32.34,
+      37.73
+     ]
+    },
+    {
+     "k": "Die Vereine und Verantwortlichen reagierten bestürzt. CD Teneriffa veröffentlich",
+     "d": "ae277452b5.mp3",
+     "l": 42.31,
+     "s": [
+      0.25,
+      3.57,
+      9.06,
+      12.25,
+      19.98,
+      24.23,
+      29.84,
+      34.02
+     ]
     }
    ]
   },
@@ -5893,6 +6195,87 @@
      "s": [
       0.25,
       3.88
+     ]
+    },
+    {
+     "k": "In mehreren Bundesländern in Deutschland und Österreich sind nach Halloween Süßi",
+     "d": "a70cba3556.mp3",
+     "l": 60.56,
+     "s": [
+      0.25,
+      7.9,
+      16.56,
+      24.51,
+      29.64,
+      43.27,
+      51.24,
+      56.45
+     ]
+    },
+    {
+     "k": "In verschiedenen Städten wurden unterschiedliche Gegenstände in den Süßigkeiten ",
+     "d": "0adfbeb5ea.mp3",
+     "l": 48.76,
+     "s": [
+      0.25,
+      5.0,
+      11.08,
+      17.55,
+      24.04,
+      31.83,
+      35.37,
+      44.37
+     ]
+    },
+    {
+     "k": "Der Brauch Süßes oder Saures an Halloween stammt aus dem angloamerikanischen Rau",
+     "d": "255d5ba2a9.mp3",
+     "l": 51.12,
+     "s": [
+      0.25,
+      9.22,
+      16.1,
+      22.75,
+      30.09,
+      33.8,
+      39.38,
+      44.67
+     ]
+    },
+    {
+     "k": "Das Bundeskriminalamt ist eine zentrale Behörde, die in Österreich die polizeili",
+     "d": "13c6dd4822.mp3",
+     "l": 23.77,
+     "s": [
+      0.25,
+      6.85,
+      12.06
+     ]
+    },
+    {
+     "k": "Die Polizei in Deutschland und Österreich rät Eltern dringend, die gesammelten S",
+     "d": "29570578df.mp3",
+     "l": 59.14,
+     "s": [
+      0.25,
+      6.92,
+      14.8,
+      22.62,
+      31.55,
+      39.89,
+      45.76
+     ]
+    },
+    {
+     "k": "Die Ermittlungsbehörden in Deutschland und Österreich führen die Untersuchungen ",
+     "d": "92841b3478.mp3",
+     "l": 32.17,
+     "s": [
+      0.25,
+      7.79,
+      16.35,
+      19.94,
+      27.5
      ]
     }
    ]
@@ -9637,23 +10020,6 @@
    "bildVersucht": true,
    "ton": [
     {
-     "k": "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag ers",
-     "d": "486acd1d2d.mp3",
-     "l": 61.5,
-     "s": [
-      0.25,
-      5.99,
-      11.81,
-      17.67,
-      23.63,
-      29.26,
-      38.93,
-      44.08,
-      50.36,
-      55.31
-     ]
-    },
-    {
      "k": "In der deutschen Metall- und Elektroindustrie haben in der Nacht erste Warnstrei",
      "d": "bce2520338.mp3",
      "l": 24.28,
@@ -9692,6 +10058,21 @@
      "s": [
       0.25,
       3.34
+     ]
+    },
+    {
+     "k": "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag ers",
+     "d": "4f3770a87e.mp3",
+     "l": 68.04,
+     "s": [
+      0.25,
+      7.44,
+      16.12,
+      24.78,
+      34.33,
+      40.04,
+      51.71,
+      60.98
      ]
     },
     {
@@ -11988,6 +12369,17 @@
       32.17,
       35.6,
       41.23
+     ]
+    },
+    {
+     "k": "Für die in der Ukraine angekommenen Menschen beginnt die Suche nach Unterkünften",
+     "d": "c886023011.mp3",
+     "l": 19.64,
+     "s": [
+      0.25,
+      5.9,
+      11.36,
+      15.69
      ]
     }
    ]

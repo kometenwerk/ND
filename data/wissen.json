@@ -120,7 +120,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Ohrwurm ist eine Melodie, die man so schnell nicht wieder vergisst."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Ohrwurm ist eine Melodie, die uns im Kopf bleibt. Das Wort wurde im zwanzigs",
+     "d": "1da9509868.mp3",
+     "l": 27.1,
+     "s": [
+      0.25,
+      3.32,
+      6.52,
+      8.94,
+      12.72,
+      15.95,
+      19.97,
+      22.98
+     ]
+    }
+   ]
   },
   {
    "id": "der-begriff-hieroglyphen",
@@ -237,7 +254,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Hieroglyphen sind Schriftzeichen mit einem erkennbar bildhaften Charakter."
-   }
+   },
+   "ton": [
+    {
+     "k": "Eine Hieroglyphe ist ein Schriftzeichen mit einem bildhaften Charakter. Das Wort",
+     "d": "8c483c7c9c.mp3",
+     "l": 26.67,
+     "s": [
+      0.25,
+      4.34,
+      6.8,
+      9.36,
+      12.93,
+      16.31,
+      19.29,
+      22.9
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-eine-mikrowelle",
@@ -420,7 +454,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein moderner Mikrowellenherd dient dem schnellen Erwärmen von Nahrungsmitteln."
-   }
+   },
+   "ton": [
+    {
+     "k": "Eine Mikrowelle erwärmt Lebensmittel sehr schnell mit elektromagnetischer Hochfr",
+     "d": "384a345abc.mp3",
+     "l": 37.54,
+     "s": [
+      0.25,
+      5.97,
+      10.29,
+      14.81,
+      20.44,
+      24.91,
+      29.96,
+      33.28
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-ein-metallsuchgeraet",
@@ -574,7 +625,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Metalldetektor wird zum Suchen von Metallen verwendet."
-   }
+   },
+   "ton": [
+    {
+     "k": "Ein Metalldetektor spürt verborgene Metalle auf. Dabei helfen verschiedene Senso",
+     "d": "fefffd29f8.mp3",
+     "l": 33.29,
+     "s": [
+      0.25,
+      3.24,
+      6.24,
+      10.81,
+      16.71,
+      22.35,
+      26.45,
+      29.78
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-das-pfeifen-mit-den-fingern",
@@ -752,7 +820,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Pfeifen funktioniert durch schnell strömende Luft, die Wirbel erzeugt."
-   }
+   },
+   "ton": [
+    {
+     "k": "Pfeifen ist das Erzeugen von Tönen durch schnell strömende Luft in einem Hohlrau",
+     "d": "3e677dbebb.mp3",
+     "l": 43.0,
+     "s": [
+      0.25,
+      4.96,
+      10.0,
+      15.66,
+      20.81,
+      25.56,
+      30.96,
+      36.94
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-ein-touchscreen",
@@ -1090,24 +1175,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Stenografie ermöglicht es, gesprochene Sprache sehr schnell mitzuschreiben."
-   },
-   "ton": [
-    {
-     "k": "Stenografie ist eine alte Schrift für schnelles Mitschreiben. Das Wort kommt aus",
-     "d": "30cbe2ab9f.mp3",
-     "l": 23.98,
-     "s": [
-      0.25,
-      3.81,
-      5.98,
-      7.96,
-      11.1,
-      14.38,
-      17.35,
-      21.01
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-funktioniert-eigentlich-die-blindenschrift",
@@ -1282,24 +1350,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Blindenschrift ermöglicht blinden Menschen das Lesen durch den Tastsinn."
-   },
-   "ton": [
-    {
-     "k": "Blinde Menschen können mit den Fingern lesen. Dazu nutzen sie den Tastsinn. Erha",
-     "d": "fa8b6d52a3.mp3",
-     "l": 21.44,
-     "s": [
-      0.25,
-      2.8,
-      4.97,
-      7.65,
-      9.97,
-      13.87,
-      15.64,
-      18.6
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "warum-helfen-menschen-bei-notfaellen-manchmal-nicht",
