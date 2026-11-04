@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-03T21:57:48.486388Z",
+ "stand": "2026-11-04T22:10:21.682133Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -7,34 +7,220 @@
     "de_DE-thorsten-high",
     "de_DE-thorsten-medium"
    ],
+   "hoehe": 1.0,
+   "tempo": 1.0,
    "rolle": "führt durch die Sendung, fasst zusammen, übergibt"
-  },
-  {
-   "name": "Sigrid",
-   "modell": [
-    "de_DE-kerstin-low",
-    "de_DE-eva_k-x_low"
-   ],
-   "rolle": "ordnet ein, stellt die Gegenfrage"
   },
   {
    "name": "Malte",
    "modell": [
-    "de_DE-karlsson-low",
-    "de_DE-pavoque-low"
+    "de_DE-thorsten-medium",
+    "de_DE-thorsten-high"
    ],
+   "hoehe": 0.9,
+   "tempo": 1.06,
    "rolle": "bringt Zahlen und Belege, nennt die Quellen"
   },
   {
-   "name": "Nora",
+   "name": "Jan",
    "modell": [
-    "de_DE-ramona-low",
-    "de_DE-eva_k-x_low"
+    "de_DE-thorsten-medium",
+    "de_DE-thorsten-high"
    ],
-   "rolle": "fragt kritisch nach, benennt was offen ist"
+   "hoehe": 1.12,
+   "tempo": 0.96,
+   "rolle": "fragt kritisch nach, benennt was offen ist, stellt die Gegenfrage"
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-schaeffler-stellenabbau",
+   "themaId": "schaeffler-stellenabbau",
+   "art": "podcast",
+   "titel": "Schaeffler streicht tausende Stellen und schließt Werke",
+   "text": "Der Autozulieferer Schaeffler baut weltweit tausende Stellen ab und schließt Standorte. Wir blicken auf die Hintergründe und Reaktionen.",
+   "zeit": "2026-11-04T22:10:21.682133Z",
+   "besetzung": [
+    "Thorsten",
+    "Malte",
+    "Jan"
+   ],
+   "d": "folge-podcast-schaeffler-stellenabbau.mp3",
+   "l": 465.05,
+   "b": 3720813,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Hallo zum Podcast. Unser Thema heute sind die jüngsten Pläne des Autozulieferers Schaeffler, der den Abbau von rund dreitausendvierhundertsechzig Stellen in Europa angekündigt hat. Bevor wir in das Thema einsteigen, ein wichtiger Hinweis: Alle Stimmen dieser Sendung sind Computerstimmen. Ich begrüße meine Kollegen in der Runde: Malte und Jan."
+    },
+    {
+     "s": 19.3,
+     "wer": "Thorsten",
+     "text": "Malte, schau dir bitte einmal an, was genau das Unternehmen plant und welche Zahlen im Raum stehen. Du hast dir die Berichte von Tagesschau, ZDF und Deutschlandfunk dazu angeschaut."
+    },
+    {
+     "s": 29.75,
+     "wer": "Malte",
+     "text": "Das Unternehmen hat angekündigt, bis zum Jahr zweitausendachtundzwanzig ein umfassendes Sparprogramm umzusetzen. Insgesamt sollen dreitausendvierhundertsechzig Arbeitsplätze in Europa wegfallen, wobei rund zweitausendsechshundertsechzig Stellen auf Deutschland entfallen. Vier Werke in Dortmund, Morbach, Berlin und Schwalbach stehen hier vor der Schließung. Laut Berichten von ZDFheute und Deutschlandfunk wird zudem ein Standort in Belgien aufgegeben."
+    },
+    {
+     "s": 56.43,
+     "wer": "Malte",
+     "text": "Durch diese Maßnahmen sollen ab dem Jahr zweitausenddreißig jährlich rund dreihundert Millionen Euro eingespart werden. Demgegenüber stehen Einmalkosten für das Restrukturierungsprogramm von etwa vierhundertachtzig Millionen Euro. Der Vorstand fordert außerdem einen Gehaltsverzicht von den verbleibenden Beschäftigten, um die Kosten zu senken."
+    },
+    {
+     "s": 75.8,
+     "wer": "Jan",
+     "text": "Malte hat die harten Fakten genannt, aber bei der genauen Anzahl der Schließungen gibt es in den Medien noch offene Fragen. Tagesschau und Spiegel nennen vier Werke in Deutschland, während andere Quellen wie der Deutschlandfunk und ZDFheute von insgesamt fünf Standorten sprechen. Das zeigt, wie unübersichtlich die genaue Lage bei den betroffenen Standorten teilweise noch ist."
+    },
+    {
+     "s": 94.96,
+     "wer": "Thorsten",
+     "text": "Das ist ein wichtiger Punkt für den Stand der Berichterstattung. Jan, lass uns auf die verschiedenen Reaktionen und Positionen blicken. Wie bewertet die Arbeitnehmerseite die Pläne?"
+    },
+    {
+     "s": 105.36,
+     "wer": "Jan",
+     "text": "Die IG Metall und der Betriebsrat üben massive Kritik an den angekündigten Schließungen. Uli Schoepplein als Konzernbetriebsratschef kritisiert laut Tagesschau eine einseitige Belastung der deutschen Standorte. Er fordert ein klares Produkt- und Investitionskonzept, bevor überhaupt über Einsparungen verhandelt wird. Auch Thomas Höhn von der IG Metall sieht in dem Programm laut Gewerkschaftsangaben kein zukunftsfähiges Konzept."
+    },
+    {
+     "s": 129.03,
+     "wer": "Jan",
+     "text": "Höhn kritisiert vor allem, dass bei Schaeffler ein Sparprogramm auf das nächste folge. Die IG Metall fordert daher ein klares Zukunftskonzept für die deutschen Standorte, statt immer nur Stellen zu streichen. Die Arbeitnehmerseite sieht die Belegschaft hier zu Unrecht belastet."
+    },
+    {
+     "s": 143.68,
+     "wer": "Thorsten",
+     "text": "Malte, wie begründet das Unternehmen selbst diesen harten Schnitt und was sagt der Vorstand dazu?"
+    },
+    {
+     "s": 149.58,
+     "wer": "Malte",
+     "text": "Klaus Rosenfeld als Vorstandsvorsitzender von Schaeffler begründet das Programm mit dem herausfordernden Marktumfeld. Laut der Schaeffler-Mitteilung bezeichnet er den geforderten Gehaltsverzicht als unverzichtbares Hauptelement. Nur so könne ein noch größerer Stellenabbau abgewendet werden, wie das Unternehmen betont."
+    },
+    {
+     "s": 167.14,
+     "wer": "Malte",
+     "text": "Das Unternehmen verweist in seiner Begründung zudem auf hohe Personalkosten, Überkapazitäten und die anhaltende Schwäche im Automobilsektor. Die Einschnitte seien daher notwendig, um die Wettbewerbsfähigkeit langfristig zu sichern."
+    },
+    {
+     "s": 180.42,
+     "wer": "Thorsten",
+     "text": "Wir haben also zwei sehr unterschiedliche Sichtweisen zwischen Vorstand und Gewerkschaft. Jan, wie ordnen externe Experten diese Situation ein?"
+    },
+    {
+     "s": 188.75,
+     "wer": "Jan",
+     "text": "Autoexperten blicken differenziert auf die Krise der Zuliefererindustrie. Christoph Stürmer sieht laut ZDFheute die Ursachen im schrumpfenden Verbrennergeschäft sowie in nicht voll integrierten Firmenübernahmen und unzureichend ausgelasteten Fabriken. Gleichzeitig hebt er jedoch Chancen im Industriebereich hervor, die Schaeffler ebenfalls bedient."
+    },
+    {
+     "s": 207.37,
+     "wer": "Jan",
+     "text": "Ein weiterer Experte, Stefan Bratzel, warnt laut ZDFheute vor den Folgen politischer Debatten. Er hält es für gefährlich, wegen Diskussionen über den Verbrennungsmotor das Tempo bei der Transformation zur Elektromobilität zu verringern. Die Probleme hängen also eng mit dem technologischen Wandel der Branche zusammen."
+    },
+    {
+     "s": 223.71,
+     "wer": "Thorsten",
+     "text": "Malte, wie passt dieser Wandel in den breiteren zeitlichen Rahmen der Autokonjunktur?"
+    },
+    {
+     "s": 228.76,
+     "wer": "Malte",
+     "text": "Betrachtet man die Entwicklung der vergangenen Jahre, zeigt sich ein starker Druck auf die gesamte Branche. Laut Tagesschau wurden Elektroautos zwischen zweitausendundzwanzig und zweitausendfünfundzwanzig im Durchschnitt um rund achtzehn Prozent günstiger. Das erhöht den Margendruck auf die Zulieferer enorm."
+    },
+    {
+     "s": 246.9,
+     "wer": "Malte",
+     "text": "Zusätzlich sank die Zahl der Beschäftigten in der deutschen Autoindustrie im ersten Halbjahr zweitausendsechsundzwanzig nach Angaben des Statistischen Bundesamtes um rund fünf Komma acht Prozent. Die Krise bei Schaeffler steht damit in einer breiteren Branchenentwicklung."
+    },
+    {
+     "s": 261.78,
+     "wer": "Thorsten",
+     "text": "Jan, wenn wir auf die kommenden Jahre blicken, welche Fristen und Maßnahmen sind laut den Berichten noch wichtig?"
+    },
+    {
+     "s": 267.98,
+     "wer": "Jan",
+     "text": "Das angekündigte Spar- und Abbauprogramm soll bis zum Jahr zweitausendachtundzwanzig vollständig umgesetzt sein. Ab zweitausenddreißig erwartet das Unternehmen dann die genannten jährlichen Einsparungen von rund dreihundert Millionen Euro. Interessant ist auch ein Blick auf spätere Planungen."
+    },
+    {
+     "s": 283.65,
+     "wer": "Jan",
+     "text": "Schaeffler plant nach vorliegenden Berichten bis zum Jahr zweitausendundzweiunddreißig den Einsatz von eintausend bis zweitausend humanoiden Robotern in den eigenen Fabriken. Das zeigt, dass neben dem Personalabbau auch eine starke technologische Automatisierung bevorsteht."
+    },
+    {
+     "s": 298.24,
+     "wer": "Thorsten",
+     "text": "Malte, lass uns noch einmal auf die Kritik der Gewerkschaft zurückkommen. Wie bewertet die IG Metall diesen dauerhaften Umbau?"
+    },
+    {
+     "s": 305.51,
+     "wer": "Malte",
+     "text": "Die IG Metall stört sich vor allem daran, dass sich die Restrukturierungen bei Schaeffler wiederholen. Thomas Höhn kritisierte, dass ein Programm auf das nächste folge. Die Arbeitnehmervertreter bezweifeln, dass dies ein nachhaltiger Weg für den Industriestandort Deutschland ist."
+    },
+    {
+     "s": 320.33,
+     "wer": "Malte",
+     "text": "Der Betriebsrat fordert deshalb, wie Uli Schoepplein betonte, echte Zukunftsinvestitionen statt reiner Kürzungsorgien. Die Lasten des Umbaus dürften nicht einseitig auf den deutschen Standorten abgeladen werden."
+    },
+    {
+     "s": 332.26,
+     "wer": "Thorsten",
+     "text": "Jan, gibt es aus Sicht der Experten noch weitere Gründe für die Misere neben dem reinen Verbrennergeschäft?"
+    },
+    {
+     "s": 338.38,
+     "wer": "Jan",
+     "text": "Ja, Christoph Stürmer nannte neben dem schrumpfenden Verbrennergeschäft auch nicht voll integrierte Firmenübernahmen als Belastung. Wenn Zukäufe nicht die erhofften Synergien bringen, führt das zu unzureichend ausgelasteten Fabriken. Das verschärft den Druck auf die Profitabilität in schwierigen Zeiten zusätzlich."
+    },
+    {
+     "s": 354.99,
+     "wer": "Thorsten",
+     "text": "Malte, wie bewertet der Vorstand diesen Vorwurf der unzureichenden Auslastung?"
+    },
+    {
+     "s": 359.69,
+     "wer": "Malte",
+     "text": "Der Vorstand unter Klaus Rosenfeld verweist in seiner Begründung direkt auf diese Überkapazitäten und das herausfordernde Marktumfeld. Das Unternehmen sieht sich durch die strukturellen Probleme im Sektor zum Handeln gezwungen. Ohne den geforderten Gehaltsverzicht und die Schließungen drohten noch größere Einschnitte."
+    },
+    {
+     "s": 377.22,
+     "wer": "Thorsten",
+     "text": "Jan, wie blickt Stefan Bratzel auf die generelle Geschwindigkeit dieses Wandels?"
+    },
+    {
+     "s": 381.93,
+     "wer": "Jan",
+     "text": "Stefan Bratzel warnt davor, das Tempo bei der Elektromobilität zu drosseln, nur weil politische Debatten geführt werden. Aus seiner Sicht muss die Transformation konsequent vorangetrieben werden, um im internationalen Wettbewerb nicht den Anschluss zu verlieren. Zögern würde die Probleme der Zulieferer am Ende nur vergrößern."
+    },
+    {
+     "s": 398.94,
+     "wer": "Thorsten",
+     "text": "Malte, fassen wir die finanziellen Eckdaten des Programms noch einmal präzise zusammen."
+    },
+    {
+     "s": 404.01,
+     "wer": "Malte",
+     "text": "Gern. Weltweit beziehungsweise in Europa streicht Schaeffler dreitausendvierhundertsechzig Stellen, davon entfallen zweitausendsechshundertsechzig auf Deutschland. Die Einmalkosten für diesen Umbau beziffert das Unternehmen auf etwa vierhundertachtzig Millionen Euro. Ab zweitausenddreißig sollen dann jährlich dreihundert Millionen Euro eingespart werden."
+    },
+    {
+     "s": 424.82,
+     "wer": "Thorsten",
+     "text": "Jan, welche Frage bleibt nach all diesen Meldungen am Ende offen?"
+    },
+    {
+     "s": 428.85,
+     "wer": "Jan",
+     "text": "Offen bleibt vor allem die genaue Gesamtzahl der betroffenen Standorte und wie die Verhandlungen zwischen Vorstand und Betriebsrat ausgehen. Während einige Medien von vier Werken in Dortmund, Morbach, Berlin und Schwalbach sprechen, nennen andere Quellen insgesamt fünf Standorte inklusive Belgien. Hier müssen die kommenden Wochen zeigen, wie verbindlich die Pläne am Ende umgesetzt werden."
+    },
+    {
+     "s": 448.36,
+     "wer": "Thorsten",
+     "text": "Damit sind wir am Ende unserer heutigen Sendung angelangt. Wir haben gesehen, vor welch harten Einschnitten der Autozulieferer Schaeffler steht und wie kontrovers die Pläne diskutiert werden. Vielen Dank an Malte und Jan für eure Einschätzungen und die genaue Analyse der Berichte. Tschüss und bis zum nächsten Mal."
+    }
+   ]
+  },
   {
    "id": "podcast-gen-z-proteste",
    "themaId": "gen-z-proteste",
