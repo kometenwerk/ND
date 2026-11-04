@@ -1127,6 +1127,34 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
   animation:wischTipp 2.6s ease-in-out 3 both;pointer-events:none}
 @keyframes wischTipp{0%,100%{opacity:0;transform:translateY(6px)}30%,60%{opacity:.95;transform:translateY(-6px)}}
 @media (prefers-reduced-motion:reduce){.pl-buehne.wisch-hoch,.pl-buehne.wisch-runter,.pl-wischhinweis{animation:none}}
+
+/* ---------- Wetterkarte der Welt ---------- */
+.wk-weltkarte{display:grid;grid-template-columns:auto 1fr auto;grid-template-rows:auto auto;column-gap:12px;align-items:center;
+  margin:14px 0 4px;padding:14px 16px;border-radius:14px;background:var(--card);border:1px solid var(--line);color:var(--ink);text-decoration:none}
+.wk-weltkarte>span{grid-row:1/3;font-size:1.8rem}
+.wk-weltkarte b{font-size:1.02rem}.wk-weltkarte small{color:var(--muted);grid-column:2}
+.wk-weltkarte i{grid-row:1/3;grid-column:3;font-style:normal;font-size:1.4rem;color:var(--muted)}
+.wkarte{display:flex;flex-direction:column;gap:10px}
+.wkk-ebenen{display:flex;gap:6px;overflow-x:auto;padding-bottom:2px;scrollbar-width:none}
+.wkk-ebenen::-webkit-scrollbar{display:none}
+.wkk-ebenen button{flex:none;display:flex;align-items:center;gap:6px;padding:8px 12px;border-radius:999px;border:1px solid var(--line);
+  background:var(--card);color:var(--ink);font:inherit;font-size:.9rem;cursor:pointer}
+.wkk-ebenen button[aria-checked="true"]{background:var(--bar);border-color:var(--bar);color:#fff;font-weight:600}
+.wkk-ebenen button:focus-visible,.wkk-play:focus-visible{outline:3px solid #E8B93A;outline-offset:2px}
+.wkk-buehne{position:relative;height:min(68vh,620px);min-height:340px;border-radius:14px;overflow:hidden;border:1px solid var(--line);background:#c9d6e3}
+.wkk-buehne .wkk-map{position:absolute;inset:0;width:100%;height:100%}
+.wkk-farbe{position:absolute;left:0;top:0;pointer-events:none}
+.wkk-hinweis{position:absolute;left:10px;right:10px;bottom:10px;margin:0;padding:8px 12px;border-radius:10px;background:rgba(15,21,29,.82);color:#fff;font-size:.88rem}
+.wkk-zeit{display:flex;align-items:center;gap:10px}
+.wkk-zeit input{flex:1;accent-color:var(--bar)}
+.wkk-zeit output{min-width:92px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.wkk-play{width:44px;height:44px;flex:none;border-radius:50%;border:none;background:var(--bar);color:#fff;font-size:1rem;cursor:pointer}
+.wkk-legende{display:flex;align-items:center;gap:8px;font-size:.8rem;color:var(--muted)}
+.wkk-legende i{flex:1;height:10px;border-radius:6px}
+.wkk-pop{font-family:inherit;color:#1b2533}
+.wkk-pop-kopf{display:flex;align-items:center;gap:8px}.wkk-pop-kopf b{font-size:1.6rem}
+.wkk-pop p{margin:4px 0}.wkk-pop small{color:#5b6578;display:block;margin-bottom:8px}
+.wkk-merken{width:100%;padding:8px;border:none;border-radius:8px;background:#0E4F6E;color:#fff;font:inherit;font-weight:600;cursor:pointer}
 </style>
 </head>
 <body>
@@ -1182,8 +1210,8 @@ const APPS = {
     name: "Wetter", zusatz: "· Nachrichten-Heft", farbe: "#0E4F6E", symbol: "🌦",
     start: "#/wetter", manifest: "manifest-wetter.webmanifest",
     kurz: "Wetter", symbolDatei: "apple-touch-wetter.png",
-    leiste: [["#/wetter", "wetter", "🌦", "Wetter"], ["#/wetter-orte", "orte", "📍", "Orte"],
-             ["#/wetter-modelle", "modelle", "⚖", "Vergleich"], ["#/mehr", "mehr", "☰", "Mehr"]]
+    leiste: [["#/wetter", "wetter", "🌦", "Wetter"], ["#/wetter-karte", "karte", "🗺", "Karte"],
+             ["#/wetter-orte", "orte", "📍", "Orte"], ["#/wetter-modelle", "modelle", "⚖", "Vergleich"], ["#/mehr", "mehr", "☰", "Mehr"]]
   },
   podcast: {
     name: "Streitfrage", zusatz: "· der Podcast", farbe: "#4A2A6B", symbol: "🎙",
@@ -1612,14 +1640,16 @@ function wetterFormen(d, o){
   if (h.time?.length){
     const jetztBerlin = new Intl.DateTimeFormat("sv-SE", { timeZone:"Europe/Berlin", year:"numeric",
       month:"2-digit", day:"2-digit", hour:"2-digit", hourCycle:"h23" }).format(new Date()).replace(" ", "T").slice(0, 13);
-    let start = h.time.findIndex(x => String(x).slice(0, 13) >= jetztBerlin);
+    // Open-Meteo liefert die Zeiten in Ortszeit; "current.time" ist die Ortszeit jetzt.
+    const jetztOrt = String(d.current?.time || "").slice(0, 13) || jetztBerlin;
+    let start = h.time.findIndex(x => String(x).slice(0, 13) >= jetztOrt);
     if (start < 0) start = 0;
     stunden = h.time.slice(start, start + 24).map((x, k) => ({
       zeit: String(x).slice(11, 16), grad: zahl(h.temperature_2m, start + k),
       code: h.weather_code?.[start + k] ?? 0, regen: zahl(h.precipitation_probability, start + k)
     })).filter(x => Number.isFinite(x.grad));
   }
-  return { name:o.name, teil:o.teil || "", lat:o.lat, lon:o.lon, eigen:true,
+  return { name:o.name, teil:o.teil || "", lat:o.lat, lon:o.lon, eigen:true, zone: d.timezone || "Europe/Berlin",
     jetzt: c ? { grad: Math.round(c.temperature_2m), code: c.weather_code,
       gefuehlt: c.apparent_temperature == null ? null : Math.round(c.apparent_temperature),
       wind: Math.round(c.wind_speed_10m || 0),
@@ -1642,7 +1672,7 @@ async function eigenesWetter(o){
     current: "temperature_2m,apparent_temperature,weather_code,wind_speed_10m,wind_direction_10m," +
              "relative_humidity_2m,surface_pressure,is_day",
     hourly: "temperature_2m,weather_code,precipitation_probability",
-    timezone: "Europe/Berlin", forecast_days: "7"
+    timezone: "auto", forecast_days: "7"
   });
   const r = await fetch(url);
   if (!r.ok) throw new Error("Der Wetterdienst antwortet nicht (" + r.status + ").");
@@ -1691,7 +1721,8 @@ function wetterSeite(){
 
   $app.innerHTML = `
     <section class="wetter-jetzt ${himmelKlasse(jetzt.code, istTag)}">
-      <div class="wj-ort">${esc(o.name)}<small>${esc(o.teil || "")}</small></div>
+      <div class="wj-ort">${esc(o.name)}<small>${esc(o.teil || "")}${o.zone && o.zone !== "Europe/Berlin"
+        ? `${o.teil ? " · " : ""}Ortszeit ${esc(ortszeit(o.zone))}` : ""}</small></div>
       <div class="wj-zahl"><span class="wj-symbol">${wetterBild(jetzt.code, 96)}</span><b>${esc(jetzt.grad)}°</b></div>
       <div class="wj-text">${esc(wetterWort(jetzt.code))}</div>
       <div class="wj-hoch">H ${esc(o.heute.max)}°　T ${esc(o.heute.min)}°${
@@ -1711,6 +1742,9 @@ function wetterSeite(){
 
     ${wetterKacheln(o, jetzt)}
 
+    <a class="wk-weltkarte" href="#/wetter-karte"><span aria-hidden="true">🗺️</span>
+      <b>Wetterkarte der Welt</b><small>Temperatur, Regen, Wolken, Wind und Regenradar</small><i aria-hidden="true">›</i></a>
+
     <h2 class="abschnitt">Deutschland im Überblick</h2>
     <div class="wk-box">${wetterKarteSVG(w, "heute")}
       <div class="wk-band"><b>Heute</b><span>Morgen (${esc(w.morgenTag)})</span></div></div>
@@ -1724,11 +1758,17 @@ function wetterSeite(){
 
 /* ---------- Bausteine der Wetter-App ---------- */
 
+// Uhrzeit an einem Ort ("14:05"). Fällt bei unbekannter Zone auf Berlin zurück.
+function ortszeit(zone){
+  try { return new Intl.DateTimeFormat("de-DE", { timeZone: zone, hour:"2-digit", minute:"2-digit", hourCycle:"h23" }).format(new Date()); }
+  catch { return new Intl.DateTimeFormat("de-DE", { timeZone:"Europe/Berlin", hour:"2-digit", minute:"2-digit", hourCycle:"h23" }).format(new Date()); }
+}
+
 // Ohne Messwert: aus Sonnenauf- und -untergang schließen, ob gerade Tag ist.
 function tagsueber(o){
   const auf = o.heute?.auf, unter = o.heute?.unter;
   if (!auf || !unter) return true;
-  const jetzt = new Intl.DateTimeFormat("de-DE", { timeZone:"Europe/Berlin", hour:"2-digit", minute:"2-digit", hourCycle:"h23" }).format(new Date());
+  const jetzt = ortszeit(o.zone || "Europe/Berlin");
   return jetzt >= auf && jetzt <= unter;
 }
 
@@ -1800,6 +1840,31 @@ function wetterKacheln(o, jetzt){
       ${klein ? `<span class="wka-klein">${esc(klein)}</span>` : ""}</div>`).join("")}</div>`;
 }
 
+const WELTSTAEDTE = [
+  { name: "New York", teil: "USA", lat: 40.71, lon: -74.01 }, { name: "Los Angeles", teil: "USA", lat: 34.05, lon: -118.24 },
+  { name: "Rio de Janeiro", teil: "Brasilien", lat: -22.91, lon: -43.17 }, { name: "Reykjavík", teil: "Island", lat: 64.15, lon: -21.94 },
+  { name: "London", teil: "Großbritannien", lat: 51.51, lon: -0.13 }, { name: "Paris", teil: "Frankreich", lat: 48.86, lon: 2.35 },
+  { name: "Rom", teil: "Italien", lat: 41.9, lon: 12.5 }, { name: "Moskau", teil: "Russland", lat: 55.76, lon: 37.62 },
+  { name: "Kairo", teil: "Ägypten", lat: 30.04, lon: 31.24 }, { name: "Nairobi", teil: "Kenia", lat: -1.29, lon: 36.82 },
+  { name: "Kapstadt", teil: "Südafrika", lat: -33.92, lon: 18.42 }, { name: "Dubai", teil: "Vereinigte Arabische Emirate", lat: 25.2, lon: 55.27 },
+  { name: "Neu-Delhi", teil: "Indien", lat: 28.61, lon: 77.21 }, { name: "Peking", teil: "China", lat: 39.9, lon: 116.41 },
+  { name: "Tokio", teil: "Japan", lat: 35.68, lon: 139.69 }, { name: "Sydney", teil: "Australien", lat: -33.87, lon: 151.21 }
+];
+let WELT_CACHE = null;
+// Eine einzige Anfrage für alle Weltstädte: Temperatur, Wetter und Ortszeit.
+async function weltTemperaturen(){
+  if (WELT_CACHE && Date.now() - WELT_CACHE.zeit < 30 * 60000) return WELT_CACHE.liste;
+  const r = await fetch("https://api.open-meteo.com/v1/forecast?" + new URLSearchParams({
+    latitude: WELTSTAEDTE.map(o => o.lat).join(","), longitude: WELTSTAEDTE.map(o => o.lon).join(","),
+    current: "temperature_2m,weather_code", timezone: "auto" }));
+  if (!r.ok) throw new Error();
+  const d = await r.json();
+  const liste = (Array.isArray(d) ? d : [d]).map(x => x?.current ? {
+    grad: Math.round(x.current.temperature_2m), code: x.current.weather_code, uhr: ortszeit(x.timezone) } : null);
+  WELT_CACHE = { zeit: Date.now(), liste };
+  return liste;
+}
+
 function wetterOrteSeite(){
   document.getElementById("rubNav").hidden = true;
   const w = DATEN.wetter;
@@ -1824,7 +1889,12 @@ function wetterOrteSeite(){
         <button class="wo-weg" data-weg="${esc(o.name)}" aria-label="${esc(o.name)} entfernen">✕</button>
       </div>`).join("")}</div>` : ""}
 
-    <h2 class="abschnitt">Städte im Überblick</h2>
+    <h2 class="abschnitt">Städte der Welt</h2>
+    <div class="wo-liste" id="woWelt">${WELTSTAEDTE.map((o, i) => `<button class="wo-ort" data-welt="${i}">
+      <span class="wo-name">${esc(o.name)}<small>${esc(o.teil)}</small></span>
+      <span class="wo-grad" data-weltgrad="${i}">›</span></button>`).join("")}</div>
+
+    <h2 class="abschnitt">Städte in Deutschland</h2>
     <div class="wo-liste">${w.orte.map(o => `<button class="wo-ort${o.name === aktiv ? " an" : ""}" data-o="${esc(o.name)}">
       <span class="wo-name">${esc(o.name)}<small>${esc(o.teil || "")}</small></span>
       <span class="wo-sym">${wetterBild(o.heute.code, 32)}</span>
@@ -1845,6 +1915,11 @@ function wetterOrteSeite(){
   const kasten = $app.querySelector("#woErgebnis");
   const zeigen = (html) => { kasten.innerHTML = html; binden(); };
   const uebernehmen = o => { ortMerken(o); waehlen(o.name); };
+  $app.querySelectorAll("[data-welt]").forEach(b => b.onclick = () => uebernehmen(WELTSTAEDTE[+b.dataset.welt]));
+  weltTemperaturen().then(liste => liste.forEach((t, i) => {
+    const el = $app.querySelector(`[data-weltgrad="${i}"]`);
+    if (el && t) el.innerHTML = `${wetterBild(t.code, 28)} ${esc(t.grad)}°<small>${esc(t.uhr)}</small>`;
+  })).catch(() => {});
 
   $app.querySelector("#woSuche").onsubmit = async e => {
     e.preventDefault();
@@ -1881,6 +1956,20 @@ function wetterOrteSeite(){
       err.code === 1 ? " Die Erlaubnis wurde abgelehnt – du kannst deinen Ort oben auch suchen." : ""}</div>`),
       { timeout: 10000, maximumAge: 300000 });
   };
+}
+
+// Die Wetterkarte liegt in einer eigenen Datei und wird erst geladen, wenn man sie öffnet.
+function wetterKarteSeite(){
+  document.getElementById("rubNav").hidden = true;
+  $app.innerHTML = `<h1 class="seiten-titel">Wetterkarte</h1><div id="wkkBox"><p class="laden">Karte wird geladen …</p></div>`;
+  const eigen = eigeneOrte().find(x => x.name === wetterOrt());
+  const fest = DATEN.wetter?.orte?.find(x => x.name === wetterOrt());
+  const ort = eigen || fest;
+  import("./wetterkarte.js").then(m => m.wetterKarte(document.getElementById("wkkBox"), {
+    esc, eigenesWetter, ortMerken, wetterOrtSetzen, wetterBild, wetterWort, ortszeit,
+    start: ort && ort.lat != null ? { lat: ort.lat, lon: ort.lon, zoom: 5 } : { lat: 50, lon: 10, zoom: 4 }
+  })).catch(e => { const b = document.getElementById("wkkBox"); if (b) b.innerHTML = `<div class="empty">Die Karte konnte nicht geladen werden.<br>${esc(e.message || "")}</div>`; });
+  window.scrollTo(0, 0);
 }
 
 function wetterModelleSeite(){
@@ -4219,6 +4308,7 @@ function route(){
   else if (h.startsWith("#/merkliste")) merklisteSeite();
   else if (h.startsWith("#/story")) storySeite();
   else if (h.startsWith("#/videos")) videoSeite();
+  else if (h.startsWith("#/wetter-karte")) wetterKarteSeite();
   else if (h.startsWith("#/wetter-orte")) wetterOrteSeite();
   else if (h.startsWith("#/wetter-modelle")) wetterModelleSeite();
   else if (h.startsWith("#/wetter")) wetterSeite();
@@ -4235,7 +4325,8 @@ function route(){
 }
 function tabsMarkieren(){
   const h = location.hash || "#/";
-  const wo = h.startsWith("#/wetter-orte") ? "orte"
+  const wo = h.startsWith("#/wetter-karte") ? "karte"
+    : h.startsWith("#/wetter-orte") ? "orte"
     : h.startsWith("#/wetter-modelle") ? "modelle"
     : h.startsWith("#/wetter") ? "wetter"
     : h.startsWith("#/abo") ? "abo"

@@ -80,6 +80,8 @@ Einschränkungen der kostenlosen Gemini-Stufe:
 | `index.html` | Die App (lädt `data/news.json`) |
 | `data/news.json` | Aktuelle Nachrichten (wird automatisch überschrieben) |
 | `config.json` | Quellen, Modell, Zeitfenster, Grenzen |
-| `scripts/update.mjs` | Sammeln, Vergleichen, Zusammenfassen, Push |
+| `update.mjs` | Sammeln, Vergleichen, Zusammenfassen, Push |
+| `wetterkarte.js` | Wetterkarte der Welt (MapLibre + OpenFreeMap, Wetter von Open-Meteo, Radar von RainViewer) |
+| `tests/wetterkarte.test.mjs` | Tests für die Wetterkarte (`node tests/wetterkarte.test.mjs`) |
 | `.github/workflows/update.yml` | Zeitplan für die Aktualisierung |
 | `.github/workflows/wachhalter.yml` | Hält die Zeitsteuerung aktiv |

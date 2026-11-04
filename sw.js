@@ -1,8 +1,8 @@
 // Offline-Unterstützung für das Nachrichten-Heft
-const VERSION = "heft-v14";
+const VERSION = "heft-v15";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./manifest-wissen.webmanifest", "./manifest-wetter.webmanifest", "./manifest-podcast.webmanifest",
-  "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
+  "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png", "./wetterkarte.js"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -93,7 +93,8 @@ self.addEventListener("fetch", e => {
       || url.pathname.endsWith(".mp3")) return;
 
   if (req.mode === "navigate") return e.respondWith(seiteHolen(req));
-  if (url.pathname.endsWith(".json")) return e.respondWith(netzZuerst(req));
+  // Nur eigene Daten zwischenspeichern; fremde Dienste (z. B. das Regenradar) laufen direkt.
+  if (url.origin === self.location.origin && url.pathname.endsWith(".json")) return e.respondWith(netzZuerst(req));
   if (url.hostname.includes("fonts.googleapis.com") || url.hostname.includes("fonts.gstatic.com") || url.hostname.endsWith("wikimedia.org")) return e.respondWith(speicherZuerst(req));
   if (url.origin === self.location.origin) return e.respondWith(netzDannSpeicher(req));
 });

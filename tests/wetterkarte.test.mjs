@@ -1,0 +1,30 @@
+// Tests für die Wetterkarte – ausführen mit: node tests/wetterkarte.test.mjs
+import { rasterAbstand, rasterPunkte, lonNormal, schluessel, zwischen, farbe, antwortZerlegen, wertZu } from "../wetterkarte.js";
+let ok = 0, fehl = 0;
+const pruef = (n, b) => { if (b) ok++; else { fehl++; console.error("✗ " + n); } };
+
+pruef("Welt → grobes Raster", rasterAbstand(360) === 30 || rasterAbstand(360) >= 20);
+pruef("Deutschland → feines Raster", rasterAbstand(12) <= 2);
+const r = rasterPunkte({ west: 5, ost: 16, sued: 47, nord: 55 });
+pruef("Raster hat Punkte", r.punkte.length > 20 && r.punkte.length <= 140);
+pruef("Tabelle passt zu Punkten", r.zeilen * r.spalten === r.punkte.length);
+pruef("Reihenfolge Zeile/Spalte", r.punkte[1].lat === r.punkte[0].lat && r.punkte[r.spalten].lat > r.punkte[0].lat);
+const welt = rasterPunkte({ west: -400, ost: 400, sued: -85, nord: 85 });
+pruef("Ganze Welt bleibt begrenzt", welt.punkte.length <= 140 || welt.s === 30);
+pruef("Breite begrenzt auf ±80", welt.punkte.every(p => p.lat >= -80 && p.lat <= 80));
+pruef("Längengrad normalisiert", lonNormal(190) === -170 && lonNormal(-190) === 170 && lonNormal(10) === 10);
+pruef("Gleicher Ort, gleicher Schlüssel", schluessel(50, 190) === schluessel(50, -170));
+pruef("Bilinear Mitte", zwischen(0, 10, 10, 20, .5, .5) === 10);
+pruef("Bilinear mit Lücke", zwischen(0, null, 1, 2, .5, .5) === null);
+pruef("Farbe Regen 0 unsichtbar", farbe("regen", 0)[3] === 0);
+pruef("Farbe Temp sehr kalt = Rand", farbe("temp", -50)[0] === 120);
+pruef("Farbe Temp sehr heiß = Rand", farbe("temp", 60)[0] === 210);
+pruef("Farbe null bei fehlendem Wert", farbe("temp", null) === null);
+const pkt = [{ schluessel: "a" }, { schluessel: "b" }];
+const h = t => ({ hourly: { time: [1000, 4600], temperature_2m: [t, t + 1], precipitation: [0, 1], cloud_cover: [5, 6], wind_speed_10m: [3, 4], wind_direction_10m: [90, 100] } });
+const z = antwortZerlegen([h(5), h(7)], pkt);
+pruef("Mehrere Orte zerlegt", z.a.temp[0] === 5 && z.b.temp[0] === 7);
+pruef("Ein Ort (Objekt) zerlegt", antwortZerlegen(h(3), [{ schluessel: "x" }]).x.temp[0] === 3);
+pruef("Wert zur Stunde", wertZu(z.a, "temp", 4600) === 6);
+pruef("Wert außerhalb → null", wertZu(z.a, "temp", 999999) === null);
+console.log(`${ok} bestanden, ${fehl} fehlgeschlagen`); if (fehl) process.exit(1);
