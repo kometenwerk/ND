@@ -2260,13 +2260,25 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 12 Grad. Die Vorhersage für morgen, ",
+   "d": "eec5313faf.mp3",
+   "l": 18.95,
+   "s": [
+    0.25,
+    3.69,
+    10.02,
+    13.36,
+    16.17
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
   "stimmen": {
    "standard": "Thorsten",
-   "einfach": "Kerstin"
+   "einfach": "Thorsten"
   },
   "zuordnung": {
    "einfach": "einfach",
@@ -2293,11 +2305,11 @@
    },
    {
     "k": "Nachrichten-Heft. Einfach erklärt vom Mittwoch, 4. November. Es liest die Comput",
-    "d": "a19c8ab04b.mp3",
-    "l": 8.21,
+    "d": "aba8f2d369.mp3",
+    "l": 7.09,
     "s": [
      0.25,
-     5.04
+     4.56
     ]
    },
    {
@@ -2838,7 +2850,130 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrh",
+     "d": "fa70ce4737.mp3",
+     "l": 18.02,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "In den Vereinigten Staaten gab es eine wichtige Wahl für das Parlament. Die Demo",
+     "d": "e190bf4cac.mp3",
+     "l": 26.59,
+     "s": [
+      0.25,
+      4.39,
+      8.41,
+      13.65,
+      17.32,
+      22.4
+     ]
+    },
+    {
+     "k": "Der genaue Ausgang der Senatsrennen in Alaska und Mississippi ist noch nicht vol",
+     "d": "66e0a3ee18.mp3",
+     "l": 8.22,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Zwischenwahlen? Wahlen in den Vereinigten Staaten, die g",
+     "d": "f427967351.mp3",
+     "l": 9.34,
+     "s": [
+      0.25,
+      2.78
+     ]
+    },
+    {
+     "k": "Bei den Zwischenwahlen in den USA haben die Demokraten laut übereinstimmenden Ho",
+     "d": "9943a0ebde.mp3",
+     "l": 51.34,
+     "s": [
+      0.25,
+      7.74,
+      14.29,
+      18.13,
+      24.62,
+      28.79,
+      35.56,
+      46.11
+     ]
+    },
+    {
+     "k": "Laut dem SWR Baden-Württemberg ist der Ausgang in einigen Regionen weiterhin ums",
+     "d": "86da8fc473.mp3",
+     "l": 60.28,
+     "s": [
+      0.25,
+      5.81,
+      15.0,
+      21.34,
+      34.32,
+      41.23,
+      47.36,
+      56.02
+     ]
+    },
+    {
+     "k": "Als ein wesentlicher Faktor für das Abschneiden der Republikaner wurde in den Be",
+     "d": "b25e32d1c1.mp3",
+     "l": 50.34,
+     "s": [
+      0.25,
+      6.39,
+      11.91,
+      17.97,
+      25.42,
+      31.31,
+      35.99,
+      41.01
+     ]
+    },
+    {
+     "k": "Zwischenwahlen, im amerikanischen Sprachgebrauch als Midterms bezeichnet, finden",
+     "d": "3df05d7d16.mp3",
+     "l": 47.12,
+     "s": [
+      0.25,
+      7.74,
+      13.77,
+      24.42,
+      32.39,
+      40.65
+     ]
+    },
+    {
+     "k": "Der demokratische Senator Jon Ossoff warf der Regierung Korruption und Inkompete",
+     "d": "82af2dd4f8.mp3",
+     "l": 63.26,
+     "s": [
+      0.25,
+      7.78,
+      16.88,
+      23.87,
+      33.2,
+      43.14,
+      49.5,
+      58.02
+     ]
+    },
+    {
+     "k": "Die vollständige Auszählung der noch ausstehenden Stimmen in den Bundesstaaten A",
+     "d": "f51151562f.mp3",
+     "l": 28.36,
+     "s": [
+      0.25,
+      10.48,
+      17.44
+     ]
+    }
+   ]
   },
   {
    "id": "hubert-aiwanger-tot",
@@ -3134,7 +3269,109 @@
     "lat": 52.517,
     "lon": 13.395
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Der bayerische Wirtschaftsminister Hubert Aiwanger ist im Alter von 55 Jahren ge",
+     "d": "3f6f44f130.mp3",
+     "l": 49.01,
+     "s": [
+      0.25,
+      6.31,
+      10.82,
+      14.51,
+      19.11,
+      23.15,
+      29.09,
+      34.38,
+      40.96,
+      44.82
+     ]
+    },
+    {
+     "k": "Der bayerische Wirtschaftsminister Hubert Aiwanger ist mit 55 Jahren gestorben. ",
+     "d": "9d7fb01649.mp3",
+     "l": 12.77,
+     "s": [
+      0.25,
+      5.51,
+      8.43
+     ]
+    },
+    {
+     "k": "Der bayerische Wirtschaftsminister Hubert Aiwanger ist gestorben. Er wurde fünfu",
+     "d": "e3aad546b9.mp3",
+     "l": 20.28,
+     "s": [
+      0.25,
+      4.17,
+      6.75,
+      9.66,
+      12.55,
+      16.17
+     ]
+    },
+    {
+     "k": "Die genaue Todesursache ist in den Berichten nicht genannt. Laut dem Tagesspiege",
+     "d": "2329e36c41.mp3",
+     "l": 8.52,
+     "s": [
+      0.25,
+      4.09
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Agraringenieur? Ein Agraringenieur ist jemand, der an ei",
+     "d": "61c8a69bb4.mp3",
+     "l": 10.2,
+     "s": [
+      0.25,
+      3.22
+     ]
+    },
+    {
+     "k": "Der bayerische Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger is",
+     "d": "967ff6a641.mp3",
+     "l": 44.42,
+     "s": [
+      0.25,
+      7.82,
+      13.22,
+      16.01,
+      21.31,
+      25.2,
+      30.61,
+      37.75
+     ]
+    },
+    {
+     "k": "Hubert Aiwanger wurde 55 Jahre alt. Der Niederbayer lebte mit der Freie-Wähler-L",
+     "d": "274e4b535e.mp3",
+     "l": 50.06,
+     "s": [
+      0.25,
+      3.71,
+      9.2,
+      11.74,
+      17.88,
+      26.23,
+      34.21,
+      40.76
+     ]
+    },
+    {
+     "k": "Bundesweite Schlagzeilen erzielte Aiwanger im Jahr 2023 im Zusammenhang mit der ",
+     "d": "f3e971d2c2.mp3",
+     "l": 37.47,
+     "s": [
+      0.25,
+      7.81,
+      12.42,
+      23.58,
+      28.67
+     ]
+    }
+   ]
   },
   {
    "id": "schaeffler-stellenabbau",
@@ -3629,8 +3866,8 @@
     },
     {
      "k": "Der Autozulieferer Schaeffler streicht viele Stellen. Das Unternehmen baut drei ",
-     "d": "0a0ee0764a.mp3",
-     "l": 24.19,
+     "d": "febc667f4e.mp3",
+     "l": 21.36,
      "s": [
       0.25
      ]
@@ -3645,11 +3882,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Automobilzulieferer? Ein Unternehmen, das Bauteile oder ",
-     "d": "2b205a47e2.mp3",
-     "l": 10.06,
+     "d": "160236a574.mp3",
+     "l": 8.71,
      "s": [
       0.25,
-      4.3
+      3.64
      ]
     },
     {
@@ -4264,14 +4501,14 @@
     },
     {
      "k": "Kriminelle haben bei der Kryptobörse Binance digitales Geld im Wert von sechs Ko",
-     "d": "f3209e4755.mp3",
-     "l": 32.66,
+     "d": "6a13f06688.mp3",
+     "l": 28.88,
      "s": [
       0.25,
-      9.33,
-      14.8,
-      20.83,
-      26.04
+      7.57,
+      12.51,
+      17.9,
+      22.65
      ]
     },
     {
@@ -4284,11 +4521,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Kryptowährung? Ein digitales Zahlungsmittel, das durch k",
-     "d": "8046d176f5.mp3",
-     "l": 11.73,
+     "d": "a72851fc92.mp3",
+     "l": 10.04,
      "s": [
       0.25,
-      3.5
+      2.62
      ]
     },
     {
@@ -4766,8 +5003,8 @@
     },
     {
      "k": "Ein Fußballspieler aus Spanien ist gestorben. Er stieß in einem Spiel mit dem To",
-     "d": "03ec1ff1f6.mp3",
-     "l": 15.74,
+     "d": "59a1e52278.mp3",
+     "l": 14.81,
      "s": [
       0.25
      ]
@@ -4782,11 +5019,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Segunda División? Das ist die zweite Liga im spanischen ",
-     "d": "0cb604f12a.mp3",
-     "l": 7.73,
+     "d": "e16644cfeb.mp3",
+     "l": 6.89,
      "s": [
       0.25,
-      3.77
+      3.13
      ]
     },
     {
@@ -5372,15 +5609,15 @@
     },
     {
      "k": "In mehreren europäischen Ländern haben Täter Computer von Supermarkt-Kühlungen g",
-     "d": "890f4ed2a7.mp3",
-     "l": 31.48,
+     "d": "3623efa3c5.mp3",
+     "l": 28.69,
      "s": [
       0.25,
-      6.57,
-      11.28,
-      17.07,
-      22.03,
-      26.37
+      5.9,
+      9.8,
+      15.7,
+      20.29,
+      23.92
      ]
     },
     {
@@ -5393,11 +5630,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Cyberangriff? Ein gezielter digitaler Angriff von Unbeka",
-     "d": "a608832c3c.mp3",
-     "l": 11.55,
+     "d": "15cd95f37e.mp3",
+     "l": 11.01,
      "s": [
       0.25,
-      3.34
+      2.99
      ]
     },
     {
@@ -6004,15 +6241,15 @@
     },
     {
      "k": "In der Straße von Hormus hat das Militär der Vereinigten Staaten iranische Ziele",
-     "d": "0cc3cc6e53.mp3",
-     "l": 32.06,
+     "d": "ed285ff1c4.mp3",
+     "l": 29.34,
      "s": [
       0.25,
-      6.47,
-      11.33,
-      16.73,
-      20.79,
-      26.07
+      6.46,
+      11.24,
+      15.53,
+      19.33,
+      24.21
      ]
     },
     {
@@ -6025,11 +6262,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Straße von Hormus? Eine schmale Meeresenge zwischen dem ",
-     "d": "51c4eb28fa.mp3",
-     "l": 13.58,
+     "d": "2ba89613c0.mp3",
+     "l": 11.98,
      "s": [
       0.25,
-      3.98
+      3.22
      ]
     },
     {
@@ -6497,14 +6734,14 @@
     },
     {
      "k": "Bundeskanzler Friedrich Merz will eine Frau als Bundespräsidentin vorschlagen. D",
-     "d": "87868aff00.mp3",
-     "l": 23.71,
+     "d": "7c39642a3b.mp3",
+     "l": 22.24,
      "s": [
       0.25,
-      6.12,
-      10.34,
-      13.53,
-      18.84
+      5.66,
+      9.73,
+      12.35,
+      17.17
      ]
     },
     {
@@ -6517,11 +6754,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Bundespräsident? Das ist das Staatsoberhaupt der Bundesr",
-     "d": "c25b935a14.mp3",
-     "l": 7.78,
+     "d": "0038a426a9.mp3",
+     "l": 6.81,
      "s": [
       0.25,
-      3.63
+      3.21
      ]
     },
     {
@@ -6940,15 +7177,15 @@
     },
     {
      "k": "An Halloween haben Unbekannte Nadeln in Süßigkeiten gesteckt. Das ist in Deutsch",
-     "d": "a5e15bdceb.mp3",
-     "l": 22.57,
+     "d": "f225a80d1c.mp3",
+     "l": 21.91,
      "s": [
       0.25,
-      4.71,
-      7.97,
-      11.12,
-      15.13,
-      19.25
+      4.55,
+      7.74,
+      10.59,
+      14.2,
+      18.1
      ]
     },
     {
@@ -6961,11 +7198,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Bundeskriminalamt? Eine zentrale Polizeibehörde, die bei",
-     "d": "bfd50e7395.mp3",
-     "l": 10.96,
+     "d": "9ffb518b36.mp3",
+     "l": 9.8,
      "s": [
       0.25,
-      3.88
+      3.17
      ]
     },
     {
@@ -7511,15 +7748,15 @@
     },
     {
      "k": "In mehreren Städten gab es nach Jugendprotesten schwere Krawalle. Dabei wurden G",
-     "d": "cb134fcb9f.mp3",
-     "l": 27.74,
+     "d": "314c5a526f.mp3",
+     "l": 24.81,
      "s": [
       0.25,
-      4.85,
-      9.23,
-      15.05,
-      19.63,
-      23.27
+      4.51,
+      8.34,
+      13.58,
+      17.39,
+      21.11
      ]
     },
     {
@@ -7532,11 +7769,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Migrantisches Milieu? Ein Begriff, der Menschen beschrei",
-     "d": "33b5e9fb6a.mp3",
-     "l": 11.34,
+     "d": "9d87fd58a5.mp3",
+     "l": 10.51,
      "s": [
       0.25,
-      3.71
+      3.17
      ]
     },
     {
@@ -7991,8 +8228,8 @@
     },
     {
      "k": "In der Ukraine hat es einen schweren Luftangriff gegeben. Dabei starben im Dorf ",
-     "d": "2d6f77bb3e.mp3",
-     "l": 23.17,
+     "d": "2a491c5a31.mp3",
+     "l": 19.81,
      "s": [
       0.25
      ]
@@ -8007,11 +8244,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Gleitbombe? Eine Bombe mit Flügeln, die von Flugzeugen a",
-     "d": "bbbce0e6ec.mp3",
-     "l": 10.75,
+     "d": "b110fb6bb3.mp3",
+     "l": 10.4,
      "s": [
       0.25,
-      3.34
+      2.93
      ]
     },
     {
@@ -8602,15 +8839,15 @@
     },
     {
      "k": "In Polen gibt es einen großen Streit um das Verfassungsgericht. Regierungsnahe R",
-     "d": "4a6107cef7.mp3",
-     "l": 32,
+     "d": "07767b6c80.mp3",
+     "l": 28.77,
      "s": [
       0.25,
-      4.39,
-      8.9,
-      12.97,
-      19.24,
-      24.47
+      4.51,
+      8.62,
+      12.17,
+      17.64,
+      22.18
      ]
     },
     {
@@ -8623,11 +8860,11 @@
     },
     {
      "k": "Was bedeutet eigentlich Verfassungsgericht? Ein oberstes Gericht, das prüft, ob ",
-     "d": "1b05a5e6be.mp3",
-     "l": 9.63,
+     "d": "5be263f7f4.mp3",
+     "l": 8.42,
      "s": [
       0.25,
-      3.72
+      3.2
      ]
     },
     {
