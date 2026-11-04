@@ -1,6 +1,147 @@
 {
- "stand": "2026-11-03T10:45:20.124Z",
+ "stand": "2026-11-04T06:07:01.069Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-die-fotosynthese",
+   "zeit": "2026-11-04T06:19:17.937Z",
+   "bereich": "Natur und Tiere",
+   "titel": "Wie funktioniert eigentlich die Fotosynthese?",
+   "vorspann": "Pflanzen und Algen nutzen Sonnenlicht, um aus einfachen Stoffen energiereiche Verbindungen zu machen. Dieser Prozess versorgt fast alle anderen Lebewesen mit Nahrung und Sauerstoff.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Photosynthese ist ein physiologischer Prozess zur Erzeugung energiereicher Biomoleküle aus energieärmeren Stoffen. Dabei hilft Lichtenergie, die von Pflanzen, Algen und manchen Bakterien genutzt wird. Lichtabsorbierende Farbstoffe wie Chlorophyll wandeln die Lichtenergie in chemische Energie um. Mit dieser Energie werden aus anorganischen Stoffen wie Kohlenstoffdioxid und Wasser organische Verbindungen aufgebaut. Der genutzte Anteil der eingestrahlten Energie heißt photosynthetische Effizienz.",
+      "Man unterscheidet zwischen einer oxygenen und einer anoxygenen Photosynthese. Bei der oxygenen Photosynthese entsteht molekularer Sauerstoff. Die anoxygene Photosynthese wird nur von Bakterien betrieben und setzt statt Sauerstoff andere anorganische Stoffe wie elementaren Schwefel frei. Fast alle heterotrophen Lebewesen sind indirekt von der Photosynthese abhängig. Sie verdanken ihr ihre Nahrung und den Sauerstoff für die aerobe Atmung."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Der Ablauf lässt sich in mehrere Schritte unterteilen. Zuerst wird elektromagnetische Energie in Form von Licht durch Farbstoffe absorbiert. Im nächsten Schritt wandelt eine Redoxreaktion die elektromagnetische in chemische Energie um. Im letzten Schritt dient diese chemische Energie der Synthese organischer Verbindungen. Die ersten beiden Schritte heißen Lichtreaktion und laufen im Photosystem I und Photosystem II ab. Der letzte Schritt ist eine weitgehend lichtunabhängige Reaktion.",
+      "Für die Verwertung von Kohlenstoffdioxid muss dieses reduziert werden. Als Reduktionsmittel dienen Elektronen oxidierbarer Stoffe wie Wasser, Schwefelwasserstoff oder Eisenionen. Algen und grüne Landpflanzen verwenden ausschließlich Wasser als Reduktans. Dabei wird Sauerstoff als Produkt freigesetzt. Photosynthetische Bakterien nutzen ein größeres Spektrum an Reduktantien und oft Schwefelwasserstoff. Dadurch entsteht bei ihnen Schwefel statt Sauerstoff."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Seit der Antike gab es die Vorstellung, dass Pflanzen ihre Nahrung aus der Erde entnehmen. Marcello Malpighi überprüfte diese Anschauung experimentell und kam 1671 zu dem Ergebnis, dass der Nahrungssaft in den Blättern durch Sonnenlicht verarbeitet wird. Jan Ingenhousz zeigte 1779 nach der Entdeckung des Sauerstoffs, dass dieser in grünen Blättern im Licht gebildet wird. Im Jahr 1796 stellte er fest, dass Pflanzen der Kohlensäure den Kohlenstoff als Nahrung entnehmen und Sauerstoff aushauchen.",
+      "Die Humustheorie hielt sich dennoch bis in die Mitte des neunzehnten Jahrhunderts. Justus von Liebig bewies 1840 mit Mineraldünger, dass Pflanzen anorganische Substanzen assimilieren können. Julius von Sachs beschrieb in den 1860er Jahren, dass Chloroplasten im Licht Stärke ansammeln. Frederick Blackman und Gabrielle Matthaei postulierten 1905 die Unterscheidung zwischen einer Lichtreaktion und einer Dunkelreaktion. Cornelis Bernardus van Niel und Robert Hill lieferten in den Jahren 1930 und 1937 weitere wichtige Beweise."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Jahr der Untersuchung von Marcello Malpighi",
+     "1671"
+    ],
+    [
+     "Jahr der Entdeckung von Jan Ingenhousz",
+     "1779"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Photosynthese",
+     "Ein Prozess, bei dem aus energiearmen Stoffen mit Hilfe von Lichtenergie energiereiche Biomoleküle entstehen."
+    ],
+    [
+     "Chlorophyll",
+     "Ein lichtabsorbierender Farbstoff, der bei Pflanzen und Algen die Lichtenergie einfängt."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Welche Organismen betreiben Photosynthese?",
+     "optionen": [
+      "Nur Landpflanzen",
+      "Pflanzen, Algen und manche Bakterien",
+      "Ausschließlich Bakterien"
+     ],
+     "richtig": 1,
+     "erklaerung": "Laut Artikel wird die Photosynthese von Pflanzen, Algen und manchen Bakterien betrieben."
+    }
+   ],
+   "video": [
+    "Die Photosynthese ist ein wichtiger biochemischer Prozess.",
+    "Dabei wandeln Pflanzen Lichtenergie in chemische Energie um.",
+    "Als Rohstoffe dienen Kohlenstoffdioxid und Wasser.",
+    "Farbstoffe wie Chlorophyll fangen das Sonnenlicht ein.",
+    "Bei der oxygenen Photosynthese entsteht molekularer Sauerstoff.",
+    "Bakterien nutzen manchmal Schwefelwasserstoff als Reduktionsmittel.",
+    "Schon im siebzehnten Jahrhundert begannen Forscher diesen Prozess zu untersuchen.",
+    "Justus von Liebig zeigte im Jahr achtzehnzigundvierzig die Aufnahme anorganischer Stoffe."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Photosynthese",
+    "bildunterschrift": "Schema der Photosynthese bei Pflanzen und Algen."
+   },
+   "quelle": {
+    "titel": "Photosynthese",
+    "url": "https://de.wikipedia.org/wiki/Photosynthese",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 378,
+   "bildInfos": [
+    {
+     "titel": "Plagiomnium affine laminazellen.jpeg",
+     "beschreibung": "Plagiomnium affine , Laminazellen, Rostock",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Plagiomnium_affine_laminazellen.jpeg",
+     "urheber": "Kristian Peters -- Fabelfroh",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "artikel": "Photosynthese",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Schema der Photosynthese bei Pflanzen und Algen."
+    },
+    {
+     "titel": "Photoreaction center of Rhodopseudomonas viridis.png",
+     "beschreibung": "Photoreaction center of Rhodopseudomonas viridis , according to PDB 1prc . Drawn per Pymol and GIMP",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Photoreaction_center_of_Rhodopseudomonas_viridis.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/40/Photoreaction_center_of_Rhodopseudomonas_viridis.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Photoreaction_center_of_Rhodopseudomonas_viridis.png",
+     "urheber": "Yikrazuul",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Photoreaction center of Rhodopseudomonas viridis , according to PDB 1prc . Drawn per Pymol and GIMP"
+    },
+    {
+     "titel": "Seawifs global biosphere 2002.png",
+     "beschreibung": "SeaWiFS Global Biosphere, Visualization Date 2002-08-03 This composite image gives an indication of the magnitude and distribution of global primary production, both oceanic (mg/m3 chlorophyll a) and ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Seawifs_global_biosphere_2002.png/1280px-Seawifs_global_biosphere_2002.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Seawifs_global_biosphere_2002.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Seawifs_global_biosphere_2002.png",
+     "urheber": "Yikrazuul",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "SeaWiFS Global Biosphere, Visualization Date 2002-08-03 This composite image gives an indication of the magnitude and distribution of global primary production, both oceanic (mg/m3 chlorophyll a) and "
+    }
+   ],
+   "bildInfo": {
+    "titel": "Plagiomnium affine laminazellen.jpeg",
+    "beschreibung": "Plagiomnium affine , Laminazellen, Rostock",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/4/49/Plagiomnium_affine_laminazellen.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Plagiomnium_affine_laminazellen.jpeg",
+    "urheber": "Kristian Peters -- Fabelfroh",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artikel": "Photosynthese",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Schema der Photosynthese bei Pflanzen und Algen."
+   }
+  },
   {
    "id": "wie-entsteht-eigentlich-ein-ohrwurm",
    "zeit": "2026-11-03T10:58:47.740Z",
@@ -825,11 +966,11 @@
     {
      "k": "Pfeifen ist das Erzeugen von Tönen durch schnell strömende Luft in einem Hohlrau",
      "d": "3e677dbebb.mp3",
-     "l": 43.0,
+     "l": 43,
      "s": [
       0.25,
       4.96,
-      10.0,
+      10,
       15.66,
       20.81,
       25.56,
@@ -6404,191 +6545,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Feine Risse in den Fasern führen nach körperlicher Anstrengung zu Entzündungen und Schmerzen im Muskel."
-   }
-  },
-  {
-   "id": "wie-bauten-die-roemer-eigentlich-ihre-strassen",
-   "zeit": "2026-10-18T05:58:21.425Z",
-   "bereich": "Geschichte",
-   "titel": "Wie bauten die Römer eigentlich ihre Straßen?",
-   "vorspann": "Römerstraßen waren das große Straßennetz des Römischen Reiches. Eine neue Studie zeigt nun, dass dieses Netz rund 301.687 Kilometer lang war.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Römerstraßen sind das Straßennetz, das zur Zeit der Römischen Republik und des Römischen Reiches erbaut wurde. Der erste Abschnitt des Netzes wurde im Jahr 312 vor Christus als Teil der Via Appia fertiggestellt. Das Streckennetz umfasste damals wenigstens 80.000 bis 100.000 Kilometer. Aktuell geht man von bis zu 300.000 Kilometern aus. Römerstraßen waren in Mitteleuropa neuartig. Wegen ihres Aufbaus waren sie im Gegensatz zu Naturwegen germanischen und keltischen Ursprungs weitgehend unabhängig von der Feuchte des Bodens passierbar. Sie bahnten sich möglichst geradlinig und mit geringen Steigungen ihren Weg durch Ebenen und Gebirge. Laut Ulpian konnten drei Typen von Straßen unterschieden werden.",
-      "Die via publica oder Staatsstraße wurde von der Verwaltung Roms auf Kosten der Staatskasse errichtet. Die via militaris oder Heerstraße war durch strategische und logistische Gesichtspunkte gekennzeichnet. Die via vicinalis oder Provinzstraße wurde durch die Provinzen gebaut und unterhalten. Die via privata oder Privatstraße stellte die Verbindung zwischen Gutshöfen und Zivilsiedlungen dar. Für den Bau einer Römerstraße waren Rodung und Aushub bis über einen Meter in die Tiefe nötig. Danach wurden Schichten aus groben Steinen, Kies und Sand aufgebracht. Den Abschluss bildete eine Fahrbahndecke mit Pflastersteinen auf einer vorgegebenen Breite."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Das Kopfsteinpflaster war für den Marsch, das Reiten und den Verkehr mit Ochsenkarren geeignet. Im Laufe der Zeit entstanden Abnutzungen an der Decke. Zahlreiche gut erhaltene Römerstraßen existieren noch heute. Meist sind diese Fragmente aber nicht mehr in den öffentlichen Straßenverkehr eingebunden. Das liegt an ihrer für heutigen Verkehr zu geringen Breite. Etliche heutige Straßen stehen auf den Fundamenten von Römerstraßen. Die ursprünglichen Fundamente und die Fahrbahndecke wurden dabei verbreitert. Eine Asphaltdecke über einer Trennschicht macht die Römerstraße heute meist unsichtbar.",
-      "Die Technik der Steinpflasterung für Fernstraßen wurde unter Gaius Iulius Caesar eingeführt, als er Proconsul in Gallien war. Mit Römerstraßen war es möglich, schnell Truppen von einem Ort zum anderen zu verschieben. Damit konnte die Herrschaft behalten und neue Territorien erobert werden. Entlang der Straßen waren häufig Miliarien aufgestellt, die zur Orientierung dienten."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Eine im Fachjournal Scientific Data veröffentlichte Studie hat die Länge des Straßennetzes präzisiert. Demnach beträgt die Gesamtlänge rund 187.460 Meilen oder etwa 301.687 Kilometer. Frühere Annahmen gingen von etwa 120.000 Meilen aus. Das begleitende digitale Kartenwerk namens Itiner-e kombiniert historische Quellen mit Satelliten- und Geländedaten. So lassen sich Routenverläufe und Reisezeiten präziser modellieren."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Die Forschenden betonen, dass die Daten nicht auf ein bestimmtes Jahr oder Jahrhundert bezogen sind, da die zeitliche Entwicklung vieler Straßen nicht eindeutig nachzuweisen ist."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Gesamtlänge des Netzes laut Studie",
-     "301.687 km"
-    ],
-    [
-     "Erster Abschnitt fertiggestellt",
-     "312 v. Chr."
-    ]
-   ],
-   "begriffe": [
-    [
-     "Miliarien",
-     "Römische Meilensteine, die entlang der Straßen zur Orientierung aufgestellt wurden."
-    ],
-    [
-     "Via Appia",
-     "Ein berühmter Teil der Römerstraße, dessen erster Abschnitt im Jahr 312 v. Chr. fertiggestellt wurde."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann wurde der erste Abschnitt des Netzes fertiggestellt?",
-     "optionen": [
-      "312 v. Chr.",
-      "165 n. Chr.",
-      "400 n. Chr."
-     ],
-     "richtig": 0,
-     "erklaerung": "Der erste Abschnitt des Netzes wurde 312 v. Chr. fertiggestellt."
-    }
-   ],
-   "video": [
-    "Römerstraßen waren das große Straßennetz des Römischen Reiches.",
-    "Der erste Abschnitt wurde im Jahr dreihundertzwölft vor Christus fertiggestellt.",
-    "Das Netz umfasste historische und neue Messungen zufolge bis zu dreihunderttausend Kilometer.",
-    "Sie bestanden aus mehreren Schichten mit Steinen, Kies und Sand.",
-    "Darauf lag eine Decke aus Pflastersteinen.",
-    "Damit konnten Truppen schnell verschoben und Territorien erobert werden.",
-    "Entlang der Straßen standen Meilensteine zur Orientierung.",
-    "Eine neue Studie hat die Länge der Straßen genau vermessen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Römerstraße",
-    "bildunterschrift": "Römerstraßen verfügten über einen mehrschichtigen Aufbau und eine Pflasterdecke."
-   },
-   "quelle": {
-    "titel": "Römerstraße",
-    "url": "https://de.wikipedia.org/wiki/R%C3%B6merstra%C3%9Fe",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 403,
-   "bildInfos": [
-    {
-     "titel": "Roman Empire 125.png",
-     "beschreibung": "Map of the Roman Empire in 125 during the reign of emperor Hadrian , with anachronistic Germanic tribes from the time of Augustus . Projection Lambert azimuthal-equal area . Central latitude: 45° N, c",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/1280px-Roman_Empire_125.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Roman_Empire_125.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Roman_Empire_125.png",
-     "urheber": "User:Andrein",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "artikel": "Römerstraße",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Römerstraßen verfügten über einen mehrschichtigen Aufbau und eine Pflasterdecke."
-    },
-    {
-     "titel": "Part of Tabula Peutingeriana.jpg",
-     "beschreibung": "Part of Tabula Peutingeriana, konrad miller´s facsimile from 1887",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Part_of_Tabula_Peutingeriana.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Part_of_Tabula_Peutingeriana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Part_of_Tabula_Peutingeriana.jpg",
-     "urheber": "Unknown author Unknown author",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Part of Tabula Peutingeriana, konrad miller´s facsimile from 1887"
-    },
-    {
-     "titel": "RomaForoRomanoMiliariumAureum01.JPG",
-     "beschreibung": "RomaForoRomanoMiliariumAureum01",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/RomaForoRomanoMiliariumAureum01.JPG/1280px-RomaForoRomanoMiliariumAureum01.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/RomaForoRomanoMiliariumAureum01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:RomaForoRomanoMiliariumAureum01.JPG",
-     "urheber": "unbekannt",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "RomaForoRomanoMiliariumAureum01"
-    },
-    {
-     "titel": "RomaViaAppiaAntica03 retouched.jpg",
-     "beschreibung": "RomaViaAppiaAntica03 retouched",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/RomaViaAppiaAntica03_retouched.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/RomaViaAppiaAntica03_retouched.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:RomaViaAppiaAntica03_retouched.jpg",
-     "urheber": "unbekannt",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "RomaViaAppiaAntica03 retouched"
-    },
-    {
-     "titel": "Roman milestone St Margarethen Austria 201 aC.jpg",
-     "beschreibung": "Roman milestone",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Roman_milestone_St_Margarethen_Austria_201_aC.jpg/1280px-Roman_milestone_St_Margarethen_Austria_201_aC.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/82/Roman_milestone_St_Margarethen_Austria_201_aC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Roman_milestone_St_Margarethen_Austria_201_aC.jpg",
-     "urheber": "unbekannt",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Roman milestone"
-    },
-    {
-     "titel": "Via dell'Abbondanza 3.JPG",
-     "beschreibung": "Via dell'Abbondanza",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Via_dell%27Abbondanza_3.JPG/1280px-Via_dell%27Abbondanza_3.JPG",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Via_dell%27Abbondanza_3.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Via_dell%27Abbondanza_3.JPG",
-     "urheber": "Mentnafunangann",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Via dell'Abbondanza"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Roman Empire 125.png",
-    "beschreibung": "Map of the Roman Empire in 125 during the reign of emperor Hadrian , with anachronistic Germanic tribes from the time of Augustus . Projection Lambert azimuthal-equal area . Central latitude: 45° N, c",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Roman_Empire_125.png/1280px-Roman_Empire_125.png",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Roman_Empire_125.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Roman_Empire_125.png",
-    "urheber": "User:Andrein",
-    "lizenz": "CC BY-SA 3.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "artikel": "Römerstraße",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Römerstraßen verfügten über einen mehrschichtigen Aufbau und eine Pflasterdecke."
    }
   }
  ]
