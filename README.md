@@ -82,6 +82,9 @@ Einschränkungen der kostenlosen Gemini-Stufe:
 | `config.json` | Quellen, Modell, Zeitfenster, Grenzen |
 | `update.mjs` | Sammeln, Vergleichen, Zusammenfassen, Push |
 | `wetterkarte.js` | Wetterkarte der Welt (MapLibre + OpenFreeMap, Wetter von Open-Meteo, Radar von RainViewer) |
+| `studio.js` | 3D-Nachrichtenstudio für die Videos (three.js): Tisch, Bildwand, Kameras |
+| `thorsten3d.js` | Thorsten als gezeichnete KI-Figur (Kopf, Lider, Mund, Anzug) |
+| `tests/studio.test.mjs` | Tests fürs Studio (`node tests/studio.test.mjs`) |
 | `tests/wetterkarte.test.mjs` | Tests für die Wetterkarte (`node tests/wetterkarte.test.mjs`) |
 | `.github/workflows/update.yml` | Zeitplan für die Aktualisierung |
 | `.github/workflows/wachhalter.yml` | Hält die Zeitsteuerung aktiv |

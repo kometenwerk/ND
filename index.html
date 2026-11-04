@@ -1155,6 +1155,25 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
 .wkk-pop-kopf{display:flex;align-items:center;gap:8px}.wkk-pop-kopf b{font-size:1.6rem}
 .wkk-pop p{margin:4px 0}.wkk-pop small{color:#5b6578;display:block;margin-bottom:8px}
 .wkk-merken{width:100%;padding:8px;border:none;border-radius:8px;background:#0E4F6E;color:#fff;font:inherit;font-weight:600;cursor:pointer}
+
+/* ---------- Nachrichtenstudio (3D) ---------- */
+.pl-studio{position:absolute;inset:0;width:100%;height:100%;display:block;z-index:0}
+.studio-modus{background:#060c18}
+.studio-modus .pl-bild{inset:auto;left:0;top:0;transform-origin:0 0;z-index:1;border-radius:0;will-change:transform;backface-visibility:hidden}
+.studio-modus .pl-bild::after{background:linear-gradient(180deg,rgba(5,15,30,.15),rgba(5,15,30,.35))}
+.studio-modus .pl-laufband,.studio-modus .pl-uhr,.studio-modus .pl-chips,.studio-modus .pl-link,
+.studio-modus .pl-credit,.studio-modus .pl-bu,.studio-modus .tf-band,.studio-modus .w-quelle{display:none!important}
+.studio-modus .pl-inhalt{bottom:9%;left:3%;right:auto;max-width:62%;padding:10px 16px;border-radius:10px;
+  background:linear-gradient(90deg,rgba(8,16,32,.88),rgba(8,16,32,.72));border-left:4px solid var(--akzent,#16407A);transition:opacity .5s}
+.studio-modus .pl-inhalt .pl-titel{font-size:clamp(.8rem,2.2vw,1.4rem)}
+.studio-modus .pl-inhalt.gross{max-width:46%;padding:8px 14px}
+.studio-modus .pl-inhalt .pl-logo{font-size:clamp(.75rem,1.9vw,1.2rem)}
+.studio-modus .pl-inhalt .pl-sprecher{font-size:clamp(.6rem,1.4vw,.85rem)}
+.studio-modus.binde-weg .pl-inhalt{opacity:0;pointer-events:none}
+.studio-modus .pl-marke{top:auto;bottom:10px;left:auto;right:12px;opacity:.65;font-size:clamp(.5rem,1.2vw,.66rem)}
+.tf-nachweise{text-align:left;font-size:clamp(.6rem,1.4vw,.85rem)}
+.tf-nachweise ul{margin:.4em 0;padding-left:1.2em;columns:2;column-gap:2em}
+.tf-nachweise li{margin:.15em 0}.tf-nachweise .tf-klein{opacity:.75}
 </style>
 </head>
 <body>
@@ -3492,7 +3511,7 @@ function tonEintrag(s){
   const k = (s.saetze || []).join(" ").slice(0, 80);
   return k ? (liste.find(e => e && e.k === k) || null) : null;
 }
-const PLAYER = { segs:[], si:0, ti:0, spielt:false, stumm:false, untertitel:true, timer:null, wache:null, format:null, zurueck:"#/", lauf:0, fertig:false };
+const PLAYER = { studio:null, studioLauf:0, segs:[], si:0, ti:0, spielt:false, stumm:false, untertitel:false, timer:null, wache:null, format:null, zurueck:"#/", lauf:0, fertig:false };
 
 function deutscheStimmen(){
   return (speechSynthesis?.getVoices?.() || []).filter(v => /^de/i.test(v.lang));
@@ -3563,7 +3582,7 @@ function playerOeffnen(format, id){
       <span class="pl-zeit" aria-live="off">–</span>
       <span class="pl-luecke"></span>
       <button data-a="ton" aria-label="Ton aus">${SYM.ton}</button>
-      <button data-a="ut" aria-label="Untertitel aus" class="an">${SYM.ut}</button>
+      <button data-a="ut" aria-label="Untertitel an">${SYM.ut}</button>
       <button data-a="voll" aria-label="Vollbild">${SYM.voll}</button>
     </div>
     <div class="pl-themen" hidden></div>`;
@@ -3590,6 +3609,7 @@ function playerOeffnen(format, id){
     if (e.key === "Escape") playerSchliessen();
   });
   if (f.hochkant) wischenEinrichten(el);
+  if (f.quer) studioEinschalten(el);
   el.tabIndex = -1; el.focus();
   document.addEventListener("fullscreenchange", vollKnopf);
 }
@@ -3629,8 +3649,50 @@ function wischAnimation(buehne, hoch){
   void buehne.offsetWidth;
   buehne.classList.add(hoch ? "wisch-hoch" : "wisch-runter");
 }
+// Das 3D-Nachrichtenstudio mit Thorsten. Klappt es nicht (kein WebGL, kein Netz),
+// bleibt einfach die bisherige Darstellung.
+function studioEinschalten(el){
+  const buehne = el.querySelector(".pl-buehne");
+  buehne.classList.add("studio-modus");
+  const lauf = ++PLAYER.studioLauf;
+  import("./studio.js").then(m => m.studioStarten(buehne, {
+    akzent: buehne.style.getPropertyValue("--akzent") || "#16407A",
+    spricht: () => PLAYER.spielt && ((AUDIO && !AUDIO.paused && AUDIO.currentTime > 0)
+      || (typeof speechSynthesis !== "undefined" && speechSynthesis.speaking))
+  })).then(st => {
+    if (!st){ buehne.classList.remove("studio-modus"); return; }
+    if (lauf !== PLAYER.studioLauf || !document.body.contains(buehne)){ st.stopp(); return; }
+    PLAYER.studio = st;
+    zeigen();
+  }).catch(e => { console.warn("Studio:", e); buehne.classList.remove("studio-modus"); });
+}
+function studioStoppen(){
+  PLAYER.studioLauf++;
+  try { PLAYER.studio?.stopp(); } catch {}
+  PLAYER.studio = null;
+}
+// Kamera passend zum Bild: Thorsten stellt das Thema vor, Grafiken groß an der Wand.
+function studioEinstellung(s, sh){
+  if (s.typ === "intro" || s.typ === "outro") return "total";
+  const grafik = GRAFIK.has(sh.typ) && sh.typ !== "titel";
+  if (PLAYER.ti === 0) return grafik ? "studio" : "nah";
+  if (grafik || sh.typ === "wetter") return "wand";
+  return PLAYER.ti % 2 ? "wand" : "studio";
+}
+// Bildnachweise der ganzen Sendung – am Ende statt über den Fotos
+function nachweiseHTML(){
+  const gesehen = new Set(), liste = [];
+  PLAYER.segs.forEach(x => (x.bilder || []).forEach(b => {
+    if (!b?.url || gesehen.has(b.url)) return; gesehen.add(b.url);
+    liste.push(`${esc(b.urheber || "unbekannt")} · ${esc(b.lizenz || "")}`);
+  }));
+  if (!liste.length) return "";
+  return `<div class="tf auf tf-nachweise"><div class="tf-kopf">Bildnachweise</div>
+    <p>Fotos von Wikimedia Commons:</p><ul>${liste.slice(0, 14).map(x => `<li>${x}</li>`).join("")}</ul>
+    <p class="tf-klein">Moderator Thorsten ist eine KI-Figur, die Stimme eine Computerstimme.</p></div>`;
+}
 function playerSchliessen(){
-  stopp(); tickerStopp();
+  stopp(); tickerStopp(); studioStoppen();
   document.removeEventListener("fullscreenchange", vollKnopf);
   document.getElementById("player")?.classList.remove("voll", "gedreht");
   document.getElementById("player")?.remove();
@@ -3669,6 +3731,8 @@ function zeigen(){
   const s = PLAYER.segs[PLAYER.si];
   const buehne = el.querySelector(".pl-buehne");
   buehne.style.setProperty("--akzent", PLAYER.format === "wissen" ? WISSEN_FARBE : (RUBRIK_FARBE[s.rubrik] || "#16407A"));
+  PLAYER.studio?.akzent(PLAYER.format === "wissen" ? WISSEN_FARBE : (RUBRIK_FARBE[s.rubrik] || "#16407A"));
+  buehne.classList.remove("binde-weg");
   buehne.classList.toggle("wissen-format", PLAYER.format === "wissen");
   el.querySelector(".pl-uhr").textContent = berlin(new Date(), { hour:"2-digit", minute:"2-digit" }) + " Uhr";
   el.querySelector(".pl-fortschritt").innerHTML = PLAYER.segs.map((x, i) =>
@@ -3676,7 +3740,9 @@ function zeigen(){
   if (!s.shots) s.shots = regie(s);
   const marke = el.querySelector(".pl-marke");
   const nm = stimmeName(PLAYER.format);
-  if (marke) marke.textContent = tonEintrag(s)
+  if (marke) marke.textContent = buehne.classList.contains("studio-modus")
+    ? "KI-Moderator · " + (tonEintrag(s) ? "Computerstimme" : "Vorlesestimme")
+    : tonEintrag(s)
     ? `KI-Zusammenfassung · Computerstimme${nm ? " " + nm : ""}`
     : "KI-Zusammenfassung · Vorlesestimme des Geräts";
   shotZeigen(true);
@@ -3806,6 +3872,11 @@ function shotZeigen(neuesSegment){
   const bild = el.querySelector(".pl-bild");
   const sh = s.shots[Math.min(PLAYER.ti, s.shots.length - 1)] || { typ:"titel", titel:s.titel, rubrik:s.rubrik };
   const kennung = PLAYER.si + "|" + sh.typ + "|" + (sh.b?.url || sh.wer || sh.titel || sh.text || PLAYER.ti);
+  const buehne = el.querySelector(".pl-buehne");
+  if (PLAYER.studio){
+    PLAYER.studio.einstellung(studioEinstellung(s, sh), !!neuesSegment);
+    buehne.classList.toggle("binde-weg", PLAYER.ti > 0 && s.typ !== "intro" && s.typ !== "outro");
+  }
   if (bild.dataset.kennung === kennung && !neuesSegment) return;
   bild.dataset.kennung = kennung;
   const grafik = GRAFIK.has(sh.typ) || sh.typ === "logo";
@@ -3831,6 +3902,9 @@ function shotZeigen(neuesSegment){
       + `<div class="tf auf tf-karte"><div class="tf-kopf">Wo ist das passiert?</div>
          <div class="tf-ortname">${esc(sh.ort.name)}</div>
          <div class="tf-band">Karte: eigene Darstellung, Daten von Natural Earth</div></div>`;
+  } else if (sh.typ === "logo" && s.typ === "outro" && PLAYER.studio && nachweiseHTML()){
+    bild.className = "pl-bild tafel-flaeche";
+    bild.innerHTML = nachweiseHTML();
   } else if (sh.typ === "logo"){
     bild.innerHTML = openerHTML(PLAYER.format === "wissen" ? "wissen" : "nachrichten")
       + (s.typ === "outro" ? "" : "");
