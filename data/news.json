@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-04T06:07:01.069Z",
+ "stand": "2026-11-04T14:31:36.218Z",
  "gepusht": [
   "jugendwort-des-jahres-2026-ragebait",
   "angriffe-saporischschja",
@@ -91,7 +91,6 @@
   "berlin-koalitionsverhandlungen-linke",
   "bundesliga-8-spieltag-zusammenfassung",
   "gen-z-proteste",
-  "ig-metall-warnstreiks",
   "merzd-nachfolge-bundespraesident-frau",
   "cyberangriff-supermaerkte-kuehlsysteme",
   "halloween-spitze-gegenstaende-suessigkeiten",
@@ -102,7 +101,7 @@
   "tod-jesus-de-miguel"
  ],
  "wetter": {
-  "stand": "2026-11-04T06:07:01.069Z",
+  "stand": "2026-11-04T14:31:36.218Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -111,15 +110,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 7,
-     "code": 1,
-     "gefuehlt": 5,
-     "wind": 6,
-     "windAus": 54,
-     "feuchte": 77,
-     "druck": 1034,
+     "grad": 9,
+     "code": 3,
+     "gefuehlt": 6,
+     "wind": 11,
+     "windAus": 72,
+     "feuchte": 70,
+     "druck": 1033,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-04",
@@ -128,20 +127,20 @@
      "min": 6,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 72,
+     "wind": 13,
+     "windAus": 73,
      "uv": 1.8,
      "auf": "07:24",
      "unter": "16:41"
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 1,
+     "code": 2,
      "max": 10,
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
+     "wind": 11,
      "windAus": 83,
      "uv": 1.8,
      "auf": "07:26",
@@ -155,20 +154,20 @@
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 72,
+      "wind": 13,
+      "windAus": 73,
       "uv": 1.8,
       "auf": "07:24",
       "unter": "16:41"
      },
      {
       "datum": "2026-11-05",
-      "code": 1,
+      "code": 2,
       "max": 10,
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
+      "wind": 11,
       "windAus": 83,
       "uv": 1.8,
       "auf": "07:26",
@@ -181,21 +180,21 @@
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 97,
+      "wind": 11,
+      "windAus": 94,
       "uv": 1.8,
       "auf": "07:28",
       "unter": "16:37"
      },
      {
       "datum": "2026-11-07",
-      "code": 45,
-      "max": 6,
-      "min": 2,
-      "regen": 3,
+      "code": 3,
+      "max": 5,
+      "min": 3,
+      "regen": 2,
       "menge": 0,
-      "wind": 11,
-      "windAus": 120,
+      "wind": 9,
+      "windAus": 122,
       "uv": 1.7,
       "auf": "07:30",
       "unter": "16:36"
@@ -203,12 +202,12 @@
      {
       "datum": "2026-11-08",
       "code": 61,
-      "max": 7,
+      "max": 9,
       "min": 3,
-      "regen": 3,
-      "menge": 2.4,
+      "regen": 5,
+      "menge": 0,
       "wind": 6,
-      "windAus": 134,
+      "windAus": 159,
       "uv": 0.2,
       "auf": "07:32",
       "unter": "16:34"
@@ -216,13 +215,13 @@
      {
       "datum": "2026-11-09",
       "code": 45,
-      "max": 6,
+      "max": 7,
       "min": 3,
       "regen": 8,
-      "menge": 0.9,
+      "menge": 0,
       "wind": 5,
-      "windAus": 192,
-      "uv": 0.8,
+      "windAus": 200,
+      "uv": 1.1,
       "auf": "07:34",
       "unter": "16:32"
      },
@@ -235,60 +234,12 @@
       "menge": 0,
       "wind": 6,
       "windAus": 251,
-      "uv": 0.6,
+      "uv": 1.6,
       "auf": "07:36",
       "unter": "16:30"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 9,
@@ -298,13 +249,13 @@
      {
       "zeit": "16:00",
       "grad": 9,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 8,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
@@ -315,73 +266,121 @@
      },
      {
       "zeit": "19:00",
-      "grad": 7,
-      "code": 0,
+      "grad": 8,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 6,
+      "grad": 7,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 5,
-      "code": 0,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 6,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 5,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 5,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 10,
       "code": 0,
       "regen": 0
      }
@@ -393,13 +392,13 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 6,
-     "code": 3,
-     "gefuehlt": 3,
-     "wind": 8,
-     "windAus": 47,
-     "feuchte": 80,
-     "druck": 1031,
+     "grad": 10,
+     "code": 2,
+     "gefuehlt": 7,
+     "wind": 9,
+     "windAus": 73,
+     "feuchte": 59,
+     "druck": 1030,
      "niederschlag": 0,
      "tag": 1
     },
@@ -411,20 +410,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 58,
+     "windAus": 60,
      "uv": 1.9,
      "auf": "07:07",
      "unter": "16:31"
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 3,
-     "max": 10,
-     "min": 4,
+     "code": 2,
+     "max": 11,
+     "min": 5,
      "regen": 0,
      "menge": 0,
      "wind": 9,
-     "windAus": 82,
+     "windAus": 79,
      "uv": 1.9,
      "auf": "07:09",
      "unter": "16:29"
@@ -438,33 +437,33 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 58,
+      "windAus": 60,
       "uv": 1.9,
       "auf": "07:07",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-05",
-      "code": 3,
-      "max": 10,
-      "min": 4,
+      "code": 2,
+      "max": 11,
+      "min": 5,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 82,
+      "windAus": 79,
       "uv": 1.9,
       "auf": "07:09",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-06",
-      "code": 3,
-      "max": 7,
-      "min": 3,
+      "code": 45,
+      "max": 8,
+      "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 92,
+      "wind": 12,
+      "windAus": 91,
       "uv": 1.9,
       "auf": "07:11",
       "unter": "16:27"
@@ -473,11 +472,11 @@
       "datum": "2026-11-07",
       "code": 3,
       "max": 7,
-      "min": 2,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 116,
+      "windAus": 121,
       "uv": 1.9,
       "auf": "07:13",
       "unter": "16:26"
@@ -486,12 +485,12 @@
       "datum": "2026-11-08",
       "code": 3,
       "max": 8,
-      "min": 2,
+      "min": 3,
       "regen": 4,
-      "menge": 0,
-      "wind": 6,
-      "windAus": 142,
-      "uv": 0.8,
+      "menge": 0.1,
+      "wind": 4,
+      "windAus": 146,
+      "uv": 0.6,
       "auf": "07:15",
       "unter": "16:24"
      },
@@ -501,10 +500,10 @@
       "max": 7,
       "min": 4,
       "regen": 25,
-      "menge": 0,
-      "wind": 4,
-      "windAus": 243,
-      "uv": 1,
+      "menge": 0.2,
+      "wind": 5,
+      "windAus": 200,
+      "uv": 1.3,
       "auf": "07:17",
       "unter": "16:22"
      },
@@ -517,60 +516,12 @@
       "menge": 0,
       "wind": 4,
       "windAus": 272,
-      "uv": 1,
+      "uv": 1.7,
       "auf": "07:19",
       "unter": "16:21"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 10,
@@ -579,7 +530,7 @@
      },
      {
       "zeit": "16:00",
-      "grad": 9,
+      "grad": 10,
       "code": 2,
       "regen": 0
      },
@@ -591,31 +542,31 @@
      },
      {
       "zeit": "18:00",
-      "grad": 8,
+      "grad": 9,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 8,
+      "grad": 9,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 8,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 7,
+      "grad": 8,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 7,
+      "grad": 8,
       "code": 2,
       "regen": 0
      },
@@ -628,7 +579,7 @@
      {
       "zeit": "00:00",
       "grad": 7,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
@@ -646,7 +597,7 @@
      {
       "zeit": "03:00",
       "grad": 6,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -657,14 +608,62 @@
      },
      {
       "zeit": "05:00",
-      "grad": 6,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 5,
-      "code": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 10,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -675,12 +674,12 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 6,
-     "code": 2,
-     "gefuehlt": 3,
-     "wind": 9,
-     "windAus": 58,
-     "feuchte": 92,
+     "grad": 9,
+     "code": 3,
+     "gefuehlt": 5,
+     "wind": 12,
+     "windAus": 75,
+     "feuchte": 70,
      "druck": 1019,
      "niederschlag": 0,
      "tag": 1
@@ -692,8 +691,8 @@
      "min": 5,
      "regen": 3,
      "menge": 0,
-     "wind": 12,
-     "windAus": 62,
+     "wind": 14,
+     "windAus": 65,
      "uv": 2.1,
      "auf": "07:08",
      "unter": "16:38"
@@ -701,12 +700,12 @@
     "morgen": {
      "datum": "2026-11-05",
      "code": 3,
-     "max": 9,
+     "max": 10,
      "min": 3,
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 79,
+     "windAus": 80,
      "uv": 2.1,
      "auf": "07:10",
      "unter": "16:37"
@@ -719,8 +718,8 @@
       "min": 5,
       "regen": 3,
       "menge": 0,
-      "wind": 12,
-      "windAus": 62,
+      "wind": 14,
+      "windAus": 65,
       "uv": 2.1,
       "auf": "07:08",
       "unter": "16:38"
@@ -728,12 +727,12 @@
      {
       "datum": "2026-11-05",
       "code": 3,
-      "max": 9,
+      "max": 10,
       "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 79,
+      "windAus": 80,
       "uv": 2.1,
       "auf": "07:10",
       "unter": "16:37"
@@ -742,7 +741,7 @@
       "datum": "2026-11-06",
       "code": 3,
       "max": 9,
-      "min": 3,
+      "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 11,
@@ -754,39 +753,39 @@
      {
       "datum": "2026-11-07",
       "code": 45,
-      "max": 7,
+      "max": 8,
       "min": 3,
-      "regen": 2,
+      "regen": 3,
       "menge": 0,
-      "wind": 9,
-      "windAus": 119,
+      "wind": 8,
+      "windAus": 153,
       "uv": 2,
       "auf": "07:13",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
+      "code": 3,
       "max": 10,
-      "min": 5,
+      "min": 6,
       "regen": 10,
-      "menge": 2.3,
-      "wind": 6,
-      "windAus": 170,
-      "uv": 1.2,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 178,
+      "uv": 1.4,
       "auf": "07:15",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-09",
-      "code": 61,
+      "code": 45,
       "max": 9,
       "min": 6,
       "regen": 27,
-      "menge": 0.9,
-      "wind": 6,
-      "windAus": 153,
-      "uv": 1.7,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 124,
+      "uv": 1.8,
       "auf": "07:17",
       "unter": "16:30"
      },
@@ -799,60 +798,12 @@
       "menge": 0,
       "wind": 8,
       "windAus": 52,
-      "uv": 1.8,
+      "uv": 1.9,
       "auf": "07:19",
       "unter": "16:29"
      }
     ],
     "stunden": [
-     {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 0
-     },
      {
       "zeit": "15:00",
       "grad": 9,
@@ -880,25 +831,25 @@
      {
       "zeit": "19:00",
       "grad": 7,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 5,
+      "code": 1,
       "regen": 0
      },
      {
@@ -934,7 +885,7 @@
      {
       "zeit": "04:00",
       "grad": 4,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -948,6 +899,54 @@
       "grad": 3,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -957,25 +956,25 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 5,
-     "code": 3,
-     "gefuehlt": 1,
-     "wind": 12,
-     "windAus": 40,
-     "feuchte": 73,
-     "druck": 1023,
+     "grad": 11,
+     "code": 0,
+     "gefuehlt": 7,
+     "wind": 14,
+     "windAus": 92,
+     "feuchte": 53,
+     "druck": 1021,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 3,
-     "max": 12,
-     "min": 5,
+     "max": 11,
+     "min": 6,
      "regen": 0,
      "menge": 0,
      "wind": 16,
-     "windAus": 64,
+     "windAus": 69,
      "uv": 2.1,
      "auf": "07:29",
      "unter": "17:01"
@@ -987,8 +986,8 @@
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 111,
+     "wind": 13,
+     "windAus": 109,
      "uv": 2.1,
      "auf": "07:30",
      "unter": "16:59"
@@ -997,12 +996,12 @@
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 12,
-      "min": 5,
+      "max": 11,
+      "min": 6,
       "regen": 0,
       "menge": 0,
       "wind": 16,
-      "windAus": 64,
+      "windAus": 69,
       "uv": 2.1,
       "auf": "07:29",
       "unter": "17:01"
@@ -1014,8 +1013,8 @@
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 111,
+      "wind": 13,
+      "windAus": 109,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:59"
@@ -1023,26 +1022,26 @@
      {
       "datum": "2026-11-06",
       "code": 3,
-      "max": 12,
+      "max": 13,
       "min": 4,
       "regen": 2,
       "menge": 0,
       "wind": 9,
-      "windAus": 128,
-      "uv": 2,
+      "windAus": 125,
+      "uv": 2.1,
       "auf": "07:32",
       "unter": "16:58"
      },
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 10,
-      "min": 4,
-      "regen": 25,
+      "max": 9,
+      "min": 2,
+      "regen": 8,
       "menge": 0,
-      "wind": 7,
-      "windAus": 126,
-      "uv": 2,
+      "wind": 10,
+      "windAus": 128,
+      "uv": 0.8,
       "auf": "07:34",
       "unter": "16:56"
      },
@@ -1050,12 +1049,12 @@
       "datum": "2026-11-08",
       "code": 51,
       "max": 10,
-      "min": 3,
-      "regen": 24,
-      "menge": 1.2,
+      "min": 4,
+      "regen": 14,
+      "menge": 0.6,
       "wind": 8,
-      "windAus": 156,
-      "uv": 1,
+      "windAus": 149,
+      "uv": 1.8,
       "auf": "07:36",
       "unter": "16:55"
      },
@@ -1063,81 +1062,33 @@
       "datum": "2026-11-09",
       "code": 45,
       "max": 9,
-      "min": 2,
-      "regen": 25,
+      "min": 3,
+      "regen": 14,
       "menge": 0,
-      "wind": 11,
-      "windAus": 139,
-      "uv": 1.8,
+      "wind": 10,
+      "windAus": 121,
+      "uv": 1.9,
       "auf": "07:37",
       "unter": "16:53"
      },
      {
       "datum": "2026-11-10",
-      "code": 45,
-      "max": 8,
-      "min": 4,
-      "regen": 45,
-      "menge": 0,
-      "wind": 15,
-      "windAus": 109,
-      "uv": 1.9,
+      "code": 51,
+      "max": 9,
+      "min": 3,
+      "regen": 37,
+      "menge": 2,
+      "wind": 20,
+      "windAus": 128,
+      "uv": 1.7,
       "auf": "07:39",
       "unter": "16:51"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "15:00",
-      "grad": 12,
+      "grad": 11,
       "code": 0,
       "regen": 0
      },
@@ -1173,7 +1124,7 @@
      },
      {
       "zeit": "21:00",
-      "grad": 6,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -1191,19 +1142,19 @@
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -1230,6 +1181,54 @@
       "grad": 5,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1239,25 +1238,25 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 8,
-     "code": 3,
-     "gefuehlt": 4,
-     "wind": 11,
-     "windAus": 53,
-     "feuchte": 65,
-     "druck": 1016,
+     "grad": 10,
+     "code": 2,
+     "gefuehlt": 7,
+     "wind": 14,
+     "windAus": 69,
+     "feuchte": 54,
+     "druck": 1015,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 3,
-     "max": 12,
+     "max": 11,
      "min": 6,
      "regen": 3,
      "menge": 0,
      "wind": 16,
-     "windAus": 56,
+     "windAus": 58,
      "uv": 2.2,
      "auf": "07:19",
      "unter": "16:57"
@@ -1265,12 +1264,12 @@
     "morgen": {
      "datum": "2026-11-05",
      "code": 1,
-     "max": 13,
+     "max": 12,
      "min": 4,
      "regen": 0,
      "menge": 0,
-     "wind": 9,
-     "windAus": 48,
+     "wind": 10,
+     "windAus": 47,
      "uv": 2.2,
      "auf": "07:21",
      "unter": "16:55"
@@ -1279,12 +1278,12 @@
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 12,
+      "max": 11,
       "min": 6,
       "regen": 3,
       "menge": 0,
       "wind": 16,
-      "windAus": 56,
+      "windAus": 58,
       "uv": 2.2,
       "auf": "07:19",
       "unter": "16:57"
@@ -1292,12 +1291,12 @@
      {
       "datum": "2026-11-05",
       "code": 1,
-      "max": 13,
+      "max": 12,
       "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 48,
+      "wind": 10,
+      "windAus": 47,
       "uv": 2.2,
       "auf": "07:21",
       "unter": "16:55"
@@ -1305,12 +1304,12 @@
      {
       "datum": "2026-11-06",
       "code": 3,
-      "max": 9,
+      "max": 10,
       "min": 4,
-      "regen": 2,
+      "regen": 1,
       "menge": 0,
-      "wind": 7,
-      "windAus": 62,
+      "wind": 6,
+      "windAus": 58,
       "uv": 2.2,
       "auf": "07:23",
       "unter": "16:53"
@@ -1320,23 +1319,23 @@
       "code": 3,
       "max": 9,
       "min": 5,
-      "regen": 3,
-      "menge": 0.1,
-      "wind": 3,
-      "windAus": 122,
-      "uv": 2.1,
+      "regen": 4,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 134,
+      "uv": 0.6,
       "auf": "07:25",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-08",
-      "code": 63,
+      "code": 3,
       "max": 10,
-      "min": 4,
-      "regen": 18,
-      "menge": 5.3,
-      "wind": 3,
-      "windAus": 121,
+      "min": 5,
+      "regen": 11,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 81,
       "uv": 1.8,
       "auf": "07:26",
       "unter": "16:50"
@@ -1345,11 +1344,11 @@
       "datum": "2026-11-09",
       "code": 61,
       "max": 9,
-      "min": 5,
+      "min": 4,
       "regen": 46,
       "menge": 5.1,
       "wind": 6,
-      "windAus": 27,
+      "windAus": 35,
       "uv": 1.9,
       "auf": "07:28",
       "unter": "16:49"
@@ -1363,82 +1362,34 @@
       "menge": 7.8,
       "wind": 10,
       "windAus": 31,
-      "uv": 1.9,
+      "uv": 0.3,
       "auf": "07:30",
       "unter": "16:47"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
+      "zeit": "15:00",
       "grad": 10,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 11,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
-      "grad": 11,
-      "code": 0,
+      "grad": 10,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 10,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "18:00",
       "grad": 9,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1497,7 +1448,7 @@
      },
      {
       "zeit": "04:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1512,6 +1463,54 @@
       "grad": 4,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1521,12 +1520,12 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 6,
-     "code": 61,
-     "gefuehlt": 3,
+     "grad": 9,
+     "code": 3,
+     "gefuehlt": 5,
      "wind": 12,
-     "windAus": 63,
-     "feuchte": 72,
+     "windAus": 69,
+     "feuchte": 64,
      "druck": 995,
      "niederschlag": 0,
      "tag": 1
@@ -1534,12 +1533,12 @@
     "heute": {
      "datum": "2026-11-04",
      "code": 61,
-     "max": 10,
+     "max": 9,
      "min": 5,
-     "regen": 3,
+     "regen": 10,
      "menge": 0,
      "wind": 13,
-     "windAus": 73,
+     "windAus": 76,
      "uv": 1.7,
      "auf": "07:14",
      "unter": "16:58"
@@ -1547,12 +1546,12 @@
     "morgen": {
      "datum": "2026-11-05",
      "code": 2,
-     "max": 12,
-     "min": 4,
+     "max": 11,
+     "min": 3,
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 108,
+     "windAus": 102,
      "uv": 2.3,
      "auf": "07:16",
      "unter": "16:57"
@@ -1561,12 +1560,12 @@
      {
       "datum": "2026-11-04",
       "code": 61,
-      "max": 10,
+      "max": 9,
       "min": 5,
-      "regen": 3,
+      "regen": 10,
       "menge": 0,
       "wind": 13,
-      "windAus": 73,
+      "windAus": 76,
       "uv": 1.7,
       "auf": "07:14",
       "unter": "16:58"
@@ -1574,52 +1573,52 @@
      {
       "datum": "2026-11-05",
       "code": 2,
-      "max": 12,
-      "min": 4,
+      "max": 11,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 108,
+      "windAus": 102,
       "uv": 2.3,
       "auf": "07:16",
       "unter": "16:57"
      },
      {
       "datum": "2026-11-06",
-      "code": 61,
+      "code": 3,
       "max": 8,
       "min": 4,
-      "regen": 2,
-      "menge": 0.1,
-      "wind": 5,
-      "windAus": 128,
+      "regen": 10,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 136,
       "uv": 2.2,
       "auf": "07:17",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-07",
-      "code": 45,
-      "max": 10,
-      "min": 4,
-      "regen": 5,
+      "code": 3,
+      "max": 11,
+      "min": 5,
+      "regen": 9,
       "menge": 0,
       "wind": 3,
-      "windAus": 161,
+      "windAus": 163,
       "uv": 1.5,
       "auf": "07:19",
       "unter": "16:54"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
-      "max": 10,
-      "min": 4,
+      "code": 45,
+      "max": 13,
+      "min": 5,
       "regen": 17,
-      "menge": 4.5,
-      "wind": 7,
-      "windAus": 174,
-      "uv": 2,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 184,
+      "uv": 1.8,
       "auf": "07:20",
       "unter": "16:52"
      },
@@ -1627,12 +1626,12 @@
       "datum": "2026-11-09",
       "code": 61,
       "max": 11,
-      "min": 8,
+      "min": 7,
       "regen": 58,
-      "menge": 15,
+      "menge": 9.5,
       "wind": 4,
-      "windAus": 180,
-      "uv": 2,
+      "windAus": 183,
+      "uv": 1.8,
       "auf": "07:22",
       "unter": "16:51"
      },
@@ -1645,111 +1644,63 @@
       "menge": 19.8,
       "wind": 4,
       "windAus": 14,
-      "uv": 1.6,
+      "uv": 0.2,
       "auf": "07:24",
       "unter": "16:49"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "09:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
+      "zeit": "15:00",
       "grad": 9,
       "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 2,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 10,
-      "code": 2,
+      "grad": 8,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 10,
-      "code": 1,
+      "grad": 8,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 9,
-      "code": 1,
+      "grad": 8,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 8,
-      "code": 1,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 5,
-      "code": 0,
+      "grad": 6,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -1762,13 +1713,13 @@
      {
       "zeit": "01:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1780,19 +1731,67 @@
      {
       "zeit": "04:00",
       "grad": 4,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "05:00",
+      "grad": 3,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
       "grad": 4,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "06:00",
-      "grad": 4,
+      "zeit": "10:00",
+      "grad": 6,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1803,26 +1802,26 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 4,
+     "grad": 6,
      "code": 3,
-     "gefuehlt": 0,
-     "wind": 16,
-     "windAus": 82,
-     "feuchte": 83,
-     "druck": 962,
+     "gefuehlt": 2,
+     "wind": 15,
+     "windAus": 86,
+     "feuchte": 72,
+     "druck": 963,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 3,
-     "max": 7,
+     "max": 6,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 16,
-     "windAus": 85,
-     "uv": 2,
+     "wind": 17,
+     "windAus": 87,
+     "uv": 1.9,
      "auf": "07:03",
      "unter": "16:50"
     },
@@ -1833,7 +1832,7 @@
      "min": 2,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
+     "wind": 10,
      "windAus": 89,
      "uv": 2.4,
      "auf": "07:04",
@@ -1843,13 +1842,13 @@
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 7,
+      "max": 6,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 16,
-      "windAus": 85,
-      "uv": 2,
+      "wind": 17,
+      "windAus": 87,
+      "uv": 1.9,
       "auf": "07:03",
       "unter": "16:50"
      },
@@ -1860,7 +1859,7 @@
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
+      "wind": 10,
       "windAus": 89,
       "uv": 2.4,
       "auf": "07:04",
@@ -1870,11 +1869,11 @@
       "datum": "2026-11-06",
       "code": 45,
       "max": 4,
-      "min": 3,
-      "regen": 2,
+      "min": 2,
+      "regen": 10,
       "menge": 0,
-      "wind": 8,
-      "windAus": 103,
+      "wind": 7,
+      "windAus": 94,
       "uv": 2.3,
       "auf": "07:06",
       "unter": "16:47"
@@ -1883,24 +1882,24 @@
       "datum": "2026-11-07",
       "code": 45,
       "max": 9,
-      "min": 2,
-      "regen": 11,
+      "min": 4,
+      "regen": 30,
       "menge": 0,
-      "wind": 4,
-      "windAus": 117,
-      "uv": 1,
+      "wind": 5,
+      "windAus": 121,
+      "uv": 0.4,
       "auf": "07:08",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
+      "code": 45,
       "max": 9,
-      "min": 2,
-      "regen": 19,
-      "menge": 0.2,
-      "wind": 6,
-      "windAus": 116,
+      "min": 3,
+      "regen": 8,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 133,
       "uv": 2.2,
       "auf": "07:09",
       "unter": "16:44"
@@ -1911,10 +1910,10 @@
       "max": 9,
       "min": 6,
       "regen": 39,
-      "menge": 12.9,
+      "menge": 12.1,
       "wind": 8,
-      "windAus": 171,
-      "uv": 2.1,
+      "windAus": 169,
+      "uv": 1.9,
       "auf": "07:11",
       "unter": "16:43"
      },
@@ -1927,33 +1926,129 @@
       "menge": 8.8,
       "wind": 9,
       "windAus": 105,
-      "uv": 2,
+      "uv": 0.2,
       "auf": "07:12",
       "unter": "16:42"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 4,
+      "zeit": "15:00",
+      "grad": 6,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 2,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 2,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 2,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 2,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 2,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 2,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 2,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
@@ -1972,117 +2067,21 @@
      {
       "zeit": "13:00",
       "grad": 7,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
+      "grad": 8,
       "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 2,
-      "code": 51,
       "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 7 und 12 Grad.",
-   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten bewölkt, im Süden und Westen teils bewölkt.",
+   "Heute liegen die Höchstwerte zwischen 6 und 11 Grad.",
+   "Die Vorhersage für morgen, Donnerstag, im ganzen Land: teils bewölkt.",
    "Die Temperaturen erreichen dann 9 bis 13 Grad.",
    "Am wärmsten wird es in Köln mit 13 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
@@ -2119,13 +2118,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
+       "grad": 11,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 11,
        "regen": 0
       },
       {
@@ -2142,7 +2141,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
+       "grad": 10,
        "regen": 0
       },
       {
@@ -2165,7 +2164,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
+       "grad": 13,
        "regen": 0
       },
       {
@@ -2188,7 +2187,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
+       "grad": 12,
        "regen": 0
       },
       {
@@ -2211,7 +2210,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
+       "grad": 11,
        "regen": 0
       },
       {
@@ -2246,7 +2245,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       }
      ]
@@ -5630,7 +5629,7 @@
       24.57,
       29.28,
       38.36,
-      46.0,
+      46,
       53.83,
       61.12
      ]
@@ -9857,629 +9856,6 @@
       24.14,
       29.06,
       36.67
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ig-metall-warnstreiks",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-01T09:16:00.000Z",
-   "aktualisiert": "aktualisiert um 19:52 Uhr",
-   "titel": "IG Metall startet bundesweite Warnstreiks nach Ende der Friedenspflicht",
-   "vorspann": "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag erste Warnstreiks begonnen. Die Gewerkschaft IG Metall will damit in den laufenden Tarifverhandlungen für rund 3,7 Millionen Beschäftigte den Druck auf die Arbeitgeberseite erhöhen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Nach dem Ende der Friedenspflicht um Mitternacht hat die IG Metall in der deutschen Metall- und Elektroindustrie mit ersten Warnstreiks begonnen.",
-    "Beschäftigte der Nachtschichten legten unter anderem in Andernach, Hildesheim und München zeitweise die Arbeit nieder und demonstrierten vor Werkstoren.",
-    "Die Gewerkschaft fordert bei einer Laufzeit von zwölf Monaten fünf Prozent mehr Geld, eine soziale Komponente für untere Entgeltgruppen sowie Jobgarantien.",
-    "Die Arbeitgeber bieten eine Einmalzahlung für 2027 und 1,3 Prozent mehr Entgelt im Jahr 2028 bei einer Gesamtlaufzeit bis Ende 2028.",
-    "Für die kommende Woche kündigte die IG Metall eine bundesweite Ausweitung der Arbeitsniederlegungen an."
-   ],
-   "einig": [
-    [
-     "Die IG Metall hat in der Nacht nach Ablauf der Friedenspflicht um Mitternacht mit Warnstreiks begonnen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die Tarifverhandlungen betreffen rund 3,7 Millionen Beschäftigte in der Metall- und Elektroindustrie.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Betroffen sind unter anderem Branchen wie Autobau, Maschinenbau, Elektro und Metallverarbeitung.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die IG Metall fordert fünf Prozent mehr Entgelt bei einer Laufzeit von zwölf Monaten sowie Regelungen zur Beschäftigungssicherung.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Das Angebot der Arbeitgeber sieht eine Einmalzahlung im Jahr 2027 und eine Erhöhung um 1,3 Prozent im Juli 2028 vor.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Zu den ersten bestreikten Betrieben gehörte Thyssenkrupp Rasselstein in Andernach.",
-     [
-      "Tagesschau/ARD",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Zu den bestreikten Betrieben gehörte KSM Castings in Hildesheim.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ],
-    [
-     "Gewerkschaftschefin Christiane Benner hatte zuvor starke Warnstreiks angekündigt und auf Unverständnis in den Betrieben verwiesen.",
-     [
-      "Tagesschau/ARD",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die Arbeitgeber begründen ihr Angebot mit der schwierigen Wirtschaftslage und hohen Kostenbelastungen.",
-     [
-      "Tagesschau/ARD",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die Proteste sollen in der kommenden Woche bundesweit ausgeweitet werden.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Gesamtdauer und der konkrete tägliche Umfang der geplanten Warnstreiks in der kommenden Woche sind laut ZDFheute noch nicht absehbar."
-   ],
-   "positionen": [
-    [
-     "IG Metall (vertreten durch Christiane Benner, Jörg Köhlinger, Thorsten Gröger, André Arenz)",
-     "Fordert fünf Prozent mehr Lohn, Gewinnbeteiligungen und Beschäftigungssicherung; kritisiert das Arbeitgeberangebot als unzureichend und mit Reallohnverlusten verbunden.",
-     "Tagesschau/ARD, ZDFheute, Süddeutsche Zeitung"
-    ],
-    [
-     "Arbeitgeberverbände der Metall- und Elektroindustrie",
-     "Bieten eine Einmalzahlung für Juli 2027 sowie 1,3 Prozent Erhöhung ab Juli 2028 bei langer Laufzeit bis Ende 2028; begründen dies mit schwieriger Wirtschaftslage und hohen Standortkosten.",
-     "Tagesschau/ARD, ZDFheute, Süddeutsche Zeitung"
-    ]
-   ],
-   "fehlend": "Namentliche Vertreter oder Spitzenfunktionäre der Arbeitgeberverbände mit direkten Stellungnahmen kommen in den Berichten nicht zu Wort.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 04:48",
-     "fokus": "Auftakt der Warnstreiks",
-     "text": "Berichtet über den Beginn der Arbeitsniederlegungen kurz nach Mitternacht und stellt die Forderungen der Gewerkschaft dem Gegenangebot der Arbeitgeber gegenüber. Betont die Betroffenheit von Kernbranchen der Industrie.",
-     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-warnstreiks-108.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 1,
-      "woerter": 263,
-      "satzlaenge": 16,
-      "langeWoerter": 40
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 10:16",
-     "fokus": "Hintergründe und Streikrecht",
-     "text": "Erläutert ausführlich den Unterschied zwischen Warnstreiks und regulären Streiks mit Urabstimmung. Zitiert Stimmen von Bezirksleitern und hebt Kundgebungen in Hildesheim hervor.",
-     "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreiks-elektro-industrie-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 578,
-      "satzlaenge": 15,
-      "langeWoerter": 38
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "01.11.26, 04:33",
-     "fokus": "Regionale Aktionen",
-     "text": "Fokussiert auf konkrete Proteste in Andernach und München sowie Aussagen des Bezirksleiters Mitte. Verweist auf die wirtschaftlichen Spannungen und die Bedeutung für Kaufkraft und Industriestandorte.",
-     "url": "https://www.sueddeutsche.de/wirtschaft/ig-metall-warnstreiks-autobau-maschinenbau-elektronik-metall-li.3572277",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 296,
-      "satzlaenge": 16,
-      "langeWoerter": 38
-     },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Erwähnte Betriebe",
-     "Die Süddeutsche Zeitung nennt als einzige Quelle eine Aktion bei RF 360 Europe/Qualcomm in München; ZDFheute erwähnt KSM Castings in Hildesheim, Tagesschau/ARD nennt Hildesheim und Andernach."
-    ],
-    [
-     "Erklärung des Streikrechts",
-     "ZDFheute liefert als einzige Quelle eine detaillierte rechtliche Erklärung zu Warnstreiks, Urabstimmungen und historischen Streiks von 2002."
-    ],
-    [
-     "Zitierte Gewerkschaftsvertreter",
-     "ZDFheute zitiert Thorsten Gröger und André Arenz; die Süddeutsche Zeitung zitiert Jörg Köhlinger; Tagesschau und Süddeutsche zitieren Christiane Benner."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Gewerkschaft IG Metall und Arbeitgeberverbände der Metall- und Elektroindustrie",
-    "was": "Beginn von befristeten Warnstreiks nach dem Ende der Friedenspflicht",
-    "wann": "1. November 2026, ab Mitternacht",
-    "wo": "Deutschlandweit in verschiedenen Betrieben",
-    "wie": "Durch zeitlich befristete Arbeitsniederlegungen von Nachtschichten und Kundgebungen vor Werkstoren",
-    "warum": "IG Metall fordert mehr Lohn; Arbeitgeberangebot liegt laut Gewerkschaft unter der Inflationsrate",
-    "quellenlage": "Mitteilungen von Gewerkschaftsvertretern, Arbeitgeberangaben und Medienberichte von ARD, ZDF und SZ"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag erste befristete Arbeitsniederlegungen begonnen. Die Gewerkschaft IG Metall rief Beschäftigte unmittelbar nach Ablauf der sogenannten Friedenspflicht um Mitternacht dazu auf, die Arbeit ruhen zu lassen. Betroffen von den ersten Aktionen waren Betriebe in mehreren Bundesländern, in denen Mitarbeiterinnen und Mitarbeiter der Nachtschichten ihre Tätigkeit niederlegten. Mit diesen ersten Protesten reagiert die Gewerkschaft auf den bisherigen Verlauf der Tarifverhandlungen, die für rund 3,7 Millionen Beschäftigte geführt werden. In den bisherigen zwei Verhandlungsrunden konnten sich beide Seiten nicht auf ein Ergebnis einigen.",
-      "Die ersten Arbeitsniederlegungen fanden unter anderem beim Weißblechhersteller Thyssenkrupp Rasselstein im rheinland-pfälzischen Andernach sowie beim Automobilzulieferer KSM Castings im niedersächsischen Hildesheim statt. Zudem gab es nach Angaben der Süddeutschen Zeitung eine Protestaktion beim Mobilfunkzulieferer RF 360 Europe beziehungsweise Qualcomm in München. Nach Angaben der beteiligten Gewerkschaftsbezirke traten die Beschäftigten zu Kundgebungen vor den Werkstoren zusammen. In Andernach und Hildesheim versammelten sich jeweils rund 300 Arbeitnehmerinnen und Arbeitnehmer, um ihren Forderungen Nachdruck zu verleihen. Die Aktionen verliefen im Rahmen der von der Gewerkschaft angekündigten Protestlinie.",
-      "Die Gewerkschaft plant, die Arbeitsniederlegungen im Laufe der kommenden Woche auf das gesamte Bundesgebiet auszuweiten. Betroffen von diesen zeitlich befristeten Ausständen sind Kernbereiche der deutschen Wirtschaft wie die Automobilindustrie, der Maschinenbau, die Elektrobranche sowie die Metallerzeugung und Metallverarbeitung. Laut ZDFheute sind Ausmaß und genaue Dauer der kommenden Aktionen zwar noch nicht im Einzelnen absehbar, flächendeckende Ausstände seien jedoch fest eingeplant. Die Gewerkschaftsführung will mit den Maßnahmen erreichen, dass die Arbeitgeberseite ihr bisheriges Tarifangebot nachbessert."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Im Zentrum des Tarifkonflikts stehen deutliche Unterschiede bei den Vorstellungen über Entgelte und Laufzeiten. Die IG Metall fordert für die Beschäftigten sowie für Auszubildende eine Erhöhung der Einkommen um fünf Prozent bei einer Vertragslaufzeit von zwölf Monaten. Zudem verlangt die Gewerkschaft eine sogenannte soziale Komponente, die insbesondere Beschäftigten in niedrigeren Entgeltgruppen zugutekommen soll. Ein weiterer Punkt im Forderungskatalog ist eine Beteiligung der Beschäftigten am finanziellen Gewinn in wirtschaftlich erfolgreichen Unternehmen. Darüber hinaus verlangt die Arbeitnehmervertretung verbindliche Vereinbarungen zur Sicherung von Arbeitsplätzen und Betriebsstandorten.",
-      "Demgegenüber steht ein Angebot der Arbeitgeberseite, das in der zweiten Verhandlungsrunde unterbreitet wurde. Dieses Angebot sieht für den Juli 2027 eine Einmalzahlung in Höhe von einem Prozent des durchschnittlichen tariflichen Jahresbruttoeinkommens vor. Eine dauerhafte tabellenwirksame Entgelterhöhung um 1,3 Prozent soll nach den Vorstellungen der Arbeitgeberverbände erst ab Juli 2028 greifen. Zudem streben die Unternehmen eine deutlich längere Laufzeit des Tarifvertrags an, die bis zum Ende des Jahres 2028 reichen soll. Die Gewerkschaft wies diese Offerte als unzureichend zurück, da sie rechnerisch unterhalb der aktuellen Preissteigerungsrate liege.",
-      "Die Auftaktaktionen in der Nacht markierten das offizielle Ende der tariflichen Verpflichtung zur Arbeitsruhe. In Hildesheim gab der IG-Metall-Bezirk Niedersachsen und Sachsen-Anhalt um Mitternacht das Startsignal für die Arbeitsniederlegungen vor dem KSM-Castings-Werk. Zur selben Zeit versammelte sich die Nachtschicht bei Thyssenkrupp Rasselstein in Andernach. Die Süddeutsche Zeitung berichtete parallel über die Aktion in der bayerischen Landeshauptstadt München. Nach diesen ersten Mitternachtsaktionen und kleineren Ausständen am Sonntag sind laut den Berichten für die anstehende Arbeitswoche größere Demonstrationen im gesamten Bundesgebiet angekündigt."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die Verhandlungen betreffen die wirtschaftliche Basis wichtiger Industriezweige in Deutschland. Nach Angaben von ZDFheute haben sich die IG Metall und die Arbeitgeberverbände in den bisherigen zwei Verhandlungsrunden nicht auf einen neuen Tarifvertrag für die rund 3,7 Millionen Beschäftigten einigen können. Das Angebot der Unternehmerverbände stieß bei der Gewerkschaftsspitze auf entschiedene Ablehnung. Die IG Metall argumentiert, dass die Beschäftigten angesichts der Preissteigerungen eine spürbare Stärkung ihrer Kaufkraft benötigen. Ein Verzicht helfe nach Auffassung von IG-Metall-Vorstandsmitglied André Arenz weder den Beschäftigten noch den Standorten oder der Konjunktur.",
-      "Die Arbeitgeberseite begründet ihre Zurückhaltung und die vergleichsweise späten Erhöhungsschritte mit den wirtschaftlichen Rahmenbedingungen. Nach Angaben der Berichterstatter verweisen die Unternehmen auf eine schwierige wirtschaftliche Gesamtlage und hohe Kostenbelastungen am Standort Deutschland. Die Industrie stehe vor großen Herausforderungen, weshalb die Personalkosten nicht übermäßig steigen dürften. Dieser grundlegende Interessengegensatz führte dazu, dass unmittelbar nach Ablauf der vereinbarten Frist keine Annäherung erzielt werden konnte. Die Warnstreiks stellen das klassische Instrument dar, um in einer solchen Phase Bewegung in die Gespräche zu bringen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ein Warnstreik unterscheidet sich von einem regulären Streik. Es handelt sich um eine zeitlich befristete Arbeitsniederlegung während laufender Tarifverhandlungen. Das Mittel dient dazu, die Entschlossenheit der Belegschaften zu zeigen und den Verhandlungsdruck auf die Gegenseite zu erhöhen. Voraussetzung für die Rechtmäßigkeit ist das Ende der Friedenspflicht, die während der Laufzeit eines alten Tarifvertrags gilt. Zudem muss die Maßnahme verhältnismäßig sein und darf nur tarifvertraglich regelbare Ziele verfolgen. Für einen Warnstreik bedarf es im Vorfeld keiner Urabstimmung unter den Gewerkschaftsmitgliedern.",
-      "Ein unbefristeter Streik hingegen zielt darauf ab, ein Tarifziel durchzusetzen, und erfordert nach den Statuten der IG Metall eine vorherige Urabstimmung. Dabei müssen sich mindestens 75 Prozent der stimmberechtigten Mitglieder in geheimer Wahl für den Streik aussprechen. Eine gesetzliche Pflicht zu einer solchen Abstimmung gibt es im deutschen Arbeitsrecht nicht, die Satzung der Gewerkschaft schreibt sie jedoch vor. In der Metall- und Elektroindustrie gab es im Jahr 2002 die letzten regulären Streiks in den Tarifgebieten Baden-Württemberg und Berlin-Brandenburg. Warnstreiks nutzt die IG Metall auch dazu, neue Mitglieder zu gewinnen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Die Vorsitzende der IG Metall, Christiane Benner, begründete die Arbeitsniederlegungen mit der Unzufriedenheit in den Betrieben. Das Arbeitgeberangebot habe bei den Beschäftigten Unverständnis und Wut ausgelöst. Es gehe nun darum, Kaufkraft und Zukunft für alle am Standort abzusichern. Jörg Köhlinger, der Leiter des IG-Metall-Bezirks Mitte, erklärte vor Streikenden in Andernach, die Arbeitgeberseite betrachte die Belegschaften offenbar nur als reine Kostenfaktoren. Der Ausstand bei Thyssenkrupp Rasselstein sei lediglich der Auftakt einer massiven Warnstreikphase.",
-      "Kritik am Angebot der Unternehmen kam auch aus anderen Bezirken und von weiteren Vorstandsmitgliedern der Gewerkschaft. Thorsten Gröger, IG-Metall-Bezirksleiter für Niedersachsen und Sachsen-Anhalt, warf den Arbeitgebern vor, die Beschäftigten mit Mini-Prozenten abspeisen zu wollen. Nun würden die Belegschaften das Wort ergreifen. IG-Metall-Vorstandsmitglied André Arenz sprach von einem Angebot, das zu Reallohnverlusten führe. Verzicht rette weder Standorte noch Arbeitsplätze oder die Konjunktur. Die Arbeitgeberseite wiederum rechtfertigte ihre Position mit der anhaltend schwierigen Wirtschaftslage der Betriebe."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Für die kommende Woche kündigte die IG Metall eine Ausweitung der Aktionen an. Geplant sind Protestveranstaltungen, Kundgebungen und weitere Arbeitsniederlegungen im gesamten Bundesgebiet. Die Gewerkschaft will damit vor der nächsten Verhandlungsrunde verdeutlichen, dass die Beschäftigten hinter den gestellten Forderungen stehen. Wann die Verhandlungskommissionen beider Seiten erneut zusammentreffen, geht aus den vorliegenden Berichten nicht hervor. Die Dauer und Intensität der anstehenden Warnstreiks werden maßgeblich vom weiteren Verlauf der Tarifgespräche abhängen."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2026-11-01",
-     "Ablauf der Friedenspflicht um Mitternacht und Beginn der Warnstreiks der IG Metall"
-    ],
-    [
-     "Bisherige Verhandlungsrunden",
-     "IG Metall und Arbeitgeber erzielen in zwei Runden keine Einigung"
-    ],
-    [
-     "2026-11-01, 00:00 Uhr",
-     "Ende der tariflichen Friedenspflicht"
-    ],
-    [
-     "2026-11-01, Nacht",
-     "Erste befristete Warnstreiks der Nachtschichten in Andernach, Hildesheim und München"
-    ],
-    [
-     "Kommende Woche",
-     "Geplante Ausweitung der Warnstreiks und Demonstrationen im gesamten Bundesgebiet"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Christiane Benner",
-     "bildunterschrift": "Christiane Benner ist die Erste Vorsitzende der Gewerkschaft IG Metall."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "IG Metall",
-     "bildunterschrift": "Die IG Metall vertritt die Interessen von rund 3,7 Millionen Beschäftigten in der Metall- und Elektroindustrie."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Andernach",
-     "bildunterschrift": "In Andernach in Rheinland-Pfalz legten Beschäftigte des Weißblechherstellers Thyssenkrupp Rasselstein in der Nacht die Arbeit nieder."
-    }
-   ],
-   "ort": {
-    "name": "Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "In der Zusammenfassung wurde 'Einmalzahlungen für untere Entgeltgruppen' zu 'eine soziale Komponente für untere Entgeltgruppen' korrigiert, da die Quellen von einer sozialen Komponente und nicht von Einmalzahlungen für diese Gruppe sprechen.",
-    "Im ersten Absatz des Artikels wurde die wertende Wendung 'Fronten gelten als verhärtet' durch die belegte Tatsache ersetzt, dass zwei Runden ohne Einigung blieben."
-   ],
-   "wortwarnung": [
-    "massiven"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Warnstreik",
-      "Eine zeitlich begrenzte Arbeitsniederlegung während Tarifverhandlungen, um Druck auf die Arbeitgeber auszuüben."
-     ],
-     [
-      "Friedenspflicht",
-      "Ein Zeitraum während eines gültigen Tarifvertrags, in dem Streiks gesetzlich verboten sind."
-     ],
-     [
-      "Urabstimmung",
-      "Eine geheime Wahl unter Gewerkschaftsmitgliedern, bei der über einen unbefristeten Streik entschieden wird."
-     ],
-     [
-      "Reallohnverlust",
-      "Das Absinken der Kaufkraft, wenn die Preise schneller steigen als die Löhne."
-     ]
-    ],
-    "fragen": [
-     "Warum nutzen Gewerkschaften zunächst zeitlich befristete Warnstreiks statt sofort unbefristet zu streiken?",
-     "Welche wirtschaftlichen Argumente sprechen für höhere Löhne und welche für Zurückhaltung der Unternehmen?",
-     "Wie beeinflussen Berichte über Warnstreiks die öffentliche Meinung zu Arbeitskämpfen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wann begannen die ersten Warnstreiks in der Metall- und Elektroindustrie?",
-      "optionen": [
-       "Unmittelbar nach Ablauf der Friedenspflicht um Mitternacht",
-       "Erst nach einer Urabstimmung der Gewerkschaftsmitglieder",
-       "Nach der dritten erfolglosen Verhandlungsrunde am Nachmittag"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Arbeitsniederlegungen begannen direkt nach dem Auslaufen der Friedenspflicht um Mitternacht."
-     },
-     {
-      "frage": "Wie viel Prozent mehr Lohn fordert die Gewerkschaft IG Metall bei einer Laufzeit von zwölf Monaten?",
-      "optionen": [
-       "1,3 Prozent",
-       "5 Prozent",
-       "7,5 Prozent"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die IG Metall fordert fünf Prozent mehr Entgelt für Beschäftigte und Auszubildende bei einer Laufzeit von zwölf Monaten."
-     },
-     {
-      "frage": "Wie viele Beschäftigte sind von den Tarifverhandlungen in der Branche betroffen?",
-      "optionen": [
-       "Rund 300 Beschäftigte",
-       "Rund 1,3 Millionen Beschäftigte",
-       "Rund 3,7 Millionen Beschäftigte"
-      ],
-      "richtig": 2,
-      "erklaerung": "Die Tarifverhandlungen in der deutschen Metall- und Elektroindustrie betreffen rund 3,7 Millionen Beschäftigte."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Deutschland haben Warnstreiks in großen Industriebetrieben begonnen. Die Gewerkschaft IG Metall möchte damit mehr Lohn für 3,7 Millionen Beschäftigte durchsetzen.",
-    "absaetze": [
-     "In der Nacht zum Sonntag haben Arbeiterinnen und Arbeiter in mehreren Fabriken kurz aufgehört zu arbeiten. Das geschah zum Beispiel in Firmen in Andernach, Hildesheim und München. Die Beschäftigten trafen sich vor den Werkstoren zu Protesten.",
-     "Ein Warnstreik ist eine kurze Arbeitsunterbrechung. Die Gewerkschaft darf dazu aufrufen, wenn eine bestimmte Ruhezeit vorbei ist. Mit der Aktion wollen die Beschäftigten den Chefinnen und Chefs zeigen, dass sie unzufrieden sind.",
-     "Die Gewerkschaft IG Metall verlangt fünf Prozent mehr Geld für die Arbeiter und die Auszubildenden. Außerdem fordert sie Schutz für Arbeitsplätze und eine Beteiligung am Firmengewinn.",
-     "Die Arbeitgeber bieten bisher weniger an. Sie wollen erst im Juli 2027 eine Einmalzahlung leisten und ab Juli 2028 die Löhne um 1,3 Prozent anheben. Sie begründen das mit hohen Kosten.",
-     "In der neuen Woche sollen die Warnstreiks in ganz Deutschland weitergehen. Betroffen sind wichtige Branchen wie der Bau von Autos, Maschinen und Elektrogeräten."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In der deutschen Metall- und Elektroindustrie haben in der Nacht erste Warnstreiks begonnen.",
-     "Die Gewerkschaft IG Metall fordert fünf Prozent mehr Lohn für rund drei Komma sieben Millionen Beschäftigte.",
-     "Die Arbeitgeber bieten bisher eine Einmalzahlung für zweitausendsiebenundzwanzig und ein Prozent mehr Geld ab zweitausendachtundzwanzig.",
-     "In der kommenden Woche will die Gewerkschaft die Proteste auf ganz Deutschland ausweiten."
-    ],
-    "lang": [
-     "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag erste Warnstreiks begonnen.",
-     "Mitarbeiter der Nachtschicht legten unter anderem in Andernach und in Hildesheim befristet die Arbeit nieder.",
-     "Hintergrund sind die laufenden Tarifverhandlungen für rund drei Komma sieben Millionen Beschäftigte.",
-     "Die Gewerkschaft IG Metall fordert fünf Prozent mehr Geld bei einer Laufzeit von zwölf Monaten.",
-     "Außerdem verlangt sie Regelungen zur Sicherung von Arbeitsplätzen und eine Gewinnbeteiligung.",
-     "Die Arbeitgeber bieten dagegen eine Einmalzahlung im Juli zweitausendsiebenundzwanzig und ein Komma drei Prozent mehr Geld ab Juli zweitausendachtundzwanzig.",
-     "Die Gewerkschaftsvorsitzende Christiane Benner bezeichnete das Angebot als unzureichend.",
-     "Die Arbeitgeber begründen ihre Haltung mit der schwierigen Wirtschaftslage und hohen Kosten am Standort Deutschland.",
-     "In den bisherigen zwei Verhandlungsrunden erzielten beide Seiten keine Einigung.",
-     "Für die kommende Woche kündigte die Gewerkschaft weitere Arbeitsniederlegungen im gesamten Bundesgebiet an."
-    ],
-    "einfach": [
-     "In deutschen Fabriken haben erste Warnstreiks begonnen.",
-     "Arbeiter legten in der Nacht die Arbeit nieder.",
-     "Die Gewerkschaft IG Metall will mehr Lohn für viele Beschäftigte.",
-     "Sie fordert fünf Prozent mehr Geld und sichere Jobs.",
-     "Die Firmen bieten weniger Geld an und verweisen auf hohe Kosten.",
-     "In den nächsten Tagen soll es weitere Proteste in ganz Deutschland geben."
-    ]
-   },
-   "kurz": [
-    "IG Metall startete bundesweite Warnstreiks nach dem Ende der Friedenspflicht um Mitternacht.",
-    "Rund 3,7 Millionen Beschäftigte der Metall- und Elektroindustrie sind von den Verhandlungen betroffen.",
-    "Die Gewerkschaft fordert fünf Prozent mehr Lohn sowie Arbeitsplatzsicherung.",
-    "Arbeitgeber bieten eine Einmalzahlung 2027 und 1,3 Prozent mehr Geld ab Juli 2028."
-   ],
-   "fakten": [
-    [
-     "Betroffene Beschäftigte",
-     "3,7 Millionen"
-    ],
-    [
-     "Forderung Lohnerhöhung",
-     "5 Prozent"
-    ],
-    [
-     "Geforderte Vertragslaufzeit",
-     "12 Monate"
-    ],
-    [
-     "Angebotene Einmalzahlung",
-     "1 Prozent im Juli 2027"
-    ],
-    [
-     "Angebotene Lohnerhöhung",
-     "1,3 Prozent ab Juli 2028"
-    ],
-    [
-     "Angebotene Vertragslaufzeit",
-     "bis Ende 2028"
-    ]
-   ],
-   "dossier": {
-    "slug": "tarifrunde-metall-und-elektroindustrie",
-    "titel": "Tarifrunde in der Metall- und Elektroindustrie"
-   },
-   "bildInfo": {
-    "titel": "Unkürzbar Nbg Sept 2026 Christiane Benner 26.jpg",
-    "beschreibung": "#Unkürzbardemonstration in Nürnberg, Sept. 2026",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg/1280px-Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg",
-    "urheber": "Kasa Fue",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Christiane Benner",
-    "sprache": "de",
-    "art": "person",
-    "suchbegriff": "Christiane Benner",
-    "bildunterschrift": "Christiane Benner ist die Vorsitzende der Gewerkschaft IG Metall, die zu den Warnstreiks aufgerufen hat.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Unkürzbar Nbg Sept 2026 Christiane Benner 26.jpg",
-     "beschreibung": "#Unkürzbardemonstration in Nürnberg, Sept. 2026",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg/1280px-Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Unk%C3%BCrzbar_Nbg_Sept_2026_Christiane_Benner_26.jpg",
-     "urheber": "Kasa Fue",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Christiane Benner",
-     "sprache": "de",
-     "art": "person",
-     "suchbegriff": "Christiane Benner",
-     "bildunterschrift": "Christiane Benner ist die Vorsitzende der Gewerkschaft IG Metall, die zu den Warnstreiks aufgerufen hat.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Tesla-workers-against-fascism.jpg",
-     "beschreibung": "Tesla Workers Against Fascism",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Tesla-workers-against-fascism.jpg/1280px-Tesla-workers-against-fascism.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tesla-workers-against-fascism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Tesla-workers-against-fascism.jpg",
-     "urheber": "Shushugah",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Tesla and trade unions",
-     "sprache": "en",
-     "art": "institution",
-     "suchbegriff": "IG Metall",
-     "bildunterschrift": "Beschäftigte der Metall- und Elektroindustrie, hier bei einer Solidaritätskundgebung, beteiligen sich an den Arbeitsniederlegungen.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Deutschland",
-    "lat": 51.164,
-    "lon": 10.448
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "In der deutschen Metall- und Elektroindustrie haben in der Nacht zum Sonntag ers",
-     "d": "486acd1d2d.mp3",
-     "l": 60.46,
-     "s": [
-      0.25,
-      6.34,
-      12.38,
-      17.94,
-      23.66,
-      28.86,
-      37.94,
-      43.03,
-      49.21,
-      54.27
-     ]
-    },
-    {
-     "k": "In der deutschen Metall- und Elektroindustrie haben in der Nacht erste Warnstrei",
-     "d": "bce2520338.mp3",
-     "l": 24.28,
-     "s": [
-      0.25,
-      5.44,
-      11.52,
-      19.25
-     ]
-    },
-    {
-     "k": "In deutschen Fabriken haben erste Warnstreiks begonnen. Arbeiter legten in der N",
-     "d": "8c0e7da0ea.mp3",
-     "l": 25.4,
-     "s": [
-      0.25,
-      4.02,
-      7.04,
-      11.9,
-      15.9,
-      20.52
-     ]
-    },
-    {
-     "k": "Die genaue Gesamtdauer und der konkrete tägliche Umfang der geplanten Warnstreik",
-     "d": "da4b430fd6.mp3",
-     "l": 8.95,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Warnstreik? Eine zeitlich begrenzte Arbeitsniederlegung ",
-     "d": "c94e7f7b3d.mp3",
-     "l": 10.8,
-     "s": [
-      0.25,
-      3.34
-     ]
-    },
-    {
-     "k": "Im Zentrum des Tarifkonflikts stehen deutliche Unterschiede bei den Vorstellunge",
-     "d": "f77c05aec7.mp3",
-     "l": 66.51,
-     "s": [
-      0.25,
-      6.89,
-      15.58,
-      23.8,
-      31.78,
-      39.44,
-      45.58,
-      55.86
-     ]
-    },
-    {
-     "k": "Die Verhandlungen betreffen die wirtschaftliche Basis wichtiger Industriezweige ",
-     "d": "8723dee90d.mp3",
-     "l": 61.08,
-     "s": [
-      0.25,
-      5.08,
-      17.52,
-      22.96,
-      30.17,
-      38.29,
-      45.68,
-      54.34
-     ]
-    },
-    {
-     "k": "Ein Warnstreik unterscheidet sich von einem regulären Streik. Es handelt sich um",
-     "d": "ceefd3b9a0.mp3",
-     "l": 52.31,
-     "s": [
-      0.25,
-      4.07,
-      9.72,
-      16.63,
-      23.39,
-      29.78,
-      35.41,
-      44.67
-     ]
-    },
-    {
-     "k": "Die Vorsitzende der IG Metall, Christiane Benner, begründete die Arbeitsniederle",
-     "d": "660f762452.mp3",
-     "l": 53.14,
-     "s": [
-      0.25,
-      7.24,
-      12.67,
-      17.63,
-      27.83,
-      33.75,
-      40.67,
-      50.13
-     ]
-    },
-    {
-     "k": "Für die kommende Woche kündigte die IG Metall eine Ausweitung der Aktionen an. G",
-     "d": "5b4f6433e8.mp3",
-     "l": 32.45,
-     "s": [
-      0.25,
-      5.11,
-      11.54,
-      18.51,
-      25.13
      ]
     }
    ]
