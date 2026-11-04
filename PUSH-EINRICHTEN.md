@@ -21,26 +21,36 @@ Worker → **Settings → Variables and Secrets → Add → Secret**
 - Wert: ein selbst ausgedachtes langes Passwort, z. B. `heft-7f3k9q2x8w`
 → **Deploy**
 
-## 4. Bei GitHub eintragen
+## 4. Neue Schlüssel erzeugen
+⚠️ Die alten Schlüssel lagen früher in der Datei `vapid-schluessel.txt` öffentlich im Repo.
+Sie gelten als verraten und dürfen **nicht** mehr benutzt werden.
+
+Neue erzeugen (am PC mit Node.js, oder Claude fragen):
+```
+npx web-push generate-vapid-keys
+```
+Den **privaten** Schlüssel nur bei GitHub als Secret eintragen – nie in eine Datei im Repo.
+
+## 5. Bei GitHub eintragen
 **Settings → Secrets and variables → Actions**
 
 Secrets (Reiter *Secrets*):
 | Name | Wert |
 |---|---|
 | `PUSH_TOKEN` | dasselbe Geheimwort wie oben |
-| `VAPID_PRIVATE` | siehe Datei `vapid-schluessel.txt` |
+| `VAPID_PRIVATE` | der neue private Schlüssel aus Schritt 4 |
 
 Variables (Reiter *Variables*):
 | Name | Wert |
 |---|---|
 | `PUSH_URL` | die Worker-Adresse, z. B. `https://heft-push.deinname.workers.dev` |
-| `VAPID_PUBLIC` | siehe Datei `vapid-schluessel.txt` |
+| `VAPID_PUBLIC` | der neue öffentliche Schlüssel aus Schritt 4 |
 
-## 5. Workflow ergänzen
+## 6. Workflow ergänzen
 In `.github/workflows/update.yml` ist der Schritt „web-push installieren“ schon enthalten
 und die vier Werte werden an das Programm übergeben. Einfach die mitgelieferte Fassung hochladen.
 
-## 6. Ausprobieren
+## 7. Ausprobieren
 1. Einmal **Run workflow** starten.
 2. App öffnen → **🔔 Nachrichten aufs Handy** → **Mitteilungen erlauben**.
 3. Beim nächsten Lauf mit einer neuen Nachricht kommt die erste Mitteilung.

@@ -37,14 +37,20 @@ TON = ROOT / "ton"
 STIMMEN = ROOT / ".stimmen"
 
 # ---------------------------------------------------------------- Besetzung
-# Jede Figur hat ein eigenes Piper-Sprachmodell (sauber eingesprochen, kein Stottern).
-# Früher kamen alle aus dem Paket de_DE-mls-medium – dessen Sprecher stotterten und
-# zogen Wörter in die Länge. Liste = Reihenfolge der Versuche, falls ein Modell fehlt.
+# Bei Piper gibt es auf Deutsch nur EINE Stimme in guter Qualität: Thorsten.
+# Die früheren Stimmen (kerstin-low, karlsson-low, ramona-low, eva_k-x_low) waren
+# so schlecht, dass man kaum ein Wort verstand. Deshalb sprechen jetzt alle Figuren
+# mit Thorsten-Modellen – unterscheidbar durch eine andere Tonhöhe ("hoehe") und ein
+# etwas anderes Tempo ("tempo"). Die Tonhöhe wird so verschoben, dass sich die
+# Sprechgeschwindigkeit dabei nicht ändert (siehe _hoehe_tempo).
+# Liste "modell" = Reihenfolge der Versuche, falls ein Modell fehlt.
 BESETZUNG = [
-    {"name": "Thorsten", "modell": ["de_DE-thorsten-high", "de_DE-thorsten-medium"], "rolle": "führt durch die Sendung, fasst zusammen, übergibt"},
-    {"name": "Sigrid",   "modell": ["de_DE-kerstin-low", "de_DE-eva_k-x_low"],       "rolle": "ordnet ein, stellt die Gegenfrage"},
-    {"name": "Malte",    "modell": ["de_DE-karlsson-low", "de_DE-pavoque-low"],     "rolle": "bringt Zahlen und Belege, nennt die Quellen"},
-    {"name": "Nora",     "modell": ["de_DE-ramona-low", "de_DE-eva_k-x_low"],       "rolle": "fragt kritisch nach, benennt was offen ist"},
+    {"name": "Thorsten", "modell": ["de_DE-thorsten-high", "de_DE-thorsten-medium"], "hoehe": 1.0,  "tempo": 1.0,
+     "rolle": "führt durch die Sendung, fasst zusammen, übergibt"},
+    {"name": "Malte",    "modell": ["de_DE-thorsten-medium", "de_DE-thorsten-high"], "hoehe": 0.9,  "tempo": 1.06,
+     "rolle": "bringt Zahlen und Belege, nennt die Quellen"},
+    {"name": "Jan",      "modell": ["de_DE-thorsten-medium", "de_DE-thorsten-high"], "hoehe": 1.12, "tempo": 0.96,
+     "rolle": "fragt kritisch nach, benennt was offen ist, stellt die Gegenfrage"},
 ]
 ZIEL_RATE = 22050   # alle Stimmen werden auf diese Abtastrate gebracht
 MODERATION = "Thorsten"
@@ -260,8 +266,8 @@ AUFBAU:
 8. {MODERATION} schließt ab.
 
 NAMEN NENNEN: bei der Vorstellung, bei der ersten Übergabe an jeden
-("Sigrid, wie siehst du das?"), bei Themenwechseln ("Damit zu Malte")
-und beim Rückbezug ("wie Nora eben sagte"). NICHT bei jedem Sprecherwechsel.
+("Malte, wie siehst du das?"), bei Themenwechseln ("Damit zu Jan")
+und beim Rückbezug ("wie Malte eben sagte"). NICHT bei jedem Sprecherwechsel.
 
 Antworte NUR mit JSON:
 {{"titel": "Überschrift der Folge, höchstens zehn Wörter",
@@ -380,6 +386,16 @@ def _modell_laden(name):
     return PiperVoice.load(modell)
 
 
+def _hoehe_tempo(h):
+    """Tonhöhe und Tempo einer Figur (1.0 = unverändert), in sicheren Grenzen."""
+    def zahl(k):
+        try:
+            return min(1.25, max(0.8, float(h.get(k, 1.0))))
+        except (TypeError, ValueError):
+            return 1.0
+    return zahl("hoehe"), zahl("tempo")
+
+
 def lade_stimme(besetzung=None):
     """Lädt für jede Figur ihr eigenes Modell. Fehlt eins, spricht Thorsten die Rolle."""
     stimmen, cache = {}, {}
@@ -403,7 +419,7 @@ def lade_stimme(besetzung=None):
 
 def _auf_rate(roh, rate):
     """int16-Ton auf ZIEL_RATE umrechnen, damit verschiedene Modelle zusammenpassen."""
-    if rate == ZIEL_RATE or not roh:
+    if abs(rate - ZIEL_RATE) < 1 or not roh:
         return roh
     import numpy as np
     a = np.frombuffer(roh, dtype=np.int16).astype(np.float32)
@@ -436,12 +452,17 @@ def gespraech_sprechen(stimmen, skript, besetzung, ziel, frist):
             log(f"  Zeit reicht nur für {i} von {len(skript['zeilen'])} Zeilen.")
             break
         voice = stimmen[z["wer"]]
+        figur = next((h for h in besetzung if h["name"] == z["wer"]), {})
+        hoehe, tempo = _hoehe_tempo(figur)
         grund = getattr(voice.config, "length_scale", 1.0) or 1.0
-        conf = SynthesisConfig(length_scale=grund * 1.0, noise_scale=0.667, noise_w_scale=0.8,
+        # Tonhöhe ohne Tempo-Änderung: langsamer sprechen lassen (length_scale * hoehe)
+        # und dann um den Faktor hoehe schneller abspielen – das hebt die Stimme an,
+        # die Dauer bleibt gleich. "tempo" > 1 heißt etwas schneller, < 1 etwas langsamer.
+        conf = SynthesisConfig(length_scale=grund * hoehe / tempo, noise_scale=0.667, noise_w_scale=0.8,
                                normalize_audio=True)
         marken.append({"s": round(proben / rate, 2), "wer": z["wer"], "text": z["text"]})
         roh = b"".join(c.audio_int16_bytes for c in voice.synthesize(sprechbar(z["text"]), conf))
-        roh = _auf_rate(roh, voice.config.sample_rate)
+        roh = _auf_rate(roh, voice.config.sample_rate * hoehe)
         stuecke.append(roh)
         proben += len(roh) // 2
         pause = 0.42 if z["wer"] != letzter else 0.26
@@ -536,8 +557,8 @@ def main():
         return 0
     log(f"Thema: {thema.get('titel')} ({len(thema.get('medien') or [])} Medien)")
 
-    # Zwei bis vier Sprecher, je nach Umfang des Themas.
-    wie_viele = 2 + min(2, len(thema.get("positionen") or []))
+    # Zwei oder drei Sprecher, je nach Umfang des Themas (mehr gute Stimmen gibt es nicht).
+    wie_viele = 2 + min(1, len(thema.get("positionen") or []))
     besetzung = [h for h in BESETZUNG if h["name"] == MODERATION]
     besetzung += [h for h in BESETZUNG if h["name"] != MODERATION][:wie_viele - 1]
     log(f"Besetzung: {', '.join(h['name'] for h in besetzung)}")
