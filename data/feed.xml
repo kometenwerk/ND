@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Wed, 04 Nov 2026 14:31:36 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 21:16:00 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Wie funktioniert eigentlich die Fotosynthese?</title>
+    <description>Pflanzen und Algen nutzen Sonnenlicht, um aus einfachen Stoffen energiereiche Verbindungen zu machen. Dieser Prozess versorgt fast alle anderen Lebewesen mit Nahrung und Sauerstoff.</description>
+    <itunes:summary>Pflanzen und Algen nutzen Sonnenlicht, um aus einfachen Stoffen energiereiche Verbindungen zu machen. Dieser Prozess versorgt fast alle anderen Lebewesen mit Nahrung und Sauerstoff.</itunes:summary>
+    <pubDate>Wed, 04 Nov 2026 06:19:17 GMT</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-fotosynthese</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/c6651e4887.mp3" length="193917" type="audio/mpeg"/>
+    <itunes:duration>00:00:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Hauptausgabe vom 2026-11-04</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Demokraten gewinnen laut Prognosen Mehrheit in beiden Kongresskammern bei US-Midterms · Schaeffler plant Abbau von 3.460 Stellen und Schließung mehrerer Standorte · Cyberangriff auf die Kryptobörse Binance führt zu Milliardenverlust · Tod des spanischen Fußballprofis Jesús de Miguel nach Spielkollision · Cyberangriffe auf Supermarkt-Kühlsysteme in Europa</description>
@@ -100,17 +111,6 @@
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-metallsuchgeraet</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/fefffd29f8.mp3" length="200109" type="audio/mpeg"/>
     <itunes:duration>00:00:33</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Wie funktioniert eigentlich das Pfeifen mit den Fingern?</title>
-    <description>Beim Pfeifen strömt Luft schnell durch einen Hohlraum und erzeugt dort Wirbel. Menschen nutzen verschiedene Methoden, um solche Töne mit dem Mund zu erzeugen.</description>
-    <itunes:summary>Beim Pfeifen strömt Luft schnell durch einen Hohlraum und erzeugt dort Wirbel. Menschen nutzen verschiedene Methoden, um solche Töne mit dem Mund zu erzeugen.</itunes:summary>
-    <pubDate>Sat, 31 Oct 2026 09:38:26 GMT</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-pfeifen-mit-den-fingern</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/3e677dbebb.mp3" length="258429" type="audio/mpeg"/>
-    <itunes:duration>00:00:43</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

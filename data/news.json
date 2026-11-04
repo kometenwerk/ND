@@ -1,7 +1,6 @@
 {
- "stand": "2026-11-04T14:31:36.218Z",
+ "stand": "2026-11-04T21:16:00.137Z",
  "gepusht": [
-  "jugendwort-des-jahres-2026-ragebait",
   "angriffe-saporischschja",
   "trump-fordert-selenskyj-abloesung",
   "ironman-wm-hawaii-luis-philipp",
@@ -80,16 +79,14 @@
   "midterms-usa",
   "schaeffler-stellenabbau",
   "us-angriffe-iran-hormus",
-  "tod-jesus-de-miguel"
+  "tod-jesus-de-miguel",
+  "hubert-aiwanger-tot"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "binance-hackerangriff",
-  "un-artenschutzkonferenz-eriwan",
   "polen-verfassungsgericht-streit",
-  "berlin-koalitionsverhandlungen-linke",
-  "bundesliga-8-spieltag-zusammenfassung",
   "gen-z-proteste",
   "merzd-nachfolge-bundespraesident-frau",
   "cyberangriff-supermaerkte-kuehlsysteme",
@@ -98,10 +95,11 @@
   "midterms-usa",
   "schaeffler-stellenabbau",
   "us-angriffe-iran-hormus",
-  "tod-jesus-de-miguel"
+  "tod-jesus-de-miguel",
+  "hubert-aiwanger-tot"
  ],
  "wetter": {
-  "stand": "2026-11-04T14:31:36.218Z",
+  "stand": "2026-11-04T21:16:00.137Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -110,15 +108,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 9,
-     "code": 3,
-     "gefuehlt": 6,
-     "wind": 11,
-     "windAus": 72,
-     "feuchte": 70,
-     "druck": 1033,
+     "grad": 6,
+     "code": 0,
+     "gefuehlt": 3,
+     "wind": 8,
+     "windAus": 80,
+     "feuchte": 87,
+     "druck": 1034,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
@@ -127,8 +125,8 @@
      "min": 6,
      "regen": 0,
      "menge": 0,
-     "wind": 13,
-     "windAus": 73,
+     "wind": 12,
+     "windAus": 72,
      "uv": 1.8,
      "auf": "07:24",
      "unter": "16:41"
@@ -137,11 +135,11 @@
      "datum": "2026-11-05",
      "code": 2,
      "max": 10,
-     "min": 5,
+     "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 83,
+     "windAus": 84,
      "uv": 1.8,
      "auf": "07:26",
      "unter": "16:39"
@@ -154,8 +152,8 @@
       "min": 6,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 73,
+      "wind": 12,
+      "windAus": 72,
       "uv": 1.8,
       "auf": "07:24",
       "unter": "16:41"
@@ -164,11 +162,11 @@
       "datum": "2026-11-05",
       "code": 2,
       "max": 10,
-      "min": 5,
+      "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 83,
+      "windAus": 84,
       "uv": 1.8,
       "auf": "07:26",
       "unter": "16:39"
@@ -180,8 +178,8 @@
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 94,
+      "wind": 13,
+      "windAus": 96,
       "uv": 1.8,
       "auf": "07:28",
       "unter": "16:37"
@@ -191,24 +189,24 @@
       "code": 3,
       "max": 5,
       "min": 3,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 122,
+      "wind": 10,
+      "windAus": 117,
       "uv": 1.7,
       "auf": "07:30",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
-      "max": 9,
-      "min": 3,
-      "regen": 5,
+      "code": 3,
+      "max": 7,
+      "min": 2,
+      "regen": 7,
       "menge": 0,
       "wind": 6,
-      "windAus": 159,
-      "uv": 0.2,
+      "windAus": 132,
+      "uv": 1.6,
       "auf": "07:32",
       "unter": "16:34"
      },
@@ -216,82 +214,40 @@
       "datum": "2026-11-09",
       "code": 45,
       "max": 7,
-      "min": 3,
-      "regen": 8,
+      "min": 4,
+      "regen": 10,
       "menge": 0,
-      "wind": 5,
-      "windAus": 200,
-      "uv": 1.1,
+      "wind": 4,
+      "windAus": 118,
+      "uv": 0.5,
       "auf": "07:34",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-10",
       "code": 45,
-      "max": 7,
-      "min": 4,
-      "regen": 33,
+      "max": 6,
+      "min": 3,
+      "regen": 15,
       "menge": 0,
-      "wind": 6,
-      "windAus": 251,
-      "uv": 1.6,
+      "wind": 14,
+      "windAus": 125,
+      "uv": 1.5,
       "auf": "07:36",
       "unter": "16:30"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 7,
-      "code": 1,
+      "grad": 6,
+      "code": 0,
       "regen": 0
      },
      {
@@ -302,55 +258,55 @@
      },
      {
       "zeit": "01:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 6,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 5,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
+      "zeit": "05:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
+     },
+     {
       "zeit": "07:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -362,25 +318,67 @@
      },
      {
       "zeit": "11:00",
-      "grad": 8,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 9,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 10,
+      "grad": 9,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 6,
       "code": 0,
       "regen": 0
      }
@@ -392,15 +390,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 10,
+     "grad": 8,
      "code": 2,
-     "gefuehlt": 7,
-     "wind": 9,
-     "windAus": 73,
-     "feuchte": 59,
-     "druck": 1030,
+     "gefuehlt": 5,
+     "wind": 6,
+     "windAus": 77,
+     "feuchte": 71,
+     "druck": 1031,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
@@ -410,20 +408,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 60,
+     "windAus": 59,
      "uv": 1.9,
      "auf": "07:07",
      "unter": "16:31"
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 2,
-     "max": 11,
-     "min": 5,
+     "code": 3,
+     "max": 10,
+     "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 9,
-     "windAus": 79,
+     "windAus": 85,
      "uv": 1.9,
      "auf": "07:09",
      "unter": "16:29"
@@ -437,20 +435,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 60,
+      "windAus": 59,
       "uv": 1.9,
       "auf": "07:07",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-05",
-      "code": 2,
-      "max": 11,
-      "min": 5,
+      "code": 3,
+      "max": 10,
+      "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 79,
+      "windAus": 85,
       "uv": 1.9,
       "auf": "07:09",
       "unter": "16:29"
@@ -458,25 +456,25 @@
      {
       "datum": "2026-11-06",
       "code": 45,
-      "max": 8,
-      "min": 4,
+      "max": 6,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 91,
+      "windAus": 90,
       "uv": 1.9,
       "auf": "07:11",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-07",
-      "code": 3,
-      "max": 7,
-      "min": 3,
+      "code": 2,
+      "max": 9,
+      "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 121,
+      "windAus": 113,
       "uv": 1.9,
       "auf": "07:13",
       "unter": "16:26"
@@ -485,85 +483,43 @@
       "datum": "2026-11-08",
       "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 4,
-      "menge": 0.1,
-      "wind": 4,
-      "windAus": 146,
-      "uv": 0.6,
+      "min": 1,
+      "regen": 7,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 132,
+      "uv": 1.7,
       "auf": "07:15",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
-      "max": 7,
-      "min": 4,
-      "regen": 25,
-      "menge": 0.2,
-      "wind": 5,
-      "windAus": 200,
-      "uv": 1.3,
+      "code": 3,
+      "max": 8,
+      "min": 1,
+      "regen": 10,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 121,
+      "uv": 0.7,
       "auf": "07:17",
       "unter": "16:22"
      },
      {
       "datum": "2026-11-10",
       "code": 45,
-      "max": 6,
-      "min": 4,
-      "regen": 27,
+      "max": 8,
+      "min": 3,
+      "regen": 6,
       "menge": 0,
-      "wind": 4,
-      "windAus": 272,
-      "uv": 1.7,
+      "wind": 10,
+      "windAus": 121,
+      "uv": 1.6,
       "auf": "07:19",
       "unter": "16:21"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 8,
@@ -579,13 +535,13 @@
      {
       "zeit": "00:00",
       "grad": 7,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
@@ -597,7 +553,7 @@
      {
       "zeit": "03:00",
       "grad": 6,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
@@ -615,13 +571,13 @@
      {
       "zeit": "06:00",
       "grad": 5,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 5,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -638,7 +594,7 @@
      },
      {
       "zeit": "10:00",
-      "grad": 7,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -663,7 +619,49 @@
      {
       "zeit": "14:00",
       "grad": 10,
-      "code": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 6,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -674,34 +672,34 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 9,
-     "code": 3,
-     "gefuehlt": 5,
-     "wind": 12,
-     "windAus": 75,
-     "feuchte": 70,
-     "druck": 1019,
+     "grad": 5,
+     "code": 0,
+     "gefuehlt": 2,
+     "wind": 8,
+     "windAus": 80,
+     "feuchte": 84,
+     "druck": 1020,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 61,
      "max": 9,
-     "min": 5,
+     "min": 4,
      "regen": 3,
      "menge": 0,
      "wind": 14,
-     "windAus": 65,
+     "windAus": 66,
      "uv": 2.1,
      "auf": "07:08",
      "unter": "16:38"
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 3,
-     "max": 10,
-     "min": 3,
+     "code": 2,
+     "max": 9,
+     "min": 2,
      "regen": 0,
      "menge": 0,
      "wind": 11,
@@ -715,20 +713,20 @@
       "datum": "2026-11-04",
       "code": 61,
       "max": 9,
-      "min": 5,
+      "min": 4,
       "regen": 3,
       "menge": 0,
       "wind": 14,
-      "windAus": 65,
+      "windAus": 66,
       "uv": 2.1,
       "auf": "07:08",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-05",
-      "code": 3,
-      "max": 10,
-      "min": 3,
+      "code": 2,
+      "max": 9,
+      "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 11,
@@ -744,108 +742,66 @@
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 76,
+      "wind": 12,
+      "windAus": 78,
       "uv": 2.1,
       "auf": "07:12",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-07",
-      "code": 45,
-      "max": 8,
-      "min": 3,
-      "regen": 3,
+      "code": 3,
+      "max": 7,
+      "min": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 153,
+      "wind": 7,
+      "windAus": 121,
       "uv": 2,
       "auf": "07:13",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-08",
-      "code": 3,
-      "max": 10,
-      "min": 6,
-      "regen": 10,
+      "code": 61,
+      "max": 9,
+      "min": 5,
+      "regen": 4,
       "menge": 0,
       "wind": 5,
-      "windAus": 178,
-      "uv": 1.4,
+      "windAus": 152,
+      "uv": 0.5,
       "auf": "07:15",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
-      "max": 9,
-      "min": 6,
-      "regen": 27,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 124,
-      "uv": 1.8,
+      "code": 80,
+      "max": 8,
+      "min": 5,
+      "regen": 10,
+      "menge": 0.9,
+      "wind": 3,
+      "windAus": 157,
+      "uv": 1.1,
       "auf": "07:17",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-10",
-      "code": 51,
-      "max": 7,
-      "min": 5,
-      "regen": 41,
+      "code": 3,
+      "max": 9,
+      "min": 3,
+      "regen": 18,
       "menge": 0,
-      "wind": 8,
-      "windAus": 52,
-      "uv": 1.9,
+      "wind": 7,
+      "windAus": 124,
+      "uv": 1.6,
       "auf": "07:19",
       "unter": "16:29"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 5,
@@ -854,13 +810,13 @@
      },
      {
       "zeit": "23:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -872,79 +828,121 @@
      },
      {
       "zeit": "02:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 3,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 3,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 3,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 4,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 8,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 9,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 5,
       "code": 0,
       "regen": 0
      }
@@ -956,20 +954,20 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
+     "grad": 6,
      "code": 0,
-     "gefuehlt": 7,
-     "wind": 14,
-     "windAus": 92,
-     "feuchte": 53,
+     "gefuehlt": 3,
+     "wind": 10,
+     "windAus": 66,
+     "feuchte": 73,
      "druck": 1021,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 3,
-     "max": 11,
+     "max": 12,
      "min": 6,
      "regen": 0,
      "menge": 0,
@@ -986,8 +984,8 @@
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 13,
-     "windAus": 109,
+     "wind": 11,
+     "windAus": 98,
      "uv": 2.1,
      "auf": "07:30",
      "unter": "16:59"
@@ -996,7 +994,7 @@
      {
       "datum": "2026-11-04",
       "code": 3,
-      "max": 11,
+      "max": 12,
       "min": 6,
       "regen": 0,
       "menge": 0,
@@ -1013,8 +1011,8 @@
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 109,
+      "wind": 11,
+      "windAus": 98,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:59"
@@ -1024,9 +1022,9 @@
       "code": 3,
       "max": 13,
       "min": 4,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
+      "wind": 10,
       "windAus": 125,
       "uv": 2.1,
       "auf": "07:32",
@@ -1040,8 +1038,8 @@
       "regen": 8,
       "menge": 0,
       "wind": 10,
-      "windAus": 128,
-      "uv": 0.8,
+      "windAus": 130,
+      "uv": 1.8,
       "auf": "07:34",
       "unter": "16:56"
      },
@@ -1050,84 +1048,42 @@
       "code": 51,
       "max": 10,
       "min": 4,
-      "regen": 14,
-      "menge": 0.6,
-      "wind": 8,
-      "windAus": 149,
-      "uv": 1.8,
+      "regen": 10,
+      "menge": 0.1,
+      "wind": 9,
+      "windAus": 194,
+      "uv": 1.5,
       "auf": "07:36",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
+      "code": 3,
       "max": 9,
-      "min": 3,
-      "regen": 14,
+      "min": 2,
+      "regen": 18,
       "menge": 0,
-      "wind": 10,
-      "windAus": 121,
+      "wind": 5,
+      "windAus": 68,
       "uv": 1.9,
       "auf": "07:37",
       "unter": "16:53"
      },
      {
       "datum": "2026-11-10",
-      "code": 51,
+      "code": 45,
       "max": 9,
-      "min": 3,
+      "min": 1,
       "regen": 37,
-      "menge": 2,
-      "wind": 20,
-      "windAus": 128,
-      "uv": 1.7,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 126,
+      "uv": 1.9,
       "auf": "07:39",
       "unter": "16:51"
      }
     ],
     "stunden": [
-     {
-      "zeit": "15:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 6,
@@ -1154,13 +1110,13 @@
      },
      {
       "zeit": "02:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -1202,7 +1158,7 @@
      },
      {
       "zeit": "10:00",
-      "grad": 8,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -1214,19 +1170,61 @@
      },
      {
       "zeit": "12:00",
-      "grad": 11,
+      "grad": 10,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 12,
+      "grad": 11,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 13,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 13,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 8,
       "code": 0,
       "regen": 0
      }
@@ -1238,15 +1236,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 2,
-     "gefuehlt": 7,
-     "wind": 14,
-     "windAus": 69,
-     "feuchte": 54,
-     "druck": 1015,
+     "grad": 6,
+     "code": 0,
+     "gefuehlt": 4,
+     "wind": 7,
+     "windAus": 39,
+     "feuchte": 70,
+     "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
@@ -1256,20 +1254,20 @@
      "regen": 3,
      "menge": 0,
      "wind": 16,
-     "windAus": 58,
+     "windAus": 60,
      "uv": 2.2,
      "auf": "07:19",
      "unter": "16:57"
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 1,
-     "max": 12,
+     "code": 0,
+     "max": 13,
      "min": 4,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 47,
+     "wind": 9,
+     "windAus": 51,
      "uv": 2.2,
      "auf": "07:21",
      "unter": "16:55"
@@ -1283,33 +1281,33 @@
       "regen": 3,
       "menge": 0,
       "wind": 16,
-      "windAus": 58,
+      "windAus": 60,
       "uv": 2.2,
       "auf": "07:19",
       "unter": "16:57"
      },
      {
       "datum": "2026-11-05",
-      "code": 1,
-      "max": 12,
+      "code": 0,
+      "max": 13,
       "min": 4,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 47,
+      "wind": 9,
+      "windAus": 51,
       "uv": 2.2,
       "auf": "07:21",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-06",
-      "code": 3,
-      "max": 10,
+      "code": 1,
+      "max": 11,
       "min": 4,
-      "regen": 1,
+      "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 58,
+      "windAus": 38,
       "uv": 2.2,
       "auf": "07:23",
       "unter": "16:53"
@@ -1317,13 +1315,13 @@
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 9,
-      "min": 5,
-      "regen": 4,
+      "max": 8,
+      "min": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 4,
-      "windAus": 134,
-      "uv": 0.6,
+      "windAus": 34,
+      "uv": 2,
       "auf": "07:25",
       "unter": "16:52"
      },
@@ -1331,89 +1329,47 @@
       "datum": "2026-11-08",
       "code": 3,
       "max": 10,
-      "min": 5,
-      "regen": 11,
+      "min": 6,
+      "regen": 3,
       "menge": 0,
-      "wind": 5,
-      "windAus": 81,
-      "uv": 1.8,
+      "wind": 3,
+      "windAus": 70,
+      "uv": 2,
       "auf": "07:26",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-09",
-      "code": 61,
-      "max": 9,
-      "min": 4,
-      "regen": 46,
-      "menge": 5.1,
+      "code": 3,
+      "max": 11,
+      "min": 5,
+      "regen": 9,
+      "menge": 0,
       "wind": 6,
-      "windAus": 35,
-      "uv": 1.9,
+      "windAus": 57,
+      "uv": 1.8,
       "auf": "07:28",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
-      "max": 8,
-      "min": 6,
-      "regen": 65,
-      "menge": 7.8,
-      "wind": 10,
-      "windAus": 31,
-      "uv": 0.3,
+      "code": 3,
+      "max": 10,
+      "min": 7,
+      "regen": 66,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 74,
+      "uv": 1.9,
       "auf": "07:30",
       "unter": "16:47"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1430,7 +1386,7 @@
      },
      {
       "zeit": "01:00",
-      "grad": 5,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -1448,19 +1404,19 @@
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1472,7 +1428,7 @@
      },
      {
       "zeit": "08:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1490,8 +1446,8 @@
      },
      {
       "zeit": "11:00",
-      "grad": 7,
-      "code": 1,
+      "grad": 8,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1511,6 +1467,48 @@
       "grad": 12,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1520,21 +1518,21 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 9,
-     "code": 3,
-     "gefuehlt": 5,
-     "wind": 12,
-     "windAus": 69,
-     "feuchte": 64,
+     "grad": 7,
+     "code": 2,
+     "gefuehlt": 4,
+     "wind": 8,
+     "windAus": 85,
+     "feuchte": 70,
      "druck": 995,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
      "code": 61,
-     "max": 9,
-     "min": 5,
+     "max": 8,
+     "min": 6,
      "regen": 10,
      "menge": 0,
      "wind": 13,
@@ -1546,12 +1544,12 @@
     "morgen": {
      "datum": "2026-11-05",
      "code": 2,
-     "max": 11,
+     "max": 12,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 102,
+     "wind": 7,
+     "windAus": 99,
      "uv": 2.3,
      "auf": "07:16",
      "unter": "16:57"
@@ -1560,8 +1558,8 @@
      {
       "datum": "2026-11-04",
       "code": 61,
-      "max": 9,
-      "min": 5,
+      "max": 8,
+      "min": 6,
       "regen": 10,
       "menge": 0,
       "wind": 13,
@@ -1573,12 +1571,12 @@
      {
       "datum": "2026-11-05",
       "code": 2,
-      "max": 11,
+      "max": 12,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 102,
+      "wind": 7,
+      "windAus": 99,
       "uv": 2.3,
       "auf": "07:16",
       "unter": "16:57"
@@ -1587,144 +1585,102 @@
       "datum": "2026-11-06",
       "code": 3,
       "max": 8,
-      "min": 4,
-      "regen": 10,
+      "min": 3,
+      "regen": 3,
       "menge": 0,
       "wind": 4,
-      "windAus": 136,
-      "uv": 2.2,
+      "windAus": 142,
+      "uv": 2.1,
       "auf": "07:17",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 11,
-      "min": 5,
+      "max": 9,
+      "min": 6,
       "regen": 9,
       "menge": 0,
-      "wind": 3,
-      "windAus": 163,
-      "uv": 1.5,
+      "wind": 4,
+      "windAus": 131,
+      "uv": 1.1,
       "auf": "07:19",
       "unter": "16:54"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
-      "max": 13,
-      "min": 5,
-      "regen": 17,
+      "code": 3,
+      "max": 11,
+      "min": 6,
+      "regen": 8,
       "menge": 0,
       "wind": 6,
-      "windAus": 184,
-      "uv": 1.8,
+      "windAus": 157,
+      "uv": 2.1,
       "auf": "07:20",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-09",
-      "code": 61,
-      "max": 11,
-      "min": 7,
-      "regen": 58,
-      "menge": 9.5,
-      "wind": 4,
-      "windAus": 183,
-      "uv": 1.8,
+      "code": 3,
+      "max": 12,
+      "min": 5,
+      "regen": 16,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 137,
+      "uv": 2.1,
       "auf": "07:22",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-10",
-      "code": 63,
-      "max": 11,
-      "min": 9,
-      "regen": 73,
-      "menge": 19.8,
-      "wind": 4,
-      "windAus": 14,
-      "uv": 0.2,
+      "code": 3,
+      "max": 12,
+      "min": 7,
+      "regen": 64,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 128,
+      "uv": 2,
       "auf": "07:24",
       "unter": "16:49"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 7,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 5,
-      "code": 0,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 4,
+      "grad": 5,
       "code": 1,
       "regen": 0
      },
@@ -1736,44 +1692,44 @@
      },
      {
       "zeit": "05:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 3,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 3,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 3,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 4,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 6,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 7,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1793,6 +1749,48 @@
       "grad": 11,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1802,15 +1800,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 6,
-     "code": 3,
-     "gefuehlt": 2,
-     "wind": 15,
-     "windAus": 86,
-     "feuchte": 72,
-     "druck": 963,
+     "grad": 4,
+     "code": 2,
+     "gefuehlt": 1,
+     "wind": 12,
+     "windAus": 94,
+     "feuchte": 79,
+     "druck": 964,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-04",
@@ -1827,13 +1825,13 @@
     },
     "morgen": {
      "datum": "2026-11-05",
-     "code": 51,
-     "max": 9,
-     "min": 2,
+     "code": 45,
+     "max": 10,
+     "min": 1,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 89,
+     "wind": 9,
+     "windAus": 87,
      "uv": 2.4,
      "auf": "07:04",
      "unter": "16:49"
@@ -1854,13 +1852,13 @@
      },
      {
       "datum": "2026-11-05",
-      "code": 51,
-      "max": 9,
-      "min": 2,
+      "code": 45,
+      "max": 10,
+      "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 89,
+      "wind": 9,
+      "windAus": 87,
       "uv": 2.4,
       "auf": "07:04",
       "unter": "16:49"
@@ -1870,7 +1868,7 @@
       "code": 45,
       "max": 4,
       "min": 2,
-      "regen": 10,
+      "regen": 4,
       "menge": 0,
       "wind": 7,
       "windAus": 94,
@@ -1881,109 +1879,67 @@
      {
       "datum": "2026-11-07",
       "code": 45,
-      "max": 9,
+      "max": 8,
       "min": 4,
-      "regen": 30,
+      "regen": 15,
       "menge": 0,
-      "wind": 5,
-      "windAus": 121,
-      "uv": 0.4,
+      "wind": 6,
+      "windAus": 111,
+      "uv": 0.5,
       "auf": "07:08",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-08",
       "code": 45,
-      "max": 9,
-      "min": 3,
-      "regen": 8,
+      "max": 8,
+      "min": 4,
+      "regen": 5,
       "menge": 0,
       "wind": 5,
-      "windAus": 133,
-      "uv": 2.2,
+      "windAus": 116,
+      "uv": 2.3,
       "auf": "07:09",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-09",
-      "code": 80,
+      "code": 45,
       "max": 9,
-      "min": 6,
-      "regen": 39,
-      "menge": 12.1,
-      "wind": 8,
-      "windAus": 169,
-      "uv": 1.9,
+      "min": 3,
+      "regen": 30,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 101,
+      "uv": 2.2,
       "auf": "07:11",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
-      "max": 9,
-      "min": 8,
-      "regen": 48,
-      "menge": 8.8,
-      "wind": 9,
-      "windAus": 105,
-      "uv": 0.2,
+      "code": 45,
+      "max": 8,
+      "min": 1,
+      "regen": 42,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 90,
+      "uv": 2,
       "auf": "07:12",
       "unter": "16:42"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 4,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1994,49 +1950,49 @@
      },
      {
       "zeit": "01:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 2,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 2,
-      "code": 45,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 2,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 2,
+      "grad": 1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 2,
+      "grad": 1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 2,
-      "code": 51,
+      "grad": 1,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 2,
+      "grad": 1,
       "code": 45,
       "regen": 0
      },
@@ -2054,14 +2010,14 @@
      },
      {
       "zeit": "11:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 6,
-      "code": 3,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
@@ -2072,16 +2028,58 @@
      },
      {
       "zeit": "14:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
       "grad": 8,
-      "code": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 4,
+      "code": 0,
       "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 6 und 11 Grad.",
-   "Die Vorhersage für morgen, Donnerstag, im ganzen Land: teils bewölkt.",
+   "Heute liegen die Höchstwerte zwischen 6 und 12 Grad.",
+   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten teils bewölkt, im Süden und Westen klar.",
    "Die Temperaturen erreichen dann 9 bis 13 Grad.",
    "Am wärmsten wird es in Köln mit 13 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
@@ -2118,7 +2116,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
@@ -2141,7 +2139,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2154,7 +2152,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 9,
-       "regen": 0
+       "regen": -0.1
       }
      ]
     },
@@ -2187,7 +2185,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
+       "grad": 13,
        "regen": 0
       },
       {
@@ -2210,7 +2208,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 12,
        "regen": 0
       },
       {
@@ -2233,7 +2231,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
+       "grad": 10,
        "regen": 0
       },
       {
@@ -2245,7 +2243,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
+       "grad": 8,
        "regen": 0
       }
      ]
@@ -2262,19 +2260,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 6 und 11 Grad. Die Vorhersage für morgen, ",
-   "d": "fdce85152c.mp3",
-   "l": 17.25,
-   "s": [
-    0.25,
-    3.7,
-    8.17,
-    11.41,
-    14.37
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2461,126 +2447,76 @@
   {
    "id": "midterms-usa",
    "rubrik": "Welt",
-   "zeit": "2026-11-04T06:04:34.000Z",
-   "aktualisiert": "aktualisiert um 07:07 Uhr",
-   "titel": "Demokraten gewinnen laut Prognosen Mehrheit in beiden Kongresskammern bei US-Midterms",
-   "vorspann": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten nach Medienprognosen die Mehrheit im Senat und Repräsentantenhaus übernommen. US-Präsident Donald Trump kündigte an, das Wahlergebnis zu akzeptieren.",
-   "eil": true,
+   "zeit": "2026-11-04T21:15:03.000Z",
+   "aktualisiert": "aktualisiert um 22:16 Uhr",
+   "titel": "Demokraten gewinnen Mehrheit in beiden Kongresskammern bei US-Zwischenwahlen",
+   "vorspann": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten laut übereinstimmenden Hochrechnungen die Mehrheit im Senat und im Repräsentantenhaus erlangt. Mehrere Bundesstaaten meldeten zudem historische Premieren bei Gouverneurswahlen.",
+   "eil": false,
    "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Bei den US-Zwischenwahlen haben die Demokraten nach Medienprognosen die Mehrheit im Senat und im Repräsentantenhaus erobert.",
-    "In Bundesstaaten wie Texas und Kansas erzielten die Demokraten historische Wahlerfolge und gewannen wichtige Sitze.",
-    "US-Präsident Donald Trump kündigte an, das Wahlergebnis zu akzeptieren und mit den Demokraten zusammenzuarbeiten.",
-    "Experten weisen darauf hin, dass eine demokratische Mehrheit im Kongress die Personalentscheidungen der Regierung einschränken könnte."
+    "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit im Senat und im Repräsentantenhaus erobert.",
+    "In mehreren Bundesstaaten erzielten Kandidatinnen historische Erfolge bei Gouverneurswahlen.",
+    "Regierungsvertreter und Politiker machten unter anderem den Iran-Krieg für die Niederlagen der Republikaner verantwortlich.",
+    "Internationale Politiker erwarten veränderte Mehrheitsverhältnisse und eine stärkere Rolle des Kongresses in der US-Politik."
    ],
    "einig": [
     [
-     "Die Demokraten erobern die Mehrheit im Senat.",
+     "Die Demokraten haben bei den Zwischenwahlen die Mehrheit in beiden Kongresskammern gewonnen.",
      [
-      "ZDFheute",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "Die Demokraten gewinnen auch die Mehrheit im Repräsentantenhaus.",
-     [
-      "ZDFheute",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "US-Präsident Donald Trump will das Wahlergebnis akzeptieren.",
-     [
-      "ZDFheute",
       "Deutschlandfunk",
-      "Zeit"
-     ]
-    ],
-    [
-     "In Texas und Kansas gab es historische Siege für die Demokraten.",
-     [
-      "ZDFheute",
-      "Deutschlandfunk"
+      "SWR Baden-Württemberg"
      ]
     ]
    ],
    "unklar": [
-    "Ob Trump die Verantwortung für die Ergebnisse trägt, wird unterschiedlich bewertet; Trump selbst weist sie von sich, während ZDFheute von einer Niederlage spricht."
+    "Der genaue Ausgang der Senatsrennen in Alaska und Mississippi ist noch nicht vollständig ausgezählt (Deutschlandfunk, SWR Baden-Württemberg)."
    ],
    "positionen": [
     [
+     "Jon Ossoff (Demokratischer Senator)",
+     "Das amerikanische Volk hat der Verderbtheit und Inkompetenz eines gescheiterten Präsidenten eine Absage erteilt.",
+     "SWR Baden-Württemberg"
+    ],
+    [
+     "Hakeem Jeffries (Chef der Demokraten im Repräsentantenhaus)",
+     "Die Wahlergebnisse sind eine erstaunliche Rüge für den MAGA-Extremismus und ein großartiger Sieg für die Amerikaner.",
+     "SWR Baden-Württemberg"
+    ],
+    [
      "Donald Trump (US-Präsident)",
-     "Er will das Wahlergebnis akzeptieren und sieht sich selbst nicht in der Verantwortung.",
-     "ZDFheute, Zeit"
+     "Er hält an seinem Kurs im Iran-Krieg fest, sieht das Wahlergebnis nicht als Schlag gegen sich und macht Kandidaten verantwortlich.",
+     "SWR Baden-Württemberg"
     ],
     [
-     "Ken Paxton (unterlegener republikanischer Senatskandidat)",
-     "Er räumte die Verluste ein, gratulierte dem Sieger James Talarico und sprach von einem schwierigen landesweiten Abend.",
-     "ZDFheute"
+     "JD Vance (US-Vizepräsident)",
+     "Der Krieg gegen den Iran ist der ausschlaggebende Grund für die Wahlniederlagen der Partei.",
+     "SWR Baden-Württemberg"
     ],
     [
-     "Annika Brockschmidt (Historikerin) und Klemens Fischer (Außenpolitikexperte)",
-     "Ein demokratisch dominierter Senat kann von Trump vorgeschlagene Richter oder Minister blockieren.",
-     "ZDFheute"
+     "Johann Wadephul (Bundesaußenminister)",
+     "Er erwartet eine konstruktive Zusammenarbeit, sieht aber eine stärkere Rolle des Kongresses in der Außenpolitik.",
+     "SWR Baden-Württemberg"
     ],
     [
-     "Elmar Theveßen (ZDF-Korrespondent)",
-     "Ein vollständiger Machtverlust Trumps ist nicht zu erwarten, da er per Dekret weiterregieren kann und Untersuchungsausschüsse drohen.",
-     "ZDFheute"
+     "Friedrich Merz (Bundeskanzler)",
+     "Er erwartet keine große Politikänderung des US-Präsidenten, aber Veränderungen bei der Budget- und Streitkräfteplanung.",
+     "SWR Baden-Württemberg"
     ]
    ],
-   "fehlend": "Stellungnahmen der demokratischen Parteiführung oder weiterer republikanischer Parteivertreter außerhalb der zitierten Personen.",
+   "fehlend": "Stimmen aus der Wählerschaft außerhalb der zitierten Politiker und Geistlichen, detaillierte Analysen von unabhängigen Instituten.",
    "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "04.11.26, 06:49",
-     "fokus": "–",
-     "text": "\"Das wäre Durchmarsch für Demokraten\"",
-     "url": "https://www.tagesschau.de/video/video-1677740.html",
-     "video": true,
-     "lesbar": null,
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "04.11.26, 07:02",
-     "fokus": "Umfassender Liveblog und Analysen",
-     "text": "Liefert zahlreiche Details zu einzelnen Bundesstaaten, Kandidaten, Reaktionen von Experten sowie Hintergründe zur Wahlbeteiligung.",
-     "url": "https://www.zdfheute.de/politik/ausland/midterms-usa-wahl-kongress-liveticker-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 6,
-      "woerter": 1128,
-      "satzlaenge": 16,
-      "langeWoerter": 35
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
     {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "04.11.26, 06:42",
-     "fokus": "Kompakte Nachrichtenübersicht",
-     "text": "Berichtet kurz und prägnant über den Mehrheitswechsel in beiden Kongresskammern und die Erklärung von Trump.",
-     "url": "https://www.deutschlandfunk.de/prognosen-demokraten-erobern-mehrheit-in-beiden-kongresskammern-100.html",
+     "datum": "04.11.26, 22:11",
+     "fokus": "Sitzverteilung im Kongress",
+     "text": "Der öffentlich-rechtliche Sender konzentriert sich auf die harten Fakten und Hochrechnungen zur neuen Sitzverteilung im Senat und Repräsentantenhaus.",
+     "url": "https://www.deutschlandfunk.de/demokraten-erobern-mehrheit-im-senat-und-im-repraesentantenhaus-100.html",
      "video": false,
      "lesbar": null,
      "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
@@ -2588,104 +2524,106 @@
      "publikumWert": null
     },
     {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "04.11.26, 05:53",
-     "fokus": "–",
-     "text": "Die Demokraten erobern laut Prognosen die Mehrheit im Repräsentantenhaus und im Senat.",
-     "url": "https://www.spiegel.de/ausland/midterms-2026-in-den-usa-donald-trump-abgestraft-demokraten-erobern-laut-prognosen-mehrheit-im-repraesentantenhaus-und-im-senat-donald-trump-abgestraft-a-c6a7c5b3-24a1-4e70-a78e-067745ed4103#ref=rss",
+     "name": "ORF",
+     "typ": "öffentlich-rechtlich (Österreich)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "04.11.26, 20:05",
+     "fokus": "Historische Premieren von Frauen",
+     "text": "Der Sender aus Österreich hebt vor allem die historischen Erfolge von Frauen hervor, darunter die erste schwarze Gouverneurin in Georgia.",
+     "url": "https://orf.at/stories/3447173/",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
+     "finanzierung": "Haushaltsabgabe",
+     "publikumWert": null
+    },
+    {
+     "name": "SWR Baden-Württemberg",
+     "typ": "öffentlich-rechtlich (Region)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "04.11.26, 22:15",
+     "fokus": "Reaktionen und internationale Folgen",
+     "text": "Das Regionale Programm liefert eine breite Sammlung an internationalen Reaktionen, Zitate von Politikern sowie wirtschaftliche Begleiterscheinungen.",
+     "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 1,
-      "woerter": 106,
-      "satzlaenge": 13,
-      "langeWoerter": 32
+      "klasse": 10,
+      "minuten": 7,
+      "woerter": 1376,
+      "satzlaenge": 19,
+      "langeWoerter": 34
      },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "04.11.26, 07:04",
-     "fokus": "Fokus auf Trumps Reaktion",
-     "text": "Hebt hervor, dass Donald Trump die Wahlergebnisse anerkennen will und die Verantwortung von sich weist.",
-     "url": "https://www.zeit.de/politik/ausland/2026-11/kongresswahlen-usa-donald-trump-ergebnisse-demokraten",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "Südwestrundfunk, ARD-Anstalt für Baden-Württemberg und Rheinland-Pfalz",
+     "finanzierung": "Rundfunkbeitrag",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Ausführlichkeit",
-     "ZDFheute liefert einen sehr ausführlichen Bericht mit zahlreichen Einzelwahlen und Expertenmeinungen, während Deutschlandfunk und Zeit sich auf Kurzmeldungen und zentrale Kernfakten beschränken."
+     "Schwerpunkte",
+     "Der Deutschlandfunk fokussiert sich auf die reinen Zahlen der Mehrheiten, der ORF auf Frauen in der Politik und der SWR auf umfassende Reaktionen und wirtschaftliche Folgen."
     ]
    ],
    "wfragen": {
-    "wer": "Die Demokraten, Republikaner und US-Präsident Donald Trump",
-    "was": "Mehrheitsgewinn bei den Kongresszwischenwahlen (Midterms)",
+    "wer": "Die Demokraten und US-Wähler",
+    "was": "Gewinn der Kongressmehrheiten",
     "wann": "2026-11-04",
-    "wo": "Vereinigte Staaten",
-    "wie": "Durch den Gewinn von Sitzen in beiden Kammern des Kongresses",
-    "warum": "Laut ZDFheute unter anderem wegen hoher Wahlbeteiligung",
-    "quellenlage": "Tagesschau/ARD, ZDFheute, Deutschlandfunk, Spiegel, Zeit"
+    "wie": "Durch Stimmabgabe bei den Zwischenwahlen",
+    "warum": "Unzufriedenheit mit Politik und Iran-Krieg laut Politikern",
+    "quellenlage": "Deutschlandfunk, ORF, SWR Baden-Württemberg"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten nach übereinstimmenden Medienprognosen die Kontrolle über beide Kammern des US-Kongresses übernommen. Laut den Berichten von ZDFheute und Deutschlandfunk eroberten die Demokraten sowohl die Mehrheit im Repräsentantenhaus als auch im Senat. Die Tagesschau meldete ebenfalls einen Durchmarsch der Demokraten. Auch das Nachrichtenmagazin Spiegel und die Wochenzeitung Zeit berichteten über den Machtwechsel im Kongress.",
-      "In den ersten Entscheidungen der Wahlnacht erreichten die Demokraten im Senat die für eine Mehrheit nötigen 51 Sitze. Im Repräsentantenhaus sicherten sie sich nach Angaben von ZDFheute zunächst 155 der bislang vergebenen Mandate. Die Wahlbeteiligung war nach Berichten von ZDFheute erstaunlich hoch und erreichte fast das Niveau der vorangegangenen Präsidentschaftswahl. Besonders viele junge Menschen und Wähler aus migrantischen Communities beteiligten sich an der Abstimmung.",
-      "US-Präsident Donald Trump erklärte laut ZDFheute und Zeit, dass er das Wahlergebnis anerkennen werde. Er wies zugleich die Verantwortung für die Ergebnisse von sich. Laut ZDFheute kündigte Trump im Gespräch an, mit den Demokraten zusammenarbeiten zu wollen und eine Lösung zu finden."
+      "Bei den Zwischenwahlen in den USA haben die Demokraten laut übereinstimmenden Hochrechnungen die Mehrheit in beiden Kammern des Kongresses gewonnen. Im Senat sicherten sie sich nach Angaben des Deutschlandfunks 54 der insgesamt 100 Sitze. Die Republikaner kommen demnach auf 44 Sitze. Aus den Bundesstaaten Alaska und Mississippi lagen zunächst noch keine verlässlichen Auswertungsergebnisse vor. Der Kongress setzt sich aus dem Senat und dem Repräsentantenhaus zusammen.",
+      "Zusätzlich zu den Mehrheitsverhältnissen im Parlament fanden in verschiedenen Bundesstaaten Wahlen zu anderen Ämtern statt. Der Sender ORF berichtete, dass im US-Bundesstaat Georgia mit Keisha Lance Bottoms erstmals in der Geschichte der Vereinigten Staaten eine schwarze Frau zur Gouverneurin gewählt wurde. Auch weiteren Frauen gelangen bei den Zwischenwahlen historische Premieren und Rekorde. Die Wahlen gelten traditionell als Stimmungstest für den amtierenden Präsidenten.",
+      "Der US-Senat und das Repräsentantenhaus bilden gemeinsam die Gesetzgebung der Vereinigten Staaten in Washington. Die Sitzverteilung bestimmt, welche Partei die parlamentarische Arbeit und Ausschüsse leitet. Die Demokraten bauen ihre Position im Parlament durch den Wahlausgang deutlich aus. Dies hat unmittelbare Auswirkungen auf die Bestätigung von Regierungsmitgliedern und Richtern.",
+      "Die Auszählung der Stimmen in einzelnen Regionen dauerte am Tag nach der Wahl an. Sender wie CNN und NBC berichteten über knappe Ergebnisse in umkämpften Bundesstaaten. Die Wahlbeteiligung und die eingegangenen Spenden erreichten in mehreren Wahlkreisen historische Höchstwerte. Politische Beobachter bewerteten das Gesamtergebnis als wesentliche Veränderung der Machtverhältnisse in Washington."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "In mehreren Bundesstaaten gab es bemerkenswerte Einzelergebnisse bei den Senats- und Gouverneurswahlen. Im umkämpften Bundesstaat Texas gewann der Demokrat James Talarico nach Hochrechnungen gegen den von Donald Trump unterstützten Republikaner Ken Paxton, wie ZDFheute berichtete. Damit zieht laut ZDFheute erstmals seit mehr als 30 Jahren wieder ein Demokrat aus Texas in den US-Senat ein. Der unterlegene Kandidat Ken Paxton räumte die Verluste ein und gratulierte seinem Konkurrenten.",
-      "Ebenfalls in Texas gewann die Demokratin Gina Hinojosa nach Hochrechnungen die Gouverneurswahl gegen den republikanischen Amtsinhaber Greg Abbott. Dies geschah laut ZDFheute ebenfalls erstmals seit mehr als 30 Jahren. Im Bundesstaat Kansas setzte sich der Demokrat Adam Hamilton gegen den Republikaner Roger Marshall durch. Laut ZDFheute ist Hamilton damit seit 94 Jahren der erste Demokrat aus Kansas im Senat.",
-      "Weitere Erfolge verzeichneten die Demokraten laut ZDFheute durch Sherrod Brown, der eine Sonderwahl zum Senat in Ohio gewann. Im Bundesstaat New Mexico setzte sich die Demokratin Deb Haaland gegen den Republikaner Gregg Hull durch und wird laut Hochrechnungen die erste indigene Gouverneurin in der US-Geschichte. Im Bundesstaat Minnesota zog die dem linken Flügel der Demokraten angehörende Abgeordnete Ilhan Omar erneut ins Repräsentantenhaus ein."
+      "Laut dem SWR Baden-Württemberg ist der Ausgang in einigen Regionen weiterhin umstritten. Im Senatsrennen in Mississippi lieferten sich Scott Colom von den Demokraten und die republikanische Amtsinhaberin Cindy Hyde-Smith ein Kopf-an-Kopf-Rennen. Nach der Auszählung von 96 Prozent der Stimmen lag Colom mit weniger als 50 Stimmen vorn. In Alaska lag die Demokratin Mary Peltola nach der Auszählung von 74 Prozent der Stimmen mit 48,2 Prozent knapp vor dem Republikaner Dan Sullivan, der 47,9 Prozent erreichte.",
+      "Im Wahlkampf im Bundesstaat Georgia stand der demokratische Senator Jon Ossoff im Mittelpunkt der Aufmerksamkeit. Er sammelte nach Angaben des SWR mehr als 100 Millionen Dollar an Wahlkampfspenden ein. Ossoff war der einzige demokratische Senator, der in einem Bundesstaat zur Wiederwahl antrat, den Donald Trump im Jahr 2024 gewonnen hatte. Nach seiner Wiederwahl kritisierte Ossoff den Präsidenten scharf.",
+      "Die Aktienkurse von Unternehmen des Tech-Milliardärs Elon Musk gaben nach den Wahlergebnissen nach. Anteilsscheine von Tesla verzeichneten einen Rückgang von 3,82 Prozent, während SpaceX-Aktien um 2,65 Prozent fielen. Musk hatte zuvor erhebliche Geldsummen für den Wahlkampf der Republikaner gespendet, unter anderem in Texas. In Texas konnten die Demokraten laut den Berichten ebenfalls historische Erfolge erzielen.",
+      "Der republikanische Repräsentantenhausvorsitzende Mike Johnson will nach dem Abschneiden seiner Partei nicht erneut als Fraktionschef kandidieren. Dies berichteten mehrere US-Medien übereinstimmend laut der Auswertung des SWR. Der scheidende republikanische Gouverneur von Florida, Ron DeSantis, prognostizierte deutlich mehr Konflikte zwischen dem Kongress und der Regierung. Die Chancen für die Bestätigung von Regierungsanwärtern durch den neuen Kongress stünden schlecht."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Der Ausgang der Wahlen wird laut den Berichten von ZDFheute mit verschiedenen Faktoren in Verbindung gebracht. ZDF-Korrespondent David Sauer nannte als Gründe für den Erfolg in Texas unter anderem die dortige Schwäche des Kandidaten Ken Paxton. Die Kandidatur von Ken Paxton galt demnach wegen zahlreicher politischer und juristischer Kontroversen im Vorfeld als Risiko.",
-      "Im Vorfeld der Wahlen gerieten einige demokratische Politikerinnen wie Ilhan Omar in den Fokus von Regierungsvertretern. So hatten Ermittler des Heimatschutzministeriums im Oktober ihre Wohnung durchsucht, und Vizepräsident JD Vance hatte im Frühjahr Einwanderungsbetrug unterstellt. Heimatschutzminister Markwayne Mullin kündigte im September Untersuchungen zu den Einwanderungsunterlagen an.",
-      "Ein möglicher Machtverlust für Präsident Donald Trump könnte weitreichende Folgen haben. Experten wie die Historikerin Annika Brockschmidt und der Außenpolitikexperte Klemens Fischer erklärten bei phoenix laut ZDFheute, dass ein demokratisch dominierter Senat die Besetzung von Richterstellen, Botschafterposten oder Ministerämtern durch den Präsidenten blockieren könne. Dies betreffe möglicherweise auch den Obersten Gerichtshof."
+      "Als ein wesentlicher Faktor für das Abschneiden der Republikaner wurde in den Berichten der Iran-Krieg genannt. Der Krieg war gemeinsam mit Israel begonnen worden und hatte die Republikaner im Wahlkampf belastet. Infolge des Konflikts gestiegene Spritpreise gehörten zu den zentralen Sorgen der Wählerinnen und Wähler. US-Präsident Donald Trump räumte ein, dass die militärische Auseinandersetzung im Iran eine Rolle bei den Midterms gespielt habe.",
+      "Vizepräsident JD Vance machte den Krieg ausdrücklich für die Niederlagen der Partei verantwortlich. In einem Online-Post schrieb er, der Grund für den Verlust sei der Konflikt gewesen. US-Präsident Trump betonte hingegen, am Kurs im Iran-Krieg festhalten zu wollen. Er verteidigte auch Verteidigungsminister Pete Hegseth und lehnte dessen Entlassung ab, obwohl Berichte über interne Beratungen zu Personalfragen vorlagen.",
+      "Die Zwischenwahlen in den USA finden in der Mitte einer vierjährigen Präsidentschaftsperiode statt. Dabei werden alle Sitze im Repräsentantenhaus und etwa ein Drittel der Sitze im Senat neu vergeben. Historisch gesehen verliert die Partei des amtierenden Präsidenten bei diesen Abstimmungen häufig Sitze im Kongress. Die diesjährigen Wahlen zeigten jedoch nach Analysen von Experten eine besonders ausgeprägte Verschiebung der Mehrheiten.",
+      "Die parteiinternen Strukturen gerieten nach der Niederlage ebenfalls in die Diskussion. Politikwissenschaftler Boris Vormann erklärte laut SWR-Bericht, dass die Demokraten zwar als breite Front aufträten, aber inhaltliche Kluften überwinden müssten. Gleichzeitig wies US-Präsident Trump die Verantwortung für das Wahlergebnis von sich und machte stattdessen einzelne republikanische Kandidaten dafür verantwortlich."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Der US-Kongress ist die gesetzgebende Versammlung der Vereinigten Staaten und besteht aus zwei Kammern: dem Repräsentantenhaus und dem Senat. Der Senat hat zudem die Aufgabe, wichtige Regierungs- und Richterposten zu bestätigen, die vom Präsidenten vorgeschlagen werden.",
-      "Die Zwischenwahlen finden in der Mitte der vierjährigen Amtszeit eines US-Präsidenten statt. Bei diesen Wahlen werden alle Sitze im Repräsentantenhaus und etwa ein Drittel der Sitze im Senat neu vergeben."
+      "Zwischenwahlen, im amerikanischen Sprachgebrauch als Midterms bezeichnet, finden in der Mitte einer US-Präsidentschaftsperiode statt. Sie dienen den Wählerinnen und Wählern dazu, die Zusammensetzung des Kongresses in Washington neu zu bestimmen. Der Kongress besteht aus zwei Kammern: dem Senat, in dem jeder Bundesstaat zwei Vertreter entsendet, und dem Repräsentantenhaus, dessen Sitze nach der Bevölkerungszahl der Bundesstaaten verteilt werden.",
+      "Das Parlament in den USA ist ein zentraler Bestandteil der Bundesgesetzgebung und übt Kontrollrechte gegenüber der Regierung aus. Die Partei, die in einer Kammer die Mehrheit stellt, besetzt den Vorsitz der wichtigen Ausschüsse und bestimmt maßgeblich die parlamentarische Agenda. Durch Mehrheitswechsel im Kongress kann die Umsetzung von Regierungsvorhaben deutlich erschwert oder verändert werden."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Der republikanische Senatskandidat Ken Paxton gratulierte laut ZDFheute seinem Kontrahenten James Talarico zum Sieg in Texas und äußerte die Hoffnung auf eine gute Arbeit für das Land. Gleichzeitig sprach er von einem schwierigen landesweiten Abend für die Republikaner.",
-      "US-Präsident Donald Trump erklärte laut ZDFheute und Zeit, dass er das Wahlergebnis akzeptieren werde und für das Ergebnis nicht in der Verantwortung stehe.",
-      "Der ZDF-Korrespondent Elmar Theveßen äußerte die Einschätzung, dass ein vollständiger Machtverlust für Präsident Donald Trump nicht zu erwarten sei. Trump könne weiterhin per Dekret regieren, und das Weiße Haus prüfe möglicherweise den alternativen Einsatz bereits bewilligter Gelder."
+      "Der demokratische Senator Jon Ossoff warf der Regierung Korruption und Inkompetenz vor, wie der SWR berichtete. Der Chef der Demokraten im Repräsentantenhaus, Hakeem Jeffries, bezeichnete die Ergebnisse als Rüge für den politischen Extremismus und sprach von einem Tsunami. Der designierte Mehrheitsführer im Senat, Chuck Schumer, kündigte an, seine Partei weiter als Mehrheitsführer zu vertreten. Der demokratische Senator James Talarico aus Texas betonte, man strebe keine politische Vergeltung an, sondern wolle sich auf Alltagsthemen konzentrieren.",
+      "US-Präsident Donald Trump erklärte laut Fox News, die Demokraten hätten gute Arbeit geleistet, und lehnte es ab, die Niederlage als direkten Schlag gegen seine Person zu werten. Vizepräsident JD Vance erklärte schriftlich, der Iran-Krieg sei die Ursache für die Wahlniederlagen gewesen. Der republikanische Gouverneur Ron DeSantis sagte voraus, dass es künftig zu mehr Konflikten zwischen dem Kongress und der Exekutive kommen werde.",
+      "Internationale Reaktionen kamen unter anderem aus Deutschland und dem Vatikan. Bundesaußenminister Johann Wadephul (CDU) erklärte laut SWR, er erwarte eine weiterhin konstruktive Zusammenarbeit mit der US-ReGIERung, rechne aber mit einer stärkeren Rolle des Kongresses in der Außenpolitik. Bundeskanzler Friedrich Merz (CDU) äußerte, er erwarte keine große Politikänderung des US-Präsidenten, merkte jedoch an, dass sich die Budgetplanung und die Planung der Streitkräfte verändern würden. Papst Leo XIV. rief vor Gläubigen auf dem Petersplatz dazu auf, politische Macht stets am Gemeinwohl auszurichten.",
+      "Wirtschaftliche Interessenverbände äußerten sich ebenfalls zu den Folgen der Wahl. Der Außenhandelsverband BGA erklärte durch seinen Präsidenten Dirk Jandura, dass sich für den deutschen Außenhandel durch die neuen Mehrheitsverhältnisse im Kongress zunächst nichts an der bisherigen US-Zollpolitik ändern werde."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Nach den Prognosen über den Sieg der Demokraten in beiden Kongresskammern wollen diese nach Einschätzung von ZDF-Korrespondent Elmar Theveßen nicht nur eigene Gesetzesvorhaben vorantreiben. Geplant seien zudem Untersuchungsausschüsse zu möglichen Fällen von Korruption, Machtmissbrauch und zur Rolle der Regierung.",
-      "US-Präsident Donald Trump kündigte laut ZDFheute an, mit den Demokraten zusammenzuarbeiten und eine Lösung für die künftige politische Arbeit zu finden."
+      "Die vollständige Auszählung der noch ausstehenden Stimmen in den Bundesstaaten Alaska und Mississippi muss abgewartet werden, um die endgültige Sitzverteilung im Senat festzustellen. Danach werden sich die neu gewählten Abgeordneten und Senatoren konstituieren und die Fraktionsvorsitzenden wählen. Beobachter erwarten verstärkte Auseinandersetzungen zwischen dem von den Demokraten kontrollierten Kongress und der Regierung von US-Präsident Trump bei Haushaltsfragen und Gesetzgebungsverfahren."
      ]
     }
    ],
@@ -2706,136 +2644,139 @@
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Donald Trump politician",
-     "bildunterschrift": "US-Präsident Donald Trump äußerte sich zu den Ergebnissen der Zwischenwahlen und kündigte an, diese zu akzeptieren."
+     "suchbegriff": "Jon Ossoff politician",
+     "bildunterschrift": "Der demokratische Senator Jon Ossoff gewann seine Wiederwahl in Georgia und äußerte scharfe Kritik am Präsidenten."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Hakeem Jeffries politician",
+     "bildunterschrift": "Hakeem Jeffries bewertete den Wahlsieg der Demokraten als erstaunliche Rüge für politischen Extremismus."
     },
     {
      "art": "institution",
      "suchbegriff": "United States Capitol Washington DC",
-     "bildunterschrift": "Das Kapitol in Washington D.C. ist der Sitz des US-Kongresses, in dem sich die Mehrheitsverhältnisse nach den Zwischenwahlen geändert haben."
+     "bildunterschrift": "Das Kapitol in Washington ist der Tagungsort des US-Kongresses, dessen Mehrheiten sich nach den Wahlen verschieben."
     },
     {
      "art": "person",
-     "suchbegriff": "Ilhan Omar politician",
-     "bildunterschrift": "Die demokratische Abgeordnete Ilhan Omar gewann erneut ihren Sitz im US-Repräsentantenhaus im Bundesstaat Minnesota."
+     "suchbegriff": "Keisha Lance Bottoms",
+     "bildunterschrift": "Keisha Lance Bottoms wurde im Bundesstaat Georgia zur ersten schwarzen Gouverneurin in der Geschichte der USA gewählt."
     }
    ],
    "ort": {
-    "name": "Washington, D.C., USA"
+    "name": "Washington, D.C., Vereinigte Staaten"
    },
    "geprueft": true,
-   "korrekturen": [
-    "Spiegel-Zitat im Text gekürzt und auf den in den Quellen belegten Kern reduziert.",
-    "Nicht verifizierbare Zitate oder Details aus dem Spiegel entfernt, da der Artikel laut Text nicht abrufbar war.",
-    "Fehlerhafte Datumsangabe in der Zeitleiste korrigiert."
-   ],
+   "korrekturen": [],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
-      "Midterms",
-      "Das sind Zwischenwahlen in der Mitte der Amtszeit eines US-Präsidenten. Dabei werden alle Sitze im Repräsentantenhaus und ein Teil der Sitze im Senat neu vergeben."
+      "Zwischenwahlen",
+      "Wahlen in den Vereinigten Staaten, die genau in der Mitte einer vierjährigen Amtszeit des Präsidenten stattfinden."
      ],
      [
-      "Repräsentantenhaus",
-      "Das ist eine der beiden Kammern des US-Kongresses. Die Anzahl der Abgeordneten richtet sich nach der Einwohnerzahl der Bundesstaaten."
+      "Kongress",
+      "Das Parlament der Vereinigten Staaten, das aus zwei Kammern besteht: dem Senat und dem Repräsentantenhaus."
      ],
      [
-      "Senat",
-      "Das ist die zweite Kammer des US-Kongresses. Jeder Bundesstaat entsendet unabhängig von seiner Größe zwei Vertreter dorthin."
+      "Gouverneurin",
+      "Die Regierungschefin eines einzelnen Bundesstaates in den Vereinigten Staaten."
      ]
     ],
     "fragen": [
-     "Welche Folgen kann eine Niederahme der regierenden Partei im Kongress für die Politik eines US-Präsidenten haben?",
-     "Warum ist es für Nachrichten wichtiger, verschiedene Quellen miteinander zu vergleichen?"
+     "Welche Rolle spielen Berichte über Kriege und Krisen bei der Entscheidung von Wählerinnen und Wählern laut den zitierten Politikern?",
+     "Wie bewerten verschiedene Parteien und Politiker die Ergebnisse der Zwischenwahlen und welche Folgen erwarten sie für die Regierungsarbeit?"
     ],
     "quiz": [
      {
-      "frage": "Welche Partei hat nach Medienprognosen die Mehrheit in beiden Kammern des Kongresses übernommen?",
+      "frage": "Welche Partei hat nach Hochrechnungen die Mehrheit in beiden Kongresskammern gewonnen?",
       "optionen": [
        "Die Republikaner",
        "Die Demokraten",
-       "Die Grünen"
+       "Beide Parteien gleich viel"
       ],
       "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten von ZDFheute und Deutschlandfunk haben die Demokraten die Mehrheit in Senat und Repräsentantenhaus erobert."
+      "erklaerung": "Laut übereinstimmenden Hochrechnungen des Deutschlandfunks und des SWR haben die Demokraten die Mehrheit in beiden Kammern gewonnen."
      },
      {
-      "frage": "Wie reagierte US-Präsident Donald Trump auf das Wahlergebnis?",
+      "frage": "Wer wurde im Bundesstaat Georgia zur ersten schwarzen Gouverneurin gewählt?",
       "optionen": [
-       "Er kündigte an, das Wahlergebnis zu akzeptieren.",
-       "Er lehnte das Ergebnis kategorisch ab und rief zum Boykott auf.",
-       "Er trat sofort von seinem Amt zurück."
+       "Keisha Lance Bottoms",
+       "Mary Peltola",
+       "Cindy Hyde-Smith"
       ],
       "richtig": 0,
-      "erklaerung": "ZDFheute, Deutschlandfunk und Zeit übereinstimmend, dass Trump angekündigt hat, das Wahlergebnis zu akzeptieren."
+      "erklaerung": "Der ORF berichtete, dass Keisha Lance Bottoms in Georgia als erste schwarze Frau Gouverneurin wurde."
      },
      {
-      "frage": "In welchen Bundesstaaten feierten die Demokraten laut den Berichten historische Siege?",
+      "frage": "Wer machte den Iran-Krieg für die Wahlniederlage der Republikaner verantwortlich?",
       "optionen": [
-       "In Kalifornien und New York",
-       "In Texas und Kansas",
-       "In Florida und Alaska"
+       "Der Papst",
+       "Vizepräsident JD Vance",
+       "Hakeem Jeffries"
       ],
       "richtig": 1,
-      "erklaerung": "ZDFheute und Deutschlandfunk berichten übereinstimmend von historischen Siegen der Demokraten unter anderem in Texas und Kansas."
+      "erklaerung": "Vizepräsident JD Vance schrieb in einem Online-Post, dass der Krieg der Grund für die Niederlagen sei."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Bei den Wahlen in den Vereinigten Staaten haben die Demokraten nach Medienprognosen die Mehrheit im Kongress gewonnen.",
+    "vorspann": "In den Vereinigten Staaten haben die Bürgerinnen und Bürger ein neues Parlament gewählt. Dabei haben die Demokraten große Erfolge erzielt.",
     "absaetze": [
-     "Der Kongress besteht aus zwei Teilen, nämlich dem Senat und dem Repräsentantenhaus.",
-     "Die Demokraten haben in beiden Teilen die Mehrheit der Sitze erobert.",
-     "US-Präsident Donald Trump erklärte, dass er das Wahlergebnis anerkennen werde.",
-     "Experten sagen, dass die Regierung von Trump nun bestimmte Vorschläge schwerer durchsetzen kann.",
-     "In einigen Bundesstaaten wie Texas holten die Demokraten überraschend historische Siege."
+     "Bei den sogenannten Zwischenwahlen wird in der Mitte der Amtszeit eines Präsidenten über den Kongress abgestimmt.",
+     "Die Demokraten haben nach Hochrechnungen die Mehrheit im Senat und im Repräsentantenhaus gewonnen.",
+     "Im US-Bundesstaat Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt.",
+     "Politiker der Regierung machten den Krieg im Iran für die Niederlagen verantwortlich.",
+     "Der amerikanische Präsident Donald Trump kündigte an, seinen Kurs im Iran-Krieg weiterzuführen."
     ]
    },
    "video": {
     "kurz": [
-     "Die Demokraten gewinnen laut Prognosen die Mehrheit im Senat und im Repräsentantenhaus.",
-     "US-Präsident Donald Trump kündigte an, das Wahlergebnis anzuerkennen.",
-     "In mehreren Bundesstaaten erzielten die Demokraten historische Wahlerfolge."
+     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit in beiden Kongresskammern gewonnen. Nach Angaben von Hochrechnungen sicherten sich die Demokraten im Senat vierundfünfzig von einhundert Sitzen. US-Präsident Donald Trump betonte nach der Wahl, an seinem Kurs im Iran-Krieg festhalten zu wollen."
     ],
     "lang": [
-     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten nach Medienprognosen die Mehrheit in beiden Kongresskammern übernommen.",
-     "Das berichteten unter anderem das ZDF und der Deutschlandfunk am Mittwoch.",
-     "Die Demokraten sicherten sich im Senat die nötigen einundfünfzig Sitze.",
-     "Auch im Repräsentantenhaus liegen sie nach Angaben von ZDFheute deutlich vorn.",
-     "Historische Siege gab es für die Demokraten unter anderem in den Bundesstaaten Texas und Kansas.",
-     "US-Präsident Donald Trump erklärte nach Angaben des ZDF und der Wochenzeitung Zeit, dass er das Wahlergebnis akzeptieren werde.",
-     "Trump wies gleichzeitig jede Verantwortung für das Wahlergebnis von sich.",
-     "Experten weisen darauf hin, dass eine demokratische Mehrheit im Kongress die Personalentscheidungen der Regierung stark einschränken kann.",
-     "Die Demokraten planen nach Angaben des ZDF zudem Untersuchungsausschüsse.",
-     "Wie sich die Politik in Washington nun verändert, bleibt abzuwarten."
+     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit im Senat und im Repräsentantenhaus gewonnen.",
+     "Das berichtete der Sender Deutschlandfunk am vierten November zweitausendsechsundzwanzig.",
+     "Im Senat sicherten sich die Demokraten vierundfünfzig von einhundert Sitzen.",
+     "Die Republikaner kommen nach denselben Angaben auf vierundvierzig Sitze.",
+     "Im Bundesstaat Georgia wurde nach Angaben des Senders ORF mit Keisha Lance Bottoms erstmals eine schwarze Frau zur Gouverneurin gewählt.",
+     "US-Vizepräsident JD Vance nannte den Krieg gegen den Iran als Hauptgrund für die Niederlagen seiner Partei.",
+     "US-Präsident Donald Trump erklärte dagegen, er wolle an seinem Kurs im Iran-Krieg festhalten.",
+     "Bundesaußenminister Johann Wadephul sagte, er erwarte eine weiterhin konstruktive Zusammenarbeit mit der Regierung in Washington.",
+     "Die vollständige Auszählung der Stimmen in einigen Bundesstaaten dauert noch an."
     ],
     "einfach": [
-     "In den Vereinigten Staaten gab es wichtige Wahlen.",
-     "Die Demokraten haben dabei die Mehrheit im Kongress gewonnen.",
-     "Das bedeutet neue Macht für die Partei.",
-     "US-Präsident Donald Trump sagte, er werde das Ergebnis akzeptieren.",
-     "In einigen Bundesstaaten holten die Demokraten überraschende Siege."
+     "In den Vereinigten Staaten gab es eine wichtige Wahl für das Parlament.",
+     "Die Demokraten haben dabei die Mehrheit in beiden Kammern gewonnen.",
+     "Im Bundesstaat Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt.",
+     "Das ist die Regentin eines Bundesstaates in Amerika.",
+     "Regierungsmitglieder sagten, der Krieg im Iran sei ein Grund für die Niederlage.",
+     "Der Präsident Donald Trump will aber an diesem Kurs festhalten."
     ]
    },
    "kurz": [
-    "Die Demokraten gewinnen laut Prognosen die Mehrheit in Senat und Repräsentantenhaus.",
-    "US-Präsident Donald Trump kündigte an, das Wahlergebnis zu akzeptieren.",
-    "In Bundesstaaten wie Texas und Kansas erzielten die Demokraten historische Siege."
+    "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit in Senat und Repräsentantenhaus gewonnen.",
+    "Vizepräsident JD Vance und andere nannten den Iran-Krieg als Grund für das Wahlergebnis.",
+    "In Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt."
    ],
    "fakten": [
     [
-     "Sitze im Senat für die Mehrheit",
-     "51"
+     "Sitze im Senat für die Demokraten",
+     "54"
     ],
     [
-     "Mandate im Repräsentantenhaus für die Demokraten nach ersten Zählungen",
-     "155"
+     "Sitze im Senat für die Republikaner",
+     "44"
+    ],
+    [
+     "Gesamtzahl der Sitze im Senat",
+     "100"
     ]
    ],
    "dossier": {
-    "slug": "us-midterms-2026",
-    "titel": "Kongresswahlen in den Vereinigten Staaten"
+    "slug": "us-zwischenwahlen-2026",
+    "titel": "Zwischenwahlen in den Vereinigten Staaten"
    },
    "bildInfo": {
     "titel": "Donald Trump official portrait.jpg",
@@ -2897,150 +2838,303 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "ortInfo": {
-    "name": "Washington, D.C., USA",
-    "lat": 38.895,
-    "lon": -77.036
+   "version": 5
+  },
+  {
+   "id": "hubert-aiwanger-tot",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-04T20:47:59.000Z",
+   "titel": "Hubert Aiwanger im Alter von 55 Jahren gestorben",
+   "vorspann": "Der bayerische Wirtschaftsminister und Freie-Wähler-Chef Hubert Aiwanger ist im Alter von 55 Jahren gestorben. Er wurde tot in einem Berliner Hotel aufgefunden.",
+   "eil": true,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
+   "zusammenfassung": [
+    "Der bayerische Wirtschaftsminister Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+    "Er wurde tot in einem Hotel in Berlin aufgefunden, wo er sich anlässlich einer Parteibüroeröffnung aufhalten wollte.",
+    "Laut dem Tagesspiegel, der im Spiegel zitiert wird, gibt es bisher keine Hinweise auf ein Fremdverschulden.",
+    "Aiwanger war seit 2018 Wirtschaftsminister in Bayern sowie Chef der Freien Wähler."
+   ],
+   "einig": [
+    [
+     "Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+     [
+      "Spiegel",
+      "Zeit",
+      "Welt"
+     ]
+    ],
+    [
+     "Er war bayerischer Wirtschaftsminister und Chef der Freien Wähler.",
+     [
+      "Spiegel",
+      "Zeit"
+     ]
+    ],
+    [
+     "Er wurde in einem Hotel in Berlin aufgefunden.",
+     [
+      "Spiegel",
+      "Welt"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Todesursache ist in den Berichten nicht genannt. Laut dem Tagesspiegel gibt es keine Hinweise auf ein Fremdverschulden."
+   ],
+   "positionen": [],
+   "fehlend": "Reaktionen von anderen Parteien oder der Bundesregierung auf den Tod sind in den Quellen nicht enthalten.",
+   "medien": [
     {
-     "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten nach Medi",
-     "d": "783637fadf.mp3",
-     "l": 56.66,
-     "s": [
-      0.25,
-      7.56,
-      11.95,
-      16.51,
-      21.52,
-      27.39,
-      35.23,
-      39.5,
-      47.2,
-      52.55
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "04.11.26, 21:38",
+     "fokus": "Ausführlicher Lebenslauf und Umstände",
+     "text": "Der Spiegel liefert die meisten Hintergrundinformationen zur politischen Karriere, zur Flugblattaffäre von 2023 und zu den Umständen des Fundortes in Berlin.",
+     "url": "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-a-304e437f-1ace-42a6-847d-bfb92a889119#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 305,
+      "satzlaenge": 13,
+      "langeWoerter": 33
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "04.11.26, 21:47",
+     "fokus": "Kurze Meldung zum Tod",
+     "text": "Die Zeit beschränkt sich auf die Bestätigung des Todes, das Alter von 55 Jahren sowie die Ämter als Minister und Parteichef.",
+     "url": "https://www.zeit.de/politik/deutschland/2026-11/freie-waehler-chef-hubert-aiwanger-ist-tot",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Welt",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "04.11.26, 21:46",
+     "fokus": "Kompakte Todesnachricht",
+     "text": "Die Welt meldet den Tod und nennt dabei das Alter sowie den Fundort in einem Berliner Hotel.",
+     "url": "https://www.welt.de/politik/deutschland/video6aeb94a7eca9cecdd5d46f5e/bayerischer-wirtschaftsminister-hubert-aiwanger-tot-in-hotel-aufgefunden.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "WeltN24 GmbH, gehört zur Axel Springer SE",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Der Spiegel bietet einen längeren Hintergrundbericht samt politischer Historie, während Zeit und Welt sehr kurze Meldungen veröffentlichen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Hubert Aiwanger, Chef der Freien Wähler und bayerischer Wirtschaftsminister",
+    "was": "Tod in einem Berliner Hotel im Alter von 55 Jahren",
+    "wann": "am Mittwoch",
+    "wo": "Berlin",
+    "wie": "Leblos im Hotelzimmer entdeckt, laut Berichten ohne Hinweise auf Fremdverschulden",
+    "warum": "noch unklar",
+    "quellenlage": "Nachrichtenagentur dpa, Bild, Tagesspiegel, Spiegel, Zeit, Welt"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der bayerische Wirtschaftsminister und Vize-Ministerpräsident Hubert Aiwanger ist im Alter von 55 Jahren gestorben. Dies erfuhr die Nachrichtenagentur dpa aus hochrangigen Regierungskreisen in Bayern. Zuvor hatte die Zeitung Bild darüber berichtet. Auch aus Sicherheitskreisen wurde der Tod gegenüber dem Nachrichtenmagazin Spiegel bestätigt.",
+      "Der Politiker wurde in einem Hotel in Berlin-Mitte tot aufgefunden. In der Bundeshauptstadt war für den Mittwoch die Eröffnung des Hauptstadtbüros der Freien Wähler geplant. Aiwanger hätte dort am Nachmittag eine Rede halten sollen, hatte sich jedoch laut dpa aus gesundheitlichen Gründen abgemeldet.",
+      "Später war Aiwanger nach diesen Angaben nicht mehr erreichbar und wurde schließlich leblos in seinem Zimmer entdeckt. Der Tagesspiegel berichtet dazu, dass es bislang keine Hinweise auf ein Fremdverschulden gibt."
      ]
     },
     {
-     "k": "Die Demokraten gewinnen laut Prognosen die Mehrheit im Senat und im Repräsentant",
-     "d": "73f9536b01.mp3",
-     "l": 14.75,
-     "s": [
-      0.25,
-      5.87,
-      10.21
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Hubert Aiwanger wurde 55 Jahre alt. Der Niederbayer lebte mit der Freie-Wähler-Landrätin Tanja Schweiger zusammen und hatte zwei Kinder. Beruflich war er studierter Agraringenieur. Mit seinem Tod verlieren die Freien Wähler ihren markantesten und streitbarsten Kopf, wie der Spiegel ausführt.",
+      "Im Jahr 2008 zog Aiwanger mit den Freien Wählern erstmals in den bayerischen Landtag ein und übernahm dort die Funktion des Fraktionschefs. Zehn Jahre später, im Jahr 2018, bildeten die CSU und die Freien Wähler eine Regierungskoalition in Bayern. In diesem Zuge übernahm Aiwanger die Ämter des Wirtschaftsministers und des stellvertretenden Ministerpräsidenten.",
+      "Bei den bayerischen Kommunalwahlen im Frühjahr feierten die Freien Wähler unter seiner Führung noch große Siege und gewannen viele Landrats-Posten von der CSU. Ein übergeordnetes politisches Ziel blieb Aiwanger hingegen verwehrt: Der Einzug seiner Partei in den Bundestag gelang ihm zu Lebzeiten nicht."
      ]
     },
     {
-     "k": "In den Vereinigten Staaten gab es wichtige Wahlen. Die Demokraten haben dabei di",
-     "d": "92565cda5e.mp3",
-     "l": 21.68,
-     "s": [
-      0.25,
-      4.07,
-      7.92,
-      10.99,
-      16.91
-     ]
-    },
-    {
-     "k": "Ob Trump die Verantwortung für die Ergebnisse trägt, wird unterschiedlich bewert",
-     "d": "067514598f.mp3",
-     "l": 8.63,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Midterms? Das sind Zwischenwahlen in der Mitte der Amtsz",
-     "d": "f907c11665.mp3",
-     "l": 14.85,
-     "s": [
-      0.25,
-      3.24,
-      8.21
-     ]
-    },
-    {
-     "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten nach über",
-     "d": "5d9bed9eda.mp3",
-     "l": 57.94,
-     "s": [
-      0.25,
-      9.36,
-      17.99,
-      22.13,
-      28.35,
-      35.21,
-      43.81,
-      51.93
-     ]
-    },
-    {
-     "k": "In mehreren Bundesstaaten gab es bemerkenswerte Einzelergebnisse bei den Senats-",
-     "d": "d525c2b950.mp3",
-     "l": 57.99,
-     "s": [
-      0.25,
-      6.51,
-      17.13,
-      24.94,
-      30.53,
-      39.07,
-      44.29,
-      50.63
-     ]
-    },
-    {
-     "k": "Der Ausgang der Wahlen wird laut den Berichten von ZDFheute mit verschiedenen Fa",
-     "d": "58b516f5c9.mp3",
-     "l": 64.61,
-     "s": [
-      0.25,
-      6.63,
-      14.25,
-      21.88,
-      28.94,
-      37.85,
-      44.27,
-      49.33
-     ]
-    },
-    {
-     "k": "Der US-Kongress ist die gesetzgebende Versammlung der Vereinigten Staaten und be",
-     "d": "73bae14383.mp3",
-     "l": 27.15,
-     "s": [
-      0.25,
-      7.94,
-      14.82,
-      20.14
-     ]
-    },
-    {
-     "k": "Der republikanische Senatskandidat Ken Paxton gratulierte laut ZDFheute seinem K",
-     "d": "c033dd312d.mp3",
-     "l": 41.9,
-     "s": [
-      0.25,
-      10.73,
-      15.55,
-      25.41,
-      33.9
-     ]
-    },
-    {
-     "k": "Nach den Prognosen über den Sieg der Demokraten in beiden Kongresskammern wollen",
-     "d": "1a268e2e4f.mp3",
-     "l": 26.6,
-     "s": [
-      0.25,
-      10.11,
-      17.35
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Bundesweite Schlagzeilen erzielte Aiwanger im Jahr 2023 im Zusammenhang mit der sogenannten Flugblattaffäre. Diese Berichterstattung wurde damals durch einen Bericht der Süddeutschen Zeitung ausgelöst. Kurz vor der damaligen Landtagswahl geriet Aiwanger massiv unter Druck, nachdem bekannt geworden war, dass in seiner Schulzeit ein antisemitisches und menschenverachtendes Flugblatt in seinem Besitz gefunden worden war.",
+      "Sein Bruder erklärte daraufhin öffentlich, er selbst habe das entsprechende Papier verfasst. Die Affäre brachte die regierende Koalition aus CSU und Freien Wählern wenige Wochen vor der anstehenden Landtagswahl an den Rand des Zusammenbruchs."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "2008",
+     "Aiwanger zieht mit den Freien Wählern in den bayerischen Landtag ein und wird Fraktionschef."
+    ],
+    [
+     "2018",
+     "CSU und Freie Wähler bilden eine Koalition; Aiwanger wird Wirtschaftsminister und Vize-Ministerpräsident."
+    ],
+    [
+     "2023",
+     "Die Flugblattaffäre sorgt kurz vor der Landtagswahl für bundesweite Schlagzeilen."
+    ],
+    [
+     "Mittwoch",
+     "Hubert Aiwanger stirbt im Alter von 55 Jahren in einem Berliner Hotel."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Da es sich um einen Todesfall handelt, wird vereinbarungsgemäß kein Bild vorgeschlagen."
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das genaue Datum im Jahr 2026 wurde entfernt, da die Originalquellen kein konkretes Jahr oder Datum nennen, sondern nur 'Mittwoch'."
+   ],
+   "wortwarnung": [
+    "massiv"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Agraringenieur",
+      "Ein Agraringenieur ist jemand, der an einer Hochschule oder Universität die Wissenschaft der Landwirtschaft studiert hat."
+     ],
+     [
+      "Koalition",
+      "Eine Koalition ist eine Zusammenarbeit von mehreren Parteien, um gemeinsam eine Regierung zu bilden."
+     ],
+     [
+      "Fremdverschulden",
+      "Fremdverschulden liegt vor, wenn eine andere Person für einen Schaden oder einen Unfall verantwortlich ist."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielten die Medien bei der Bekanntgabe des Todes und der Hintergründe?",
+     "Wie verändern sich Parteien, wenn eine prägende Führungsperson plötzlich stirbt?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie alt wurde Hubert Aiwanger?",
+      "optionen": [
+       "50 Jahre",
+       "55 Jahre",
+       "60 Jahre"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmender Berichte von Spiegel, Zeit und Welt wurde Hubert Aiwanger 55 Jahre alt."
+     },
+     {
+      "frage": "Welches Amt hatte Hubert Aiwanger seit 2018 inne?",
+      "optionen": [
+       "Bundeskanzler",
+       "Bayerischer Wirtschaftsminister",
+       "Ministerpräsident von Baden-Württemberg"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Spiegel und Zeit war er seit 2018 bayerischer Wirtschaftsminister."
+     },
+     {
+      "frage": "Wo wurde Aiwanger tot aufgefunden?",
+      "optionen": [
+       "In einem Hotel in Berlin",
+       "In seinem Haus in Niederbayern",
+       "Im bayerischen Landtag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Spiegel und Welt wurde er tot in einem Hotel in Berlin aufgefunden."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der bayerische Wirtschaftsminister Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+    "absaetze": [
+     "Er wurde tot in einem Hotel in Berlin gefunden.",
+     "In Berlin sollte ein neues Büro seiner Partei, der Freien Wähler, eröffnet werden.",
+     "Aiwanger war seit dem Jahr 2018 Wirtschaftsminister in Bayern.",
+     "Laut Berichten gibt es bisher keine Hinweise auf ein Fremdverschulden.",
+     "Ein Fremdverschulden bedeutet, dass jemand anderes Schuld am Tod ist."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der bayerische Wirtschaftsminister Hubert Aiwanger ist mit 55 Jahren gestorben.",
+     "Er wurde tot in einem Berliner Hotel aufgefunden.",
+     "Aiwanger war Chef der Freien Wähler und seit 2018 im Amt."
+    ],
+    "lang": [
+     "Der bayerische Wirtschaftsminister Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+     "Das erfuhr die Nachrichtenagentur dpa aus Regierungskreisen in Bayern.",
+     "Der Politiker wurde tot in einem Hotel in Berlin aufgefunden.",
+     "In der Bundeshauptstadt sollte am Mittwoch ein neues Büro seiner Partei eröffnet werden.",
+     "Aiwanger war seit dem Jahr 2008 Chef der Freien Wähler.",
+     "Im Jahr 2018 wurde er Wirtschaftsminister und stellvertretender Ministerpräsident in Bayern.",
+     "Nach Angaben des Tagesspiegels gibt es bisher keine Hinweise auf ein Fremdverschulden.",
+     "Im Jahr 2023 sorgte Aiwanger wegen einer Flugblattaffäre für bundesweite Schlagzeilen.",
+     "Die genaue Todesursache ist in den Berichten bisher nicht genannt.",
+     "Die Freien Wähler verlieren mit ihm ihren bekanntesten Politiker."
+    ],
+    "einfach": [
+     "Der bayerische Wirtschaftsminister Hubert Aiwanger ist gestorben.",
+     "Er wurde fünfundfünfzig Jahre alt.",
+     "Man fand ihn tot in einem Hotel in Berlin.",
+     "Aiwanger war der Chef der Partei Freie Wähler.",
+     "Es gibt bisher keine Hinweise auf ein Fremdverschulden.",
+     "Das bedeutet, dass wahrscheinlich niemand anderes Schuld am Tod ist."
+    ]
+   },
+   "kurz": [
+    "Der bayerische Wirtschaftsminister Hubert Aiwanger ist im Alter von 55 Jahren gestorben.",
+    "Er wurde tot in einem Hotel in Berlin gefunden.",
+    "Aiwanger war seit 2018 im Amt und Chef der Freien Wähler."
+   ],
+   "fakten": [
+    [
+     "Alter",
+     "55 Jahre"
+    ],
+    [
+     "Jahr des Einzugs in den Landtag",
+     "2008"
+    ],
+    [
+     "Jahr des Beginns als Minister",
+     "2018"
+    ]
+   ],
+   "dossier": {
+    "slug": "hubert-aiwanger-verstorben",
+    "titel": "Tod von Hubert Aiwanger"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "version": 5
   },
   {
    "id": "schaeffler-stellenabbau",
@@ -8618,1589 +8712,6 @@
       16.81,
       23.39,
       30.14
-     ]
-    }
-   ]
-  },
-  {
-   "id": "un-artenschutzkonferenz-eriwan",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-11-01T17:17:05.000Z",
-   "aktualisiert": "aktualisiert um 19:52 Uhr",
-   "titel": "Abschluss der UN-Biodiversitätskonferenz in Eriwan mit Beschlüssen zum Artenschutz",
-   "vorspann": "Die Staatengemeinschaft hat sich auf der 17. UN-Biodiversitätskonferenz in Armenien nach Verhandlungen auf einen Aktionsplan verständigt. Dabei standen die beschleunigte Umsetzung des Weltnaturvertrags und die Rolle indigenen Wissens im Mittelpunkt.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Auf der COP17 in Eriwan haben sich Delegierte aus fast 200 Staaten auf einen Aktionsplan zum Schutz der Artenvielfalt geeinigt.",
-    "Die Verhandlungen waren von Konflikten über die Rechte indigener Völker, Finanzierungsfragen und den Einfluss einzelner Staaten geprägt.",
-    "Umweltschützer und Politiker äußerten ein geteiltes Echo aus verhaltenem Lob und Kritik an den Kompromissen.",
-    "Das nächste Treffen der UN-Biodiversitätskonferenz (COP18) soll im Jahr 2028 in Ecuador stattfinden."
-   ],
-   "einig": [
-    [
-     "Fast 200 Mitgliedstaaten verhandelten knapp zwei Wochen lang bei der COP17 in der armenischen Hauptstadt Eriwan.",
-     [
-      "Deutschlandfunk",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Die Staatengemeinschaft einigte sich auf verstärkte Maßnahmen und einen Aktionsplan zum Schutz der Artenvielfalt.",
-     [
-      "Deutschlandfunk",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Ecuador setzte sich bei der Abstimmung als Gastgeber für die COP18 im Jahr 2028 gegen Panama durch.",
-     [
-      "Spiegel",
-      "FAZ"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die endgültigen Fassungen der angenommenen Texte lagen laut Spiegel zunächst nicht vor."
-   ],
-   "positionen": [
-    [
-     "WWF (Naturschutzorganisation)",
-     "Begrüßt den Aktionsplan zur Umsetzung der Ziele bis 2030 als wichtiges Ergebnis.",
-     "Spiegel"
-    ],
-    [
-     "Greenpeace",
-     "Kritisierte, dass eine Antwort auf die im Zwischenbericht dargelegte Dringlichkeit fehle.",
-     "Spiegel"
-    ],
-    [
-     "Carsten Schneider (Bundesumweltminister, SPD)",
-     "Betonte das geschlossene Auftreten Europas, kritisierte jedoch Bremser in Finanzfragen.",
-     "Spiegel"
-    ],
-    [
-     "Astrid Schomaker (Uno-Biodiversitätschefin)",
-     "Bewertete die Ergebnisse als bemerkenswert angesichts von Zweifeln am Multilateralismus.",
-     "Spiegel"
-    ]
-   ],
-   "fehlend": "Reaktionen von Wirtschaftsverbänden, Vertretern der finanzstarken Golfstaaten wie Saudi-Arabien oder russischen Delegierten direkt im Wortlaut.",
-   "medien": [
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 18:17",
-     "fokus": "Kurze Agenturmeldung zum Beschluss",
-     "text": "Berichtet kurz und sachlich über die Einigung auf den Eriwan-Pfad zur Artenvielfalt.",
-     "url": "https://www.deutschlandfunk.de/einigung-bei-cop17-auf-raschere-massnahmen-zum-schutz-der-artenvielfalt-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "31.10.26, 14:31",
-     "fokus": "Ausführliche Reportage mit Reaktionen",
-     "text": "Beleuchtet die Hintergründe des Zwischenberichts, Reaktionen von Umweltverbänden und Politikern sowie die Wahl des nächsten Austragungsortes.",
-     "url": "https://www.spiegel.de/wissenschaft/natur/uno-biodiversitaetskonferenz-staaten-einigen-sich-auf-aktionsplan-zum-weltnaturvertrag-a-439d5cce-b284-4baf-8ef6-88aeb7dd49d8#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 3,
-      "woerter": 605,
-      "satzlaenge": 17,
-      "langeWoerter": 35
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "01.11.26, 10:19",
-     "fokus": "Hintergrundanalyse und Verhandlungskritik",
-     "text": "Analysiert detailliert die Konflikte um indigene Gruppen, den Einfluss von Saudi-Arabien und die Umsetzungsschwierigkeiten in der Politik.",
-     "url": "https://www.faz.net/aktuell/feuilleton/debatten/was-der-weltnaturkonferenz-in-eriwan-gelungen-ist-accg-201640362.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 6,
-      "woerter": 1176,
-      "satzlaenge": 24,
-      "langeWoerter": 31
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus und Tiefe",
-     "Während Deutschlandfunk nur kurz über die Einigung berichtet, gehen Spiegel und FAZ stark ins Detail bezüglich der Verhandlungskonflikte, Finanzen und Reaktionen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Delegierte von fast 200 Mitgliedstaaten der UN-Biodiversitätskonferenz",
-    "was": "Einigung auf Aktionsplan zum Schutz der Artenvielfalt",
-    "wann": "Oktober bis November 2026",
-    "wo": "Eriwan, Armenien",
-    "wie": "nach knapp zwei Wochen Verhandlungen und langen Sitzungen durch Kompromisse",
-    "warum": "laut Zwischenbericht wegen drohender Zielverfehlung beim Artenschutz",
-    "quellenlage": "Deutschlandfunk, Spiegel, FAZ"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Verhandlungen und Einigung",
-     "absaetze": [
-      "Knapp zwei Wochen lang haben Delegierte von fast 200 Mitgliedstaaten bei der 17. UN-Biodiversitätskonferenz in der armenischen Hauptstadt Eriwan verhandelt. Im Mittelpunkt stand die Frage, wie die Staaten die selbst gesteckten Ziele beim Artenschutz trotz Rückschlägen einhalten können. Zum Abschluss der Konferenz verabschiedeten die Delegierten den sogenannten Eriwan-Pfad. Dieser sieht verstärkte Anstrengungen zum Schutz der weltweiten Artenvielfalt vor.",
-      "Ein kurz vor der Konferenz veröffentlichter Zwischenbericht zeigte, dass die bisherigen Ziele ohne mehr Tempo bei der Umsetzung nicht erreicht werden können. Die Verhandlungen erwiesen sich als zäh und dauerten länger als geplant. Nach einer Einigung am Freitagabend brach Applaus im Plenarsaal aus, doch weitere Beratungen zogen sich noch bis in den Samstagmorgen hin. Die endgültigen Fassungen der angenommenen Texte lagen laut Spiegel zunächst nicht vor.",
-      "Laut FAZ endete die Konferenz nach zehn zermürbenden Stunden in einer Nacht, in der ein Ringen um Formulierungen die Texte schwächte. Das Plenum wurde zudem zur Bühne von Machtdemonstrationen vor allem Russlands. Parteien verabredeten sich zu Gesprächen, woraufhin alle Beteiligten ein Stück von ihrer Haltung abrückten, um das größere Ziel nicht zu gefährden. Damit wurde ein Abbruch der Konferenz verhindert, wie er zwei Jahre zuvor stattgefunden hatte."
-     ]
-    },
-    {
-     "ueberschrift": "Inhalte und Streitpunkte",
-     "absaetze": [
-      "Vor vier Jahren hatten sich die Staaten im Weltnaturvertrag auf 23 Ziele bis 2030 geeinigt, darunter den Schutz von mindestens 30 Prozent der weltweiten Land- und Meeresflächen. Zudem sollten umweltschädliche Subventionen für fossile Energieträger weltweit um mindestens 500 Milliarden Dollar verringert werden. Laut Spiegel und FAZ ermutigt die Konferenz die Länder lediglich dazu, diese Subventionen abzubauen. Eine konkrete Antwort zur Schließung der finanziellen Lücke für den globalen Süden wurde laut FAZ nicht gefunden.",
-      "Ein zentraler Streitpunkt, der die Konferenz fast an den Rand des Scheiterns brachte, betraf die indigenen Völker und Gemeinschaften. Diese erhielten vor zwei Jahren ein eigenes Gremium innerhalb des UN-Abkommens zugesprochen. Diskutiert wurde, wie das Organ organisiert wird, wer ihm vorsteht und wie eigenständig die indigenen Gruppen in seiner Besetzung vorgehen können. Dies berührt Fragen der Selbstbestimmung und des Vertrauens in die Staaten.",
-      "Laut FAZ arbeiteten vor allem Saudi-Arabien, Russland und Argentinien daran, die Rolle der Wissenschaft im Weltnaturabkommen infrage zu stellen. Sie versuchten, die Bezugnahme auf Berichte des Weltbiodiversitätsrats IPBES aus den Konferenzpapieren herauszuverhandeln. Zudem tauchten zunehmend Formulierungen auf, dass Maßnahmen nur entsprechend den nationalen Gegebenheiten zu tun seien. Dadurch wird die Weltgemeinschaft laut FAZ in Einzelstaaten zerlegt, die sich der Mitwirkung entziehen können."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen von Organisationen und Politik",
-     "absaetze": [
-      "Umweltschützer äußerten sich verhalten über die Beschlüsse der Konferenz. Die Naturschutzorganisation WWF begrüßte als wichtigstes Ergebnis, dass sich die Staaten auf einen Aktionsplan geeinigt haben. Greenpeace erklärte, die Konferenz habe zwar einen Kurs festgelegt, aber es fehle eine Antwort, die der Dringlichkeit aus dem Zwischenbericht gerecht werde. Catherine Weller von der Organisation Fauna & Flora sagte laut Spiegel, die Einigung sei nicht besonders aufregend oder detailliert, aber eine gute Nachricht.",
-      "Bundesumweltminister Carsten Schneider erklärte laut Spiegel, die Europäer hätten geschlossen und stark für die Natur verhandelt, aber es habe auch Bremser gegeben. Der SPD-Politiker kündigte an, Deutschland werde sein Engagement für den Ausbau von Schutzgebieten an Land und auf See fortsetzen. Uno-Biodiversitätschefin Astrid Schomaker sagte laut Spiegel, der Gipfel habe bemerkenswerte Dinge erreicht in einem Moment, in dem der Multilateralismus angeblich nicht funktioniert.",
-      "Laut FAZ wurde Deutschland auf der Konferenz dafür gelobt, 50 Millionen Euro für den Fonds zum Schutz der biologischen Vielfalt bereitzustellen. Gleichzeitig kämpft Umweltminister Schneider zu Hause um ein Natürliche-Infrastruktur-Gesetz. Die EU gehörte in Eriwan zu den ambitionierteren Verhandlern, während das Europäische Parlament laut FAZ mit Bürokratieabbau-Paketen Umweltauflagen schwächte."
-     ]
-    },
-    {
-     "ueberschrift": "Ausblick",
-     "absaetze": [
-      "Bei der Wahl des Gastgebers für die COP18 setzte sich Ecuador am frühen Samstagmorgen in geheimer Abstimmung knapp mit 55 zu 53 Stimmen gegen Panama durch. Das nächste Treffen soll im Jahr 2028 in Quito stattfinden. Jannes Stoppel von Greenpeace Deutschland sagte laut Spiegel, die Beschlüsse gäben Rückenwind für die kommenden Klimaverhandlungen in Antalya und den Schutz der hohen See."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2022",
-     "Verabschiedung des Biodiversitätsrahmens von Kunming-Montreal mit 23 Zielen bis 2030."
-    ],
-    [
-     "Oktober 2026",
-     "Zweiwöchige Verhandlungen der COP17 in Armenien."
-    ],
-    [
-     "2022",
-     "Verabschiedung des Biodiversitätsrahmens von Kunming-Montreal mit Zielen bis 2030."
-    ],
-    [
-     "Oktober 2026",
-     "Zweiwöchige Verhandlungen der COP17 in Eriwan, Armenien."
-    ],
-    [
-     "Oktober 2026",
-     "Zweiwöchige Verhandlungen der COP17 in Eriwan in Armenien."
-    ],
-    [
-     "2022",
-     "Verabschiedung des Weltnaturvertrags mit 23 Zielen bis 2030."
-    ],
-    [
-     "Oktober 2026",
-     "Zweiwöchige Verhandlungen der COP17 in Eriwan."
-    ],
-    [
-     "31.10.2026",
-     "Einigung auf Abschlussdokumente und Wahl von Ecuador als Austragungsort für 2028."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Astrid Schomaker",
-     "bildunterschrift": "Astrid Schomaker leitet als Uno-Biodiversitätschefin die Verhandlungen der Staatengemeinschaft."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Yerevan",
-     "bildunterschrift": "Die armenische Hauptstadt Eriwan war der Austragungsort der 17. UN-Biodiversitätskonferenz."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "United Nations Environment Programme",
-     "bildunterschrift": "Das Umweltprogramm der Vereinten Nationen befasst sich international mit dem Schutz von Natur und Artenvielfalt."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Biodiversity",
-     "bildunterschrift": "Die weltweite Artenvielfalt und der Erhalt von Ökosystemen stehen im Zentrum des Abkommens."
-    }
-   ],
-   "ort": {
-    "name": "Eriwan, Armenien"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das Wort within im zweiten Absatz des zweiten Artikels wurde zu innerhalb korrigiert."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Biodiversität",
-      "Biodiversität bedeutet die Vielfalt aller lebendigen Arten auf der Erde, wie Tiere, Pflanzen und Pilze."
-     ],
-     [
-      "Multilateralismus",
-      "Multilateralismus beschreibt die Zusammenarbeit von vielen verschiedenen Staaten bei der Lösung internationaler Probleme."
-     ],
-     [
-      "Indigene Völker",
-      "Indigene Völker sind Ureinwohner, die oft schon sehr lange in einem Gebiet leben und die Natur traditionell bewahren."
-     ]
-    ],
-    "fragen": [
-     "Welche Schwierigkeiten kann es geben, wenn fast zweihundert Staaten gemeinsam über den Umweltschutz verhandeln?",
-     "Warum fordern Umweltschützer oft schnellere Taten statt reiner Absichtserklärungen von Politikern?",
-     "Welche Rolle spielen indigene Völker beim Schutz von Ökosystemen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wo fand die siebzehnte UN-Biodiversitätskonferenz statt?",
-      "optionen": [
-       "In Eriwan",
-       "In Quito",
-       "In Montreal"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Deutschlandfunk und Spiegel fand die Konferenz in der armenischen Hauptstadt Eriwan statt."
-     },
-     {
-      "frage": "Welches Land wird die nächste Konferenz COP18 im Jahr 2028 ausrichten?",
-      "optionen": [
-       "Deutschland",
-       "Ecuador",
-       "Panama"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Spiegel und FAZ setzte sich Ecuador in einer Abstimmung gegen Panama durch und wird Gastgeber der COP18."
-     },
-     {
-      "frage": "Worauf hat sich die Staatengemeinschaft auf der Konferenz geeinigt?",
-      "optionen": [
-       "Auf einen Aktionsplan zum Schutz der Artenvielfalt",
-       "Auf ein Verbot aller fossilen Energieträger",
-       "Auf den Abbruch aller weiteren UN-Treffen"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Deutschlandfunk und Spiegel einigte sich die Staatengemeinschaft auf verstärkte Anstrengungen und einen Aktionsplan zum Schutz der Artenvielfalt."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Armenien haben sich fast zweihundert Staaten auf einen neuen Aktionsplan zum Schutz der Natur geeinigt.",
-    "absaetze": [
-     "Die Konferenz trug den Namen COP17 und fand in der Hauptstadt Eriwan statt.",
-     "Fast zwei Wochen lang haben die Politiker über den Artenschutz und die Natur verhandelt.",
-     "Vor vier Jahren hatten sich die Staaten bereits auf den Weltnaturvertrag geeinigt.",
-     "Nun ging es darum, die Umsetzung dieser Ziele zu beschleunigen und die Natur zu retten.",
-     "Umweltschützer lobten die Einigung, kritisierten aber auch, dass viele Beschlüsse zu vage blieben.",
-     "Das nächste Treffen im Jahr zweitausendachtundzwanzig wird in dem Land Ecuador stattfinden."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In Eriwan ging die siebzehnte UN-Biodiversitätskonferenz mit einer Einigung zu Ende.",
-     "Fast zweihundert Staaten verständigten sich nach langen Verhandlungen auf einen neuen Aktionsplan.",
-     "Umweltschützer äußerten gemischte Reaktionen und forderten ein schnelleres Vorgehen gegen das Artensterben.",
-     "Das nächste Treffen im Jahr zweitausendachtundzwanzig findet in Ecuador statt."
-    ],
-    "lang": [
-     "In der armenischen Hauptstadt Eriwan haben sich Delegierte aus fast zweihundert Staaten auf einen neuen Aktionsplan geeinigt.",
-     "Nach knapp zwei Wochen Verhandlungen endete am Samstagmorgen die siebzehnte UN-Biodiversitätskonferenz.",
-     "Im Mittelpunkt stand die Frage, wie die Staatengemeinschaft die Ziele des Weltnaturvertrags schneller umsetzen kann.",
-     "Die Delegierten verabschiedeten den sogenannten Eriwan-Pfad für den weltweiten Artenschutz.",
-     "Bei der Abstimmung über den nächsten Austragungsort setzte sich Ecuador mit fünfundfünfzig zu dreiundfünfzig Stimmen gegen Panama durch.",
-     "Das nächste Treffen der Konferenz ist für das Jahr zweitausendachtundzwanzig in Quito geplant.",
-     "Nach Angaben von Umweltschützern und Politikern enthält die Einigung zwar wichtige Schritte, es fehlten jedoch konkrete Antworten auf die Dringlichkeit der Krise.",
-     "Die Konferenz stand im Zeichen des Versuchs, den Verlust von Ökosystemen weltweit aufzuhalten.",
-     "Ein genauer Text der Beschlüsse lag zunächst nicht vollständig vor.",
-     "Die Staaten wollen nun an den vereinbarten Zielen zur Rettung der Artenvielfalt festhalten."
-    ],
-    "einfach": [
-     "In Armenien endete eine große Konferenz zum Schutz der Natur.",
-     "Fast zweihundert Länder haben dort über den Artenschutz gesprochen.",
-     "Die Politiker einigten sich auf einen Plan für eine bessere Zukunft der Natur.",
-     "Viele Umweltschützer finden den Plan gut, fordern aber mehr Tempo.",
-     "Im Jahr zweitausendachtundzwanzig findet das nächste Treffen in Ecuador statt."
-    ]
-   },
-   "kurz": [
-    "Fast zweihundert Staaten einigten sich auf der COP17 in Eriwan auf einen Aktionsplan.",
-    "Im Mittelpunkt standen die Umsetzung des Weltnaturvertrags und der Schutz der Artenvielfalt.",
-    "Umweltschützer äußerten verhaltenes Lob und kritisierten fehlende Details sowie langsame Fortschritte.",
-    "Die COP18 findet im Jahr zweitausendachtundzwanzig in Ecuador statt."
-   ],
-   "fakten": [
-    [
-     "Stimmen für Ecuador als Gastgeber",
-     "55"
-    ],
-    [
-     "Stimmen für Panama",
-     "53"
-    ],
-    [
-     "Bereitgestellter Betrag Deutschlands",
-     "50 Millionen Euro"
-    ]
-   ],
-   "dossier": {
-    "slug": "un-biodiversitaetskonferenz-cop17",
-    "titel": "UN-Biodiversitätskonferenz COP17"
-   },
-   "bildInfo": {
-    "titel": "FFA Technical Centre-Academy,Yerevan (cropped).jpg",
-    "beschreibung": "FFA Technical Centre-Academy Stadium,Yerevan, Armenia.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg/1280px-FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:FFA_Technical_Centre-Academy,Yerevan_(cropped).jpg",
-    "urheber": "me",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Yerevan Football Academy Stadium",
-    "sprache": "de",
-    "art": "ort",
-    "suchbegriff": "Yerevan",
-    "bildunterschrift": "Die Stadt Eriwan in Armenien war der Austragungsort der 17. UN-Biodiversitätskonferenz.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "FFA Technical Centre-Academy,Yerevan (cropped).jpg",
-     "beschreibung": "FFA Technical Centre-Academy Stadium,Yerevan, Armenia.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg/1280px-FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/FFA_Technical_Centre-Academy%2CYerevan_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:FFA_Technical_Centre-Academy,Yerevan_(cropped).jpg",
-     "urheber": "me",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Yerevan Football Academy Stadium",
-     "sprache": "de",
-     "art": "ort",
-     "suchbegriff": "Yerevan",
-     "bildunterschrift": "Die Stadt Eriwan in Armenien war der Austragungsort der 17. UN-Biodiversitätskonferenz.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Mount Ararat and the Yerevan skyline.jpg",
-     "beschreibung": "Ağrı Dağı and the Yerevan skyline. The Opera house is visible in the center.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg/1280px-Mount_Ararat_and_the_Yerevan_skyline.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Ararat_and_the_Yerevan_skyline.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Mount_Ararat_and_the_Yerevan_skyline.jpg",
-     "urheber": "Սէրուժ Ուրիշեան (Serouj Ourishian)",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "ort",
-     "suchbegriff": "Yerevan",
-     "bildunterschrift": "Blick auf die armenische Hauptstadt Eriwan vor der Bergkulisse.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Eriwan, Armenien",
-    "lat": 40.178,
-    "lon": 44.513
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "In der armenischen Hauptstadt Eriwan haben sich Delegierte aus fast zweihundert ",
-     "d": "db77b18772.mp3",
-     "l": 61,
-     "s": [
-      0.25,
-      7.41,
-      13.35,
-      19.64,
-      24.78,
-      32.36,
-      37.78,
-      46.23,
-      51.53,
-      55.38
-     ]
-    },
-    {
-     "k": "In Eriwan ging die siebzehnte UN-Biodiversitätskonferenz mit einer Einigung zu E",
-     "d": "a66462512d.mp3",
-     "l": 21.33,
-     "s": [
-      0.25,
-      5.24,
-      10.5,
-      16.46
-     ]
-    },
-    {
-     "k": "In Armenien endete eine große Konferenz zum Schutz der Natur. Fast zweihundert L",
-     "d": "2e2e87ebf7.mp3",
-     "l": 24.91,
-     "s": [
-      0.25,
-      4.98,
-      9.38,
-      14.69,
-      19.39
-     ]
-    },
-    {
-     "k": "Die endgültigen Fassungen der angenommenen Texte lagen laut Spiegel zunächst nic",
-     "d": "5f51e4387a.mp3",
-     "l": 5.56,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Biodiversität? Biodiversität bedeutet die Vielfalt aller",
-     "d": "d450a996ac.mp3",
-     "l": 12.34,
-     "s": [
-      0.25,
-      3.91
-     ]
-    },
-    {
-     "k": "Knapp zwei Wochen lang haben Delegierte von fast 200 Mitgliedstaaten bei der 17.",
-     "d": "82b0fc6bc1.mp3",
-     "l": 46.96,
-     "s": [
-      0.25,
-      5.9,
-      10.58,
-      17.4,
-      22.62,
-      27.54,
-      34.94,
-      39.32
-     ]
-    },
-    {
-     "k": "Vor vier Jahren hatten sich die Staaten im Weltnaturvertrag auf 23 Ziele bis 203",
-     "d": "37ff0a35e5.mp3",
-     "l": 58.48,
-     "s": [
-      0.25,
-      11.83,
-      19.61,
-      26.07,
-      32.49,
-      40.05,
-      45.56,
-      53.88
-     ]
-    },
-    {
-     "k": "Umweltschützer äußerten sich verhalten über die Beschlüsse der Konferenz. Die Na",
-     "d": "e445df550c.mp3",
-     "l": 64.56,
-     "s": [
-      0.25,
-      4.19,
-      11.29,
-      19.79,
-      28.67,
-      37.67,
-      45.25,
-      55.3
-     ]
-    },
-    {
-     "k": "Bei der Wahl des Gastgebers für die COP18 setzte sich Ecuador am frühen Samstagm",
-     "d": "c983b8df05.mp3",
-     "l": 26.13,
-     "s": [
-      0.25,
-      11.07,
-      16.21
-     ]
-    }
-   ]
-  },
-  {
-   "id": "berlin-koalitionsverhandlungen-linke",
-   "rubrik": "Deutschland",
-   "zeit": "2026-11-01T17:17:05.000Z",
-   "aktualisiert": "aktualisiert um 19:52 Uhr",
-   "titel": "Berliner Linke stimmt für Koalitionsverhandlungen mit Grünen und SPD",
-   "vorspann": "Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus hat der Landesparteitag der Linken für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD gestimmt. Die Gespräche zwischen den Parteien sollen am Montag beginnen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Die Berliner Linke hat auf einem Parteitag mit breiter Mehrheit für die Aufnahme von Koalitionsverhandlungen mit SPD und Grünen gestimmt.",
-    "Die Gespräche sollen am kommenden Montag beginnen, nachdem Grüne und SPD bereits in der Vorwoche ihre Zustimmung gegeben hatten.",
-    "Das geplante Dreierbündnis ist aufgrund politischer Vorhaben wie der Vergesellschaftung von Wohnungsbeständen und interner Debatten um den Nahost-Konflikt umstritten.",
-    "Bis zum Jahreswechsel streben die drei Parteien den Abschluss der Regierungsbildung an, vorausgesetzt auch die SPD-Basis stimmt zu."
-   ],
-   "einig": [
-    [
-     "Die Berliner Linke hat auf einem Landesparteitag für Koalitionsverhandlungen mit Grünen und SPD gestimmt.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "Grüne und SPD hatten den Koalitionsgesprächen bereits in der Vorwoche zugestimmt.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "Die Koalitionsgespräche sollen am Montag beginnen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ],
-    [
-     "Linke, Grüne und SPD verständigten sich vor den Sondierungen auf eine gemeinsame Erklärung zu Antisemitismus und dem Existenzrecht Israels.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die SPD-Mitglieder der Koalition am Ende zustimmen werden, steht laut Tagesschau/ARD noch aus.",
-    "Ob die Sanktionen bei Verstößen gegen die Antisemitismus-Erklärung auch auf die umstrittene Abgeordnete Vanessa Emde angewendet werden, ist laut ZDFheute offen."
-   ],
-   "positionen": [
-    [
-     "Elif Eralp (Linke-Fraktionschefin und Bürgermeisterkandidaten-Anwärterin)",
-     "Will trotz Widerständen und Angriffen Regierende Bürgermeisterin werden und verspricht eine Politik für die Sicherheit und Würde aller Menschen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Ines Schwerdtner (Bundesvorsitzende der Linken)",
-     "Bezeichnete die Koalitionsoption als historische Chance und kritisierte die Berichterstattung über Eralp als beschämende Kampagne.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Joachim Gauck (früherer Bundespräsident)",
-     "Erklärte, dass das Votum der Berliner die Linke zur stärksten Kraft gemacht habe und sie daher regieren sollten.",
-     "ZDFheute"
-    ],
-    [
-     "Vanessa Emde (Linken-Abgeordnete)",
-     "Kritisierte den Kurs der Parteispitze und betonte, die Kriminalisierung der Palästina-Solidarität müsse eine rote Haltelinie sein.",
-     "ZDFheute"
-    ],
-    [
-     "Wirtschaftsverbände und Bundesregierung",
-     "Machen Front gegen die Pläne zur Vergesellschaftung von Wohnungen; die Bundesregierung will das Vorhaben mit einem neuen Gesetz stoppen.",
-     "Tagesschau/ARD"
-    ]
-   ],
-   "fehlend": "Stimmen der Berliner CDU, der AfD sowie offizielle Stellungnahmen der beteiligten Landesverbände von SPD und Grünen zu den konkreten Verhandlungsdetails.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 19:00",
-     "fokus": "Hintergründe zu Vergesellschaftung und Antisemitismus-Debatte",
-     "text": "Die Tagesschau beleuchtet ausführlich die Pläne zur Vergesellschaftung von 160.000 Wohnungen sowie die Reaktionen von Kanzler Merz und Wirtschaftsverbänden. Zudem wird die gemeinsame Erklärung gegen Antisemitismus im Detail beschrieben.",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/linke-parteitag-koalitionsverhandlungen-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 565,
-      "satzlaenge": 15,
-      "langeWoerter": 31
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 20:12",
-     "fokus": "Sicherheitslage und Proteste am Parteitag",
-     "text": "ZDFheute legt einen starken Fokus auf die Sicherheitsvorkehrungen und den Polizeieinsatz beim Parteitag in Lichtenberg. Zudem werden die Kundgebungen des linken Lagers und der Auftritt der Abgeordneten Vanessa Emde geschildert.",
-     "url": "https://www.zdfheute.de/politik/deutschland/berlin-linke-gruene-spd-koalitionsverhandlungen-wahl-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 584,
-      "satzlaenge": 15,
-      "langeWoerter": 32
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 18:17",
-     "fokus": "Kompakte Zusammenfassung des Parteitagsbeschlusses",
-     "text": "Der Deutschlandfunk liefert eine sehr kurze und prägnante Zusammenfassung darüber, dass die Berliner Linke mit deutlicher Mehrheit für die Koalitionsverhandlungen gestimmt hat.",
-     "url": "https://www.deutschlandfunk.de/linke-stimmt-fuer-koalitionsverhandlungen-mit-gruenen-und-spd-102.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit der Proteste",
-     "ZDFheute berichtet ausführlich über die Polizeipräsenz, den Personenschutz für Eralp und die Kundgebung von Pro-Palästina-Aktivisten, während die anderen Quellen diesen Aspekt kaum oder gar nicht erwähnen."
-    ],
-    [
-     "Wohnungs-Vergesellschaftung",
-     "Tagesschau/ARD nennt konkrete Details über die 160.000 Wohnungen von fünf Konzernen und die Pläne der Bundesregierung zur Verhinderung, was im Deutschlandfunk und bei ZDFheute im Haupttext nicht vertieft wird."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Der Landesparteitag der Berliner Linken",
-    "was": "Stimmung für Koalitionsverhandlungen mit Grünen und SPD",
-    "wann": "31.10.2026",
-    "wo": "Berlin",
-    "wie": "Mit breiter Zustimmung bei wenigen Gegenstimmen und Enthaltungen",
-    "warum": "Wahlauftrag zur Regierungsbildung nach Angaben der Partei",
-    "quellenlage": "Tagesschau/ARD, ZDFheute und Deutschlandfunk"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus hat der Landesparteitag der Linken in Berlin-Lichtenberg für die Aufnahme von Koalitionsverhandlungen mit Grünen und SPD gestimmt. Laut übereinstimmenden Berichten von Tagesschau/ARD, ZDFheute und Deutschlandfunk gab es auf dem Parteitag eine breite Zustimmung der Delegierten bei wenigen Gegenstimmen und Enthaltungen. Die Gespräche zwischen den drei Parteien sollen am kommenden Montag beginnen. Grüne und SPD hatten sich bereits in der Vorwoche für die Koalitionsgespräche entschieden.",
-      "Die Berliner Linke war bei der Abgeordnetenhaus-Wahl am 20. September mit 25,7 Prozent zur stärksten Kraft gewählt worden. Es folgen laut Tagesschau/ARD die CDU mit 18,8 Prozent, die AfD mit 16,3 Prozent, die Grünen mit 14,3 Prozent und die SPD mit 12,1 Prozent. Die bisher regierende Koalition aus CDU und SPD hat damit ihre Mehrheit verloren. Basis für die nun beginnenden Verhandlungen ist ein vor zwei Wochen vorgelegtes Sondierungspapier der Parteien.",
-      "Das angepeilte Dreierbündnis in der Hauptstadt wird von der Linken angeführt. Sollte das Bündnis zustande kommen, könnte Elif Eralp als erste linke regierende Bürgermeisterin an der Spitze der Stadt stehen. Die Parteispitze der Linken wirbt mit Nachdruck für das Vorhaben und bezeichnete die Regierungsbildung auf dem Parteitag als historische Chance. Klar ist laut Tagesschau/ARD jedoch auch, dass eine Koalition erst nach einer positiven Zustimmung der Berliner SPD-Mitglieder gebildet werden kann."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Der Landesparteitag der Linken fand unter starken Sicherheitsvorkehrungen statt, wie ZDFheute berichtet. Rund um den Tagungsort in Lichtenberg hielten sich Polizeibeamte auf, und auch im Saal waren Zivilpolizisten präsent. Am Vortag war bekannt geworden, dass die designierte Politikerin Elif Eralp Personenschutz erhalten hat. Hintergrund sind laut ZDFheute Aufrufe auf Social-Media-Kanälen zu Kundgebungen vor dem Tagungsort gegen Wählersverrat und für konsequente Palästinasolidarität.",
-      "Am Rande des Parteitags versammelten sich laut ZDFheute etwa 80 Menschen aus dem linken Lager zu einer Kundgebung gegen den Kurs der eigenen Parteispitze. An der Kundgebung nahm auch die umstrittene Linken-Abgeordnete Vanessa Emde teil, deren Fraktionsspitze laut ZDFheute schon länger keine gemeinsame Arbeitsgrundlage mehr sieht. Die Demonstrierenden kritisierten unter anderem die Kriminalisierung der Palästina-Solidarität. Ungefähr 100 Pro-Palästina-Aktivisten, darunter Parteimitglieder, schwenkten nach Berichten von ZDFheute Palästina-Fahnen.",
-      "Ein zentraler und bundesweit umstrittener Punkt des Sondierungspapiers ist das Vorhaben, etwa 160.000 Wohnungen aus dem Besitz von fünf großen Wohnungsbaukonzernen zu vergesellschaften. Eine solche Überführung in Gemeineigentum gegen Entschädigung wäre in Deutschland laut Tagesschau/ARD bislang einmalig. Wirtschaftsverbände und die schwarz-rote Bundesregierung lehnen diesen Schritt ab; letztere plant ein neues Gesetz, um das Vorhaben zu stoppen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die Regierungsbildung in Berlin wird laut den Berichten von einer Debatte über ein konsequentes Vorgehen gegen Antisemitismus überschattet. Auslöser waren mehrere Vorfälle in den Reihen der Linkspartei sowie die Positionen einzelner Abgeordneter zum Nahost-Konflikt. Schon vor Beginn der Sondierungen hatten sich Linke, Grüne und SPD auf eine gemeinsame Erklärung verständigt.",
-      "Diese Erklärung behandelt das Existenzrecht Israels, den Schutz jüdischen Lebens sowie Maßnahmen gegen Antisemitismus und soll in den Koalitionsvertrag aufgenommen werden. Bei Verstößen gegen diese Grundsätze sind Sanktionen bis hin zum Fraktionsausschluss angedacht. Die Einhaltung dieser Vorgaben ist für den weiteren Verlauf des Bündnisses von Bedeutung.",
-      "Zusätzlich sorgte eine Veröffentlichung des Magazins Der Spiegel über interne Notizen von Elif Eralp für Unruhe. In dem Vermerk hatte Eralp öffentlich gemacht, dass sie und ihr Mann Angst vor einem der Linken nahestehenden Hamas-Sympathisanten haben. Die Bundesvorsitzende der Linken, Ines Schwerdtner, verteidigte Eralp gegen die Berichterstattung und sprach von einer beschämenden Kampagne."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Koalition bezeichnet den Zusammenschluss mehrerer Parteien zur Bildung einer Regierung und zur Sicherung einer parlamentarischen Mehrheit. In einem Koalitionsvertrag vereinbaren die beteiligten Parteien ihre politischen Vorhaben für die gemeinsame Regierungszeit.",
-      "Unter Vergesellschaftung versteht man im rechtlichen und politischen Kontext die Überführung von Privateigentum in Gemeineigentum."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Linke-Fraktionschefin Elif Eralp betonte auf dem Parteitag laut Tagesschau/ARD ihren Willen, Regierende Bürgermeisterin zu werden. Sie erklärte, man werde sich nicht kleinkriegen lassen und die Angriffswelle überstehen. Zudem gab Eralp ein Schutzversprechen für die Menschen in Berlin ab, wonach sie eine Politik für alle in Sicherheit und Würde machen wolle. Laut ZDFheute kündigte sie an, sich entschlossen gegen jede Form von Menschenfeindlichkeit, Antisemitismus und Rassismus zu stellen.",
-      "Die Bundesvorsitzende der Linken, Ines Schwerdtner, warb auf dem Parteitag mit den Worten für Zustimmung, man schreibe hier Geschichte und solle diese historische Chance ergreifen. Sie nahm Eralp im Zusammenhang mit der Diskussion über den internen Vermerk in Schutz. Der frühere Bundespräsident Joachim Gauck erklärte bei der Sendung maybrit illner laut ZDFheute, das Wähler-Votum gebe die Richtung vor, und da die Berliner die Linke zur stärksten Kraft gemacht hätten, sollten sie auch regieren.",
-      "Die Linken-Abgeordnete Vanessa Emde äußerte sich auf einer Kundgebung am Rande des Parteitags kritisch. Ein Regierungswechsel sei noch lange kein Wechsel der herrschenden Politik, sagte sie laut ZDFheute. Die Kriminalisierung der Palästina-Solidarität müsse eine rote Haltelinie sein."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die offiziellen Koalitionsgespräche zwischen der Linken, der SPD und den Grünen sollen am kommenden Montag beginnen. Der Plan sieht laut ZDFheute vor, bis zum Jahreswechsel eine neue Regierung für Berlin zu bilden.",
-      "Zusätzlich zur Zustimmung der Parteitage ist für den Erfolg des Bündnisses auch ein positiver Ausgang der von der SPD-Landesvorstand beschlossenen Mitgliederbefragung innerhalb der Berliner SPD abzuwarten, wie Tagesschau/ARD berichtet."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2026-09-20",
-     "Abgeordnetenhauswahl in Berlin, bei der die Linke laut Tagesschau und ORF stärkste Kraft wurde."
-    ],
-    [
-     "2021",
-     "Volksentscheid stimmte für Enteignungen großer Immobilienkonzerne."
-    ],
-    [
-     "2026-09-20",
-     "Abgeordnetenhauswahl in Berlin, bei der die Linke stärkste Kraft wurde."
-    ],
-    [
-     "2026-10-15",
-     "Ungefährer Zeitpunkt der Einigung auf ein gemeinsames Sondierungspapier."
-    ],
-    [
-     "2026-10-31",
-     "Landesparteitag der Berliner Linken stimmt für die Aufnahme von Koalitionsverhandlungen."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Elif Eralp politician",
-     "bildunterschrift": "Die Linken-Politikerin Elif Eralp könnte als erste linke regierende Bürgermeisterin von Berlin an die Spitze der Stadt rücken."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Ines Schwerdtner politician",
-     "bildunterschrift": "Die Bundesvorsitzende der Linken Ines Schwerdtner warb auf dem Parteitag für die Aufnahme von Koalitionsverhandlungen."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Abgeordnetenhaus Berlin",
-     "bildunterschrift": "Das Abgeordnetenhaus von Berlin, in dem nach der Wahl vom September 2026 eine neue Regierung gebildet werden soll."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Rotes Rathaus Berlin",
-     "bildunterschrift": "Das Rotes Rathaus in Berlin ist der traditioneller Amtssitz des Regierenden Bürgermeisters."
-    }
-   ],
-   "ort": {
-    "name": "Berlin, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Artikel 15 im Abschnitt Zum Verständnis entfernt, da er nicht in den Berichten steht."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Koalition",
-      "Ein Zusammenschluss von mehreren Parteien, um gemeinsam eine Regierung zu bilden und eine Mehrheit im Parlament zu sichern."
-     ],
-     [
-      "Vergesellschaftung",
-      "Die Überführung von Privateigentum in das Eigentum der Allgemeinheit oder des Staates, zum Beispiel bei großen Wohnungsbeständen."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Sicherheitsvorkehrungen und Proteste bei Parteitagen laut den Berichten?",
-     "Wie bewerten verschiedene Parteien und Verbände das Vorhaben, Wohnungen zu vergesellschaften?"
-    ],
-    "quiz": [
-     {
-      "frage": "Welcher Partei gelang bei der Abgeordnetenhaus-Wahl in Berlin am 20. September 2026 mit 25,7 Prozent der Sprung zur stärksten Kraft?",
-      "optionen": [
-       "CDU",
-       "Die Linke",
-       "SPD"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau/ARD wurde die Linke bei der Abgeordnetenhaus-Wahl am 20. September mit 25,7 Prozent stärkste Kraft."
-     },
-     {
-      "frage": "Wann sollen die Koalitionsgespräche zwischen Linken, Grünen und SPD beginnen?",
-      "optionen": [
-       "Am Montag",
-       "Am Mittwoch",
-       "Am kommenden Monat"
-      ],
-      "richtig": 0,
-      "erklaerung": "Übereinstimmend berichten Tagesschau/ARD und ZDFheute, dass die Gespräche am Montag beginnen sollen."
-     },
-     {
-      "frage": "Welches umstrittene Vorhaben ist Basis der Gespräche und betrifft rund 160.000 Wohnungen?",
-      "optionen": [
-       "Der Abriss von Häusern",
-       "Die Vergesellschaftung von Wohnungen",
-       "Die Privatisierung von Grundstücken"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau/ARD ist die Vergesellschaftung von etwa 160.000 Wohnungen aus dem Besitz von fünf Konzernen im Sondierungspapier verankert."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Berlin möchte die Partei Die Linke gemeinsam mit der SPD und den Grünen regieren. Sechs Wochen nach der Wahl haben nun auch die Mitglieder der Linken dafür gestimmt.",
-    "absaetze": [
-     "Am kommenden Montag sollen die offiziellen Koalitionsgespräche zwischen den drei Parteien beginnen. Grüne und SPD hatten diesen Gesprächen bereits in der vorherigen Woche zugestimmt.",
-     "Umstritten sind bei dem geplanten Bündnis vor allem Pläne, rund 160.000 Wohnungen von großen Firmen in Gemeineigentum zu überführen. Auch Debatten über den Nahostkonflikt beschäftigen die Parteien.",
-     "Bis zum Jahreswechsel wollen die Parteien eine neue Regierung für Berlin bilden. Dafür müssen allerdings auch die Mitglieder der SPD noch abstimmen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Die Berliner Linke stimmt für Koalitionsverhandlungen mit SPD und Grünen. Die Gespräche der drei Parteien sollen am Montag beginnen. Bis zum Jahreswechsel ist eine neue Regierung in Berlin geplant."
-    ],
-    "lang": [
-     "Die Berliner Linke hat für die Aufnahme von Koalitionsverhandlungen mit SPD und Grünen gestimmt. Das berichten die Tagesschau, das ZDF und der Deutschlandfunk übereinstimmend. Die Gespräche zwischen den drei Parteien sollen am kommenden Montag beginnen. Bei der Wahl zum Berliner Abgeordnetenhaus am zwanzigsten September war die Linke mit fünfundzwanzig Komma sieben Prozent stärkste Kraft geworden. Grüne und SPD hatten sich bereits in der Vorwoche für Koalitionsgespräche entschieden. Umstritten ist in den Plänen unter anderem die Vergesellschaftung von etwa einhundertsechzigtausend Wohnungen. Die Bundesregierung und Wirtschaftsverbände lehnen dieses Vorhaben ab. Bis zum Jahreswechsel wollen die Parteien eine neue Regierung für Berlin bilden."
-    ],
-    "einfach": [
-     "Die Berliner Linke möchte gemeinsam mit SPD und Grünen regieren. Dafür stimmten die Delegierten auf einem Parteitag ab. Am Montag beginnen nun die offiziellen Gespräche der Parteien. Bis zum Jahreswechsel soll eine neue Regierung in Berlin entstehen. Vor dem Start gibt es aber auch Kritik und Streit über verschiedene Themen."
-    ]
-   },
-   "kurz": [
-    "Die Berliner Linke hat für Koalitionsverhandlungen mit Grünen und SPD gestimmt.",
-    "Die Gespräche zwischen den drei Parteien sollen am kommenden Montag beginnen.",
-    "Ein umstrittenes Thema ist die geplante Vergesellschaftung von rund 160.000 Wohnungen."
-   ],
-   "fakten": [
-    [
-     "Wahlergebnis Die Linke",
-     "25,7 Prozent"
-    ],
-    [
-     "Wahlergebnis CDU",
-     "18,8 Prozent"
-    ],
-    [
-     "Wahlergebnis AfD",
-     "16,3 Prozent"
-    ],
-    [
-     "Wahlergebnis Grüne",
-     "14,3 Prozent"
-    ],
-    [
-     "Wahlergebnis SPD",
-     "12,1 Prozent"
-    ],
-    [
-     "Anzahl Wohnungen im Plan",
-     "etwa 160.000"
-    ]
-   ],
-   "dossier": {
-    "slug": "regierungsbildung-berlin-2026",
-    "titel": "Regierungsbildung in Berlin"
-   },
-   "bildInfo": {
-    "titel": "Ines Schwerdtner 2025.jpg",
-    "beschreibung": "Ines Schwerdtner in Lichtenberg – Pressebild für die Bundestagswahl 2025.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ines_Schwerdtner_2025.jpg/1280px-Ines_Schwerdtner_2025.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ines_Schwerdtner_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Ines_Schwerdtner_2025.jpg",
-    "urheber": "Olaf Krostitz",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Ines Schwerdtner",
-    "sprache": "en",
-    "art": "person",
-    "suchbegriff": "Ines Schwerdtner politician",
-    "bildunterschrift": "Ines Schwerdtner gehört zur Parteiführung der Linken in Berlin.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Ines Schwerdtner 2025.jpg",
-     "beschreibung": "Ines Schwerdtner in Lichtenberg – Pressebild für die Bundestagswahl 2025.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Ines_Schwerdtner_2025.jpg/1280px-Ines_Schwerdtner_2025.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ines_Schwerdtner_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ines_Schwerdtner_2025.jpg",
-     "urheber": "Olaf Krostitz",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Ines Schwerdtner",
-     "sprache": "en",
-     "art": "person",
-     "suchbegriff": "Ines Schwerdtner politician",
-     "bildunterschrift": "Ines Schwerdtner gehört zur Parteiführung der Linken in Berlin.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Abgeordnetenhaus.jpg",
-     "beschreibung": "Abgeordnetenhaus von Berlin - Hausansicht des Berliner Landesparlaments in der Niederkirchnerstraße, Berlin Mitte. Seit 1993 tagt das Berliner Abgeordntenehaus im Gebäude des ehemaligen Preußischen La",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Abgeordnetenhaus.jpg/1280px-Abgeordnetenhaus.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Abgeordnetenhaus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Abgeordnetenhaus.jpg",
-     "urheber": "Abghs",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Abgeordnetenhaus von Berlin",
-     "sprache": "de",
-     "art": "ort",
-     "suchbegriff": "Abgeordnetenhaus Berlin",
-     "bildunterschrift": "Das Abgeordnetenhaus von Berlin ist das Landesparlament der Hauptstadt.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Rotes Rathaus in Berlin-Mitte.jpg",
-     "beschreibung": "Das Rote Rathaus ist ein Verwaltungsgebäude an der Rathausstraße im historischen Zentrum Berlins im Ortsteil Mitte. Als Berliner Rathaus war es einst der Sitz des Berliner Magistrats und ist seit 1992",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Rotes_Rathaus_in_Berlin-Mitte.jpg/1280px-Rotes_Rathaus_in_Berlin-Mitte.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Rotes_Rathaus_in_Berlin-Mitte.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Rotes_Rathaus_in_Berlin-Mitte.jpg",
-     "urheber": "Duden-Dödel",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Rotes Rathaus",
-     "sprache": "de",
-     "art": "institution",
-     "suchbegriff": "Rotes Rathaus Berlin",
-     "bildunterschrift": "Das Rote Rathaus dient als historisches Verwaltungsgebäude und Regierungszentrum in Berlin.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Berlin, Deutschland",
-    "lat": 52.517,
-    "lon": 13.395
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Die Berliner Linke hat für die Aufnahme von Koalitionsverhandlungen mit SPD und ",
-     "d": "844781c882.mp3",
-     "l": 40.75,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Die Berliner Linke stimmt für Koalitionsverhandlungen mit SPD und Grünen. Die Ge",
-     "d": "3593286d8b.mp3",
-     "l": 11.52,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Die Berliner Linke möchte gemeinsam mit SPD und Grünen regieren. Dafür stimmten ",
-     "d": "e5c47d0870.mp3",
-     "l": 21.62,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Ob die SPD-Mitglieder der Koalition am Ende zustimmen werden, steht laut Tagessc",
-     "d": "5925279d45.mp3",
-     "l": 7,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Koalition? Ein Zusammenschluss von mehreren Parteien, um",
-     "d": "e922547acb.mp3",
-     "l": 11.82,
-     "s": [
-      0.25,
-      3.42
-     ]
-    },
-    {
-     "k": "Sechs Wochen nach der Wahl zum Berliner Abgeordnetenhaus hat der Landesparteitag",
-     "d": "73a7d9955e.mp3",
-     "l": 59.05,
-     "s": [
-      0.25,
-      10.54,
-      21.61,
-      26.23,
-      31.91,
-      35.74,
-      41.09,
-      52.97
-     ]
-    },
-    {
-     "k": "Der Landesparteitag der Linken fand unter starken Sicherheitsvorkehrungen statt,",
-     "d": "0163c80e82.mp3",
-     "l": 61.74,
-     "s": [
-      0.25,
-      6.5,
-      13.65,
-      20.01,
-      29.38,
-      38.49,
-      48.6,
-      53.93
-     ]
-    },
-    {
-     "k": "Die Regierungsbildung in Berlin wird laut den Berichten von einer Debatte über e",
-     "d": "95552e94f3.mp3",
-     "l": 55.82,
-     "s": [
-      0.25,
-      7.89,
-      15.74,
-      22.19,
-      31.91,
-      37.42,
-      42.45,
-      48.97
-     ]
-    },
-    {
-     "k": "Eine Koalition bezeichnet den Zusammenschluss mehrerer Parteien zur Bildung eine",
-     "d": "a430d7e0a8.mp3",
-     "l": 21.76,
-     "s": [
-      0.25,
-      7.95,
-      14.92
-     ]
-    },
-    {
-     "k": "Linke-Fraktionschefin Elif Eralp betonte auf dem Parteitag laut Tagesschau/ARD i",
-     "d": "a438f06014.mp3",
-     "l": 60.95,
-     "s": [
-      0.25,
-      8.19,
-      13.16,
-      20.66,
-      28.85,
-      38.41,
-      43.3,
-      54.43
-     ]
-    },
-    {
-     "k": "Die offiziellen Koalitionsgespräche zwischen der Linken, der SPD und den Grünen ",
-     "d": "1563e18e3e.mp3",
-     "l": 26.53,
-     "s": [
-      0.25,
-      7.46,
-      13.48
-     ]
-    }
-   ]
-  },
-  {
-   "id": "bundesliga-8-spieltag-zusammenfassung",
-   "rubrik": "Sport",
-   "zeit": "2026-11-01T17:17:05.000Z",
-   "aktualisiert": "aktualisiert um 19:52 Uhr",
-   "titel": "Fußball-Bundesliga: FC Bayern München und Borussia Dortmund spielen unentschieden",
-   "vorspann": "Der FC Bayern München und Borussia Dortmund haben sich in der Fußball-Bundesliga 2:2 getrennt. Durch dieses Ergebnis verpassten die Münchner die alleinige Tabellenführung.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Der FC Bayern München und Borussia Dortmund haben sich in der Fußball-Bundesliga 2:2 getrennt.",
-    "Dank eines späten Tores von Fabio Silva in der 89. Minute sicherte sich der BVB einen Punkt.",
-    "Die Bayern mussten in der Partie mehrere verletzte Spieler hinnehmen.",
-    "Beide Mannschaften bleiben durch das Unentschieden punktgleich an der Tabellenspitze."
-   ],
-   "einig": [
-    [
-     "Das Bundesliga-Topspiel zwischen dem FC Bayern München und Borussia Dortmund endete mit einem 2:2-Unentschieden.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk"
-     ]
-    ],
-    [
-     "Nach dem Spiel sind Bayern und Dortmund mit 18 Zählern punktgleich an der Tabellenspitze.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ],
-    [
-     "Konrad Laimer und Dayot Upamecano erzielten die Tore für München, während Serhou Guirassy und Fabio Silva für Dortmund trafen.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Ausfallzeit von Michael Olise steht laut den Berichten noch nicht fest."
-   ],
-   "positionen": [
-    [
-     "Niko Kovac (Dortmund-Trainer)",
-     "Die Mannschaft hat ein richtig gutes Auswärtsspiel gemacht und sich den Punkt durch eine starke Mentalität verdient.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Max Eberl (Bayern-Sportvorstand)",
-     "Das Unentschieden ist teuer, und die Mannschaft hätte das Spiel nach eigener Wahrnehmung gewinnen müssen.",
-     "Tagesschau/ARD"
-    ]
-   ],
-   "fehlend": "Stimmen von Spielern aus Dortmund oder von Funktionären der Deutschen Fußball Liga fehlen in den Berichten.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "31.10.26, 21:36",
-     "fokus": "Ausführlicher Spielbericht mit Statistiken",
-     "text": "Der Beitrag schildert den Spielverlauf und nennt Statistiken sowie Verletzungsdiagnosen.",
-     "url": "https://www.sportschau.de/fussball/bundesliga/bayern-und-kane-feiern-sich-gegen-bvb-zu-frueh,spielbericht-bayern-muenchen-borussia-dortmund-112.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 5,
-      "woerter": 1020,
-      "satzlaenge": 15,
-      "langeWoerter": 27
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 00:00",
-     "fokus": "Fokus auf Emotionen und Rahmenbedingungen",
-     "text": "Der Bericht beleuchtet die Gemütslage der Spieler nach dem Schlusspfiff und ordnet die sportliche Situation in der Tabelle ein.",
-     "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-bayern-muenchen-borussia-dortmund-klassiker-der-spannung-naehrt-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 8,
-      "minuten": 3,
-      "woerter": 699,
-      "satzlaenge": 16,
-      "langeWoerter": 30
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "01.11.26, 18:17",
-     "fokus": "Kompakte Sacherzählung",
-     "text": "Die Kurzmeldung fasst das Ergebnis und den Verlauf der Partie für die Hörerschaft zusammen.",
-     "url": "https://www.deutschlandfunk.de/muenchen-und-dortmund-trennen-sich-unentschieden-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit",
-     "Tagesschau/ARD und ZDFheute liefern detaillierte Spielverläufe und Zitate, während Deutschlandfunk das Ergebnis kurz zusammenfasst."
-    ]
-   ],
-   "wfragen": {
-    "wer": "FC Bayern München und Borussia Dortmund",
-    "was": "Spielen in der Bundesliga 2:2 unentschieden",
-    "wann": "noch unklar",
-    "wo": "München, Deutschland",
-    "wie": "Nach zweimaliger Führung der Münchner glich Dortmund kurz vor Spielende aus.",
-    "warum": "Tore von Laimer und Upamecano für München sowie Guirassy und Silva für Dortmund",
-    "quellenlage": "Öffentlich-rechtliche Medienberichte von Tagesschau/ARD, ZDFheute und Deutschlandfunk"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Spielverlauf und Ergebnis",
-     "absaetze": [
-      "Im Topspiel der Fußball-Bundesliga trennten sich der FC Bayern München und Borussia Dortmund mit einem 2:2-Unentschieden. Laut Tagesschau/ARD und ZDFheute blieben die beiden Mannschaften dadurch mit jeweils 18 Zählern punktgleich an der Tabellenspitze. Der Rekordmeister aus München belegt den ersten Platz lediglich aufgrund der besseren Tordifferenz, wie ZDFheute berichtet. Die Partie im eigenen Stadion brachte für die Gastgeber keinen Sieg, wodurch eine frühe Distanzierung des Verfolgers aus Dortmund ausblieb.",
-      "Die Begegnung verlief mit Toren auf beiden Seiten. Konrad Laimer brachte den FC Bayern in der 38. Minute nach einem Fehlpass von Felix Nmecha in Führung. Nach der Halbzeitpause glich Serhou Guirassy in der 60. Minute für Borussia Dortmund aus. Nur sechs Minuten später stellte Dayot Upamecano in der 66. Minute nach Vorarbeit von Harry Kane die erneute Führung für die Münchner her. Kurz vor dem Spielende traf der eingewechselte Fabio Silva in der 89. Minute zum 2:2-Endstand für die Gäste.",
-      "Zusätzlich zu den Toren verzeichneten beide Mannschaften mehrere Treffer an das Aluminium des Tores. Harry Kane setzte in der 55. Minute einen Handelfmeter an die Latte und traf später einen Pfosten. Michael Olise traf in der ersten Halbzeit den Innenpfosten, während Lennart Karl in der Nachspielzeit ebenfalls nur die Latte traf. Laut Tagesschau/ARD lag die Expected-Goals-Quote bei 4,83 zu 0,7 für die Gastgeber. Vor dem Anpfiff hatte der FC Bayern den Stürmer Harry Kane gefeiert, der zuvor mit dem Ballon d'Or ausgezeichnet worden war."
-     ]
-    },
-    {
-     "ueberschrift": "Personalveränderungen und Verletzungen",
-     "absaetze": [
-      "Neben dem sportlichen Ergebnis verzeichnete der FC Bayern München mehrere verletzte Spieler während der Partie. Ismael Saibari erlitt einen Riss des Syndesmosebands im rechten Sprunggelenk und wurde bereits operiert, wie die Tagesschau/ARD meldet. Serge Gnabry zog sich eine Muskelverletzung im hinteren linken Oberschenkel zu. Beide Spieler mussten in der ersten Halbzeit ausgewechselt werden. Kurz vor Spielende verließ zudem Michael Olise den Platz angeschlagen, wobei laut Angaben die Hoffnung besteht, dass die Verletzung nicht schwerwiegend ist.",
-      "Zusätzlich erlitt Torwart Jonas Urbig eine Blessur, nachdem er von Carney Chukwuemeka mit dem Knie im Gesicht getroffen worden war. Urbig konnte das Spiel jedoch fortsetzen. Interimstrainer Aaron Danks, der den erkrankten Chefcoach Vincent Kompany vertrat, musste dadurch frühzeitig Wechselmöglichkeiten ausschöpfen. Sportvorstand Max Eberl erklärte laut ZDFheute, dass die Mannschaft derzeit eine hohe Widerstandskraft zeigen müsse. Eberl verwies in diesem Zusammenhang auch auf den plötzlichen Tod des Vaters von Joshua Kimmich sowie auf weitere Ausfälle wie Luis Díaz, Jamal Musiala und Manuel Neuer.",
-      "Joshua Kimmich wirkte in der Partie mit und bezeichnete den verpassten Sieg als bitter. Das Trainerteam und die sportliche Leitung der Münchner ordneten die Partie als kräftezehrend ein. Die Mannschaft muss nach dem Spiel in kurzer Folge weitere Pflichtspiele bestreiten. Die medizinische Abteilung der Münchner analysierte die Verletzungen am Tag nach der Begegnung."
-     ]
-    },
-    {
-     "ueberschrift": "Stimmen der Beteiligten",
-     "absaetze": [
-      "Die Verantwortlichen beider Vereine bewerteten den Spielverlauf nach Abpfiff unterschiedlich. Dortmunds Trainer Niko Kovac äußerte sich zufrieden über die Leistung seiner Mannschaft. Laut Tagesschau/ARD erklärte Kovac, das Team habe zwei Rückstände aufgeholt, was die Mentalität, die Gier und den Fokus der Mannschaft zeige. Der gewonnene Punkt sei daher verdient gewesen. Auch gegenüber ZDFheute betonte Kovac, dass die komplette Mannschaft ein gutes Spiel gezeigt und Energie bewiesen habe.",
-      "Max Eberl, Sportvorstand des FC Bayern München, sprach von einem teuren Unentschieden. Laut Tagesschau/ARD äußerte Eberl die Auffassung, dass seine Mannschaft den Sieg verdient gehabt hätte. Gegenüber ZDFheute ergänzte er, dass die Partie hätte gewonnen werden müssen und die Augenhöhe in der Bundesliga damit weitergehe. Zudem beschrieb Eberl die aktuelle Phase als herausfordernd für den gesamten Verein. Die sportliche Leitung blickte schnell auf die kommenden Aufgaben in nationalen und internationalen Wettbewerben voraus.",
-      "Die Spieler beider Mannschaften zeigten nach Schlusspfiff verschiedene Reaktionen. Während die Dortmunder Spieler gemeinsam mit Kapitän Nico Schlotterbeck und den mitgereisten Anhängern den späten Ausgleich feierten, diskutierten Bayern-Verteidiger Dayot Upamecano und Min-jae Kim auf dem Weg in die Fankurve. Die Spieler hoben in ersten Stellungnahmen hervor, dass das Spiel von hohem Einsatz und wechselnden Führungen geprägt war."
-     ]
-    },
-    {
-     "ueberschrift": "Ausblick",
-     "absaetze": [
-      "Für den FC Bayern München geht der Spielbetrieb in der UEFA Champions League weiter. Die Mannschaft reist zum Auswärtsspiel nach Spanien, wo sie bei Atlético Madrid antritt, wie die Tagesschau/ARD berichtet. Nach dieser Partie steht für den Tabellenführer der Bundesliga ein Auswärtsspiel beim 1. FSV Mainz 05 an. In dieser Partie will der Verein seine Tabellenposition verteidigen.",
-      "Borussia Dortmund bereitet sich ebenfalls auf eine internationale Begegnung vor. Das Team von Trainer Niko Kovac empfängt Betis Sevilla in der Champions League, wie die Tagesschau/ARD und ZDFheute mitteilen. Danach will die Dortmunder Mannschaft in der Bundesliga gegen die SV Elversberg antreten und hofft auf einen Punktverlust des Tabellenführers. Beide Mannschaften nutzen die Tage vor den nächsten Begegnungen zur Regeneration und zur Analyse der vergangenen Partie."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2026-10-31",
-     "Das Bundesliga-Spitzenspiel zwischen dem FC Bayern München und Borussia Dortmund endet mit 2:2."
-    ],
-    [
-     "noch unklar",
-     "Das FC Bayern München und Borussia Dortmund spielen im Bundesliga-Topspiel 2:2 unentschieden."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Harry Kane footballer",
-     "bildunterschrift": "Der Stürmer Harry Kane stand beim FC Bayern München im Mittelpunkt des Bundesliga-Spitzenspiels."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Allianz Arena Munich",
-     "bildunterschrift": "Die Arena in München war der Austragungsort für die Begegnung zwischen Bayern München und Borussia Dortmund."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Niko Kovac football manager",
-     "bildunterschrift": "Der Trainer von Borussia Dortmund, Niko Kovac, bewertete den Punktgewinn nach dem Spiel positiv."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Joshua Kimmich footballer",
-     "bildunterschrift": "Joshua Kimmich wirkte bei den Münchnern mit."
-    }
-   ],
-   "ort": {
-    "name": "München, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Datumsangaben korrigiert, da das konkrete Datum 2026-10-31 nicht in allen Berichten explizit genannt wurde. Formulierungen angepasst, um Wertungen zu entfernen und den Text streng an den Quelltext zu binden."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Tabellenspitze",
-      "Der erste Platz in einer Liga, auf dem die erfolgreichste Mannschaft steht."
-     ],
-     [
-      "Unentschieden",
-      "Ein Spiel im Sport endet ohne Sieger, wenn beide Mannschaften gleich viele Tore erzielen."
-     ]
-    ],
-    "fragen": [
-     "Welche Bedeutung hat das Unentschieden für den Tabellenstand von Bayern München und Borussia Dortmund?",
-     "Wie bewerten die Trainer und Verantwortlichen das Ergebnis nach Angaben der Berichte?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie endete das Bundesligaspiel zwischen Bayern München und Borussia Dortmund?",
-      "optionen": [
-       "Mit 1:0 für Bayern",
-       "Mit 2:2 unentschieden",
-       "Mit 3:1 für Dortmund"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau/ARD, ZDFheute und Deutschlandfunk endete die Partie mit einem 2:2-Unentschieden."
-     },
-     {
-      "frage": "Wer erzielte kurz vor Spielende den Ausgleichstreffer für Borussia Dortmund?",
-      "optionen": [
-       "Fabio Silva",
-       "Harry Kane",
-       "Serhou Guirassy"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Tagesschau/ARD und ZDFheute berichten, dass Fabio Silva in der 89. Minute das Tor zum 2:2 erzielte."
-     },
-     {
-      "frage": "Auf welchem Tabellenplatz stehen Bayern München und Borussia Dortmund nach dem Spiel?",
-      "optionen": [
-       "Dortmund auf Platz eins, Bayern auf Platz zwei",
-       "Beide Mannschaften sind punktgleich an der Tabellenspitze",
-       "Bayern auf Platz eins, Dortmund auf Platz fünf"
-      ],
-      "richtig": 1,
-      "erklaerung": "Tagesschau/ARD und ZDFheute berichten, dass beide Teams mit 18 Zählern punktgleich an der Tabellenspitze stehen."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Der FC Bayern München und Borussia Dortmund haben in der Fußball-Bundesliga 2:2 gespielt.",
-    "absaetze": [
-     "Die Bayern führten in dem Spiel zweimal. Konrad Laimer und Dayot Upamecano schossen die Tore für München.",
-     "Dortmund gab nicht auf. Serhou Guirassy und Fabio Silva trafen für die Gäste.",
-     "Fabio Silva erzielte das Tor zum 2:2 kurz vor dem Ende in der neunundachtzigsten Minute.",
-     "Durch das Unentschieden bleiben beide Vereine punktgleich an der Tabellenspitze der Bundesliga.",
-     "Mehrere Spieler der Bayern verletzten sich während der Partie schwer."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Der FC Bayern München und Borussia Dortmund trennen sich im Bundesliga-Topspiel mit 2:2 unentschieden.",
-     "Dortmunds Fabio Silva erzielt kurz vor dem Spielende den späten Ausgleichstreffer.",
-     "Beide Mannschaften bleiben nach dem Unentschieden punktgleich an der Tabellenspitze."
-    ],
-    "lang": [
-     "Der FC Bayern München und Borussia Dortmund haben in der Fußball-Bundesliga unentschieden gespielt.",
-     "Die Partie im Stadion endete am Spieltag mit einem 2:2.",
-     "Konrad Laimer und Dayot Upamecano erzielten die Tore für die Münchner Mannschaft.",
-     "Serhou Guirassy traf zuvor für Borussia Dortmund zum zwischenzeitlichen Ausgleich.",
-     "Kurz vor dem Spielende traf Fabio Silva für die Gäste zum Endstand.",
-     "Nach Angaben von Sportvorstand Max Eberl mussten mehrere Bayern-Spieler verletzt ausgewechselt werden.",
-     "Nach übereinstimmenden Medienberichten von Tagesschau und ZDFheute bleiben beide Teams punktgleich an der Tabellenspitze.",
-     "Das Unentschieden sorgt für ein weiterhin enges Rennen in der deutschen Bundesliga.",
-     "Für den FC Bayern geht es in den kommenden Tagen in der Champions League weiter.",
-     "Auch Borussia Dortmund bestreitet in der nächsten Woche eine internationale Partie."
-    ],
-    "einfach": [
-     "Bayern München und Borussia Dortmund spielen zwei zu zwei.",
-     "Das Spiel in der Bundesliga endet ohne Sieger.",
-     "Fabio Silva schießt das letzte Tor für Dortmund.",
-     "Beide Vereine haben nun gleich viele Punkte in der Tabelle.",
-     "Mehrere Spieler verletzen sich bei dem Spiel."
-    ]
-   },
-   "kurz": [
-    "Der FC Bayern München und Borussia Dortmund spielen im Topspiel 2:2 unentschieden.",
-    "Dortmund gleicht durch Fabio Silva in der achtzigsten Minute aus.",
-    "Beide Mannschaften bleiben punktgleich an der Tabellenspitze der Bundesliga."
-   ],
-   "fakten": [
-    [
-     "Punkte nach dem Spiel",
-     "18"
-    ],
-    [
-     "Endstand",
-     "2 zu 2"
-    ],
-    [
-     "Tore für München",
-     "Konrad Laimer und Dayot Upamecano"
-    ],
-    [
-     "Tore für Dortmund",
-     "Serhou Guirassy und Fabio Silva"
-    ]
-   ],
-   "dossier": {
-    "slug": "bundesliga-bayern-dortmund-oktober",
-    "titel": "Bundesliga-Topspiel zwischen Bayern München und Borussia Dortmund"
-   },
-   "bildInfo": {
-    "titel": "Harry Kane England v Ghana 23 June 2026-219 (cropped).jpg",
-    "beschreibung": "Harry Kane during England v Ghana on 23 June 2026 at the 2026 FIFA World CupWikiPortraits at 2026 FIFA World Cup (England v Ghana, 23 June 2026)",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/1280px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-219_(cropped).jpg",
-    "urheber": "Bryan Berlin",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Harry Kane",
-    "sprache": "de",
-    "art": "person",
-    "suchbegriff": "Harry Kane footballer",
-    "bildunterschrift": "Harry Kane spielt für den FC Bayern München.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Harry Kane England v Ghana 23 June 2026-219 (cropped).jpg",
-     "beschreibung": "Harry Kane during England v Ghana on 23 June 2026 at the 2026 FIFA World CupWikiPortraits at 2026 FIFA World Cup (England v Ghana, 23 June 2026)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/1280px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-219_(cropped).jpg",
-     "urheber": "Bryan Berlin",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Harry Kane",
-     "sprache": "de",
-     "art": "person",
-     "suchbegriff": "Harry Kane footballer",
-     "bildunterschrift": "Harry Kane spielt für den FC Bayern München.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Allianz arena daylight Richard Bartz.jpg",
-     "beschreibung": "The Allianz Arena is a football stadium in the north of Munich, Germany. The two professional Munich football clubs FC Bayern München and TSV 1860 München have played their home games at Allianz Arena",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Allianz_arena_daylight_Richard_Bartz.jpg/1280px-Allianz_arena_daylight_Richard_Bartz.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Allianz_arena_daylight_Richard_Bartz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Allianz_arena_daylight_Richard_Bartz.jpg",
-     "urheber": "Richard Bartz , Munich aka Makro Freak",
-     "lizenz": "CC BY-SA 2.5",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.5",
-     "art": "ort",
-     "suchbegriff": "Allianz Arena Munich",
-     "bildunterschrift": "Die Allianz Arena in München ist das Stadion des FC Bayern.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "München, Deutschland",
-    "lat": 48.137,
-    "lon": 11.575
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Der FC Bayern München und Borussia Dortmund haben in der Fußball-Bundesliga unen",
-     "d": "91b89d2133.mp3",
-     "l": 53.61,
-     "s": [
-      0.25,
-      6.39,
-      10.38,
-      15.31,
-      20.27,
-      24.76,
-      31,
-      39.03,
-      43.57,
-      48.59
-     ]
-    },
-    {
-     "k": "Der FC Bayern München und Borussia Dortmund trennen sich im Bundesliga-Topspiel ",
-     "d": "6690068b8d.mp3",
-     "l": 16.68,
-     "s": [
-      0.25,
-      7.25,
-      11.98
-     ]
-    },
-    {
-     "k": "Bayern München und Borussia Dortmund spielen zwei zu zwei. Das Spiel in der Bund",
-     "d": "a40fc528cc.mp3",
-     "l": 19.28,
-     "s": [
-      0.25,
-      4.65,
-      8.07,
-      12.03,
-      16.07
-     ]
-    },
-    {
-     "k": "Die genaue Ausfallzeit von Michael Olise steht laut den Berichten noch nicht fes",
-     "d": "c0b54a0e57.mp3",
-     "l": 5.61,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Tabellenspitze? Der erste Platz in einer Liga, auf dem d",
-     "d": "84bb64882b.mp3",
-     "l": 9.15,
-     "s": [
-      0.25,
-      3.64
-     ]
-    },
-    {
-     "k": "Im Topspiel der Fußball-Bundesliga trennten sich der FC Bayern München und Borus",
-     "d": "08acc4e2b8.mp3",
-     "l": 46.39,
-     "s": [
-      0.25,
-      8.02,
-      16.7,
-      23.84,
-      31.87,
-      34.93,
-      38.78,
-      42.13
-     ]
-    },
-    {
-     "k": "Neben dem sportlichen Ergebnis verzeichnete der FC Bayern München mehrere verlet",
-     "d": "11d2798497.mp3",
-     "l": 50.42,
-     "s": [
-      0.25,
-      7.05,
-      15.23,
-      20.22,
-      23.95,
-      32.31,
-      39.65,
-      42.09
-     ]
-    },
-    {
-     "k": "Die Verantwortlichen beider Vereine bewerteten den Spielverlauf nach Abpfiff unt",
-     "d": "457dd7c281.mp3",
-     "l": 48.52,
-     "s": [
-      0.25,
-      5.36,
-      10.11,
-      18.98,
-      21.73,
-      29.22,
-      34.62,
-      40.62
-     ]
-    },
-    {
-     "k": "Für den FC Bayern München geht der Spielbetrieb in der UEFA Champions League wei",
-     "d": "ac12f355fb.mp3",
-     "l": 44.85,
-     "s": [
-      0.25,
-      5.48,
-      12.78,
-      17.97,
-      20.1,
-      24.14,
-      29.06,
-      36.67
      ]
     }
    ]
