@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-05T16:20:03.389Z",
+ "stand": "2026-11-05T18:41:44.086Z",
  "gepusht": [
   "angriffe-saporischschja",
   "trump-fordert-selenskyj-abloesung",
@@ -99,7 +99,7 @@
   "hubert-aiwanger-tot"
  ],
  "wetter": {
-  "stand": "2026-11-05T16:20:03.389Z",
+  "stand": "2026-11-05T18:41:44.086Z",
   "morgenTag": "Freitag",
   "orte": [
    {
@@ -108,12 +108,12 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 9,
+     "grad": 6,
      "code": 0,
-     "gefuehlt": 6,
+     "gefuehlt": 4,
      "wind": 8,
-     "windAus": 74,
-     "feuchte": 69,
+     "windAus": 77,
+     "feuchte": 84,
      "druck": 1029,
      "niederschlag": 0,
      "tag": 0
@@ -126,20 +126,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 9,
-     "windAus": 76,
+     "windAus": 77,
      "uv": 1.8,
      "auf": "07:26",
      "unter": "16:39"
     },
     "morgen": {
      "datum": "2026-11-06",
-     "code": 51,
+     "code": 3,
      "max": 8,
-     "min": 4,
+     "min": 3,
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 104,
+     "windAus": 100,
      "uv": 1.8,
      "auf": "07:28",
      "unter": "16:37"
@@ -153,20 +153,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 76,
+      "windAus": 77,
       "uv": 1.8,
       "auf": "07:26",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-06",
-      "code": 51,
+      "code": 3,
       "max": 8,
-      "min": 4,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 104,
+      "windAus": 100,
       "uv": 1.8,
       "auf": "07:28",
       "unter": "16:37"
@@ -189,11 +189,11 @@
       "code": 3,
       "max": 7,
       "min": 2,
-      "regen": 5,
+      "regen": 8,
       "menge": 0,
       "wind": 6,
       "windAus": 132,
-      "uv": 1.7,
+      "uv": 1.5,
       "auf": "07:32",
       "unter": "16:34"
      },
@@ -202,54 +202,42 @@
       "code": 3,
       "max": 8,
       "min": 2,
-      "regen": 5,
+      "regen": 8,
       "menge": 0,
       "wind": 6,
       "windAus": 112,
-      "uv": 1.1,
+      "uv": 1.5,
       "auf": "07:34",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-10",
       "code": 3,
-      "max": 6,
+      "max": 5,
       "min": 0,
-      "regen": 11,
+      "regen": 9,
       "menge": 0,
-      "wind": 12,
-      "windAus": 103,
-      "uv": 1.4,
+      "wind": 11,
+      "windAus": 96,
+      "uv": 1.6,
       "auf": "07:36",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-11",
-      "code": 61,
-      "max": 13,
-      "min": 6,
-      "regen": 34,
-      "menge": 3,
-      "wind": 12,
-      "windAus": 146,
-      "uv": 1.5,
+      "code": 53,
+      "max": 8,
+      "min": 1,
+      "regen": 15,
+      "menge": 0.6,
+      "wind": 13,
+      "windAus": 124,
+      "uv": 1.4,
       "auf": "07:38",
       "unter": "16:29"
      }
     ],
     "stunden": [
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "19:00",
       "grad": 7,
@@ -270,7 +258,7 @@
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -288,7 +276,7 @@
      },
      {
       "zeit": "01:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -307,37 +295,37 @@
      {
       "zeit": "04:00",
       "grad": 4,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 4,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 4,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
@@ -349,36 +337,48 @@
      {
       "zeit": "11:00",
       "grad": 6,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 7,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 7,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
       "code": 3,
       "regen": 0
      }
@@ -390,25 +390,25 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 9,
+     "grad": 6,
      "code": 0,
-     "gefuehlt": 6,
-     "wind": 7,
-     "windAus": 84,
-     "feuchte": 75,
+     "gefuehlt": 3,
+     "wind": 6,
+     "windAus": 87,
+     "feuchte": 86,
      "druck": 1027,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
      "datum": "2026-11-05",
-     "code": 3,
+     "code": 2,
      "max": 10,
      "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 86,
+     "windAus": 87,
      "uv": 1.9,
      "auf": "07:09",
      "unter": "16:29"
@@ -416,12 +416,12 @@
     "morgen": {
      "datum": "2026-11-06",
      "code": 61,
-     "max": 8,
-     "min": 3,
+     "max": 7,
+     "min": 2,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
-     "windAus": 97,
+     "wind": 11,
+     "windAus": 99,
      "uv": 1.9,
      "auf": "07:11",
      "unter": "16:27"
@@ -429,13 +429,13 @@
     "tage": [
      {
       "datum": "2026-11-05",
-      "code": 3,
+      "code": 2,
       "max": 10,
       "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 86,
+      "windAus": 87,
       "uv": 1.9,
       "auf": "07:09",
       "unter": "16:29"
@@ -443,12 +443,12 @@
      {
       "datum": "2026-11-06",
       "code": 61,
-      "max": 8,
-      "min": 3,
+      "max": 7,
+      "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 97,
+      "wind": 11,
+      "windAus": 99,
       "uv": 1.9,
       "auf": "07:11",
       "unter": "16:27"
@@ -471,7 +471,7 @@
       "code": 3,
       "max": 8,
       "min": 1,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 6,
       "windAus": 127,
@@ -484,57 +484,45 @@
       "code": 3,
       "max": 7,
       "min": 2,
-      "regen": 4,
+      "regen": 8,
       "menge": 0,
       "wind": 6,
       "windAus": 102,
-      "uv": 1.7,
+      "uv": 1.8,
       "auf": "07:17",
       "unter": "16:22"
      },
      {
       "datum": "2026-11-10",
-      "code": 3,
-      "max": 7,
+      "code": 45,
+      "max": 5,
       "min": 1,
-      "regen": 9,
+      "regen": 2,
       "menge": 0,
-      "wind": 9,
-      "windAus": 103,
+      "wind": 8,
+      "windAus": 94,
       "uv": 1.7,
       "auf": "07:19",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-11",
-      "code": 61,
-      "max": 12,
-      "min": 5,
-      "regen": 19,
-      "menge": 0.6,
-      "wind": 9,
-      "windAus": 133,
-      "uv": 1.6,
+      "code": 45,
+      "max": 7,
+      "min": 1,
+      "regen": 10,
+      "menge": 0.3,
+      "wind": 10,
+      "windAus": 109,
+      "uv": 0.2,
       "auf": "07:20",
       "unter": "16:19"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
-      "grad": 7,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
@@ -546,7 +534,7 @@
      },
      {
       "zeit": "21:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -558,14 +546,14 @@
      },
      {
       "zeit": "23:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 4,
-      "code": 45,
+      "code": 2,
       "regen": 0
      },
      {
@@ -576,13 +564,13 @@
      },
      {
       "zeit": "02:00",
-      "grad": 4,
+      "grad": 3,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 4,
+      "grad": 3,
       "code": 45,
       "regen": 0
      },
@@ -595,42 +583,42 @@
      {
       "zeit": "05:00",
       "grad": 3,
-      "code": 45,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 4,
-      "code": 51,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 4,
-      "code": 51,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 6,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -642,25 +630,37 @@
      },
      {
       "zeit": "13:00",
-      "grad": 8,
+      "grad": 7,
       "code": 61,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 8,
+      "grad": 7,
       "code": 61,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 8,
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
       "code": 3,
       "regen": 0
      }
@@ -672,12 +672,12 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 8,
+     "grad": 5,
      "code": 0,
-     "gefuehlt": 5,
+     "gefuehlt": 2,
      "wind": 9,
-     "windAus": 76,
-     "feuchte": 71,
+     "windAus": 78,
+     "feuchte": 86,
      "druck": 1015,
      "niederschlag": 0,
      "tag": 0
@@ -703,7 +703,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 74,
+     "windAus": 75,
      "uv": 2.1,
      "auf": "07:12",
      "unter": "16:35"
@@ -730,7 +730,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 74,
+      "windAus": 75,
       "uv": 2.1,
       "auf": "07:12",
       "unter": "16:35"
@@ -753,11 +753,11 @@
       "code": 3,
       "max": 10,
       "min": 6,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
       "wind": 5,
       "windAus": 153,
-      "uv": 1.8,
+      "uv": 2,
       "auf": "07:15",
       "unter": "16:32"
      },
@@ -766,7 +766,7 @@
       "code": 3,
       "max": 10,
       "min": 4,
-      "regen": 5,
+      "regen": 0,
       "menge": 0,
       "wind": 5,
       "windAus": 122,
@@ -776,44 +776,32 @@
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
-      "max": 9,
+      "code": 3,
+      "max": 8,
       "min": 2,
-      "regen": 14,
-      "menge": 3.3,
-      "wind": 6,
-      "windAus": 114,
-      "uv": 1.8,
+      "regen": 16,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 78,
+      "uv": 1.9,
       "auf": "07:19",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-11",
-      "code": 80,
-      "max": 15,
-      "min": 9,
+      "code": 61,
+      "max": 10,
+      "min": 4,
       "regen": 21,
-      "menge": 2.1,
-      "wind": 8,
-      "windAus": 176,
-      "uv": 1.8,
+      "menge": 0.9,
+      "wind": 5,
+      "windAus": 103,
+      "uv": 0.2,
       "auf": "07:21",
       "unter": "16:27"
      }
     ],
     "stunden": [
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "19:00",
       "grad": 6,
@@ -828,7 +816,7 @@
      },
      {
       "zeit": "21:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -840,25 +828,25 @@
      },
      {
       "zeit": "23:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 3,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 3,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -870,14 +858,14 @@
      },
      {
       "zeit": "04:00",
-      "grad": 2,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 2,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
@@ -888,8 +876,8 @@
      },
      {
       "zeit": "07:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 1,
+      "code": 45,
       "regen": 0
      },
      {
@@ -900,14 +888,14 @@
      },
      {
       "zeit": "09:00",
-      "grad": 2,
+      "grad": 1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 2,
-      "code": 45,
+      "grad": 3,
+      "code": 3,
       "regen": 0
      },
      {
@@ -919,31 +907,43 @@
      {
       "zeit": "12:00",
       "grad": 4,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 5,
+      "grad": 6,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 6,
-      "code": 1,
+      "grad": 7,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
       "grad": 7,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
       "grad": 6,
-      "code": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 5,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -954,12 +954,12 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
+     "grad": 8,
      "code": 0,
-     "gefuehlt": 9,
+     "gefuehlt": 6,
      "wind": 8,
-     "windAus": 104,
-     "feuchte": 60,
+     "windAus": 95,
+     "feuchte": 72,
      "druck": 1018,
      "niederschlag": 0,
      "tag": 0
@@ -971,8 +971,8 @@
      "min": 5,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
-     "windAus": 86,
+     "wind": 11,
+     "windAus": 85,
      "uv": 2.1,
      "auf": "07:30",
      "unter": "16:59"
@@ -980,13 +980,13 @@
     "morgen": {
      "datum": "2026-11-06",
      "code": 3,
-     "max": 12,
+     "max": 11,
      "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 136,
-     "uv": 2,
+     "windAus": 140,
+     "uv": 2.1,
      "auf": "07:32",
      "unter": "16:58"
     },
@@ -998,8 +998,8 @@
       "min": 5,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 86,
+      "wind": 11,
+      "windAus": 85,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:59"
@@ -1007,13 +1007,13 @@
      {
       "datum": "2026-11-06",
       "code": 3,
-      "max": 12,
+      "max": 11,
       "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 136,
-      "uv": 2,
+      "windAus": 140,
+      "uv": 2.1,
       "auf": "07:32",
       "unter": "16:58"
      },
@@ -1021,12 +1021,12 @@
       "datum": "2026-11-07",
       "code": 3,
       "max": 11,
-      "min": 5,
+      "min": 4,
       "regen": 3,
       "menge": 0,
       "wind": 8,
-      "windAus": 149,
-      "uv": 1.8,
+      "windAus": 151,
+      "uv": 2,
       "auf": "07:34",
       "unter": "16:56"
      },
@@ -1036,10 +1036,10 @@
       "max": 10,
       "min": 4,
       "regen": 16,
-      "menge": 0.3,
-      "wind": 9,
-      "windAus": 159,
-      "uv": 1,
+      "menge": 0.2,
+      "wind": 8,
+      "windAus": 154,
+      "uv": 2,
       "auf": "07:36",
       "unter": "16:55"
      },
@@ -1065,7 +1065,7 @@
       "menge": 0,
       "wind": 13,
       "windAus": 115,
-      "uv": 1.9,
+      "uv": 1.3,
       "auf": "07:39",
       "unter": "16:51"
      },
@@ -1078,24 +1078,12 @@
       "menge": 0,
       "wind": 16,
       "windAus": 132,
-      "uv": 1.9,
+      "uv": 0.2,
       "auf": "07:41",
       "unter": "16:50"
      }
     ],
     "stunden": [
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "19:00",
       "grad": 9,
@@ -1122,7 +1110,7 @@
      },
      {
       "zeit": "23:00",
-      "grad": 6,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -1152,7 +1140,7 @@
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1194,7 +1182,7 @@
      },
      {
       "zeit": "11:00",
-      "grad": 7,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
@@ -1219,12 +1207,24 @@
      {
       "zeit": "15:00",
       "grad": 11,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 11,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 10,
       "code": 0,
       "regen": 0
      }
@@ -1236,12 +1236,12 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
+     "grad": 7,
      "code": 0,
-     "gefuehlt": 9,
+     "gefuehlt": 5,
      "wind": 4,
-     "windAus": 105,
-     "feuchte": 57,
+     "windAus": 59,
+     "feuchte": 71,
      "druck": 1013,
      "niederschlag": 0,
      "tag": 0
@@ -1262,12 +1262,12 @@
     "morgen": {
      "datum": "2026-11-06",
      "code": 3,
-     "max": 11,
-     "min": 3,
+     "max": 10,
+     "min": 2,
      "regen": 0,
      "menge": 0,
      "wind": 6,
-     "windAus": 54,
+     "windAus": 49,
      "uv": 2.2,
      "auf": "07:23",
      "unter": "16:53"
@@ -1289,12 +1289,12 @@
      {
       "datum": "2026-11-06",
       "code": 3,
-      "max": 11,
-      "min": 3,
+      "max": 10,
+      "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 54,
+      "windAus": 49,
       "uv": 2.2,
       "auf": "07:23",
       "unter": "16:53"
@@ -1308,7 +1308,7 @@
       "menge": 0,
       "wind": 4,
       "windAus": 81,
-      "uv": 1.9,
+      "uv": 2,
       "auf": "07:25",
       "unter": "16:52"
      },
@@ -1330,69 +1330,57 @@
       "code": 45,
       "max": 11,
       "min": 3,
-      "regen": 17,
+      "regen": 8,
       "menge": 0,
       "wind": 6,
       "windAus": 69,
-      "uv": 2,
+      "uv": 2.1,
       "auf": "07:28",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-10",
-      "code": 3,
-      "max": 12,
+      "code": 61,
+      "max": 9,
       "min": 6,
-      "regen": 44,
-      "menge": 0.3,
+      "regen": 46,
+      "menge": 6.9,
       "wind": 6,
       "windAus": 45,
-      "uv": 1.9,
+      "uv": 0.9,
       "auf": "07:30",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-11",
-      "code": 95,
-      "max": 17,
-      "min": 10,
-      "regen": 40,
-      "menge": 4.2,
-      "wind": 5,
-      "windAus": 144,
-      "uv": 2,
+      "code": 63,
+      "max": 14,
+      "min": 8,
+      "regen": 48,
+      "menge": 7.9,
+      "wind": 3,
+      "windAus": 0,
+      "uv": 1.1,
       "auf": "07:31",
       "unter": "16:46"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
-      "grad": 9,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 8,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 8,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
@@ -1404,19 +1392,19 @@
      },
      {
       "zeit": "23:00",
-      "grad": 7,
+      "grad": 6,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1428,7 +1416,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1446,7 +1434,7 @@
      },
      {
       "zeit": "06:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
@@ -1458,13 +1446,13 @@
      },
      {
       "zeit": "08:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
@@ -1500,13 +1488,25 @@
      },
      {
       "zeit": "15:00",
-      "grad": 11,
-      "code": 2,
+      "grad": 10,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 11,
+      "grad": 10,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
       "code": 1,
       "regen": 0
      }
@@ -1518,13 +1518,13 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 8,
+     "grad": 5,
      "code": 0,
-     "gefuehlt": 6,
-     "wind": 5,
-     "windAus": 110,
-     "feuchte": 74,
-     "druck": 994,
+     "gefuehlt": 3,
+     "wind": 4,
+     "windAus": 171,
+     "feuchte": 82,
+     "druck": 993,
      "niederschlag": 0,
      "tag": 0
     },
@@ -1532,11 +1532,11 @@
      "datum": "2026-11-05",
      "code": 3,
      "max": 9,
-     "min": 4,
+     "min": 3,
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 118,
+     "windAus": 119,
      "uv": 2.3,
      "auf": "07:16",
      "unter": "16:57"
@@ -1545,11 +1545,11 @@
      "datum": "2026-11-06",
      "code": 3,
      "max": 8,
-     "min": 3,
-     "regen": 10,
+     "min": 2,
+     "regen": 18,
      "menge": 0,
      "wind": 4,
-     "windAus": 155,
+     "windAus": 157,
      "uv": 2.2,
      "auf": "07:17",
      "unter": "16:55"
@@ -1559,11 +1559,11 @@
       "datum": "2026-11-05",
       "code": 3,
       "max": 9,
-      "min": 4,
+      "min": 3,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 118,
+      "windAus": 119,
       "uv": 2.3,
       "auf": "07:16",
       "unter": "16:57"
@@ -1572,11 +1572,11 @@
       "datum": "2026-11-06",
       "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 10,
+      "min": 2,
+      "regen": 18,
       "menge": 0,
       "wind": 4,
-      "windAus": 155,
+      "windAus": 157,
       "uv": 2.2,
       "auf": "07:17",
       "unter": "16:55"
@@ -1586,11 +1586,11 @@
       "code": 61,
       "max": 9,
       "min": 5,
-      "regen": 8,
+      "regen": 15,
       "menge": 0.3,
       "wind": 3,
       "windAus": 119,
-      "uv": 0.5,
+      "uv": 0.9,
       "auf": "07:19",
       "unter": "16:54"
      },
@@ -1599,7 +1599,7 @@
       "code": 45,
       "max": 11,
       "min": 4,
-      "regen": 5,
+      "regen": 2,
       "menge": 0,
       "wind": 6,
       "windAus": 174,
@@ -1612,94 +1612,82 @@
       "code": 45,
       "max": 10,
       "min": 3,
-      "regen": 27,
+      "regen": 21,
       "menge": 0,
       "wind": 4,
       "windAus": 149,
-      "uv": 2.1,
+      "uv": 1.8,
       "auf": "07:22",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-10",
       "code": 61,
-      "max": 17,
+      "max": 13,
       "min": 9,
-      "regen": 70,
-      "menge": 0.5,
-      "wind": 5,
-      "windAus": 173,
-      "uv": 0.6,
+      "regen": 54,
+      "menge": 1.4,
+      "wind": 3,
+      "windAus": 172,
+      "uv": 0.2,
       "auf": "07:24",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-11",
       "code": 61,
-      "max": 15,
-      "min": 11,
-      "regen": 52,
-      "menge": 5.1,
-      "wind": 6,
-      "windAus": 182,
-      "uv": 1.4,
+      "max": 17,
+      "min": 9,
+      "regen": 54,
+      "menge": 2.7,
+      "wind": 5,
+      "windAus": 195,
+      "uv": 1.1,
       "auf": "07:25",
       "unter": "16:48"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
       "grad": 6,
       "code": 0,
       "regen": 0
      },
      {
-      "zeit": "21:00",
+      "zeit": "20:00",
       "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1717,24 +1705,24 @@
      {
       "zeit": "04:00",
       "grad": 3,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 3,
+      "grad": 2,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -1770,7 +1758,7 @@
      },
      {
       "zeit": "13:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
@@ -1791,6 +1779,18 @@
       "grad": 8,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -1800,12 +1800,12 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 7,
-     "code": 1,
-     "gefuehlt": 5,
+     "grad": 4,
+     "code": 0,
+     "gefuehlt": 2,
      "wind": 3,
-     "windAus": 140,
-     "feuchte": 78,
+     "windAus": 120,
+     "feuchte": 90,
      "druck": 962,
      "niederschlag": 0,
      "tag": 0
@@ -1814,24 +1814,24 @@
      "datum": "2026-11-05",
      "code": 45,
      "max": 8,
-     "min": 3,
+     "min": 2,
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 90,
+     "windAus": 92,
      "uv": 2.4,
      "auf": "07:04",
      "unter": "16:49"
     },
     "morgen": {
      "datum": "2026-11-06",
-     "code": 61,
+     "code": 51,
      "max": 6,
      "min": 2,
      "regen": 3,
      "menge": 0,
      "wind": 5,
-     "windAus": 96,
+     "windAus": 94,
      "uv": 2.3,
      "auf": "07:06",
      "unter": "16:47"
@@ -1841,24 +1841,24 @@
       "datum": "2026-11-05",
       "code": 45,
       "max": 8,
-      "min": 3,
+      "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 90,
+      "windAus": 92,
       "uv": 2.4,
       "auf": "07:04",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-06",
-      "code": 61,
+      "code": 51,
       "max": 6,
       "min": 2,
       "regen": 3,
       "menge": 0,
       "wind": 5,
-      "windAus": 96,
+      "windAus": 94,
       "uv": 2.3,
       "auf": "07:06",
       "unter": "16:47"
@@ -1868,11 +1868,11 @@
       "code": 45,
       "max": 9,
       "min": 4,
-      "regen": 15,
+      "regen": 23,
       "menge": 0,
       "wind": 6,
       "windAus": 122,
-      "uv": 0.6,
+      "uv": 2,
       "auf": "07:08",
       "unter": "16:46"
      },
@@ -1881,7 +1881,7 @@
       "code": 45,
       "max": 8,
       "min": 3,
-      "regen": 3,
+      "regen": 8,
       "menge": 0,
       "wind": 3,
       "windAus": 100,
@@ -1894,7 +1894,7 @@
       "code": 45,
       "max": 10,
       "min": 3,
-      "regen": 37,
+      "regen": 32,
       "menge": 0,
       "wind": 6,
       "windAus": 99,
@@ -1905,53 +1905,41 @@
      {
       "datum": "2026-11-10",
       "code": 61,
-      "max": 11,
+      "max": 10,
       "min": 7,
-      "regen": 54,
+      "regen": 45,
       "menge": 2.4,
       "wind": 7,
-      "windAus": 114,
-      "uv": 0.8,
+      "windAus": 101,
+      "uv": 0.3,
       "auf": "07:12",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-11",
-      "code": 61,
-      "max": 13,
-      "min": 5,
-      "regen": 51,
+      "code": 45,
+      "max": 17,
+      "min": 7,
+      "regen": 45,
       "menge": 0.3,
-      "wind": 5,
-      "windAus": 112,
-      "uv": 0.5,
+      "wind": 8,
+      "windAus": 124,
+      "uv": 0.9,
       "auf": "07:14",
       "unter": "16:40"
      }
     ],
     "stunden": [
      {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "19:00",
-      "grad": 6,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1962,26 +1950,26 @@
      },
      {
       "zeit": "22:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 2,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1992,37 +1980,37 @@
      },
      {
       "zeit": "03:00",
-      "grad": 3,
-      "code": 51,
+      "grad": 2,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 3,
-      "code": 51,
+      "grad": 2,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 3,
+      "grad": 2,
       "code": 51,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 3,
+      "grad": 2,
       "code": 51,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 3,
+      "grad": 2,
       "code": 51,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 3,
+      "grad": 2,
       "code": 51,
       "regen": 0
      },
@@ -2034,20 +2022,20 @@
      },
      {
       "zeit": "10:00",
-      "grad": 4,
+      "grad": 3,
       "code": 51,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 4,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 5,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
@@ -2058,7 +2046,7 @@
      },
      {
       "zeit": "14:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -2070,7 +2058,19 @@
      },
      {
       "zeit": "16:00",
-      "grad": 6,
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 5,
       "code": 3,
       "regen": 0
      }
@@ -2079,9 +2079,9 @@
   ],
   "text": [
    "Heute liegen die Höchstwerte zwischen 8 und 13 Grad.",
-   "Die Vorhersage für morgen, Freitag: im Norden und Osten leichter Nieselregen, im Süden und Westen bewölkt.",
-   "Die Temperaturen erreichen dann 6 bis 12 Grad.",
-   "Am wärmsten wird es in Köln mit 12 Grad.",
+   "Die Vorhersage für morgen, Freitag, im ganzen Land: bewölkt.",
+   "Die Temperaturen erreichen dann 6 bis 11 Grad.",
+   "Am wärmsten wird es in Köln mit 11 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2116,7 +2116,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 7,
        "regen": 0
       },
       {
@@ -2168,7 +2168,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
+       "grad": 12,
        "regen": 0
       },
       {
@@ -2185,13 +2185,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 11,
        "regen": 0
       },
       {
@@ -2215,7 +2215,7 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 10,
-       "regen": 0.6
+       "regen": 0
       },
       {
        "name": "ECMWF",
@@ -2237,7 +2237,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2260,19 +2260,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 8 und 13 Grad. Die Vorhersage für morgen, ",
-   "d": "568b7ccedf.mp3",
-   "l": 19.55,
-   "s": [
-    0.25,
-    3.92,
-    10.98,
-    14.13,
-    16.91
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2408,7 +2396,7 @@
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Donnerstag, 5. November. Es ",
     "d": "615cafaedb.mp3",
-    "l": 10.0,
+    "l": 10,
     "s": [
      0.25,
      2.72,
@@ -2478,183 +2466,193 @@
   {
    "id": "midterms-usa",
    "rubrik": "Welt",
-   "zeit": "2026-11-04T21:15:03.000Z",
-   "aktualisiert": "aktualisiert um 22:16 Uhr",
+   "zeit": "2026-11-05T18:25:17.000Z",
+   "aktualisiert": "aktualisiert um 19:41 Uhr",
    "titel": "Demokraten gewinnen Mehrheit in beiden Kongresskammern bei US-Zwischenwahlen",
-   "vorspann": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten laut übereinstimmenden Hochrechnungen die Mehrheit im Senat und im Repräsentantenhaus erlangt. Mehrere Bundesstaaten meldeten zudem historische Premieren bei Gouverneurswahlen.",
+   "vorspann": "Bei den Kongresswahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit in Senat und Repräsentantenhaus erlangt. US-Präsident Donald Trump und die Republikaner verzeichneten nach Angaben der Berichte schwere Verluste.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit im Senat und im Repräsentantenhaus erobert.",
-    "In mehreren Bundesstaaten erzielten Kandidatinnen historische Erfolge bei Gouverneurswahlen.",
-    "Regierungsvertreter und Politiker machten unter anderem den Iran-Krieg für die Niederlagen der Republikaner verantwortlich.",
-    "Internationale Politiker erwarten veränderte Mehrheitsverhältnisse und eine stärkere Rolle des Kongresses in der US-Politik."
+    "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit in beiden Kammern des Kongresses errungen.",
+    "Die Republikaner unter US-Präsident Donald Trump verzeichneten erhebliche Verluste in Senat und Repräsentantenhaus sowie bei Gouverneurswahlen.",
+    "Die neuen Mehrheitsverhältnisse schränken den politischen Handlungsspielraum der Regierung ein und ermöglichen den Demokraten parlamentarische Untersuchungen.",
+    "Führende Politiker beider Parteien kündigten an, sich auf die neue politische Arbeit im Kongress einzustellen."
    ],
    "einig": [
     [
-     "Die Demokraten haben bei den Zwischenwahlen die Mehrheit in beiden Kongresskammern gewonnen.",
+     "Die Demokraten haben bei den US-Zwischenwahlen die Mehrheit im Senat und im Repräsentantenhaus gewonnen.",
      [
-      "Deutschlandfunk",
-      "SWR Baden-Württemberg"
+      "ZDFheute",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "US-Präsident Donald Trump äußerte sich bereit, die Wahlergebnisse anzuerkennen.",
+     [
+      "ZDFheute",
+      "Deutsche Welle"
      ]
     ]
    ],
    "unklar": [
-    "Der genaue Ausgang der Senatsrennen in Alaska und Mississippi ist noch nicht vollständig ausgezählt (Deutschlandfunk, SWR Baden-Württemberg)."
+    "Das genaue Endergebnis im Senat für Alaska ist laut ZDFheute aufgrund des dortigen Wahlsystems noch offen."
    ],
    "positionen": [
     [
-     "Jon Ossoff (Demokratischer Senator)",
-     "Das amerikanische Volk hat der Verderbtheit und Inkompetenz eines gescheiterten Präsidenten eine Absage erteilt.",
-     "SWR Baden-Württemberg"
-    ],
-    [
-     "Hakeem Jeffries (Chef der Demokraten im Repräsentantenhaus)",
-     "Die Wahlergebnisse sind eine erstaunliche Rüge für den MAGA-Extremismus und ein großartiger Sieg für die Amerikaner.",
-     "SWR Baden-Württemberg"
-    ],
-    [
      "Donald Trump (US-Präsident)",
-     "Er hält an seinem Kurs im Iran-Krieg fest, sieht das Wahlergebnis nicht als Schlag gegen sich und macht Kandidaten verantwortlich.",
-     "SWR Baden-Württemberg"
+     "Er will die Wahlergebnisse akzeptieren, kündigt aber ein mögliches Veto gegen Gesetze der Demokraten an.",
+     "Deutsche Welle"
     ],
     [
-     "JD Vance (US-Vizepräsident)",
-     "Der Krieg gegen den Iran ist der ausschlaggebende Grund für die Wahlniederlagen der Partei.",
-     "SWR Baden-Württemberg"
+     "Hakeem Jeffries (Fraktionschef der Demokraten)",
+     "Er feiert den Wahlerfolg und wirbt für das Amt des Sprechers im Repräsentantenhaus.",
+     "ZDFheute,Deutsche Welle,The Guardian"
     ],
     [
-     "Johann Wadephul (Bundesaußenminister)",
-     "Er erwartet eine konstruktive Zusammenarbeit, sieht aber eine stärkere Rolle des Kongresses in der Außenpolitik.",
-     "SWR Baden-Württemberg"
-    ],
-    [
-     "Friedrich Merz (Bundeskanzler)",
-     "Er erwartet keine große Politikänderung des US-Präsidenten, aber Veränderungen bei der Budget- und Streitkräfteplanung.",
-     "SWR Baden-Württemberg"
+     "Chuck Schumer (Senator)",
+     "Er warnt, dass Wähler aus Frustration über Trump und nicht aus Liebe zu den Demokraten gestimmt haben.",
+     "The Guardian"
     ]
    ],
-   "fehlend": "Stimmen aus der Wählerschaft außerhalb der zitierten Politiker und Geistlichen, detaillierte Analysen von unabhängigen Instituten.",
+   "fehlend": "Detaillierte Stellungnahmen aller einzelnen republikanischen Senatoren zu den konkreten Verlusten.",
    "medien": [
     {
-     "name": "Deutschlandfunk",
+     "name": "ZDFheute",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "04.11.26, 22:11",
-     "fokus": "Sitzverteilung im Kongress",
-     "text": "Der öffentlich-rechtliche Sender konzentriert sich auf die harten Fakten und Hochrechnungen zur neuen Sitzverteilung im Senat und Repräsentantenhaus.",
-     "url": "https://www.deutschlandfunk.de/demokraten-erobern-mehrheit-im-senat-und-im-repraesentantenhaus-100.html",
+     "datum": "05.11.26, 17:17",
+     "fokus": "Analysen und Reaktionen",
+     "text": "Berichtet ausführlich über Expertenmeinungen, Einzelheiten in umkämpften Bundesstaaten und Reaktionen internationaler Politiker.",
+     "url": "https://www.zdfheute.de/politik/ausland/midterms-usa-wahl-kongress-senat-trump-liveticker-100.html",
      "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 7,
+      "woerter": 1325,
+      "satzlaenge": 19,
+      "langeWoerter": 38
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
+     "publikumWert": 3.66
     },
     {
-     "name": "ORF",
-     "typ": "öffentlich-rechtlich (Österreich)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "04.11.26, 20:05",
-     "fokus": "Historische Premieren von Frauen",
-     "text": "Der Sender aus Österreich hebt vor allem die historischen Erfolge von Frauen hervor, darunter die erste schwarze Gouverneurin in Georgia.",
-     "url": "https://orf.at/stories/3447173/",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
-     "finanzierung": "Haushaltsabgabe",
-     "publikumWert": null
-    },
-    {
-     "name": "SWR Baden-Württemberg",
-     "typ": "öffentlich-rechtlich (Region)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "04.11.26, 22:15",
-     "fokus": "Reaktionen und internationale Folgen",
-     "text": "Das Regionale Programm liefert eine breite Sammlung an internationalen Reaktionen, Zitate von Politikern sowie wirtschaftliche Begleiterscheinungen.",
-     "url": "https://www.tagesschau.de/newsticker/liveblog-midterms-2026-100.html",
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "05.11.26, 11:16",
+     "fokus": "Zahlen und demografische Daten",
+     "text": "Liefert konkrete Sitzverteilungen im Kongress sowie detaillierte Auswertungen zum Wahlverhalten verschiedener Bevölkerungsgruppen.",
+     "url": "https://www.dw.com/de/us-midterms-sieg-der-demokraten-auf-ganzer-linie/a-79848805?maca=de-rss-de-all-1119-rdf",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 10,
-      "minuten": 7,
-      "woerter": 1376,
-      "satzlaenge": 19,
-      "langeWoerter": 34
+      "minuten": 5,
+      "woerter": 1064,
+      "satzlaenge": 14,
+      "langeWoerter": 37
      },
-     "traeger": "Südwestrundfunk, ARD-Anstalt für Baden-Württemberg und Rheinland-Pfalz",
-     "finanzierung": "Rundfunkbeitrag",
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    },
+    {
+     "name": "The Guardian",
+     "typ": "Tageszeitung (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": false,
+     "datum": "05.11.26, 19:25",
+     "fokus": "Detailergebnisse und Personalien",
+     "text": "Führt zahlreiche konkrete Wahlkreissiege der Demokraten auf und beleuchtet interne Personalwechsel sowie Reaktionen von Parteigrößen.",
+     "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 8,
+      "woerter": 1555,
+      "satzlaenge": 24,
+      "langeWoerter": 30
+     },
+     "traeger": "Guardian Media Group, im Eigentum des Scott Trust",
+     "finanzierung": "Leserbeiträge und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Schwerpunkte",
-     "Der Deutschlandfunk fokussiert sich auf die reinen Zahlen der Mehrheiten, der ORF auf Frauen in der Politik und der SWR auf umfassende Reaktionen und wirtschaftliche Folgen."
+     "Genannte Sitzzahlen",
+     "Die Quellen nennen leicht unterschiedliche Zwischenstände bei den ausgezählten Sitzen im Repräsentantenhaus, da die Auszählung zum Redaktionsschluss noch lief."
     ]
    ],
    "wfragen": {
-    "wer": "Die Demokraten und US-Wähler",
-    "was": "Gewinn der Kongressmehrheiten",
-    "wann": "2026-11-04",
-    "wie": "Durch Stimmabgabe bei den Zwischenwahlen",
-    "warum": "Unzufriedenheit mit Politik und Iran-Krieg laut Politikern",
-    "quellenlage": "Deutschlandfunk, ORF, SWR Baden-Württemberg"
+    "wer": "Die Demokraten und die Republikaner in den USA",
+    "was": "Gewinn der Mehrheit in beiden Kongresskammern",
+    "wann": "November 2026",
+    "wo": "Vereinigte Staaten von Amerika",
+    "wie": "Durch den Gewinn von Sitzen in zahlreichen Bundesstaaten",
+    "warum": "Wahlentscheidung der US-Bürger nach Angaben von Medien und Experten",
+    "quellenlage": "Berichte von ZDFheute, Deutsche Welle und The Guardian"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Bei den Zwischenwahlen in den USA haben die Demokraten laut übereinstimmenden Hochrechnungen die Mehrheit in beiden Kammern des Kongresses gewonnen. Im Senat sicherten sie sich nach Angaben des Deutschlandfunks 54 der insgesamt 100 Sitze. Die Republikaner kommen demnach auf 44 Sitze. Aus den Bundesstaaten Alaska und Mississippi lagen zunächst noch keine verlässlichen Auswertungsergebnisse vor. Der Kongress setzt sich aus dem Senat und dem Repräsentantenhaus zusammen.",
-      "Zusätzlich zu den Mehrheitsverhältnissen im Parlament fanden in verschiedenen Bundesstaaten Wahlen zu anderen Ämtern statt. Der Sender ORF berichtete, dass im US-Bundesstaat Georgia mit Keisha Lance Bottoms erstmals in der Geschichte der Vereinigten Staaten eine schwarze Frau zur Gouverneurin gewählt wurde. Auch weiteren Frauen gelangen bei den Zwischenwahlen historische Premieren und Rekorde. Die Wahlen gelten traditionell als Stimmungstest für den amtierenden Präsidenten.",
-      "Der US-Senat und das Repräsentantenhaus bilden gemeinsam die Gesetzgebung der Vereinigten Staaten in Washington. Die Sitzverteilung bestimmt, welche Partei die parlamentarische Arbeit und Ausschüsse leitet. Die Demokraten bauen ihre Position im Parlament durch den Wahlausgang deutlich aus. Dies hat unmittelbare Auswirkungen auf die Bestätigung von Regierungsmitgliedern und Richtern.",
-      "Die Auszählung der Stimmen in einzelnen Regionen dauerte am Tag nach der Wahl an. Sender wie CNN und NBC berichteten über knappe Ergebnisse in umkämpften Bundesstaaten. Die Wahlbeteiligung und die eingegangenen Spenden erreichten in mehreren Wahlkreisen historische Höchstwerte. Politische Beobachter bewerteten das Gesamtergebnis als wesentliche Veränderung der Machtverhältnisse in Washington."
+      "Bei den Kongresswahlen in den Vereinigten Staaten haben die Demokraten in beiden Kammern des Kongresses die Mehrheit gewonnen. Dies geht aus übereinstimmenden Berichten von ZDFheute, Deutsche Welle und The Guardian hervor. Die Demokraten sicherten sich demnach die Mehrheit im Senat und im Repräsentantenhaus.",
+      "Für die Partei von US-Präsident Donald Trump bedeutet das Wahlergebnis eine historische Niederlage. Laut Deutscher Welle stellen die Demokraten zum ersten Mal seit dem Jahr 2010 in mehr Bundesstaaten einen Gouverneur als die Republikaner. Die Zwischenwahlen fanden im November 2026 statt.",
+      "Die Republikaner hatten vor der Wahl beide Kongresskammern kontrolliert. Nach dem jetzigen Auszählungsstand verzeichnen die Demokraten in mehreren Bundesstaaten deutliche Stimmengewinne. Der Machtwechsel im Parlament dürfte das Regieren für die amtierende Regierung erheblich erschweren."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Laut dem SWR Baden-Württemberg ist der Ausgang in einigen Regionen weiterhin umstritten. Im Senatsrennen in Mississippi lieferten sich Scott Colom von den Demokraten und die republikanische Amtsinhaberin Cindy Hyde-Smith ein Kopf-an-Kopf-Rennen. Nach der Auszählung von 96 Prozent der Stimmen lag Colom mit weniger als 50 Stimmen vorn. In Alaska lag die Demokratin Mary Peltola nach der Auszählung von 74 Prozent der Stimmen mit 48,2 Prozent knapp vor dem Republikaner Dan Sullivan, der 47,9 Prozent erreichte.",
-      "Im Wahlkampf im Bundesstaat Georgia stand der demokratische Senator Jon Ossoff im Mittelpunkt der Aufmerksamkeit. Er sammelte nach Angaben des SWR mehr als 100 Millionen Dollar an Wahlkampfspenden ein. Ossoff war der einzige demokratische Senator, der in einem Bundesstaat zur Wiederwahl antrat, den Donald Trump im Jahr 2024 gewonnen hatte. Nach seiner Wiederwahl kritisierte Ossoff den Präsidenten scharf.",
-      "Die Aktienkurse von Unternehmen des Tech-Milliardärs Elon Musk gaben nach den Wahlergebnissen nach. Anteilsscheine von Tesla verzeichneten einen Rückgang von 3,82 Prozent, während SpaceX-Aktien um 2,65 Prozent fielen. Musk hatte zuvor erhebliche Geldsummen für den Wahlkampf der Republikaner gespendet, unter anderem in Texas. In Texas konnten die Demokraten laut den Berichten ebenfalls historische Erfolge erzielen.",
-      "Der republikanische Repräsentantenhausvorsitzende Mike Johnson will nach dem Abschneiden seiner Partei nicht erneut als Fraktionschef kandidieren. Dies berichteten mehrere US-Medien übereinstimmend laut der Auswertung des SWR. Der scheidende republikanische Gouverneur von Florida, Ron DeSantis, prognostizierte deutlich mehr Konflikte zwischen dem Kongress und der Regierung. Die Chancen für die Bestätigung von Regierungsanwärtern durch den neuen Kongress stünden schlecht."
+      "Laut dem aktuellen Auszählungsstand, über den die Deutsche Welle berichtet, kommen die Demokraten im Senat auf 54 Sitze, während die Republikaner zehn Sitze weniger aufweisen. Für zwei Bundesstaaten stehen die endgültigen Ergebnisse noch aus. Im Repräsentantenhaus erreichen die Demokraten den Berichten zufolge 228 Sitze gegenüber 139 Sitzen der Republikaner, wobei in diesem Bereich noch 68 Sitze offen sind.",
+      "The Guardian führt weiter aus, dass die Demokraten ihre Mehrheit im Repräsentantenhaus durch den Gewinn zusätzlicher Sitze weiter ausgebaut haben. Die Partei kommt laut dieser Quelle auf insgesamt 247 Sitze in der unteren Kammer, während noch 35 Rennen ausstehen. Mehrere bisher von den Republikanern gehaltene Sitze wechselten zu den Demokraten.",
+      "In verschiedenen Bundesstaaten kam es zu historischen Erfolgen der Demokraten. So gewannen die Kandidaten nach übereinstimmenden Medienberichten unter anderem in North Carolina, Texas, Kansas und Michigan Senatssitze. In Alaska steht das Ergebnis der Senatswahl laut ZDFheute wegen des dortigen Rangfolgeprinzips und noch ausstehender Stimmen weiterhin aus.",
+      "Bei den Gouverneurswahlen konnten die Demokraten ebenfalls in mehreren Bundesstaaten neue Ämter übernehmen. Die Deutsche Welle nennt als Beispiele Georgia und weitere Regionen, in denen demokratische Kandidaten siegreich waren. In Florida hingegen verteidigten die Republikaner das Gouverneursamt.",
+      "Die Wahlbeteiligung unter bestimmten Wählergruppen verzeichnete bemerkenswerte Entwicklungen. So stimmten laut Berichten der Deutschen Welle und von ZDFheute zahlreiche hispanische Wähler für die demokratischen Kandidaten. Auch junge Wähler entschieden sich mehrheitlich für die Demokraten, während weiße Männer weiterhin überwiegend für die Republikaner votierten."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Als ein wesentlicher Faktor für das Abschneiden der Republikaner wurde in den Berichten der Iran-Krieg genannt. Der Krieg war gemeinsam mit Israel begonnen worden und hatte die Republikaner im Wahlkampf belastet. Infolge des Konflikts gestiegene Spritpreise gehörten zu den zentralen Sorgen der Wählerinnen und Wähler. US-Präsident Donald Trump räumte ein, dass die militärische Auseinandersetzung im Iran eine Rolle bei den Midterms gespielt habe.",
-      "Vizepräsident JD Vance machte den Krieg ausdrücklich für die Niederlagen der Partei verantwortlich. In einem Online-Post schrieb er, der Grund für den Verlust sei der Konflikt gewesen. US-Präsident Trump betonte hingegen, am Kurs im Iran-Krieg festhalten zu wollen. Er verteidigte auch Verteidigungsminister Pete Hegseth und lehnte dessen Entlassung ab, obwohl Berichte über interne Beratungen zu Personalfragen vorlagen.",
-      "Die Zwischenwahlen in den USA finden in der Mitte einer vierjährigen Präsidentschaftsperiode statt. Dabei werden alle Sitze im Repräsentantenhaus und etwa ein Drittel der Sitze im Senat neu vergeben. Historisch gesehen verliert die Partei des amtierenden Präsidenten bei diesen Abstimmungen häufig Sitze im Kongress. Die diesjährigen Wahlen zeigten jedoch nach Analysen von Experten eine besonders ausgeprägte Verschiebung der Mehrheiten.",
-      "Die parteiinternen Strukturen gerieten nach der Niederlage ebenfalls in die Diskussion. Politikwissenschaftler Boris Vormann erklärte laut SWR-Bericht, dass die Demokraten zwar als breite Front aufträten, aber inhaltliche Kluften überwinden müssten. Gleichzeitig wies US-Präsident Trump die Verantwortung für das Wahlergebnis von sich und machte stattdessen einzelne republikanische Kandidaten dafür verantwortlich."
+      "Die Zwischenwahlen wurden von Beobachtern als ein Votum über die Politik von US-Präsident Donald Trump bewertet. Trump selbst hatte die Parlamentswahlen zu einer Abstimmung über seine Person gemacht, was laut Deutscher Welle eine schwere Hypothek für die Republikaner darstellte. Themen wie der Krieg gegen die Iran, steigende Spritpreise und die Wirtschaftspolitik spielten im Wahlkampf eine zentrale Rolle.",
+      "Vor der Wahl hatten die Republikaner beide Kammern des Kongresses dominiert. Die Demokraten nutzten die Unzufriedenheit von Teilen der Bevölkerung, um in bisher stark republikanisch geprägten Regionen Stimmen zu gewinnen. Experten wie Joshua Huder von der Georgetown University wiesen laut ZDFheute darauf hin, dass die Demokraten auch in der Landesmitte Wähler ansprechen konnten.",
+      "Ein weiterer Faktor im Vorfeld der Wahlen waren die wirtschaftlichen Rahmenbedingungen und die Einwanderungspolitik der Regierung. Die Berichte verweisen darauf, dass insbesondere die Taktiken der Einwanderungsbehörde ICE und die Preisentwicklung im Land bei verschiedenen Wählergruppen zu Kritik führten."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Zwischenwahlen, im amerikanischen Sprachgebrauch als Midterms bezeichnet, finden in der Mitte einer US-Präsidentschaftsperiode statt. Sie dienen den Wählerinnen und Wählern dazu, die Zusammensetzung des Kongresses in Washington neu zu bestimmen. Der Kongress besteht aus zwei Kammern: dem Senat, in dem jeder Bundesstaat zwei Vertreter entsendet, und dem Repräsentantenhaus, dessen Sitze nach der Bevölkerungszahl der Bundesstaaten verteilt werden.",
-      "Das Parlament in den USA ist ein zentraler Bestandteil der Bundesgesetzgebung und übt Kontrollrechte gegenüber der Regierung aus. Die Partei, die in einer Kammer die Mehrheit stellt, besetzt den Vorsitz der wichtigen Ausschüsse und bestimmt maßgeblich die parlamentarische Agenda. Durch Mehrheitswechsel im Kongress kann die Umsetzung von Regierungsvorhaben deutlich erschwert oder verändert werden."
+      "Der US-Kongress setzt sich aus zwei Kammern zusammen: dem Senat und dem Repräsentantenhaus. Beide Institutionen sind für die Gesetzgebung in den Vereinigten Staaten verantwortlich. Gesetze müssen von beiden Kammern verabschiedet werden, um in Kraft zu treten.",
+      "Das Repräsentantenhaus hat 435 Mitglieder, deren Sitze entsprechend der Bevölkerungszahl auf die Bundesstaaten verteilt sind. Der Senat besteht aus 100 Mitglieder, wobei jeder der 50 US-Bundesstaaten unabhängig von seiner Größe genau zwei Senatoren entsendet.",
+      "Zwischenwahlen, im englischen Midterms genannt, finden in der Mitte der vierjährigen Amtszeit eines US-Präsidenten statt. Dabei werden alle Sitze im Repräsentantenhaus sowie etwa ein Drittel der Sitze im Senat neu vergeben. Die Wahlen gelten traditionell als Stimmungstest für den amtierenden Präsidenten."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Der demokratische Senator Jon Ossoff warf der Regierung Korruption und Inkompetenz vor, wie der SWR berichtete. Der Chef der Demokraten im Repräsentantenhaus, Hakeem Jeffries, bezeichnete die Ergebnisse als Rüge für den politischen Extremismus und sprach von einem Tsunami. Der designierte Mehrheitsführer im Senat, Chuck Schumer, kündigte an, seine Partei weiter als Mehrheitsführer zu vertreten. Der demokratische Senator James Talarico aus Texas betonte, man strebe keine politische Vergeltung an, sondern wolle sich auf Alltagsthemen konzentrieren.",
-      "US-Präsident Donald Trump erklärte laut Fox News, die Demokraten hätten gute Arbeit geleistet, und lehnte es ab, die Niederlage als direkten Schlag gegen seine Person zu werten. Vizepräsident JD Vance erklärte schriftlich, der Iran-Krieg sei die Ursache für die Wahlniederlagen gewesen. Der republikanische Gouverneur Ron DeSantis sagte voraus, dass es künftig zu mehr Konflikten zwischen dem Kongress und der Exekutive kommen werde.",
-      "Internationale Reaktionen kamen unter anderem aus Deutschland und dem Vatikan. Bundesaußenminister Johann Wadephul (CDU) erklärte laut SWR, er erwarte eine weiterhin konstruktive Zusammenarbeit mit der US-ReGIERung, rechne aber mit einer stärkeren Rolle des Kongresses in der Außenpolitik. Bundeskanzler Friedrich Merz (CDU) äußerte, er erwarte keine große Politikänderung des US-Präsidenten, merkte jedoch an, dass sich die Budgetplanung und die Planung der Streitkräfte verändern würden. Papst Leo XIV. rief vor Gläubigen auf dem Petersplatz dazu auf, politische Macht stets am Gemeinwohl auszurichten.",
-      "Wirtschaftliche Interessenverbände äußerten sich ebenfalls zu den Folgen der Wahl. Der Außenhandelsverband BGA erklärte durch seinen Präsidenten Dirk Jandura, dass sich für den deutschen Außenhandel durch die neuen Mehrheitsverhältnisse im Kongress zunächst nichts an der bisherigen US-Zollpolitik ändern werde."
+      "US-Präsident Donald Trump erklärte laut Deutscher Welle in einem Interview mit der New York Times, dass er bereit sei, die Wahlergebnisse zu akzeptieren. Er freue sich auf die Kooperation mit den Demokraten, kündigte jedoch gleichzeitig an, Gesetzesvorhaben der Opposition gegebenenfalls mit seinem Veto zu blockieren. Gegenüber dem Sender Fox News räumte Trump ein, dass auch der Iran-Krieg zu den Verlusten seiner Partei beigetragen habe.",
+      "Der Fraktionschef der Demokraten im Repräsentantenhaus, Hakeem Jeffries, äußerte sich erfreut über den Wahlausgang. Laut Deutscher Welle jubelte er, Amerika sei zurück und die Anhänger des Präsidenten befänden sich auf der Flucht. Jeffries warb zudem in einem Brief an seine Parteikollegen um Unterstützung für seine Wahl zum Sprecher der Kammer.",
+      "Der demokratische Senator Chuck Schumer erklärte vor dem Center for American Progress laut The Guardian, dass viele Wähler vor allem aus Frustration über Trump für die Demokraten gestimmt hätten. Die Partei müsse weiterhin daran arbeiten, das Vertrauen der Wähler zurückzugewinnen. Gleichzeitig warnte er vor falschen Entscheidungen innerhalb der eigenen Partei.",
+      "Der ukrainische Präsident Wolodymyr Selenskyj zeigte sich laut ZDFheute optimistisch angesichts der Wahlergebnisse. Er verwies darauf, dass die Demokraten bei der Unterstützung für die Ukraine eine klare Haltung einnehmen. Der israelische Oppositionsführer Gadi Eisenkot betonte auf der Plattform X die Bedeutung der strategischen Partnerschaft zwischen Israel und den USA."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Die vollständige Auszählung der noch ausstehenden Stimmen in den Bundesstaaten Alaska und Mississippi muss abgewartet werden, um die endgültige Sitzverteilung im Senat festzustellen. Danach werden sich die neu gewählten Abgeordneten und Senatoren konstituieren und die Fraktionsvorsitzenden wählen. Beobachter erwarten verstärkte Auseinandersetzungen zwischen dem von den Demokraten kontrollierten Kongress und der Regierung von US-Präsident Trump bei Haushaltsfragen und Gesetzgebungsverfahren."
+      "Nach dem Machtwechsel im Kongress verfügen die Demokraten über neue parlamentarische Möglichkeiten. Laut den Berichten könnten sie Gesetzesvorhaben der Regierung blockieren, Haushaltsverhandlungen mitgestalten und eigenständige Untersuchungen einleiten. Auch über mögliche Amtsenthebungsverfahren wurde in den Medien diskutiert, wobei für eine tatsächliche Amtsenthebung im Senat eine Zweidrittelmehrheit erforderlich wäre.",
+      "Auf personeller Ebene stehen in den kommenden Wochen Abstimmungen in den Fraktionen an. Die republikanischen Abgeordneten im Repräsentantenhaus wollen über den Vorsitz ihrer Minderheitsfraktion abstimmen, nachdem der bisherige Vorsitzende Mike Johnson seinen Verzicht erklärt hat. Die konstituierende Sitzung des neuen Kongresses ist für den 3. Januar angesetzt."
      ]
     }
    ],
@@ -2675,138 +2673,144 @@
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Jon Ossoff politician",
-     "bildunterschrift": "Der demokratische Senator Jon Ossoff gewann seine Wiederwahl in Georgia und äußerte scharfe Kritik am Präsidenten."
+     "suchbegriff": "Hakeem Jeffries politician",
+     "bildunterschrift": "Hakeem Jeffries ist der Fraktionschef der Demokraten im US-Repräsentantenhaus."
     },
     {
      "art": "person",
-     "suchbegriff": "Hakeem Jeffries politician",
-     "bildunterschrift": "Hakeem Jeffries bewertete den Wahlsieg der Demokraten als erstaunliche Rüge für politischen Extremismus."
+     "suchbegriff": "Donald Trump official portrait",
+     "bildunterschrift": "Donald Trump ist der amtierende Präsident der Vereinigten Staaten von Amerika."
     },
     {
      "art": "institution",
-     "suchbegriff": "United States Capitol Washington DC",
-     "bildunterschrift": "Das Kapitol in Washington ist der Tagungsort des US-Kongresses, dessen Mehrheiten sich nach den Wahlen verschieben."
+     "suchbegriff": "United States Capitol building Washington DC",
+     "bildunterschrift": "Das Kapitol in Washington ist der Sitz des US-Kongresses."
     },
     {
      "art": "person",
-     "suchbegriff": "Keisha Lance Bottoms",
-     "bildunterschrift": "Keisha Lance Bottoms wurde im Bundesstaat Georgia zur ersten schwarzen Gouverneurin in der Geschichte der USA gewählt."
+     "suchbegriff": "Chuck Schumer US Senator",
+     "bildunterschrift": "Chuck Schumer ist ein führender demokratischer Politiker im US-Senat."
     }
    ],
    "ort": {
-    "name": "Washington, D.C., Vereinigte Staaten"
+    "name": "Washington, D.C., USA"
    },
    "geprueft": true,
-   "korrekturen": [],
+   "korrekturen": [
+    "Keine inhaltlichen Korrekturen erforderlich, da der Entwurf den Vorgaben entsprach."
+   ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
+      "Senat",
+      "Eine der beiden Kammern des US-Kongresses, in der jeder Bundesstaat genau zwei Vertreter hat."
+     ],
+     [
+      "Repräsentantenhaus",
+      "Die zweite Kammer des US-Kongresses, deren Sitze nach der Bevölkerungszahl der Bundesstaaten verteilt sind."
+     ],
+     [
       "Zwischenwahlen",
-      "Wahlen in den Vereinigten Staaten, die genau in der Mitte einer vierjährigen Amtszeit des Präsidenten stattfinden."
-     ],
-     [
-      "Kongress",
-      "Das Parlament der Vereinigten Staaten, das aus zwei Kammern besteht: dem Senat und dem Repräsentantenhaus."
-     ],
-     [
-      "Gouverneurin",
-      "Die Regierungschefin eines einzelnen Bundesstaates in den Vereinigten Staaten."
+      "Wahlen in den Vereinigten Staaten, die genau in der Mitte der Amtszeit eines Präsidenten stattfinden."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen Berichte über Kriege und Krisen bei der Entscheidung von Wählerinnen und Wählern laut den zitierten Politikern?",
-     "Wie bewerten verschiedene Parteien und Politiker die Ergebnisse der Zwischenwahlen und welche Folgen erwarten sie für die Regierungsarbeit?"
+     "Welche Folgen hat der Verlust der Kongressmehrheiten für die Arbeit von US-Präsident Donald Trump?",
+     "Warum spielen demografische Gruppen wie hispanische Wähler bei US-Wahlen eine wichtige Rolle?"
     ],
     "quiz": [
      {
-      "frage": "Welche Partei hat nach Hochrechnungen die Mehrheit in beiden Kongresskammern gewonnen?",
+      "frage": "Welche Partei hat nach den Berichten die Mehrheit in beiden Kongresskammern gewonnen?",
       "optionen": [
        "Die Republikaner",
        "Die Demokraten",
-       "Beide Parteien gleich viel"
+       "Die Unabhängigen"
       ],
       "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Hochrechnungen des Deutschlandfunks und des SWR haben die Demokraten die Mehrheit in beiden Kammern gewonnen."
+      "erklaerung": "Laut übereinstimmenden Berichten von ZDFheute und Deutscher Welle haben die Demokraten in Senat und Repräsentantenhaus die Mehrheit geholt."
      },
      {
-      "frage": "Wer wurde im Bundesstaat Georgia zur ersten schwarzen Gouverneurin gewählt?",
+      "frage": "Wie viele Sitze hat jeder US-Bundesstaat im Senat unabhängig von seiner Größe?",
       "optionen": [
-       "Keisha Lance Bottoms",
-       "Mary Peltola",
-       "Cindy Hyde-Smith"
-      ],
-      "richtig": 0,
-      "erklaerung": "Der ORF berichtete, dass Keisha Lance Bottoms in Georgia als erste schwarze Frau Gouverneurin wurde."
-     },
-     {
-      "frage": "Wer machte den Iran-Krieg für die Wahlniederlage der Republikaner verantwortlich?",
-      "optionen": [
-       "Der Papst",
-       "Vizepräsident JD Vance",
-       "Hakeem Jeffries"
+       "Einen Sitz",
+       "Genau zwei Sitze",
+       "Vier Sitze"
       ],
       "richtig": 1,
-      "erklaerung": "Vizepräsident JD Vance schrieb in einem Online-Post, dass der Krieg der Grund für die Niederlagen sei."
+      "erklaerung": "Der Senat besteht aus 100 Mitgliedern, wobei jeder der 50 US-Bundesstaaten genau zwei Senatoren entsendet."
+     },
+     {
+      "frage": "Wie äußerte sich US-Präsident Donald Trump nach den Wahlen zu den Ergebnissen?",
+      "optionen": [
+       "Er kündigte an, die Ergebnisse nicht anzuerkennen.",
+       "Er erklärte, er sei bereit, die Ergebnisse zu akzeptieren.",
+       "Er äußerte sich überhaupt nicht dazu."
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Deutscher Welle sagte Trump in einem Interview, dass er absolut bereit sei, diese Ergebnisse zu akzeptieren."
      }
     ]
    },
    "einfach": {
-    "vorspann": "In den Vereinigten Staaten haben die Bürgerinnen und Bürger ein neues Parlament gewählt. Dabei haben die Demokraten große Erfolge erzielt.",
+    "vorspann": "In den Vereinigten Staaten von Amerika haben die Bürger ein neues Parlament gewählt. Dabei haben die Demokraten einen großen Sieg errungen.",
     "absaetze": [
-     "Bei den sogenannten Zwischenwahlen wird in der Mitte der Amtszeit eines Präsidenten über den Kongress abgestimmt.",
-     "Die Demokraten haben nach Hochrechnungen die Mehrheit im Senat und im Repräsentantenhaus gewonnen.",
-     "Im US-Bundesstaat Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt.",
-     "Politiker der Regierung machten den Krieg im Iran für die Niederlagen verantwortlich.",
-     "Der amerikanische Präsident Donald Trump kündigte an, seinen Kurs im Iran-Krieg weiterzuführen."
+     "Bei den sogenannten Zwischenwahlen wurden alle Sitze im Repräsentantenhaus und ein Teil der Sitze im Senat neu verteilt. Die Demokraten haben in beiden Kammern des Kongresses die Mehrheit gewonnen. Das bedeutet einen schweren Verlust für die Republikaner und US-Präsident Donald Trump. Der Kongress ist das Parlament in den Vereinigten Staaten, das die Gesetze macht. Durch die neuen Mehrheiten können die Demokraten nun die Politik der Regierung stärker kontrollieren und Gesetze blockieren. US-Präsident Trump erklärte, dass er die Ergebnisse akzeptieren will."
     ]
    },
    "video": {
     "kurz": [
-     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit in beiden Kongresskammern gewonnen. Nach Angaben von Hochrechnungen sicherten sich die Demokraten im Senat vierundfünfzig von einhundert Sitzen. US-Präsident Donald Trump betonte nach der Wahl, an seinem Kurs im Iran-Krieg festhalten zu wollen."
+     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit in beiden Kammern des Kongresses gewonnen.",
+     "Nach Angaben der Deutschen Welle errangen sie im Senat vierundfünfzig Sitze und im Repräsentantenhaus zweihundertachtundzwanzig Sitze.",
+     "US-Präsident Donald Trump kündigte an, das Wahlergebnis zu akzeptieren.",
+     "Die neuen Mehrheitsverhältnisse erschweren das Regieren für die Regierung deutlich."
     ],
     "lang": [
-     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit im Senat und im Repräsentantenhaus gewonnen.",
-     "Das berichtete der Sender Deutschlandfunk am vierten November zweitausendsechsundzwanzig.",
-     "Im Senat sicherten sich die Demokraten vierundfünfzig von einhundert Sitzen.",
-     "Die Republikaner kommen nach denselben Angaben auf vierundvierzig Sitze.",
-     "Im Bundesstaat Georgia wurde nach Angaben des Senders ORF mit Keisha Lance Bottoms erstmals eine schwarze Frau zur Gouverneurin gewählt.",
-     "US-Vizepräsident JD Vance nannte den Krieg gegen den Iran als Hauptgrund für die Niederlagen seiner Partei.",
-     "US-Präsident Donald Trump erklärte dagegen, er wolle an seinem Kurs im Iran-Krieg festhalten.",
-     "Bundesaußenminister Johann Wadephul sagte, er erwarte eine weiterhin konstruktive Zusammenarbeit mit der Regierung in Washington.",
-     "Die vollständige Auszählung der Stimmen in einigen Bundesstaaten dauert noch an."
+     "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrheit in beiden Kammern des Kongresses gewonnen.",
+     "Das teilten Medien wie ZDFheute und die Deutsche Welle am Mittwoch mit.",
+     "Im Senat kommen die Demokraten nach Angaben der Deutschen Welle auf vierundfünfzig Sitze.",
+     "Im Repräsentantenhaus sicherten sie sich demnach zweihundertachtundzwanzig Sitze.",
+     "Für die Republikaner und US-Präsident Donald Trump bedeutet das Ergebnis eine historische Niederlage.",
+     "Der US-Präsident erklärte in einem Interview, dass er bereit sei, die Ergebnisse zu akzeptieren.",
+     "Kritiker und Parteifreunde diskutieren nun über die Gründe für die schweren Verluste der Regierungspartei.",
+     "Der Kongress besteht aus dem Senat und dem Repräsentantenhaus und ist für die Gesetzgebung zuständig.",
+     "Die Demokraten können durch ihre neue Mehrheit nun Gesetze blockieren und eigene Untersuchungen starten.",
+     "In den kommenden Wochen konstituiert sich der neue Kongress für die künftige Arbeit in Washington."
     ],
     "einfach": [
-     "In den Vereinigten Staaten gab es eine wichtige Wahl für das Parlament.",
+     "In den Vereinigten Staaten gab es wichtige Wahlen für das Parlament.",
      "Die Demokraten haben dabei die Mehrheit in beiden Kammern gewonnen.",
-     "Im Bundesstaat Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt.",
-     "Das ist die Regentin eines Bundesstaates in Amerika.",
-     "Regierungsmitglieder sagten, der Krieg im Iran sei ein Grund für die Niederlage.",
-     "Der Präsident Donald Trump will aber an diesem Kurs festhalten."
+     "Das ist ein großer Erfolg für die Partei.",
+     "Für US-Präsident Trump bedeutet das eine schwere Niederlage.",
+     "Der Präsident sagte, dass er das Wahlergebnis annehmen will."
     ]
    },
    "kurz": [
     "Bei den US-Zwischenwahlen haben die Demokraten die Mehrheit in Senat und Repräsentantenhaus gewonnen.",
-    "Vizepräsident JD Vance und andere nannten den Iran-Krieg als Grund für das Wahlergebnis.",
-    "In Georgia wurde erstmals eine schwarze Frau zur Gouverneurin gewählt."
+    "US-Präsident Donald Trump und die Republikaner verzeichneten deutliche Verluste.",
+    "Die Demokraten können durch die neue Mehrheit Gesetze blockieren und Untersuchungen einleiten.",
+    "US-Präsident Trump kündigte an, die Wahlergebnisse zu akzeptieren."
    ],
    "fakten": [
     [
-     "Sitze im Senat für die Demokraten",
+     "Sitze der Demokraten im Senat",
      "54"
     ],
     [
-     "Sitze im Senat für die Republikaner",
+     "Sitze der Republikaner im Senat",
      "44"
     ],
     [
-     "Gesamtzahl der Sitze im Senat",
-     "100"
+     "Sitze der Demokraten im Repräsentantenhaus",
+     "228 bis 247"
+    ],
+    [
+     "Sitze der Republikaner im Repräsentantenhaus",
+     "139"
     ]
    ],
    "dossier": {
-    "slug": "us-zwischenwahlen-2026",
+    "slug": "us-kongresswahlen-2026",
     "titel": "Zwischenwahlen in den Vereinigten Staaten"
    },
    "bildInfo": {
@@ -2869,130 +2873,12 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrh",
-     "d": "fa70ce4737.mp3",
-     "l": 18.32,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "In den Vereinigten Staaten gab es eine wichtige Wahl für das Parlament. Die Demo",
-     "d": "e190bf4cac.mp3",
-     "l": 26.59,
-     "s": [
-      0.25,
-      4.39,
-      8.41,
-      13.65,
-      17.32,
-      22.4
-     ]
-    },
-    {
-     "k": "Der genaue Ausgang der Senatsrennen in Alaska und Mississippi ist noch nicht vol",
-     "d": "66e0a3ee18.mp3",
-     "l": 8.22,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Zwischenwahlen? Wahlen in den Vereinigten Staaten, die g",
-     "d": "f427967351.mp3",
-     "l": 9.34,
-     "s": [
-      0.25,
-      2.78
-     ]
-    },
-    {
-     "k": "Bei den Zwischenwahlen in den USA haben die Demokraten laut übereinstimmenden Ho",
-     "d": "9943a0ebde.mp3",
-     "l": 51.34,
-     "s": [
-      0.25,
-      7.74,
-      14.29,
-      18.13,
-      24.62,
-      28.79,
-      35.56,
-      46.11
-     ]
-    },
-    {
-     "k": "Laut dem SWR Baden-Württemberg ist der Ausgang in einigen Regionen weiterhin ums",
-     "d": "86da8fc473.mp3",
-     "l": 60.28,
-     "s": [
-      0.25,
-      5.81,
-      15,
-      21.34,
-      34.32,
-      41.23,
-      47.36,
-      56.02
-     ]
-    },
-    {
-     "k": "Als ein wesentlicher Faktor für das Abschneiden der Republikaner wurde in den Be",
-     "d": "b25e32d1c1.mp3",
-     "l": 50.34,
-     "s": [
-      0.25,
-      6.39,
-      11.91,
-      17.97,
-      25.42,
-      31.31,
-      35.99,
-      41.01
-     ]
-    },
-    {
-     "k": "Zwischenwahlen, im amerikanischen Sprachgebrauch als Midterms bezeichnet, finden",
-     "d": "3df05d7d16.mp3",
-     "l": 47.12,
-     "s": [
-      0.25,
-      7.74,
-      13.77,
-      24.42,
-      32.39,
-      40.65
-     ]
-    },
-    {
-     "k": "Der demokratische Senator Jon Ossoff warf der Regierung Korruption und Inkompete",
-     "d": "82af2dd4f8.mp3",
-     "l": 63.26,
-     "s": [
-      0.25,
-      7.78,
-      16.88,
-      23.87,
-      33.2,
-      43.14,
-      49.5,
-      58.02
-     ]
-    },
-    {
-     "k": "Die vollständige Auszählung der noch ausstehenden Stimmen in den Bundesstaaten A",
-     "d": "f51151562f.mp3",
-     "l": 28.36,
-     "s": [
-      0.25,
-      10.48,
-      17.44
-     ]
-    }
-   ]
+   "ortInfo": {
+    "name": "Washington, D.C., USA",
+    "lat": 38.895,
+    "lon": -77.036
+   },
+   "version": 5
   },
   {
    "id": "hubert-aiwanger-tot",
