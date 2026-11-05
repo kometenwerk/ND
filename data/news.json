@@ -2260,7 +2260,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 8 und 13 Grad. Die Vorhersage für morgen, ",
+   "d": "411485982f.mp3",
+   "l": 16.81,
+   "s": [
+    0.25,
+    3.81,
+    8.08,
+    11.37,
+    14.15
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2274,156 +2286,156 @@
   },
   "ansagen": [
    {
-    "k": "Nachrichten-Heft. Die Hauptausgabe vom Mittwoch, 4. November. Es liest die Compu",
-    "d": "584a063e0b.mp3",
-    "l": 7.08,
+    "k": "Nachrichten-Heft. Die Hauptausgabe vom Donnerstag, 5. November. Es liest die Com",
+    "d": "92802faa79.mp3",
+    "l": 7.35,
     "s": [
      0.25,
-     4.52
+     4.86
     ]
    },
    {
-    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Mittwoch, 4. November. Es liest d",
-    "d": "d82c52a8ec.mp3",
-    "l": 7.1,
+    "k": "Nachrichten-Heft. Heft in hundert Sekunden vom Donnerstag, 5. November. Es liest",
+    "d": "49a0cace78.mp3",
+    "l": 7.9,
     "s": [
      0.25,
-     4.74
+     5.33
     ]
    },
    {
-    "k": "Nachrichten-Heft. Einfach erklärt vom Mittwoch, 4. November. Es liest die Comput",
-    "d": "aba8f2d369.mp3",
-    "l": 7.09,
+    "k": "Nachrichten-Heft. Einfach erklärt vom Donnerstag, 5. November. Es liest die Comp",
+    "d": "0929ee384d.mp3",
+    "l": 7.68,
     "s": [
      0.25,
-     4.56
+     5.0
     ]
    },
    {
-    "k": "Nachrichten-Heft. Kurzmeldungen vom Mittwoch, 4. November. Es liest die Computer",
-    "d": "f18f02a69a.mp3",
+    "k": "Nachrichten-Heft. Kurzmeldungen vom Donnerstag, 5. November. Es liest die Comput",
+    "d": "1640ac5a6e.mp3",
+    "l": 7.03,
+    "s": [
+     0.25,
+     4.64
+    ]
+   },
+   {
+    "k": "Nachrichten-Heft. Der Wochenrückblick vom Donnerstag, 5. November. Es liest die ",
+    "d": "6cbbd82158.mp3",
     "l": 6.99,
     "s": [
      0.25,
-     4.45
+     4.57
     ]
    },
    {
-    "k": "Nachrichten-Heft. Der Wochenrückblick vom Mittwoch, 4. November. Es liest die Co",
-    "d": "079e4cb648.mp3",
-    "l": 6.94,
-    "s": [
-     0.25,
-     4.32
-    ]
-   },
-   {
-    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Mittwoch, 4. November. Es liest d",
-    "d": "5710e26095.mp3",
-    "l": 7.44,
+    "k": "Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Donnerstag, 5. November. Es liest",
+    "d": "8941c21a20.mp3",
+    "l": 7.45,
     "s": [
      0.25,
      5.01
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Mittwoch, 4. November. Es liest di",
-    "d": "1b41e84741.mp3",
-    "l": 7.82,
+    "k": "Nachrichten-Heft. Die Ausgabe um neun Uhr vom Donnerstag, 5. November. Es liest ",
+    "d": "493e5c4a37.mp3",
+    "l": 7.75,
     "s": [
      0.25,
-     5.12
+     5.05
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Mittwoch, 4. November. Es liest d",
-    "d": "ae426785bf.mp3",
-    "l": 7.66,
+    "k": "Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Donnerstag, 5. November. Es liest",
+    "d": "171fa4f5dd.mp3",
+    "l": 8.08,
     "s": [
      0.25,
-     5.16
+     5.6
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Mittwoch, 4. November. Es lies",
-    "d": "4133825eb9.mp3",
-    "l": 7.67,
+    "k": "Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Donnerstag, 5. November. Es li",
+    "d": "b9b9c2276c.mp3",
+    "l": 7.45,
     "s": [
      0.25,
-     4.95
+     4.98
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Mittwoch, 4. November. Es lies",
-    "d": "6f2b112138.mp3",
-    "l": 7.86,
+    "k": "Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Donnerstag, 5. November. Es li",
+    "d": "defd7f3bf3.mp3",
+    "l": 8.12,
     "s": [
      0.25,
-     5.08
+     5.4
     ]
    },
    {
-    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Mittwoch, 4. November. Es",
-    "d": "dc90874380.mp3",
-    "l": 7.79,
+    "k": "Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom Donnerstag, 5. November. ",
+    "d": "c901966b6f.mp3",
+    "l": 8.1,
     "s": [
      0.25,
-     5.25
+     5.57
     ]
    },
    {
-    "k": "Nachrichten-Heft. Deutschland vom Mittwoch, 4. November. Es liest die Computerst",
-    "d": "f0b9226954.mp3",
-    "l": 6.45,
+    "k": "Nachrichten-Heft. Deutschland vom Donnerstag, 5. November. Es liest die Computer",
+    "d": "b959dd1bea.mp3",
+    "l": 6.86,
     "s": [
      0.25,
-     4.02
+     4.2
     ]
    },
    {
-    "k": "Nachrichten-Heft. Welt vom Mittwoch, 4. November. Es liest die Computerstimme Th",
-    "d": "52083168d8.mp3",
-    "l": 6.64,
+    "k": "Nachrichten-Heft. Welt vom Donnerstag, 5. November. Es liest die Computerstimme ",
+    "d": "f1918f7dd6.mp3",
+    "l": 6.93,
     "s": [
      0.25,
-     4.17
+     4.16
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wirtschaft vom Mittwoch, 4. November. Es liest die Computersti",
-    "d": "6b99e2ba1a.mp3",
-    "l": 7.13,
+    "k": "Nachrichten-Heft. Wirtschaft vom Donnerstag, 5. November. Es liest die Computers",
+    "d": "76eace2e5a.mp3",
+    "l": 6.99,
     "s": [
      0.25,
-     4.23
+     4.44
     ]
    },
    {
-    "k": "Nachrichten-Heft. Wissen und Klima vom Mittwoch, 4. November. Es liest die Compu",
-    "d": "99ea43b92c.mp3",
-    "l": 7.02,
+    "k": "Nachrichten-Heft. Wissen und Klima vom Donnerstag, 5. November. Es liest die Com",
+    "d": "17b1ef173a.mp3",
+    "l": 7.11,
     "s": [
      0.25,
-     4.27
+     4.64
     ]
    },
    {
-    "k": "Nachrichten-Heft. Sport vom Mittwoch, 4. November. Es liest die Computerstimme T",
-    "d": "142fe3c501.mp3",
-    "l": 6.65,
+    "k": "Nachrichten-Heft. Sport vom Donnerstag, 5. November. Es liest die Computerstimme",
+    "d": "5492defc6d.mp3",
+    "l": 6.7,
     "s": [
      0.25,
-     3.89
+     4.11
     ]
    },
    {
-    "k": "Nachrichten-Heft. Region vom Mittwoch, 4. November. Es liest die Computerstimme ",
-    "d": "5c2a9124f2.mp3",
-    "l": 6.92,
+    "k": "Nachrichten-Heft. Region vom Donnerstag, 5. November. Es liest die Computerstimm",
+    "d": "d0b7933fe1.mp3",
+    "l": 7.26,
     "s": [
      0.25,
-     4.28
+     4.44
     ]
    },
    {
@@ -2843,7 +2855,7 @@
     {
      "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrh",
      "d": "fa70ce4737.mp3",
-     "l": 18.02,
+     "l": 17.54,
      "s": [
       0.25
      ]
@@ -6723,13 +6735,13 @@
     {
      "k": "Bundeskanzler Friedrich Merz will eine Frau als Bundespräsidentin vorschlagen. D",
      "d": "7c39642a3b.mp3",
-     "l": 22.52,
+     "l": 21.85,
      "s": [
       0.25,
-      5.4,
-      9.52,
-      12.37,
-      17.31
+      5.16,
+      9.36,
+      12.3,
+      16.86
      ]
     },
     {
