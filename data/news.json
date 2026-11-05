@@ -2260,7 +2260,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 8 und 13 Grad. Die Vorhersage für morgen, ",
+   "d": "5c311ad4f7.mp3",
+   "l": 19.69,
+   "s": [
+    0.25,
+    4.01,
+    10.98,
+    14.27,
+    17.05
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2843,7 +2855,7 @@
     {
      "k": "Bei den Zwischenwahlen in den Vereinigten Staaten haben die Demokraten die Mehrh",
      "d": "fa70ce4737.mp3",
-     "l": 17.54,
+     "l": 18.19,
      "s": [
       0.25
      ]
@@ -6723,13 +6735,13 @@
     {
      "k": "Bundeskanzler Friedrich Merz will eine Frau als Bundespräsidentin vorschlagen. D",
      "d": "7c39642a3b.mp3",
-     "l": 21.85,
+     "l": 22.3,
      "s": [
       0.25,
-      5.16,
-      9.36,
-      12.3,
-      16.86
+      5.64,
+      9.8,
+      12.25,
+      17.28
      ]
     },
     {
