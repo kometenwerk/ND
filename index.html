@@ -1170,10 +1170,22 @@ body{padding-bottom:calc(64px + env(safe-area-inset-bottom))}
 .studio-modus .pl-inhalt .pl-logo{font-size:clamp(.75rem,1.9vw,1.2rem)}
 .studio-modus .pl-inhalt .pl-sprecher{font-size:clamp(.6rem,1.4vw,.85rem)}
 .studio-modus.binde-weg .pl-inhalt{opacity:0;pointer-events:none}
+.studio-modus.im-all .pl-inhalt,.studio-modus.im-all .pl-marke,.studio-modus.im-all .pl-fortschritt{opacity:0;transition:opacity .6s}
 .studio-modus .pl-marke{top:auto;bottom:10px;left:auto;right:12px;opacity:.65;font-size:clamp(.5rem,1.2vw,.66rem)}
 .tf-nachweise{text-align:left;font-size:clamp(.6rem,1.4vw,.85rem)}
 .tf-nachweise ul{margin:.4em 0;padding-left:1.2em;columns:2;column-gap:2em}
 .tf-nachweise li{margin:.15em 0}.tf-nachweise .tf-klein{opacity:.75}
+.pl-countdown{position:absolute;inset:0;z-index:5;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4%;
+  background:radial-gradient(circle at 50% 45%,#13233f,#04070d 70%);transition:opacity .45s}
+.pl-countdown.weg{opacity:0}
+.pl-countdown svg{height:62%;aspect-ratio:1}
+.pl-countdown .cd-ring{fill:none;stroke:#2b4a80;stroke-width:4}
+.pl-countdown .cd-blatt{fill:#0a1428}
+.pl-countdown [class^="cd-punkt"]{fill:#5b78a8}.pl-countdown .cd-punkt.gross{fill:#e8eef7}
+.pl-countdown .cd-std,.pl-countdown .cd-min{stroke:#e8eef7;stroke-linecap:round}
+.pl-countdown .cd-std{stroke-width:7}.pl-countdown .cd-min{stroke-width:4.5}
+.pl-countdown .cd-sek line{stroke:#ff8a3c;stroke-width:2.2}.pl-countdown .cd-sek circle{fill:#ff8a3c}
+.pl-countdown .cd-name{font-family:var(--head);font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#cfd9ea;font-size:clamp(.6rem,1.8vw,1.05rem)}
 </style>
 </head>
 <body>
@@ -3372,12 +3384,13 @@ function segmenteBauen(format, id){
   const gesprochen = { "Heft in 100 Sekunden":"Heft in hundert Sekunden", "Wissen & Klima":"Wissen und Klima", "Wochenrückblick":"Der Wochenrückblick" };
   const sprecherin = stimmeName(format);
   const ansage = titel => {
-    const s = [`Nachrichten-Heft. ${gesprochen[titel] || titel} vom ${datum}.`];
-    if (sprecherin) s.push(`Es liest die Computerstimme ${sprecherin}.`);
+    const s = ["Herzlich willkommen beim Nachrichten-Heft.", `${gesprochen[titel] || titel} vom ${datum}.`];
+    if (sprecherin) s.push(`Es moderiert ${sprecherin}, eine KI-Figur mit Computerstimme.`);
     return s;
   };
   const intro = titel => ({ typ:"intro", titel, stimme:sprecherin, saetze:ansage(titel) });
-  const outro = { typ:"outro", titel:"Mehr im Nachrichten-Heft", saetze:["Alle Hintergründe und Quellen findest du im Nachrichten-Heft."] };
+  const outro = { typ:"outro", titel:"Mehr im Nachrichten-Heft", saetze:["Das war das Nachrichten-Heft.",
+    "Alle Hintergründe und Quellen findest du in der App.", "Danke fürs Zuschauen und bis zur nächsten Ausgabe."] };
   // Der feste Block, der diese App ausmacht: was alle gleich berichten und wo es auseinandergeht.
   // Steht nach jedem Thema, gesprochen wie im Fernsehen.
   const vergleich = n => {
@@ -3753,7 +3766,7 @@ function zeigen(){
   inhalt.classList.remove("einblenden"); void inhalt.offsetWidth; inhalt.classList.add("einblenden");
   inhalt.innerHTML = `${kopfzeile}
     <div class="pl-titel">${esc(s.titel)}</div>
-    ${s.typ === "intro" && s.stimme ? `<div class="pl-sprecher">Es liest: <b>${esc(s.stimme)}</b> <span>· Computerstimme</span></div>` : ""}
+    ${s.typ === "intro" && s.stimme ? `<div class="pl-sprecher">${PLAYER.studio ? "Es moderiert" : "Es liest"}: <b>${esc(s.stimme)}</b> <span>· ${PLAYER.studio ? "KI-Figur, " : ""}Computerstimme</span></div>` : ""}
     ${s.chips?.length && s.typ === "thema" ? `<div class="pl-chips">${s.chips.map(([k,v]) => `<span><b>${k}:</b> ${esc(v.length > 60 ? v.slice(0,57) + "…" : v)}</span>`).join("")}</div>` : ""}
     ${s.id && PLAYER.format !== "clip" ? `<a class="pl-link" href="#/n/${esc(s.id)}">Ganzen Artikel lesen →</a>` : ""}`;
   el.querySelector(".pl-inhalt .pl-link")?.addEventListener("click", () => { stopp(); document.getElementById("player")?.remove(); document.body.style.overflow = ""; PLAYER.zurueck = null; });
@@ -3873,7 +3886,10 @@ function shotZeigen(neuesSegment){
   const sh = s.shots[Math.min(PLAYER.ti, s.shots.length - 1)] || { typ:"titel", titel:s.titel, rubrik:s.rubrik };
   const kennung = PLAYER.si + "|" + sh.typ + "|" + (sh.b?.url || sh.wer || sh.titel || sh.text || PLAYER.ti);
   const buehne = el.querySelector(".pl-buehne");
-  if (PLAYER.studio){
+  if (PLAYER.studio && neuesSegment && s.typ === "outro" && PLAYER.spielt){
+    const e = tonEintrag(s);
+    PLAYER.studio.abspannStarten((e ? e.l : 8) + 3);
+  } else if (PLAYER.studio){
     PLAYER.studio.einstellung(studioEinstellung(s, sh), !!neuesSegment);
     buehne.classList.toggle("binde-weg", PLAYER.ti > 0 && s.typ !== "intro" && s.typ !== "outro");
   }
@@ -4045,8 +4061,10 @@ function abspielen(){
     // lief nie, und die Melodie fiel jedes Mal aus. Jetzt warten wir darauf.
     PLAYER.melodieGespielt = true;
     clearTimeout(PLAYER.timer);
-    PLAYER.timer = setTimeout(() => { if (gueltig(lauf)) losSprechen(); }, 9000);   // Notbremse
-    tonBereit().then(ctx => {
+    PLAYER.timer = setTimeout(() => { if (gueltig(lauf)) losSprechen(); }, PLAYER.studio ? 15000 : 9000);   // Notbremse
+    tonBereit().then(ctx => PLAYER.studio
+      ? PLAYER.studio.countdown(3, () => { try { if (ctx) note(ctx, 1320, ctx.currentTime + .01, .07, .05, "square"); } catch {} }).then(() => ctx)
+      : ctx).then(ctx => {
       if (!gueltig(lauf)) return;
       let w = 0;
       if (ctx) {
@@ -4059,6 +4077,7 @@ function abspielen(){
         } catch (e){ console.warn("Melodie:", e); }
       }
       else console.warn("Tonkanal wacht nicht auf – Melodie übersprungen.");
+      PLAYER.studio?.introStarten(Math.max(4.5, w || 0));
       clearTimeout(PLAYER.timer);
       if (w > 0) PLAYER.timer = setTimeout(() => { if (gueltig(lauf)) losSprechen(); }, w * 1000);
       else losSprechen();

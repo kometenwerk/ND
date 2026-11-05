@@ -239,8 +239,11 @@ def ansage_saetze(jetzt_iso, sprecher):
         # "Einfach erklärt" liest die zweite Stimme – wie eine eigene Sendung
         art = "begriff" if t == "Einfach erklärt" else "ansage"
         name = sprecher.name(sprecher.schluessel(art))
-        liste.append((art, [f"Nachrichten-Heft. {t} vom {datum}.", f"Es liest die Computerstimme {name}."]))
-    liste.append(("ansage", ["Alle Hintergründe und Quellen findest du im Nachrichten-Heft."]))
+        # Genau dieselben Sätze stehen in index.html (ansage/outro) – sonst findet die App die Aufnahme nicht.
+        liste.append((art, ["Herzlich willkommen beim Nachrichten-Heft.", f"{t} vom {datum}.",
+                            f"Es moderiert {name}, eine KI-Figur mit Computerstimme."]))
+    liste.append(("ansage", ["Das war das Nachrichten-Heft.", "Alle Hintergründe und Quellen findest du in der App.",
+                             "Danke fürs Zuschauen und bis zur nächsten Ausgabe."]))
     return liste
 
 

@@ -1,5 +1,5 @@
 // Offline-Unterstützung für das Nachrichten-Heft
-const VERSION = "heft-v16";
+const VERSION = "heft-v17";
 const SHELL = ["./", "./index.html", "./manifest.webmanifest",
   "./manifest-wissen.webmanifest", "./manifest-wetter.webmanifest", "./manifest-podcast.webmanifest",
   "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png", "./wetterkarte.js", "./studio.js", "./thorsten3d.js"];
