@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T07:52:51.739Z",
+ "stand": "2026-11-06T15:52:59.906Z",
  "gepusht": [
   "angriffe-saporischschja",
   "trump-fordert-selenskyj-abloesung",
@@ -89,7 +89,6 @@
   "gen-z-proteste",
   "merzd-nachfolge-bundespraesident-frau",
   "cyberangriff-supermaerkte-kuehlsysteme",
-  "halloween-spitze-gegenstaende-suessigkeiten",
   "midterms-usa",
   "schaeffler-stellenabbau",
   "us-angriffe-iran-hormus",
@@ -97,7 +96,7 @@
   "hubert-aiwanger-tot"
  ],
  "wetter": {
-  "stand": "2026-11-06T07:52:51.739Z",
+  "stand": "2026-11-06T15:52:59.906Z",
   "morgenTag": "Samstag",
   "orte": [
    {
@@ -106,24 +105,24 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 4,
-     "code": 51,
-     "gefuehlt": 1,
-     "wind": 10,
-     "windAus": 90,
-     "feuchte": 97,
-     "druck": 1028,
+     "grad": 7,
+     "code": 61,
+     "gefuehlt": 5,
+     "wind": 9,
+     "windAus": 99,
+     "feuchte": 89,
+     "druck": 1026,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-06",
      "code": 61,
-     "max": 8,
+     "max": 7,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
+     "wind": 14,
      "windAus": 98,
      "uv": 1.8,
      "auf": "07:28",
@@ -131,13 +130,13 @@
     },
     "morgen": {
      "datum": "2026-11-07",
-     "code": 3,
+     "code": 61,
      "max": 5,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 131,
+     "wind": 13,
+     "windAus": 127,
      "uv": 1.7,
      "auf": "07:30",
      "unter": "16:36"
@@ -146,11 +145,11 @@
      {
       "datum": "2026-11-06",
       "code": 61,
-      "max": 8,
+      "max": 7,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
+      "wind": 14,
       "windAus": 98,
       "uv": 1.8,
       "auf": "07:28",
@@ -158,39 +157,39 @@
      },
      {
       "datum": "2026-11-07",
-      "code": 3,
+      "code": 61,
       "max": 5,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 131,
+      "wind": 13,
+      "windAus": 127,
       "uv": 1.7,
       "auf": "07:30",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
+      "code": 61,
       "max": 7,
-      "min": 0,
+      "min": 2,
       "regen": 3,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 129,
-      "uv": 0.5,
+      "menge": 0.1,
+      "wind": 8,
+      "windAus": 135,
+      "uv": 1.4,
       "auf": "07:32",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-09",
-      "code": 3,
-      "max": 8,
-      "min": 1,
-      "regen": 3,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 115,
+      "code": 61,
+      "max": 7,
+      "min": 4,
+      "regen": 4,
+      "menge": 1.4,
+      "wind": 4,
+      "windAus": 124,
       "uv": 1.6,
       "auf": "07:34",
       "unter": "16:32"
@@ -198,12 +197,12 @@
      {
       "datum": "2026-11-10",
       "code": 45,
-      "max": 5,
+      "max": 7,
       "min": 1,
-      "regen": 9,
+      "regen": 5,
       "menge": 0,
-      "wind": 10,
-      "windAus": 81,
+      "wind": 6,
+      "windAus": 238,
       "uv": 1.6,
       "auf": "07:36",
       "unter": "16:30"
@@ -212,12 +211,12 @@
       "datum": "2026-11-11",
       "code": 53,
       "max": 6,
-      "min": -1,
+      "min": 2,
       "regen": 17,
       "menge": 3.3,
       "wind": 9,
-      "windAus": 104,
-      "uv": 1.4,
+      "windAus": 134,
+      "uv": 0.6,
       "auf": "07:38",
       "unter": "16:29"
      },
@@ -230,63 +229,15 @@
       "menge": 6.3,
       "wind": 12,
       "windAus": 329,
-      "uv": 0.6,
+      "uv": 0.2,
       "auf": "07:40",
       "unter": "16:27"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
-      "grad": 8,
+      "grad": 7,
       "code": 61,
       "regen": 0
      },
@@ -299,18 +250,18 @@
      {
       "zeit": "18:00",
       "grad": 7,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
@@ -322,7 +273,7 @@
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -346,8 +297,8 @@
      },
      {
       "zeit": "02:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
@@ -358,7 +309,7 @@
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 3,
       "code": 2,
       "regen": 0
      },
@@ -379,6 +330,54 @@
       "grad": 3,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -388,25 +387,25 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 4,
-     "code": 51,
-     "gefuehlt": 1,
-     "wind": 5,
-     "windAus": 102,
-     "feuchte": 93,
-     "druck": 1026,
+     "grad": 6,
+     "code": 3,
+     "gefuehlt": 3,
+     "wind": 10,
+     "windAus": 90,
+     "feuchte": 77,
+     "druck": 1025,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-06",
      "code": 61,
-     "max": 7,
+     "max": 6,
      "min": 1,
      "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 101,
+     "windAus": 100,
      "uv": 1.9,
      "auf": "07:11",
      "unter": "16:27"
@@ -414,12 +413,12 @@
     "morgen": {
      "datum": "2026-11-07",
      "code": 3,
-     "max": 8,
-     "min": 2,
+     "max": 9,
+     "min": 1,
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 124,
+     "windAus": 122,
      "uv": 1.9,
      "auf": "07:13",
      "unter": "16:26"
@@ -428,12 +427,12 @@
      {
       "datum": "2026-11-06",
       "code": 61,
-      "max": 7,
+      "max": 6,
       "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 101,
+      "windAus": 100,
       "uv": 1.9,
       "auf": "07:11",
       "unter": "16:27"
@@ -441,12 +440,12 @@
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 8,
-      "min": 2,
+      "max": 9,
+      "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 124,
+      "windAus": 122,
       "uv": 1.9,
       "auf": "07:13",
       "unter": "16:26"
@@ -455,37 +454,37 @@
       "datum": "2026-11-08",
       "code": 3,
       "max": 8,
-      "min": 1,
+      "min": 2,
       "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 121,
+      "wind": 7,
+      "windAus": 126,
       "uv": 1.8,
       "auf": "07:15",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-09",
-      "code": 2,
-      "max": 6,
-      "min": -1,
-      "regen": 0,
+      "code": 3,
+      "max": 9,
+      "min": 3,
+      "regen": 1,
       "menge": 0,
-      "wind": 6,
-      "windAus": 109,
-      "uv": 1.8,
+      "wind": 5,
+      "windAus": 132,
+      "uv": 1.7,
       "auf": "07:17",
       "unter": "16:22"
      },
      {
       "datum": "2026-11-10",
-      "code": 45,
-      "max": 6,
-      "min": 1,
-      "regen": 10,
+      "code": 3,
+      "max": 7,
+      "min": 2,
+      "regen": 13,
       "menge": 0,
-      "wind": 7,
-      "windAus": 115,
+      "wind": 5,
+      "windAus": 307,
       "uv": 1.7,
       "auf": "07:19",
       "unter": "16:21"
@@ -494,11 +493,11 @@
       "datum": "2026-11-11",
       "code": 61,
       "max": 9,
-      "min": 0,
+      "min": 3,
       "regen": 19,
-      "menge": 5.2,
+      "menge": 4.2,
       "wind": 7,
-      "windAus": 100,
+      "windAus": 137,
       "uv": 1.5,
       "auf": "07:20",
       "unter": "16:19"
@@ -512,88 +511,40 @@
       "menge": 2.6,
       "wind": 11,
       "windAus": 280,
-      "uv": 1.5,
+      "uv": 0.5,
       "auf": "07:22",
       "unter": "16:17"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 7,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 6,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 6,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -610,14 +561,14 @@
      },
      {
       "zeit": "23:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 5,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 4,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -629,37 +580,85 @@
      {
       "zeit": "02:00",
       "grad": 3,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 3,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 2,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 2,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 2,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 2,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -670,25 +669,25 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 2,
+     "grad": 5,
      "code": 3,
-     "gefuehlt": -2,
-     "wind": 9,
-     "windAus": 75,
-     "feuchte": 91,
-     "druck": 1015,
+     "gefuehlt": 2,
+     "wind": 10,
+     "windAus": 61,
+     "feuchte": 82,
+     "druck": 1013,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-06",
      "code": 51,
-     "max": 7,
+     "max": 6,
      "min": 1,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
-     "windAus": 77,
+     "wind": 13,
+     "windAus": 76,
      "uv": 2.1,
      "auf": "07:12",
      "unter": "16:35"
@@ -701,7 +700,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 9,
-     "windAus": 125,
+     "windAus": 123,
      "uv": 2,
      "auf": "07:13",
      "unter": "16:33"
@@ -710,12 +709,12 @@
      {
       "datum": "2026-11-06",
       "code": 51,
-      "max": 7,
+      "max": 6,
       "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 77,
+      "wind": 13,
+      "windAus": 76,
       "uv": 2.1,
       "auf": "07:12",
       "unter": "16:35"
@@ -728,20 +727,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 125,
+      "windAus": 123,
       "uv": 2,
       "auf": "07:13",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-08",
-      "code": 3,
-      "max": 9,
+      "code": 61,
+      "max": 8,
       "min": 5,
-      "regen": 5,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 139,
+      "regen": 8,
+      "menge": 0.3,
+      "wind": 6,
+      "windAus": 150,
       "uv": 2,
       "auf": "07:15",
       "unter": "16:32"
@@ -749,25 +748,25 @@
      {
       "datum": "2026-11-09",
       "code": 3,
-      "max": 11,
-      "min": 3,
-      "regen": 5,
+      "max": 10,
+      "min": 4,
+      "regen": 3,
       "menge": 0,
       "wind": 5,
-      "windAus": 144,
+      "windAus": 158,
       "uv": 1.9,
       "auf": "07:17",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
-      "max": 8,
+      "code": 45,
+      "max": 6,
       "min": 2,
-      "regen": 17,
-      "menge": 1.1,
-      "wind": 8,
-      "windAus": 169,
+      "regen": 30,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 290,
       "uv": 1.9,
       "auf": "07:19",
       "unter": "16:29"
@@ -776,12 +775,12 @@
       "datum": "2026-11-11",
       "code": 80,
       "max": 15,
-      "min": 7,
+      "min": 2,
       "regen": 32,
-      "menge": 2.2,
+      "menge": 1.2,
       "wind": 7,
-      "windAus": 184,
-      "uv": 0.9,
+      "windAus": 179,
+      "uv": 1.7,
       "auf": "07:21",
       "unter": "16:27"
      },
@@ -794,111 +793,63 @@
       "menge": 2.4,
       "wind": 17,
       "windAus": 282,
-      "uv": 1.3,
+      "uv": 1.2,
       "auf": "07:22",
       "unter": "16:26"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
+      "zeit": "16:00",
       "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "13:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
       "grad": 5,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
@@ -916,7 +867,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -935,13 +886,61 @@
      {
       "zeit": "06:00",
       "grad": 2,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 2,
+      "grad": 1,
       "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 6,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -952,25 +951,25 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 5,
-     "code": 0,
-     "gefuehlt": 2,
-     "wind": 10,
-     "windAus": 132,
-     "feuchte": 77,
-     "druck": 1017,
+     "grad": 10,
+     "code": 3,
+     "gefuehlt": 8,
+     "wind": 6,
+     "windAus": 131,
+     "feuchte": 60,
+     "druck": 1016,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-11-06",
-     "code": 2,
+     "code": 3,
      "max": 11,
      "min": 4,
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 127,
+     "windAus": 124,
      "uv": 2.1,
      "auf": "07:32",
      "unter": "16:58"
@@ -982,8 +981,8 @@
      "min": 3,
      "regen": 2,
      "menge": 0,
-     "wind": 12,
-     "windAus": 141,
+     "wind": 10,
+     "windAus": 133,
      "uv": 2.1,
      "auf": "07:34",
      "unter": "16:56"
@@ -991,13 +990,13 @@
     "tage": [
      {
       "datum": "2026-11-06",
-      "code": 2,
+      "code": 3,
       "max": 11,
       "min": 4,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 127,
+      "windAus": 124,
       "uv": 2.1,
       "auf": "07:32",
       "unter": "16:58"
@@ -1009,21 +1008,21 @@
       "min": 3,
       "regen": 2,
       "menge": 0,
-      "wind": 12,
-      "windAus": 141,
+      "wind": 10,
+      "windAus": 133,
       "uv": 2.1,
       "auf": "07:34",
       "unter": "16:56"
      },
      {
       "datum": "2026-11-08",
-      "code": 63,
+      "code": 61,
       "max": 10,
-      "min": 4,
-      "regen": 20,
-      "menge": 6.1,
+      "min": 6,
+      "regen": 37,
+      "menge": 2.4,
       "wind": 9,
-      "windAus": 134,
+      "windAus": 135,
       "uv": 2,
       "auf": "07:36",
       "unter": "16:55"
@@ -1036,7 +1035,7 @@
       "regen": 2,
       "menge": 0,
       "wind": 11,
-      "windAus": 132,
+      "windAus": 133,
       "uv": 2,
       "auf": "07:37",
       "unter": "16:53"
@@ -1044,26 +1043,26 @@
      {
       "datum": "2026-11-10",
       "code": 3,
-      "max": 10,
+      "max": 9,
       "min": 4,
-      "regen": 8,
+      "regen": 7,
       "menge": 0,
       "wind": 13,
-      "windAus": 97,
+      "windAus": 128,
       "uv": 2,
       "auf": "07:39",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-11",
-      "code": 80,
-      "max": 12,
+      "code": 53,
+      "max": 13,
       "min": 4,
-      "regen": 57,
-      "menge": 6.6,
-      "wind": 19,
-      "windAus": 136,
-      "uv": 0.3,
+      "regen": 43,
+      "menge": 3.9,
+      "wind": 18,
+      "windAus": 138,
+      "uv": 0.8,
       "auf": "07:41",
       "unter": "16:50"
      },
@@ -1071,104 +1070,56 @@
       "datum": "2026-11-12",
       "code": 3,
       "max": 16,
-      "min": 11,
-      "regen": 57,
+      "min": 10,
+      "regen": 47,
       "menge": 0,
-      "wind": 12,
-      "windAus": 149,
-      "uv": 1.6,
+      "wind": 11,
+      "windAus": 151,
+      "uv": 0.2,
       "auf": "07:43",
       "unter": "16:48"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 11,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
       "grad": 11,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 10,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 10,
+      "grad": 9,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 8,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 6,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1180,7 +1131,7 @@
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1204,7 +1155,7 @@
      },
      {
       "zeit": "04:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
@@ -1225,6 +1176,54 @@
       "grad": 3,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1234,25 +1233,25 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 2,
+     "grad": 9,
      "code": 0,
-     "gefuehlt": -1,
-     "wind": 2,
-     "windAus": 39,
-     "feuchte": 86,
-     "druck": 1012,
+     "gefuehlt": 7,
+     "wind": 4,
+     "windAus": 24,
+     "feuchte": 64,
+     "druck": 1010,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-11-06",
      "code": 45,
-     "max": 9,
+     "max": 10,
      "min": 1,
      "regen": 0,
      "menge": 0,
      "wind": 6,
-     "windAus": 45,
+     "windAus": 43,
      "uv": 2.2,
      "auf": "07:23",
      "unter": "16:53"
@@ -1261,11 +1260,11 @@
      "datum": "2026-11-07",
      "code": 45,
      "max": 8,
-     "min": 0,
+     "min": 1,
      "regen": 3,
      "menge": 0,
      "wind": 4,
-     "windAus": 88,
+     "windAus": 72,
      "uv": 2.1,
      "auf": "07:25",
      "unter": "16:52"
@@ -1274,12 +1273,12 @@
      {
       "datum": "2026-11-06",
       "code": 45,
-      "max": 9,
+      "max": 10,
       "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 45,
+      "windAus": 43,
       "uv": 2.2,
       "auf": "07:23",
       "unter": "16:53"
@@ -1288,50 +1287,50 @@
       "datum": "2026-11-07",
       "code": 45,
       "max": 8,
-      "min": 0,
+      "min": 1,
       "regen": 3,
       "menge": 0,
       "wind": 4,
-      "windAus": 88,
+      "windAus": 72,
       "uv": 2.1,
       "auf": "07:25",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
-      "max": 10,
+      "code": 80,
+      "max": 11,
       "min": 2,
-      "regen": 5,
-      "menge": 0,
+      "regen": 3,
+      "menge": 0.1,
       "wind": 4,
-      "windAus": 64,
+      "windAus": 73,
       "uv": 2.1,
       "auf": "07:26",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-09",
-      "code": 3,
-      "max": 10,
-      "min": 3,
-      "regen": 12,
+      "code": 45,
+      "max": 9,
+      "min": 0,
+      "regen": 5,
       "menge": 0,
-      "wind": 7,
-      "windAus": 72,
+      "wind": 4,
+      "windAus": 33,
       "uv": 2.1,
       "auf": "07:28",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-10",
-      "code": 80,
-      "max": 10,
-      "min": 7,
-      "regen": 43,
-      "menge": 5.4,
-      "wind": 3,
-      "windAus": 63,
+      "code": 45,
+      "max": 5,
+      "min": 0,
+      "regen": 40,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 30,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:47"
@@ -1340,12 +1339,12 @@
       "datum": "2026-11-11",
       "code": 80,
       "max": 16,
-      "min": 8,
+      "min": 0,
       "regen": 52,
-      "menge": 2.8,
+      "menge": 2.5,
       "wind": 5,
-      "windAus": 195,
-      "uv": 0.5,
+      "windAus": 92,
+      "uv": 1.1,
       "auf": "07:31",
       "unter": "16:46"
      },
@@ -1358,87 +1357,39 @@
       "menge": 0.5,
       "wind": 12,
       "windAus": 247,
-      "uv": 0.5,
+      "uv": 0.7,
       "auf": "07:33",
       "unter": "16:44"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "16:00",
-      "grad": 9,
+      "grad": 10,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 8,
+      "grad": 9,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 6,
+      "grad": 8,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 5,
+      "grad": 7,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 4,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
@@ -1450,19 +1401,19 @@
      },
      {
       "zeit": "22:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
       "grad": 3,
       "code": 45,
       "regen": 0
      },
      {
-      "zeit": "23:00",
-      "grad": 2,
-      "code": 45,
-      "regen": 0
-     },
-     {
       "zeit": "00:00",
-      "grad": 2,
+      "grad": 3,
       "code": 45,
       "regen": 0
      },
@@ -1474,37 +1425,85 @@
      },
      {
       "zeit": "02:00",
-      "grad": 0,
+      "grad": 1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 0,
+      "grad": 2,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 0,
+      "grad": 2,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 0,
-      "code": 45,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 1,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 2,
+      "grad": 3,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
       "code": 3,
       "regen": 0
      }
@@ -1516,39 +1515,39 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 3,
-     "code": 3,
-     "gefuehlt": 1,
-     "wind": 2,
-     "windAus": 11,
-     "feuchte": 91,
-     "druck": 993,
+     "grad": 5,
+     "code": 61,
+     "gefuehlt": 3,
+     "wind": 3,
+     "windAus": 90,
+     "feuchte": 88,
+     "druck": 992,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
      "datum": "2026-11-06",
      "code": 61,
-     "max": 7,
+     "max": 6,
      "min": 1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 4,
-     "windAus": 124,
-     "uv": 2.2,
+     "regen": 3,
+     "menge": 0.1,
+     "wind": 5,
+     "windAus": 149,
+     "uv": 2.3,
      "auf": "07:17",
      "unter": "16:55"
     },
     "morgen": {
      "datum": "2026-11-07",
-     "code": 61,
-     "max": 10,
-     "min": 6,
-     "regen": 13,
+     "code": 3,
+     "max": 9,
+     "min": 5,
+     "regen": 10,
      "menge": 0,
-     "wind": 4,
-     "windAus": 118,
-     "uv": 0.9,
+     "wind": 3,
+     "windAus": 82,
+     "uv": 1.7,
      "auf": "07:19",
      "unter": "16:54"
     },
@@ -1556,65 +1555,65 @@
      {
       "datum": "2026-11-06",
       "code": 61,
-      "max": 7,
+      "max": 6,
       "min": 1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 4,
-      "windAus": 124,
-      "uv": 2.2,
+      "regen": 3,
+      "menge": 0.1,
+      "wind": 5,
+      "windAus": 149,
+      "uv": 2.3,
       "auf": "07:17",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-07",
-      "code": 61,
-      "max": 10,
-      "min": 6,
-      "regen": 13,
+      "code": 3,
+      "max": 9,
+      "min": 5,
+      "regen": 10,
       "menge": 0,
-      "wind": 4,
-      "windAus": 118,
-      "uv": 0.9,
+      "wind": 3,
+      "windAus": 82,
+      "uv": 1.7,
       "auf": "07:19",
       "unter": "16:54"
      },
      {
       "datum": "2026-11-08",
       "code": 45,
-      "max": 11,
-      "min": 4,
+      "max": 12,
+      "min": 5,
       "regen": 5,
       "menge": 0,
       "wind": 6,
-      "windAus": 169,
+      "windAus": 185,
       "uv": 2.2,
       "auf": "07:20",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
-      "max": 11,
-      "min": 3,
-      "regen": 31,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 148,
-      "uv": 1.8,
+      "code": 61,
+      "max": 10,
+      "min": 2,
+      "regen": 25,
+      "menge": 0.1,
+      "wind": 4,
+      "windAus": 162,
+      "uv": 1.2,
       "auf": "07:22",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
-      "max": 16,
-      "min": 10,
-      "regen": 58,
-      "menge": 3,
-      "wind": 6,
-      "windAus": 177,
-      "uv": 0.4,
+      "code": 3,
+      "max": 9,
+      "min": 7,
+      "regen": 56,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 347,
+      "uv": 0.3,
       "auf": "07:24",
       "unter": "16:49"
      },
@@ -1622,12 +1621,12 @@
       "datum": "2026-11-11",
       "code": 61,
       "max": 18,
-      "min": 12,
+      "min": 8,
       "regen": 45,
-      "menge": 1.8,
+      "menge": 0.2,
       "wind": 9,
-      "windAus": 196,
-      "uv": 1.2,
+      "windAus": 179,
+      "uv": 1.4,
       "auf": "07:25",
       "unter": "16:48"
      },
@@ -1640,153 +1639,153 @@
       "menge": 0,
       "wind": 7,
       "windAus": 251,
-      "uv": 0.6,
+      "uv": 0.9,
       "auf": "07:27",
       "unter": "16:47"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
+      "zeit": "16:00",
       "grad": 5,
       "code": 61,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": 6,
+      "zeit": "17:00",
+      "grad": 5,
       "code": 61,
       "regen": 0
      },
      {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
-      "grad": 7,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 7,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "00:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "01:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "02:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "03:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "04:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "05:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "06:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
       "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "00:00",
+      "zeit": "10:00",
       "grad": 6,
       "code": 3,
-      "regen": 10
+      "regen": 0
      },
      {
-      "zeit": "01:00",
-      "grad": 6,
+      "zeit": "11:00",
+      "grad": 7,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
-      "zeit": "02:00",
-      "grad": 6,
+      "zeit": "12:00",
+      "grad": 8,
       "code": 3,
-      "regen": 8
+      "regen": 0
      },
      {
-      "zeit": "03:00",
-      "grad": 6,
+      "zeit": "13:00",
+      "grad": 8,
       "code": 3,
-      "regen": 10
+      "regen": 0
      },
      {
-      "zeit": "04:00",
-      "grad": 6,
+      "zeit": "14:00",
+      "grad": 9,
       "code": 3,
-      "regen": 10
+      "regen": 0
      },
      {
-      "zeit": "05:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "06:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "07:00",
-      "grad": 6,
+      "zeit": "15:00",
+      "grad": 9,
       "code": 3,
       "regen": 0
      }
@@ -1798,12 +1797,12 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 3,
-     "code": 51,
-     "gefuehlt": 0,
-     "wind": 2,
-     "windAus": 81,
-     "feuchte": 91,
+     "grad": 4,
+     "code": 61,
+     "gefuehlt": 2,
+     "wind": 1,
+     "windAus": 180,
+     "feuchte": 85,
      "druck": 961,
      "niederschlag": 0,
      "tag": 1
@@ -1811,26 +1810,26 @@
     "heute": {
      "datum": "2026-11-06",
      "code": 61,
-     "max": 6,
+     "max": 4,
      "min": 2,
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 115,
+     "windAus": 113,
      "uv": 2.3,
      "auf": "07:06",
      "unter": "16:47"
     },
     "morgen": {
      "datum": "2026-11-07",
-     "code": 45,
-     "max": 9,
+     "code": 61,
+     "max": 8,
      "min": 4,
-     "regen": 30,
+     "regen": 10,
      "menge": 0,
-     "wind": 7,
-     "windAus": 115,
-     "uv": 1.6,
+     "wind": 6,
+     "windAus": 122,
+     "uv": 1.7,
      "auf": "07:08",
      "unter": "16:46"
     },
@@ -1838,51 +1837,51 @@
      {
       "datum": "2026-11-06",
       "code": 61,
-      "max": 6,
+      "max": 4,
       "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 115,
+      "windAus": 113,
       "uv": 2.3,
       "auf": "07:06",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-07",
-      "code": 45,
-      "max": 9,
+      "code": 61,
+      "max": 8,
       "min": 4,
-      "regen": 30,
+      "regen": 10,
       "menge": 0,
-      "wind": 7,
-      "windAus": 115,
-      "uv": 1.6,
+      "wind": 6,
+      "windAus": 122,
+      "uv": 1.7,
       "auf": "07:08",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-08",
-      "code": 45,
-      "max": 8,
-      "min": 2,
-      "regen": 10,
-      "menge": 0,
-      "wind": 4,
+      "code": 61,
+      "max": 10,
+      "min": 4,
+      "regen": 13,
+      "menge": 0.1,
+      "wind": 7,
       "windAus": 104,
-      "uv": 2.3,
+      "uv": 2.2,
       "auf": "07:09",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-09",
-      "code": 45,
+      "code": 61,
       "max": 9,
       "min": 2,
-      "regen": 24,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 100,
+      "regen": 29,
+      "menge": 4,
+      "wind": 6,
+      "windAus": 123,
       "uv": 2.2,
       "auf": "07:11",
       "unter": "16:43"
@@ -1890,26 +1889,26 @@
      {
       "datum": "2026-11-10",
       "code": 61,
-      "max": 11,
-      "min": 5,
-      "regen": 60,
-      "menge": 1.2,
-      "wind": 4,
-      "windAus": 127,
-      "uv": 0.7,
+      "max": 9,
+      "min": 6,
+      "regen": 65,
+      "menge": 8.2,
+      "wind": 5,
+      "windAus": 74,
+      "uv": 0.3,
       "auf": "07:12",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-11",
-      "code": 61,
+      "code": 45,
       "max": 16,
-      "min": 8,
-      "regen": 45,
-      "menge": 1.6,
-      "wind": 5,
-      "windAus": 174,
-      "uv": 1.7,
+      "min": 6,
+      "regen": 57,
+      "menge": 0.1,
+      "wind": 6,
+      "windAus": 110,
+      "uv": 1.8,
       "auf": "07:14",
       "unter": "16:40"
      },
@@ -1929,155 +1928,155 @@
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
+      "zeit": "16:00",
       "grad": 4,
       "code": 61,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 4,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 4,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 4,
-      "code": 3,
-      "regen": 0
+      "code": 45,
+      "regen": 3
      },
      {
       "zeit": "03:00",
       "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 4,
       "code": 3,
-      "regen": 10
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 4,
-      "code": 3,
-      "regen": 13
+      "code": 61,
+      "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 4,
       "code": 45,
-      "regen": 23
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 4,
+      "code": 61,
+      "regen": 3
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 5
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 10
+     },
+     {
+      "zeit": "10:00",
+      "grad": 6,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
       "code": 3,
-      "regen": 28
+      "regen": 5
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 6 und 11 Grad.",
-   "Die Vorhersage für morgen, Samstag: im Norden und Osten bewölkt, im Süden und Westen neblig.",
+   "Heute liegen die Höchstwerte zwischen 4 und 11 Grad.",
+   "Die Vorhersage für morgen, Samstag: im Norden und Osten leichter Regen, im Süden und Westen bewölkt.",
    "Die Temperaturen erreichen dann 5 bis 10 Grad.",
    "Am wärmsten wird es in Köln mit 10 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
@@ -2114,7 +2113,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2126,8 +2125,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": -0.1
+       "grad": 7,
+       "regen": 0
       }
      ]
     },
@@ -2195,7 +2194,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
+       "grad": 7,
        "regen": 0
       }
      ]
@@ -2206,13 +2205,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
+       "grad": 11,
        "regen": 0
       },
       {
@@ -2229,7 +2228,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
+       "grad": 8,
        "regen": 0
       },
       {
@@ -2242,7 +2241,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 9,
-       "regen": 0.9
+       "regen": 0.1
       }
      ]
     }
@@ -6436,455 +6435,6 @@
       21.63,
       29.74,
       40.01
-     ]
-    }
-   ]
-  },
-  {
-   "id": "halloween-spitze-gegenstaende-suessigkeiten",
-   "rubrik": "Deutschland",
-   "zeit": "2026-11-03T08:46:30.000Z",
-   "aktualisiert": "aktualisiert um 11:45 Uhr",
-   "titel": "Funde von Metallteilen in Halloween-Süßigkeiten in mehreren Regionen",
-   "vorspann": "In Deutschland und Österreich wurden in gesammelten Halloween-Süßigkeiten zahlreiche Metallgegenstände wie Nadeln und Nägel entdeckt. Mehrere Kinder wurden bei den Vorfällen verletzt oder blieben nach dem Biss in präparierte Süßwaren unverletzt.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "In Deutschland und Österreich wurden nach Halloween in mehreren Bundesländern Nadeln und Nägel in Süßigkeiten gefunden.",
-    "Mehrere Kinder erlitten bei den Vorfällen Verletzungen im Mundbereich oder blieben unverletzt.",
-    "Die Polizei und das Bundeskriminalamt ermitteln wegen versuchter gefährlicher Körperverletzung und gründeten Arbeitsgruppen.",
-    "Eltern werden dringend gebeten, die gesammelten Süßigkeiten vor dem Verzehr zu kontrollieren und verdächtige Funde zu melden."
-   ],
-   "einig": [
-    [
-     "In mehreren Bundesländern in Deutschland und Österreich wurden Nadeln und Nägel in Halloween-Süßigkeiten gefunden.",
-     [
-      "ZDFheute",
-      "ORF"
-     ]
-    ],
-    [
-     "Die Polizei ermittelt wegen des Verdachts der versuchten gefährlichen Körperverletzung.",
-     [
-      "ZDFheute",
-      "ORF"
-     ]
-    ],
-    [
-     "Der Lebensmittel-Discounter Lidl erklärte, den Hinweis aus Garbsen sehr ernst zu nehmen.",
-     [
-      "ZDFheute",
-      "ORF"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob ein Zusammenhang zwischen den Fällen in verschiedenen Regionen und Ländern besteht, ist laut Polizei und Bundeskriminalamt noch nicht geklärt.",
-    "Ob die Taten durch Social Media ausgelöst wurden, ist laut ORF völlig unklar."
-   ],
-   "positionen": [
-    [
-     "Gerhard Karner (Innenminister Österreich, ÖVP)",
-     "Wird alles tun, um dieses feige und hinterhältige Verbrechen aufzuklären.",
-     "ORF"
-    ],
-    [
-     "Gerald Tatzgern (Ermittlungschef Bundeskriminalamt Österreich)",
-     "Es kann nicht ausgeschlossen werden, dass sich die Täter online vernetzt haben.",
-     "ORF"
-    ],
-    [
-     "Polizei (verschiedene Dienststellen in Deutschland und Österreich)",
-     "Warnen vor dem Verzehr von verdächtigen Süßwaren und raten zur Kontrolle durch Eltern.",
-     "ZDFheute"
-    ]
-   ],
-   "fehlend": "Stimmen von Vertretern der Süßwarenindustrie (außer Lidl) und von betroffenen Eltern oder verletzten Kindern persönlich.",
-   "medien": [
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "02.11.26, 22:50",
-     "fokus": "Fälle in Deutschland und Handel",
-     "text": "Berichtet umfassend über zahlreiche betroffene Bundesländer in Deutschland sowie die Kooperation des Discounters Lidl mit den Behörden.",
-     "url": "https://www.zdfheute.de/panorama/kriminalitaet/halloween-suessigkeiten-metall-nadel-magnet-thueringen-rheinland-pfalz-polizei-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 651,
-      "satzlaenge": 14,
-      "langeWoerter": 38
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "ORF",
-     "typ": "öffentlich-rechtlich (Österreich)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "03.11.26, 09:46",
-     "fokus": "Fälle in Österreich und Behördenreaktionen",
-     "text": "Konzentriert sich stark auf die Vorfälle in Österreich, die Verletzung eines Kindes in Niederösterreich sowie die Maßnahmen des Bundeskriminalamts.",
-     "url": "https://orf.at/stories/3446926/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 4,
-      "woerter": 898,
-      "satzlaenge": 16,
-      "langeWoerter": 37
-     },
-     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
-     "finanzierung": "Haushaltsabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf Verletzungen",
-     "Der ORF nennt konkrete Verletzungen von Kindern in Österreich und Niedersachsen, während ZDFheute den Schwerpunkt stärker auf die geografische Verteilung in Deutschland legt."
-    ],
-    [
-     "Behördenstruktur",
-     "Der ORF berichtet detailliert über die Reaktionen des österreichischen Innenministers und des Bundeskriminalamts."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Unbekannte Täter, Kinder und Eltern",
-    "was": "Manipulation von Halloween-Süßigkeiten mit Metallteilen",
-    "wann": "Anfang November",
-    "wo": "Mehrere Bundesländer in Deutschland und Österreich",
-    "wie": "Durch Verstecken von Nadeln und Nägeln in Schokoriegeln und Kaubonbons",
-    "warum": "Noch unklar, laut Berichten gibt es keine gesicherten Motive",
-    "quellenlage": "Polizei, Bundeskriminalamt und beteiligte Unternehmen"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In mehreren Bundesländern in Deutschland und Österreich sind nach Halloween Süßigkeiten aufgetaucht, die mit Metallgegenständen präpariert waren. Die Polizei meldet eine steigende Zahl von Fällen, bei denen Kinder beim Verzehr oder beim Kontrollieren der Süßbeute Nadeln, Nägel und Schrauben fanden. Laut den Berichten von ZDFheute und ORF handelt es sich um eine auffällige Häufung solcher Vorfälle in verschiedenen Regionen. Die Ermittlungsbehörden warnen Eltern ausdrücklich vor dem Verzehr nicht kontrollierter Süßwaren.",
-      "Zu den betroffenen Regionen in Deutschland zählen laut ZDFheute unter anderem Baden-Württemberg, Bayern, Thüringen, Niedersachsen, Bremen, Schleswig-Holstein, Sachsen-Anhalt, Mecklenburg-Vorpommern und Nordrhein-Westfalen. Auch in Österreich wurden laut ORF Fälle aus mehreren Bundesländern wie Oberösterreich, der Steiermark und Niederösterreich bekannt. In Linz im Stadtteil Linz-Oed wurden laut beiden Quellen Süßigkeiten mit Nägeln versehen. Die Behörden prüfen, ob die Taten miteinander in Verbindung stehen.",
-      "Mehrere Kinder wurden bei den Vorfällen verletzt. Laut ORF erlitt ein zehnjähriges Mädchen im Bezirk Amstetten in Niederösterreich leichte Verletzungen im Mund, als es in eine Schokolade biss, in der eine Nadel versteckt war. Auch in Niedersachsen und Mecklenburg-Vorpommern wurden laut ORF Kinder durch manipulierte Süßigkeiten mit Nadeln verletzt. Eine Neunjährige aus Hannover erlitt laut ZDFheute eine Verletzung an der Zunge durch eine fünf Zentimeter lange Stecknadel in einem Schokoriegel."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "In verschiedenen Städten wurden unterschiedliche Gegenstände in den Süßigkeiten entdeckt. In Landshut in Bayern steckten laut ZDFheute Schrauben in Kaubonbons und Schokoriegeln. In Essen bemerkte ein Vater laut ZDFheute Einstichlöcher in einem Schokoriegel und fand eine spitze Nadel. In Vöcklabruck in Österreich fand eine Mutter laut ORF eine dickere Nadel in einem Kauzuckerl und einem Schokoriegel. In der Steiermark handelte es sich laut ORF bei den Gegenständen um eine Nähnadel, zweimal um Metallstifte und einmal um eine Heftklammer.",
-      "Die Art der Manipulation unterscheidet sich bei den Funden. Laut ORF waren die Nägel in Linz teilweise von außen hineingedrückt und gut sichtbar, während andere in den Süßigkeiten versenkt und nicht zu erkennen waren. Die Polizei geht in diesen Fällen von einer händischen Präparierung aus. Die Herkunft der Süßigkeiten lässt sich laut ZDFheute und ORF nur schwer rekonstruieren, da die Kinder an zahlreichen Haustüren klingeln und die genaue Herkunft der einzelnen Riegel oft nicht mehr nachvollziehen können.",
-      "Im niedersächsischen Garbsen meldete eine Frau laut ZDFheute und ORF den Fund einer Nähnadel in einem Schokoriegel, den sie bei einem Lebensmittelhändler gekauft hatte. Das Unternehmen Lidl teilte auf Anfrage mit, dass man den Hinweis sehr ernst nehme und in engem Austausch mit den Ermittlungsbehörden stehe. An der Verpackung und der Süßigkeit selbst seien laut den Berichten zunächst keine Auffälligkeiten erkennbar gewesen, die auf eine Manipulation hindeuteten."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Der Brauch Süßes oder Saures an Halloween stammt aus dem angloamerikanischen Raum und hat sich in Deutschland und Österreich als Tradition etabliert. Dabei ziehen Kinder am Abend des einunddreißigsten Oktober verkleidet von Haus zu Haus, um Süßigkeiten zu sammeln. In den vergangenen Jahren kam es laut den Berichten gelegentlich ebenfalls zu Funden von Metallgegenständen in Süßwaren. Im Jahr zweitausendfünfundzwanzig entdeckte demnach eine Mutter in Mittelfranken einen Nagel in einer Süßigkeit ihrer Tochter.",
-      "Die aktuellen Vorfälle führten zu behördlichen Reaktionen. Laut ORF wurde im österreichischen Bundeskriminalamt eine eigene Ermittlungsgruppe gegründet. Innenminister Gerhard Karner erklärte, dass man alles tun werde, um die Taten aufzuklären. Zudem teilte das Bundeskriminalamt mit, dass auch Ungarn von manipulierten Naschsachen betroffen ist. Die Ermittler prüfen mögliche Verbindungen und den Austausch von Tätern über das Internet."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Das Bundeskriminalamt ist eine zentrale Behörde, die in Österreich die polizeilichen Ermittlungen koordiniert. Es arbeitet eng mit den Landespolizeidirektionen und internationalen Behörden zusammen.",
-      "Unter versuchter gefährlicher Körperverletzung versteht das Strafrecht den Versuch, eine andere Person körperlich zu misshandeln oder an der Gesundheit zu schädigen, insbesondere unter Verwendung von gefährlichen Werkzeugen wie spitzen Gegenständen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Die Polizei in Deutschland und Österreich rät Eltern dringend, die gesammelten Süßigkeiten vor dem Verzehr zu kontrollieren. Laut ZDFheute und ORF sollten Verpackungen auf Einstichstellen, Beschädigungen oder ungewöhnliche Gerüche untersucht werden. Die Polizei in Konstanz empfahl laut ORF zudem, gefundene Fremdkörper möglichst nicht selbst zu entfernen, um Spuren zu sichern.",
-      "Innenminister Gerhard Karner betonte laut ORF in einer Pressekonferenz, dass die Behörden alles Menschenmögliche tun werden, um die Taten aufzuklären. Der Ermittlungschef des Bundeskriminalamts, Gerald Tatzgern, erklärte laut ORF, dass ein Online-Vernetzen der Täter nicht ausgeschlossen werden kann. Die Polizei Bad Segeberg rief laut ORF gleichzeitig dazu auf, keine Panik zu verbreiten.",
-      "Das Unternehmen Lidl erklärte auf Anfrage von ZDFheute und ORF zu dem Vorfall in Garbsen, dass die Sicherheit der Kundinnen und Kunden sowie die Produktqualität für das Unternehmen oberste Priorität haben und der Hinweis sehr ernst genommen werde."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Ermittlungsbehörden in Deutschland und Österreich führen die Untersuchungen fort und stehen in Kontakt mit internationalen Behörden. Da die Herkunft der betroffenen Süßigkeiten unklar ist, müssen laut den Berichten zahlreiche Haustüren im Rahmen der Ermittlungen betrachtet werden. Die Polizei kündigte an, weiteren Hinweisen nachzugehen.",
-      "Sollte der Verdacht bestehen, dass ein Kind einen spitzen Gegenstand verschluckt hat, ist laut ORF sofortige ärztliche Hilfe erforderlich. Die Ermittler prüfen weiterhin, ob es einen Zusammenhang zwischen den Taten gibt."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Freitag",
-     "Süßsammlung an Halloween und erste Funde von Nadeln in Schokoriegeln"
-    ],
-    [
-     "Montag",
-     "Polizei in Linz und Österreich meldet Funde von Nägeln und warnt die Bevölkerung"
-    ],
-    [
-     "Dienstag",
-     "Österreichisches Bundeskriminalamt gibt Gründung einer Ermittlungsgruppe bekannt"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Es wird kein Bild angezeigt, da der Artikel von einer Gewalttat mit verletzten Kindern handelt."
-    }
-   ],
-   "ort": {
-    "name": "Deutschland und Österreich"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Jahreszahlen und Begriffe im Text sprachlich angepasst und unbelegte Wertungen aus dem Abschnitt zum Verständnis entfernt."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Bundeskriminalamt",
-      "Eine zentrale Polizeibehörde, die bei schweren Verbrechen und länderübergreifenden Ermittlungen hilft."
-     ],
-     [
-      "Versuchte gefährliche Körperverletzung",
-      "Ein rechtlicher Begriff für den Versuch, eine andere Person mit einem gefährlichen Gegenstand zu verletzen."
-     ]
-    ],
-    "fragen": [
-     "Warum ist es für die Polizei schwierig, die Herkunft der manipulierten Süßigkeiten nachzuvollziehen?",
-     "Welche Rolle spielen Berichte in Medien und sozialen Netzwerken bei solchen Vorfällen laut den Behörden?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wo wurden unter anderem Nadeln in Halloween-Süßigkeiten gefunden?",
-      "optionen": [
-       "Nur in Berlin",
-       "In mehreren Bundesländern in Deutschland und Österreich",
-       "Ausschließlich in Skandinavien"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut ZDFheute und ORF wurden Fälle aus zahlreichen Bundesländern in Deutschland und Österreich bekannt."
-     },
-     {
-      "frage": "Wegen welchen Verdachts ermittelt die Polizei in den Fällen?",
-      "optionen": [
-       "Wegen versuchter gefährlicher Körperverletzung",
-       "Wegen Diebstahls von Süßwaren",
-       "Wegen Steuerhinterziehung"
-      ],
-      "richtig": 0,
-      "erklaerung": "ZDFheute und ORF berichten übereinstimmend, dass wegen des Verdachts der versuchten gefährlichen Körperverletzung ermittelt wird."
-     },
-     {
-      "frage": "Was raten Polizei und Behörden den Eltern?",
-      "optionen": [
-       "Die Süßigkeiten sofort ungeprüft zu entsorgen",
-       "Die gesammelten Süßigkeiten vor dem Verzehr zu kontrollieren",
-       "Keine Süßigkeiten mehr anzunehmen"
-      ],
-      "richtig": 1,
-      "erklaerung": "Beide Quellen berichten, dass die Polizei Eltern zur Kontrolle der Halloween-Ausbeute aufruft."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Deutschland und Österreich haben Unbekannte Nadeln und Nägel in Halloween-Süßigkeiten versteckt.",
-    "absaetze": [
-     "Kinder hatten die Süßigkeiten beim traditionellen Sammeln an Halloween bekommen.",
-     "Mehrere Kinder verletzten sich dabei im Mund, andere blieben unverletzt.",
-     "Die Polizei fand in vielen Bundesländern solche präparierten Süßigkeiten.",
-     "Ermittler prüfen nun, ob die Täter miteinander in Kontakt standen.",
-     "Eltern sollen die Süßigkeiten vor dem Essen unbedingt genau untersuchen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In Deutschland und Österreich wurden Nadeln in Halloween-Süßigkeiten gefunden.",
-     "Mehrere Kinder verletzten sich bei den Vorfällen.",
-     "Die Polizei ermittelt und rät Eltern zur Kontrolle."
-    ],
-    "lang": [
-     "In Deutschland und Österreich wurden in gesammelten Halloween-Süßigkeiten zahlreiche Metallgegenstände entdeckt.",
-     "Nach Angaben von ZDFheute und ORF fanden Kinder in mehreren Bundesländern Nadeln und Nägel in Schokoriegeln.",
-     "In Niederösterreich wurde nach Angaben der Polizei ein Mädchen durch eine Nadel im Mund leicht verletzt.",
-     "Auch in Niedersachsen und Mecklenburg-Vorpommern erlitten Kinder Verletzungen durch manipulierte Süßigkeiten.",
-     "Das österreichische Bundeskriminalamt gründete eine eigene Ermittlungsgruppe zur Aufklärung der Taten.",
-     "Der österreichische Innenminister Gerhard Karner kündigte an, alles Menschenmögliche für die Aufklärung zu tun.",
-     "Ermittlungschef Gerald Tatzgern erklärte, dass ein Online-Vernetzen der Täter nicht ausgeschlossen werden kann.",
-     "Das Bundeskriminalamt ist eine zentrale Behörde, die polizeiliche Ermittlungen koordiniert.",
-     "Ob ein Zusammenhang zwischen den Fällen besteht, ist laut Polizei noch völlig unklar.",
-     "Die Behörden raten Eltern dringend, gesammelte Süßigkeiten vor dem Verzehr genau zu kontrollieren."
-    ],
-    "einfach": [
-     "An Halloween haben Unbekannte Nadeln in Süßigkeiten gesteckt.",
-     "Das ist in Deutschland und Österreich passiert.",
-     "Einige Kinder haben sich dabei verletzt.",
-     "Die Polizei warnt nun alle Eltern vor den Süßigkeiten.",
-     "Eltern sollen die Naschsachen vor dem Essen genau anschauen.",
-     "Die Ermittler suchen nach den Täterinnen und Tätern."
-    ]
-   },
-   "kurz": [
-    "In Deutschland und Österreich wurden Nadeln und Nägel in Halloween-Süßigkeiten gefunden.",
-    "Mehrere Kinder wurden bei den Vorfällen verletzt oder blieben unverletzt.",
-    "Die Polizei und das Bundeskriminalamt ermitteln wegen versuchter gefährlicher Körperverletzung.",
-    "Eltern werden aufgefordert, gesammelte Süßigkeiten vor dem Verzehr zu kontrollieren."
-   ],
-   "dossier": {
-    "slug": "halloween-suessigkeiten-manipulation",
-    "titel": "Manipulation von Halloween-Süßigkeiten"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Deutschland und Österreich",
-    "lat": 54.138,
-    "lon": 12.084
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "In Deutschland und Österreich wurden in gesammelten Halloween-Süßigkeiten zahlre",
-     "d": "3fcbbb321b.mp3",
-     "l": 59.61,
-     "s": [
-      0.25,
-      6.86,
-      13.7,
-      19.53,
-      25.79,
-      31.69,
-      38.15,
-      44.17,
-      49.6,
-      54.15
-     ]
-    },
-    {
-     "k": "In Deutschland und Österreich wurden Nadeln in Halloween-Süßigkeiten gefunden. M",
-     "d": "c7f76ca90b.mp3",
-     "l": 11.18,
-     "s": [
-      0.25,
-      4.88,
-      7.77
-     ]
-    },
-    {
-     "k": "An Halloween haben Unbekannte Nadeln in Süßigkeiten gesteckt. Das ist in Deutsch",
-     "d": "f225a80d1c.mp3",
-     "l": 21.91,
-     "s": [
-      0.25,
-      4.55,
-      7.74,
-      10.59,
-      14.2,
-      18.1
-     ]
-    },
-    {
-     "k": "Ob ein Zusammenhang zwischen den Fällen in verschiedenen Regionen und Ländern be",
-     "d": "7772d8a65a.mp3",
-     "l": 8.68,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Bundeskriminalamt? Eine zentrale Polizeibehörde, die bei",
-     "d": "9ffb518b36.mp3",
-     "l": 9.8,
-     "s": [
-      0.25,
-      3.17
-     ]
-    },
-    {
-     "k": "In mehreren Bundesländern in Deutschland und Österreich sind nach Halloween Süßi",
-     "d": "a70cba3556.mp3",
-     "l": 60.56,
-     "s": [
-      0.25,
-      7.9,
-      16.56,
-      24.51,
-      29.64,
-      43.27,
-      51.24,
-      56.45
-     ]
-    },
-    {
-     "k": "In verschiedenen Städten wurden unterschiedliche Gegenstände in den Süßigkeiten ",
-     "d": "0adfbeb5ea.mp3",
-     "l": 48.76,
-     "s": [
-      0.25,
-      5,
-      11.08,
-      17.55,
-      24.04,
-      31.83,
-      35.37,
-      44.37
-     ]
-    },
-    {
-     "k": "Der Brauch Süßes oder Saures an Halloween stammt aus dem angloamerikanischen Rau",
-     "d": "255d5ba2a9.mp3",
-     "l": 51.12,
-     "s": [
-      0.25,
-      9.22,
-      16.1,
-      22.75,
-      30.09,
-      33.8,
-      39.38,
-      44.67
-     ]
-    },
-    {
-     "k": "Das Bundeskriminalamt ist eine zentrale Behörde, die in Österreich die polizeili",
-     "d": "13c6dd4822.mp3",
-     "l": 23.77,
-     "s": [
-      0.25,
-      6.85,
-      12.06
-     ]
-    },
-    {
-     "k": "Die Polizei in Deutschland und Österreich rät Eltern dringend, die gesammelten S",
-     "d": "29570578df.mp3",
-     "l": 59.14,
-     "s": [
-      0.25,
-      6.92,
-      14.8,
-      22.62,
-      31.55,
-      39.89,
-      45.76
-     ]
-    },
-    {
-     "k": "Die Ermittlungsbehörden in Deutschland und Österreich führen die Untersuchungen ",
-     "d": "92841b3478.mp3",
-     "l": 32.17,
-     "s": [
-      0.25,
-      7.79,
-      16.35,
-      19.94,
-      27.5
      ]
     }
    ]
