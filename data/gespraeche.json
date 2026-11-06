@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-04T22:10:21.682133Z",
+ "stand": "2026-11-06T21:48:11.729156Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -33,6 +33,99 @@
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-cyberangriff-supermaerkte-kuehlsysteme",
+   "themaId": "cyberangriff-supermaerkte-kuehlsysteme",
+   "art": "podcast",
+   "titel": "Cyberangriffe auf Kühlsysteme",
+   "text": "US-Behörden und europäische Institutionen warnen nach Cyberangriffen auf gewerbliche Kühlanlagen. Die Europäische Kommission berief Krisentreffen ein.",
+   "zeit": "2026-11-06T21:48:11.729156Z",
+   "besetzung": [
+    "Thorsten",
+    "Malte",
+    "Jan"
+   ],
+   "d": "folge-podcast-cyberangriff-supermaerkte-kuehlsysteme.mp3",
+   "l": 312.72,
+   "b": 2502380,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Willkommen zum Nachrichten-Podcast. Alle Stimmen dieser Sendung sind Computerstimmen. Ich führe euch heute durch das Thema der Cyberangriffe auf gewerbliche Kühlsysteme in Supermärkten und an anderen Orten. Mit dabei sind heute Malte und Jan, die sich die Berichte von Tagesschau und ARD, Deutschlandfunk und Süddeutscher Zeitung genauer angesehen haben. Malte, wie schätzt du die aktuelle Lage nach den Warnungen von US-Behörden und europäischen Institutionen ein?"
+    },
+    {
+     "s": 25.82,
+     "wer": "Malte",
+     "text": "Die US-Behörden und europäische Institutionen warnen vor einer anhaltenden Bedrohung nach gezielten Cyberangriffen auf gewerbliche Kühlanlagen. Unbekannte Täter haben diese Systeme in den Vereinigten Staaten und in mehreren europäischen Ländern über das Internet manipuliert. Die Vorfälle führten zu verdorbenen Lebensmitteln, Sachschäden durch Erhitzung sowie zu Angriffen auf Blutbanken. Erpressungsversuche und Lösegeldforderungen blieben dabei bisher allerdings völlig aus."
+    },
+    {
+     "s": 52.42,
+     "wer": "Jan",
+     "text": "Das klingt wirklich besorgniserregend, wenn Blutbanken und Supermärkte ins Visier geraten. Wie Malte eben sagte, gibt es keinerlei Lösegeldforderungen oder Bekennerschreiben von den Täterinnen oder Tätern. Laut der Süddeutschen Zeitung ist daher völlig unklar, ob es sich bei den Verantwortlichen um staatlich gelenkte Akteure oder kriminelle Hackergruppen handelt. Auch die Frage, ob gezielt Supermärkte gesucht wurden oder lediglich offene Geräte angetroffen wurden, bleibt offen, wie Dennis-Kenji Kipker in der Tagesschau und ARD erklärte."
+    },
+    {
+     "s": 81.09,
+     "wer": "Thorsten",
+     "text": "Da gibt es also noch einige offene Fragen zu den Motiven und den Tätern. Malte, welche konkreten Zahlen und Belege liegen zu diesen weltweiten Vorfällen vor?"
+    },
+    {
+     "s": 90.37,
+     "wer": "Malte",
+     "text": "Die Berichte nennen einige bemerkenswerte Details zu den Dimensionen der Vorfälle. So wurden weltweit eine Million dreihunderttausend Fernsehgeräte genannt, während in einer französischen Blutbank eine Höchsttemperatur von einhundertzehn Grad gemessen wurde. Bereits im August prüfte das Verteidigungsministerium ungeklärte Störungen an Kühlgeräten in Supermärkten auf US-Militärstützpunkten. Mitte Oktober folgten dann eine groß angelegte Cyberattacke auf französische Supermarktketten mit Schäden in Millionenhöhe sowie erneute Angriffe auf mehr als einhundert Geschäfte in ganz Europa."
+    },
+    {
+     "s": 123.3,
+     "wer": "Jan",
+     "text": "Diese Zahlen zeigen ja eine deutliche Eskalation im Laufe des Oktobers in verschiedenen Ländern. Am Montag kam es zu erneuten Angriffen auf Kühlsysteme in Supermärkten in Belgien, Schweden, Deutschland und weiteren europäischen Ländern. Unternehmensvertreter, Staatsanwaltschaften, Dienstleister, Behörden und EU-Politiker äußerten sich am Montag zu den Vorfällen und leiteten Sicherheitsmaßnahmen ein. Daraufhin hat die Europäische Kommission am Dienstag zwei Krisentreffen unter anderem mit Enisa und Europol einberufen."
+    },
+    {
+     "s": 151.63,
+     "wer": "Thorsten",
+     "text": "Damit zu Jan und den verschiedenen Positionen von Experten und Behördenverantwortlichen aus den Berichten."
+    },
+    {
+     "s": 157.66,
+     "wer": "Jan",
+     "text": "Es gibt dazu sehr klare Einschätzungen aus dem Bereich der Cybersicherheit. Chris Butera als CISA-Direktor für Cybersicherheit betont, dass jedes Unternehmen mit Kühlsystemen davon ausgehen müsse, ins Fadenkreuz der Angreifer zu geraten. Brett Leatherman vom FBI erklärt als Direktor für Cyberoperationen, dass die betroffenen Systeme weltweit in verschiedenen Sektoren der kritischen Infrastruktur angegriffen werden. Die Sorge vor weitreichenden Störungen ist also bei den US-Behörden sehr groß."
+    },
+    {
+     "s": 183.56,
+     "wer": "Malte",
+     "text": "Auch von europäischer Seite und von Sicherheitsexperten gibt es dazu deutliche Worte. Christophe Hansen, der EU-Agrarkommissar, bezeichnet die Vorfälle als einen gezielten Versuch, die Lebensmittelversorgung zu stören und das Vertrauen der Verbraucher zu untergraben. Mirko Ross von der Firma Asvin weist zudem darauf hin, dass Steuerungssysteme weit verbaut und oft über das Internet erreichbar sind, was Angriffe stark begünstigt. Das deckt sich mit der allgemeinen Warnung der Institutionen."
+    },
+    {
+     "s": 211.06,
+     "wer": "Jan",
+     "text": "Das wirft für mich die Frage auf, wie Sicherheitsexperten auf diese technischen Schwachstellen reagieren. Sie fordern ja offenbar sehr drastische Schritte für den Betrieb der Anlagen. Malte, was genau schlagen die Fachleute zur Abwehr vor?"
+    },
+    {
+     "s": 223.68,
+     "wer": "Malte",
+     "text": "Sicherheitsexperten fordern laut den Berichten die sofortige Trennung der Steuerungssysteme vom öffentlichen Internet. Zudem soll der Einbau sicherer Verbindungen für die Fernwartung erfolgen, um unbefugte Zugriffe in Zukunft zu verhindern. Die Europäische Kommission hat ihre Krisentreffen zur Koordination genau dieser Maßnahmen einberufen. Es geht also vor allem darum, die Erreichbarkeit der Anlagen im Netz zu kappen."
+    },
+    {
+     "s": 246.97,
+     "wer": "Thorsten",
+     "text": "Malte, gibt es bei all diesen unterschiedlichen Reaktionen auch Punkte, in denen sich die Berichte völlig einig sind?"
+    },
+    {
+     "s": 253.27,
+     "wer": "Malte",
+     "text": "In einigen zentralen Punkten herrscht in den Berichten von Tagesschau, Deutschlandfunk und Süddeutscher Zeitung absolute Einigkeit. Erstens warnten US-Behörden übereinstimmend vor Cyberbedrohungen für industrielle Kühlsysteme. Zweitens berief die Europäische Kommission Krisentreffen ein, um Informationen auszutauschen und das Vorgehen abzustimmen. Und drittens gibt es bis jetzt keine Bekennerschreiben und keine Lösegeldforderungen von den Täterinnen oder Tätern."
+    },
+    {
+     "s": 279.18,
+     "wer": "Jan",
+     "text": "Das unterstreicht noch einmal, wie ungewöhnlich diese Art von Angriffen ohne finanzielle Erpressung ist. Und genau das macht die Einordnung für Behörden und Experten so schwierig, wie wir gehört haben. Ob es nun staatliche Akteure sind oder kriminelle Gruppen, bleibt ja vorerst Spekulation der Medien. Die beteiligten Stellen konzentrieren sich daher voll auf die technische Absicherung der Anlagen."
+    },
+    {
+     "s": 299.58,
+     "wer": "Thorsten",
+     "text": "Damit fassen wir die wichtigsten Punkte dieses Vorfalls zusammen. Wir haben die Berichte über Angriffe auf Kühlsysteme aus den Medien gehört. Danke an Malte und Jan für eure Einschätzungen und die Details aus den Quellen. Tschüss bis zum nächsten Mal."
+    }
+   ]
+  },
   {
    "id": "podcast-schaeffler-stellenabbau",
    "themaId": "schaeffler-stellenabbau",
