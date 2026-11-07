@@ -1,7 +1,6 @@
 {
- "stand": "2026-11-07T08:41:18.870Z",
+ "stand": "2026-11-07T20:11:44.882Z",
  "gepusht": [
-  "trump-fordert-selenskyj-abloesung",
   "ironman-wm-hawaii-luis-philipp",
   "cdu-praesidium-klausur-merz-kritik",
   "einziger-neues-thema-1",
@@ -80,7 +79,8 @@
   "us-angriffe-iran-hormus",
   "tod-jesus-de-miguel",
   "hubert-aiwanger-tot",
-  "paraguay-praesident-pena-amtsenthebung"
+  "paraguay-praesident-pena-amtsenthebung",
+  "schuesse-krakau"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -92,10 +92,11 @@
   "us-angriffe-iran-hormus",
   "tod-jesus-de-miguel",
   "hubert-aiwanger-tot",
-  "paraguay-praesident-pena-amtsenthebung"
+  "paraguay-praesident-pena-amtsenthebung",
+  "schuesse-krakau"
  ],
  "wetter": {
-  "stand": "2026-11-07T08:41:18.870Z",
+  "stand": "2026-11-07T20:11:44.882Z",
   "morgenTag": "Sonntag",
   "orte": [
    {
@@ -104,15 +105,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 2,
+     "grad": 3,
      "code": 3,
-     "gefuehlt": -1,
+     "gefuehlt": 0,
      "wind": 10,
-     "windAus": 127,
-     "feuchte": 89,
-     "druck": 1025,
+     "windAus": 129,
+     "feuchte": 88,
+     "druck": 1023,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
@@ -129,14 +130,14 @@
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 80,
-     "max": 8,
+     "code": 61,
+     "max": 7,
      "min": 3,
-     "regen": 25,
-     "menge": 1.7,
+     "regen": 18,
+     "menge": 0,
      "wind": 10,
-     "windAus": 141,
-     "uv": 1.1,
+     "windAus": 139,
+     "uv": 0.5,
      "auf": "07:32",
      "unter": "16:34"
     },
@@ -156,14 +157,14 @@
      },
      {
       "datum": "2026-11-08",
-      "code": 80,
-      "max": 8,
+      "code": 61,
+      "max": 7,
       "min": 3,
-      "regen": 25,
-      "menge": 1.7,
+      "regen": 18,
+      "menge": 0,
       "wind": 10,
-      "windAus": 141,
-      "uv": 1.1,
+      "windAus": 139,
+      "uv": 0.5,
       "auf": "07:32",
       "unter": "16:34"
      },
@@ -171,24 +172,24 @@
       "datum": "2026-11-09",
       "code": 80,
       "max": 9,
-      "min": 4,
+      "min": 5,
       "regen": 20,
-      "menge": 0,
+      "menge": 4.3,
       "wind": 6,
       "windAus": 132,
-      "uv": 0.9,
+      "uv": 1.6,
       "auf": "07:34",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-10",
       "code": 45,
-      "max": 4,
-      "min": 0,
-      "regen": 4,
+      "max": 5,
+      "min": 3,
+      "regen": 3,
       "menge": 0,
       "wind": 5,
-      "windAus": 197,
+      "windAus": 202,
       "uv": 1.6,
       "auf": "07:36",
       "unter": "16:30"
@@ -196,38 +197,38 @@
      {
       "datum": "2026-11-11",
       "code": 45,
-      "max": 4,
-      "min": 0,
-      "regen": 18,
+      "max": 6,
+      "min": 2,
+      "regen": 25,
       "menge": 0,
-      "wind": 5,
-      "windAus": 155,
-      "uv": 1.2,
+      "wind": 7,
+      "windAus": 110,
+      "uv": 1.4,
       "auf": "07:38",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-12",
       "code": 45,
-      "max": 5,
-      "min": 0,
-      "regen": 26,
-      "menge": 0.3,
-      "wind": 6,
-      "windAus": 232,
-      "uv": 1.2,
+      "max": 7,
+      "min": 1,
+      "regen": 23,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 243,
+      "uv": 1.6,
       "auf": "07:40",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-13",
-      "code": 1,
+      "code": 2,
       "max": 8,
-      "min": 1,
-      "regen": 24,
+      "min": 3,
+      "regen": 14,
       "menge": 0,
-      "wind": 5,
-      "windAus": 280,
+      "wind": 15,
+      "windAus": 270,
       "uv": 1.4,
       "auf": "07:42",
       "unter": "16:25"
@@ -235,92 +236,20 @@
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 4,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
@@ -332,7 +261,7 @@
      },
      {
       "zeit": "01:00",
-      "grad": 3,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
@@ -369,14 +298,86 @@
      {
       "zeit": "07:00",
       "grad": 3,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 3,
-      "code": 2,
+      "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "19:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 13
      }
     ]
    },
@@ -387,37 +388,37 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 2,
-     "code": 3,
-     "gefuehlt": -2,
-     "wind": 10,
-     "windAus": 120,
-     "feuchte": 86,
-     "druck": 1024,
+     "code": 51,
+     "gefuehlt": -1,
+     "wind": 8,
+     "windAus": 149,
+     "feuchte": 94,
+     "druck": 1023,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
-     "code": 3,
-     "max": 7,
+     "code": 51,
+     "max": 6,
      "min": 1,
      "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 118,
+     "windAus": 127,
      "uv": 1.9,
      "auf": "07:13",
      "unter": "16:26"
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 3,
+     "code": 45,
      "max": 8,
-     "min": 2,
-     "regen": 3,
+     "min": 1,
+     "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 123,
+     "wind": 9,
+     "windAus": 122,
      "uv": 1.8,
      "auf": "07:15",
      "unter": "16:24"
@@ -425,26 +426,26 @@
     "tage": [
      {
       "datum": "2026-11-07",
-      "code": 3,
-      "max": 7,
+      "code": 51,
+      "max": 6,
       "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 118,
+      "windAus": 127,
       "uv": 1.9,
       "auf": "07:13",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-08",
-      "code": 3,
+      "code": 45,
       "max": 8,
-      "min": 2,
-      "regen": 3,
+      "min": 1,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 123,
+      "wind": 9,
+      "windAus": 122,
       "uv": 1.8,
       "auf": "07:15",
       "unter": "16:24"
@@ -452,182 +453,110 @@
      {
       "datum": "2026-11-09",
       "code": 3,
-      "max": 9,
+      "max": 8,
       "min": 2,
       "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 122,
-      "uv": 1.7,
+      "wind": 8,
+      "windAus": 115,
+      "uv": 1.3,
       "auf": "07:17",
       "unter": "16:22"
      },
      {
       "datum": "2026-11-10",
-      "code": 45,
-      "max": 5,
+      "code": 3,
+      "max": 7,
       "min": 1,
-      "regen": 11,
+      "regen": 3,
       "menge": 0,
-      "wind": 4,
-      "windAus": 298,
+      "wind": 6,
+      "windAus": 288,
       "uv": 1.7,
       "auf": "07:19",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-11",
-      "code": 45,
-      "max": 3,
-      "min": 0,
-      "regen": 19,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 141,
-      "uv": 1.2,
+      "code": 61,
+      "max": 5,
+      "min": 3,
+      "regen": 38,
+      "menge": 0.9,
+      "wind": 7,
+      "windAus": 126,
+      "uv": 1.3,
       "auf": "07:20",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-12",
       "code": 45,
-      "max": 3,
-      "min": 0,
-      "regen": 25,
+      "max": 4,
+      "min": 2,
+      "regen": 40,
       "menge": 0,
-      "wind": 5,
-      "windAus": 311,
-      "uv": 0.3,
+      "wind": 7,
+      "windAus": 299,
+      "uv": 0.5,
       "auf": "07:22",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-13",
-      "code": 45,
+      "code": 2,
       "max": 7,
       "min": 1,
-      "regen": 24,
+      "regen": 25,
       "menge": 0,
-      "wind": 4,
-      "windAus": 291,
-      "uv": 1.6,
+      "wind": 12,
+      "windAus": 265,
+      "uv": 1.3,
       "auf": "07:24",
       "unter": "16:16"
      }
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
+      "zeit": "21:00",
       "grad": 2,
       "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 0,
+      "grad": 2,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 2,
-      "code": 0,
+      "grad": 3,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 2,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 1,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 2,
-      "code": 2,
+      "code": 45,
       "regen": 0
      },
      {
@@ -639,25 +568,97 @@
      {
       "zeit": "05:00",
       "grad": 2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -668,15 +669,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 3,
-     "code": 51,
-     "gefuehlt": 0,
-     "wind": 3,
+     "grad": 5,
+     "code": 3,
+     "gefuehlt": 2,
+     "wind": 7,
      "windAus": 139,
-     "feuchte": 87,
-     "druck": 1013,
+     "feuchte": 77,
+     "druck": 1012,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
@@ -686,21 +687,21 @@
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 125,
+     "windAus": 127,
      "uv": 2,
      "auf": "07:13",
      "unter": "16:33"
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 80,
+     "code": 61,
      "max": 9,
-     "min": 4,
-     "regen": 10,
-     "menge": 0,
-     "wind": 5,
-     "windAus": 165,
-     "uv": 2,
+     "min": 5,
+     "regen": 23,
+     "menge": 1.9,
+     "wind": 6,
+     "windAus": 164,
+     "uv": 1,
      "auf": "07:15",
      "unter": "16:32"
     },
@@ -713,33 +714,33 @@
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 125,
+      "windAus": 127,
       "uv": 2,
       "auf": "07:13",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-08",
-      "code": 80,
+      "code": 61,
       "max": 9,
-      "min": 4,
-      "regen": 10,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 165,
-      "uv": 2,
+      "min": 5,
+      "regen": 23,
+      "menge": 1.9,
+      "wind": 6,
+      "windAus": 164,
+      "uv": 1,
       "auf": "07:15",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-09",
-      "code": 3,
-      "max": 11,
-      "min": 4,
-      "regen": 3,
+      "code": 61,
+      "max": 10,
+      "min": 3,
+      "regen": 10,
       "menge": 0,
-      "wind": 5,
-      "windAus": 147,
+      "wind": 7,
+      "windAus": 155,
       "uv": 1.9,
       "auf": "07:17",
       "unter": "16:30"
@@ -747,12 +748,12 @@
      {
       "datum": "2026-11-10",
       "code": 45,
-      "max": 5,
-      "min": 2,
-      "regen": 15,
+      "max": 6,
+      "min": 1,
+      "regen": 5,
       "menge": 0,
-      "wind": 4,
-      "windAus": 237,
+      "wind": 6,
+      "windAus": 259,
       "uv": 1.9,
       "auf": "07:19",
       "unter": "16:29"
@@ -761,11 +762,11 @@
       "datum": "2026-11-11",
       "code": 61,
       "max": 5,
-      "min": 1,
-      "regen": 34,
-      "menge": 1.8,
-      "wind": 4,
-      "windAus": 85,
+      "min": 2,
+      "regen": 51,
+      "menge": 8.1,
+      "wind": 5,
+      "windAus": 118,
       "uv": 1,
       "auf": "07:21",
       "unter": "16:27"
@@ -773,107 +774,35 @@
      {
       "datum": "2026-11-12",
       "code": 61,
-      "max": 6,
+      "max": 5,
       "min": 3,
-      "regen": 40,
-      "menge": 6.4,
-      "wind": 6,
-      "windAus": 360,
-      "uv": 0.8,
+      "regen": 50,
+      "menge": 12,
+      "wind": 9,
+      "windAus": 318,
+      "uv": 1,
       "auf": "07:22",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-13",
-      "code": 61,
-      "max": 5,
+      "code": 2,
+      "max": 7,
       "min": 1,
-      "regen": 38,
-      "menge": 6.2,
-      "wind": 8,
-      "windAus": 355,
-      "uv": 1.8,
+      "regen": 31,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 262,
+      "uv": 1.7,
       "auf": "07:24",
       "unter": "16:24"
      }
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
       "grad": 5,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -891,42 +820,42 @@
      {
       "zeit": "00:00",
       "grad": 5,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 5,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
-      "code": 2,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -938,9 +867,81 @@
      },
      {
       "zeit": "08:00",
-      "grad": 5,
+      "grad": 6,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "19:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 13
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 10
      }
     ]
    },
@@ -950,279 +951,279 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 5,
-     "code": 2,
-     "gefuehlt": 2,
-     "wind": 8,
-     "windAus": 148,
-     "feuchte": 78,
+     "grad": 7,
+     "code": 3,
+     "gefuehlt": 5,
+     "wind": 9,
+     "windAus": 145,
+     "feuchte": 77,
      "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
-     "code": 51,
-     "max": 10,
+     "code": 3,
+     "max": 9,
      "min": 3,
-     "regen": 2,
-     "menge": 0.1,
+     "regen": 5,
+     "menge": 0,
      "wind": 11,
-     "windAus": 132,
+     "windAus": 130,
      "uv": 2,
      "auf": "07:34",
      "unter": "16:56"
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 51,
+     "code": 3,
      "max": 11,
-     "min": 6,
-     "regen": 42,
-     "menge": 0.9,
-     "wind": 12,
-     "windAus": 148,
-     "uv": 2,
+     "min": 7,
+     "regen": 57,
+     "menge": 0,
+     "wind": 10,
+     "windAus": 150,
+     "uv": 1.7,
      "auf": "07:36",
      "unter": "16:55"
     },
     "tage": [
      {
       "datum": "2026-11-07",
-      "code": 51,
-      "max": 10,
+      "code": 3,
+      "max": 9,
       "min": 3,
-      "regen": 2,
-      "menge": 0.1,
+      "regen": 5,
+      "menge": 0,
       "wind": 11,
-      "windAus": 132,
+      "windAus": 130,
       "uv": 2,
       "auf": "07:34",
       "unter": "16:56"
      },
      {
       "datum": "2026-11-08",
-      "code": 51,
+      "code": 3,
       "max": 11,
-      "min": 6,
-      "regen": 42,
-      "menge": 0.9,
-      "wind": 12,
-      "windAus": 148,
-      "uv": 2,
+      "min": 7,
+      "regen": 57,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 150,
+      "uv": 1.7,
       "auf": "07:36",
       "unter": "16:55"
      },
      {
       "datum": "2026-11-09",
       "code": 3,
-      "max": 9,
-      "min": 3,
-      "regen": 0,
+      "max": 11,
+      "min": 4,
+      "regen": 1,
       "menge": 0,
-      "wind": 10,
-      "windAus": 124,
+      "wind": 9,
+      "windAus": 125,
       "uv": 2,
       "auf": "07:37",
       "unter": "16:53"
      },
      {
       "datum": "2026-11-10",
-      "code": 51,
+      "code": 3,
       "max": 9,
-      "min": 3,
-      "regen": 5,
-      "menge": 0.4,
-      "wind": 15,
-      "windAus": 124,
+      "min": 4,
+      "regen": 16,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 122,
       "uv": 2,
       "auf": "07:39",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-11",
-      "code": 53,
-      "max": 16,
-      "min": 8,
-      "regen": 42,
-      "menge": 4.4,
-      "wind": 15,
-      "windAus": 158,
-      "uv": 1,
+      "code": 80,
+      "max": 12,
+      "min": 7,
+      "regen": 65,
+      "menge": 9.7,
+      "wind": 17,
+      "windAus": 149,
+      "uv": 0.2,
       "auf": "07:41",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-12",
-      "code": 51,
-      "max": 13,
-      "min": 8,
-      "regen": 65,
-      "menge": 1.8,
+      "code": 80,
+      "max": 12,
+      "min": 3,
+      "regen": 37,
+      "menge": 9.5,
       "wind": 14,
-      "windAus": 1,
-      "uv": 1.1,
+      "windAus": 323,
+      "uv": 0.9,
       "auf": "07:43",
       "unter": "16:48"
      },
      {
       "datum": "2026-11-13",
-      "code": 3,
-      "max": 9,
+      "code": 1,
+      "max": 8,
       "min": 2,
-      "regen": 61,
+      "regen": 40,
       "menge": 0,
-      "wind": 10,
-      "windAus": 336,
-      "uv": 1.8,
+      "wind": 8,
+      "windAus": 333,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:47"
      }
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 8,
+      "grad": 7,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 8,
-      "code": 51,
-      "regen": 2
-     },
-     {
-      "zeit": "00:00",
       "grad": 7,
       "code": 3,
       "regen": 5
      },
      {
+      "zeit": "00:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 13
+     },
+     {
       "zeit": "01:00",
       "grad": 7,
       "code": 3,
-      "regen": 10
+      "regen": 22
      },
      {
       "zeit": "02:00",
       "grad": 7,
       "code": 3,
-      "regen": 20
+      "regen": 35
      },
      {
       "zeit": "03:00",
       "grad": 7,
       "code": 3,
-      "regen": 33
+      "regen": 50
      },
      {
       "zeit": "04:00",
       "grad": 7,
-      "code": 51,
-      "regen": 41
+      "code": 3,
+      "regen": 57
      },
      {
       "zeit": "05:00",
       "grad": 7,
-      "code": 51,
-      "regen": 42
+      "code": 3,
+      "regen": 52
      },
      {
       "zeit": "06:00",
       "grad": 7,
       "code": 3,
-      "regen": 38
+      "regen": 40
      },
      {
       "zeit": "07:00",
       "grad": 7,
-      "code": 51,
-      "regen": 35
+      "code": 3,
+      "regen": 29
      },
      {
       "zeit": "08:00",
       "grad": 7,
-      "code": 51,
-      "regen": 35
+      "code": 1,
+      "regen": 24
+     },
+     {
+      "zeit": "09:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 16
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 11
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "13:00",
+      "grad": 10,
+      "code": 0,
+      "regen": 2
+     },
+     {
+      "zeit": "14:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 3
+     },
+     {
+      "zeit": "15:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 6
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 0,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 9
+     },
+     {
+      "zeit": "18:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 9
+     },
+     {
+      "zeit": "19:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "20:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 7
      }
     ]
    },
@@ -1232,39 +1233,39 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 3,
+     "grad": 5,
      "code": 3,
-     "gefuehlt": 1,
-     "wind": 3,
-     "windAus": 40,
-     "feuchte": 84,
+     "gefuehlt": 4,
+     "wind": 2,
+     "windAus": 180,
+     "feuchte": 85,
      "druck": 1012,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
      "code": 61,
-     "max": 7,
+     "max": 6,
      "min": 0,
      "regen": 0,
      "menge": 0,
      "wind": 6,
-     "windAus": 81,
+     "windAus": 85,
      "uv": 2.1,
      "auf": "07:25",
      "unter": "16:52"
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 61,
+     "code": 80,
      "max": 10,
-     "min": 4,
-     "regen": 5,
-     "menge": 0,
+     "min": 5,
+     "regen": 10,
+     "menge": 0.1,
      "wind": 4,
-     "windAus": 76,
-     "uv": 2.1,
+     "windAus": 106,
+     "uv": 1.1,
      "auf": "07:26",
      "unter": "16:50"
     },
@@ -1272,51 +1273,51 @@
      {
       "datum": "2026-11-07",
       "code": 61,
-      "max": 7,
+      "max": 6,
       "min": 0,
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 81,
+      "windAus": 85,
       "uv": 2.1,
       "auf": "07:25",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
+      "code": 80,
       "max": 10,
-      "min": 4,
-      "regen": 5,
-      "menge": 0,
+      "min": 5,
+      "regen": 10,
+      "menge": 0.1,
       "wind": 4,
-      "windAus": 76,
-      "uv": 2.1,
+      "windAus": 106,
+      "uv": 1.1,
       "auf": "07:26",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-09",
       "code": 45,
-      "max": 9,
+      "max": 8,
       "min": 2,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 4,
-      "windAus": 38,
+      "wind": 7,
+      "windAus": 74,
       "uv": 2.1,
       "auf": "07:28",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-10",
-      "code": 61,
+      "code": 45,
       "max": 8,
-      "min": 4,
-      "regen": 21,
-      "menge": 0.1,
+      "min": 2,
+      "regen": 18,
+      "menge": 0,
       "wind": 7,
-      "windAus": 32,
+      "windAus": 45,
       "uv": 2.1,
       "auf": "07:30",
       "unter": "16:47"
@@ -1324,38 +1325,38 @@
      {
       "datum": "2026-11-11",
       "code": 80,
-      "max": 12,
-      "min": 6,
-      "regen": 41,
-      "menge": 5.6,
-      "wind": 3,
-      "windAus": 30,
-      "uv": 0.6,
+      "max": 10,
+      "min": 3,
+      "regen": 74,
+      "menge": 13.4,
+      "wind": 4,
+      "windAus": 328,
+      "uv": 0.4,
       "auf": "07:31",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-12",
-      "code": 55,
-      "max": 11,
-      "min": 7,
-      "regen": 53,
-      "menge": 3.3,
-      "wind": 12,
-      "windAus": 14,
-      "uv": 1.3,
+      "code": 80,
+      "max": 13,
+      "min": 4,
+      "regen": 46,
+      "menge": 11.4,
+      "wind": 9,
+      "windAus": 276,
+      "uv": 0.4,
       "auf": "07:33",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-13",
-      "code": 61,
-      "max": 8,
-      "min": 1,
-      "regen": 39,
-      "menge": 0.6,
-      "wind": 13,
-      "windAus": 26,
+      "code": 2,
+      "max": 9,
+      "min": 0,
+      "regen": 44,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 349,
       "uv": 1.9,
       "auf": "07:35",
       "unter": "16:43"
@@ -1363,147 +1364,147 @@
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 4,
-      "code": 45,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
-      "code": 45,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 4,
-      "code": 45,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 4,
+      "grad": 6,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "02:00",
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "02:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 3
-     },
-     {
       "zeit": "03:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 3
+      "grad": 6,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 5,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 4,
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 6,
+      "code": 80,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 8,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "08:00",
-      "grad": 4,
+      "zeit": "13:00",
+      "grad": 9,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "19:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "20:00",
+      "grad": 8,
+      "code": 80,
       "regen": 0
      }
     ]
@@ -1514,25 +1515,25 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 5,
+     "grad": 6,
      "code": 3,
      "gefuehlt": 4,
-     "wind": 1,
-     "windAus": 27,
-     "feuchte": 87,
+     "wind": 3,
+     "windAus": 225,
+     "feuchte": 89,
      "druck": 994,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
      "code": 3,
-     "max": 9,
+     "max": 8,
      "min": 5,
-     "regen": 8,
+     "regen": 5,
      "menge": 0,
-     "wind": 3,
-     "windAus": 60,
+     "wind": 4,
+     "windAus": 36,
      "uv": 1.8,
      "auf": "07:19",
      "unter": "16:54"
@@ -1544,9 +1545,9 @@
      "min": 4,
      "regen": 5,
      "menge": 0,
-     "wind": 8,
-     "windAus": 203,
-     "uv": 2.2,
+     "wind": 7,
+     "windAus": 209,
+     "uv": 2.1,
      "auf": "07:20",
      "unter": "16:52"
     },
@@ -1554,12 +1555,12 @@
      {
       "datum": "2026-11-07",
       "code": 3,
-      "max": 9,
+      "max": 8,
       "min": 5,
-      "regen": 8,
+      "regen": 5,
       "menge": 0,
-      "wind": 3,
-      "windAus": 60,
+      "wind": 4,
+      "windAus": 36,
       "uv": 1.8,
       "auf": "07:19",
       "unter": "16:54"
@@ -1571,73 +1572,73 @@
       "min": 4,
       "regen": 5,
       "menge": 0,
-      "wind": 8,
-      "windAus": 203,
-      "uv": 2.2,
+      "wind": 7,
+      "windAus": 209,
+      "uv": 2.1,
       "auf": "07:20",
       "unter": "16:52"
      },
      {
       "datum": "2026-11-09",
       "code": 45,
-      "max": 11,
-      "min": 2,
-      "regen": 40,
+      "max": 10,
+      "min": 3,
+      "regen": 22,
       "menge": 0,
-      "wind": 5,
-      "windAus": 170,
-      "uv": 1.9,
+      "wind": 6,
+      "windAus": 172,
+      "uv": 2.1,
       "auf": "07:22",
       "unter": "16:51"
      },
      {
       "datum": "2026-11-10",
       "code": 61,
-      "max": 10,
-      "min": 9,
-      "regen": 60,
-      "menge": 13.8,
+      "max": 9,
+      "min": 7,
+      "regen": 56,
+      "menge": 5.5,
       "wind": 3,
-      "windAus": 129,
-      "uv": 0.6,
+      "windAus": 21,
+      "uv": 0.3,
       "auf": "07:24",
       "unter": "16:49"
      },
      {
       "datum": "2026-11-11",
-      "code": 80,
-      "max": 17,
+      "code": 61,
+      "max": 14,
       "min": 9,
-      "regen": 38,
-      "menge": 6.5,
-      "wind": 7,
-      "windAus": 193,
-      "uv": 1.3,
+      "regen": 54,
+      "menge": 5.6,
+      "wind": 10,
+      "windAus": 194,
+      "uv": 1.7,
       "auf": "07:25",
       "unter": "16:48"
      },
      {
       "datum": "2026-11-12",
       "code": 80,
-      "max": 15,
-      "min": 9,
+      "max": 16,
+      "min": 7,
       "regen": 49,
-      "menge": 0.3,
-      "wind": 4,
-      "windAus": 199,
+      "menge": 7.5,
+      "wind": 12,
+      "windAus": 254,
       "uv": 0.2,
       "auf": "07:27",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-13",
-      "code": 80,
-      "max": 9,
-      "min": 2,
+      "code": 61,
+      "max": 7,
+      "min": 3,
       "regen": 50,
-      "menge": 15.9,
-      "wind": 11,
-      "windAus": 7,
+      "menge": 0.8,
+      "wind": 10,
+      "windAus": 18,
       "uv": 1.9,
       "auf": "07:28",
       "unter": "16:45"
@@ -1645,87 +1646,15 @@
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
+      "zeit": "21:00",
       "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1744,7 +1673,7 @@
       "zeit": "01:00",
       "grad": 6,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
       "zeit": "02:00",
@@ -1762,18 +1691,18 @@
       "zeit": "04:00",
       "grad": 6,
       "code": 3,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "05:00",
       "grad": 6,
       "code": 3,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "06:00",
       "grad": 6,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1786,6 +1715,78 @@
       "zeit": "08:00",
       "grad": 6,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 5
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 2,
+      "regen": 5
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -1797,37 +1798,37 @@
     "teil": "Süden",
     "jetzt": {
      "grad": 6,
-     "code": 61,
+     "code": 3,
      "gefuehlt": 4,
-     "wind": 5,
-     "windAus": 126,
-     "feuchte": 91,
+     "wind": 7,
+     "windAus": 108,
+     "feuchte": 92,
      "druck": 962,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-07",
      "code": 61,
      "max": 8,
      "min": 4,
-     "regen": 50,
+     "regen": 60,
      "menge": 0.1,
-     "wind": 7,
-     "windAus": 131,
-     "uv": 0.4,
+     "wind": 8,
+     "windAus": 121,
+     "uv": 0.5,
      "auf": "07:08",
      "unter": "16:46"
     },
     "morgen": {
      "datum": "2026-11-08",
-     "code": 61,
-     "max": 10,
+     "code": 45,
+     "max": 9,
      "min": 4,
-     "regen": 5,
+     "regen": 10,
      "menge": 0,
      "wind": 6,
-     "windAus": 149,
+     "windAus": 121,
      "uv": 2.2,
      "auf": "07:09",
      "unter": "16:44"
@@ -1838,23 +1839,23 @@
       "code": 61,
       "max": 8,
       "min": 4,
-      "regen": 50,
+      "regen": 60,
       "menge": 0.1,
-      "wind": 7,
-      "windAus": 131,
-      "uv": 0.4,
+      "wind": 8,
+      "windAus": 121,
+      "uv": 0.5,
       "auf": "07:08",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-08",
-      "code": 61,
-      "max": 10,
+      "code": 45,
+      "max": 9,
       "min": 4,
-      "regen": 5,
+      "regen": 10,
       "menge": 0,
       "wind": 6,
-      "windAus": 149,
+      "windAus": 121,
       "uv": 2.2,
       "auf": "07:09",
       "unter": "16:44"
@@ -1862,25 +1863,25 @@
      {
       "datum": "2026-11-09",
       "code": 61,
-      "max": 11,
+      "max": 9,
       "min": 2,
-      "regen": 75,
-      "menge": 3.6,
+      "regen": 78,
+      "menge": 2.7,
       "wind": 7,
-      "windAus": 127,
-      "uv": 2.2,
+      "windAus": 118,
+      "uv": 2,
       "auf": "07:11",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-10",
       "code": 61,
-      "max": 10,
+      "max": 9,
       "min": 7,
-      "regen": 95,
-      "menge": 10.6,
-      "wind": 7,
-      "windAus": 159,
+      "regen": 97,
+      "menge": 15.6,
+      "wind": 6,
+      "windAus": 116,
       "uv": 0.2,
       "auf": "07:12",
       "unter": "16:42"
@@ -1888,139 +1889,67 @@
      {
       "datum": "2026-11-11",
       "code": 61,
-      "max": 14,
-      "min": 8,
-      "regen": 23,
-      "menge": 2.5,
-      "wind": 7,
-      "windAus": 199,
-      "uv": 1.8,
+      "max": 11,
+      "min": 7,
+      "regen": 29,
+      "menge": 2.1,
+      "wind": 8,
+      "windAus": 178,
+      "uv": 1.9,
       "auf": "07:14",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-12",
       "code": 61,
-      "max": 13,
-      "min": 7,
-      "regen": 46,
-      "menge": 1.1,
-      "wind": 6,
-      "windAus": 181,
-      "uv": 1.4,
+      "max": 15,
+      "min": 9,
+      "regen": 40,
+      "menge": 1.2,
+      "wind": 12,
+      "windAus": 227,
+      "uv": 1.1,
       "auf": "07:15",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-13",
       "code": 61,
-      "max": 11,
-      "min": 2,
-      "regen": 44,
-      "menge": 3.5,
+      "max": 10,
+      "min": 1,
+      "regen": 68,
+      "menge": 3.9,
       "wind": 13,
-      "windAus": 348,
-      "uv": 1.5,
+      "windAus": 356,
+      "uv": 1.7,
       "auf": "07:17",
       "unter": "16:38"
      }
     ],
     "stunden": [
      {
-      "zeit": "09:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 43
-     },
-     {
-      "zeit": "10:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 48
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 50
-     },
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 61,
-      "regen": 23
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "18:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
       "grad": 6,
-      "code": 2,
-      "regen": 3
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 6,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 5,
+      "grad": 6,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 6,
       "code": 3,
-      "regen": 5
+      "regen": 3
      },
      {
       "zeit": "01:00",
@@ -2038,45 +1967,117 @@
       "zeit": "03:00",
       "grad": 5,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "04:00",
       "grad": 5,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
       "zeit": "05:00",
       "grad": 5,
-      "code": 61,
-      "regen": 3
+      "code": 45,
+      "regen": 10
      },
      {
       "zeit": "06:00",
       "grad": 5,
       "code": 45,
-      "regen": 3
+      "regen": 10
      },
      {
       "zeit": "07:00",
+      "grad": 4,
+      "code": 45,
+      "regen": 5
+     },
+     {
+      "zeit": "08:00",
+      "grad": 4,
+      "code": 45,
+      "regen": 5
+     },
+     {
+      "zeit": "09:00",
       "grad": 5,
+      "code": 45,
+      "regen": 5
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 45,
+      "regen": 5
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "08:00",
-      "grad": 5,
+      "zeit": "12:00",
+      "grad": 7,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 1,
       "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 5 und 10 Grad.",
-   "Die Vorhersage für morgen, Sonntag: im Norden und Osten Regenschauer, im Süden und Westen leichter Regen.",
-   "Die Temperaturen erreichen dann 8 bis 12 Grad.",
+   "Heute liegen die Höchstwerte zwischen 5 und 9 Grad.",
+   "Die Vorhersage für morgen, Sonntag: im Norden und Osten leichter Regen, im Süden und Westen bewölkt.",
+   "Die Temperaturen erreichen dann 7 bis 12 Grad.",
    "Am wärmsten wird es in Stuttgart mit 12 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2089,13 +2090,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
-       "regen": 1.7
+       "grad": 7,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
+       "grad": 7,
        "regen": 0
       },
       {
@@ -2124,7 +2125,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
+       "grad": 7,
        "regen": 0
       }
      ]
@@ -2136,19 +2137,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 9,
-       "regen": 0
+       "regen": 1.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 8,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": 0
+       "grad": 8,
+       "regen": 0.6
       }
      ]
     },
@@ -2158,20 +2159,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
-       "regen": 0.2
+       "grad": 11,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 13,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 10,
-       "regen": 0.6
+       "regen": 0.1
       }
      ]
     },
@@ -2182,19 +2183,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 10,
-       "regen": 0
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 10,
-       "regen": 0
+       "grad": 8,
+       "regen": 1
       }
      ]
     },
@@ -2216,8 +2217,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 0.6
+       "grad": 10,
+       "regen": 0.1
       }
      ]
     },
@@ -2227,27 +2228,27 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": -0.1
+       "grad": 8,
+       "regen": 0
       }
      ]
     }
    ],
-   "spanneGrad": 3,
+   "spanneGrad": 2,
    "uneinigRegen": {
-    "ort": "Hamburg",
+    "ort": "Leipzig",
     "nass": [
      "ICON"
     ],
@@ -2257,8 +2258,8 @@
     ]
    },
    "saetze": [
-    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 10 und 13 Grad.",
-    "Und in Hamburg erwartet ICON Regen, GFS und ECMWF dagegen nicht."
+    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 7 und 9 Grad.",
+    "Und in Leipzig erwartet ICON Regen, GFS und ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2472,90 +2473,66 @@
   {
    "id": "merzd-nachfolge-bundespraesident-frau",
    "rubrik": "Deutschland",
-   "zeit": "2026-11-07T08:40:13.000Z",
-   "aktualisiert": "aktualisiert um 09:41 Uhr",
-   "titel": "Union einigt sich auf Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin",
-   "vorspann": "Die CDU und die CSU haben sich übereinstimmenden Berichten zufolge darauf verständigt, Ilse Aigner für das Amt der Bundespräsidentin vorzuschlagen. Bei einer erfolgreichen Wahl im Januar wäre die bayerische Landtagspräsidentin die erste Frau an der Spitze des deutschen Staates.",
+   "zeit": "2026-11-07T20:06:23.000Z",
+   "aktualisiert": "aktualisiert um 21:11 Uhr",
+   "titel": "CDU und CSU planen Nominierung von Ilse Aigner für die Bundespräsidentenwahl",
+   "vorspann": "Nach übereinstimmenden Medienberichten soll die bayerische Landtagspräsidentin Ilse Aigner als Kandidatin der Union für das Amt der Bundespräsidentin nominiert werden. Eine offizielle Bekanntgabe wird für den kommenden Montag erwartet.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Die Unionsparteien CDU und CSU haben sich Medienberichten zufolge darauf geeinigt, Ilse Aigner für das Amt der Bundespräsidentin vorzuschlagen.",
-    "Die bayerische Landtagspräsidentin und frühere Bundesministerin wäre im Fall ihrer Wahl die erste Frau im höchsten Staatsamt der Bundesrepublik.",
-    "Politiker von SPD und Grünen signalisierten Unterstützung für die Kandidatur der CSU-Politikerin.",
-    "Kritik am Zustandekommen der Aufstellung äußerten die Linksfraktion im Bundestag sowie die Grünen mit Blick auf das Verfahren der Union."
+    "CDU und CSU wollen Medienberichten zufolge Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin aufstellen.",
+    "Die offizielle Bekanntgabe der Nominierung wird für den kommenden Montag erwartet.",
+    "Die bayerische Landtagspräsidentin könnte damit das erste weibliche Staatsoberhaupt Deutschlands werden.",
+    "Der Findungsprozess war zuvor von internen Debatten innerhalb der Unionsparteien geprägt."
    ],
    "einig": [
     [
-     "Die Unionsparteien CDU und CSU wollen Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin vorschlagen.",
+     "Ilse Aigner soll von der Union als Kandidatin für die Bundespräsidentenwahl nominiert werden.",
      [
       "Tagesschau/ARD",
       "Deutschlandfunk",
-      "Süddeutsche Zeitung",
-      "ZDFheute"
+      "taz"
      ]
     ],
     [
-     "Ilse Aigner wäre bei einer erfolgreichen Wahl die erste Frau im Amt des Bundespräsidenten.",
+     "Die offizielle Bekanntgabe der Entscheidung wird für den kommenden Montag erwartet.",
      [
-      "ZDFheute",
-      "Süddeutsche Zeitung"
+      "Deutschlandfunk",
+      "taz"
      ]
     ],
     [
-     "Die Bundesversammlung wählt die Nachfolge von Bundespräsident Frank-Walter Steinmeier im Januar.",
+     "Die CSU hatte Ilse Aigner bereits im April zum ersten Mal vorgeschlagen.",
      [
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Bundeskanzler Friedrich Merz hat sich öffentlich noch nicht zu der Personalie geäußert.",
-     [
-      "Süddeutsche Zeitung",
-      "ZDFheute"
+      "Deutschlandfunk",
+      "taz"
      ]
     ]
    ],
    "unklar": [
-    "Wann genau sich Bundeskanzler Friedrich Merz öffentlich zu der Personalie äußert, ist in den Berichten noch offen.",
-    "Das genaue Stimmverhalten aller Parteien in der Bundesversammlung steht vor den offiziellen Abstimmungen noch nicht abschließend fest."
+    "Welche genauen internen Absprachen zwischen CDU und CSU zu der späten Einigung geführt haben, bleibt in den Berichten offen."
    ],
    "positionen": [
     [
-     "Britta Haßelmann (Co-Fraktionschefin der Grünen im Bundestag)",
-     "Begrüßt eine Frau im höchsten Staatsamt und lobt Aigners Nahbarkeit, kritisiert aber die Kandidatensuche von Kanzler Merz und der Union als unprofessionell.",
-     "Süddeutsche Zeitung"
-    ],
-    [
-     "Lars Klingbeil (Parteivorsitzender der SPD)",
-     "Stellt Unterstützung für Aigner in Aussicht, lobt ihre Bürgernähe und betont ihre integrative Kraft.",
-     "Süddeutsche Zeitung"
-    ],
-    [
-     "Heidi Reichinnek (Fraktionsvorsitzende Die Linke im Bundestag)",
-     "Kritisiert die Festlegung auf Aigner und fordert eine überparteiliche Kandidatur statt parteipolitischer Absprachen zwischen Union und SPD.",
-     "Süddeutsche Zeitung"
-    ],
-    [
-     "Markus Söder (CSU-Parteivorsitzender)",
-     "Nennt Ilse Aigner als mögliche Kandidatin für das Amt des Bundespräsidenten und unterstützt sie.",
-     "ZDFheute"
+     "CDU und CSU",
+     "Wählen nach Medienberichten Ilse Aigner als gemeinsame Kandidatin aus.",
+     "Tagesschau/ARD, Deutschlandfunk, taz"
     ]
    ],
-   "fehlend": "In den Berichten liegen keine Reaktionen von FDP, Bündnis Sahra Wagenknecht oder eine ausführliche Stellungnahme der AfD vor.",
+   "fehlend": "Es fehlen direkte Aussagen von Ilse Aigner selbst sowie offizielle Stellungnahmen der SPD und der FDP zu dieser Personalentscheidung.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "06.11.26, 22:39",
-     "fokus": "Festlegung der Union",
-     "text": "Kurzmeldung über die Festlegung der Union auf Ilse Aigner für die Kandidatur.",
-     "url": "https://www.tagesschau.de/tagesthemen/video-1679594.html",
+     "datum": "07.11.26, 20:29",
+     "fokus": "Kompakte Meldung",
+     "text": "Der Sender berichtet in einer kurzen Meldung über die künftige Unionskandidatur von Ilse Aigner.",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680042.html",
      "video": true,
      "lesbar": null,
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
@@ -2563,36 +2540,13 @@
      "publikumWert": 3.73
     },
     {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "06.11.26, 17:14",
-     "fokus": "Porträt und Hintergründe",
-     "text": "Ausführlicher Bericht über Aigners Profil, ihre politische Laufbahn, das Verhältnis zu Markus Söder und das Auftreten im bayerischen Landtag.",
-     "url": "https://www.zdfheute.de/politik/deutschland/ilse-aigner-bundespraesidentenwahl-102.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 4,
-      "woerter": 817,
-      "satzlaenge": 15,
-      "langeWoerter": 28
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "07.11.26, 09:40",
-     "fokus": "Medienlage und Zeitplan",
-     "text": "Bericht über die Einigung der Schwesterparteien und die für Montag erwartete offizielle Nominierung.",
+     "datum": "07.11.26, 21:06",
+     "fokus": "Hintergrund und Kritik",
+     "text": "Der Sender nennt Details zu Medienberichten sowie die Kritik von CDU-Politiker Kiesewetter an Merz.",
      "url": "https://www.deutschlandfunk.de/medienberichte-auch-cdu-fuer-ilse-aigner-merz-schweigt-weiter-cdu-parteikollege-kiesewetter-kritisie-100.html",
      "video": false,
      "lesbar": null,
@@ -2601,122 +2555,67 @@
      "publikumWert": null
     },
     {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
      "art": "privates Medium",
-     "stamm": true,
-     "datum": "06.11.26, 21:26",
-     "fokus": "–",
-     "text": "Nach zwölf Männern und 78 Jahren: Die Bundesrepublik soll mit Ilse Aigner die erste Präsidentin bekommen. Wer ist die CSU-Frau, die Union und SPD an die Spitze wählen wollen?",
-     "url": "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-politikerin-soll-erste-praesidentin-der-bundesrepublik-werden-a-9b1044f7-38e6-4d2b-98b3-ff3684d399f9#ref=rss",
+     "stamm": false,
+     "datum": "06.11.26, 19:57",
+     "fokus": "Analytischer Bericht",
+     "text": "Die Tageszeitung beleuchtet den internen Findungsprozess und die Rolle von CDU-Chef Friedrich Merz sowie Reaktionen anderer Parteien.",
+     "url": "https://taz.de/Union-will-Aigner-als-Bundespraesidentin/!6224226/",
      "video": false,
      "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 1,
-      "woerter": 106,
-      "satzlaenge": 13,
-      "langeWoerter": 32
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "06.11.26, 22:43",
-     "fokus": "Reaktionen anderer Parteien",
-     "text": "Bericht über die Zustimmung von SPD und Grünen sowie Kritik von Linken und Grünen am Vorgehen der Union.",
-     "url": "https://www.sueddeutsche.de/politik/ilse-aigner-bundespraesidentin-gruene-spd-linke-reaktionen-li.3575672",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
+      "stufe": "leicht",
+      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
+      "klasse": 8,
       "minuten": 2,
-      "woerter": 375,
-      "satzlaenge": 17,
-      "langeWoerter": 30
+      "woerter": 404,
+      "satzlaenge": 15,
+      "langeWoerter": 28
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Biografische Details",
-     "ZDFheute liefert als einzige Quelle ausführliche Angaben zu Ausbildung, Krankheitsgeschichte, Lebensweg und Redestil von Ilse Aigner."
-    ],
-    [
-     "Reaktionen anderer Parteien",
-     "Die Süddeutsche Zeitung zitiert als einzige Quelle ausführlich Reaktionen von SPD, Grünen und Linken."
+     "Ausführlichkeit",
+     "Während Tagesschau/ARD die Nachricht sehr kurz hält, liefern Deutschlandfunk und taz umfangreiche Berichte und Details zu den internen Abläufen in der Union."
     ]
    ],
    "wfragen": {
-    "wer": "Die Unionsparteien CDU und CSU sowie Ilse Aigner",
-    "was": "Einigung auf Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin",
-    "wann": "Offizielle Bekanntgabe für Montag erwartet, Wahl im Januar",
-    "wo": "Berlin und Bayern",
-    "wie": "Verständigung zwischen CDU-Führung und CSU",
-    "warum": "Zur Regelung der Nachfolge von Bundespräsident Frank-Walter Steinmeier",
-    "quellenlage": "Berichte von Tagesschau/ARD, ZDFheute, Deutschlandfunk und Süddeutscher Zeitung; Quelle Spiegel wegen Aboschranke ohne Text"
+    "wer": "CDU und CSU planen Kandidatur von Ilse Aigner",
+    "was": "Nominierung als Kandidatin für das Amt der Bundespräsidentin",
+    "wann": "Bekanntgabe am kommenden Montag",
+    "wie": "Nach Medienberichten erfolgt die Einigung nach einer internen Abstimmung",
+    "warum": "Noch unklar, laut Berichten ein interner Findungsprozess der Parteien",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, taz"
    },
    "artikel": [
     {
-     "ueberschrift": "Das ist passiert",
+     "ueberschrift": "Das geplante Vorgehen der Union",
      "absaetze": [
-      "Die Unionsparteien CDU und CSU haben sich nach Medienberichten auf eine gemeinsame Personalie für das höchste Staatsamt verständigt. Die bayerische Landtagspräsidentin Ilse Aigner soll für die Nachfolge von Bundespräsident Frank-Walter Steinmeier nominiert werden. Die CSU hatte sich zuvor hinter ihre Parteikollegin gestellt. Nun hat nach Berichten von Deutschlandfunk und Süddeutscher Zeitung auch die CDU-Führung ihre Zustimmung signalisiert. Mit einer offiziellen Bekanntgabe wird laut Deutschlandfunk am Montag gerechnet.",
-      "Mit dieser Entscheidung zeichnet sich ab, dass erstmals in der Geschichte der Bundesrepublik eine Frau das Amt des Staatsoberhaupts übernehmen könnte. Die CSU hatte Aigner laut ZDFheute bereits vor knapp zwei Wochen bei ihrem Parteitag mit Standing Ovations bedacht. In der CDU gab es laut ZDFheute zunächst Überlegungen für eine eigene Bewerberin. Der Kanzler hat sich nach Angaben von ZDFheute und Süddeutscher Zeitung öffentlich noch nicht zu der Personalie geäußert.",
-      "Die Wahl der neuen Bundespräsidentin oder des neuen Bundespräsidenten findet im Januar durch die Bundesversammlung statt. Der amtierende Bundespräsident Frank-Walter Steinmeier scheidet dann aus dem Amt. Reaktionen aus den Fraktionen von SPD und Grünen zeigen laut Süddeutscher Zeitung, dass Aigners Kandidatur auf Unterstützung stößt."
+      "Die Unionsparteien CDU und CSU bereiten laut Medienberichten die Nominierung von Ilse Aigner für die anstehende Bundespräsidentenwahl vor. Dies geht aus übereinstimmenden Berichten hervor, auf die sich die Sender Tagesschau/ARD und Deutschlandfunk beziehen. Auch die taz berichtet über diese Personalie als Vorhaben innerhalb der Parteien. Die offizielle Bekanntgabe dieser Entscheidung steht noch aus.",
+      "Laut Deutschlandfunk wird die offizielle Bekanntgabe für den kommenden Montag erwartet. Zuvor hatten Medien wie Bild, Spiegel und Süddeutsche Zeitung über die Einigung der CDU berichtet, nachdem die CSU die Politikerin bereits im April zum ersten Mal vorgeschlagen hatte. Die CDU-Führungsebene trifft sich nach Angaben der taz am Sonntagabend zu einem gemeinsamen Abendessen."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten",
+     "ueberschrift": "Ablauf und politische Einordnung",
      "absaetze": [
-      "Ilse Aigner ist 61 Jahre alt und blickt auf eine lange politische Laufbahn zurück. Nach ihrem Realschulabschluss absolvierte sie eine Ausbildung zur Elektrotechnikerin und bezeichnet sich laut ZDFheute selbst als geborene Handwerkerin. Im Jahr 1994 wurde sie im Alter von 29 Jahren in den Bayerischen Landtag gewählt. Später war sie unter anderem Bundeslandwirtschaftsministerin. Seit dem Jahr 2018 leitet sie als Präsidentin den Bayerischen Landtag in München, dem sie seit 2013 angehört.",
-      "In ihrer Rolle als Landtagspräsidentin schritt Aigner nach Angaben von ZDFheute im Juli 2025 gegen die AfD-Fraktion ein. Als deren Fraktionschefin Ermahnungen ignorierte, drehte Aigner ihr das Mikrofon ab. Aigner betonte, dass einfache und harte Antworten nicht funktionierten und ein breiter gesellschaftlicher Konsens nötig sei.",
-      "Laut ZDFheute hatte CSU-Chef Markus Söder Aigner als Kandidatin genannt. Auch Friedrich Merz könne sich laut ZDFheute ihre Kandidatur vorstellen. Mit der nun erzielten Einigung unterstützen beide Schwesterparteien den Vorschlag der CSU."
+      "Ilse Aigner bekleidet derzeit das Amt der bayerische Landtagspräsidentin. Sollte die Nominierung offiziell bestätigt werden, wäre dies laut taz der Schritt zur ersten weiblichen Bundespräsidentin in der Geschichte der Bundesrepublik Deutschland. Die CDU besitzt als stärkste Kraft in diesem Verfahren formal das Vorschlagsrecht für die Nachfolge des amtierenden Bundespräsidenten Frank-Walter Steinmeier. Der Kanzler und CDU-Vorsitzende Friedrich Merz will sich am Montag nach einer Sitzung des Präsidiums äußern.",
+      "Der Findungsprozess innerhalb der Union verlief laut der taz nicht gänzlich friktionsfrei. Der CSU-Chef Markus Söder hatte Aigner bereits im April ins Gespräch gebracht. Der Kanzler hielt sich zunächst bedeckt und betonte zuletzt lediglich, dass eine Frau Bundespräsidentin werden soll, während aus seinem Umfeld zeitweise andere Namen wie die hessische Fraktionsvorsitzende Ines Claus genannt wurden."
      ]
     },
     {
-     "ueberschrift": "Hintergrund",
+     "ueberschrift": "Reaktionen und Positionen in den Parteien",
      "absaetze": [
-      "Das Verhältnis zwischen Ilse Aigner und CSU-Chef Markus Söder gilt laut ZDFheute als langjährige Schicksalsgemeinschaft. Beide zogen 1994 gemeinsam als junge Abgeordnete in den Bayerischen Landtag ein. Während Söder für markige Botschaften bekannt ist, gilt Aigner laut ZDFheute als bodenständig, nahbar und vermittelnd. Im Landtagspräsidium gehören laut Bericht auch Vertreter von SPD und Grünen zu ihren Unterstützern.",
-      "ZDFheute verweist darauf, dass mit Aigners Wechsel nach Berlin Söders stärkste parteiinterne Konkurrentin die Landesebene verlassen würde. Zudem wird laut Bericht ein Kanzlerantritt von Söder unwahrscheinlich, wenn eine CSU-Politikerin an der Staatsspitze steht. Persönlich überstand Aigner zwei Krebserkrankungen, als Kind und während ihrer Amtszeit als Bundesministerin. Zudem lebt sie als Single im Familienverbund."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Der Bundespräsident oder die Bundespräsidentin ist das Staatsoberhaupt der Bundesrepublik Deutschland. Zu den Aufgaben gehören die völkerrechtliche Vertretung des Landes und die formelle Ernennung von Regierungsmitgliedern. Das Amt ist überparteilich angelegt. Die Amtszeit beträgt fünf Jahre.",
-      "Die Wahl erfolgt durch die Bundesversammlung. Dieses Verfassungsorgan setzt sich aus den Mitgliedern des Deutschen Bundestages und Delegierten zusammen, die von den Landesparlamenten entsandt werden. Die Bundesversammlung tritt ausschließlich zur Wahl des Staatsoberhaupts zusammen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Aus den Reihen anderer Bundestagsparteien gibt es unterschiedliche Signale. Die Fraktionsvorsitzende der Grünen im Bundestag, Britta Haßelmann, bezeichnete Aigner laut Süddeutscher Zeitung als nahbar und zugewandt. Sie betonte, es sei richtig, dass nach 75 Jahren erstmals eine Frau das Amt übernehme. Zugleich kritisierte Haßelmann die Kandidatensuche von Kanzler Friedrich Merz und der Union als unprofessionell.",
-      "SPD-Parteichef Lars Klingbeil signalisierte nach Angaben der Süddeutschen Zeitung die Unterstützung seiner Partei. Er hob hervor, dass Aigner eine integrative Kraft besitze und bürgernah auftrete. Kritik äußerte die Fraktionsvorsitzende der Linken, Heidi Reichinnek. Sie forderte eine überparteiliche Kandidatur und kritisierte, das Amt werde zwischen Union und SPD als Versorgungsposten ausgehandelt."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Nach den Berichten soll die Nominierung von Ilse Aigner am Montag offiziell bekannt gegeben werden. Die Bundesversammlung tritt im Januar zusammen, um über die Nachfolge von Frank-Walter Steinmeier abzustimmen.",
-      "Sollten sich die Signale von SPD und Grünen bestätigen, gilt eine Mehrheit für Aigner in der Bundesversammlung als möglich."
+      "In der politischen Landschaft gab es laut taz breite Zustimmung für die Personalie. Demnach äußerten sich in den vergangenen Tagen zahlreiche Politikerinnen aus den Reihen von Union und SPD positiv über Ilse Aigner und bezeichneten sie als hervorragende Kandidatin. Auch von Seiten der Grünen gab es zustimmende Signale. Im Vorfeld der Entscheidung hatte es innerhalb der CDU vereinzelt Stimmen gegeben, die eine Juristin für das Amt gefordert hatten.",
+      "Kritik an dem Vorgehen der Parteiführung wurde ebenfalls laut. So äußerte sich nach Angaben des Deutschlandfunks der CDU-Politiker Roderich Kiesewetter kritisch über das Verhalten von Parteichef Friedrich Merz. Die taz beschreibt den Verlauf des internen Findungsprozesses ebenfalls als uneinheitlich, da Merz den CSU-Vorschlag nicht früher aufgegriffen habe."
      ]
     }
    ],
    "zeitleiste": [
-    [
-     "Sommer 2026",
-     "Bundeskanzler Friedrich Merz erklärt, er könne sich eine Frau im höchsten Staatsamt vorstellen."
-    ],
     [
      "2. November 2026",
      "Bundeskanzler Merz spricht sich bei der CDU-Kreisvorsitzendenkonferenz für eine weibliche Kandidatur aus."
@@ -2752,159 +2651,146 @@
     [
      "Januar",
      "Die Bundesversammlung wählt die neue Bundespräsidentin oder den neuen Bundespräsidenten."
+    ],
+    [
+     "April",
+     "CSU-Chef Markus Söder schlägt Ilse Aigner erstmals für das Amt der Bundespräsidentin vor."
+    ],
+    [
+     "Ende Oktober",
+     "Die CSU feiert Ilse Aigner auf ihrem Parteitag."
+    ],
+    [
+     "Kommender Montag",
+     "Die offizielle Bekanntgabe der Nominierung durch die CDU wird erwartet."
     ]
    ],
    "bilder": [
     {
      "art": "person",
      "suchbegriff": "Ilse Aigner",
-     "bildunterschrift": "Die bayerische Landtagspräsidentin Ilse Aigner soll nach dem Willen der Union neue Bundespräsidentin werden."
+     "bildunterschrift": "Ilse Aigner, die bayerische Landtagspräsidentin, soll laut Medienberichten für das Amt der Bundespräsidentin nominiert werden."
     },
     {
      "art": "person",
      "suchbegriff": "Friedrich Merz",
-     "bildunterschrift": "Bundeskanzler Friedrich Merz hat sich zur Kandidatur bisher nicht öffentlich geäußert."
+     "bildunterschrift": "CDU-Chef Friedrich Merz will sich nach einer Präsidiumssitzung zu der Personalie äußern."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Markus Söder",
+     "bildunterschrift": "CSU-Chef Markus Söder hatte Ilse Aigner bereits im April als Bundespräsidentin vorgeschlagen."
     },
     {
      "art": "institution",
-     "suchbegriff": "Bayerischer Landtag Maximilianeum",
-     "bildunterschrift": "Ilse Aigner ist seit 2018 Präsidentin des Bayerischen Landtags."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Schloss Bellevue",
-     "bildunterschrift": "Schloss Bellevue in Berlin ist der Amtssitz des deutschen Bundespräsidenten."
+     "suchbegriff": "Bavarian Landtag",
+     "bildunterschrift": "Der Bayerische Landtag, in dem Ilse Aigner als Präsidentin amtiert."
     }
    ],
    "ort": {
-    "name": "Berlin, Deutschland"
+    "name": "München, Deutschland"
    },
    "geprueft": true,
    "korrekturen": [
-    "Quelle Spiegel aus Quellenbelegen entfernt, da der Artikel hinter einer Bezahlschranke liegt und kein Text vorlag.",
-    "Roderich Kiesewetter und die angebliche Kritik im Deutschlandfunk gestrichen, da dies in den Quellen nicht vorkommt.",
-    "Unbelegte Jahres- und Datumsangaben (wie 2026, 2027 und genaue Tagesdaten) in Zeitleiste, W-Fragen und Text korrigiert oder entfernt.",
-    "Deutschlandfunk aus dem Einig-Punkt zur Stellungnahme von Merz entfernt, da der DLF-Beitrag Merz nicht erwähnt.",
-    "Aussagen Dritter konsequent als solche gekennzeichnet und wertende Begriffe neutralisiert."
+    "Unbelegte Datumsangaben im Jahr 2026 aus der Zeitleiste entfernt.",
+    "Spekulative Passagen und subjektive Wertungen zur Figur von Friedrich Merz aus dem Artikel entfernt."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
-      "Bundespräsident",
-      "Das Staatsoberhaupt der Bundesrepublik Deutschland. Die Person vertritt das Land nach außen und prüft Gesetze."
-     ],
-     [
-      "Bundesversammlung",
-      "Ein besonderes Verfassungsorgan in Deutschland, das nur zusammenkommt, um das Staatsoberhaupt zu wählen."
+      "Bundespräsidentin",
+      "Das ist das Staatsoberhaupt der Bundesrepublik Deutschland."
      ],
      [
       "Landtagspräsidentin",
-      "Die Person, die das Parlament eines Bundeslandes leitet und dessen Sitzungen moderiert."
+      "Das ist die Leiterin oder der Leiter des Parlaments in einem Bundesland."
+     ],
+     [
+      "Nominierung",
+      "Das ist die offizielle Benennung einer Person für ein wichtiges Amt oder eine Wahl."
      ]
     ],
     "fragen": [
-     "Warum ist die Nachfolge für das Amt des Staatsoberhaupts für mehrere Parteien von großer Bedeutung?",
-     "Welche Vor- und Nachteile hat es, wenn sich Parteien vor der eigentlichen Wahl auf eine gemeinsame Person einigen?"
+     "Welche Rolle spielen Medienberichte bei der Ankündigung von politischen Entscheidungen?",
+     "Warum ist es für Parteien wichtig, sich bei Personalfragen abzustimmen?"
     ],
     "quiz": [
      {
-      "frage": "Wer soll nach dem Willen der Union neue Bundespräsidentin werden?",
+      "frage": "Wer soll laut Medienberichten als Kandidatin der Union nominiert werden?",
       "optionen": [
-       "Britta Haßelmann",
        "Ilse Aigner",
-       "Heidi Reichinnek"
-      ],
-      "richtig": 1,
-      "erklaerung": "CDU und CSU haben sich darauf verständigt, Ilse Aigner für das Amt der Bundespräsidentin vorzuschlagen."
-     },
-     {
-      "frage": "Was wäre das Besondere an einer Wahl von Ilse Aigner?",
-      "optionen": [
-       "Sie wäre die jüngste Politikerin in diesem Amt",
-       "Sie wäre die erste Frau im Amt des Bundespräsidenten",
-       "Sie würde direkt vom Volk gewählt"
-      ],
-      "richtig": 1,
-      "erklaerung": "Mit Ilse Aigner würde erstmals in der Geschichte der Bundesrepublik eine Frau an die Spitze des Staates treten."
-     },
-     {
-      "frage": "In welchem Monat soll die Bundesversammlung das neue Staatsoberhaupt wählen?",
-      "optionen": [
-       "Januar",
-       "Juli",
-       "Oktober"
+       "Ines Claus",
+       "Frank-Walter Steinmeier"
       ],
       "richtig": 0,
-      "erklaerung": "Die Wahl durch die Bundesversammlung findet laut den Berichten im Januar statt."
+      "erklaerung": "Alle genannten Quellen berichten übereinstimmend, dass Ilse Aigner als Kandidatin nominiert werden soll."
+     },
+     {
+      "frage": "Wann wird die offizielle Bekanntgabe der Entscheidung erwartet?",
+      "optionen": [
+       "Am kommenden Montag",
+       "Am kommenden Mittwoch",
+       "Am nächsten Sonntag"
+      ],
+      "richtig": 0,
+      "erklaerung": "Deutschlandfunk und taz berichten übereinstimmend, dass die offizielle Bekanntgabe für den kommenden Montag erwartet wird."
+     },
+     {
+      "frage": "Wer hatte Ilse Aigner bereits im April zum ersten Mal vorgeschlagen?",
+      "optionen": [
+       "Die CDU",
+       "Die CSU",
+       "Die SPD"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Deutschlandfunk und taz hatte der CSU-Chef Markus Söder Aigner bereits im April zum ersten Mal vorgeschlagen."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Die Parteien CDU und CSU wollen, dass Ilse Aigner die neue Bundespräsidentin wird. Wenn sie gewählt wird, ist sie die erste Frau in diesem Amt.",
+    "vorspann": "Die Parteien CDU und CSU wollen Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin aufstellen.",
     "absaetze": [
-     "Ilse Aigner gehört zur Partei CSU. Sie leitet seit einigen Jahren das Parlament in Bayern. Früher war sie auch Ministerin in der Bundesregierung.",
-     "Im Januar wählt die Bundesversammlung das deutsche Staatsoberhaupt. Die Bundesversammlung ist eine Versammlung, die nur für diese Wahl zusammenkommt.",
-     "Auch Politiker von den Grünen und der SPD finden den Vorschlag gut. Sie wollen Aigner bei der Wahl unterstützen.",
-     "Kritik kommt von der Partei Die Linke. Sie findet, die Kandidatur hätte überparteilich bestimmt werden müssen."
+     "Das berichten übereinstimmende Medien.",
+     "Ilse Aigner ist derzeit Landtagspräsidentin in Bayern.",
+     "Sie könnte damit die erste Bundespräsidentin in Deutschland werden.",
+     "Die offizielle Bekanntgabe wird für den kommenden Montag erwartet.",
+     "Die CSU hatte sie bereits im April vorgeschlagen."
     ]
    },
    "video": {
     "kurz": [
-     "Die Union hat sich auf Ilse Aigner als Kandidatin für das Bundespräsidentenamt geeinigt.",
-     "Die bayerische Landtagspräsidentin wäre die erste Frau an der Spitze des deutschen Staates.",
-     "Auch SPD und Grüne signalisierten Unterstützung für den Vorschlag.",
-     "Die Bundesversammlung wählt im Januar das neue Staatsoberhaupt."
+     "Ilse Aigner soll nach Medienberichten als Kandidatin der Union für das Amt der Bundespräsidentin nominiert werden.",
+     "Die CSU hatte die bayerische Landtagspräsidentin bereits im April vorgeschlagen.",
+     "Eine offizielle Bekanntgabe wird für den kommenden Montag erwartet."
     ],
     "lang": [
-     "Die Unionsparteien haben sich auf eine Kandidatin für das Amt des Bundespräsidenten verständigt.",
-     "Die bayerische Landtagspräsidentin Ilse Aigner soll die Nachfolge von Frank-Walter Steinmeier antreten.",
-     "Dies berichteten mehrere Medien übereinstimmend.",
-     "Eine offizielle Bekanntgabe durch CDU und CSU wird für den kommenden Montag erwartet.",
-     "Die einundsechzig Jahre alte CSU-Politikerin wäre die erste Frau in diesem höchsten Staatsamt.",
-     "Aus den Reihen von SPD und Grünen gab es bereits positive Signale für ihre Kandidatur.",
-     "Die Fraktionschefin der Linken, Heidi Reichinnek, kritisierte das Verfahren hingegen als parteipolitische Absprache.",
-     "Die Bundesversammlung tritt im Januar zusammen, um das neue Staatsoberhaupt zu wählen."
+     "Die Parteien CDU und CSU wollen Ilse Aigner Medienberichten zufolge als Kandidatin für das Amt der Bundespräsidentin aufstellen.",
+     "Das gaben verschiedene Medien übereinstimmend bekannt.",
+     "Ilse Aigner arbeitet derzeit als bayerische Landtagspräsidentin.",
+     "Sollte sie gewählt werden, wäre sie die erste Frau in diesem Amt.",
+     "Die CSU hatte diesen Vorschlag bereits im April gemacht.",
+     "Die offizielle Bekanntgabe wird für den kommenden Montag erwartet.",
+     "Zu dem Findungsprozess gab es in der Partei unterschiedliche Ansichten und Kritik.",
+     "Die CDU besitzt als stärkste Kraft das formale Vorschlagsrecht.",
+     "Wie die Entscheidung im Detail umgesetzt wird, ist am kommenden Montag nach einer Sitzung des Präsidiums klar."
     ],
     "einfach": [
-     "Die Parteien CDU und CSU schlagen Ilse Aigner vor.",
-     "Sie soll die neue Bundespräsidentin von Deutschland werden.",
-     "Sie wäre die erste Frau in diesem Amt.",
-     "Auch andere Parteien wollen für sie stimmen.",
-     "Die Wahl findet im Januar statt."
+     "Die Parteien CDU und CSU planen eine neue Kandidatin für Deutschland.",
+     "Ilse Aigner soll Bundespräsidentin werden.",
+     "Sie arbeitet derzeit als Landtagspräsidentin in Bayern.",
+     "Die offizielle Bekanntgabe ist für den kommenden Montag geplant.",
+     "Es wäre die erste Bundespräsidentin in der Geschichte des Landes."
     ]
    },
    "kurz": [
-    "CDU und CSU schlagen Ilse Aigner als Bundespräsidentin vor.",
-    "Aigner wäre die erste Frau an der Spitze der Bundesrepublik.",
-    "SPD und Grüne signalisieren Zustimmung, die Linke übt Kritik.",
-    "Die Wahl in der Bundesversammlung findet im Januar statt."
-   ],
-   "fakten": [
-    [
-     "Alter von Ilse Aigner",
-     "61 Jahre"
-    ],
-    [
-     "Einzug in den bayerischen Landtag",
-     "1994 im Alter von 29 Jahren"
-    ],
-    [
-     "Mitglied im Landtag",
-     "Seit 2013"
-    ],
-    [
-     "Landtagspräsidentin in Bayern",
-     "Seit 2018"
-    ],
-    [
-     "Wahltermin der Bundesversammlung",
-     "Januar"
-    ]
+    "Ilse Aigner soll laut Medienberichten gemeinsame Kandidatin der Union für das Amt der Bundespräsidentin werden.",
+    "Die CSU hatte die bayerische Landtagspräsidentin bereits im April zum ersten Mal vorgeschlagen.",
+    "Eine offizielle Bekanntgabe der Entscheidung wird für den kommenden Montag erwartet."
    ],
    "dossier": {
-    "slug": "bundespraesidenten-wahl",
-    "titel": "Wahl zum Bundespräsidenten"
+    "slug": "bundespraesidentenwahl-union",
+    "titel": "Bundespräsidentenwahl in Deutschland"
    },
    "bildInfo": {
     "titel": "2023-10-08 Wahlabend Bayern by Sandro Halank–002.jpg",
@@ -2971,163 +2857,109 @@
     }
    ],
    "ortInfo": {
-    "name": "Berlin, Deutschland",
-    "lat": 52.517,
-    "lon": 13.395
+    "name": "München, Deutschland",
+    "lat": 48.137,
+    "lon": 11.575
    },
-   "version": 5,
-   "bildVersucht": true
+   "version": 5
   },
   {
    "id": "midterms-usa",
    "rubrik": "Welt",
-   "zeit": "2026-11-07T08:40:13.000Z",
-   "aktualisiert": "aktualisiert um 09:41 Uhr",
-   "titel": "Donald Trump ernennt Stephen Miller zum neuen Stabschef des Weißen Hauses",
-   "vorspann": "Nach den Zwischenwahlen in den Vereinigten Staaten wechselt die Leitung im Präsidialamt von Susie Wiles zu Stephen Miller. Die Personalentscheidung stößt bei der Opposition und Teilen der Republikanischen Partei auf deutliche Kritik.",
+   "zeit": "2026-11-07T20:06:23.000Z",
+   "aktualisiert": "aktualisiert um 21:11 Uhr",
+   "titel": "Personalwechsel im Weißen Haus nach Kongresswahlen",
+   "vorspann": "Nach den Kongresswahlen in den Vereinigten Staaten ersetzt US-Präsident Donald Trump seine bisherige Stabschefin Susie Wiles durch Stephen Miller. Der bisherige Stellvertreter gilt als Verfechter einer harten Einwanderungspolitik.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "US-Präsident Donald Trump hat Stephen Miller zum neuen Stabschef des Weißen Hauses ernannt. Miller folgt auf Susie Wiles, die das Amt nach den Zwischenwahlen verlässt.",
-    "Miller arbeitet seit mehr als zehn Jahren für Trump und gilt als wesentlicher Gestalter seiner restriktiven Einwanderungspolitik.",
-    "Vertreter der Demokraten sowie einzelne Republikaner kritisieren die Ernennung. Sie werten die Personalie als Signal gegen eine Zusammenarbeit mit dem Kongress.",
-    "Miller vertritt seit Jahren weitreichende Positionen zur Ausweitung präsidialer Machtbefugnisse und fordert unter anderem ein Ende des Geburtsortprinzips."
+    "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles ausgetauscht.",
+    "Als Nachfolger übernimmt der bisherige Stellvertreter Stephen Miller den Posten des Stabschefs im Weißen Haus.",
+    "Die Personalie folgt auf Verluste der Republikanischen Partei bei den Zwischenwahlen im Kongress.",
+    "Während Trump den Wechsel begründete, reagierten die oppositionellen Demokraten mit Kritik."
    ],
    "einig": [
     [
-     "Susie Wiles scheidet aus dem Amt der Stabschefin aus und Stephen Miller übernimmt die Nachfolge.",
+     "Donald Trump hat Susie Wiles als Stabschefin abgelöst und durch Stephen Miller ersetzt.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
       "Deutschlandfunk",
-      "Süddeutsche Zeitung"
+      "FAZ",
+      "Deutsche Welle",
+      "NZZ"
      ]
     ],
     [
-     "Die Neubesetzung erfolgt im direkten zeitlichen Zusammenhang mit den Verlusten der Republikaner bei den Zwischenwahlen.",
+     "Die Republikanische Partei verlor bei den Kongresswahlen ihre Mehrheiten.",
      [
-      "Tagesschau/ARD",
-      "ZDFheute",
       "Deutschlandfunk",
-      "Süddeutsche Zeitung"
+      "FAZ",
+      "Deutsche Welle",
+      "NZZ"
      ]
     ],
     [
-     "Stephen Miller war zuvor stellvertretender Stabschef und lenkte maßgeblich die Migrationspolitik von Donald Trump.",
+     "Stephen Miller ist 41 Jahre alt und vertritt eine harte Linie in der Einwanderungspolitik.",
      [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Miller gilt als politischer Hardliner im engen Umfeld von Donald Trump.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
+      "FAZ",
+      "Deutsche Welle",
+      "NZZ"
      ]
     ]
    ],
    "unklar": [
-    "Ob Susie Wiles von Präsident Trump entlassen wurde oder ihren Rücktritt einreichte (Deutschlandfunk meldet eine Entlassung, ZDFheute spricht von Verlassen des Amts, Tagesschau/ARD verweist auf Medienberichte über Verantwortungszuschreibungen durch Trump)."
+    "Ob es zu weiteren Kabinettsumbildungen kommen wird, ließ Donald Trump laut NZZ offen."
    ],
    "positionen": [
     [
      "Donald Trump (US-Präsident)",
-     "Erklärte gegenüber Reportern, er habe schlicht einen personellen Wechsel gewollt.",
-     "Tagesschau/ARD"
+     "Begründete den Personalwechsel mit dem Wunsch nach einer Veränderung und lobte Miller als loyalen Berater.",
+     "FAZ, Deutsche Welle, NZZ"
     ],
     [
-     "Adam Smith (Demokratischer Abgeordneter)",
-     "Kritisierte die Berufung als Beleg dafür, dass Trump die Wahlniederlage und die Kritik an extremen Maßnahmen nicht verstanden habe.",
-     "Tagesschau/ARD"
+     "Chuck Schumer (Demokratischer Politiker)",
+     "Kritisierte Miller als Architekten von Maßnahmen der Regierung und kündigte Widerstand an.",
+     "FAZ, Deutsche Welle"
     ],
     [
-     "Don Bacon (Republikanischer Abgeordneter)",
-     "Bezeichnete die Entscheidung als unklug und machte Millers Abschiebepolitik für Niederlagen in Bundesstaaten wie Texas, Arizona und Florida mitverantwortlich.",
-     "Tagesschau/ARD"
+     "Hakeem Jeffries (Demokratischer Fraktionschef)",
+     "Kritisierte Miller als extremen Politiker.",
+     "Deutsche Welle"
     ],
     [
-     "Thom Tillis (Republikanischer Senator)",
-     "Bezeichnete die Personalentscheidung für Miller als die schlechteste aller denkbaren Entscheidungen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Chris Whipple (Publizist)",
-     "Wertete die Ernennung von Miller als Warnschuss an den künftigen Kongress und als Absage an eine Zusammenarbeit.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Matthew Barlett (Ehemaliger Regierungsmitarbeiter)",
-     "Bezeichnete Millers Arbeitsweise als äußerst effektiv und hob dessen Kommunikationstalent hervor.",
-     "ZDFheute"
-    ],
-    [
-     "David Glosser (Onkel von Stephen Miller)",
-     "Kritisierte 2018 die Haltung seines Neffen und verwies darauf, dass die eigene Familie ohne Zuflucht in den USA Verfolgung nicht entkommen wäre.",
-     "ZDFheute"
+     "Stephen Miller (Neuer Stabschef)",
+     "Betonte seine Entschlossenheit, den Präsidenten und die Republik zu verteidigen.",
+     "FAZ, NZZ"
     ]
    ],
-   "fehlend": "Eine direkte öffentliche Stellungnahme von Stephen Miller oder Susie Wiles zur aktuellen Personalentscheidung.",
+   "fehlend": "Stellungnahmen von Susie Wiles abseits ihres Dankes.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "07.11.26, 05:19",
-     "fokus": "Reaktionen aus dem Kongress",
-     "text": "Der Bericht stellt die parlamentarischen Reaktionen ins Zentrum. Er zitiert kritische Stimmen aus beiden US-Parteien zur Ernennung.",
-     "url": "https://www.tagesschau.de/ausland/amerika/trump-miller-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 490,
-      "satzlaenge": 21,
-      "langeWoerter": 30
-     },
+     "datum": "07.11.26, 20:26",
+     "fokus": "–",
+     "text": "Stephen Miller wird Trumps neuer Stabschef",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1680032.html",
+     "video": true,
+     "lesbar": null,
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
      "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "06.11.26, 22:10",
-     "fokus": "Porträt und Werdegang Millers",
-     "text": "Die Quelle beleuchtet ausführlich den Werdegang Millers, seine Rolle in der Migrationspolitik und die Aufgaben eines Stabschefs.",
-     "url": "https://www.zdfheute.de/politik/ausland/usa-midterms-susie-wiles-stephen-miller-trump-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 772,
-      "satzlaenge": 16,
-      "langeWoerter": 35
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
     },
     {
      "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "07.11.26, 09:40",
-     "fokus": "Kurzmeldung zum Führungswechsel",
-     "text": "Die Meldung fasst die Entlassung von Susie Wiles und die Neubesetzung durch Miller kompakt zusammen. Der politische Machtwechsel im Kongress wird als Auslöser genannt.",
+     "datum": "07.11.26, 21:06",
+     "fokus": "–",
+     "text": "US-Präsident Trump hat nach dem Verlust der Mehrheiten seiner Partei im Kongress seine Stabschefin Susie Wiles entlassen.",
      "url": "https://www.deutschlandfunk.de/trump-rueckt-rechten-hardliner-stephen-miller-ins-zentrum-des-machtzirkels-100.html",
      "video": false,
      "lesbar": null,
@@ -3136,131 +2968,138 @@
      "publikumWert": null
     },
     {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
+     "name": "FAZ",
+     "typ": "Tageszeitung",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "07.11.26, 07:35",
-     "fokus": "Kein Volltext abrufbar",
-     "text": "Der Artikel war zum Zeitpunkt der Recherche durch eine Bezahlschranke gesperrt und enthielt keinen verwertbaren Textkörper.",
-     "url": "https://www.spiegel.de/ausland/personalie-stephen-miller-donald-trump-setzt-auf-angst-a-e8532d64-f89b-4945-a825-d20f03e0d8fe#ref=rss",
+     "datum": "07.11.26, 05:04",
+     "fokus": "Hintergründe und interne Konflikte",
+     "text": "Die FAZ beleuchtet die Vorgeschichte, interne Reibungen zwischen Wiles und Miller sowie Reaktionen.",
+     "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/warum-trump-miller-als-neuen-stabschef-will-accg-201660644.html",
      "video": false,
      "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 8,
-      "minuten": 1,
-      "woerter": 126,
-      "satzlaenge": 14,
-      "langeWoerter": 30
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 635,
+      "satzlaenge": 17,
+      "langeWoerter": 31
      },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     },
     {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
      "stamm": true,
-     "datum": "07.11.26, 06:24",
-     "fokus": "Rolle in der Migrationspolitik",
-     "text": "Der Artikel ordnet Millers Beförderung kritisch als Reaktion auf die Zwischenwahlen ein und hebt dessen harte Linie bei Abschiebungen hervor.",
-     "url": "https://www.sueddeutsche.de/politik/midterms-niederlage-republikaner-einwanderung-ice-susie-wiles-demokraten-li.3575293",
+     "datum": "07.11.26, 11:24",
+     "fokus": "Auswirkungen auf das Parteiengefüge",
+     "text": "Die Deutsche Welle betont den Konfrontationskurs zu den Demokraten und zitiert deren führende Politiker.",
+     "url": "https://www.dw.com/de/trump-setzt-stabschefin-des-weißen-hauses-vor-die-tür/a-79883871?maca=de-rss-de-all-1119-rdf",
      "video": false,
      "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 8,
-      "minuten": 1,
-      "woerter": 129,
-      "satzlaenge": 14,
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 371,
+      "satzlaenge": 16,
+      "langeWoerter": 35
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    },
+    {
+     "name": "NZZ",
+     "typ": "Tageszeitung (Schweiz)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "07.11.26, 15:37",
+     "fokus": "Politische Einordnung und Biografie",
+     "text": "Die NZZ analysiert Millers Rolle im innersten Zirkel und seine Einmischungen in andere Ministerien.",
+     "url": "https://www.nzz.ch/international/kurz-nach-den-midterms-ernennt-trump-einen-neuen-stabschef-die-personalie-ist-ein-signal-an-freund-und-feind-ld.10056838",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 843,
+      "satzlaenge": 18,
       "langeWoerter": 31
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Darstellung des Ausscheidens von Susie Wiles",
-     "Deutschlandfunk berichtet von einer Entlassung durch Donald Trump, Tagesschau/ARD erwähnt Verantwortungszuschreibungen Trumps laut Medien, ZDFheute spricht neutral vom Verlassen des Weißen Hauses."
-    ],
-    [
-     "Biografischer Tiefgang zu Stephen Miller",
-     "ZDFheute beleuchtet detailliert Jugend, Familie und Werdegang Millers, während Tagesschau/ARD und Süddeutsche Zeitung vor allem seine politische Rolle und Reaktionen fokussieren."
+     "Fokus auf interne Abläufe",
+     "Die FAZ und die NZZ berichten detailliert über angebliche Streitpunkte zwischen Wiles und Miller sowie Millers Auftreten in anderen Ministerien, während andere Quellen sich stärker auf die offizielle Bekanntgabe konzentrieren."
     ]
    ],
    "wfragen": {
-    "wer": "US-Präsident Donald Trump, der Stephen Miller zum neuen Stabschef ernennt, sowie Susie Wiles",
-    "was": "Ernennung von Stephen Miller zum Stabschef des Weißen Hauses und Ablösung von Susie Wiles",
-    "wann": "November 2026",
-    "wo": "Washington, D.C., Vereinigte Staaten",
-    "wie": "Beförderung des bisherigen stellvertretenden Stabschefs Miller an die Spitze des Präsidialamtes",
-    "warum": "Laut Donald Trump Wunsch nach einem personellen Wechsel nach den Zwischenwahlen",
-    "quellenlage": "Berichte deutscher öffentlich-rechtlicher Medien und überregionaler Zeitungen"
+    "wer": "US-Präsident Donald Trump",
+    "was": "Ernennung von Stephen Miller zum neuen Stabschef",
+    "wann": "November",
+    "wo": "Washington, Vereinigte Staaten",
+    "wie": "Durch Austausch der bisherigen Stabschefin Susie Wiles",
+    "warum": "Laut Trump der Wunsch nach einer Veränderung nach den Kongresswahlen",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, FAZ, Deutsche Welle und NZZ"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "US-Präsident Donald Trump hat Stephen Miller zum neuen Stabschef des Weißen Hauses ernannt. Miller tritt die Nachfolge von Susie Wiles an, die als erste Frau dieses Amt ausgeübt hatte und den Regierungsalltag leitete. Trump erklärte Reportern gegenüber kurz, dass er einfach einen personellen Wechsel gewollt habe. Laut Medienberichten rechnete der Präsident Wiles zu den Mitarbeitenden, die er für das Abschneiden seiner Partei bei den jüngsten Zwischenwahlen verantwortlich machte. Miller war zuvor als stellvertretender Stabschef und als Berater des Präsidenten für innere Sicherheit tätig.",
-      "Die Personalentscheidung folgt auf die US-Zwischenwahlen, bei denen die Republikanische Partei schwere Verluste hinnehmen musste. Der Deutschlandfunk berichtete, dass die Partei Trumps ihre Mehrheiten im US-Kongress verloren habe. Miller gilt als langjähriger politischer Begleiter Trumps und als Verfechter einer restriktiven Migrationspolitik. Vor seiner Beförderung war er einer der einflussreichsten Berater im administrativen Bereich des Präsidialamtes. Mit der neuen Funktion übernimmt er nun formell die Steuerung des gesamten Regierungsapparates.",
-      "Die Neubesetzung löste in der politischen Landschaft Washingtons umfangreiche Debatten aus. Politiker der Demokratischen Partei sowie mehrere Mitglieder der Republikanischen Partei bewerteten die Wahl Millers kritisch. Miller arbeitet seit mehr als zehn Jahren für Donald Trump und gilt als Verfechter des sogenannten America-First-Kurses. Seine Ernennung gilt politischen Beobachtern als Zeichen dafür, wie das Präsidialamt künftig mit dem Kongress interagieren wird."
+      "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles durch Stephen Miller ersetzt. Der Wechsel findet in einer Phase statt, in der die Republikanische Partei bei den Zwischenwahlen im Kongress Verluste verzeichnen musste.",
+      "Die Entscheidung wurde von US-Präsident Donald Trump öffentlich bekannt gegeben. Susie Wiles reichte ihren Rücktritt laut Medienberichten am Donnerstagabend ein.",
+      "Der neue Stabschef Stephen Miller arbeitete bislang als Stellvertreter von Wiles. Er gehört seit dem Präsidentschaftswahlkampf im Jahr 2016 zum Kreis der Berater des Präsidenten."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Stephen Miller wuchs im kalifornischen Santa Monica in einer jüdischen Familie auf. Während sein persönliches Umfeld liberal geprägt war, entwickelte er früh konservative politische Standpunkte. Nach seinem Universitätsstudium trat er eine Stelle bei dem migrationskritischen republikanischen Senator Jeff Sessions an. Bei Sessions sammelte er politische Erfahrungen und baute Kontakte auf, die ihn im Jahr 2016 in die Wahlkampforganisation von Donald Trump führten. Seitdem gehörte Miller als Redenschreiber und Politikberater zu den ständigen Mitarbeitern Trumps.",
-      "Miller verbrachte die Regierungszeit von Präsident Joe Biden damit, strategische Grundlagen für eine Rückkehr Trumps ins Präsidialamt vorzubereiten. Laut Berichten von ZDFheute war er als Mitautor an Konzepten wie dem Project 2025 beteiligt. Matthew Barlett, ein früherer Mitarbeiter der ersten Administration Trumps, bezeichnete Millers Arbeitsweise gegenüber ZDFheute als äußerst effektiv. Barlett hob dabei insbesondere dessen Fähigkeit hervor, politische Botschaften über öffentliche Medien zu vermitteln. Gleichzeitig gilt Miller in politischen Kreisen als Hardliner im Umgang mit gegnerischen Positionen.",
-      "In der Vergangenheit fiel Miller wiederholt durch weitreichende weltpolitische und gesellschaftliche Ansichten auf. Tagesschau/ARD verwies auf ein CNN-Interview aus dem Januar, in dem er behauptete, Grönland stehe den Vereinigten Staaten zu. In demselben Gespräch erklärte Miller, er glaube nicht an eine regelbasierte Weltordnung, sondern betrachte Stärke, Gewalt und Macht als bestimmende Faktoren der Geschichte. ZDFheute berichtete zudem über Äußerungen Millers aus dem Juli 2026, in denen er linke Demonstranten pauschal beschrieb und politischen Gegnern Neid sowie das Ziel der Unterdrückung zuschrieb."
+      "Stephen Miller ist 41 Jahre alt und gilt als Verfechter der Migrationspolitik der Regierung. Laut Berichten der FAZ und der NZZ war er an den Einsätzen der Einwanderungspolizei beteiligt.",
+      "Die bisherige Stabschefin Susie Wiles war im Vorfeld der Kongresswahlen für die Wahlkampfstrategie verantwortlich gewesen. Laut NZZ und FAZ gab es Meinungsverschiedenheiten zwischen Wiles und Miller.",
+      "Die NZZ und die FAZ berichten zudem, dass Miller in der Regierungsbürokratie intern umstritten ist und sich in der Vergangenheit in die Arbeit anderer Ministerien eingemischt haben soll."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Stephen Miller war in der ersten Amtszeit von Donald Trump federführend an Maßnahmen der Zuwanderungspolitik beteiligt. Unter seiner Leitung setzte die Regierung ein Verfahren durch, bei dem an der Grenze Tausende Kinder von ihren Eltern getrennt wurden, was international auf Kritik stieß. Auch in der aktuellen Amtszeit vertritt er eine kompromisslose Ausrichtung in Zuwanderungsfragen. Nach Angaben von ZDFheute und der Süddeutschen Zeitung treibt Miller Verhaftungen und Abschiebungen von Migranten ohne gültige Einreisepapiere maßgeblich voran. Zehntausende Personen befinden sich laut ZDFheute in Einrichtungen der US-Einwanderungsbehörde ICE.",
-      "Zu den erklärten Zielen Millers zählt die Abschaffung des Geburtsortprinzips, das Kindern bei der Geburt in den USA die Staatsbürgerschaft garantiert. Dieses Prinzip ist seit über 150 Jahren im 14. Zusatzartikel der Verfassung der Vereinigten Staaten verankert. ZDFheute verwies zudem darauf, dass Kritiker an Widersprüche in Millers eigener Familiengeschichte erinnern. Sein Onkel David Glosser hatte 2018 öffentlich erklärt, dass die jüdischen Vorfahren der Familie vor Verfolgung aus dem Russischen Reich flohen. Ohne die damaligen Zuwanderungsgesetze der USA hätte die Familie laut Glossers damaligen Worten nicht überleben können.",
-      "Als Anlass für den Wechsel an der Spitze des Stabes gelten die Ergebnisse der Zwischenwahlen. Die Republikaner mussten dabei empfindliche Stimmenverluste hinnehmen. Nach Ausführungen der Süddeutschen Zeitung sowie von Tagesschau/ARD und ZDFheute begann nach dem Wahltag eine parteiinterne Auseinandersetzung über die inhaltliche Ausrichtung. Susie Wiles hatte zuvor den Regierungsalltag strukturiert, war jedoch laut ZDFheute durch Berichte über interne Äußerungen und das Wahlergebnis politisch unter Druck geraten."
+      "Die Republikanische Partei musste bei den Zwischenwahlen im Kongress Verluste hinnehmen. Laut Berichten von FAZ und Deutscher Welle verloren die Republikaner ihre Mehrheiten, während die Demokratische Partei Sitze hinzugewann.",
+      "Susie Wiles leitete als Ko-Wahlkampfmanagerin den Wahlkampf. Sie galt laut FAZ und NZZ als Kraft für die Abläufe im Weißen Haus und vertrat moderatere Ansichten in der Migrationspolitik.",
+      "Stephen Miller wuchs in Kalifornien an der Westküste der Vereinigten Staaten auf und studierte Politikwissenschaften an der Duke University in North Carolina."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Das Amt des Stabschefs des Weißen Hauses gehört zu den einflussreichsten Positionen im Regierungssystem der Vereinigten Staaten. Die Person an der Spitze dieses Amtes leitet das administrative Präsidialamt und organisiert die internen Abläufe. Zu den Aufgaben gehören die Steuerung des Personals, die Koordination zwischen Ministerien und Behörden sowie die Aufsicht über die Termine des Präsidenten. Der Stabschef entscheidet maßgeblich mit darüber, welche Berichte, Personen und Gesetzesinitiativen dem Präsidenten vorgelegt werden.",
-      "Die Arbeit findet überwiegend im sogenannten West Wing statt, dem administrativen Flügel des Weißen Hauses, in dem auch das Arbeitszimmer des Präsidenten liegt. Der Stabschef arbeitet regelmäßig mit den beiden Kammern des Kongresses zusammen, um Mehrheiten für Regierungsvorhaben zu organisieren. Das Geburtsortsprinzip ist ein weiterer grundlegender Rechtsbegriff im US-Rechtssystem. Es besagt, dass auf US-amerikanischem Staatsgebiet geborene Kinder die Staatsbürgerschaft des Landes erhalten."
+      "Der Stabschef des Weißen Housed ist der ranghöchste Mitarbeiter in der Präsidialbehörde. Der Amtsinhaber koordiniert die organisatorischen Abläufe im Regierungsapparat und kontrolliert den direkten Zugang zum Präsidenten.",
+      "Die Kongresswahlen in den Vereinigten Staaten finden zur Mitte einer Präsidentschaft statt und werden als Zwischenwahlen bezeichnet. Dabei werden Sitze im Repräsentantenhaus und im Senat neu vergeben."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Aus der Demokratischen Partei gab es ablehnende Reaktionen auf die Personalie. Der demokratische Abgeordnete Adam Smith erklärte, Trump habe die Ablehnung seiner Politik durch die Wählerschaft nicht verstanden. Dass der Präsident nun einen seiner kämpferischsten Befürworter extremer Maßnahmen berufe, zeige Smith zufolge, dass Trump aus der Wahl keine Lehren gezogen habe. Der Publizist Chris Whipple bewertete Millers Berufung beim Sender CNN als deutlichen Warnschuss in Richtung des Kongresses. Seiner Ansicht nach bedeute die Entscheidung, dass Trump keine Zusammenarbeit mit der Opposition anstrebe.",
-      "Auch innerhalb der Republikanischen Partei stieß der Schritt auf Widerspruch. Der republikanische Kongressabgeordnete Don Bacon sagte im Sender ABC, Millers Abschiebepolitik sei für den Verlust von Wählerstimmen mitverantwortlich. Das Vorgehen gegen Migranten, die viele Bürger nicht abschieben wollten, sei in Bundesstaaten wie Texas, Arizona und Florida wahlentscheidend gewesen. Bacon bezeichnete die Ernennung daher als unklug. Der republikanische Senator Thom Tillis bewertete die Entscheidung Trumps laut Tagesschau/ARD als schlechteste aller denkbaren Möglichkeiten."
+      "US-Präsident Donald Trump erklärte nach Angaben der FAZ und der NZZ zu der Personalie, er habe eine Veränderung gewollt. Zudem pries Trump Miller laut Deutscher Welle als einen seiner vertrauenswürdigsten Berater.",
+      "Die Demokratische Partei kritisierte die Ernennung von Stephen Miller. Der demokratische Politiker Chuck Schumer bezeichnete Miller laut Deutscher Welle und FAZ als Architekten von Maßnahmen der Regierung. Der Fraktionschef Hakeem Jeffries nannte Miller laut Deutscher Welle einen Extremisten.",
+      "Stephen Miller selbst äußerte sich auf der Plattform X zu seiner neuen Aufgabe. Er bezeichnete Donald Trump laut FAZ und NZZ als transformativsten Präsidenten der amerikanischen Geschichte und kündigte an, für die Verteidigung der Republik zu kämpfen."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Nach der Bestätigung des Wechsels bereitet sich das Weiße Haus auf die Arbeit mit den veränderten Mehrheiten im Kongress vor. Die oppositionellen Demokraten stellen nach dem Wahlausgang eine parlamentarische Mehrheit dar. ZDFheute-Korrespondent Elmar Theveßen ordnete ein, dass der Präsident mit der Ernennung Millers die Weichen für einen weiteren Konfrontationskurs gestellt habe. Beobachter erwarten, dass die künftige Gesetzgebung durch Konflikte und den möglichen Einsatz präsidialer Vetos geprägt sein wird.",
-      "Zugleich kündigen sich rechtliche Auseinandersetzungen über geplante migrationspolitische Maßnahmen an. Rechtsexperten verweisen laut Bericht von ZDFheute darauf, dass einige Vorhaben wie der Vorstoß gegen das Geburtsortprinzip verfassungsrechtlich umstritten sind. Miller und sein Team beabsichtigen dennoch, die Befugnisse des Präsidentenamtes maximal auszuschöpfen. In den kommenden Monaten wird sich zeigen, inwieweit die Kongressfraktionen und die Bundesgerichte den Vorhaben der Administration Schranken setzen werden."
+      "Nach dem Wechsel an der Spitze des Stabes stellen sich die Regierung und die Demokraten auf eine konfrontative Phase ein. Da die Demokraten die Mehrheiten im Kongress errungen haben, kündigten sie Untersuchungen gegen die Regierung an. US-Präsident Donald Trump schloss in einem Interview mit dem Sender CBS zudem nicht aus, dass es zu weiteren Kabinettsveränderungen kommen könnte."
      ]
     }
    ],
    "zeitleiste": [
-    [
-     "Wahlabend",
-     "Donald Trump kündigt laut Deutscher Welle an, die Zwischenwahlergebnisse anzuerkennen, aber von seinem Vetorecht Gebrauch machen zu wollen."
-    ],
-    [
-     "Nach Auszählungsstand",
-     "Deutsche Welle meldet 54 Senatssitze und 228 Sitze im Repräsentantenhaus für die Demokraten."
-    ],
-    [
-     "Nach der Wahl",
-     "Tagesschau/ARD analysiert die innenpolitische Schwächung von Donald Trump und die Folgen für die US-Außenpolitik."
-    ],
     [
      "2026-11-03",
      "Die Zwischenwahlen in den Vereinigten Staaten finden statt."
@@ -3296,151 +3135,150 @@
     [
      "07.11.2026",
      "Medien und Kongressmitglieder aus beiden Parteien äußern sich öffentlich zur Neubesetzung des Stabschefs."
+    ],
+    [
+     "2016",
+     "Stephen Miller schließt sich dem Präsidentschaftswahlkampf von Donald Trump an."
+    ],
+    [
+     "2020",
+     "Susie Wiles beginnt nach der damaligen Wahl für Trump zu arbeiten."
+    ],
+    [
+     "November",
+     "Die Zwischenwahlen in den Vereinigten Staaten finden statt und Susie Wiles reicht ihren Rücktritt ein."
     ]
    ],
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Stephen Miller",
-     "bildunterschrift": "Stephen Miller wurde von Donald Trump zum neuen Stabschef des Weißen Hauses ernannt."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Susie Wiles",
-     "bildunterschrift": "Susie Wiles leitete zuvor als erste Frau das Amt der Stabschefin im US-Präsidialamt."
+     "suchbegriff": "Stephen Miller political advisor",
+     "bildunterschrift": "Stephen Miller ist der neue Stabschef des Weißen Housed."
     },
     {
      "art": "person",
      "suchbegriff": "Donald Trump",
-     "bildunterschrift": "US-Präsident Donald Trump entschied sich nach den Zwischenwahlen für eine personelle Umbesetzung."
+     "bildunterschrift": "US-Präsident Donald Trump traf die Entscheidung über den Personalwechsel."
+    },
+    {
+     "art": "keins",
+     "suchbegriff": "",
+     "bildunterschrift": "Das Weiße Haus in Washington ist der Amtssitz des US-Präsidenten."
     },
     {
      "art": "institution",
-     "suchbegriff": "White House West Wing",
-     "bildunterschrift": "Der West Wing des Weißen Hauses beherbergt die Büros des Stabschefs und des US-Präsidenten."
+     "suchbegriff": "United States Capitol",
+     "bildunterschrift": "Das US-Kapitol ist der Tagungsort des Kongresses."
     }
    ],
    "ort": {
-    "name": "Washington, D.C., Vereinigte Staaten"
+    "name": "Washington, Vereinigte Staaten"
    },
    "geprueft": true,
    "korrekturen": [
-    "In 'medien' wurde die Spiegel-Quelle korrigiert, da der Artikel hinter einer Paywall lag und der Textkörper nicht abrufbar war.",
-    "Im vierten Punkt unter 'einig' wurden Deutschlandfunk und Süddeutsche Zeitung entfernt, da die Kombination aus langjährig, loyal und Hardliner nur in Tagesschau/ARD und ZDFheute belegt ist.",
-    "In der 'zeitleiste' wurde das nicht belegte Datum '03.11.2026' neutral durch 'November 2026' ersetzt.",
-    "Im Abschnitt 'Zum Verständnis' wurden englische Bezeichnungen wie 'Executive Office' und 'Oval Office' durch neutrale deutsche Beschreibungen ersetzt."
+    "Jahreszahl 2026 bei den Zwischenwahlen aus dem Entwurf entfernt, da die Originalberichte nur von 'November' oder 'vergangener Woche' sprechen.",
+    "Wertende Begriffe und nicht belegte Details im gesamten Entwurf an die exakten Formulierungen der Originalquellen angepasst."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Stabschef",
-      "Die Person, die das Leitungsbüro einer Regierung organisiert. Sie regelt den Terminkalender und bestimmt mit, welche Informationen die Führungsperson erreichen."
+      "Der ranghöchste Mitarbeiter eines Präsidenten, der die Abläufe in der Regierung organisiert und den Zugang zum Präsidenten steuert."
      ],
      [
-      "Zwischenwahlen (Midterms)",
-      "Parlamentswahlen in den Vereinigten Staaten, die in der Mitte der vierjährigen Amtszeit des Präsidenten stattfinden."
-     ],
-     [
-      "Geburtsortsprinzip",
-      "Eine verfassungsrechtliche Regel in den USA. Jedes Kind, das auf dem Staatsgebiet der USA geboren wird, erhält automatisch die US-Bürgerschaft."
+      "Kongresswahlen",
+      "Wahlen in den Vereinigten Staaten zur Mitte einer Präsidentschaft, bei denen die Sitze im Parlament neu vergeben werden."
      ]
     ],
     "fragen": [
-     "Welche Vor- und Nachteile hat es für eine Regierung, wenn der Stabschef eine polarisierende Persönlichkeit ist?",
-     "Warum berichten Medien unterschiedlich darüber, ob Susie Wiles freiwillig ging oder entlassen wurde?",
-     "Wie könnte sich die Ernennung Millers auf die künftige Zusammenarbeit zwischen Regierung und Parlament auswirken?"
+     "Welche Rolle spielt der Stabschef für die Arbeit eines US-Präsidenten?",
+     "Wie bewerten unterschiedliche politische Seiten den neuen Stabschef Stephen Miller?"
     ],
     "quiz": [
      {
-      "frage": "Wer wird neuer Stabschef des Weißen Hauses?",
+      "frage": "Wer war die bisherige Stabschefin von US-Präsident Donald Trump?",
       "optionen": [
-       "Stephen Miller",
-       "Jeff Sessions",
-       "David Glosser"
+       "Susie Wiles",
+       "Katie Zacharia",
+       "Katie Miller"
       ],
       "richtig": 0,
-      "erklaerung": "Laut Berichten von Tagesschau/ARD, ZDFheute, Deutschlandfunk und Süddeutscher Zeitung übernimmt Stephen Miller das Amt des Stabschefs."
+      "erklaerung": "Laut übereinstimmenden Berichten aller Quellen wurde Susie Wiles als Stabschefin durch Stephen Miller abgelöst."
      },
      {
-      "frage": "Nach welchem politischen Ereignis erfolgte der Wechsel an der Spitze des Stabes?",
+      "frage": "Wie alt ist der neue Stabschef Stephen Miller nach Angaben der Berichte?",
       "optionen": [
-       "Nach einer Präsidentschaftswahl",
-       "Nach den US-Zwischenwahlen",
-       "Nach einem Gerichtsurteil"
+       "35 Jahre",
+       "41 Jahre",
+       "69 Jahre"
       ],
       "richtig": 1,
-      "erklaerung": "Alle Berichte bestätigen, dass die Umbesetzung nach den Verlusten der Republikaner bei den Zwischenwahlen (Midterms) stattfand."
+      "erklaerung": "Die FAZ, die Deutsche Welle und die NZZ nennen das Alter von Stephen Miller übereinstimmend mit 41 Jahren."
      },
      {
-      "frage": "Welches politische Feld hat Stephen Miller in den vergangenen Jahren maßgeblich geprägt?",
+      "frage": "Welche Partei gewann bei den Zwischenwahlen laut den Berichten zusätzliche Macht im Kongress?",
       "optionen": [
-       "Die Steuer- und Finanzpolitik",
-       "Die restriktive Migrationspolitik",
-       "Die Umwelt- und Klimapolitik"
+       "Die Republikanische Partei",
+       "Die Demokratische Partei",
+       "Keine Partei"
       ],
       "richtig": 1,
-      "erklaerung": "Tagesschau/ARD, ZDFheute und Süddeutsche Zeitung berichten übereinstimmend, dass Miller der zentrale Architekt von Trumps Migrationspolitik ist."
+      "erklaerung": "Mehrere Quellen wie die Deutsche Welle und die FAZ berichten, dass die Demokraten bei den Zwischenwahlen Sitze hinzugewonnen und die Mehrheiten erobert haben."
      }
     ]
    },
    "einfach": {
-    "vorspann": "US-Präsident Donald Trump hat einen neuen Chef für sein Mitarbeiter-Team im Weißen Haus bestimmt. Stephen Miller übernimmt das wichtige Amt von Susie Wiles. Viele Politiker üben daran Kritik.",
+    "vorspann": "In den Vereinigten Staaten gibt es einen großen Personalwechsel in der Regierung.",
     "absaetze": [
-     "In den USA gab es Parlamentswahlen. Die Partei von Präsident Donald Trump hat dabei viele Stimmen verloren. Kurz nach der Wahl gab Trump bekannt, dass die bisherige Stabschefin Susie Wiles ihr Amt abgibt. Wiles leitete zuvor den gesamten Arbeitsalltag der Regierung.",
-     "Neuer Stabschef wird Stephen Miller. Er arbeitet schon seit über zehn Jahren eng mit Trump zusammen. Miller ist vor allem für seine sehr strenge Einwanderungspolitik bekannt. Unter seiner Leitung wurden viele Menschen ohne Papiere abgeschoben.",
-     "Der Stabschef hat sehr viel Macht in Washington. Er entscheidet mit, wer zum Präsidenten darf und welche Themen bearbeitet werden. Viele Politiker der gegnerischen Demokraten und auch einige Republikaner finden die Entscheidung schlecht. Sie befürchten, dass Miller keinen Streit schlichten will."
+     "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles entlassen.",
+     "Ein Stabschef ist der wichtigste Mitarbeiter des Präsidenten im Weißen Haus und kontrolliert den Zugang zu ihm.",
+     "Neuer Stabschef wird Stephen Miller, der bisher als Stellvertreter von Wiles gearbeitet hat.",
+     "Der Wechsel passiert nach einer Wahlniederlage der Partei von Trump bei den Kongresswahlen.",
+     "Die Partei der Demokraten kritisierte die Ernennung von Miller deutlich."
     ]
    },
    "video": {
     "kurz": [
-     "US-Präsident Donald Trump hat Stephen Miller zum neuen Stabschef ernannt.",
-     "Miller folgt auf Susie Wiles, die das Weiße Haus nach der Wahlniederlage verlässt.",
-     "Die Ernennung des migrationspolitischen Hardliners stößt im Kongress auf heftige Kritik."
+     "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles ausgetauscht.",
+     "Der neue Stabschef im Weißen Haus ist der bisherige Stellvertreter Stephen Miller.",
+     "Der Wechsel folgt auf eine Niederlage der Regierungspartei bei den Kongresswahlen.",
+     "Die oppositionellen Demokraten kritisierten die Entscheidung des Präsidenten scharf."
     ],
     "lang": [
-     "In Washington wechselt die Leitung im Präsidialamt von US-Präsident Donald Trump.",
-     "Stephen Miller übernimmt die Aufgabe des Stabschefs im Weißen Haus.",
-     "Er folgt auf Susie Wiles, die das Amt nach den jüngsten Zwischenwahlen abgibt.",
-     "Trump erklärte dazu vor Reportern, er habe einfach einen Wechsel im Leitungsamt gewollt.",
-     "Miller arbeitet seit mehr als zehn Jahren für Trump und gilt als politischer Hardliner.",
-     "Er gestaltete maßgeblich die strenge Zuwanderungspolitik der US-Regierung.",
-     "Aus den Reihen der Demokraten und Teilen der Republikaner kommt deutliche Kritik.",
-     "Der Stabschef koordiniert Ministerien und steuert den Zugang zum US-Präsidenten.",
-     "Kritiker werten die Ernennung als Signal für künftige politische Konflikte mit dem Kongress.",
-     "Offen bleibt, wie die oppositionellen Parlamentsmehrheiten auf die künftigen Regierungsvorhaben reagieren."
+     "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles von ihren Aufgaben entbunden.",
+     "Der neue Stabschef im Weißen Haus in Washington ist der bisherige Stellvertreter Stephen Miller.",
+     "Das teilte der Präsident nach Berichten von Medien im November mit.",
+     "Miller ist einundvierzig Jahre alt und gilt als ein Verfechter einer harten Einwanderungspolitik.",
+     "Der Personalwechsel erfolgt nach einer Niederlage der Republikanischen Partei bei den Kongresswahlen.",
+     "Trump begründete die Entscheidung nach Angaben der Frankierter Allgemeine Zeitung damit, dass er eine Veränderung gewollt habe.",
+     "Die Demokraten kritisierten die Personalie nach Berichten der Deutschen Welle als gefährlich.",
+     "Der Stabschef ist der ranghöchste Mitarbeiter in der Präsidialbehörde und organisiert die Abläufe.",
+     "Ob es zu weiteren Entlassungen in der Regierung kommen wird, liess der Präsident offen."
     ],
     "einfach": [
-     "US-Präsident Donald Trump ernennt Stephen Miller zum neuen Stabschef.",
-     "Der Stabschef leitet das wichtigste Büro des Präsidenten.",
-     "Miller folgt auf Susie Wiles nach einer Wahlniederlage.",
-     "Er arbeitet seit über zehn Jahren für Donald Trump.",
-     "Miller vertritt sehr strenge Regeln bei der Zuwanderung.",
-     "Mehrere Politiker aus beiden Parteien kritisieren diese Personalentscheidung deutlich."
+     "In den Vereinigten Staaten wechselt der wichtigste Mitarbeiter des Präsidenten.",
+     "Präsident Trump hat seine Stabschefin Susie Wiles entlassen.",
+     "Sein neuer Mitarbeiter heisst Stephen Miller.",
+     "Miller ist einundvierzig Jahre alt und arbeitet schon lange für Trump.",
+     "Die Opposition kritisierte diese Entscheidung der Regierung sehr scharf."
     ]
    },
    "kurz": [
-    "Donald Trump ernennt Stephen Miller zum neuen Stabschef des Weißen Hauses.",
-    "Die bisherige Stabschefin Susie Wiles verlässt nach den Zwischenwahlen ihr Leitungsamt.",
-    "Demokraten und Teile der Republikaner kritisieren die Personalentscheidung deutlich."
+    "US-Präsident Donald Trump hat seine Stabschefin Susie Wiles entlassen.",
+    "Sein bisheriger Stellvertreter Stephen Miller übernimmt den Posten als Stabschef.",
+    "Der Wechsel folgt auf Verluste der Republikanischen Partei bei den Kongresswahlen.",
+    "Die oppositionellen Demokraten kritisierten die Personalie scharf."
    ],
    "fakten": [
     [
-     "Bestehen des Geburtsortprinzips in der US-Verfassung",
-     "seit mehr als 150 Jahren"
-    ],
-    [
-     "Zusammenarbeit von Stephen Miller und Donald Trump",
-     "seit mehr als zehn Jahren"
-    ],
-    [
-     "Beginn von Millers Mitarbeit im Wahlkampfteam",
-     "2016"
+     "Alter von Stephen Miller",
+     "41 Jahre"
     ]
    ],
    "dossier": {
-    "slug": "us-politik-trump",
-    "titel": "Politik der Trump-Regierung"
+    "slug": "usa-personalwechsel-weissem-haus",
+    "titel": "Personalwechsel im Weißen Haus in den Vereinigten Staaten"
    },
    "bildInfo": {
     "titel": "Donald Trump official portrait.jpg",
@@ -3507,42 +3345,59 @@
   {
    "id": "paraguay-praesident-pena-amtsenthebung",
    "rubrik": "Welt",
-   "zeit": "2026-11-07T08:40:13.000Z",
-   "titel": "Senat setzt Staatspräsident Peña ab - Hausarrest nach Bankenkrise",
-   "vorspann": "In Paraguay hat der Senat Präsident Santiago Peña wegen des Vorwurfs von Pflichtverletzungen einstimmig seines Amtes enthoben. Unmittelbar nach der Entscheidung stellte die Staatsanwaltschaft den abgesetzten Staatschef unter Hausarrest.",
-   "eil": true,
+   "zeit": "2026-11-07T20:06:23.000Z",
+   "aktualisiert": "aktualisiert um 21:11 Uhr",
+   "titel": "Staatsanwaltschaft klagt Paraguays abgesetzten Präsidenten Peña an",
+   "vorspann": "Nach der Amtsenthebung von Paraguays Präsident Santiago Peña infolge einer Bankenkrise hat die Staatsanwaltschaft Anklage gegen ihn erhoben und Untersuchungshaft beantragt. Das Parlament hatte den Staatschef zuvor wegen des Zusammenbruchs der Digitalbank Ueno abgesetzt und den bisherigen Vizepräsidenten Pedro Alliana vereidigt.",
+   "eil": false,
    "verstaendlich": {
     "stufe": "schwer",
     "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Paraguays Senat hat Präsident Santiago Peña einstimmig seines Amtes enthoben. Nach dem Beschluss ordnete die Staatsanwaltschaft sofortigen Hausarrest gegen den Politiker an.",
-    "Hintergrund ist der Zusammenbruch der Digitalbank Ueno, bei der Millionen Bürger und staatliche Rentenkassen Gelder angelegt hatten. Peña hielt bis 2025 eigene Anteile an der Eigentümergruppe.",
-    "Ein vorzeitiger Rücktrittsversuch Peñas scheiterte am Donnerstag an der Beschlussfähigkeit des Parlaments. Durch die Absetzung verliert er seine parlamentarische Immunität.",
-    "Der bisherige Vizepräsident Pedro Alliana wurde als Nachfolger vereidigt. Er soll die Regierungsgeschäfte bis zum Ende der Amtsperiode im August 2028 führen."
+    "Das Parlament von Paraguay hat Präsident Santiago Peña wegen seiner Rolle beim Zusammenbruch der Digitalbank Ueno des Amtes enthoben.",
+    "Die Zentralbank hatte zuvor die Zwangsverwaltung über Ueno verhängt, wodurch rund drei Millionen Kunden den Zugriff auf ihre Konten verloren.",
+    "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Staatschef vereidigt und kündigte umfassende Entschädigungen für die Betroffenen an.",
+    "Peña wurde unter Hausarrest gestellt; die Staatsanwaltschaft erhob Anklage wegen des Verdachts auf Wirtschafts- und Korruptionsdelikte und beantragte Untersuchungshaft."
    ],
    "einig": [
     [
-     "Santiago Peña wurde durch ein einstimmiges Votum des Senats als Präsident abgesetzt.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk",
-      "Spiegel",
-      "FAZ"
-     ]
-    ],
-    [
-     "Der bisherige Vizepräsident Pedro Alliana übernahm im Anschluss das Amt des Staatsoberhaupts.",
+     "Santiago Peña wurde seines Amtes enthoben.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
       "Spiegel",
-      "FAZ"
+      "The Guardian"
      ]
     ],
     [
-     "Gegen Peña wurde unmittelbar nach der Entscheidung Hausarrest verhängt.",
+     "Pedro Alliana wurde als neuer Präsident vereidigt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "The Guardian"
+     ]
+    ],
+    [
+     "Peña wurde nach seiner Absetzung unter Hausarrest gestellt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "The Guardian"
+     ]
+    ],
+    [
+     "Rund drei Millionen Kunden der Ueno-Bank können nicht mehr auf ihre Konten zugreifen.",
+     [
+      "ZDFheute",
+      "Spiegel",
+      "The Guardian"
+     ]
+    ],
+    [
+     "Die Ueno-Bank wurde wegen Verstoßes gegen Kapitalanforderungen unter staatliche Verwaltung gestellt.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
@@ -3550,73 +3405,78 @@
      ]
     ],
     [
-     "Auslöser der Staatskrise waren finanzielle Unregelmäßigkeiten und das Eingreifen der Zentralbank bei der Ueno-Bank.",
+     "Peñas Rücktrittsgesuch wurde vom Parlament zuvor nicht angenommen.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
       "Spiegel",
-      "FAZ"
+      "The Guardian"
      ]
     ],
     [
-     "Peña hatte zuvor vergeblich versucht, seiner Absetzung durch einen Rücktritt zuvorzukommen.",
+     "Durch die formelle Amtsenthebung verliert Peña den verfassungsrechtlichen Anspruch auf Immunität als Senator auf Lebenszeit.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
       "Spiegel",
-      "FAZ"
+      "The Guardian"
      ]
     ],
     [
-     "Durch die formelle Amtsenthebung verliert Peña den Anspruch auf Immunität als Senator auf Lebenszeit.",
+     "Peña besaß in der Vergangenheit Anteile an dem Firmenkonglomerat, das die Ueno-Bank kontrolliert.",
+     [
+      "ZDFheute",
+      "Spiegel",
+      "The Guardian"
+     ]
+    ],
+    [
+     "Die Staatsanwaltschaft ermittelt wegen Untreue und weiterer Vorwürfe gegen Peña.",
      [
       "Tagesschau/ARD",
       "ZDFheute",
-      "Spiegel",
-      "FAZ"
-     ]
-    ],
-    [
-     "Rund drei Millionen Kundenkonten waren von der Schließung der Ueno-Bank betroffen.",
-     [
-      "ZDFheute",
-      "Spiegel",
-      "FAZ"
+      "Spiegel"
      ]
     ]
    ],
    "unklar": [
-    "Es ist offen, ob gegen den neuen Präsidenten Pedro Alliana rechtliche Schritte eingeleitet werden, da die Opposition ihm eine Mitverantwortung zuschreibt (laut FAZ).",
-    "Das exakte Enddatum von Peñas Aktienbesitz variiert in den Medien leicht: Während FAZ und Spiegel vom Frühjahr 2025 sprechen, nennt ZDFheute unter Berufung auf dpa April 2025."
+    "Der genaue Zeitpunkt des Verkaufs von Peñas Aktien weicht ab: Laut Spiegel und The Guardian trennte er sich im April 2025 von den Papieren, während ZDFheute an einer Textstelle März 2025 und unter Berufung auf Ultima Hora April 2025 nennt.",
+    "Das genaue Volumen der staatlichen Einlagen bei Ueno wird von ZDFheute mit knapp 850 Millionen Dollar und von The Guardian mit geschätzten 800 bis 860 Millionen Dollar angegeben.",
+    "Die Gesamteinwohnerzahl Paraguays wird von The Guardian und ZDFheute mit 6,5 Millionen, von Spiegel hingegen mit 6,4 Millionen beziffert."
    ],
    "positionen": [
     [
-     "Senat und Parlament",
-     "Peña habe sein Amt schlecht ausgeübt und schwere Pflichtverletzungen begangen",
-     "Tagesschau/ARD, Spiegel, FAZ"
-    ],
-    [
-     "Santiago Peña (abgesetzter Präsident)",
-     "Bestreitet die Vorwürfe laut Berichten und erklärte seinen Rücktrittsversuch mit dem Schutz staatlicher Institutionen",
-     "FAZ"
-    ],
-    [
-     "Pedro Alliana (neuer Präsident)",
-     "Versprach den geschädigten Bürgerinnen und Bürgern eine vollständige finanzielle Entschädigung",
+     "Senatspräsident Basilio Nuñez",
+     "Erklärte, Santiago Peña habe sein Amt schlecht ausgeübt und rechtfertigte damit das Votum zur Absetzung.",
      "Spiegel"
     ],
     [
-     "Horacio Cartes (Führung der Colorado-Partei)",
-     "Betonte laut Berichten, die Partei werde keine Plünderung öffentlicher Gelder unterstützen",
-     "FAZ"
+     "Präsident Pedro Alliana",
+     "Versprach den geschädigten Bürgerinnen und Bürgern nach seiner Vereidigung eine vollständige Entschädigung.",
+     "Spiegel"
     ],
     [
-     "Demonstrierende in Asunción",
-     "Forderten die sofortige Rückzahlung der Ersparnisse sowie reguläre Gefängnishaft für Peña",
+     "Oppositions-Senator Rafael Filizzola",
+     "Bezeichnete den Bankenskandal als einen der größten Korruptionsfälle und Betrugsmanöver seit Beginn der demokratischen Ära.",
+     "The Guardian"
+    ],
+    [
+     "Ex-Präsident Santiago Peña",
+     "Betonte vor seiner Festsetzung sein Mitgefühl mit den Bankkunden und erklärte zu früheren Aktienkäufen, er habe rein als Investor gehandelt.",
+     "The Guardian"
+    ],
+    [
+     "Demonstranten in Asunción",
+     "Forderten die vollständige Rückzahlung ihrer Kontogelder sowie die Überstellung Peñas in ein reguläres Gefängnis.",
+     "Spiegel"
+    ],
+    [
+     "US-Botschaft in Asunción",
+     "Drückte dem Volk von Paraguay ihre Solidarität aus, ohne die Person des abgesetzten Präsidenten zu erwähnen.",
      "Spiegel"
     ]
    ],
-   "fehlend": "Verantwortliche der Digitalbank Ueno haben sich bisher nicht öffentlich zu den Vorwürfen geäußert.",
+   "fehlend": "Es fehlt eine offizielle Stellungnahme der Digitalbank Ueno zu den Vorwürfen sowie eine Stellungnahme des verhafteten früheren Zentralbankchefs Carlos Carvallo Spalding.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
@@ -3624,8 +3484,8 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "07.11.26, 01:06",
-     "fokus": "Parlamentsablauf und juristische Folgen",
-     "text": "Der Bericht konzentriert sich auf den formalen Ablauf der Amtsenthebung im Senat. Er erläutert ausführlich die verfassungsrechtlichen Bestimmungen zur parlamentarischen Immunität.",
+     "fokus": "Institutioneller Ablauf der Absetzung",
+     "text": "Betont die juristischen Mechanismen der Immunität und die Verhaftung des früheren Zentralbankchefs. Hebt die Pflichtverletzung Peñas hervor.",
      "url": "https://www.tagesschau.de/ausland/paraguay-amtsenthebung-100.html",
      "video": false,
      "lesbar": {
@@ -3647,18 +3507,18 @@
      "art": "öffentlich-rechtlich",
      "stamm": true,
      "datum": "07.11.26, 03:18",
-     "fokus": "Finanzdaten und betroffene Sparer",
-     "text": "Die Redaktion hebt die wirtschaftlichen Dimensionen der Bankenpleite hervor. Sie nennt genaue Zahlen zu betroffenen Kunden, Rentengeldern und dem Korruptionsindex des Landes.",
+     "fokus": "Wirtschaftsdaten und Parteienkontext",
+     "text": "Liefert konkrete Zahlen zur Eigenkapitalquote von Ueno sowie zur Geschichte der regierenden Colorado-Partei und verweist auf Korruptionsindizes.",
      "url": "https://www.zdfheute.de/politik/ausland/paraguay-praesident-pena-amtsenthebung-hausarrest-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
+      "klasse": 11,
       "minuten": 2,
-      "woerter": 417,
+      "woerter": 441,
       "satzlaenge": 15,
-      "langeWoerter": 36
+      "langeWoerter": 37
      },
      "traeger": "ZDF, Anstalt des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
@@ -3669,10 +3529,10 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "07.11.26, 09:40",
-     "fokus": "Kompakte Meldung zur Staatskrise",
-     "text": "Der Sender beschränkt sich auf eine knappe Darstellung der Ereignisse am Abend. Im Mittelpunkt stehen das einstimmige Votum des Senats und der folgende Haftbefehl.",
-     "url": "https://www.deutschlandfunk.de/staatskrise-in-paraguay-praesident-pe-a-abgesetzt-und-festgenommen-100.html",
+     "datum": "07.11.26, 21:06",
+     "fokus": "Aktuelle Anklageerhebung",
+     "text": "Meldet kurz und präzise die Einreichung der Anklage und den Antrag auf Untersuchungshaft durch die Staatsanwaltschaft.",
+     "url": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-gegen-abgesetzten-praesidenten-pe-a-100.html",
      "video": false,
      "lesbar": null,
      "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
@@ -3685,8 +3545,8 @@
      "art": "privates Medium",
      "stamm": true,
      "datum": "07.11.26, 09:06",
-     "fokus": "Proteste und internationale Reaktionen",
-     "text": "Das Magazin beschreibt vor allem die Kundgebungen der Bevölkerung auf den Straßen. Zudem verweist der Text auf Stellungnahmen ausländischer Stellen und Aussagen beteiligter Senatoren.",
+     "fokus": "Politische Reaktionen und Bürgerproteste",
+     "text": "Konzentriert sich auf das Stimmverhalten im Senat, die Reaktionen der Bevölkerung auf den Straßen sowie das Versprechen von Nachfolger Alliana.",
      "url": "https://www.spiegel.de/ausland/paraguay-santiago-pena-als-praesident-abgesetzt-vize-uebernimmt-a-f188f388-ac17-4d7f-a95c-4e9ff08eba18#ref=rss",
      "video": false,
      "lesbar": {
@@ -3703,91 +3563,101 @@
      "publikumWert": null
     },
     {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "06.11.26, 23:23",
-     "fokus": "Machtpolitik der Colorado-Partei",
-     "text": "Der Artikel analysiert die parteipolitischen Hintergründe und das Handeln von Ex-Präsident Horacio Cartes. Er legt die finanziellen Verflechtungen zwischen Peña und Ueno detailliert dar.",
-     "url": "https://www.faz.net/aktuell/politik/ausland/santiago-pena-paraguays-abgesetzter-praesident-festgenommen-201660662.html",
+     "name": "The Guardian",
+     "typ": "Tageszeitung (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": false,
+     "datum": "07.11.26, 02:55",
+     "fokus": "Ermittlungen und Vorgeschichte der Bank",
+     "text": "Detailliert die Vorwürfe zur Rolle Carvallos, die Verlagerung von Pensionsfonds in die Bank und zitiert Aussagen von Staatsanwaltschaft und Opposition.",
+     "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 5,
-      "woerter": 1099,
-      "satzlaenge": 12,
-      "langeWoerter": 38
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 638,
+      "satzlaenge": 29,
+      "langeWoerter": 28
      },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "Guardian Media Group, im Eigentum des Scott Trust",
+     "finanzierung": "Leserbeiträge und Werbung",
      "publikumWert": null
     }
    ],
-   "unterschiede": [],
+   "unterschiede": [
+    [
+     "Detaillierung der Anklage",
+     "Deutschlandfunk meldet als einzige Quelle die formelle Anklageerhebung und den Antrag auf Untersuchungshaft am 7. November, während frühere Berichte nur vom Verdacht und Hausarrest sprachen."
+    ],
+    [
+     "Verlauf des Rücktrittsversuchs",
+     "Tagesschau/ARD und Spiegel erwähnen den Verlust der Beschlussfähigkeit durch das Verlassen des Saals, während The Guardian den Vorgang kürzer als gescheiterten Schritt zur Rettung der Senatorenimmunität zusammenfasst."
+    ],
+    [
+     "Berichterstattung zu Protesten",
+     "Spiegel und The Guardian berichten ausführlich von Protesten vor Peñas Haus und im Regierungsviertel, während Tagesschau/ARD diese nicht gesondert hervorhebt."
+    ]
+   ],
    "wfragen": {
-    "wer": "Paraguays Senat, Staatsanwaltschaft und Ex-Präsident Santiago Peña",
-    "was": "Amtsenthebung des Staatsoberhaupts und Anordnung von Hausarrest",
-    "wann": "6. und 7. November 2026",
+    "wer": "Staatsanwaltschaft, Ex-Präsident Santiago Peña und Senat von Paraguay",
+    "was": "Amtsenthebung, Hausarrest und offizielle Anklageerhebung gegen Santiago Peña",
+    "wann": "November 2026",
     "wo": "Asunción, Paraguay",
-    "wie": "Durch einstimmiges Votum im Senat nach verweigertem Rücktritt",
-    "warum": "Vorwurf schwerer Pflichtverletzungen bei Bankenpleite laut Senat und Ermittlern",
-    "quellenlage": "Berichte stützen sich auf Parlamentsbeschlüsse, Justizangaben und Parteikreise"
+    "wie": "Durch einstimmiges Senatsvotum zur Absetzung und anschließende Justizmaßnahmen",
+    "warum": "Vorwurf von Untreue und Verflechtungen bei der Pleite der Digitalbank Ueno",
+    "quellenlage": "Behörden, Staatsanwaltschaft, Parlamentsprotokolle sowie paraguayische Medienberichte"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "In Paraguay hat das Parlament Staatspräsident Santiago Peña seines Amtes enthoben. Der Senat stimmte einstimmig für die Absetzung des Staatsoberhaupts. Zuvor hatte bereits die Abgeordnetenkammer für die Einleitung des Amtsenthebungsverfahrens votiert. Direkt nach dem Votum ordnete die Justiz Hausarrest für Peña an. Gleichzeitig wurde der bisherige Vizepräsident Pedro Alliana als neuer Staatschef vereidigt.",
-      "Der Auslöser des Verfahrens ist die Zahlungsunfähigkeit der Digitalbank Ueno. Die Staatsanwaltschaft ermittelt gegen Peña wegen des Verdachts auf Untreue und weiterer möglicher Straftaten. Zur entscheidenden Anhörung im Parlament erschien der Präsident nicht persönlich. Er ließ sich stattdessen durch seine juristischen Anwälte vertreten. Ein vorab gestellter Antrag Peñas auf eine Vertagung um drei Tage war von den Senatoren abgelehnt worden.",
-      "Peña hatte bereits am Donnerstag versucht, das Amt freiwillig durch einen Rücktritt niederzulegen. Das Parlament nahm dieses Rücktrittsgesuch in einer gemeinsamen Sitzung jedoch nicht an. Zahlreiche Abgeordnete verließen damals den Plenarsaal, wodurch die Versammlung beschlussunfähig wurde. Die Parlamentarier wollten ein formelles Absetzungsverfahren erzwingen. Durch die Absetzung verliert Peña das verfassungsrechtliche Privileg eines lebenslangen Sitzes im Senat."
+      "In Paraguay hat sich die politische Führungskrise nach dem Zusammenbruch eines großen Finanzinstituts zugespitzt. Das Parlament des südamerikanischen Landes enthob den bisherigen Präsidenten Santiago Peña seines Amtes. Unmittelbar nach der Entscheidung stellten die Justizbehörden den Politiker in seinem Haus unter Arrest. Am Samstag erhob die Staatsanwaltschaft laut einem Bericht des Deutschlandfunks formell Anklage gegen Peña und beantragte zudem Untersuchungshaft.",
+      "Als Nachfolger an der Staatsspitze wurde der bisherige Vizepräsident Pedro Alliana im Parlament vereidigt. Seine Amtszeit läuft regulär bis zum Jahr 2028. Das Votum zur Amtsenthebung im Senat fiel einstimmig aus. Alle 44 anwesenden Mitglieder der 45 Sitze zählenden Parlamentskammer stimmten nach Angaben des Magazins Spiegel für die Absetzung des Staatschefs.",
+      "Peña selbst erschien nicht persönlich vor dem Senat, um sich zu verteidigen. Er ließ sich stattdessen von seinen Rechtsanwälten vertreten. Zuvor hatte der Präsident einen Aufschub der Anhörung um 72 Stunden erbeten. Die Senatoren lehnten diese Fristverlängerung jedoch ab und führten das Verfahren ohne Verzögerung zu Ende."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Die Abstimmung im Senat endete mit einem eindeutigen Ergebnis von 44 zu null Stimmen. Die Parlamentskammer zählt insgesamt 45 Mandate, von denen 44 Mitglieder anwesend waren. Die Senatoren begründeten ihre Entscheidung damit, dass Peña seine Amtspflichten verletzt habe. Kurz nach dem Votum bestätigte die Staatsanwaltschaft die Festsetzung Peñas in seinem Wohnhaus. Auch gegen den früheren Leiter der Zentralbank, Carlos Carvallo, wurde Haftbefehl erlassen.",
-      "Die Zentralbank hatte die Ueno-Bank wenige Tage zuvor wegen gravierender finanzieller Engpässe geschlossen. Das Geldhaus hatte die gesetzlich vorgeschriebene Mindesteigenkapitalquote um mehr als die Hälfte unterschritten. Die Digitalbank betreute fast drei Millionen Kundinnen und Kunden in dem Land. Nach der behördlichen Schließung konnten die Einleger nicht mehr auf ihre Ersparnisse zugreifen. Zudem verwaltete das Institut knapp 850 Millionen US-Dollar an öffentlichen Mitteln.",
-      "Ein erheblicher Teil dieser staatlichen Gelder stammte von der paraguayischen Sozialversicherung IPS. Die Behörde hatte rund 350 Millionen Dollar an gesetzlichen Rentengeldern bei Ueno deponiert. Nach Berichten wurden die internen Anlagevorschriften gelockert, um diese Transaktionen überhaupt zu ermöglichen. Kurz nach seinem Amtsantritt hatte Peña zudem den früheren Ueno-Chef Carvallo an die Spitze der Zentralbank gesetzt. Die Justiz nahm neben Carvallo auch weitere leitende Funktionäre fest."
+      "Die juristischen Schritte gegen Peña stehen im direkten Zusammenhang mit Ermittlungen wegen des Verdachts auf Untreue, Einflussnahme, Veruntreuung und Geldwäsche. Staatsanwältin Silvia González bestätigte laut Spiegel die Festsetzung Peñas in dessen Wohnsitz im Stadtteil La Trinidad. Die Staatsanwältin Elena Fiore Franco erklärte laut The Guardian, der Ex-Präsident habe die Beamten freiwillig in sein Haus gelassen und sich den Ermittlungsbehörden zur Verfügung gestellt. Peña soll der zuständigen Abteilung für Wirtschaftskriminalität und Korruption vorgeführt werden.",
+      "Neben Peña geriet auch die Spitze der Zentralbank ins Visier der Strafverfolgungsbehörden. Der frühere Chef der Notenbank, Carlos Carvallo Spalding, wurde festgenommen und soll laut Tagesschau/ARD in einer Polizeieinrichtung festgehalten werden. Die Turbulenzen hatten zuvor zum Rücktritt Carvallos und laut ZDFheute zur Festnahme von acht weiteren Führungskräften der Bank Ueno geführt. Dem Zentralbankchef wird vorgeworfen, die Umwandlung des Finanzinstituts in eine Digitalbank begünstigt zu haben.",
+      "Präsident Peña hatte am Donnerstag vor seiner Amtsenthebung ein Rücktrittsgesuch eingereicht. Dieses Gesuch wurde vom Kongress jedoch nicht angenommen, da eine gemeinsame Sitzung von Senat und Abgeordnetenkammer durch den Auszug zahlreicher Mandatsträger beschlussunfähig wurde. Hätte das Parlament den Rücktritt akzeptiert, wäre Peña nach den Verfassungsregeln als ehemaliger Staatschef automatisch Senator auf Lebenszeit geworden. Dieser Status hätte ihm parlamentarische Immunität vor einer Strafverfolgung durch die ordentliche Gerichtsbarkeit verschafft."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Santiago Peña trat das Amt des Staatspräsidenten im August 2023 an. Zuvor war der ausgebildete Wirtschaftswissenschaftler als Finanzminister des Landes tätig gewesen. Bis zum Frühjahr 2025 hielt Peña private Anteile an dem Firmenkonsortium, das die Ueno-Bank besitzt. Laut seiner offiziellen Vermögenserklärung besaßen diese Aktien einen Gegenwert von etwa einer Million Dollar. Zudem gewährte die Bank dem Politiker zwei Kredite über insgesamt fast eine halbe Million Dollar.",
-      "Das Geldhaus Ueno war innerhalb kurzer Zeit von einem Nischenanbieter zu einer der größten Banken des Landes aufgestiegen. Ermittlungsunterlagen legen nahe, dass die Bankenaufsicht bereits Monate vor der Abwicklung von Unregelmäßigkeiten wusste. Dennoch griffen die staatlichen Aufsichtsbehörden erst Anfang November ein. Die Opposition im Parlament warf der Regierung deshalb vor, Warnsignale gezielt vertuscht zu haben. Peña soll seine politische Macht genutzt haben, um das Institut zu begünstigen.",
-      "Peña verlor seinen politischen Rückhalt schließlich auch in der eigenen Partei, der konservativen Colorado-Partei. Diese politische Gruppierung regiert Paraguay mit nur einer Unterbrechung seit dem Jahr 1947. Als maßgeblicher Anführer der Partei gilt der Unternehmer und frühere Staatspräsident Horacio Cartes. Cartes hatte Peña einst politisch gefördert, wandte sich nun jedoch öffentlich von ihm ab. Um den Machterhalt der Partei zu sichern, unterstützten die Abgeordneten die Amtsenthebung."
+      "Auslöser der politischen Erschütterungen war das finanzielle Scheitern der Digitalbank Ueno. Die paraguayische Zentralbank leitete am 3. November 2026 Zwangsmaßnahmen gegen das Institut ein, nachdem dessen Eigenkapitalquote unter 50 Prozent des gesetzlich vorgeschriebenen Mindestwerts gefallen war. Die Eigenkapitalquote beschreibt das Verhältnis des eigenen Geldes einer Bank zu ihren gesamten Vermögenswerten und dient als Sicherheitspuffer gegen Verluste. Nach Angaben von Tagesschau/ARD und ZDFheute betreute die Bank rund 2,9 bis drei Millionen Kunden. Da Paraguay rund 6,4 bis 6,5 Millionen Einwohner zählt, verloren weite Teile der Bevölkerung schlagartig den Zugriff auf ihre Ersparnisse und laufenden Konten.",
+      "Die Bank Ueno hatte sich binnen kurzer Zeit von einem kleineren Finanztechnologie-Unternehmen zu einem führenden Geldhaus des Landes entwickelt. Dabei spielten auch staatliche Gelder eine zentrale Rolle. Nach übereinstimmenden Berichten von ZDFheute und The Guardian wurden öffentliche Gelder sowie Reserven der staatlichen Rentenversicherung im Umfang von rund 800 bis 860 Millionen US-Dollar bei Ueno angelegt. Diese Umschichtung erfolgte, während Peña das Präsidentenamt innehatte, das er im August 2023 angetreten hatte.",
+      "Peña geriet wegen persönlicher wirtschaftlicher Verbindungen zu dem Institut unter massiven politischen Druck. Bis zum April 2025 – beziehungsweise laut ZDFheute bis März vergangenen Jahres – hielt der Ökonom Anteile im Wert von rund einer Million US-Dollar an der Eigentümergruppe der Bank. Peña erklärte laut The Guardian, er habe diese Anteile lediglich als privater Anleger erworben. Abgeordnete warfen ihm hingegen institutionelle Vertuschung, Zweckentfremdung öffentlicher Gelder und schwere Pflichtverletzungen vor, was schließlich auch zum Verlust des Rückhalts in seiner eigenen konservativen Colorado-Partei führte."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Ein Amtsenthebungsverfahren ist ein rechtlich streng vorgegebener Prozess zur Entmachtung hochrangiger Amtsinhaber. Die paraguayische Verfassung sieht vor, dass demokratisch gewählte frühere Staatschefs nach ihrer Amtszeit automatisch Senatoren auf Lebenszeit werden. Mit dieser Position ist eine weitreichende Immunität vor strafrechtlicher Verfolgung verbunden. Wird ein Präsident jedoch durch ein formelles Verfahren seines Amtes enthoben, verfällt dieses Schutzrecht vollständig. Dadurch wird der Weg für eine zivilrechtliche und strafrechtliche Untersuchung vor ordentlichen Gerichten frei.",
-      "Eine Zentralbank fungiert als staatliche Behörde, die für die Finanzmarktstabilität und die Bankenaufsicht zuständig ist. Sie kontrolliert, ob private und geschäftliche Geldinstitute über genügend Eigenkapital verfügen. Das Eigenkapital dient als Schutzpuffer gegen Verluste im Kreditgeschäft. Sinkt dieser Puffer unter die gesetzlich vorgeschriebene Grenze, droht den Anlegern der Ausfall ihrer Guthaben. In solchen Fällen kann die Zentralbank ein Institut unter staatliche Zwangsverwaltung stellen oder dessen Abwicklung einleiten."
+      "Ein Amtsenthebungsverfahren ist ein verfassungsrechtliches Instrument, mit dem ein Parlament gewählte Amtsträger wegen schwerer Verfehlungen vorzeitig aus dem Amt entfernen kann. In Paraguay sieht die Verfassung vor, dass demokratisch gewählte Präsidenten nach dem regulären Ende ihrer Amtszeit einen Sitz im Senat auf Lebenszeit erhalten. Dieser Posten garantiert den Schutz vor juristischer Verfolgung, die sogenannte parlamentarische Immunität. Dieser Schutz greift jedoch ausdrücklich nicht, wenn das Staatsoberhaupt durch einen formellen Schuldspruch des Parlaments abgesetzt worden ist.",
+      "Eine Zentralbank fungiert in einer Volkswirtschaft als oberste Aufsichtsbehörde für das gesamte Kreditwesen. Sie setzt Mindestanforderungen an das Eigenkapital und die Zahlungsfähigkeit privater Geldhäuser fest, um Sparer zu schützen. Gerät ein Bankinstitut in Zahlungsschwierigkeiten, kann die Zentralbank eine Zwangsverwaltung anordnen oder ein Abwicklungsverfahren einleiten. Während dieses Prüf- und Sanierungsprozesses werden die Konten der Kunden in der Regel vorübergehend eingefroren."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Der neu vereidigte Präsident Pedro Alliana sprach den Betroffenen der Bankenpleite seine Unterstützung zu. Er kündigte an, dass alle geschädigten Bürgerinnen und Bürger vollständig entschädigt werden sollen. Gleichzeitig fordern Oppositionspolitiker auch gegen Alliana rechtliche Schritte wegen dessen früherer Billigung der Geldanlagen. Senatspräsident Basilio Nuñez rechtfertigte das Votum mit der schlechten Amtsführung des Präsidenten. Peña selbst bestritt über seine Verteidiger die Vorwürfe und erklärte, stets im Interesse der staatlichen Stabilität gehandelt zu haben.",
-      "In der Hauptstadt Asunción versammelten sich Hunderte Menschen zu Demonstrationen. Vor dem Senatsgebäude feierten zahlreiche Bürgerinnen und Bürger die Absetzung des Staatschefs. Im Stadtteil La Trinidad demonstrierten Betroffene vor Peñas Haus und forderten dessen Verlegung in ein herkömmliches Gefängnis. Die Botschaft der Vereinigten Staaten in Asunción erklärte am Freitag ihre Solidarität mit der paraguayischen Bevölkerung. Die Leitung der Ueno-Bank gab zu den Geschehnissen bislang keine offizielle Stellungnahme ab."
+      "Nach seiner Vereidigung wandte sich der neue Präsident Pedro Alliana an die Öffentlichkeit und versprach finanzielle Unterstützung. Die Menschen, die unter dem Zusammenbruch der Bank litten, würden vollständig entschädigt und nicht im Stich gelassen, erklärte das neue Staatsoberhaupt laut Berichten des Spiegels. Zum neuen Vizepräsidenten bestimmte das Parlament den Senator Antonio Barrios. Senatspräsident Basilio Nuñez begründete die Absetzung Peñas damit, dieser habe sein Amt schlecht ausgeübt.",
+      "Aus den Reihen der parlamentarischen Opposition äußerte sich Senator Rafael Filizzola während der Debatte im Kongress. Er sprach laut The Guardian von einem der größten Korruptionsfälle seit der Rückkehr Paraguays zur Demokratie. Vor dem Parlamentsgebäude sowie im Wohnviertel des Ex-Präsidenten versammelten sich hunderte Bürger zu Demonstrationen. Protestierende forderten die Rückzahlung ihrer Gelder und verlangten, dass Peña seine Haft in einem regulären Gefängnis statt im eigenen Haus verbringen müsse.",
+      "Santiago Peña äußerte sich vor Abschluss des Verfahrens über soziale Netzwerke. Er verabschiede sich mit Dankbarkeit und erkenne das Leiden der Menschen an, die nun auf Antworten warteten, schrieb der abgesetzte Präsident laut The Guardian. Die Botschaft der Vereinigten Staaten in Asunción gab laut Spiegel eine Erklärung ab, in der sie dem paraguayischen Volk ihre Solidarität zusicherte, ohne den abgesetzten Staatschef namentlich zu erwähnen."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Die Staatsanwaltschaft für Wirtschaftskriminalität und Korruption will Peña am Samstag förmlich vernehmen. Die Ermittler müssen dabei festlegen, welche konkreten Anklagepunkte vor Gericht erhoben werden. Nach der Anhörung wird ein Richter entscheiden, ob der Hausarrest fortgesetzt oder Untersuchungshaft verhängt wird. Auch der ehemalige Zentralbankchef Carlos Carvallo verbleibt vorerst in einer Hafteinrichtung der Polizei. Bei einer gerichtlichen Verurteilung droht dem abgesetzten Präsidenten eine mehrjährige Gefängnisstrafe.",
-      "Der neue Präsident Pedro Alliana soll das Land bis zum Ende der regulären Amtszeit im August 2028 führen. Als neuer Vizepräsident wurde der bisherige Senator Antonio Barrios ernannt. Die Regierung kündigte an, die Auszahlung der gesperrten Sparguthaben an die Bevölkerung schrittweise fortzusetzen. Einige betroffene Sparer haben nach Behördenangaben bereits Teilbeträge ihres Geldes zurückerhalten. Die strafrechtlichen Untersuchungen gegen weitere Beteiligte aus Wirtschaft und Verwaltung dauern derweil an."
+      "Nach der Anklageerhebung durch die Staatsanwaltschaft und dem gestellten Antrag auf Untersuchungshaft müssen die Gerichte über den weiteren Verbleib Peñas entscheiden. Peña soll den Ermittlern der Sonderabteilung für Wirtschaftskriminalität und Korruption zur offiziellen Vernehmung vorgeführt werden. Die Justizbehörden müssen festlegen, ob der Hausarrest aufrechterhalten bleibt oder Peña in eine reguläre Hafteinrichtung überstellt wird.",
+      "Gleichzeitig befasst sich die Übergangsregierung unter Präsident Alliana mit der angekündigten Entschädigung der rund drei Millionen betroffenen Kontoinhaber. Das von der Zentralbank eingeleitete Abwicklungsverfahren gegen die Bank Ueno läuft weiter, während gegen weitere frühere leitende Angestellte des Geldinstituts ermittelt wird."
      ]
     }
    ],
    "zeitleiste": [
-    [
-     "Dienstag, 3. November 2026",
-     "Die Zentralbank stellt die Digitalbank Ueno wegen Unterschreitung der Eigenkapitalquote unter Zwangsverwaltung."
-    ],
     [
      "Donnerstag, 5. November 2026",
      "Präsident Santiago Peña reicht seinen Rücktritt ein, der Kongress wird jedoch beschlussunfähig."
@@ -3799,23 +3669,48 @@
     [
      "Samstag, 7. November 2026",
      "Peña befindet sich unter Hausarrest und soll vor der Staatsanwaltschaft für Wirtschaftskriminalität vernommen werden."
+    ],
+    [
+     "Dienstag, 3. November 2026",
+     "Die Zentralbank stellt die Digitalbank Ueno wegen Unterschreitung der Eigenkapitalquote unter Zwangsverwaltung."
+    ],
+    [
+     "Mittwoch, 4. November 2026",
+     "Das Amtsenthebungsverfahren gegen Präsident Peña im Parlament nimmt seinen Anfang."
+    ],
+    [
+     "Donnerstag, 5. November 2026",
+     "Peña reicht seinen Rücktritt ein; das Parlament wird beschlussunfähig und nimmt das Gesuch nicht an."
+    ],
+    [
+     "Freitag, 6. November 2026",
+     "Der Senat stimmt einstimmig für Peñas Absetzung; Pedro Alliana wird vereidigt und Peña unter Hausarrest gestellt."
+    ],
+    [
+     "Samstag, 7. November 2026",
+     "Die Staatsanwaltschaft erhebt formell Anklage gegen den abgesetzten Präsidenten und beantragt Untersuchungshaft."
     ]
    ],
    "bilder": [
     {
      "art": "person",
      "suchbegriff": "Santiago Peña",
-     "bildunterschrift": "Santiago Peña amtierte seit August 2023 als Präsident Paraguays, bevor er vom Senat abgesetzt wurde."
+     "bildunterschrift": "Santiago Peña, ehemaliger Staatspräsident von Paraguay, wurde vom Parlament seines Amtes enthoben."
     },
     {
      "art": "person",
      "suchbegriff": "Pedro Alliana",
-     "bildunterschrift": "Pedro Alliana übernahm als bisheriger Vizepräsident die Amtsgeschäfte des Staatschefs."
+     "bildunterschrift": "Pedro Alliana, zuvor Vizepräsident, übernahm nach der Absetzung Peñas das Präsidentenamt."
     },
     {
      "art": "institution",
-     "suchbegriff": "Congress of Paraguay",
-     "bildunterschrift": "Im paraguayischen Kongress in Asunción stimmten die Abgeordneten und Senatoren über die Amtsenthebung ab."
+     "suchbegriff": "National Congress of Paraguay",
+     "bildunterschrift": "Das Parlamentsgebäude in Asunción, in dem Senat und Abgeordnetenkammer über die Amtsenthebung entschieden."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Central Bank of Paraguay",
+     "bildunterschrift": "Die Zentralbank von Paraguay in Asunción, die das Abwicklungsverfahren gegen die Bank Ueno anordnete."
     }
    ],
    "ort": {
@@ -3823,136 +3718,131 @@
    },
    "geprueft": true,
    "korrekturen": [
-    "ZDFheute wird bei dem Punkt zum Hausarrest in der einig-Liste entfernt, da der genaue Text dort nicht explizit in ZDFheute stand."
+    "In 'einig' wurde Deutschlandfunk beim Punkt zu den Ermittlungen wegen Untreue gestrichen, da der Deutschlandfunk die konkreten Straftatbestände nicht erwähnt.",
+    "In 'einig' wurde die Formulierung zur Amtsenthebung verallgemeinert, da ZDFheute und The Guardian vom Parlament beziehungsweise Kongress und nicht ausdrücklich nur vom Senat sprechen."
    ],
-   "wortwarnung": [],
+   "wortwarnung": [
+    "massiven"
+   ],
    "lernen": {
     "begriffe": [
      [
       "Amtsenthebung",
-      "Ein rechtliches Verfahren, bei dem ein Parlament einen Präsidenten vor dem Ende seiner regulären Amtszeit absetzt."
+      "Ein rechtliches Verfahren, bei dem ein Parlament eine gewählte Führungsperson wegen schwerer Verfehlungen vorzeitig aus dem Amt entfernt."
      ],
      [
-      "Immunität",
-      "Ein rechtlicher Schutz, der verhindert, dass Politiker wegen Straftaten ohne Zustimmung des Parlaments verfolgt werden."
+      "Parlamentarische Immunität",
+      "Ein gesetzlicher Schutz für Politikerinnen und Politiker, der verhindert, dass sie während ihrer Amtszeit ohne Erlaubnis des Parlaments vor Gericht angeklagt oder verhaftet werden können."
      ],
      [
       "Zentralbank",
-      "Eine staatliche Bank, die das Finanzsystem kontrolliert und andere Banken beaufsichtigt."
-     ],
-     [
-      "Zwangsverwaltung",
-      "Eine staatliche Maßnahme, bei der Behörden die Kontrolle über ein in Schwierigkeiten geratenes Unternehmen übernehmen."
+      "Die oberste staatliche Bank eines Landes. Sie überwacht alle anderen Banken und sorgt dafür, dass die Finanzregeln und Mindestreserven eingehalten werden."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielte die Verknüpfung von Politik und Wirtschaft beim Zusammenbruch der Ueno-Bank?",
-     "Warum war es für das Parlament wichtig, Peña per Amtsenthebung statt durch seinen eigenen Rücktritt zu entlassen?"
+     "Welche Vorteile und Nachteile hat es für eine Demokratie, wenn ehemalige Präsidenten lebenslang Immunität vor Strafverfolgung genießen?",
+     "Warum ist das Vertrauen der Bevölkerung in Banken und die staatliche Finanzaufsicht für ein Land so wichtig?",
+     "Wie sollten Medien damit umgehen, wenn verschiedene Behörden und Berichte leicht abweichende Zahlen zu einem Vorfall nennen?"
     ],
     "quiz": [
      {
-      "frage": "Wie stimmte der paraguayische Senat über die Amtsenthebung von Präsident Santiago Peña ab?",
+      "frage": "Wer übernahm nach der Absetzung von Santiago Peña das Präsidentenamt in Paraguay?",
       "optionen": [
-       "Einstimmig für die Absetzung",
-       "Knappe Mehrheit für die Absetzung",
-       "Ablehnung des Antrags"
+       "Pedro Alliana",
+       "Carlos Carvallo",
+       "Antonio Barrios"
       ],
       "richtig": 0,
-      "erklaerung": "Laut Tagesschau, ZDFheute, Deutschlandfunk, Spiegel und FAZ stimmte der Senat einstimmig für die Amtsenthebung."
+      "erklaerung": "Der bisherige Vizepräsident Pedro Alliana wurde im Parlament als neuer Präsident vereidigt."
      },
      {
-      "frage": "Welche Institution löste die Krise durch ihr Eingreifen aus?",
+      "frage": "Welche rechtliche Maßnahme verhängten die Justizbehörden unmittelbar nach Peñas Absetzung?",
       "optionen": [
-       "Das Finanzministerium",
-       "Die Zentralbank",
-       "Die Polizei"
+       "Hausarrest",
+       "Eine einfache Geldstrafe",
+       "Die sofortige Ausweisung aus Paraguay"
       ],
-      "richtig": 1,
-      "erklaerung": "Die Zentralbank stellte die Ueno-Bank wegen Kapitalmangels unter Zwangsverwaltung, was die Krise auslöste."
+      "richtig": 0,
+      "erklaerung": "Die Staatsanwaltschaft ordnete nach dem Beschluss des Parlaments Hausarrest für Peña an."
      },
      {
-      "frage": "Wer übernahm nach der Absetzung das Amt des Präsidenten?",
+      "frage": "Warum verliert Santiago Peña durch das Verfahren seinen Schutz vor Strafverfolgung?",
       "optionen": [
-       "Der ehemalige Zentralbankchef Carlos Carvallo",
-       "Der bisherige Vizepräsident Pedro Alliana",
-       "Der Senator Antonio Barrios"
+       "Weil die parlamentarische Immunität als Senator auf Lebenszeit bei einer Verurteilung im Amtsenthebungsverfahren entfällt",
+       "Weil die Verfassung von Paraguay grundsätzlich keine Immunität für Politiker vorsieht",
+       "Weil Peña freiwillig auf alle Rechte als Politiker verzichtet hat"
       ],
-      "richtig": 1,
-      "erklaerung": "Der bisherige Vizepräsident Pedro Alliana wurde laut Tagesschau, ZDFheute, Spiegel und FAZ als neuer Präsident vereidigt."
+      "richtig": 0,
+      "erklaerung": "Laut Verfassung werden ehemalige Präsidenten lebenslang Senatoren mit Immunität, außer wenn sie durch eine Amtsenthebung für schuldig befunden und abgesetzt wurden."
      }
     ]
    },
    "einfach": {
-    "vorspann": "In dem Land Paraguay hat das Parlament den Präsidenten Santiago Peña abgesetzt. Grund dafür ist ein großer Skandal um eine Bank.",
+    "vorspann": "In dem südamerikanischen Land Paraguay hat das Parlament den Staatspräsidenten abgesetzt. Der Politiker steht nun unter Hausarrest, weil eine große Bank pleiteging und viele Menschen ihr Geld verloren haben.",
     "absaetze": [
-     "Die Digitalbank Ueno ist pleitegegangen. Fast die Hälfte der Menschen in dem Land hatte dort ein Konto. Die Kunden kommen nicht mehr an ihr gespartes Geld heran.",
-     "Der Präsident Peña hatte früher selbst Anteile an dieser Bank. Außerdem hatte der Staat viel Geld von der Rentenkasse bei dieser Bank angelegt.",
-     "Der Senat hat deshalb einstimmig beschlossen, den Präsidenten abzusetzen. Kurz nach der Entscheidung musste Peña in sein Haus und steht dort unter Arrest.",
-     "Der bisherige Vizepräsident Pedro Alliana ist der neue Präsident von Paraguay. Er hat versprochen, dass die Menschen ihr verloren gegangenes Geld zurückbekommen sollen."
+     "Der bisherige Präsident von Paraguay heißt Santiago Peña. Das Parlament hat beschlossen, dass er nicht mehr regieren darf. Grund dafür ist der Zusammenbruch einer sehr großen Bank namens Ueno. Viele Menschen werfen Peña vor, mit den Problemen dieser Bank zu tun zu haben.",
+     "Kurz nach der Entscheidung der Politiker brachte die Polizei Peña in sein Haus. Dort steht er unter Hausarrest und darf das Gebäude nicht verlassen. Die Staatsanwaltschaft wirft ihm Straftaten vor und hat Anklage erhoben.",
+     "Durch die Bankenkrise können etwa drei Millionen Menschen nicht mehr an ihr Erspartes herankommen. Der neue Präsident heißt Pedro Alliana. Er war vorher der Stellvertreter und versprach den Bürgerinnen und Bürgern, dass sie ihr verlorenes Geld zurückbekommen sollen."
     ]
    },
    "video": {
     "kurz": [
-     "In Paraguay hat das Parlament den Präsidenten Santiago Peña einstimmig abgesetzt.",
-     "Auslöser ist die Pleite der Ueno-Bank mit Millionen betroffenen Kunden.",
-     "Nach seiner Absetzung kam Peña unter Hausarrest.",
-     "Der bisherige Vizepräsident Pedro Alliana übernahm das Amt des Präsidenten."
+     "Das Parlament in Paraguay hat Präsident Santiago Peña seines Amtes enthoben.",
+     "Die Justizbehörden stellten den früheren Staatschef kurz darauf unter Hausarrest.",
+     "Rund drei Millionen Menschen verloren zuvor den Zugriff auf ihre Konten bei einer Krisenbank.",
+     "Die Staatsanwaltschaft beantragte nach Angaben des Deutschlandfunks Untersuchungshaft gegen Peña."
     ],
     "lang": [
-     "In Paraguay hat das Parlament den Präsidenten Santiago Peña seines Amtes enthoben.",
-     "Das teilten mehrere Medien am Freitag nach übereinstimmenden Berichten mit.",
-     "Der Senat stimmte in der Hauptstadt Asunción einstimmig für die Absetzung des Staatschefs.",
-     "Auslöser für die politische Krise ist der Zusammenbruch der Digitalbank Ueno.",
-     "Dort hatten rund drei Millionen Menschen und staatliche Rentenkassen ihr Geld angelegt.",
-     "Nach Angaben der Staatsanwaltschaft wird gegen Peña wegen des Verdachts auf Untreue ermittelt.",
-     "Unmittelbar nach dem Parlamentsbeschluss ordneten die Behörden Hausarrest für den Politiker an.",
-     "Nach Angaben der Tagesschau verliert Peña durch die formelle Amtsenthebung seinen Anspruch auf Immunität.",
-     "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Präsident vereidigt und versprach Entschädigungen.",
-     "Die Ermittlungen der Justiz und die politische Aufarbeitung in dem Land dauern weiter an."
+     "Das Parlament von Paraguay hat Präsident Santiago Peña seines Amtes enthoben.",
+     "Unmittelbar nach der Entscheidung stellten die Behörden den Politiker unter Hausarrest.",
+     "Der bisherige Vizepräsident Pedro Alliana übernahm am Freitag die Regierungsgeschäfte in Asunción.",
+     "Alle vierundvierzig anwesenden Senatoren stimmten nach Angaben des Magazins Spiegel für die Absetzung.",
+     "Die Staatsanwaltschaft ermittelt laut Tagesschau wegen des Verdachts auf Untreue gegen Peña.",
+     "Auslöser der Krise ist die Zahlungsunfähigkeit der paraguayischen Digitalbank Ueno.",
+     "Rund drei Millionen Bankkunden können laut Medienberichten derzeit nicht an ihr Erspartes gelangen.",
+     "Während Abgeordnete Peña Pflichtverletzungen vorwerfen, bezeichnete er sich im Internet rein als privaten Investor.",
+     "Nach Angaben des Deutschlandfunks hat die Staatsanwaltschaft inzwischen formell Anklage gegen Peña erhoben.",
+     "Die Gerichte müssen nun über den beantragten Verbleib in Untersuchungshaft entscheiden."
     ],
     "einfach": [
-     "In Paraguay hat das Parlament den Präsidenten Santiago Peña abgesetzt.",
-     "Eine große Bank ist dort pleitegegangen.",
-     "Deshalb kommen Millionen Menschen nicht an ihr Erspartes.",
-     "Der Präsident wurde von den Politikern einstimmig für schuldig erklärt.",
-     "Jetzt steht er unter Hausarrest in seinem Wohnhaus.",
-     "Ein neuer Präsident leitet nun die Regierungsgeschäfte."
+     "In Paraguay verlor Präsident Santiago Peña durch eine Parlamentsentscheidung sein Amt.",
+     "Die Polizei stellte den früheren Präsidenten kurz danach in seinem Haus fest.",
+     "Der Grund dafür sind schwere Geldprobleme bei einer großen Digitalbank.",
+     "Eine Digitalbank ist eine Bank, die fast nur im Internet arbeitet.",
+     "Rund drei Millionen Menschen kommen deshalb gerade nicht an ihr Erspartes.",
+     "Jetzt prüft ein Gericht den Antrag auf eine längere Untersuchungshaft."
     ]
    },
    "kurz": [
-    "Der Senat von Paraguay hat Präsident Santiago Peña einstimmig seines Amtes enthoben.",
-    "Auslöser ist der Zusammenbruch der Ueno-Bank, bei der Millionen Kunden ihr Geld angelegt hatten.",
-    "Peña wurde nach seiner Absetzung unter Hausarrest gestellt und von der Staatsanwaltschaft vernommen.",
-    "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Präsident vereidigt."
+    "Paraguays Parlament hat Präsident Santiago Peña wegen einer schweren Bankenkrise des Amtes enthoben.",
+    "Die Justizbehörden stellten Peña unter Hausarrest und beantragten laut Deutschlandfunk Untersuchungshaft.",
+    "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Staatspräsident vereidigt.",
+    "Rund drei Millionen Kunden haben derzeit keinen Zugriff auf ihre Bankkonten."
    ],
    "fakten": [
     [
-     "Mitglieder im Senat",
-     "45"
+     "Stimmen im Senat für die Absetzung",
+     "44 von 44 anwesenden Senatoren"
     ],
     [
-     "Ja-Stimmen für Amtsenthebung",
-     "44"
+     "Betroffene Bankkunden",
+     "rund 2,9 bis 3 Millionen"
     ],
     [
-     "Betroffene Kunden der Ueno-Bank",
-     "rund drei Millionen"
+     "Einwohnerzahl von Paraguay",
+     "rund 6,4 bis 6,5 Millionen"
     ],
     [
-     "Öffentliche Gelder bei der Bank",
-     "knapp 850 Millionen US-Dollar"
+     "Staatliche Gelder bei der Ueno-Bank",
+     "rund 800 bis 860 Millionen US-Dollar"
     ],
     [
-     "Rentengelder der Sozialversicherung IPS",
-     "rund 350 Millionen US-Dollar"
-    ],
-    [
-     "Regierungsende der aktuellen Amtsperiode",
-     "August 2028"
+     "Datum der Bank-Zwangsverwaltung",
+     "3. November 2026"
     ]
    ],
    "dossier": {
-    "slug": "paraguay-bankenkrise-pena",
+    "slug": "bankenkrise-paraguay",
     "titel": "Bankenkrise und Amtsenthebung in Paraguay"
    },
    "bildInfo": {
@@ -3966,7 +3856,7 @@
     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
     "art": "person",
     "suchbegriff": "Santiago Peña",
-    "bildunterschrift": "Der Präsident von Paraguay, Santiago Peña, bei einem Besuch in Taiwan.",
+    "bildunterschrift": "Santiago Peña, der Präsident von Paraguay.",
     "hinweis": "Archivfoto"
    },
    "bildInfos": [
@@ -3981,21 +3871,7 @@
      "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
      "art": "person",
      "suchbegriff": "Santiago Peña",
-     "bildunterschrift": "Der Präsident von Paraguay, Santiago Peña, bei einem Besuch in Taiwan.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "AllianaDiputado.jpg",
-     "beschreibung": "Hércules Pedro Lorenzo Alliana Rodríguez",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/AllianaDiputado.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/AllianaDiputado.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:AllianaDiputado.jpg",
-     "urheber": "Sistema de Información Legislativa",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "person",
-     "suchbegriff": "Pedro Alliana",
-     "bildunterschrift": "Pedro Alliana wird in den Berichten im Zusammenhang mit politischen Entwicklungen in Paraguay genannt.",
+     "bildunterschrift": "Santiago Peña, der Präsident von Paraguay.",
      "hinweis": "Archivfoto"
     }
    ],
@@ -4006,6 +3882,384 @@
    },
    "version": 5,
    "bildVersucht": true
+  },
+  {
+   "id": "schuesse-krakau",
+   "rubrik": "Welt",
+   "zeit": "2026-11-07T20:06:23.000Z",
+   "titel": "Schusswaffenangriff in der Altstadt von Krakau fordert mehrere Todesopfer",
+   "vorspann": "Bei einer Schussabgabe aus einem Fahrzeug auf dem Marktplatz der polnischen Stadt Krakau sind sechs Menschen getötet und mindestens 15 weitere Personen verletzt worden. Die örtlichen Behörden haben den mutmaßlichen Täter nach einer Flucht und einem Schusswechsel festgenommen.",
+   "eil": true,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "In Krakau hat ein bewaffneter Mann am Nachmittag wahllos auf Passanten auf dem Marktplatz geschossen.",
+    "Bei dem Angriff wurden sechs Menschen getötet und 15 weitere Personen verletzt.",
+    "Die Polizei stoppte den Täter nach einer Autokollision und einem Schusswechsel und nahm ihn fest.",
+    "Innenminister Kierwinski erklärte, der 24-jährige Verdächtige sei mutmaßlich von rechtsextremer Ideologie fasziniert gewesen."
+   ],
+   "einig": [
+    [
+     "Ein Täter tötete in Krakau sechs Menschen und verletzte mindestens 15 weitere.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit",
+      "NZZ"
+     ]
+    ],
+    [
+     "Der mutmaßliche Täter wurde von der Polizei festgenommen.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Zeit",
+      "NZZ"
+     ]
+    ],
+    [
+     "Polens Innenminister Marcin Kierwinski erklärte, der Täter sei von rechtsextremer Ideologie fasziniert gewesen.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Zeit"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob der mutmaßliche Täter Mitwisser hatte oder mit anderen Personen zusammengearbeitet hat, wird laut Polizei noch untersucht.",
+    "Die genaue rechtliche Einstufung der Tat durch die Staatsanwaltschaft steht laut TVN24 noch aus."
+   ],
+   "positionen": [
+    [
+     "Marcin Kierwinski (Innenminister)",
+     "Der Täter war mutmaßlich von rechtsextremer Ideologie fasziniert und wurde von Polizisten und Geheimdienstagenten untersucht.",
+     "Tagesschau/ARD,Deutschlandfunk,Spiegel"
+    ],
+    [
+     "Donald Tusk (Ministerpräsident)",
+     "Appellierte an Politiker, die Tragödie nicht für politische Zwecke zu nutzen, und kündigte lückenlose Aufklärung an.",
+     "Tagesschau/ARD,NZZ"
+    ],
+    [
+     "Waldemar Zurek (Justizminister)",
+     "Betonte, dass der Staat handle, kündigte eine strenge Bestrafung an und rief die Öffentlichkeit zur Ruhe auf.",
+     "Spiegel"
+    ]
+   ],
+   "fehlend": "Es fehlen direkte Aussagen von Augenzeugen vor Ort sowie Stellungnahmen von Angehörigen des Verdächtigen.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "07.11.26, 20:38",
+     "fokus": "Umfassende Hintergrunddetails und Reaktionen",
+     "text": "Die Tagesschau liefert detaillierte Informationen über den Tathergang, die Ausrüstung des Angreifers sowie zahlreiche internationale und nationale Reaktionen.",
+     "url": "https://www.tagesschau.de/ausland/europa/schuesse-krakau-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 582,
+      "satzlaenge": 13,
+      "langeWoerter": 37
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "07.11.26, 21:06",
+     "fokus": "–",
+     "text": "In der polnischen Stadt Krakau hat ein Mann sechs Menschen getötet und mindestens 15 Menschen verletzt. Die Polizei geht von einem Einzeltäter aus. Es deute alles darauf hin, dass er von rechtsextremen Ideologien fasziniert sei, erklärte Polens Innenminister Kierwinski.",
+     "url": "https://www.deutschlandfunk.de/tote-und-verletzte-nach-schuessen-in-krakau-106.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "07.11.26, 20:52",
+     "fokus": "–",
+     "text": "Der Todesschütze von Krakau stand dem polnischen Innenminister zufolge unter rechtsextremem Einfluss. Sechs Menschen sind tot, mehrere Verletzte befinden sich offenbar in kritischem Zustand.",
+     "url": "https://www.spiegel.de/ausland/krakau-schuetze-laut-innenminister-von-rechtsextremer-ideologie-fasziniert-a-00e163d3-dab8-47ea-bf22-f010d1e18463#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 188,
+      "satzlaenge": 14,
+      "langeWoerter": 35
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "07.11.26, 21:05",
+     "fokus": "–",
+     "text": "Ein Mann hat in Kraków sechs Menschen erschossen. Die Polizei schoss ihn an und nahm ihn fest. Laut Regierung war er von »rechtsextremen Ideologien fasziniert«.",
+     "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2026-11/fuenf-tote-und-mehrere-verletzte-nach-schuessen-in-krakau",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "NZZ",
+     "typ": "Tageszeitung (Schweiz)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "07.11.26, 19:51",
+     "fokus": "Lokalgeschichte und präzise Abläufe",
+     "text": "Die NZZ beschreibt neben den Ereignissen auch die historische Bedeutung Krakaus und ordnet die Seltenheit solcher Taten in Polen ein.",
+     "url": "https://www.nzz.ch/panorama/fuenf-todesopfer-nach-schuessen-in-krakau-ld.10057354",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 442,
+      "satzlaenge": 13,
+      "langeWoerter": 37
+     },
+     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Details zu Verletzten",
+     "Einige Medien nennen genaue Zahlen zu verletzten Polizisten oder den kritischen Zustand von zwölf Verletzten, während andere sich auf die Gesamtzahl der Verletzten beschränken."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Ein 24-jähriger polnischer Staatsbürger als mutmaßlicher Einzeltäter",
+    "was": "Sechs getötete und 15 verletzte Personen nach Schüssen aus einem Auto",
+    "wann": "2026-11-07T15:00:00.000Z",
+    "wo": "Krakau, Polen",
+    "wie": "Durch Schüsse aus einem Auto und einen anschließenden Schusswechsel",
+    "warum": "Noch unklar, laut Innenminister Marcin Kierwinski jedoch Faszination für rechtsextreme Ideologien",
+    "quellenlage": "Polizei, Staatsanwaltschaft, Minister, Nachrichtenagentur PAP und Medienberichte"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Am Nachmittag hat ein Täter im polnischen Krakau aus einem Auto heraus das Feuer auf Passanten eröffnet. Laut Angaben der Polizei ereignete sich der Vorfall gegen 15 Uhr auf dem Krakauer Hauptmarkt, welcher im Zentrum der Stadt liegt. Bei dem Angriff wurden vier Frauen und zwei Männer getötet. Mindestens 15 weitere Personen erlitten Verletzungen durch die Schüsse. Zu den Verletzten gehören nach offiziellen Angaben auch drei beziehungsweise laut NZZ zwei Polizeibeamte.",
+      "Nach Berichten der Nachrichtenagentur PAP unter Berufung auf einen Fotoreporter kollidierte das Fahrzeug des mutmaßlichen Täters auf seiner Flucht an einer Kreuzung mit einem anderen Wagen. Der Mann sprang daraufhin aus dem Auto und schoss auf die Einsatzkräfte. Die Beamten erwiderten das Feuer, trafen den Angreifer und nahmen ihn schließlich fest. Der verletzte Tatverdächtige wurde in ein Krankenhaus gebracht.",
+      "Die zuständigen Behörden gehen zum jetzigen Zeitpunkt von einem Einzeltäter aus. Laut Angaben der Polizei handelte es sich bei dem festgenommenen Mann um einen 24-jährigen polnischen Staatsbürger. Die Staatsanwaltschaft hat nach Angaben von TVN24 noch keine endgültige Entscheidung über die rechtliche Einstufung der Tat getroffen. Der Mann war zuvor nach Polizeiangaben nicht straffällig geworden."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Über den Zustand der Verletzten gibt es präzise Angaben von den lokalen Behörden. So teilte die Woiwodschaft Kleinpolen mit, dass sich zwölf der verletzten Personen in einem kritischen oder lebensgefährlichen Zustand befinden. Der Chef der Woiwodschaft Kleinpolen, Krzysztof Kleczar, bestätigte diese Zahl in einer Äußerung gegenüber dem Sender Polsat News. Einer der verletzten Polizeibeamten befindet sich laut Angaben der NZZ in einem kritischen Zustand.",
+      "Der mutmaßliche Täter trug zum Zeitpunkt der Tat militärähnliche Kleidung. Nach polizeilichen Erkenntnissen besaß der Mann eine Waffenerlaubnis und benutzte eine zivile Version des Sturmgewehres vom Typ AR-15. Bei einer Durchsuchung des Fahrzeugs entdeckten Einsatzkräfte zahlreiche weitere Waffenteile sowie Munition. Polizisten und Agenten des Inlandsgeheimdienstes wurden nach Angaben des Innenministeriums an verschiedenen Orten, darunter auch am Haus der Familie des Verdächtigen, eingesetzt.",
+      "Innenminister Marcin Kierwinski erklärte auf einer Pressekonferenz, dass der Mann mutmaßlich von einer rechtsextremen Ideologie fasziniert oder beeinflusst war. Diese Vermutung wird nun Gegenstand der laufenden Ermittlungen sein. Die Polizei dementierte ausdrücklich Spekulationen über die Suche nach weiteren Komplizen und bekräftigte, dass der Verdächtige allein gehandelt habe."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Krakau ist mit mehr als 800.000 Einwohnern die zweitgrößte Stadt der Republik Polen. Die Stadt verfügt über eine mittelalterliche Altstadt, die als UNESCO-Welterbe eingetragen und ein beliebtes Ziel für Touristen ist. Historisch war Krakau über Jahrhunderte das politische und kulturelle Zentrum des Königreichs Polen.",
+      "Bis in das 18. Jahrhundert hinein blieb Krakau die Krönungs- und Begräbnisstätte der polnischen Könige, selbst nachdem Warschau bereits den Status der Hauptstadt erhalten hatte. Taten dieser Art und Ausprägung gelten in Polen als äußerst selten. Entsprechend groß ist die Betroffenheit in der Bevölkerung und bei den politischen Institutionen des Landes."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Eine Woiwodschaft ist eine Verwaltungseinheit in Polen, die mit einer Region oder einem Bundesland in anderen Staaten vergleichbar ist. An der Spitze einer solchen Verwaltung steht oft ein Woiwode oder ein regionaler Regierungsvertreter, der koordinierende Aufgaben übernimmt.",
+      "Ein Inlandsgeheimdienst ist eine staatliche Behörde zur Abwehr von Gefahren für die innere Sicherheit eines Staates, wie etwa Terrorismus oder verfassungsfeindliche Bestrebungen. Sie arbeitet meist eng mit der Kriminalpolizei zusammen, verfügt jedoch über erweiterte nachrichtendienstliche Befugnisse."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Der polnische Ministerpräsident Donald Tusk begab sich unmittelbar nach den Ereignissen auf den Weg nach Krakau. Auf der Plattform X sprach er den Familien und Angehörigen der Opfer sein Beileid aus und rief dazu auf, die Tragödie nicht politisch zu instrumentalisieren. Justizminister Waldemar Zurek schrieb ebenfalls auf X, dass der Täter verletzt und festgenommen wurde, betonte die Handlungsfähigkeit des Staates und kündigte eine strenge Bestrafung an.",
+      "Staatspräsident Karol Nawrocki äußerte sich auf X besorgt und erklärte, er stehe in Kontakt mit den zuständigen Behörden. Der Krakauer Erzbischof, Kardinal Grzegorz Rys, rief in einer Erklärung zu gesellschaftlichem Zusammenhalt auf. Der Bürgermeister von Krakau ordnete eine Staatstrauer bis zum 11. November an, während Präsident Nawrocki eine landesweite Trauerperiode vom 8. bis zum 9. November ansetzte.",
+      "Aus dem Ausland trafen zahlreiche Beileidsbekundungen ein. Bundeskanzler Friedrich Merz erklärte, Deutschland stehe als Freund und Partner an der Seite Polens. Der ukrainische Präsident Wolodymyr Selenskyj verurteilte das Verbrechen als schockierend. EU-Kommissionspräsidentin Ursula von der Leyen, der französische Staatspräsident Emmanuel Macron und die italienische Ministerpräsidentin Giorgi Meloni äußerten ebenfalls Bestürzung und sprachen den Hinterbliebenen ihr Mitgefühl aus."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die Ermittlungsbehörden setzen die Spurensicherung und die Aufklärung der Hintergründe fort. Die Polizei und Agenten des Inlandsgeheimdienstes untersuchen insbesondere, ob der mutmaßliche Täter mit anderen Personen zusammengearbeitet hat oder ob es Hintermänner gibt.",
+      "Für den Abend des Tates war eine offizielle Pressekonferenz der Regierung angesetzt, um die Öffentlichkeit über den weiteren Stand der Untersuchungen zu informieren. Die Staatsanwaltschaft wird auf Basis der Ermittlungen über die formelle Einstufung der Tat und die Erhebung einer Anklage entscheiden."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Samstag, 15:00 Uhr",
+     "Der mutmaßliche Täter fährt mit einem Auto auf den Krakauer Hauptmarkt und beginnt zu schießen."
+    ],
+    [
+     "Samstag, im Laufe des Nachmittags",
+     "Nach einer Flucht und einem Schusswechsel mit der Polizei wird der Täter festgenommen."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Aufgrund des Berichts über eine Gewalttat mit Toten und Verletzten wird entsprechend den redaktionellen Vorgaben auf Illustrationen verzichtet."
+    }
+   ],
+   "ort": {
+    "name": "Krakau, Polen"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [
+    "schockierend"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Woiwodschaft",
+      "Eine Woiwodschaft ist eine Verwaltungseinheit in Polen, die mit einem Bundesland in Deutschland vergleichbar ist."
+     ],
+     [
+      "Inlandsgeheimdienst",
+      "Ein Inlandsgeheimdienst ist eine staatliche Behörde zur Abwehr von Gefahren für die innere Sicherheit innerhalb eines Staates."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielen offizielle Behördenangaben bei der Berichterstattung über laufende Ermittlungen?",
+     "Wie berichten verschiedene Medien übereinstimmend über die Tat und wo gibt es unterschiedliche Details?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie viele Menschen wurden bei dem Angriff in Krakau getötet?",
+      "optionen": [
+       "Vier Menschen",
+       "Sechs Menschen",
+       "Acht Menschen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmender Berichte wurden sechs Menschen getötet."
+     },
+     {
+      "frage": "Was passierte mit dem mutmaßlichen Täter nach der Tat?",
+      "optionen": [
+       "Er wurde von der Polizei festgenommen.",
+       "Er konnte unerkannt ins Ausland fliehen.",
+       "Er stellte sich freiwillig auf der Wache."
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Polizei stoppte den Täter nach einer Autokollision und einem Schusswechsel und nahm ihn fest."
+     },
+     {
+      "frage": "Welches Motiv nannte der polnische Innenminister Marcin Kierwinski?",
+      "optionen": [
+       "Eine Faszination für rechtsextreme Ideologien",
+       "Einen Streit um finanzielle Schulden",
+       "Eine psychische Erkrankung ohne politische Hintergründe"
+      ],
+      "richtig": 0,
+      "erklaerung": "Innenminister Marcin Kierwinski erklärte, der Täter sei mutmaßlich von rechtsextremer Ideologie fasziniert gewesen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In der polnischen Stadt Krakau hat ein bewaffneter Mann mehrere Menschen getötet und verletzt.",
+    "absaetze": [
+     "Am Nachmittag fuhr ein Mann mit einem Auto auf den Marktplatz von Krakau.",
+     "Er schoss aus dem Auto heraus wahllos auf Passanten.",
+     "Dabei wurden sechs Menschen getötet und mindestens fünfzehn weitere Personen verletzt.",
+     "Nach einer kurzen Flucht stoppte die Polizei den Mann nach einem Schusswechsel und nahm ihn fest.",
+     "Der Innenminister erklärte, der Täter sei vermutlich von rechtsextremen Ideen fasziniert gewesen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "In Krakau hat ein Täter bei einem Schusswaffenangriff sechs Menschen getötet.",
+     "Mindestens fünfzehn weitere Personen wurden nach Angaben der Behörden verletzt.",
+     "Die Polizei nahm den mutmaßlichen Täter nach einem Schusswechsel fest.",
+     "Der Innenminister erklärte, der Mann war vermutlich rechtsextrem beeinflusst."
+    ],
+    "lang": [
+     "Bei einer Schussabgabe auf dem Marktplatz in der polnischen Stadt Krakau sind sechs Menschen gestorben.",
+     "Mindestens fünfzehn weitere Personen erlitten nach Angaben der Behörden Verletzungen.",
+     "Der Vorfall ereignete sich am Samstagnachmittag gegen fünfzehn Uhr im Zentrum der Stadt.",
+     "Ein vierundzwanzigjähriger polnischer Staatsbürger fuhr mit einem Auto auf den Marktplatz und schoss auf Passanten.",
+     "Nach einer Flucht und einem Schusswechsel mit der Polizei wurde der Mann verletzt festgenommen.",
+     "Im Auto des Verdächtigen fanden Einsatzkräfte zahlreiche Waffenteile und Munition.",
+     "Nach Angaben von Innenminister Marcin Kierwinski deute alles auf eine Faszination für rechtsextreme Ideologien hin.",
+     "Ministerpräsident Donald Tusk und andere Politiker riefen dazu auf, die Tragödie nicht politisch zu instrumentalisieren.",
+     "Taten dieser Art gelten in Polen nach Angaben von Medien als äußerst selten.",
+     "Die Ermittlungen der Staatsanwaltschaft und des Inlandsgeheimdienstes zu den Hintergründen dauern an."
+    ],
+    "einfach": [
+     "Ein bewaffneter Mann hat in Krakau sechs Menschen erschossen.",
+     "Mindestens fünfzehn weitere Menschen wurden bei der Tat verletzt.",
+     "Die Polizei stoppte den Täter nach einer Verfolgungsjagd.",
+     "Die Beamten verletzten den Mann bei einem Schusswechsel und nahmen ihn fest.",
+     "Der Innenminister sagte, der Täter war vermutlich rechtsextrem beeinflusst."
+    ]
+   },
+   "kurz": [
+    "In der polnischen Stadt Krakau hat ein Täter sechs Menschen getötet.",
+    "Mindestens fünfzehn weitere Personen wurden bei dem Angriff verletzt.",
+    "Die Polizei hat den mutmaßlichen Täter nach einem Schusswechsel festgenommen.",
+    "Innenminister Marcin Kierwinski sprach von einer Faszination für rechtsextreme Ideologien."
+   ],
+   "fakten": [
+    [
+     "Getötete Menschen",
+     "6"
+    ],
+    [
+     "Verletzte Menschen",
+     "15"
+    ],
+    [
+     "Alter des Verdächtigen",
+     "24"
+    ],
+    [
+     "Einwohnerzahl von Krakau",
+     "mehr als 800.000"
+    ]
+   ],
+   "dossier": {
+    "slug": "schusswaffenangriff-krakau",
+    "titel": "Schusswaffenangriff in Krakau"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Krakau, Polen",
+    "lat": 50.047,
+    "lon": 19.997
+   },
+   "version": 5
   },
   {
    "id": "cyberangriff-supermaerkte-kuehlsysteme",

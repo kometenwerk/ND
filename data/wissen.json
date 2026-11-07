@@ -1,6 +1,120 @@
 {
- "stand": "2026-11-07T08:41:18.870Z",
+ "stand": "2026-11-07T20:11:44.882Z",
  "stuecke": [
+  {
+   "id": "was-die-temperatur-im-alltag-und-universum-bestimmt",
+   "zeit": "2026-11-07T20:21:10.777Z",
+   "bereich": "Körper und Gesundheit",
+   "titel": "Was die Temperatur im Alltag und Universum bestimmt",
+   "vorspann": "Die Temperatur ist eine physikalische Zustandsgröße aus der Thermodynamik. Sie beschreibt, wie warm oder kalt ein Körper ist.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Temperatur ist eine physikalische Zustandsgröße aus der Thermodynamik. Gemessen wird sie mit einem Thermometer in den Einheiten Kelvin und Grad Celsius. Im Alltag ist sie mit dem Gefühl von warm und kalt verbunden. Allerdings kann sich die gemessene Temperatur erheblich von der gefühlten Temperatur unterscheiden. Bringt man zwei Körper mit unterschiedlichen Temperaturen in thermischen Kontakt, findet Wärmeübertragung statt. Die Wärme fließt dabei stets vom heißeren zum kälteren Körper.",
+      "Dadurch nimmt die Temperaturdifferenz so lange ab, bis sich die beiden Temperaturen einander angeglichen haben. Wenn die Temperaturen gleich sind, herrscht thermisches Gleichgewicht. In diesem Zustand findet kein Wärmeaustausch mehr statt. Fast alle physikalischen und chemischen Eigenschaften von Stoffen sind von der Temperatur abhängig. Beispiele dafür sind die thermische Ausdehnung, der elektrische Widerstand oder die Schallgeschwindigkeit."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Alle Gase, Flüssigkeiten und festen Stoffe bestehen aus sehr kleinen Teilchen wie Atomen und Molekülen. Diese befinden sich in ständiger ungeordneter Bewegung und besitzen Energie. Eine Erhöhung der Temperatur verursacht eine Erhöhung der durchschnittlichen Energie dieser Teilchen. Je höher die Temperatur des Körpers ist, desto größer ist die mittlere Geschwindigkeit seiner Teilchen. Im idealen Gas ist die Temperatur proportional zur mittleren kinetischen Energie der Teilchen.",
+      "Die tiefste überhaupt mögliche Temperatur ist null Kelvin. Das ist gleichbedeutend mit minus zweihundertdreiundsiebzig Komma eins fünf Grad Celsius. Sie wird als der absolute Nullpunkt bezeichnet. Bei dieser Temperatur bewegen sich die Teilchen nicht stärker, als es die quantenmechanische Unschärferelation erlaubt. Eine bestimmte Temperatur, die im ganzen System einheitlich gilt, existiert nur im Zustand des thermischen Gleichgewichts."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die niedrigste im Universum jemals gemessene Temperatur wurde im Jahr zweitausendachtzehn im Bremer Fallturm der Universität Bremen erzeugt. Sie betrug für zwei Sekunden lediglich achtunddreißig Pikokelvin. Das sind achtunddreißig Billionstel Grad Celsius über dem absoluten Nullpunkt. Zudem wurde im Jahr achtzehnachtundvierzig von Lord Kelvin bemerkt, dass es für Abwärme eine untere Schranke gibt. Seit neunzehnundvierzig oder später wird dies zur Definition der thermodynamischen Temperatur genutzt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Absoluter Nullpunkt in Kelvin",
+     "0 K"
+    ],
+    [
+     "Absoluter Nullpunkt in Celsius",
+     "-273,15 °C"
+    ],
+    [
+     "Niedrigste gemessene Temperatur",
+     "38 Pikokelvin"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Temperatur",
+     "Eine physikalische Zustandsgröße, die mit einem Thermometer in Kelvin oder Grad Celsius gemessen wird."
+    ],
+    [
+     "Thermisches Gleichgewicht",
+     "Ein Zustand, in dem zwei Körper die gleiche Temperatur haben und kein Wärmeaustausch mehr stattfindet."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "In welcher Einheit wird die Temperatur laut Text unter anderem gemessen?",
+     "optionen": [
+      "Grad Celsius",
+      "Meter",
+      "Gramm"
+     ],
+     "richtig": 0,
+     "erklaerung": "Die Temperatur wird mit einem Thermometer in den Einheiten Kelvin und Grad Celsius gemessen."
+    }
+   ],
+   "video": [
+    "Die Temperatur ist eine physikalische Zustandsgröße aus der Thermodynamik.",
+    "Sie wird mit einem Thermometer in Kelvin und Grad Celsius gemessen.",
+    "Im Alltag ist sie mit dem Gefühl von warm und kalt verbunden.",
+    "Alle Stoffe bestehen aus sehr kleinen Teilchen in ständiger Bewegung.",
+    "Je höher die Temperatur ist, desto größer ist die mittlere Geschwindigkeit.",
+    "Die tiefste mögliche Temperatur ist der absolute Nullpunkt bei null Kelvin.",
+    "Im Jahr zweitausendachtzehn wurde im Bremer Fallturm ein Rekord aufgestellt.",
+    "Dort wurde die niedrigste Temperatur im Universum erzeugt."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Temperatur",
+    "bildunterschrift": "Die Temperatur beschreibt den thermischen Zustand von Stoffen."
+   },
+   "quelle": {
+    "titel": "Temperatur",
+    "url": "https://de.wikipedia.org/wiki/Temperatur",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 312,
+   "bildInfos": [
+    {
+     "titel": "Fotothek df n-08 0000327.jpg",
+     "beschreibung": "Original image description from the Deutsche Fotothek Metallurge für Erzeugung-Stahl, E-Werk",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Fotothek_df_n-08_0000327.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Fotothek_df_n-08_0000327.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Fotothek_df_n-08_0000327.jpg",
+     "urheber": "Eugen Nosko",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die Temperatur beschreibt den thermischen Zustand von Stoffen."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Fotothek df n-08 0000327.jpg",
+    "beschreibung": "Original image description from the Deutsche Fotothek Metallurge für Erzeugung-Stahl, E-Werk",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Fotothek_df_n-08_0000327.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Fotothek_df_n-08_0000327.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Fotothek_df_n-08_0000327.jpg",
+    "urheber": "Eugen Nosko",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Die Temperatur beschreibt den thermischen Zustand von Stoffen."
+   }
+  },
   {
    "id": "das-phaenomen-der-monsterwellen-auf-see",
    "zeit": "2026-11-07T09:08:24.526Z",
@@ -6373,192 +6487,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein mechanisches Metronom mit einem Pendel und einer Skala."
-   }
-  },
-  {
-   "id": "hintergruende-zum-reflexartigen-gaehnen-bei-mensch-und-tier",
-   "zeit": "2026-10-18T14:39:25.692Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Hintergründe zum reflexartigen Gähnen bei Mensch und Tier",
-   "vorspann": "Gähnen ist ein reflexartiges Verhalten, das bei Menschen und vielen Tieren vorkommt. Die genauen Ursachen und Zwecke sind in der Wissenschaft bisher nicht eindeutig geklärt.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Das Gähnen zeigt sich bei Menschen und Tieren als ein reflexartiges Verhalten. Es steht häufig im Zusammenhang mit Müdigkeit und Langeweile. Der Vorgang beginnt mit einem tiefen Atemzug, bei dem der Mund weit geöffnet wird. Danach folgt das Ausatmen, das oft von einer unterdrückbaren Lautgebung begleitet wird. Während des gesamten Ausatmens wird der Mund allmählich geschlossen.",
-      "In der westlichen Kultur gilt Gähnen als Zeichen von Müdigkeit oder Langeweile. Deshalb werden kaschierende Gesten von gähnenden Personen erwartet. Es ist üblich, sich abzuwenden oder eine Hand vor den Mund zu halten. Teilweise wird sogar empfohlen, das Gähnen ganz zu unterdrücken. Bei Tieren gähnen die meisten Säugetiere und viele andere Wirbeltiere."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Essentiell beim Gähnen sind das Öffnen des Unterkiefers, die Dehnungen von Gesichtsmuskeln und das Schließen der Augen. Ebenso wie das Strecken erhöht das Gähnen den Blutdruck und den Herzschlag. Ferner werden etliche Gelenke und Sehnen gedehnt. Manchmal wird das Gähnen von einem Tränenfluss begleitet. Die Dauer eines durchschnittlichen Gähnvorgangs beträgt ungefähr sechs Sekunden.",
-      "Beim Gähnen sind Neurotransmitter beteiligt, die auch Emotionen, Stimmungen und den Appetit beeinflussen. Eine Erhöhung von Serotonin, Dopamin oder Glutaminsäure im Gehirn steigert die Gähnfrequenz. Eine Erhöhung der Endorphine lässt die Gähnfrequenz dagegen sinken. Ein weiterer Effekt des Gähnens ist der Druckausgleich zwischen Mittelohr und Umgebung durch die Eustachi-Röhre.",
-      "Schon ab der elften Schwangerschaftswoche konnte Gähnen bei Föten beobachtet werden. Fötales Gähnen dient wahrscheinlich einer verbesserten Lungenfunktion nach der Geburt. Außerdem müssen Gelenke schon im Mutterleib bewegt werden, damit sie sich funktionstüchtig entwickeln. Das gilt auch für das Kiefergelenk."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Im Jahr 1942 publizierte der Amerikaner Joseph Moore als erster über Experimente zum Thema Gähnen. Er suchte mit seinen Versuchen nach visuellen und auditiven Stimuli, die Gähnen auslösen. Studien von de Vries et al. in den frühen 1980er-Jahren zeigten zudem, dass Gähnen und Strecken schon beim Fötus gekoppelt sind. Neuere Arbeiten stammen unter anderem von dem US-amerikanischen Neuropsychologen Robert Provine.",
-      "Bei Untersuchungen des Gähnens mit bildgebenden Verfahren wie dem Magnetresonanztomographen konnten Platek et al. zeigen, dass während des Gähnens die gleichen Bereiche im Gehirn aktiv sind wie bei der Selbsteinschätzung. Andrew C. Gallup und Gordon G. Gallup Jr. vertreten zudem die Auffassung, Gähnen könnte der Kühlung des Gehirns dienen."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Ursache und Zweck des Gähnens sind laut dem Artikel nicht eindeutig geklärt. Bis jetzt konnte keine alleinige Ursache für das Gähnen gefunden werden, und auch der genaue neuronale Ablauf sowie alle beteiligten Neurotransmitter sind noch unbekannt."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Durchschnittliche Dauer eines Gähnvorgangs",
-     "ungefähr sechs Sekunden"
-    ],
-    [
-     "Beobachtetes Fötales Gähnen ab der Schwangerschaftswoche",
-     "11. Woche"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Neurotransmitter",
-     "Botenstoffe, die Informationen von einer Nervenzelle zur nächsten übertragen und dabei auch Stimmungen beeinflussen."
-    ],
-    [
-     "Eustachi-Röhre",
-     "Eine Verbindung zwischen dem Mittelohr und dem Rachenraum, die für den Druckausgleich sorgt."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann wurde erstmals über Experimente zum Thema Gähnen publiziert?",
-     "optionen": [
-      "1942",
-      "1963",
-      "2010"
-     ],
-     "richtig": 0,
-     "erklaerung": "Im Jahr 1942 publizierte der Amerikaner Joseph Moore als erster über Experimente zum Thema Gähnen."
-    }
-   ],
-   "video": [
-    "Gähnen ist ein reflexartiges Verhalten bei Menschen und Tieren.",
-    "Es steht häufig im Zusammenhang mit Müdigkeit und Langeweile.",
-    "Ein durchschnittlicher Gähnvorgang dauert ungefähr sechs Sekunden.",
-    "Dabei öffnen sich der Unterkiefer und die Augen werden geschlossen.",
-    "Auch ungeborene Kinder gähnen bereits im Mutterleib.",
-    "Wissenschaftler untersuchen das Gähnen mit verschiedenen Methoden.",
-    "Die genauen Ursachen sind jedoch bis heute nicht eindeutig geklärt."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Gähnen",
-    "bildunterschrift": "Gähnen ist ein reflexartiges Verhalten, das bei Menschen und Tieren auftritt."
-   },
-   "quelle": {
-    "titel": "Gähnen",
-    "url": "https://de.wikipedia.org/wiki/G%C3%A4hnen",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 395,
-   "bildInfos": [
-    {
-     "titel": "Joseph Ducreux (French) - Self-Portrait, Yawning - Google Art Project.jpg",
-     "beschreibung": "\"Self-Portrait, Yawning\" by Joseph Ducreux (French - Google Art Project)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg/1280px-Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Joseph_Ducreux_(French)_-_Self-Portrait,_Yawning_-_Google_Art_Project.jpg",
-     "urheber": "Joseph Ducreux",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Gähnen",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Gähnen ist ein reflexartiges Verhalten, das bei Menschen und Tieren auftritt."
-    },
-    {
-     "titel": "Amphilophus labiatum, yawning in aquarium.jpg",
-     "beschreibung": "Amphilophus labiatum , yawning in aquarium. Wrong colors due to bad lighting, the real colour is salmon with some red sprinkles in the fin (like this photo )",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Amphilophus_labiatum%2C_yawning_in_aquarium.jpg/1280px-Amphilophus_labiatum%2C_yawning_in_aquarium.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Amphilophus_labiatum%2C_yawning_in_aquarium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Amphilophus_labiatum,_yawning_in_aquarium.jpg",
-     "urheber": "AtelierMonpli",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Amphilophus labiatum , yawning in aquarium. Wrong colors due to bad lighting, the real colour is salmon with some red sprinkles in the fin (like this photo )"
-    },
-    {
-     "titel": "Close-up view of the head of a white tiger, yawning with the tongue out.jpg",
-     "beschreibung": "Close-up view of the head of a white tiger ( Bengal tiger species), yawning with the tongue out, at Singapore Zoo .",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Close-up_view_of_the_head_of_a_white_tiger%2C_yawning_with_the_tongue_out.jpg/1280px-Close-up_view_of_the_head_of_a_white_tiger%2C_yawning_with_the_tongue_out.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/62/Close-up_view_of_the_head_of_a_white_tiger%2C_yawning_with_the_tongue_out.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Close-up_view_of_the_head_of_a_white_tiger,_yawning_with_the_tongue_out.jpg",
-     "urheber": "Basile Morin",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Close-up view of the head of a white tiger ( Bengal tiger species), yawning with the tongue out, at Singapore Zoo ."
-    },
-    {
-     "titel": "Gray727-Brodman.png",
-     "beschreibung": "Medial surface of right cerebral hemisphere.",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gray727-Brodman.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/Gray727-Brodman.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Gray727-Brodman.png",
-     "urheber": "Henry Vandyke Carter",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Medial surface of right cerebral hemisphere."
-    },
-    {
-     "titel": "Old pony by the solent.jpg",
-     "beschreibung": "A lame pony on the Solent shore at Tanners Lane.Yawning",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Old_pony_by_the_solent.jpg/1280px-Old_pony_by_the_solent.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Old_pony_by_the_solent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Old_pony_by_the_solent.jpg",
-     "urheber": "Jim Champion",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A lame pony on the Solent shore at Tanners Lane.Yawning"
-    },
-    {
-     "titel": "Yawning Infant, August 2018.jpg",
-     "beschreibung": "A female neonate / newborn baby girl, yawning",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Yawning_Infant%2C_August_2018.jpg/1280px-Yawning_Infant%2C_August_2018.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Yawning_Infant%2C_August_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Yawning_Infant,_August_2018.jpg",
-     "urheber": "Martin Falbisoner",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A female neonate / newborn baby girl, yawning"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Joseph Ducreux (French) - Self-Portrait, Yawning - Google Art Project.jpg",
-    "beschreibung": "\"Self-Portrait, Yawning\" by Joseph Ducreux (French - Google Art Project)",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg/1280px-Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/4/46/Joseph_Ducreux_%28French%29_-_Self-Portrait%2C_Yawning_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Joseph_Ducreux_(French)_-_Self-Portrait,_Yawning_-_Google_Art_Project.jpg",
-    "urheber": "Joseph Ducreux",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Gähnen",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Gähnen ist ein reflexartiges Verhalten, das bei Menschen und Tieren auftritt."
    }
   }
  ]

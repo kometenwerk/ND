@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-07T08:41:18.870Z",
+ "stand": "2026-11-07T20:11:44.882Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -676,9 +676,89 @@
     "ueberschrift": "Die Entwicklung der Pilze im Stammbaum",
     "wikipedia": "Evolution",
     "fokus": "Dieses Kapitel geht auf die stammesgeschichtliche Entwicklung und Verwandtschaft der Pilze ein.",
-    "zuDuenn": 2,
+    "zuDuenn": 3,
     "versuche": 0,
-    "fehlgeschlagen": false
+    "fehlgeschlagen": false,
+    "absaetze": [
+     "Die Erforschung des Reichs der Pilze führt uns nun zu ihrer stammesgeschichtlichen Entwicklung im Stammbaum.",
+     "Nach Angaben aus dem Wikipedia-Artikel über Evolution versteht man darunter die allmähliche Veränderung der vererbbaren Merkmale von Generation zu Generation.",
+     "Die Merkmale der Lebewesen sind in Genen codiert, die bei der Fortpflanzung kopiert und an die Nachkommen weitergegeben werden.",
+     "Durch Mutationen und Rekombinationen entstehen genetische Unterschiede zwischen den Individuen in einer Population.",
+     "Laut dem Wikipedia-Artikel treten parasexuelle Rekombinationen bei Prokaryoten und einigen Pilzen auf.",
+     "Evolution findet laut dem Wikipedia-Artikel statt, wenn sich die Häufigkeit bestimmter Allele im Genpool einer Population ändert.",
+     "Diese Veränderungen werden durch natürliche Selektion, sexuelle Selektion, Gendrift oder Mutation angetrieben, wie der Wikipedia-Artikel darlegt.",
+     "Im nächsten Kapitel erfahren wir mehr über weitere spannende Geheimnisse aus der Welt der Pilze."
+    ],
+    "fakten": [
+     [
+      "Jahr des Buches The Origin of Species von Charles Darwin",
+      "1859"
+     ],
+     [
+      "Jahr der Entschlüsselung der DNA-Struktur",
+      "1953"
+     ],
+     [
+      "Anzahl der Vogelarten mit Helfersystemen laut Artikel",
+      "zweihundert"
+     ],
+     [
+      "Anzahl der Säugerarten mit Helfersystemen laut Artikel",
+      "hundertzwanzig"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Evolution",
+      "Die allmähliche Veränderung der vererbbaren Merkmale einer Population von Lebewesen von Generation zu Generation."
+     ],
+     [
+      "Mutation",
+      "Eine dauerhafte Veränderung des genetischen Materials, die neue Merkmale hervorbringen kann."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Evolution",
+     "bildunterschrift": "Die Evolution beschreibt die allmähliche Veränderung von Merkmalen über viele Generationen hinweg."
+    },
+    "quelle": {
+     "titel": "Evolution",
+     "url": "https://de.wikipedia.org/wiki/Evolution"
+    },
+    "woerter": 127,
+    "bildInfos": [
+     {
+      "titel": "Darwin Tree 1837.png",
+      "beschreibung": "Sketch from Charles Darwin's Notebooks on Transmutation of Species (1837), arguably the first example of a phylogenetic tree . (1) represents a common ancestor, the barred branches represent extant de",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1280px-Darwin_Tree_1837.png",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Darwin_Tree_1837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "seite": "https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png",
+      "urheber": "Charles Darwin",
+      "lizenz": "Public domain",
+      "lizenzUrl": "",
+      "artikel": "Evolution",
+      "sprache": "en",
+      "art": "symbol",
+      "hinweis": "Bild aus der Wikipedia",
+      "bildunterschrift": "Die Evolution beschreibt die allmähliche Veränderung von Merkmalen über viele Generationen hinweg."
+     }
+    ],
+    "bildInfo": {
+     "titel": "Darwin Tree 1837.png",
+     "beschreibung": "Sketch from Charles Darwin's Notebooks on Transmutation of Species (1837), arguably the first example of a phylogenetic tree . (1) represents a common ancestor, the barred branches represent extant de",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Darwin_Tree_1837.png/1280px-Darwin_Tree_1837.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Darwin_Tree_1837.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Darwin_Tree_1837.png",
+     "urheber": "Charles Darwin",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Evolution",
+     "sprache": "en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Die Evolution beschreibt die allmähliche Veränderung von Merkmalen über viele Generationen hinweg."
+    }
    },
    {
     "ueberschrift": "Unbekannte Arten und offene Fragen",
