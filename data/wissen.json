@@ -1,6 +1,175 @@
 {
- "stand": "2026-11-04T06:07:01.069Z",
+ "stand": "2026-11-07T08:41:18.870Z",
  "stuecke": [
+  {
+   "id": "das-phaenomen-der-monsterwellen-auf-see",
+   "zeit": "2026-11-07T09:08:24.526Z",
+   "bereich": "Natur und Tiere",
+   "titel": "Das Phänomen der Monsterwellen auf See",
+   "vorspann": "Monsterwellen sind außergewöhnlich hohe und gefährliche Wasserwellen auf den Ozeanen. Lange Zeit galten sie als Seemannsgarn, bis Messungen und Satellitenaufnahmen ihre Existenz bewiesen.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Monsterwellen sind außergewöhnlich hohe, einzelne marine Wasserwellen. Sie überschreiten die signifikante Wellenhöhe, also den Mittelwert des höchsten Drittels der Wellen in einem Seegang, um mindestens das Doppelte. Sie haben eine vergleichsweise kurze Wellenlänge und eine relativ hohe Geschwindigkeit. Ein weiteres Merkmal ist ihre steile Vorderfront. Es werden dabei Wellenhöhen von über 15 Metern auf offener See erreicht, was man lange für unmöglich gehalten hatte.",
+      "Drei Arten von Monsterwellen sind bisher bekannt. Der Kaventsmann ist eine große, relativ schnelle Welle, die nicht der Richtung des normalen Seegangs folgt. Die Drei Schwestern bestehen aus drei schnell aufeinander folgenden großen Wellen. Die Weiße Wand ist eine sehr steile Welle, von deren Kamm die Gischt herabsprüht, gefolgt von einem tiefen Wellental. Der massive Aufprall einer Riesenwelle auf ein Schiff kann zu schweren Zerstörungen oder zum Untergang führen."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Der wichtigste Mechanismus bei der Entstehung von Monsterwellen ist die Überlagerung mehrerer Wellen. Starker Wind gegen die Richtung der Meeresströmung macht die Entstehung hohen Seegangs wahrscheinlicher. Eine Dünung kann ebenfalls gegen eine Meeresströmung laufen. Dabei werden die Wellen kürzer, aber steiler und höher. Kommen dann noch Überlagerungen hinzu, entstehen große Wellen.",
+      "Monsterwellen konzentrieren in Gegenden mit starken Meeresströmungen. Die Seegebiete südöstlich und östlich von Südafrika sowie die Südspitze Südamerikas sind berüchtigt für das Auftreten solcher Wellen. Auch Seegebiete, in denen die Wassertiefe plötzlich abnimmt, sind bekannt für gefährlichen Seegang. Küstenzonen mit stark schwankenden Meerestiefen gehören zu den anfälligen Seegebieten.",
+      "Die Gefahr des Kenterns ist am größten, wenn das Schiff seitlich getroffen wird, weil das Trägheitsmoment der Längsachse am kleinsten und die Angriffsfläche für die Welle maximal ist. Bei Frontaltreffern wird das Schiff an seinem freiliegenden Bug infolge des Eigengewichts zerbrochen. Schiffe können durch die gewaltigen Kräfte infolge der Schäden manövrierunfähig werden."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Bis 1995 galten Monsterwellen als reine Erfindungen. Zwei Ereignisse führten dazu, dass ihre Existenz nicht mehr in Frage gestellt wurde. In der Neujahrsnacht 1995 wurde von der automatischen Wellenmessanlage der norwegischen Ölbohrplattform Draupner-E eine einzelne Welle dokumentiert. Im September 1995 wurde der britische Luxusliner Queen Elizabeth 2 von Monsterwellen getroffen.",
+      "Die Höhe von Monsterwellen kann durch Radarmessungen bestimmt werden. Mit den europäischen Umweltsatelliten ERS-1 und ERS-2 wurden weltweit Radarmessungen vorgenommen. Die Entstehung von Monsterwellen kann auch in einem Wellenkanal oder einem großen Wasserbehälter nachgestellt werden."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Insgesamt wird die Verteilung seltener hoher Wellen in Abweichung von der Normalverteilung noch nicht vollständig verstanden, und es sind komplexe Modelle zur Erklärung notwendig."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Höhe der Draupner-Welle",
+     "18,5 m"
+    ],
+    [
+     "Maximale gemessene Wellenhöhe im MaxWave-Projekt",
+     "mehr als 25 m"
+    ],
+    [
+     "Jahr der wissenschaftlichen Anerkennung",
+     "1995"
+    ],
+    [
+     "Registrierte Monsterwellen bei Radarmessungen in der Nordsee",
+     "466"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Monsterwellen",
+     "Außergewöhnlich hohe, einzelne marine Wasserwellen, die Schiffe schwer beschädigen können."
+    ],
+    [
+     "Signifikante Wellenhöhe",
+     "Der Mittelwert des höchsten Drittels der Wellen in einem Seegang."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wann wurden Monsterwellen wissenschaftlich anerkannt?",
+     "optionen": [
+      "1985",
+      "1995",
+      "2005"
+     ],
+     "richtig": 1,
+     "erklaerung": "Erst seit 1995 sind Monsterwellen nach dokumentierten Ereignissen anerkannt."
+    }
+   ],
+   "video": [
+    "Monsterwellen sind extrem hohe und gefährliche Wellen auf den Ozeanen.",
+    "Lange Zeit glaubten Seeleute diesen Geschichten über Riesenwellen nicht.",
+    "Erst im Jahr neunzehnhundertfünfundneunzig bewiesen Messungen ihre Existenz.",
+    "Eine wichtige Ursache für die Entstehung ist das Überlagernd mehrerer Wellen.",
+    "Starker Wind und Meeresströmungen verstärken diesen gefährlichen Seegang.",
+    "Besonders in bestimmten Meeresgebieten treten solche Riesenwellen sehr häufig auf.",
+    "Schiffe können durch den immensen Wasserdruck schwer beschädigt werden.",
+    "Wissenschaftler erforschen die Wellen heute mit Radarmessungen und Satelliten."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Monsterwelle",
+    "bildunterschrift": "Monsterwellen sind außergewöhnlich hohe und steile Wasserwellen auf offener See."
+   },
+   "quelle": {
+    "titel": "Monsterwelle",
+    "url": "https://de.wikipedia.org/wiki/Monsterwelle",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 393,
+   "bildInfos": [
+    {
+     "titel": "Wea00800,1.jpg",
+     "beschreibung": "Rogue wave or freak wave — merchant ship (amidships oil tanker) labouring in heavy seas as a huge wave looms ahead. Picture taken in the Bay of Biscay near the 100-fathom curve, off France, ca. 1940. ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Wea00800%2C1.jpg/1280px-Wea00800%2C1.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wea00800%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Wea00800,1.jpg",
+     "urheber": "NOAA",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Monsterwelle",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Monsterwellen sind außergewöhnlich hohe und steile Wasserwellen auf offener See."
+    },
+    {
+     "titel": "Draupner wave(800x496px).png",
+     "beschreibung": "Freak wave that hit the Draupner E platform in the North Sea on 1st January 1995",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Draupner_wave%28800x496px%29.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Draupner_wave%28800x496px%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Draupner_wave(800x496px).png",
+     "urheber": "Ingvald Straume",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Freak wave that hit the Draupner E platform in the North Sea on 1st January 1995"
+    },
+    {
+     "titel": "Freakwave.png",
+     "beschreibung": "Entstehung einer Monsterwelle",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Freakwave.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/79/Freakwave.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Freakwave.png",
+     "urheber": "Nico Wolf",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Entstehung einer Monsterwelle"
+    },
+    {
+     "titel": "Wellenkanal Marienwerder neu.jpg",
+     "beschreibung": "Wellenkanal Marienwerder, Monsterwelle",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wellenkanal_Marienwerder_neu.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Wellenkanal_Marienwerder_neu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Wellenkanal_Marienwerder_neu.jpg",
+     "urheber": "Axel Hindemith",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Wellenkanal Marienwerder, Monsterwelle"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Wea00800,1.jpg",
+    "beschreibung": "Rogue wave or freak wave — merchant ship (amidships oil tanker) labouring in heavy seas as a huge wave looms ahead. Picture taken in the Bay of Biscay near the 100-fathom curve, off France, ca. 1940. ",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Wea00800%2C1.jpg/1280px-Wea00800%2C1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Wea00800%2C1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Wea00800,1.jpg",
+    "urheber": "NOAA",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Monsterwelle",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Monsterwellen sind außergewöhnlich hohe und steile Wasserwellen auf offener See."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-die-fotosynthese",
    "zeit": "2026-11-04T06:19:17.937Z",
@@ -6390,161 +6559,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Gähnen ist ein reflexartiges Verhalten, das bei Menschen und Tieren auftritt."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-ein-muskelkater",
-   "zeit": "2026-10-18T11:14:40.650Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Wie entsteht eigentlich ein Muskelkater?",
-   "vorspann": "Nach anstrengendem Sport schmerzen oft die Muskeln, meistens jedoch erst viele Stunden später. Die Ursache dafür liegt in winzigen Rissen im Gewebe und nicht an einer Übersäuerung.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Als Muskelkater bezeichnet man Schmerzen, die nach körperlicher Anstrengung auftreten. Besonders häufig entstehen sie bei hohen Belastungen einzelner Muskelpartien. Der Schmerz macht sich meistens erst Stunden nach der eigentlichen Bewegung bemerkbar. Der Begriff ist vermutlich eine volksetymologische Eindeutschung des Begriffs Katarrh. In der Regel lassen die Beschwerden innerhalb von vier Tagen von selbst nach.",
-      "Früher glaubte man, dass Milchsäure beziehungsweise Laktat für die Schmerzen verantwortlich ist. Diese Annahme gilt heute als widerlegt. Bei Sportarten wie dem 400-Meter-Lauf entsteht zwar sehr viel Laktat, Muskelkater tritt dort aber seltener auf als nach Krafttraining. Zudem hat Laktat eine Halbwertszeit von rund 20 Minuten. Der Muskelkater setzt jedoch erst Stunden später ein, wenn der Laktatspiegel längst wieder normal ist."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Heute nimmt man an, dass durch Überlastung kleine Risse im Muskelgewebe entstehen. Die Wissenschaft nennt diese Risse Mikrotraumata. Sie treten in den sogenannten Z-Scheiben auf, welche die Begrenzungen kleiner Abschnitte innerhalb der Muskelfibrille bilden. Beim Abbremsen von Bewegungen, wie beim Bergabgehen oder Abfedern eines Sprungs, entstehen solche Risse deutlich schneller als beim Beschleunigen. Diese Form der Anspannung wird als exzentrische Kontraktion bezeichnet.",
-      "Durch die Risse entstehen Entzündungen im Gewebe. Wasser dringt ein und es bilden sich Ödeme, wodurch der Muskel anschwillt. Da in den Muskelfasern selbst keine Schmerzrezeptoren liegen, spürt man zunächst keinen Schmerz. Erst nach etwa 12 bis 24 Stunden spült der Körper gebildete Entzündungsstoffe aus. Diese Stoffe kommen dann mit außen liegenden Nervenzellen in Kontakt und lösen den Schmerz aus.",
-      "Zur Behandlung wird empfohlen, betroffene Muskelpartien etwa zehn Tage lang zu schonen und anfangs nur leicht zu belasten. Eine wirksame medikamentöse Behandlung existiert nicht. Sanfte Massagen mit flächigen Ausstreichungen sowie Wärme durch Bäder oder Naturfango können die Durchblutung fördern und die Genesung beschleunigen. Kräftige Massagen verzögern die Heilung dagegen durch zusätzliche Reizung. Vorbeugend und nach Belastung ist auch eiweißhaltige Nahrung mit verzweigtkettigen Aminosäuren ratsam."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Erkenntnisse zur Entstehung stützen sich auf Beobachtungen der feinen Muskelstrukturen nach Belastungen. Laut einer australischen Veröffentlichung verringern Dehnungsübungen vor oder nach dem Training den Muskelkater nur in vernachlässigbar geringem Umfang. Dagegen erhöht gründliches Aufwärmen die Leistungsfähigkeit und verringert das Risiko einer Überbeanspruchung. Auch die positiven Wirkungen einer erhöhten Eiweißzufuhr wurden durch entsprechende Forschung untermauert."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Die genauen Ursachen des Muskelkaters sind in der Wissenschaft noch nicht abschließend geklärt."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Halbwertszeit von Laktat",
-     "etwa 20 Minuten"
-    ],
-    [
-     "Beginn des Ausspülens von Entzündungsstoffen",
-     "nach etwa 12 bis 24 Stunden"
-    ],
-    [
-     "Typische Linderung der Symptome",
-     "innerhalb von 4 Tagen"
-    ],
-    [
-     "Empfohlene Schonzeit der Muskeln",
-     "etwa 10 Tage"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Mikrotraumata",
-     "Winzige Risse, die durch Überlastung im Muskelgewebe entstehen."
-    ],
-    [
-     "Z-Scheiben",
-     "Äußere Abgrenzungen kleiner Abschnitte innerhalb einer Muskelfibrille."
-    ],
-    [
-     "Exzentrische Kontraktion",
-     "Das Anspannen eines Muskels beim Abbremsen von Bewegungen, zum Beispiel beim Bergabgehen."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Warum spürt man den Muskelkater erst viele Stunden nach dem Sport?",
-     "optionen": [
-      "In den Muskelfasern selbst befinden sich keine Schmerzrezeptoren.",
-      "Das Laktat braucht mehrere Tage, um den Muskel zu erreichen.",
-      "Die Z-Scheiben reißen erst nach einem Ruhetag ab."
-     ],
-     "richtig": 0,
-     "erklaerung": "Schmerzrezeptoren liegen außerhalb der Muskelfasern. Der Schmerz entsteht erst, wenn der Körper nach 12 bis 24 Stunden Entzündungsstoffe dorthin ausspült."
-    },
-    {
-     "frage": "Welche Bewegung verursacht laut Beobachtungen besonders schnell Mikrotraumata?",
-     "optionen": [
-      "Das Beschleunigen beim Bergaufgehen.",
-      "Das Abbremsen von Bewegungen wie beim Bergabgehen.",
-      "Das Dehnen nach einem 400-Meter-Lauf."
-     ],
-     "richtig": 1,
-     "erklaerung": "Beim Abbremsen von Bewegungen treten die kleinen Risse im Gewebe deutlich schneller auf als beim Beschleunigen."
-    },
-    {
-     "frage": "Was hilft laut Untersuchungsergebnissen kaum gegen Muskelkater?",
-     "optionen": [
-      "Eine Wärmebehandlung in der Sauna.",
-      "Sanfte flächige Massagen.",
-      "Dehnungsübungen vor oder nach dem Training."
-     ],
-     "richtig": 2,
-     "erklaerung": "Laut einer australischen Veröffentlichung verringern Dehnungsübungen den Muskelkater nur in vernachlässigbar geringem Umfang."
-    }
-   ],
-   "video": [
-    "Nach anstrengendem Sport schmerzen oft die beanspruchten Muskeln.",
-    "Dieser bekannte Muskelkater entsteht meistens erst viele Stunden nach der Belastung.",
-    "Früher machte man fälschlicherweise eine Übersäuerung durch Milchsäure dafür verantwortlich.",
-    "Laktat baut sich aber schon nach rund zwanzig Minuten zur Hälfte ab.",
-    "Tatsächlich entstehen durch die Überlastung winzige Risse im Muskelgewebe.",
-    "Besonders beim Abbremsen von Bewegungen treten diese Mikrotraumata auf.",
-    "Durch Entzündungen sammelt sich Wasser an und der Muskel schwillt an.",
-    "Erst nach zwölf bis vierundzwanzig Stunden erreichen Entzündungsstoffe die Schmerzrezeptoren.",
-    "Wärme und sanfte Massagen fördern die Durchblutung und unterstützen die Genesung.",
-    "Kräftige Massagen sollte man jedoch meiden, da sie das Gewebe zusätzlich reizen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Muskelkater",
-    "bildunterschrift": "Feine Risse in den Fasern führen nach körperlicher Anstrengung zu Entzündungen und Schmerzen im Muskel."
-   },
-   "quelle": {
-    "titel": "Muskelkater",
-    "url": "https://de.wikipedia.org/wiki/Muskelkater",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 368,
-   "bildInfos": [
-    {
-     "titel": "Max Foidl 2024 MSA.jpg",
-     "beschreibung": "Max Foidl competes at the 2024 UCI Cross Country MTB World Cup in Mont-Sainte-Anne, Quebec",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Max_Foidl_2024_MSA.jpg/1280px-Max_Foidl_2024_MSA.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Max_Foidl_2024_MSA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Max_Foidl_2024_MSA.jpg",
-     "urheber": "Stephen LaBonte",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Max Foidl",
-     "sprache": "en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Feine Risse in den Fasern führen nach körperlicher Anstrengung zu Entzündungen und Schmerzen im Muskel."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Max Foidl 2024 MSA.jpg",
-    "beschreibung": "Max Foidl competes at the 2024 UCI Cross Country MTB World Cup in Mont-Sainte-Anne, Quebec",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Max_Foidl_2024_MSA.jpg/1280px-Max_Foidl_2024_MSA.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Max_Foidl_2024_MSA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Max_Foidl_2024_MSA.jpg",
-    "urheber": "Stephen LaBonte",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Max Foidl",
-    "sprache": "en",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Feine Risse in den Fasern führen nach körperlicher Anstrengung zu Entzündungen und Schmerzen im Muskel."
    }
   }
  ]

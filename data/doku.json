@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-06T21:27:49.674Z",
+ "stand": "2026-11-07T08:41:18.870Z",
  "inArbeit": {
   "id": "die-faszinierende-welt-der-pilze",
   "titel": "Die faszinierende Welt der Pilze",
@@ -407,7 +407,77 @@
     "fokus": "Dieses Kapitel beleuchtet die enge Lebensgemeinschaft zwischen Pilzen und Bäumen.",
     "versuche": 1,
     "fehlgeschlagen": false,
-    "zuDuenn": 2
+    "zuDuenn": 3,
+    "absaetze": [
+     "Nach der Erforschung des Reichs der Pilze betreten wir nun das unterirdische Netzwerk im Wald.",
+     "Als Mykorrhiza wird eine Lebensgemeinschaft von Pilzen und Pflanzen bezeichnet.",
+     "Dabei ist ein Pilz mit dem Feinwurzelsystem einer Pflanze in Kontakt.",
+     "Die Pilze liefern der Pflanze Salze wie Phosphat und Nitrat sowie Wasser.",
+     "Dafür erhalten sie einen Teil des durch die Photosynthese erzeugten Zuckers.",
+     "Die Symbiose von Landpflanzen mit Pilzen trat schon im Devon auf.",
+     "Etwa neunzig Prozent aller Landpflanzen sind zur Mykorrhizabildung befähigt.",
+     "Dabei können sich etwa sechstausend Pilzarten mit Pflanzen vergesellschaften.",
+     "Man unterscheidet traditionell drei verschiedene Gruppen von Mykorrhizen.",
+     "Bei der Ektomykorrhiza bildet das Mycel einen dichten Mantel um die Wurzelenden.",
+     "Das stellt die in mitteleuropäischen Wäldern am häufigsten vorkommende Wurzelsymbiose dar.",
+     "Bei der Endomykorrhiza dringt ein Teil der Hyphen in die Wurzelzellen ein.",
+     "Die arbuskuläre Mykorrhiza ist eine besondere Form der Endomykorrhiza.",
+     "Etwa zweihundert Arten von arbuskulären Mykorrhizapilzen sind weltweit beschrieben.",
+     "Sie stehen mit etwa achtzig Prozent aller Landpflanzenarten in Symbiose.",
+     "Sie leben gleichzeitig mit arbuskulären und ektomykorrhizalen Pilzen im selben Wurzelsystem.",
+     "Mykorrhizapilze spielen eine entscheidende Rolle im globalen Kohlenstoffkreislauf.",
+     "Laut Schätzungen einer Studie können sie kurzfristig in einem Jahr mehr als dreizehn Milliarden Tonnen Kohlenstoffdioxid binden.",
+     "Das entspricht mehr als einem Drittel der Treibhausgas-Emissionen aus fossilen Brennstoffen weltweit mit Stand von zweitausendeinundzwanzig.",
+     "Forscher zeigten, dass die Wachstumsrate der Bäume mit ihrer Mykorrhiza-Pilzgemeinschaft variierte.",
+     "Bäume mit einer idealen Pilzgemeinschaft wuchsen bis dreimal schneller als solche in schlechten Gemeinschaften.",
+     "Im nächsten Kapitel erfahren wir mehr über die weiteren Geheimnisse der Pilzwelt."
+    ],
+    "fakten": [
+     [
+      "Zeitpunkt der ersten Symbiose",
+      "vor vierhundert Millionen Jahren"
+     ],
+     [
+      "Anteil der zur Mykorrhizabildung befähigten Landpflanzen",
+      "etwa neunzig Prozent"
+     ],
+     [
+      "Anzahl der Pilzarten, die sich mit Pflanzen vergesellschaften können",
+      "etwa sechstausend"
+     ],
+     [
+      "Weltweit beschriebene Arten von arbuskulären Mykorrhizapilzen",
+      "etwa zweihundert"
+     ],
+     [
+      "Anteil der Landpflanzenarten in Symbiose mit arbuskulären Mykorrhizapilzen",
+      "etwa achtzig Prozent"
+     ],
+     [
+      "Kurzfristig gebundene Menge an Kohlenstoffdioxid durch Mykorrhizapilze in einem Jahr",
+      "mehr als dreizehn Milliarden Tonnen"
+     ]
+    ],
+    "begriffe": [
+     [
+      "Mykorrhiza",
+      "Eine Lebensgemeinschaft aus Pilzen und Pflanzen, bei der beide Partner voneinander profitieren."
+     ],
+     [
+      "Photosynthese",
+      "Der Prozess, bei dem grüne Pflanzen mithilfe von Licht aus Kohlenstoffdioxid und Wasser Zucker herstellen."
+     ]
+    ],
+    "bild": {
+     "art": "symbol",
+     "suchbegriff": "Mykorrhiza",
+     "bildunterschrift": "Eine Mykorrhiza beschreibt die enge Lebensgemeinschaft zwischen Pilzen und Pflanzenwurzeln."
+    },
+    "quelle": {
+     "titel": "Mykorrhiza",
+     "url": "https://de.wikipedia.org/wiki/Mykorrhiza"
+    },
+    "woerter": 248
    },
    {
     "ueberschrift": "Zersetzung und Kreislauf der Natur",
