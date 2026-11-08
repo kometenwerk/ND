@@ -1,6 +1,169 @@
 {
- "stand": "2026-11-08T07:15:51.408Z",
+ "stand": "2026-11-08T15:06:22.485Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-die-gebaerdensprache",
+   "zeit": "2026-11-08T15:29:10.333Z",
+   "bereich": "Sprache und Kultur",
+   "titel": "Wie funktioniert eigentlich die Gebärdensprache?",
+   "vorspann": "Gebärdensprachen sind vollwertige und eigenständige Sprachen für gehörlose und schwerhörige Menschen. Sie funktionieren ganz ohne Lautsprache und nutzen stattdessen Hände, Mimik und den Körper.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Eine Gebärdensprache ist eine visuell wahrnehmbare Form von Sprache. Sie wird insbesondere von gehörlosen und schwerhörigen Menschen zur Kommunikation genutzt. Kommuniziert wird mit einer Verbindung von Gestik, Gesichtsmimik, dem Mundbild von lautlos gesprochenen Wörtern und dem Wechsel der Körperhaltung. Diese Elemente werden zu Sätzen und Satzfolgen kombiniert. Laut der Sprachwissenschaft werden Gebärdensprachen als eigenständige und vollwertige Sprachen eingestuft.",
+      "Gebärdensprachen sind unabhängige Entwicklungen und nicht von der Lautsprache ihrer Umgebung abgeleitet. Dennoch teilen sich Gebärdensprachen häufig entlang der Gemeinschaften auf, in denen eine bestimmte Lautsprache geteilt wird. Im deutschsprachigen Raum wird neben der Deutschen Gebärdensprache auch die Österreichische Gebärdensprache und die Deutschschweizer Gebärdensprache unterschieden. Weltweit am weitesten verbreitet ist die American Sign Language."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Gebärdensprachen werden in dieselben grammatischen Ebenen gegliedert wie Lautsprachen. Dazu gehören die Phonologie, die Morphologie und die Syntax. Erst im Einzelnen ergeben sich Besonderheiten aus den unterschiedlichen Modalitäten des Sprechens und Gebärdens. Die durch die Hände geformten Gebärden bilden den Inhalt eines Satzes.",
+      "Daneben spielen Bewegungen des Oberkörpers und des Gesichts eine herausragende Rolle. Vor allem die Mimik dient zur Kodierung der Grammatik. Viele grammatische Funktionswörter wie ob oder wenn finden ausschließlich Ausdruck im Gesicht. Da die Grammatik hauptsächlich mit der Mimik zum Ausdruck kommt, sehen sich Gebärdensprachsprecher auch in die Augen und nicht auf die Hände."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Studien mit bildgebenden Verfahren und eine Metaanalyse deuten darauf hin, dass Gebärdensprachen in den gleichen Gehirnregionen verarbeitet werden, in welchen auch Lautsprachen verarbeitet werden. Daraus wird gefolgert, dass menschliche Sprache sich nicht mehr bloß als Lautsprachsystem definieren lässt."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Laut dem Wikipedia-Artikel ist es bis heute nicht sicher, wie viele Gebärdensprachen es weltweit gibt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Anzahl der Gebärdensprachen laut Ethnologue im Jahr 2013",
+     "137"
+    ],
+    [
+     "Anzahl der Gebärdensprachen laut Ethnologue im Jahr 2024",
+     "159"
+    ],
+    [
+     "Anzahl der Gebärdensprachen laut Glottolog im Jahr 2024",
+     "227"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Deutsche Gebärdensprache",
+     "Eine eigenständige Gebärdensprache, die von gehörlosen Sprechern in Deutschland verwendet wird."
+    ],
+    [
+     "American Sign Language",
+     "Die weltweit am weitesten verbreitete Gebärdensprache, die in Nordamerika und weiteren Regionen gebraucht wird."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wodurch wird in Gebärdensprachen vor allem die Grammatik ausgedrückt?",
+     "optionen": [
+      "Durch die Mimik im Gesicht",
+      "Durch laute Rufe",
+      "Durch das Schreiben auf Papier"
+     ],
+     "richtig": 0,
+     "erklaerung": "Vor allem die Mimik dient zur Kodierung der Grammatik in Gebärdensprachen."
+    }
+   ],
+   "video": [
+    "Gebärdensprachen sind visuell wahrnehmbare Formen von Sprache.",
+    "Sie werden von gehörlosen und schwerhörigen Menschen genutzt.",
+    "Dabei kommuniziert man mit Gestik, Mimik und Körperhaltung.",
+    "Sprachwissenschaftler stufen sie als eigenständige Sprachen ein.",
+    "Sie sind nicht von Lautsprachen abgeleitet.",
+    "Die Grammatik wird oft über das Gesicht ausgedrückt.",
+    "Deshalb schauen sich Sprecher meistens in die Augen.",
+    "Wie viele Gebärdensprachen es gibt, ist nicht sicher."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Gebärdensprache",
+    "bildunterschrift": "Gebärdensprachen nutzen Hände, Gesichtsmimik und den Körper zur Kommunikation."
+   },
+   "quelle": {
+    "titel": "Gebärdensprache",
+    "url": "https://de.wikipedia.org/wiki/Geb%C3%A4rdensprache",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 262,
+   "bildInfos": [
+    {
+     "titel": "Sign language, 2014 (01).jpg",
+     "beschreibung": "Kommunikation mittels Gebärdensprache (hier: American Sign Language / ASL) -- zwei Frauen im Gespräch (bei einem Ehemaligen-Treffen in einem Hotel in Pittsburgh in Pennsylvania, USA).",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sign_language%2C_2014_%2801%29.jpg/1280px-Sign_language%2C_2014_%2801%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sign_language%2C_2014_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Sign_language,_2014_(01).jpg",
+     "urheber": "daveynin",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "artikel": "Gebärdensprache",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Gebärdensprachen nutzen Hände, Gesichtsmimik und den Körper zur Kommunikation."
+    },
+    {
+     "titel": "Deutsche Fingeralphabet.jpg",
+     "beschreibung": "Das deutsche Gehörlosenalphabet mit Umlauten und Sonderzeichen für \"SCH\" zur Verfügung gestellt vom Landesverband Bayern der Gehörlosen e. V. Unterstützt von der AOK Bayern - Die Gesundheitskasse",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Deutsche_Fingeralphabet.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/57/Deutsche_Fingeralphabet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Deutsche_Fingeralphabet.jpg",
+     "urheber": "Landesverband Bayern der Gehörlosen e. V.",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Das deutsche Gehörlosenalphabet mit Umlauten und Sonderzeichen für \"SCH\" zur Verfügung gestellt vom Landesverband Bayern der Gehörlosen e. V. Unterstützt von der AOK Bayern - Die Gesundheitskasse"
+    },
+    {
+     "titel": "Holečkova, nápis ve znakové řeči.jpg",
+     "beschreibung": "Prague - Smíchov , the Czech Republic . Sign language sculpture \"Life is beautiful, be happy and love each other!\" by Zuzana Čížková at Kobrova Bus Stop in Holečkova Street in Prague near school for h",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg/1280px-Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hole%C4%8Dkova%2C_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Hole%C4%8Dkova,_n%C3%A1pis_ve_znakov%C3%A9_%C5%99e%C4%8Di.jpg",
+     "urheber": "ŠJů ( cs:ŠJů )",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Prague - Smíchov , the Czech Republic . Sign language sculpture \"Life is beautiful, be happy and love each other!\" by Zuzana Čížková at Kobrova Bus Stop in Holečkova Street in Prague near school for h"
+    },
+    {
+     "titel": "Sign language interpreter.jpg",
+     "beschreibung": "One of the people being celebrated was one guy who got his doctorate (Not the one in the picture). He had become deaf. His research was about making stuff accessible to people who can't hear, see, or ",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sign_language_interpreter.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Sign_language_interpreter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Sign_language_interpreter.jpg",
+     "urheber": "Petteri Sulonen from Helsinki, Finland",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "One of the people being celebrated was one guy who got his doctorate (Not the one in the picture). He had become deaf. His research was about making stuff accessible to people who can't hear, see, or "
+    }
+   ],
+   "bildInfo": {
+    "titel": "Sign language, 2014 (01).jpg",
+    "beschreibung": "Kommunikation mittels Gebärdensprache (hier: American Sign Language / ASL) -- zwei Frauen im Gespräch (bei einem Ehemaligen-Treffen in einem Hotel in Pittsburgh in Pennsylvania, USA).",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Sign_language%2C_2014_%2801%29.jpg/1280px-Sign_language%2C_2014_%2801%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Sign_language%2C_2014_%2801%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Sign_language,_2014_(01).jpg",
+    "urheber": "daveynin",
+    "lizenz": "CC BY 2.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+    "artikel": "Gebärdensprache",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Gebärdensprachen nutzen Hände, Gesichtsmimik und den Körper zur Kommunikation."
+   }
+  },
   {
    "id": "wie-funktioniert-eigentlich-das-menschliche-ohr",
    "zeit": "2026-11-08T07:26:57.048Z",
@@ -6266,164 +6429,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Herz ist ein muskuläres Hohlorgan und pumpt Blut durch den Körper."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-ein-schluckauf",
-   "zeit": "2026-10-19T07:51:36.031Z",
-   "bereich": "Körper und Gesundheit",
-   "titel": "Wie entsteht eigentlich ein Schluckauf?",
-   "vorspann": "Ein plötzliches Hicksgeräusch kennt fast jeder Mensch aus dem eigenen Alltag. Dahinter steckt eine unwillkürliche Bewegung des Zwerchfells, die auch bei vielen Tieren vorkommt.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "In der medizinischen Fachsprache heißt der Schluckauf Singultus. Es handelt sich dabei um eine kräftige Bewegung des Zwerchfells, die periodisch als Reflex auftritt. Während dieses Einatmens schlagen die Stimmlippen plötzlich zusammen und stoppen den Luftstrom abrupt. Dadurch entsteht das typische Geräusch, das oft lautmalerisch als Hicks bezeichnet wird. Dieses Phänomen betrifft nicht nur Menschen, sondern auch Säugetiere wie Hunde, Katzen, Robben und Pferde.",
-      "Meistens verschwindet das Hicksen nach kurzer Zeit ganz von allein. In sehr seltenen Fällen kann ein Schluckauf jedoch über viele Jahre hinweg andauern. Ein solcher Dauerschluckauf belastet den Körper und stört unter anderem den gesunden Schlaf. An der Universität Heidelberg gibt es deshalb sogar eine spezielle Beratungsstelle für Betroffene. Auch vor der Geburt lässt sich der Reflex bei Föten im Mutterleib beobachten."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Gesteuert wird die menschliche Atmung vor allem vom sogenannten Hirnstamm. Von dort aus verlaufen lange Nervenbahnen wie der Vagusnerv und der Phrenicusnerv hinab zum Zwerchfell. Weil diese Leitungsbahnen einen langen und komplizierten Weg durch den Körper nehmen, sind sie störanfällig. Wenn einer dieser Nerven gereizt wird, kann es zu unkontrollierten Zuckungen des Zwerchfells kommen. Das Schließen des Kehlkopfdeckels verhindert dann, dass Luft normal einströmt.",
-      "Auslöser für diese Nervenreizung gibt es im täglichen Leben viele. Häufig dehnt sich der Magen durch hastiges Hinunterschlingen von Mahlzeiten vorübergehend zu stark aus. Auch sehr scharfes Essen oder extrem kalte und kohlensäurehaltige Getränke können den Reflex starten. Ebenso führen starke Gefühlsregungen wie heftige Lachanfälle oder psychische Erregung manchmal zu Schluckauf. Bestimmte Medikamente oder ein Rückfluss von Magensäure in die Speiseröhre reizen den Nervus phrenicus zusätzlich.",
-      "Gegen das lästige Hicksen existieren zahlreiche erprobte Hausmittel. Viele zielen darauf ab, die Atmung zu beruhigen, etwa durch ein dreißigsekündiges Anhalten der Luft. Andere Methoden nutzen gezielte Kältereize oder Geschmacksreize im Mund, wie ein Löffel Joghurt oder Eiswasser. Auch das Atmen in eine Plastiktüte kann den Reflex dämpfen. Durch Nachtrinken von Flüssigkeit lässt sich die Speiseröhre wieder von verbliebenen Speiseresten befreien."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Fachleute untersuchen den Ursprung des Schluckaufs unter anderem durch den Vergleich mit der Tierwelt. Bei Kaulquappen und Lungenfischen steuert ein ähnlicher Mechanismus im Hirnstamm die Atmung über die Kiemen. Dabei muss verhindert werden, dass Wasser bei der Kiemenatmung in die Lungen gelangt. Der Verschluss der Glottis schützt die Lunge bei diesen Tieren vor dem Eindringen von Wasser. Die Forschung nimmt an, dass der menschliche Schluckauf ein verbliebenes evolutionäres Relikt dieser alten Schutzfunktion ist."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "Obwohl der Schluckauf sehr weit verbreitet ist, sind der genaue Zweck und die inneren Abläufe bis heute kaum bekannt. Oftmals lässt sich bei Betroffenen trotz intensiver medizinischer Untersuchungen keine konkrete körperliche Ursache für das Hicksen nachweisen. Auch bei der Frage, warum Föten im Mutterleib hicksen, gibt es bisher nur verschiedene Theorien wie das Training der Atemmuskeln."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Fachbegriff",
-     "Singultus"
-    ],
-    [
-     "Dauer des längsten ununterbrochenen Schluckaufs",
-     "1922 bis 1990"
-    ],
-    [
-     "Marktrücknahme von Triflupromazin",
-     "2003"
-    ],
-    [
-     "Empfohlene Dauer des Luftanhaltens",
-     "30 Sekunden"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Singultus",
-     "Der medizinische Fachausdruck für Schluckauf."
-    ],
-    [
-     "Zwerchfell",
-     "Ein wichtiger Muskel im Brust- und Bauchbereich, der maßgeblich für die Atembewegung verantwortlich ist."
-    ],
-    [
-     "Hirnstamm",
-     "Ein Bereich des Gehirns zwischen Großhirn und Rückenmark, der grundlegende Körperfunktionen wie die Atmung steuert."
-    ],
-    [
-     "Nervus phrenicus",
-     "Der Nerv, der vom Hirnstamm ausgeht und die Muskeln des Zwerchfells ansteuert."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Welcher Nerv steuert das Zwerchfell und ist am Schluckauf beteiligt?",
-     "optionen": [
-      "Nervus phrenicus",
-      "Nervus opticus",
-      "Nervus auditivus"
-     ],
-     "richtig": 0,
-     "erklaerung": "Der Phrenicusnerv verläuft vom Hirnstamm zum Zwerchfell und leitet die Signale für die Muskelbewegung weiter."
-    },
-    {
-     "frage": "Welches Tier nutzt einen vergleichbaren Mechanismus beim Atmen durch Kiemen?",
-     "optionen": [
-      "Kaulquappe",
-      "Regenwurm",
-      "Laubfrosch"
-     ],
-     "richtig": 0,
-     "erklaerung": "Bei Kaulquappen verschließt der Mechanismus die Glottis, damit bei der Kiemenatmung kein Wasser in die Lunge fließt."
-    },
-    {
-     "frage": "An welcher Universität gibt es eine spezielle Beratungsstelle für Patienten mit Dauerschluckauf?",
-     "optionen": [
-      "Universität Heidelberg",
-      "Universität München",
-      "Universität Berlin"
-     ],
-     "richtig": 0,
-     "erklaerung": "Die Universität Heidelberg unterhält ein Therapiezentrum für Menschen mit chronischem Schluckauf."
-    }
-   ],
-   "video": [
-    "Ein Schluckauf entsteht durch eine plötzliche und kräftige Bewegung unseres Zwerchfells.",
-    "Dabei schließen sich die Stimmlippen rasch und erzeugen das bekannte Hicksgeräusch.",
-    "Gesteuert wird diese unwillkürliche Reaktion von langen Nervenbahnen aus unserem Hirnstamm.",
-    "Hastiges Essen oder kohlensäurehaltige Getränke können den Magen überdehnen und den Reflex auslösen.",
-    "Sogar Tiere wie Hunde, Katzen, Robben und Pferde können einen Schluckauf bekommen.",
-    "Bei Kaulquappen schützt ein sehr ähnlicher Reflex die Lunge während der Kiemenatmung.",
-    "Gegen das Hicksen hilft oft das Anhalten der Atemluft für etwa dreißig Sekunden.",
-    "Auch ein Kältereiz durch Eiswasser kann die gereizten Nerven im Rachen wieder beruhigen.",
-    "Warum Menschen diesen Reflex bis heute behalten haben, ist wissenschaftlich noch nicht vollständig geklärt."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Schluckauf",
-    "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
-   },
-   "quelle": {
-    "titel": "Schluckauf",
-    "url": "https://de.wikipedia.org/wiki/Schluckauf",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 445,
-   "bildInfos": [
-    {
-     "titel": "SpongeBob SquarePants logo.png",
-     "beschreibung": "First SpongeBob SquarePants logo",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:SpongeBob_SquarePants_logo.png",
-     "urheber": "Nickelodeon",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "SpongeBob Schwammkopf",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
-    }
-   ],
-   "bildInfo": {
-    "titel": "SpongeBob SquarePants logo.png",
-    "beschreibung": "First SpongeBob SquarePants logo",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/1/17/SpongeBob_SquarePants_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:SpongeBob_SquarePants_logo.png",
-    "urheber": "Nickelodeon",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "SpongeBob Schwammkopf",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
    }
   }
  ]
