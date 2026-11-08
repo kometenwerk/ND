@@ -1,6 +1,141 @@
 {
- "stand": "2026-11-07T20:11:44.882Z",
+ "stand": "2026-11-08T07:15:51.408Z",
  "stuecke": [
+  {
+   "id": "wie-funktioniert-eigentlich-das-menschliche-ohr",
+   "zeit": "2026-11-08T07:26:57.048Z",
+   "bereich": "Körper und Gesundheit",
+   "titel": "Wie funktioniert eigentlich das menschliche Ohr?",
+   "vorspann": "Das Ohr ist ein empfindliches Sinnesorgan für die Aufnahme von Schall. Es hilft den Menschen beim Hören und bei der Orientierung im Raum.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Das Ohr ist ein wichtiger Teil des Sinnesorgans, mit dem Töne, Laute, Klänge oder Geräusche aufgenommen werden. Zum Innenohr gehört außerdem das Gleichgewichtsorgan. Beim Menschen und anderen Säugetieren wird das Ohr in drei Bereiche eingeteilt. Diese Bereiche heißen Außenohr, Mittelohr und Innenohr. Jedes dieser Teilstücke hat eine ganz bestimmte Aufgabe bei der Wahrnehmung von Schallwellen.",
+      "Das Außenohr umfasst den Ohrknorpel, die Ohrmuschel, das Ohrläppchen und den äußeren Gehörgang. Zum Mittelohr gehören das Trommelfell und die Gehörknöchelchen Hammer, Amboss und Steigbügel. Das Innenohr liegt in einem kleinen Hohlraumsystem innerhalb des Felsenbeines. Dort befinden sich die Hörschnecke und das Gleichgewichtsorgan. Von der Gehörschnecke geht der Hörnerv in Richtung Gehirn."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Schallschwingungen treffen auf das Außenohr und wandern durch den Gehörgang zum Trommelfell. Im Mittelohr findet eine mechanische Impedanzwandlung statt, welche die Übertragung des Signals ermöglicht. Das Trommelfell und die Gehörknöchelchen leiten die Schwingungen an das Innenohr weiter. In der Hörschnecke wird der Schall schließlich in Nervenimpulse umgesetzt.",
+      "Das menschliche Gehör kann akustische Ereignisse nur in einem bestimmten Frequenz- und Schalldruckpegelbereich wahrnehmen. Der Weg des Schalls führt von der Ohrmuschel über den Gehörgang und das Trommelfell zu den Gehörknöchelchen, weiter zur Hörschnecke und schließlich zum Hörnerv. Das leiseste wahrnehmbare Signal erzeugt eine sehr geringe Leistung im Innenohr.",
+      "Das menschliche Ohr kann auf verschiedene Weisen erkranken. Das Außenohr ist durch seine relativ dünne Haut empfänglich für Infektionen mit Bakterien oder Pilzen. Auch das Mittelohr kann von Entzündungen und Vereiterungen betroffen sein. Häufige Erkrankungen des Innenohres treten im Zusammenhang mit dauerhafter Lärmbelastung und Knalltraumata auf."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Der anatomische Aufbau und die genauen Funktionen des Ohrsystems waren im Mittelalter noch weitgehend unbekannt. Neuzeitliche Erkenntnisse darüber gewannen unter anderem Antonio Maria Valsalva sowie Andreas Vesalius, Bartolomaeus Eustachius, Gabriel Falloppius und Johannes Philippus Ingrassia. Die pathologische Anatomie des Ohres wurde um 1845 durch Joseph Toynbee wissenschaftlich dargestellt.",
+      "Zur Untersuchung der Hörfähigkeit nutzen Mediziner heute verschiedene Methoden der Medizin. Dazu gehören Hörtests, die unter dem Begriff Audiometrie zusammengefasst werden. Auch Röntgenuntersuchungen sowie serologische und visuelle Untersuchungen kommen zum Einsatz."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Die genauen Ursachen des sogenannten Hörsturzes, bei dem ein plötzlicher Hörverlust, Tinnitus und Schwindel auftreten können, sind laut dem Artikel weiterhin unbekannt."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Frequenzbereich des menschlichen Ohrs in jungen Jahren",
+     "16 Hertz bis maximal 20.000 Hertz"
+    ],
+    [
+     "Schmerzgrenze des Schalldruckpegels",
+     "über 130 dBSPL"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Schall",
+     "Töne, Laute, Klänge oder Geräusche, die von den Ohren aufgenommen werden."
+    ],
+    [
+     "Gehörknöchelchen",
+     "Drei kleine Knochen im Mittelohr namens Hammer, Amboss und Steigbügel."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Welche Knochen gehören zum Mittelohr?",
+     "optionen": [
+      "Hammer, Amboss und Steigbügel",
+      "Ohrläppchen, Knorpel und Schnecke",
+      "Hörnerv und Bogengänge"
+     ],
+     "richtig": 0,
+     "erklaerung": "Zum Mittelohr gehören das Trommelfell sowie die drei Gehörknöchelchen Hammer, Amboss und Steigbügel."
+    }
+   ],
+   "video": [
+    "Das Ohr ist ein wichtiges Sinnesorgan des Menschen.",
+    "Es fängt Schallwellen aus der Umgebung auf.",
+    "Der Weg des Schalls führt zuerst in das Außenohr.",
+    "Dort wandert er durch den Gehörgang zum Trommelfell.",
+    "Im Mittelohr geben drei kleine Knochen die Schwingungen weiter.",
+    "Diese Knochen heißen Hammer, Amboss und Steigbügel.",
+    "Im Innenohr wandelt die Hörschnecke den Schall in Nervenimpulse um.",
+    "Der Hörnerv leitet diese Signale schließlich zum Gehirn weiter."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Ohr",
+    "bildunterschrift": "Das Ohr nimmt Schall auf und leitet ihn an das Gehirn weiter."
+   },
+   "quelle": {
+    "titel": "Ohr",
+    "url": "https://de.wikipedia.org/wiki/Ohr",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 350,
+   "bildInfos": [
+    {
+     "titel": "Menschliche Ohrmuschel.jpg",
+     "beschreibung": "Ohr (Mensch)",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Menschliche_Ohrmuschel.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Menschliche_Ohrmuschel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Menschliche_Ohrmuschel.jpg",
+     "urheber": "Peter Niemayer",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+     "artikel": "Ohr",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Das Ohr nimmt Schall auf und leitet ihn an das Gehirn weiter."
+    },
+    {
+     "titel": "2022-02-19 Ear inspection.jpg",
+     "beschreibung": "Ohreninspektion in Osttimor",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/2022-02-19_Ear_inspection.jpg/1280px-2022-02-19_Ear_inspection.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2022-02-19_Ear_inspection.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2022-02-19_Ear_inspection.jpg",
+     "urheber": "Basilio de Jesus, Media Presidency of East Timor (M-PR)",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ohreninspektion in Osttimor"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Menschliche Ohrmuschel.jpg",
+    "beschreibung": "Ohr (Mensch)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Menschliche_Ohrmuschel.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Menschliche_Ohrmuschel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Menschliche_Ohrmuschel.jpg",
+    "urheber": "Peter Niemayer",
+    "lizenz": "CC BY-SA 3.0",
+    "lizenzUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "artikel": "Ohr",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Das Ohr nimmt Schall auf und leitet ihn an das Gehirn weiter."
+   }
+  },
   {
    "id": "was-die-temperatur-im-alltag-und-universum-bestimmt",
    "zeit": "2026-11-07T20:21:10.777Z",
@@ -6289,187 +6424,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Beim Schluckauf zieht sich das Zwerchfell ruckartig zusammen und unterbricht kurz den Luftstrom."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-ein-metronom",
-   "zeit": "2026-10-18T18:13:22.863Z",
-   "bereich": "Technik und Erfindungen",
-   "titel": "Wie funktioniert eigentlich ein Metronom?",
-   "vorspann": "Ein Metronom gibt in der Musik ein genaues Tempo vor. Dabei schlägt es in gleichmäßigen Zeitintervallen.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Ein Metronom ist ein mechanisches oder elektronisches Gerät. Es sorgt durch akustische Impulse für ein konstantes Tempo. Die Maßeinheit dafür heißt Beats per minute, kurz bpm. Stellt man das Gerät auf sechzig bpm ein, schlägt es im Sekundentakt.",
-      "Die Zahl auf dem Metronom gibt an, wie oft es pro Minute schlägt. In der klassischen Musik wird dies oft mit M. M. abgekürzt. Dies steht für Mälzels Metronom. Die Metronomfunktion kann auch in elektronische Musikinstrumente integriert sein oder durch Software simuliert werden."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Bei einem mechanischen Metronom wird eine Feder aufgezogen. Diese hält ein Pendel über eine rückfallende Hemmung in Schwung. Durch ein verschiebbares Gewicht am Pendel kann die Frequenz eingestellt werden.",
-      "Bei manchen Modellen kann zusätzlich eine Glocke aktiviert werden. Diese ertönt jeweils auf der ersten Taktzeit. Das elektronische Metronom erzeugt das Taktsignal dagegen elektronisch und kann sehr klein sein.",
-      "Zusätzlich zu seiner normalen Verwendung wurde das Gerät in der Geschichte auch für andere Dinge genutzt. Das britische Militär ließ im Jahr achtzehnzig ein großes Metronom bauen, um die Marschgeschwindigkeit von Truppen zu bestimmen. Während der Leningrader Blockade diente es als Signal für eine intakte Radioverbindung."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Das früheste bekannte Gerät für eine gleichmäßige Tempovorgabe stammt von dem andalusischen Erfinder Abbas ibn Firnas aus der Zeit zwischen achthundertzehn und achthundertachtundachtzig. Später schlugen verschiedene Personen Fadenpendel vor. Ein bekanntes Chronometer wurde von Dietrich Nikolaus Winkel angefertigt.",
-      "Johann Nepomuk Mälzel fügte dem Instrument eine Skala hinzu. Er ließ es als Metronom patentieren. Nach einem Rechtsstreit im Jahr achtzehnzwanzig wurde die technische Erfindung Dietrich Nikolaus Winkel zuerkannt. Mälzel gilt jedoch bis heute bei vielen Menschen als Erfinder des Metronoms."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Erfinder des Metronoms laut Rechtsstreit von 1820",
-     "Dietrich Nikolaus Winkel"
-    ],
-    [
-     "Patentierung durch Johann Nepomuk Mälzel in London",
-     "5. Dezember 1815"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Metronom",
-     "Ein Gerät, das durch akustische Impulse ein konstantes Tempo vorgibt."
-    ],
-    [
-     "Beats per minute",
-     "Die Maßeinheit für die Schläge eines Metronoms pro Minute."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wofür steht die Abkürzung bpm?",
-     "optionen": [
-      "Beats per minute",
-      "Basso per metro",
-      "Basic pendulum movement"
-     ],
-     "richtig": 0,
-     "erklaerung": "Bpm steht für Beats per minute und gibt an, wie oft das Metronom pro Minute schlägt."
-    }
-   ],
-   "video": [
-    "Ein Metronom gibt in der Musik ein festes Tempo vor.",
-    "Es schlägt in gleichmäßigen Intervallen.",
-    "Die Maßeinheit dafür heißt Beats per minute.",
-    "Ein mechanisches Metronom arbeitet mit einer aufgezogenen Feder.",
-    "Ein verschiebbares Gewicht verändert das Tempo.",
-    "Elektronische Metronome erzeugen den Takt elektronisch.",
-    "Dietrich Nikolaus Winkel erfand die Technik im neunzehnten Jahrhundert.",
-    "Johann Nepomuk Mälzel baute das Gerät und gab ihm seinen Namen."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Metronom",
-    "bildunterschrift": "Ein mechanisches Metronom mit einem Pendel und einer Skala."
-   },
-   "quelle": {
-    "titel": "Metronom",
-    "url": "https://de.wikipedia.org/wiki/Metronom",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 264,
-   "bildInfos": [
-    {
-     "titel": "Taktell Piccolo Metronoom.jpg",
-     "beschreibung": "Taktell Piccolo Metronoom",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Taktell_Piccolo_Metronoom.jpg/1280px-Taktell_Piccolo_Metronoom.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Taktell_Piccolo_Metronoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Taktell_Piccolo_Metronoom.jpg",
-     "urheber": "Henk Albert de Klerk",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Metronom",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Ein mechanisches Metronom mit einem Pendel und einer Skala."
-    },
-    {
-     "titel": "Electronic-metronome.jpg",
-     "beschreibung": "Electronic Metronome with analog operation",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Electronic-metronome.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Electronic-metronome.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Electronic-metronome.jpg",
-     "urheber": "Langec",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Electronic Metronome with analog operation"
-    },
-    {
-     "titel": "Loulié métr muet.jpg",
-     "beschreibung": "métronome gradué à battements muets Étienne Loulié (v.1637-1702)",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Louli%C3%A9_m%C3%A9tr_muet.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Louli%C3%A9_m%C3%A9tr_muet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Louli%C3%A9_m%C3%A9tr_muet.jpg",
-     "urheber": "Hautbois 08:57, 18 August 2007 (UTC)",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "métronome gradué à battements muets Étienne Loulié (v.1637-1702)"
-    },
-    {
-     "titel": "Metronome Maëlzel 1.jpg",
-     "beschreibung": "Metronome Mälzel",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Metronome_M%C3%A4lzel_1.jpg/1280px-Metronome_M%C3%A4lzel_1.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/43/Metronome_M%C3%A4lzel_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Metronome_M%C3%A4lzel_1.jpg",
-     "urheber": "Myself",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Metronome Mälzel"
-    },
-    {
-     "titel": "Metronome Maëlzel mechanism.jpg",
-     "beschreibung": "Metronome Maëlzel : details of mechanism.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Metronome_Ma%C3%ABlzel_mechanism.jpg/1280px-Metronome_Ma%C3%ABlzel_mechanism.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Metronome_Ma%C3%ABlzel_mechanism.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Metronome_Ma%C3%ABlzel_mechanism.jpg",
-     "urheber": "Myself",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Metronome Maëlzel : details of mechanism."
-    },
-    {
-     "titel": "Metronome Nikko.jpg",
-     "beschreibung": "Nikko brand mechanical metronome in motion.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Metronome_Nikko.jpg/1280px-Metronome_Nikko.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Metronome_Nikko.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Metronome_Nikko.jpg",
-     "urheber": "Vincent Quach ( Invincible )",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Nikko brand mechanical metronome in motion."
-    }
-   ],
-   "bildInfo": {
-    "titel": "Taktell Piccolo Metronoom.jpg",
-    "beschreibung": "Taktell Piccolo Metronoom",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Taktell_Piccolo_Metronoom.jpg/1280px-Taktell_Piccolo_Metronoom.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Taktell_Piccolo_Metronoom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Taktell_Piccolo_Metronoom.jpg",
-    "urheber": "Henk Albert de Klerk",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Metronom",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Ein mechanisches Metronom mit einem Pendel und einer Skala."
    }
   }
  ]

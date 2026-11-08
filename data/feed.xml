@@ -2,136 +2,150 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 07 Nov 2026 20:32:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 07:15:51 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Personalwechsel im Weißen Haus nach den Kongresswahlen</title>
     <description>US-Präsident Trump ersetzt seine Stabschefin Susie Wiles durch Stephen Miller. Wir beleuchten die Hintergründe und Reaktionen.</description>
     <itunes:summary>US-Präsident Trump ersetzt seine Stabschefin Susie Wiles durch Stephen Miller. Wir beleuchten die Hintergründe und Reaktionen.</itunes:summary>
-    <pubDate>Sat, 07 Nov 2026 20:32:03 +0000</pubDate>
+    <pubDate>Sat, 07 Nov 2026 20:32:03 GMT</pubDate>
     <guid isPermaLink="false">podcast-midterms-usa</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-midterms-usa.mp3" length="2027756" type="audio/mpeg"/>
     <itunes:duration>00:04:13</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
+    <title>Hauptausgabe vom 2026-11-07</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schusswaffenangriff in der Altstadt von Krakau fordert mehrere Todesopfer · CDU und CSU planen Nominierung von Ilse Aigner für die Bundespräsidentenwahl · Personalwechsel im Weißen Haus nach Kongresswahlen · Staatsanwaltschaft klagt Paraguays abgesetzten Präsidenten Peña an · US-Behörden und europäische Institutionen warnen vor Cyberangriffen auf Kühlsysteme</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schusswaffenangriff in der Altstadt von Krakau fordert mehrere Todesopfer · CDU und CSU planen Nominierung von Ilse Aigner für die Bundespräsidentenwahl · Personalwechsel im Weißen Haus nach Kongresswahlen · Staatsanwaltschaft klagt Paraguays abgesetzten Präsidenten Peña an · US-Behörden und europäische Institutionen warnen vor Cyberangriffen auf Kühlsysteme</itunes:summary>
+    <pubDate>Sat, 07 Nov 2026 20:11:44 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-11-07</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-07.mp3" length="3015596" type="audio/mpeg"/>
+    <itunes:duration>00:08:23</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Cyberangriffe auf Kühlsysteme</title>
     <description>US-Behörden und europäische Institutionen warnen nach Cyberangriffen auf gewerbliche Kühlanlagen. Die Europäische Kommission berief Krisentreffen ein.</description>
     <itunes:summary>US-Behörden und europäische Institutionen warnen nach Cyberangriffen auf gewerbliche Kühlanlagen. Die Europäische Kommission berief Krisentreffen ein.</itunes:summary>
-    <pubDate>Fri, 06 Nov 2026 21:48:11 +0000</pubDate>
+    <pubDate>Fri, 06 Nov 2026 21:48:11 GMT</pubDate>
     <guid isPermaLink="false">podcast-cyberangriff-supermaerkte-kuehlsysteme</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-cyberangriff-supermaerkte-kuehlsysteme.mp3" length="2502380" type="audio/mpeg"/>
     <itunes:duration>00:05:13</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-11-06</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. US-Zwischenwahlen: Demokraten gewinnen Mehrheit in beiden Kongresskammern · Debatte über Jugendproteste und Umfrageergebnisse in Deutschland · US-Behörden und europäische Institutionen warnen vor Cyberangriffen auf Kühlsysteme · Debatte über Nachfolge von Bundespräsident Steinmeier in der Union · Hubert Aiwanger im Alter von 55 Jahren verstorben</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. US-Zwischenwahlen: Demokraten gewinnen Mehrheit in beiden Kongresskammern · Debatte über Jugendproteste und Umfrageergebnisse in Deutschland · US-Behörden und europäische Institutionen warnen vor Cyberangriffen auf Kühlsysteme · Debatte über Nachfolge von Bundespräsident Steinmeier in der Union · Hubert Aiwanger im Alter von 55 Jahren verstorben</itunes:summary>
-    <pubDate>Fri, 06 Nov 2026 15:52:59 +0000</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-11-06</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-06.mp3" length="2401004" type="audio/mpeg"/>
-    <itunes:duration>00:06:40</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Schaeffler streicht tausende Stellen und schließt Werke</title>
     <description>Der Autozulieferer Schaeffler baut weltweit tausende Stellen ab und schließt Standorte. Wir blicken auf die Hintergründe und Reaktionen.</description>
     <itunes:summary>Der Autozulieferer Schaeffler baut weltweit tausende Stellen ab und schließt Standorte. Wir blicken auf die Hintergründe und Reaktionen.</itunes:summary>
-    <pubDate>Wed, 04 Nov 2026 22:10:21 +0000</pubDate>
+    <pubDate>Wed, 04 Nov 2026 22:10:21 GMT</pubDate>
     <guid isPermaLink="false">podcast-schaeffler-stellenabbau</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-schaeffler-stellenabbau.mp3" length="3720813" type="audio/mpeg"/>
     <itunes:duration>00:07:45</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich die Fotosynthese?</title>
     <description>Pflanzen und Algen nutzen Sonnenlicht, um aus einfachen Stoffen energiereiche Verbindungen zu machen. Dieser Prozess versorgt fast alle anderen Lebewesen mit Nahrung und Sauerstoff.</description>
     <itunes:summary>Pflanzen und Algen nutzen Sonnenlicht, um aus einfachen Stoffen energiereiche Verbindungen zu machen. Dieser Prozess versorgt fast alle anderen Lebewesen mit Nahrung und Sauerstoff.</itunes:summary>
-    <pubDate>Wed, 04 Nov 2026 06:19:17 +0000</pubDate>
+    <pubDate>Wed, 04 Nov 2026 06:19:17 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-fotosynthese</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/c6651e4887.mp3" length="193917" type="audio/mpeg"/>
     <itunes:duration>00:00:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Krawalle nach Jugendprotesten in deutschen Städten</title>
     <description>Nach friedlichen Demonstrationen unter dem Motto Gen Z regelt kam es zu schweren Ausschreitungen. Die Politik diskutiert kontrovers über die Herkunft der Täter.</description>
     <itunes:summary>Nach friedlichen Demonstrationen unter dem Motto Gen Z regelt kam es zu schweren Ausschreitungen. Die Politik diskutiert kontrovers über die Herkunft der Täter.</itunes:summary>
-    <pubDate>Tue, 03 Nov 2026 21:57:48 +0000</pubDate>
+    <pubDate>Tue, 03 Nov 2026 21:57:48 GMT</pubDate>
     <guid isPermaLink="false">podcast-gen-z-proteste</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-gen-z-proteste.mp3" length="2035245" type="audio/mpeg"/>
     <itunes:duration>00:04:14</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Ohrwurm?</title>
     <description>Ein Ohrwurm ist eine Melodie, die im Kopf bleibt und sich dort festsetzt. Forscher untersuchen, wie diese Lieder entstehen und wie man sie wieder loswird.</description>
     <itunes:summary>Ein Ohrwurm ist eine Melodie, die im Kopf bleibt und sich dort festsetzt. Forscher untersuchen, wie diese Lieder entstehen und wie man sie wieder loswird.</itunes:summary>
-    <pubDate>Tue, 03 Nov 2026 10:58:47 +0000</pubDate>
+    <pubDate>Tue, 03 Nov 2026 10:58:47 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-ohrwurm</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/1da9509868.mp3" length="163101" type="audio/mpeg"/>
     <itunes:duration>00:00:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wer folgt auf Bundespräsident Steinmeier</title>
     <description>Bundeskanzler Friedrich Merz plädiert für eine Frau im höchsten Staatsamt. Die CSU bringt derweil Ilse Aigner ins Gespräch.</description>
     <itunes:summary>Bundeskanzler Friedrich Merz plädiert für eine Frau im höchsten Staatsamt. Die CSU bringt derweil Ilse Aigner ins Gespräch.</itunes:summary>
-    <pubDate>Mon, 02 Nov 2026 23:41:35 +0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 23:41:35 GMT</pubDate>
     <guid isPermaLink="false">podcast-merzd-nachfolge-bundespraesident-frau</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-merzd-nachfolge-bundespraesident-frau.mp3" length="2833005" type="audio/mpeg"/>
     <itunes:duration>00:05:54</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Der Begriff Hieroglyphen</title>
     <description>Eine Hieroglyphe ist ein Schriftzeichen mit erkennbar bildhaftem Charakter. Der Begriff wird vor allem für die ägyptische Hieroglyphenschrift verwendet.</description>
     <itunes:summary>Eine Hieroglyphe ist ein Schriftzeichen mit erkennbar bildhaftem Charakter. Der Begriff wird vor allem für die ägyptische Hieroglyphenschrift verwendet.</itunes:summary>
-    <pubDate>Mon, 02 Nov 2026 20:57:23 +0000</pubDate>
+    <pubDate>Mon, 02 Nov 2026 20:57:23 GMT</pubDate>
     <guid isPermaLink="false">wissen-der-begriff-hieroglyphen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/8c483c7c9c.mp3" length="160509" type="audio/mpeg"/>
     <itunes:duration>00:00:27</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>US-Regierung genehmigt Verkauf von Patriot-Raketen an die Ukraine</title>
     <description>Gespräch über den genehmigten Verkauf von Patriot-Raketen an die Ukraine im Wert von 2,1 Milliarden US-Dollar und die Reaktionen darauf.</description>
     <itunes:summary>Gespräch über den genehmigten Verkauf von Patriot-Raketen an die Ukraine im Wert von 2,1 Milliarden US-Dollar und die Reaktionen darauf.</itunes:summary>
-    <pubDate>Sun, 01 Nov 2026 20:53:48 +0000</pubDate>
+    <pubDate>Sun, 01 Nov 2026 20:53:48 GMT</pubDate>
     <guid isPermaLink="false">podcast-patriot-raketen-ukraine</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-patriot-raketen-ukraine.mp3" length="3571437" type="audio/mpeg"/>
     <itunes:duration>00:07:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich eine Mikrowelle?</title>
     <description>Ein Mikrowellenherd erwärmt Lebensmittel in kurzer Zeit mit Hilfe von elektromagnetischer Hochfrequenzenergie. Das Gerät wurde nach einer Entdeckung im Zusammenhang mit Radaranlagen entwickelt.</description>
     <itunes:summary>Ein Mikrowellenherd erwärmt Lebensmittel in kurzer Zeit mit Hilfe von elektromagnetischer Hochfrequenzenergie. Das Gerät wurde nach einer Entdeckung im Zusammenhang mit Radaranlagen entwickelt.</itunes:summary>
-    <pubDate>Sun, 01 Nov 2026 19:17:19 +0000</pubDate>
+    <pubDate>Sun, 01 Nov 2026 19:17:19 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-eine-mikrowelle</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/384a345abc.mp3" length="225597" type="audio/mpeg"/>
     <itunes:duration>00:00:38</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich ein Metallsuchgerät?</title>
     <description>Ein Metalldetektor kann verborgene Metallteile an Land und unter Wasser finden. Solche Geräte werden für viele verschiedene Zwecke eingesetzt.</description>
     <itunes:summary>Ein Metalldetektor kann verborgene Metallteile an Land und unter Wasser finden. Solche Geräte werden für viele verschiedene Zwecke eingesetzt.</itunes:summary>
-    <pubDate>Sat, 31 Oct 2026 15:54:35 +0000</pubDate>
+    <pubDate>Sat, 31 Oct 2026 15:54:35 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-ein-metallsuchgeraet</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/fefffd29f8.mp3" length="200109" type="audio/mpeg"/>
     <itunes:duration>00:00:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
