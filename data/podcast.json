@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-08T15:06:22.485Z",
+ "stand": "2026-11-08T19:40:36.063Z",
  "folgen": [
   {
    "id": "hauptausgabe-2026-11-08",
@@ -42,16 +42,6 @@
    "b": 160509
   },
   {
-   "id": "wissen-wie-funktioniert-eigentlich-eine-mikrowelle",
-   "art": "wissen",
-   "titel": "Wie funktioniert eigentlich eine Mikrowelle?",
-   "text": "Ein Mikrowellenherd erwärmt Lebensmittel in kurzer Zeit mit Hilfe von elektromagnetischer Hochfrequenzenergie. Das Gerät wurde nach einer Entdeckung im Zusammenhang mit Radaranlagen entwickelt.",
-   "zeit": "2026-11-01T19:17:19.504Z",
-   "d": "384a345abc.mp3",
-   "l": 37.54,
-   "b": 225597
-  },
-  {
    "id": "doku-die-geschichte-unserer-schrift",
    "art": "doku",
    "titel": "Die Geschichte unserer Schrift",
@@ -60,6 +50,16 @@
    "d": "folge-doku-die-geschichte-unserer-schrift.mp3",
    "l": 1316.7,
    "b": 7900652
+  },
+  {
+   "id": "doku-die-reise-des-wassers",
+   "art": "doku",
+   "titel": "Die Reise des Wassers",
+   "text": "Wie ein einziger Tropfen unseren gesamten Planeten verbindet und Leben ermöglicht.",
+   "zeit": "2026-09-23T05:55:16.319Z",
+   "d": "folge-doku-die-reise-des-wassers.mp3",
+   "l": 340.14,
+   "b": 2041292
   }
  ]
 }
