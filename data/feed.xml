@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Mon, 09 Nov 2026 06:12:56 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 17:25:28 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-11-09</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Ermittlungen und Reaktionen nach Gewaltverbrechen in Krakau und Ostrowiec Świętokrzyski · Beginn der 31. Weltklimakonferenz der Vereinten Nationen in Antalya · Kanzler Merz schlägt Ilse Aigner als Bundespräsidentin vor · Präsident Herzog beauftragt Gadi Eisenkot mit der Regierungsbildung in Israel · Untersuchung gegen Nvidia-Chef Jensen Huang eingeleitet</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Ermittlungen und Reaktionen nach Gewaltverbrechen in Krakau und Ostrowiec Świętokrzyski · Beginn der 31. Weltklimakonferenz der Vereinten Nationen in Antalya · Kanzler Merz schlägt Ilse Aigner als Bundespräsidentin vor · Präsident Herzog beauftragt Gadi Eisenkot mit der Regierungsbildung in Israel · Untersuchung gegen Nvidia-Chef Jensen Huang eingeleitet</itunes:summary>
+    <pubDate>Mon, 09 Nov 2026 06:12:56 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-11-09</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-09.mp3" length="3249452" type="audio/mpeg"/>
+    <itunes:duration>00:09:02</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>Regierungsbildung in Israel</title>
     <description>Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit der Regierungsbildung nach der Parlamentswahl. Wir analysieren die Fristen und die Aussagen der Beteiligten.</description>
     <itunes:summary>Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit der Regierungsbildung nach der Parlamentswahl. Wir analysieren die Fristen und die Aussagen der Beteiligten.</itunes:summary>
@@ -23,17 +34,6 @@
     <guid isPermaLink="false">podcast-israel-regierungsbildung-eisenkot</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-israel-regierungsbildung-eisenkot.mp3" length="2497196" type="audio/mpeg"/>
     <itunes:duration>00:05:12</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-11-08</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schusswaffenangriff in Krakau: Sechs Tote und Festnahme eines Tatverdächtigen · CDU-Präsidium berät über Nachfolge von Bundespräsident Steinmeier · Untersuchungshaft für Paraguays abgesetzten Präsidenten Peña angeordnet · Militärische Konfrontation und Seeblockade in der Straße von Hormus · Präsident Herzog beauftragt Gadi Eisenkot mit der Regierungsbildung in Israel</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Schusswaffenangriff in Krakau: Sechs Tote und Festnahme eines Tatverdächtigen · CDU-Präsidium berät über Nachfolge von Bundespräsident Steinmeier · Untersuchungshaft für Paraguays abgesetzten Präsidenten Peña angeordnet · Militärische Konfrontation und Seeblockade in der Straße von Hormus · Präsident Herzog beauftragt Gadi Eisenkot mit der Regierungsbildung in Israel</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 07:15:51 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-11-08</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-08.mp3" length="3741356" type="audio/mpeg"/>
-    <itunes:duration>00:10:23</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
