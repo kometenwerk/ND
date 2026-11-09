@@ -173,7 +173,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Pantomime nutzt körperlichen Ausdruck ohne gesprochene Worte."
-   }
+   },
+   "ton": [
+    {
+     "k": "Die Pantomime ist eine alte Form der darstellenden Kunst. Früher bedeutete das W",
+     "d": "4a2ad34c1a.mp3",
+     "l": 31.84,
+     "s": [
+      0.25,
+      3.81,
+      7.59,
+      11.28,
+      14.81,
+      19.04,
+      22.65,
+      27.5
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-gebaerdensprache",
@@ -336,7 +353,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Gebärdensprachen nutzen Hände, Gesichtsmimik und den Körper zur Kommunikation."
-   }
+   },
+   "ton": [
+    {
+     "k": "Gebärdensprachen sind visuell wahrnehmbare Formen von Sprache. Sie werden von ge",
+     "d": "47044d1edb.mp3",
+     "l": 28.31,
+     "s": [
+      0.25,
+      4.34,
+      7.8,
+      11.71,
+      15.93,
+      18.77,
+      21.79,
+      24.9
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-das-menschliche-ohr",
@@ -471,7 +505,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Das Ohr nimmt Schall auf und leitet ihn an das Gehirn weiter."
-   }
+   },
+   "ton": [
+    {
+     "k": "Das Ohr ist ein wichtiges Sinnesorgan des Menschen. Es fängt Schallwellen aus de",
+     "d": "24cdd1c332.mp3",
+     "l": 26.38,
+     "s": [
+      0.25,
+      3.26,
+      5.69,
+      8.59,
+      11.51,
+      15.22,
+      18.73,
+      22.6
+     ]
+    }
+   ]
   },
   {
    "id": "was-die-temperatur-im-alltag-und-universum-bestimmt",
@@ -585,7 +636,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Temperatur beschreibt den thermischen Zustand von Stoffen."
-   }
+   },
+   "ton": [
+    {
+     "k": "Die Temperatur ist eine physikalische Zustandsgröße aus der Thermodynamik. Sie w",
+     "d": "5d2e0277d3.mp3",
+     "l": 35.3,
+     "s": [
+      0.25,
+      5.08,
+      9.21,
+      12.89,
+      16.8,
+      21.27,
+      26.26,
+      31.2
+     ]
+    }
+   ]
   },
   {
    "id": "das-phaenomen-der-monsterwellen-auf-see",
@@ -754,7 +822,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Monsterwellen sind außergewöhnlich hohe und steile Wasserwellen auf offener See."
-   }
+   },
+   "ton": [
+    {
+     "k": "Monsterwellen sind extrem hohe und gefährliche Wellen auf den Ozeanen. Lange Zei",
+     "d": "26383887ef.mp3",
+     "l": 35.11,
+     "s": [
+      0.25,
+      4.57,
+      8.64,
+      13.08,
+      17.5,
+      21.92,
+      26.66,
+      30.32
+     ]
+    }
+   ]
   },
   {
    "id": "wie-funktioniert-eigentlich-die-fotosynthese",
@@ -1033,24 +1118,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Ein Ohrwurm ist eine Melodie, die man so schnell nicht wieder vergisst."
-   },
-   "ton": [
-    {
-     "k": "Ein Ohrwurm ist eine Melodie, die uns im Kopf bleibt. Das Wort wurde im zwanzigs",
-     "d": "1da9509868.mp3",
-     "l": 27.1,
-     "s": [
-      0.25,
-      3.32,
-      6.52,
-      8.94,
-      12.72,
-      15.95,
-      19.97,
-      22.98
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "der-begriff-hieroglyphen",
@@ -1167,24 +1235,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Hieroglyphen sind Schriftzeichen mit einem erkennbar bildhaften Charakter."
-   },
-   "ton": [
-    {
-     "k": "Eine Hieroglyphe ist ein Schriftzeichen mit einem bildhaften Charakter. Das Wort",
-     "d": "8c483c7c9c.mp3",
-     "l": 26.67,
-     "s": [
-      0.25,
-      4.34,
-      6.8,
-      9.36,
-      12.93,
-      16.31,
-      19.29,
-      22.9
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-funktioniert-eigentlich-eine-mikrowelle",
