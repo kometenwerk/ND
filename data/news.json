@@ -2259,7 +2259,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 5 und 10 Grad. Die Vorhersage für morgen, ",
+   "d": "75c4b3e122.mp3",
+   "l": 19.18,
+   "s": [
+    0.25,
+    3.67,
+    10.07,
+    13.32,
+    16.47
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2273,173 +2285,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Montag, 9. Novem",
-    "d": "a980428e73.mp3",
-    "l": 9.85,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Dienstag, 10. No",
+    "d": "b600bc2f00.mp3",
+    "l": 9.64,
     "s": [
      0.25,
-     2.69,
+     2.76,
      5.87
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Montag, ",
-    "d": "35fa869d49.mp3",
-    "l": 10.1,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Dienstag",
+    "d": "7e45f41a79.mp3",
+    "l": 10.42,
     "s": [
      0.25,
-     2.62,
-     6.27
+     2.63,
+     6.33
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Montag, 9. Novemb",
-    "d": "a9310da91f.mp3",
-    "l": 10.28,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Dienstag, 10. Nov",
+    "d": "b7b17b0997.mp3",
+    "l": 10.65,
     "s": [
      0.25,
-     2.92,
-     6.36
+     3.05,
+     6.38
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Montag, 9. November",
-    "d": "d05f17a51f.mp3",
-    "l": 9.46,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Dienstag, 10. Novem",
+    "d": "f151146c6a.mp3",
+    "l": 9.7,
     "s": [
      0.25,
-     2.54,
-     5.7
+     2.7,
+     5.9
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Montag, 9. No",
-    "d": "6c630bbd70.mp3",
-    "l": 10.06,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Dienstag, 10.",
+    "d": "78de671657.mp3",
+    "l": 10.33,
     "s": [
      0.25,
-     2.76,
-     5.82
+     2.65,
+     6.16
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Montag, ",
-    "d": "ce53d68206.mp3",
-    "l": 10.35,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Dienstag",
+    "d": "d8f313fbb1.mp3",
+    "l": 10.14,
     "s": [
      0.25,
-     2.73,
-     6.42
+     2.69,
+     6.16
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Montag, 9",
-    "d": "22a6494799.mp3",
-    "l": 10.25,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Dienstag,",
+    "d": "4cecf63f9c.mp3",
+    "l": 10.41,
     "s": [
      0.25,
-     2.58,
-     6.35
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Montag, ",
-    "d": "cb3a575bd3.mp3",
-    "l": 10.75,
-    "s": [
-     0.25,
-     2.98,
+     2.59,
      6.62
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Monta",
-    "d": "5958383674.mp3",
-    "l": 10.55,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Dienstag",
+    "d": "3d7f02a2d5.mp3",
+    "l": 10.1,
     "s": [
      0.25,
-     2.63,
-     6.48
+     2.62,
+     6.19
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Monta",
-    "d": "2eb2259af5.mp3",
-    "l": 10.43,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Diens",
+    "d": "22a3ff0b04.mp3",
+    "l": 10.64,
     "s": [
      0.25,
-     2.7,
-     6.45
+     2.86,
+     6.97
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Diens",
+    "d": "f35cecc35a.mp3",
+    "l": 10.63,
+    "s": [
+     0.25,
+     2.73,
+     6.53
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "535ff081db.mp3",
-    "l": 10.91,
+    "d": "67a8a0a642.mp3",
+    "l": 11.28,
     "s": [
      0.25,
-     2.7,
-     6.85
+     2.72,
+     7.17
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Montag, 9. November. ",
-    "d": "296844254f.mp3",
-    "l": 9.81,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Dienstag, 10. Novembe",
+    "d": "5594cbce08.mp3",
+    "l": 9.42,
     "s": [
      0.25,
-     2.85,
-     5.74
+     2.66,
+     5.44
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Montag, 9. November. Es mode",
-    "d": "29d5438309.mp3",
-    "l": 9.58,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Dienstag, 10. November. Es m",
+    "d": "0fb1c3f9e7.mp3",
+    "l": 9.16,
     "s": [
      0.25,
-     2.8,
-     5.6
+     2.64,
+     5.27
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Montag, 9. November. E",
-    "d": "783f9c1e64.mp3",
-    "l": 9.31,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Dienstag, 10. November",
+    "d": "758cc21edb.mp3",
+    "l": 9.55,
     "s": [
      0.25,
      2.62,
-     5.54
+     5.47
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Montag, 9. Novem",
-    "d": "f09ab2c8bb.mp3",
-    "l": 9.92,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Dienstag, 10. No",
+    "d": "61f0b2bed3.mp3",
+    "l": 9.85,
     "s": [
      0.25,
-     2.85,
-     6.05
+     2.69,
+     6.14
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Montag, 9. November. Es mod",
-    "d": "20059b1734.mp3",
-    "l": 9.36,
-    "s": [
-     0.25,
-     2.78,
-     5.42
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Montag, 9. November. Es mo",
-    "d": "062c6cc761.mp3",
-    "l": 9.63,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Dienstag, 10. November. Es ",
+    "d": "bc032406bd.mp3",
+    "l": 9.53,
     "s": [
      0.25,
      2.71,
-     5.71
+     5.58
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Dienstag, 10. November. Es",
+    "d": "919fe30171.mp3",
+    "l": 9.89,
+    "s": [
+     0.25,
+     2.7,
+     5.76
     ]
    },
    {
@@ -2744,7 +2756,102 @@
     "lat": 50.047,
     "lon": 19.997
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Das Motiv des Täters ist unklar; die Generalstaatsanwaltschaft sieht keine Beleg",
+     "d": "8a6870f55a.mp3",
+     "l": 10.89,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "In der polnischen Stadt Krakau haben Zehntausende Menschen an einem Schweigemars",
+     "d": "17f106286b.mp3",
+     "l": 38.74,
+     "s": [
+      0.25,
+      5.65,
+      9.45,
+      13.01,
+      16.88,
+      20.0,
+      24.47,
+      28.83
+     ]
+    },
+    {
+     "k": "Der Angreifer fuhr am Samstagnachmittag gegen 15:00 Uhr mit einem Auto auf den K",
+     "d": "a805caedb3.mp3",
+     "l": 38.75,
+     "s": [
+      0.25,
+      7.35,
+      11.45,
+      14.87,
+      19.45,
+      22.43,
+      27.31,
+      34.65
+     ]
+    },
+    {
+     "k": "Die Hintergründe der Tat sind nach Angaben der Behörden weiter völlig unklar. Di",
+     "d": "f29f2918c2.mp3",
+     "l": 56.55,
+     "s": [
+      0.25,
+      4.71,
+      13.64,
+      19.76,
+      28.59,
+      35.97,
+      40.77,
+      48.18
+     ]
+    },
+    {
+     "k": "Eine Generalstaatsanwaltschaft ist eine übergeordnete Behörde der Staatsanwälte ",
+     "d": "90ac69cb5f.mp3",
+     "l": 33.7,
+     "s": [
+      0.25,
+      6.37,
+      13.75,
+      17.79,
+      23.25,
+      28.76
+     ]
+    },
+    {
+     "k": "Präsident Karol Nawrocki nahm an dem Schweigemarsch in Krakau teil. Laut ZDFheut",
+     "d": "41eeb06e1c.mp3",
+     "l": 37.23,
+     "s": [
+      0.25,
+      4.37,
+      9.99,
+      13.54,
+      17.78,
+      23.5,
+      26.46,
+      32.69
+     ]
+    },
+    {
+     "k": "Die Ermittlungen der Behörden zu den Hintergründen des Verbrechens werden fortge",
+     "d": "e44c8540ab.mp3",
+     "l": 34.05,
+     "s": [
+      0.25,
+      5.02,
+      12.02,
+      16.7,
+      26.01
+     ]
+    }
+   ]
   },
   {
    "id": "klimakonferenz-antalya-cop31",
@@ -3170,11 +3277,11 @@
     {
      "k": "In Antalya hat die einfundreißigste Weltklimakonferenz der Vereinten Nationen be",
      "d": "f98d35b62d.mp3",
-     "l": 16.17,
+     "l": 15.89,
      "s": [
       0.25,
-      5.6,
-      10.38
+      5.44,
+      10.39
      ]
     },
     {
