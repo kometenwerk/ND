@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T14:10:57.771Z",
+ "stand": "2026-11-11T21:53:39.761Z",
  "gepusht": [
   "starlink-station-polen-festnahmen",
   "nord-stream-prozess-beginn",
@@ -86,11 +86,8 @@
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "merzd-nachfolge-bundespraesident-frau",
-  "us-angriffe-iran-hormus",
-  "paraguay-praesident-pena-amtsenthebung",
   "schuesse-krakau",
   "israel-regierungsbildung-eisenkot",
-  "zugunglueck-aegypten",
   "klimakonferenz-antalya-cop31",
   "spionage-verdacht-nvidia-huang",
   "hochhausbrand-taiyuan-china",
@@ -101,7 +98,7 @@
   "gewalttat-hamburg-eningen"
  ],
  "wetter": {
-  "stand": "2026-11-11T14:10:57.771Z",
+  "stand": "2026-11-11T21:53:39.761Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -110,25 +107,25 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 3,
+     "grad": 2,
      "code": 3,
-     "gefuehlt": 1,
-     "wind": 6,
-     "windAus": 128,
-     "feuchte": 89,
-     "druck": 1002,
+     "gefuehlt": -1,
+     "wind": 4,
+     "windAus": 260,
+     "feuchte": 88,
+     "druck": 1000,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 51,
-     "max": 4,
+     "max": 3,
      "min": 2,
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 143,
+     "windAus": 141,
      "uv": 1.6,
      "auf": "07:38",
      "unter": "16:29"
@@ -137,11 +134,11 @@
      "datum": "2026-11-12",
      "code": 80,
      "max": 8,
-     "min": 2,
-     "regen": 23,
-     "menge": 0.1,
-     "wind": 19,
-     "windAus": 251,
+     "min": 1,
+     "regen": 40,
+     "menge": 2.7,
+     "wind": 18,
+     "windAus": 246,
      "uv": 1.6,
      "auf": "07:40",
      "unter": "16:27"
@@ -150,12 +147,12 @@
      {
       "datum": "2026-11-11",
       "code": 51,
-      "max": 4,
+      "max": 3,
       "min": 2,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 143,
+      "windAus": 141,
       "uv": 1.6,
       "auf": "07:38",
       "unter": "16:29"
@@ -164,11 +161,11 @@
       "datum": "2026-11-12",
       "code": 80,
       "max": 8,
-      "min": 2,
-      "regen": 23,
-      "menge": 0.1,
-      "wind": 19,
-      "windAus": 251,
+      "min": 1,
+      "regen": 40,
+      "menge": 2.7,
+      "wind": 18,
+      "windAus": 246,
       "uv": 1.6,
       "auf": "07:40",
       "unter": "16:27"
@@ -178,37 +175,37 @@
       "code": 80,
       "max": 8,
       "min": 4,
-      "regen": 29,
-      "menge": 0.9,
-      "wind": 21,
-      "windAus": 270,
+      "regen": 28,
+      "menge": 2.9,
+      "wind": 22,
+      "windAus": 273,
       "uv": 1.5,
       "auf": "07:42",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-14",
-      "code": 61,
+      "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 8,
-      "menge": 0.3,
-      "wind": 14,
-      "windAus": 233,
-      "uv": 1.2,
+      "min": 2,
+      "regen": 5,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 230,
+      "uv": 1.3,
       "auf": "07:44",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-15",
       "code": 61,
-      "max": 9,
+      "max": 10,
       "min": 1,
-      "regen": 33,
-      "menge": 0.6,
+      "regen": 30,
+      "menge": 1,
       "wind": 13,
-      "windAus": 159,
-      "uv": 1.5,
+      "windAus": 158,
+      "uv": 1.4,
       "auf": "07:45",
       "unter": "16:22"
      },
@@ -216,105 +213,63 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 11,
-      "min": 8,
-      "regen": 51,
-      "menge": 3.3,
-      "wind": 14,
-      "windAus": 184,
-      "uv": 0.1,
+      "min": 7,
+      "regen": 50,
+      "menge": 0.5,
+      "wind": 15,
+      "windAus": 203,
+      "uv": 1,
       "auf": "07:47",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
-      "max": 9,
-      "min": 6,
-      "regen": 61,
-      "menge": 2.7,
-      "wind": 15,
-      "windAus": 208,
-      "uv": 0.6,
+      "code": 63,
+      "max": 12,
+      "min": 7,
+      "regen": 63,
+      "menge": 10.9,
+      "wind": 20,
+      "windAus": 177,
+      "uv": 0.9,
       "auf": "07:49",
       "unter": "16:19"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 51,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 2,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -338,51 +293,93 @@
      },
      {
       "zeit": "07:00",
-      "grad": 2,
-      "code": 61,
+      "grad": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 2,
       "code": 3,
-      "regen": 13
+      "regen": 3
      },
      {
       "zeit": "09:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 10
+      "grad": 2,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "10:00",
       "grad": 3,
-      "code": 61,
-      "regen": 20
+      "code": 53,
+      "regen": 33
      },
      {
       "zeit": "11:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 23
+      "grad": 3,
+      "code": 61,
+      "regen": 40
      },
      {
       "zeit": "12:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 10
+      "grad": 4,
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "13:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 5
+      "grad": 6,
+      "code": 2,
+      "regen": 3
      },
      {
       "zeit": "14:00",
-      "grad": 8,
+      "grad": 7,
       "code": 1,
-      "regen": 8
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 13
+     },
+     {
+      "zeit": "16:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 15
+     },
+     {
+      "zeit": "17:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 10
+     },
+     {
+      "zeit": "18:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 15
+     },
+     {
+      "zeit": "19:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 20
+     },
+     {
+      "zeit": "20:00",
+      "grad": 3,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "21:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 5
      }
     ]
    },
@@ -392,38 +389,38 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 5,
+     "grad": 4,
      "code": 3,
      "gefuehlt": 2,
-     "wind": 10,
-     "windAus": 112,
-     "feuchte": 78,
-     "druck": 1000,
+     "wind": 4,
+     "windAus": 95,
+     "feuchte": 86,
+     "druck": 997,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 51,
      "max": 5,
      "min": 2,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 130,
+     "windAus": 127,
      "uv": 1.5,
      "auf": "07:20",
      "unter": "16:19"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 3,
-     "max": 7,
+     "code": 61,
+     "max": 6,
      "min": 3,
-     "regen": 5,
+     "regen": 3,
      "menge": 0,
-     "wind": 14,
-     "windAus": 260,
+     "wind": 12,
+     "windAus": 261,
      "uv": 1.7,
      "auf": "07:22",
      "unter": "16:17"
@@ -434,37 +431,37 @@
       "code": 51,
       "max": 5,
       "min": 2,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 130,
+      "windAus": 127,
       "uv": 1.5,
       "auf": "07:20",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-12",
-      "code": 3,
-      "max": 7,
+      "code": 61,
+      "max": 6,
       "min": 3,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 260,
+      "wind": 12,
+      "windAus": 261,
       "uv": 1.7,
       "auf": "07:22",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-13",
-      "code": 3,
+      "code": 80,
       "max": 8,
-      "min": 2,
-      "regen": 0,
-      "menge": 0,
-      "wind": 19,
-      "windAus": 268,
-      "uv": 1.5,
+      "min": 3,
+      "regen": 8,
+      "menge": 0.1,
+      "wind": 22,
+      "windAus": 272,
+      "uv": 1.6,
       "auf": "07:24",
       "unter": "16:16"
      },
@@ -472,37 +469,37 @@
       "datum": "2026-11-14",
       "code": 3,
       "max": 8,
-      "min": 2,
-      "regen": 0,
+      "min": 3,
+      "regen": 3,
       "menge": 0,
-      "wind": 13,
-      "windAus": 250,
-      "uv": 1.3,
+      "wind": 14,
+      "windAus": 248,
+      "uv": 1.6,
       "auf": "07:26",
       "unter": "16:14"
      },
      {
       "datum": "2026-11-15",
-      "code": 2,
-      "max": 7,
+      "code": 61,
+      "max": 9,
       "min": 1,
-      "regen": 12,
-      "menge": 0,
-      "wind": 12,
-      "windAus": 158,
+      "regen": 15,
+      "menge": 0.1,
+      "wind": 14,
+      "windAus": 160,
       "uv": 1.6,
       "auf": "07:28",
       "unter": "16:13"
      },
      {
       "datum": "2026-11-16",
-      "code": 61,
-      "max": 8,
-      "min": 4,
-      "regen": 41,
-      "menge": 2.7,
-      "wind": 11,
-      "windAus": 170,
+      "code": 80,
+      "max": 10,
+      "min": 6,
+      "regen": 36,
+      "menge": 2.5,
+      "wind": 14,
+      "windAus": 179,
       "uv": 1.3,
       "auf": "07:29",
       "unter": "16:11"
@@ -511,64 +508,22 @@
       "datum": "2026-11-17",
       "code": 61,
       "max": 10,
-      "min": 6,
-      "regen": 56,
-      "menge": 1.9,
-      "wind": 14,
-      "windAus": 196,
-      "uv": 0.5,
+      "min": 5,
+      "regen": 52,
+      "menge": 4.2,
+      "wind": 20,
+      "windAus": 172,
+      "uv": 1.1,
       "auf": "07:31",
       "unter": "16:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "23:00",
@@ -585,66 +540,66 @@
      {
       "zeit": "01:00",
       "grad": 4,
-      "code": 3,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 4,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 3
+      "grad": 4,
+      "code": 51,
+      "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 4,
       "code": 3,
-      "regen": 5
+      "regen": 3
      },
      {
       "zeit": "08:00",
       "grad": 4,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
@@ -663,7 +618,49 @@
      {
       "zeit": "14:00",
       "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 6,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 4,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -674,15 +671,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 6,
+     "grad": 5,
      "code": 61,
-     "gefuehlt": 4,
-     "wind": 3,
-     "windAus": 90,
-     "feuchte": 92,
-     "druck": 989,
+     "gefuehlt": 3,
+     "wind": 5,
+     "windAus": 274,
+     "feuchte": 96,
+     "druck": 987,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
@@ -690,9 +687,9 @@
      "max": 6,
      "min": 1,
      "regen": 100,
-     "menge": 5.9,
+     "menge": 3.9,
      "wind": 7,
-     "windAus": 130,
+     "windAus": 116,
      "uv": 0.3,
      "auf": "07:21",
      "unter": "16:27"
@@ -700,13 +697,13 @@
     "morgen": {
      "datum": "2026-11-12",
      "code": 61,
-     "max": 7,
+     "max": 6,
      "min": 2,
-     "regen": 55,
-     "menge": 1.6,
-     "wind": 7,
-     "windAus": 279,
-     "uv": 0.7,
+     "regen": 75,
+     "menge": 1.8,
+     "wind": 8,
+     "windAus": 287,
+     "uv": 0.4,
      "auf": "07:22",
      "unter": "16:26"
     },
@@ -717,9 +714,9 @@
       "max": 6,
       "min": 1,
       "regen": 100,
-      "menge": 5.9,
+      "menge": 3.9,
       "wind": 7,
-      "windAus": 130,
+      "windAus": 116,
       "uv": 0.3,
       "auf": "07:21",
       "unter": "16:27"
@@ -727,226 +724,226 @@
      {
       "datum": "2026-11-12",
       "code": 61,
-      "max": 7,
+      "max": 6,
       "min": 2,
-      "regen": 55,
-      "menge": 1.6,
-      "wind": 7,
-      "windAus": 279,
-      "uv": 0.7,
+      "regen": 75,
+      "menge": 1.8,
+      "wind": 8,
+      "windAus": 287,
+      "uv": 0.4,
       "auf": "07:22",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-13",
-      "code": 2,
+      "code": 3,
       "max": 7,
       "min": 1,
-      "regen": 3,
+      "regen": 8,
       "menge": 0,
-      "wind": 15,
-      "windAus": 260,
+      "wind": 16,
+      "windAus": 259,
       "uv": 1.8,
       "auf": "07:24",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-14",
-      "code": 2,
+      "code": 3,
       "max": 8,
-      "min": 1,
-      "regen": 0,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
-      "wind": 10,
-      "windAus": 234,
+      "wind": 9,
+      "windAus": 223,
       "uv": 1.7,
       "auf": "07:26",
       "unter": "16:23"
      },
      {
       "datum": "2026-11-15",
-      "code": 2,
-      "max": 9,
+      "code": 3,
+      "max": 11,
       "min": 1,
-      "regen": 8,
-      "menge": 0,
-      "wind": 11,
-      "windAus": 169,
+      "regen": 9,
+      "menge": 0.3,
+      "wind": 16,
+      "windAus": 173,
       "uv": 1.7,
       "auf": "07:27",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-16",
-      "code": 61,
-      "max": 10,
+      "code": 80,
+      "max": 11,
       "min": 7,
-      "regen": 28,
-      "menge": 1.2,
-      "wind": 13,
-      "windAus": 183,
-      "uv": 1.4,
+      "regen": 33,
+      "menge": 2,
+      "wind": 14,
+      "windAus": 191,
+      "uv": 1.5,
       "auf": "07:29",
       "unter": "16:20"
      },
      {
       "datum": "2026-11-17",
       "code": 61,
-      "max": 10,
-      "min": 7,
-      "regen": 48,
-      "menge": 1.8,
-      "wind": 14,
-      "windAus": 208,
-      "uv": 0.6,
+      "max": 12,
+      "min": 5,
+      "regen": 50,
+      "menge": 2.7,
+      "wind": 17,
+      "windAus": 181,
+      "uv": 1.6,
       "auf": "07:31",
       "unter": "16:19"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 53,
-      "regen": 73
-     },
-     {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 58
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 43
-     },
-     {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 40
-     },
-     {
-      "zeit": "19:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 38
-     },
-     {
-      "zeit": "20:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 28
-     },
-     {
-      "zeit": "21:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 25
-     },
-     {
       "zeit": "22:00",
       "grad": 5,
-      "code": 61,
+      "code": 53,
       "regen": 20
      },
      {
       "zeit": "23:00",
       "grad": 5,
       "code": 61,
-      "regen": 13
+      "regen": 25
      },
      {
       "zeit": "00:00",
       "grad": 5,
       "code": 61,
-      "regen": 28
+      "regen": 50
      },
      {
       "zeit": "01:00",
       "grad": 5,
       "code": 61,
-      "regen": 40
+      "regen": 65
      },
      {
       "zeit": "02:00",
       "grad": 5,
       "code": 61,
-      "regen": 48
+      "regen": 45
      },
      {
       "zeit": "03:00",
       "grad": 5,
       "code": 61,
-      "regen": 50
+      "regen": 55
      },
      {
       "zeit": "04:00",
       "grad": 5,
       "code": 61,
-      "regen": 55
+      "regen": 63
      },
      {
       "zeit": "05:00",
       "grad": 5,
       "code": 61,
-      "regen": 38
+      "regen": 50
      },
      {
       "zeit": "06:00",
       "grad": 5,
       "code": 61,
-      "regen": 28
+      "regen": 43
      },
      {
       "zeit": "07:00",
       "grad": 5,
       "code": 61,
-      "regen": 25
+      "regen": 40
      },
      {
       "zeit": "08:00",
       "grad": 5,
       "code": 61,
-      "regen": 40
+      "regen": 45
      },
      {
       "zeit": "09:00",
       "grad": 5,
       "code": 61,
-      "regen": 40
+      "regen": 50
      },
      {
       "zeit": "10:00",
       "grad": 5,
-      "code": 51,
-      "regen": 48
+      "code": 61,
+      "regen": 63
      },
      {
       "zeit": "11:00",
       "grad": 5,
-      "code": 3,
-      "regen": 40
+      "code": 61,
+      "regen": 75
      },
      {
       "zeit": "12:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 35
+      "grad": 5,
+      "code": 61,
+      "regen": 60
      },
      {
       "zeit": "13:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 35
+      "grad": 5,
+      "code": 61,
+      "regen": 60
      },
      {
       "zeit": "14:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 50
+     },
+     {
+      "zeit": "15:00",
       "grad": 6,
       "code": 3,
-      "regen": 28
+      "regen": 25
+     },
+     {
+      "zeit": "16:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "17:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "18:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "19:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -956,15 +953,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 8,
+     "grad": 7,
      "code": 3,
-     "gefuehlt": 7,
-     "wind": 5,
-     "windAus": 302,
-     "feuchte": 89,
-     "druck": 995,
+     "gefuehlt": 4,
+     "wind": 9,
+     "windAus": 314,
+     "feuchte": 93,
+     "druck": 994,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
@@ -972,23 +969,23 @@
      "max": 8,
      "min": 5,
      "regen": 100,
-     "menge": 8.9,
+     "menge": 8.5,
      "wind": 16,
-     "windAus": 122,
+     "windAus": 119,
      "uv": 0.3,
      "auf": "07:41",
      "unter": "16:50"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 61,
+     "code": 55,
      "max": 9,
      "min": 4,
-     "regen": 28,
-     "menge": 2.6,
-     "wind": 11,
-     "windAus": 319,
-     "uv": 1.9,
+     "regen": 43,
+     "menge": 1.4,
+     "wind": 12,
+     "windAus": 315,
+     "uv": 1.7,
      "auf": "07:43",
      "unter": "16:48"
     },
@@ -999,74 +996,74 @@
       "max": 8,
       "min": 5,
       "regen": 100,
-      "menge": 8.9,
+      "menge": 8.5,
       "wind": 16,
-      "windAus": 122,
+      "windAus": 119,
       "uv": 0.3,
       "auf": "07:41",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-12",
-      "code": 61,
+      "code": 55,
       "max": 9,
       "min": 4,
-      "regen": 28,
-      "menge": 2.6,
-      "wind": 11,
-      "windAus": 319,
-      "uv": 1.9,
+      "regen": 43,
+      "menge": 1.4,
+      "wind": 12,
+      "windAus": 315,
+      "uv": 1.7,
       "auf": "07:43",
       "unter": "16:48"
      },
      {
       "datum": "2026-11-13",
       "code": 3,
-      "max": 9,
-      "min": 3,
-      "regen": 0,
+      "max": 10,
+      "min": 4,
+      "regen": 4,
       "menge": 0,
       "wind": 14,
-      "windAus": 286,
-      "uv": 1.8,
+      "windAus": 289,
+      "uv": 1.9,
       "auf": "07:44",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-14",
-      "code": 45,
+      "code": 3,
       "max": 8,
-      "min": 1,
+      "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
-      "windAus": 137,
+      "wind": 16,
+      "windAus": 139,
       "uv": 1.9,
       "auf": "07:46",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-15",
-      "code": 51,
+      "code": 53,
       "max": 13,
       "min": 3,
-      "regen": 43,
-      "menge": 3.6,
-      "wind": 20,
-      "windAus": 148,
-      "uv": 0.7,
+      "regen": 56,
+      "menge": 3.4,
+      "wind": 19,
+      "windAus": 156,
+      "uv": 0.5,
       "auf": "07:48",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-16",
-      "code": 51,
+      "code": 53,
       "max": 13,
-      "min": 6,
-      "regen": 53,
-      "menge": 3.3,
-      "wind": 22,
-      "windAus": 213,
+      "min": 7,
+      "regen": 61,
+      "menge": 2.9,
+      "wind": 17,
+      "windAus": 206,
       "uv": 0.4,
       "auf": "07:49",
       "unter": "16:43"
@@ -1074,131 +1071,89 @@
      {
       "datum": "2026-11-17",
       "code": 53,
-      "max": 11,
-      "min": 3,
+      "max": 10,
+      "min": 5,
       "regen": 61,
-      "menge": 5.6,
-      "wind": 22,
-      "windAus": 185,
-      "uv": 1,
+      "menge": 4.4,
+      "wind": 18,
+      "windAus": 214,
+      "uv": 0.4,
       "auf": "07:51",
       "unter": "16:42"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 85
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 90
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 51,
-      "regen": 90
-     },
-     {
-      "zeit": "18:00",
-      "grad": 8,
-      "code": 51,
-      "regen": 86
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 80
-     },
-     {
-      "zeit": "20:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 69
-     },
-     {
-      "zeit": "21:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 55
-     },
-     {
       "zeit": "22:00",
       "grad": 7,
-      "code": 3,
-      "regen": 43
+      "code": 51,
+      "regen": 53
      },
      {
       "zeit": "23:00",
       "grad": 7,
-      "code": 51,
-      "regen": 35
+      "code": 3,
+      "regen": 42
      },
      {
       "zeit": "00:00",
       "grad": 7,
-      "code": 51,
-      "regen": 28
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "01:00",
-      "grad": 7,
-      "code": 51,
+      "grad": 6,
+      "code": 3,
       "regen": 24
      },
      {
       "zeit": "02:00",
       "grad": 6,
-      "code": 3,
-      "regen": 23
+      "code": 51,
+      "regen": 28
      },
      {
       "zeit": "03:00",
       "grad": 6,
-      "code": 51,
-      "regen": 25
+      "code": 3,
+      "regen": 38
      },
      {
       "zeit": "04:00",
       "grad": 6,
-      "code": 51,
-      "regen": 25
+      "code": 55,
+      "regen": 43
      },
      {
       "zeit": "05:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 22
+      "grad": 5,
+      "code": 51,
+      "regen": 37
      },
      {
       "zeit": "06:00",
-      "grad": 6,
-      "code": 51,
-      "regen": 17
+      "grad": 5,
+      "code": 3,
+      "regen": 26
      },
      {
       "zeit": "07:00",
       "grad": 5,
       "code": 3,
-      "regen": 12
+      "regen": 16
      },
      {
       "zeit": "08:00",
       "grad": 5,
       "code": 3,
-      "regen": 7
+      "regen": 9
      },
      {
       "zeit": "09:00",
-      "grad": 6,
+      "grad": 5,
       "code": 3,
-      "regen": 3
+      "regen": 4
      },
      {
       "zeit": "10:00",
@@ -1208,26 +1163,68 @@
      },
      {
       "zeit": "11:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 6,
-      "code": 3,
+      "grad": 7,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 7,
-      "code": 2,
+      "grad": 8,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 8,
       "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 51,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 5,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 5,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1238,39 +1235,39 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 8,
-     "code": 80,
-     "gefuehlt": 7,
+     "grad": 9,
+     "code": 3,
+     "gefuehlt": 8,
      "wind": 5,
-     "windAus": 228,
-     "feuchte": 96,
-     "druck": 990,
+     "windAus": 222,
+     "feuchte": 99,
+     "druck": 988,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 80,
-     "max": 10,
+     "max": 9,
      "min": 5,
      "regen": 100,
-     "menge": 3.2,
+     "menge": 3,
      "wind": 7,
-     "windAus": 203,
+     "windAus": 198,
      "uv": 0.8,
      "auf": "07:31",
      "unter": "16:46"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 80,
+     "code": 61,
      "max": 10,
      "min": 4,
-     "regen": 33,
+     "regen": 43,
      "menge": 0,
      "wind": 12,
-     "windAus": 360,
-     "uv": 0.5,
+     "windAus": 359,
+     "uv": 0.3,
      "auf": "07:33",
      "unter": "16:44"
     },
@@ -1278,65 +1275,65 @@
      {
       "datum": "2026-11-11",
       "code": 80,
-      "max": 10,
+      "max": 9,
       "min": 5,
       "regen": 100,
-      "menge": 3.2,
+      "menge": 3,
       "wind": 7,
-      "windAus": 203,
+      "windAus": 198,
       "uv": 0.8,
       "auf": "07:31",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-12",
-      "code": 80,
+      "code": 61,
       "max": 10,
       "min": 4,
-      "regen": 33,
+      "regen": 43,
       "menge": 0,
       "wind": 12,
-      "windAus": 360,
-      "uv": 0.5,
+      "windAus": 359,
+      "uv": 0.3,
       "auf": "07:33",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-13",
       "code": 2,
-      "max": 8,
+      "max": 9,
       "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 254,
+      "windAus": 244,
       "uv": 2,
       "auf": "07:35",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-14",
-      "code": 3,
+      "code": 1,
       "max": 8,
-      "min": 1,
+      "min": 0,
       "regen": 0,
       "menge": 0,
       "wind": 5,
-      "windAus": 157,
+      "windAus": 96,
       "uv": 1.9,
       "auf": "07:36",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-15",
-      "code": 3,
-      "max": 8,
-      "min": 0,
-      "regen": 24,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 112,
-      "uv": 1.6,
+      "code": 61,
+      "max": 10,
+      "min": 1,
+      "regen": 25,
+      "menge": 0.6,
+      "wind": 7,
+      "windAus": 164,
+      "uv": 0.8,
       "auf": "07:38",
       "unter": "16:40"
      },
@@ -1344,173 +1341,173 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 11,
-      "min": 7,
-      "regen": 53,
-      "menge": 1.5,
+      "min": 6,
+      "regen": 70,
+      "menge": 6.3,
       "wind": 13,
-      "windAus": 212,
+      "windAus": 209,
       "uv": 1,
       "auf": "07:39",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
-      "max": 10,
+      "code": 80,
+      "max": 13,
       "min": 6,
-      "regen": 70,
-      "menge": 9.3,
-      "wind": 10,
-      "windAus": 183,
-      "uv": 0.2,
+      "regen": 73,
+      "menge": 8.7,
+      "wind": 15,
+      "windAus": 178,
+      "uv": 0.5,
       "auf": "07:41",
       "unter": "16:38"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 10
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 80,
-      "regen": 8
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 80,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "19:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 28
-     },
-     {
-      "zeit": "20:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 33
-     },
-     {
-      "zeit": "21:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 20
-     },
-     {
       "zeit": "22:00",
       "grad": 9,
       "code": 3,
-      "regen": 35
+      "regen": 3
      },
      {
       "zeit": "23:00",
       "grad": 9,
       "code": 3,
-      "regen": 25
+      "regen": 23
      },
      {
       "zeit": "00:00",
-      "grad": 10,
-      "code": 51,
-      "regen": 18
+      "grad": 9,
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "01:00",
-      "grad": 10,
-      "code": 51,
-      "regen": 33
+      "grad": 9,
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "02:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 25
+      "grad": 9,
+      "code": 3,
+      "regen": 18
      },
      {
       "zeit": "03:00",
-      "grad": 10,
+      "grad": 9,
       "code": 3,
-      "regen": 28
+      "regen": 25
      },
      {
       "zeit": "04:00",
       "grad": 10,
       "code": 3,
-      "regen": 28
+      "regen": 30
      },
      {
       "zeit": "05:00",
       "grad": 10,
       "code": 3,
-      "regen": 10
+      "regen": 25
      },
      {
       "zeit": "06:00",
       "grad": 10,
       "code": 3,
-      "regen": 10
+      "regen": 30
      },
      {
       "zeit": "07:00",
       "grad": 10,
-      "code": 80,
-      "regen": 8
+      "code": 3,
+      "regen": 15
      },
      {
       "zeit": "08:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 13
      },
      {
       "zeit": "09:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 15
+      "grad": 10,
+      "code": 3,
+      "regen": 8
      },
      {
       "zeit": "10:00",
       "grad": 9,
       "code": 61,
-      "regen": 23
+      "regen": 15
      },
      {
       "zeit": "11:00",
       "grad": 9,
       "code": 61,
-      "regen": 28
+      "regen": 25
      },
      {
       "zeit": "12:00",
       "grad": 9,
       "code": 3,
-      "regen": 23
+      "regen": 38
      },
      {
       "zeit": "13:00",
       "grad": 9,
       "code": 3,
-      "regen": 25
+      "regen": 43
      },
      {
       "zeit": "14:00",
       "grad": 9,
       "code": 3,
-      "regen": 20
+      "regen": 35
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -1520,15 +1517,15 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 14,
-     "code": 3,
-     "gefuehlt": 15,
-     "wind": 2,
-     "windAus": 59,
-     "feuchte": 89,
-     "druck": 973,
+     "grad": 13,
+     "code": 61,
+     "gefuehlt": 12,
+     "wind": 5,
+     "windAus": 200,
+     "feuchte": 92,
+     "druck": 972,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
@@ -1536,23 +1533,23 @@
      "max": 15,
      "min": 9,
      "regen": 95,
-     "menge": 7.9,
+     "menge": 7.6,
      "wind": 9,
-     "windAus": 188,
+     "windAus": 184,
      "uv": 0.8,
      "auf": "07:25",
      "unter": "16:48"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 61,
+     "code": 80,
      "max": 13,
      "min": 6,
-     "regen": 45,
-     "menge": 0.2,
+     "regen": 50,
+     "menge": 1.6,
      "wind": 14,
-     "windAus": 3,
-     "uv": 1.5,
+     "windAus": 349,
+     "uv": 0.9,
      "auf": "07:27",
      "unter": "16:47"
     },
@@ -1563,36 +1560,36 @@
       "max": 15,
       "min": 9,
       "regen": 95,
-      "menge": 7.9,
+      "menge": 7.6,
       "wind": 9,
-      "windAus": 188,
+      "windAus": 184,
       "uv": 0.8,
       "auf": "07:25",
       "unter": "16:48"
      },
      {
       "datum": "2026-11-12",
-      "code": 61,
+      "code": 80,
       "max": 13,
       "min": 6,
-      "regen": 45,
-      "menge": 0.2,
+      "regen": 50,
+      "menge": 1.6,
       "wind": 14,
-      "windAus": 3,
-      "uv": 1.5,
+      "windAus": 349,
+      "uv": 0.9,
       "auf": "07:27",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-13",
       "code": 3,
-      "max": 6,
-      "min": 2,
+      "max": 7,
+      "min": 1,
       "regen": 3,
       "menge": 0,
-      "wind": 13,
-      "windAus": 301,
-      "uv": 2.1,
+      "wind": 14,
+      "windAus": 297,
+      "uv": 2,
       "auf": "07:28",
       "unter": "16:45"
      },
@@ -1603,35 +1600,35 @@
       "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 151,
+      "wind": 9,
+      "windAus": 150,
       "uv": 2,
       "auf": "07:30",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-15",
-      "code": 3,
-      "max": 12,
+      "code": 61,
+      "max": 13,
       "min": 2,
-      "regen": 11,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 172,
-      "uv": 1.7,
+      "regen": 12,
+      "menge": 0.6,
+      "wind": 12,
+      "windAus": 188,
+      "uv": 0.8,
       "auf": "07:31",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-16",
       "code": 61,
-      "max": 12,
-      "min": 9,
-      "regen": 28,
-      "menge": 5.3,
-      "wind": 13,
-      "windAus": 204,
-      "uv": 1.4,
+      "max": 11,
+      "min": 7,
+      "regen": 45,
+      "menge": 6.9,
+      "wind": 15,
+      "windAus": 208,
+      "uv": 1.3,
       "auf": "07:33",
       "unter": "16:42"
      },
@@ -1639,136 +1636,94 @@
       "datum": "2026-11-17",
       "code": 61,
       "max": 13,
-      "min": 8,
+      "min": 4,
       "regen": 64,
-      "menge": 4.4,
-      "wind": 24,
-      "windAus": 194,
-      "uv": 0.4,
+      "menge": 8,
+      "wind": 13,
+      "windAus": 183,
+      "uv": 0.8,
       "auf": "07:34",
       "unter": "16:40"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 63
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 73
-     },
-     {
-      "zeit": "17:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 63
-     },
-     {
-      "zeit": "18:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 68
-     },
-     {
-      "zeit": "19:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 55
-     },
-     {
-      "zeit": "20:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 35
-     },
-     {
-      "zeit": "21:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 28
-     },
-     {
       "zeit": "22:00",
       "grad": 13,
       "code": 3,
-      "regen": 20
+      "regen": 5
      },
      {
       "zeit": "23:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 15
+      "grad": 13,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "00:00",
       "grad": 12,
-      "code": 2,
-      "regen": 5
+      "code": 61,
+      "regen": 8
      },
      {
       "zeit": "01:00",
+      "grad": 12,
+      "code": 80,
+      "regen": 8
+     },
+     {
+      "zeit": "02:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "03:00",
       "grad": 12,
       "code": 2,
       "regen": 5
      },
      {
-      "zeit": "02:00",
-      "grad": 11,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "03:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 3
-     },
-     {
       "zeit": "04:00",
       "grad": 11,
-      "code": 3,
-      "regen": 0
+      "code": 2,
+      "regen": 5
      },
      {
       "zeit": "05:00",
       "grad": 10,
-      "code": 3,
+      "code": 2,
       "regen": 3
      },
      {
       "zeit": "06:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 9,
-      "code": 3,
-      "regen": 5
+      "code": 45,
+      "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 9,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 10,
       "code": 45,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 11,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "11:00",
@@ -1793,6 +1748,48 @@
       "grad": 13,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 25
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 18
+     },
+     {
+      "zeit": "19:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 40
+     },
+     {
+      "zeit": "20:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 50
+     },
+     {
+      "zeit": "21:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 38
      }
     ]
    },
@@ -1802,15 +1799,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 14,
+     "grad": 11,
      "code": 61,
-     "gefuehlt": 13,
-     "wind": 5,
-     "windAus": 274,
-     "feuchte": 84,
-     "druck": 943,
-     "niederschlag": 0,
-     "tag": 1
+     "gefuehlt": 10,
+     "wind": 8,
+     "windAus": 219,
+     "feuchte": 93,
+     "druck": 942,
+     "niederschlag": 0.4,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-11",
@@ -1818,23 +1815,23 @@
      "max": 14,
      "min": 6,
      "regen": 100,
-     "menge": 5.9,
-     "wind": 8,
-     "windAus": 197,
+     "menge": 9,
+     "wind": 11,
+     "windAus": 198,
      "uv": 0.8,
      "auf": "07:14",
      "unter": "16:40"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 61,
+     "code": 80,
      "max": 13,
      "min": 6,
-     "regen": 98,
-     "menge": 6.9,
-     "wind": 15,
-     "windAus": 37,
-     "uv": 1.5,
+     "regen": 100,
+     "menge": 5.1,
+     "wind": 14,
+     "windAus": 15,
+     "uv": 1.3,
      "auf": "07:15",
      "unter": "16:39"
     },
@@ -1845,23 +1842,23 @@
       "max": 14,
       "min": 6,
       "regen": 100,
-      "menge": 5.9,
-      "wind": 8,
-      "windAus": 197,
+      "menge": 9,
+      "wind": 11,
+      "windAus": 198,
       "uv": 0.8,
       "auf": "07:14",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-12",
-      "code": 61,
+      "code": 80,
       "max": 13,
       "min": 6,
-      "regen": 98,
-      "menge": 6.9,
-      "wind": 15,
-      "windAus": 37,
-      "uv": 1.5,
+      "regen": 100,
+      "menge": 5.1,
+      "wind": 14,
+      "windAus": 15,
+      "uv": 1.3,
       "auf": "07:15",
       "unter": "16:39"
      },
@@ -1869,12 +1866,12 @@
       "datum": "2026-11-13",
       "code": 61,
       "max": 6,
-      "min": 1,
-      "regen": 98,
-      "menge": 3.7,
+      "min": 2,
+      "regen": 100,
+      "menge": 4,
       "wind": 15,
-      "windAus": 303,
-      "uv": 2.1,
+      "windAus": 301,
+      "uv": 2,
       "auf": "07:17",
       "unter": "16:38"
      },
@@ -1885,8 +1882,8 @@
       "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 115,
+      "wind": 12,
+      "windAus": 107,
       "uv": 2.1,
       "auf": "07:18",
       "unter": "16:36"
@@ -1894,26 +1891,26 @@
      {
       "datum": "2026-11-15",
       "code": 3,
-      "max": 9,
-      "min": -1,
-      "regen": 2,
+      "max": 10,
+      "min": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 5,
-      "windAus": 118,
+      "windAus": 134,
       "uv": 2,
       "auf": "07:20",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-16",
-      "code": 61,
-      "max": 9,
-      "min": 1,
-      "regen": 19,
-      "menge": 1.8,
-      "wind": 13,
-      "windAus": 193,
-      "uv": 1.8,
+      "code": 63,
+      "max": 10,
+      "min": 5,
+      "regen": 33,
+      "menge": 10.4,
+      "wind": 19,
+      "windAus": 226,
+      "uv": 2,
       "auf": "07:21",
       "unter": "16:34"
      },
@@ -1921,104 +1918,62 @@
       "datum": "2026-11-17",
       "code": 61,
       "max": 11,
-      "min": 5,
-      "regen": 55,
-      "menge": 1.3,
+      "min": 2,
+      "regen": 60,
+      "menge": 0.7,
       "wind": 15,
-      "windAus": 201,
-      "uv": 1,
+      "windAus": 154,
+      "uv": 1.5,
       "auf": "07:23",
       "unter": "16:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 83
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "18:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "19:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 100
-     },
-     {
-      "zeit": "20:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 95
-     },
-     {
-      "zeit": "21:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 93
-     },
-     {
       "zeit": "22:00",
       "grad": 11,
       "code": 61,
-      "regen": 83
+      "regen": 98
      },
      {
       "zeit": "23:00",
       "grad": 11,
       "code": 61,
-      "regen": 73
+      "regen": 98
      },
      {
       "zeit": "00:00",
       "grad": 11,
       "code": 61,
-      "regen": 55
+      "regen": 95
      },
      {
       "zeit": "01:00",
       "grad": 11,
-      "code": 3,
-      "regen": 23
+      "code": 61,
+      "regen": 75
      },
      {
       "zeit": "02:00",
       "grad": 11,
-      "code": 3,
-      "regen": 10
+      "code": 80,
+      "regen": 33
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "04:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 9,
+      "grad": 10,
       "code": 3,
       "regen": 0
      },
@@ -2030,7 +1985,7 @@
      },
      {
       "zeit": "07:00",
-      "grad": 8,
+      "grad": 9,
       "code": 3,
       "regen": 0
      },
@@ -2043,7 +1998,7 @@
      {
       "zeit": "09:00",
       "grad": 9,
-      "code": 3,
+      "code": 45,
       "regen": 0
      },
      {
@@ -2062,27 +2017,69 @@
       "zeit": "12:00",
       "grad": 13,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 13,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 13,
       "code": 3,
       "regen": 13
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 55
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 70
+     },
+     {
+      "zeit": "18:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 80
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "20:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 98
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 4 und 15 Grad.",
-   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten Regenschauer, im Süden und Westen leichter Regen.",
-   "Die Temperaturen erreichen dann 7 bis 13 Grad.",
+   "Heute liegen die Höchstwerte zwischen 3 und 15 Grad.",
+   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten leichter Regen, im Süden und Westen Regenschauer.",
+   "Die Temperaturen erreichen dann 6 bis 13 Grad.",
    "Am wärmsten wird es in Stuttgart mit 13 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2096,19 +2093,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 8,
-       "regen": 0.1
+       "regen": 2.7
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
-       "regen": 1.6
+       "grad": 9,
+       "regen": 0.9
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 8,
-       "regen": 0.2
+       "regen": 0.3
       }
      ]
     },
@@ -2118,7 +2115,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 7,
+       "grad": 6,
        "regen": 0
       },
       {
@@ -2131,7 +2128,7 @@
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 6,
-       "regen": 0
+       "regen": 0.1
       }
      ]
     },
@@ -2141,20 +2138,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 7,
-       "regen": 1.6
+       "grad": 6,
+       "regen": 1.8
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
-       "regen": 0.4
+       "grad": 6,
+       "regen": 1.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 5,
-       "regen": 1.5
+       "regen": 2.7
       }
      ]
     },
@@ -2165,19 +2162,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 8,
-       "regen": 0.1
+       "regen": 0.3
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 9,
-       "regen": 2.3
+       "regen": 0.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": 0.8
+       "grad": 8,
+       "regen": 0.6
       }
      ]
     },
@@ -2194,13 +2191,13 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 10,
-       "regen": 0
+       "regen": 0.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 10,
-       "regen": 0.2
+       "regen": 1.6
       }
      ]
     },
@@ -2211,19 +2208,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 0.2
+       "regen": 1.6
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 13,
+       "grad": 12,
        "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 12,
-       "regen": 2.3
+       "regen": 4.8
       }
      ]
     },
@@ -2234,19 +2231,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 13,
-       "regen": 6.9
+       "regen": 5.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 11,
-       "regen": 5.2
+       "regen": 9.8
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 5.3
+       "grad": 10,
+       "regen": 4.9
       }
      ]
     }
@@ -2255,16 +2252,16 @@
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
-     "GFS"
+     "ICON"
     ],
     "trocken": [
-     "ICON",
+     "GFS",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für Leipzig gehen die Modelle am weitesten auseinander: zwischen 5 und 8 Grad.",
-    "Und in Hamburg erwartet GFS Regen, ICON und ECMWF dagegen nicht."
+    "Für München gehen die Modelle am weitesten auseinander: zwischen 10 und 13 Grad.",
+    "Und in Hamburg erwartet ICON Regen, GFS und ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -8260,1694 +8257,6 @@
       21.24,
       27.29,
       32.16
-     ]
-    }
-   ]
-  },
-  {
-   "id": "zugunglueck-aegypten",
-   "rubrik": "Welt",
-   "zeit": "2026-11-08T19:27:18.000Z",
-   "titel": "Zugunglück in Ägypten mit Toten und Verletzten",
-   "vorspann": "Bei einem Zusammenstoß von Zügen in Ägypten sind nach Angaben von Behörden und Medien mehrere Menschen ums Leben gekommen und zahlreiche weitere verletzt worden. Rettungskräfte und Behörden nahmen die Versorgung der Betroffenen und die Beseitigung der Schäden an der Unfallstelle auf.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Bei einem Zugunglück in Ägypten sind Waggons zweier Züge entgleist und zusammengestoßen.",
-    "Je nach Medienbericht werden vier bis sieben Tote sowie 88 bis 112 Verletzte gemeldet.",
-    "Rettungskräfte, Krankenwagen und Kräne waren im Einsatz, um Verletzte zu versorgen und die Strecke zu räumen.",
-    "Präsident al-Sisi kündigte eine Untersuchung an, während im Land Forderungen nach Konsequenzen laut wurden."
-   ],
-   "einig": [
-    [
-     "Ein Unfall ereignete sich auf der Bahnstrecke zwischen Kairo und Assuan.",
-     [
-      "Deutschlandfunk",
-      "FAZ",
-      "BBC",
-      "NZZ",
-      "SRF"
-     ]
-    ],
-    [
-     "Es waren mehr als 70 Krankenwagen im Einsatz.",
-     [
-      "Deutschlandfunk",
-      "FAZ",
-      "NZZ",
-      "SRF"
-     ]
-    ],
-    [
-     "Im Jahr 2002 ereignete sich ein schweres Zugunglück in Giseh durch einen Brand.",
-     [
-      "Deutschlandfunk",
-      "FAZ",
-      "BBC",
-      "NZZ",
-      "SRF"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Anzahl der Toten und Verletzten ist unklar: Deutschlandfunk, BBC und SRF nennen sieben Tote und 112 Verletzte, während FAZ und NZZ von vier Toten und 88 Verletzten sprechen."
-   ],
-   "positionen": [
-    [
-     "Präsident Abdul Fattah al-Sisi",
-     "Forderung nach einer Untersuchung der Unfallumstände und Rechenschaft für Verantwortliche.",
-     "BBC"
-    ],
-    [
-     "Eisenbahnbehörde",
-     "Mitteilung über den Hergang des Auffahrunfalls und Sperrung der Strecke.",
-     "FAZ,BBC,NZZ"
-    ],
-    [
-     "Gesundheitsministerium",
-     "Angaben zu Opfern, Krankenhauseinsätzen und medizinischer Versorgung.",
-     "FAZ,BBC,NZZ"
-    ]
-   ],
-   "fehlend": "Stimmen von Fahrgästen, die nicht verletzt wurden, oder direkte Erklärungen von Bahntechnikern fehlen in den Berichten.",
-   "medien": [
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "08.11.26, 20:27",
-     "fokus": "Opferzahlen",
-     "text": "Der Bericht nennt kurz sieben Tote und 112 Verletzte bei dem Zugunglück.",
-     "url": "https://www.deutschlandfunk.de/sieben-tote-und-112-verletzte-bei-zugunglueck-in-aegypten-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "08.11.26, 15:53",
-     "fokus": "Offizielle Angaben",
-     "text": "Die FAZ nennt vier Tote und 88 Verletzte und erwähnt Regierungsmaßnahmen.",
-     "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mindestens-vier-tote-und-88-verletzte-bei-zugunglueck-in-aegypten-accg-201663568.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 1,
-      "woerter": 292,
-      "satzlaenge": 15,
-      "langeWoerter": 35
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "08.11.26, 18:35",
-     "fokus": "Internationale Reaktionen",
-     "text": "Die BBC berichtet detailliert über Reaktionen aus dem Ausland und Aussagen der Regierung.",
-     "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 406,
-      "satzlaenge": 21,
-      "langeWoerter": 30
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    },
-    {
-     "name": "NZZ",
-     "typ": "Tageszeitung (Schweiz)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "08.11.26, 16:24",
-     "fokus": "Hintergründe",
-     "text": "Die NZZ nennt vier Tote und 88 Verletzte sowie historische Zugunfälle.",
-     "url": "https://www.nzz.ch/panorama/in-aegypten-entgleist-ein-zug-64-menschen-werden-verletzt-ld.10057958",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 1,
-      "woerter": 261,
-      "satzlaenge": 13,
-      "langeWoerter": 36
-     },
-     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "SRF",
-     "typ": "öffentlich-rechtlich (Schweiz)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "08.11.26, 16:39",
-     "fokus": "Rettungseinsatz",
-     "text": "SRF meldet sieben Tote und 112 Verletzte sowie den Einsatz von Ambulanzen.",
-     "url": "https://www.srf.ch/news/international/mehrere-waggons-entgleist-zugunglueck-in-aegypten-fordert-sieben-tote-und-112-verletzte",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 1,
-      "woerter": 130,
-      "satzlaenge": 14,
-      "langeWoerter": 36
-     },
-     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
-     "finanzierung": "Rundfunkabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Opferzahlen",
-     "Einige Medien (Deutschlandfunk, BBC, SRF) nennen 7 Tote und 112 Verletzte, andere (FAZ, NZZ) sprechen von 4 Toten und 88 Verletzten."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Zwei beteiligte Züge und die staatliche Eisenbahnbehörde",
-    "was": "Zusammenstoß und Entgleisung von Waggons",
-    "wann": "2026-11-08",
-    "wo": "Strecke zwischen Kairo und Assuan in Ägypten",
-    "wie": "Ein Zug fuhr in das hintere Ende eines anderen Zuges",
-    "warum": "Menschliches Versagen und Fehler der Signalanlagen laut NZZ",
-    "quellenlage": "Deutschlandfunk, FAZ, BBC, NZZ, SRF"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das Ereignis",
-     "absaetze": [
-      "Bei einem Zugunglück in Ägypten sind nach unterschiedlichen Angaben mehrere Menschen getötet worden. Laut dem Deutschlandfunk, der BBC und SRF gab es sieben Todesopfer. Laut der FAZ und der NZZ wurden mindestens vier Menschen getötet. Auch bei der Zahl der Verletzten gibt es abweichende Angaben in den Berichten.",
-      "Laut dem Deutschlandfunk, der BBC und SRF wurden 112 Menschen verletzt. Die FAZ und die NZZ berichten hingegen von 88 verletzten Personen. Das Unglück ereignete sich auf der wichtigen Bahnstrecke zwischen der Hauptstadt Kairo und der südlich gelegenen Stadt Assuan. Mehrere Waggons eines Passagierzuges entgleisten bei dem Vorfall.",
-      "Die staatliche Eisenbahnbehörde teilte mit, dass ein Zug in das hintere Ende eines anderen Zuges gefahren ist. Der Unfallort liegt in der Region beziehungsweise Provinz Giseh, genauer zwischen den Stationen Kafr Ammar und Al-Raqqa im Gebiet Al-Ayat. Der erste betroffene Zug war von Giseh nach Fayoum unterwegs und fuhr auf ein stehendes, nach Süden fahrendes Fahrzeug auf."
-     ]
-    },
-    {
-     "ueberschrift": "Rettungseinsatz und Bergungsarbeiten",
-     "absaetze": [
-      "Mehr als 70 beziehungsweise 72 Krankenwagen waren laut den Berichten im Einsatz, um die verletzten Personen zu versorgen und in Krankenhäuser zu transportieren. Das ägyptische Gesundheitsministerium gab an, dass Krankenhäuser in der Umgebung in einen Zustand erhöhter Alarmbereitschaft versetzt wurden. Der Gesundheitsminister Dr. Khaled Abdel Ghaffar erklärte, dass Menschen wegen Knochenbrüchen und Kopfverletzungen behandelt werden.",
-      "Zusätzlich wurden Kräne an die Unfallstelle gebracht, um Wrackteile zu beseitigen. Durch die Bergungsarbeiten sollte die beschädigte Bahnstrecke schnell wieder für den Zugverkehr freigegeben werden. Der Zugverkehr zwischen Giseh und der Region Oberägypten wurde vorübergehend ausgesetzt. Örtliche Medien verbreiteten Fotografien der Unfallstelle, die seitlich auf der Strecke oder auf Ackerland liegende Waggons zeigten.",
-      "Der ägyptische Rote Halbmond war nach Angaben der BBC ebenfalls vor Ort im Einsatz. Die Hilfsorganisation leistete Unterstützung und bot den Opfern sowie deren Familien psychologische Hilfe an. Unter den Getöteten befand sich nach Angaben des Ministeriums auch der Fahrer eines der beiden beteiligten Züge. Die Staatsanwaltschaft warnte vor einem möglichen Anstieg der Opferzahlen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund und frühere Unglücke",
-     "absaetze": [
-      "In dem nordafrikanischen Land kommt es nach übereinstimmenden Berichten der Medien regelmäßig zu teils schweren Zugunfällen. Dabei gab es auch in den vergangenen Jahren immer wieder zahlreiche Tote und Verletzte zu verzeichnen. Als häufige Ursachen für derartige Unglücke in Ägypten werden menschliches Versagen sowie Fehler bei den Signalanlagen genannt.",
-      "Die Regierung arbeitet nach Angaben der FAZ, der NZZ und des Deutschlandfunks bereits seit Jahren daran, das Schienennetz sowie die Züge zu modernisieren. Die Strecke zwischen Kairo und Assuan gilt als zentrale Verkehrsverbindung zwischen der Hauptstadt und dem Süden des Landes. Der Unfallort liegt nahe dem Schauplatz eines schweren Unglücks aus dem Jahr 2002.",
-      "Im Februar 2002 war in einem Zug auf der Fahrt von Kairo nach Luxor ein Feuer ausgebrochen. Damals kamen laut den Medienberichten mehr beziehungsweise über 360 bis 370 Menschen ums Leben. Jenes Ereignis gilt als eines der schwersten Eisenbahnunglücke in der Geschichte des Landes."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der ägyptische Präsident Abdul Fattah al-Sisi gab bekannt, dass er die staatlichen Behörden angewiesen hat, die genauen Umstände des Unfalls zu untersuchen. Zudem forderte er, dass Personen, die sich als fahrlässig erweisen, zur Verantwortung gezogen werden. Nach dem Bahnunglück gab es in Ägypten zudem politische Forderungen nach dem Rücktritt des Verkehrsministers.",
-      "Aus dem Ausland erreichten Ägypten zahlreiche Beileidsbekundungen und Solidaritätsbekundungen. Das saudi-arabische Außenministerium äußerte Solidarität und wünschte den Verletzten eine rasche Genesung. Der türkische Botschafter in Ägypten übermittelte über die Plattform X sein Beileid an die Opfer, deren Familien und das ägyptische Volk."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2026-11-08",
-     "Zusammenstoß zweier Züge und Entgleisung mehrerer Waggons in Ägypten."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Es wird kein Bild angezeigt, da es sich um ein Unglück mit Toten und Verletzten handelt."
-    }
-   ],
-   "ort": {
-    "name": "Giseh, Ägypten"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Falsch zugeordnete Passagen über Spanien aus dem Text der FAZ wurden entfernt, da sie nicht zum Thema des ägyptischen Zugunglücks gehören."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Passagierzug",
-      "Ein Zug, der vor allem dazu da ist, Menschen von einem Ort zum anderen zu transportieren."
-     ],
-     [
-      "Eisenbahnbehörde",
-      "Eine staatliche Einrichtung, die sich um den Zugverkehr und die Sicherheit der Schienen kümmert."
-     ]
-    ],
-    "fragen": [
-     "Welche Gründe könnten dazu führen, dass Medien bei denselben Ereignissen unterschiedliche Zahlen nennen?",
-     "Wie beeinflussen Berichte über frühere Unfälle den Blick auf ein neues Unglück?"
-    ],
-    "quiz": [
-     {
-      "frage": "Auf welcher Strecke ereignete sich das Zugunglück?",
-      "optionen": [
-       "Zwischen Kairo und Assuan",
-       "Zwischen Giseh und Luxor",
-       "Zwischen Kairo und Alexandria"
-      ],
-      "richtig": 0,
-      "erklaerung": "Alle fünf Quellen berichten übereinstimmend, dass der Unfall auf der Strecke zwischen Kairo und Assuan stattfand."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Ägypten hat es ein schweres Zugunglück gegeben. Mehrere Waggons sind entgleist.",
-    "absaetze": [
-     "Zwei Züge sind auf der Bahnstrecke zwischen Kairo und Assuan zusammengestoßen.",
-     "Ein Zug fuhr dabei in das hintere Ende eines anderen Zuges.",
-     "Bei dem Unfall gab es nach unterschiedlichen Berichten vier bis sieben Tote.",
-     "Außerdem wurden zwischen 88 und 112 Menschen verletzt.",
-     "Mehr als 70 Krankenwagen brachten die Verletzten in Krankenhäuser.",
-     "Präsident al-Sisi ordnete eine Untersuchung des Unglücks an."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In Ägypten sind zwei Züge zusammengestoßen und Waggons sind entgleist. Nach Medienangaben gab es mehrere Tote und Verletzte. Rettungskräfte waren mit mehr als siebzig Krankenwagen im Einsatz."
-    ],
-    "lang": [
-     "In Ägypten hat sich ein schweres Zugunglück ereignet.",
-     "Auf der Strecke zwischen Kairo und Assuan fuhr ein Zug in das hintere Ende eines anderen Zuges.",
-     "Mehrere Waggons entgleisten bei dem Unfall.",
-     "Nach Angaben von Medien und Behörden starben mindestens vier bis sieben Menschen.",
-     "Zudem wurden nach Medienangaben zwischen 88 und 112 Menschen verletzt.",
-     "Mehr als siebzig Krankenwagen und Kräne waren im Einsatz, um die Verletzten zu versorgen und die Strecke zu räumen.",
-     "Der ägyptische Präsident Abdul Fattah al-Sisi ordnete eine Untersuchung an.",
-     "In dem Land kommt es regelmäßig zu schweren Zugunglücken.",
-     "Die staatliche Eisenbahnbehörde sperrte die betroffene Strecke für den Zugverkehr.",
-     "Die genaue Unfallursache wird nun von den Behörden untersucht."
-    ],
-    "einfach": [
-     "In Ägypten sind zwei Züge zusammengestoßen.",
-     "Mehrere Waggons sind von den Gleisen gekippt.",
-     "Dabei starben nach Medienangaben mindestens vier bis sieben Menschen.",
-     "Viele weitere Menschen wurden verletzt.",
-     "Über siebzig Krankenwagen brachten die Verletzten in Spitäler.",
-     "Der ägyptische Präsident will den Unfall genau untersuchen lassen."
-    ]
-   },
-   "kurz": [
-    "In Ägypten sind zwei Züge zusammengestoßen und Waggons sind entgleist.",
-    "Medien nennen vier bis sieben Tote sowie 88 bis 112 Verletzte.",
-    "Mehr als 70 Krankenwagen und Kräne waren im Großeinsatz an der Unfallstrecke.",
-    "Präsident al-Sisi kündigte eine Untersuchung des Unfalls an."
-   ],
-   "fakten": [
-    [
-     "Datum",
-     "2026-11-08"
-    ],
-    [
-     "Mindestzahl Verletzte",
-     "88 bis 112"
-    ],
-    [
-     "Mindestzahl Tote",
-     "4 bis 7"
-    ]
-   ],
-   "dossier": {
-    "slug": "zugunglueck-aegypten",
-    "titel": "Zugunglück in Ägypten"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Giseh, Ägypten",
-    "lat": 29.987,
-    "lon": 31.212
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "In Ägypten hat sich ein schweres Zugunglück ereignet. Auf der Strecke zwischen K",
-     "d": "e38d4ae263.mp3",
-     "l": 46.33,
-     "s": [
-      0.25,
-      3.54,
-      9.21,
-      12.02,
-      16.75,
-      22.62,
-      29.09,
-      33.97,
-      37.52,
-      42.32
-     ]
-    },
-    {
-     "k": "In Ägypten sind zwei Züge zusammengestoßen und Waggons sind entgleist. Nach Medi",
-     "d": "4ee936c1da.mp3",
-     "l": 11.78,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "In Ägypten sind zwei Züge zusammengestoßen. Mehrere Waggons sind von den Gleisen",
-     "d": "7dc7dc0caf.mp3",
-     "l": 21.52,
-     "s": [
-      0.25,
-      3.48,
-      6.62,
-      10.76,
-      13.35,
-      17.21
-     ]
-    },
-    {
-     "k": "Die genaue Anzahl der Toten und Verletzten ist unklar: Deutschlandfunk, BBC und ",
-     "d": "c70011f9ad.mp3",
-     "l": 12.97,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Passagierzug? Ein Zug, der vor allem dazu da ist, Mensch",
-     "d": "c4a1de9d95.mp3",
-     "l": 8.44,
-     "s": [
-      0.25,
-      2.88
-     ]
-    },
-    {
-     "k": "Bei einem Zugunglück in Ägypten sind nach unterschiedlichen Angaben mehrere Mens",
-     "d": "e2b2b918b5.mp3",
-     "l": 41.77,
-     "s": [
-      0.25,
-      5.88,
-      10.68,
-      15.26,
-      19.78,
-      25.01,
-      30.61,
-      37.44
-     ]
-    },
-    {
-     "k": "Mehr als 70 beziehungsweise 72 Krankenwagen waren laut den Berichten im Einsatz,",
-     "d": "ee0ec88089.mp3",
-     "l": 49.69,
-     "s": [
-      0.25,
-      9.2,
-      17.42,
-      19.53,
-      25.36,
-      29.99,
-      36.06,
-      41.63
-     ]
-    },
-    {
-     "k": "In dem nordafrikanischen Land kommt es nach übereinstimmenden Berichten der Medi",
-     "d": "67b9f077ad.mp3",
-     "l": 57.84,
-     "s": [
-      0.25,
-      7.82,
-      13.64,
-      21,
-      30.08,
-      37.22,
-      43.19,
-      49.62
-     ]
-    },
-    {
-     "k": "Der ägyptische Präsident Abdul Fattah al-Sisi gab bekannt, dass er die staatlich",
-     "d": "708a520efb.mp3",
-     "l": 40.92,
-     "s": [
-      0.25,
-      8.53,
-      14.41,
-      20.87,
-      26.37,
-      32.88
-     ]
-    }
-   ]
-  },
-  {
-   "id": "paraguay-praesident-pena-amtsenthebung",
-   "rubrik": "Welt",
-   "zeit": "2026-11-08T14:57:48.000Z",
-   "aktualisiert": "aktualisiert um 16:06 Uhr",
-   "titel": "Untersuchungshaft für Paraguays abgesetzten Präsidenten Santiago Peña nach Bankenskandal angeordnet",
-   "vorspann": "In Paraguay ist der abgesetzte Präsident Santiago Peña nach einem Bankenskandal formell angeklagt und in Untersuchungshaft genommen worden. Die Zentralbank hatte zuvor ein Abwicklungsverfahren gegen die betroffene Digitalbank Ueno eingeleitet.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "In Paraguay wurde der abgesetzte Präsident Santiago Peña im Zuge des Zusammenbruchs der Ueno Bank festgenommen und angeklagt.",
-    "Die Staatsanwaltschaft wirft ihm Untreue und Selbstbegünstigung vor, nachdem er zuvor vom Senat des Amtes enthoben worden war.",
-    "Die Zentralbank hatte zuvor ein Abwicklungsverfahren gegen das in eine schwere Krise geratene Digitalinstitut eingeleitet, wodurch Millionen Kunden den Zugriff auf ihre Konten verloren.",
-    "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Interimspräsident bis zum Jahr 2028 vereidigt."
-   ],
-   "einig": [
-    [
-     "Die paraguayische Zentralbank leitete ein Abwicklungsverfahren gegen die Ueno-Bank ein.",
-     [
-      "Tagesschau/ARD",
-      "Deutsche Welle"
-     ]
-    ],
-    [
-     "Der Senat enthob den bisherigen Präsidenten Santiago Peña in einem Amtsenthebungsverfahren des Amtes.",
-     [
-      "Tagesschau/ARD",
-      "Deutsche Welle",
-      "BBC"
-     ]
-    ],
-    [
-     "Die Staatsanwaltschaft klagte den abgesetzten Präsidenten Peña wegen des Verdachts der Untreue und der Selbstbegünstigung an.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Deutsche Welle",
-      "BBC"
-     ]
-    ],
-    [
-     "Der ehemalige Vizepräsident Pedro Alliana wurde als neuer Präsident vereidigt.",
-     [
-      "Tagesschau/ARD",
-      "Deutsche Welle",
-      "BBC"
-     ]
-    ],
-    [
-     "Peña verneinte jegliches Fehlverhalten.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die beschuldigten Personen direkt in kriminelle Vereinigungen verwickelt waren, ist laut Staatsanwaltschaft derzeit noch nicht Gegenstand der Anklage.",
-    "Wann exakt die Einleger ihr Geld zurückerhalten und was mit den Summen über der gesetzlichen Einlagensicherung geschieht, bleibt laut Deutscher Welle ungewiss."
-   ],
-   "positionen": [
-    [
-     "Santiago Peña (Ex-Präsident)",
-     "Weist alle Vorwürfe und jedes Fehlverhalten zurück.",
-     "Tagesschau/ARD,BBC"
-    ],
-    [
-     "Staatsanwaltschaft Paraguay",
-     "Wirft Peña und dem Ex-Zentralbankchef Carvallo Untreue, Selbstbegünstigung und teils Dokumentenfälschung vor und fordert Untersuchungshaft sowie Vermögenssperren.",
-     "Tagesschau/ARD,Deutsche Welle"
-    ],
-    [
-     "Ricardo Preda (Verteidiger von Peña)",
-     "Bezeichnet die Anschuldigungen gegen den ehemaligen Präsidenten als rücksichtslose und opportunistische Vorwürfe.",
-     "BBC"
-    ],
-    [
-     "Pedro Alliana (Interimspräsident)",
-     "Verspricht vollständige Entschädigung für die Bürger und erklärt, die betroffenen Menschen nicht im Stich zu lassen.",
-     "BBC"
-    ]
-   ],
-   "fehlend": "Stimmen von Vertretern der Ueno Bank oder der Grupo Vázquez (außer den namentlich Beschuldigten) kommen in den Berichten nicht direkt mit eigenem Statement zu Wort.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "07.11.26, 21:33",
-     "fokus": "Juristische Schritte und Abläufe",
-     "text": "Der Bericht konzentriert sich stark auf die Anklagepunkte der Staatsanwaltschaft, die beantragten Vermögenssperren sowie den Verlauf der Befragung von Peña und Carvallo.",
-     "url": "https://www.tagesschau.de/ausland/amerika/ermittlungen-paraguay-pena-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 12,
-      "minuten": 2,
-      "woerter": 367,
-      "satzlaenge": 15,
-      "langeWoerter": 40
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "08.11.26, 15:57",
-     "fokus": "–",
-     "text": "In Paraguay hat die Staatsanwaltschaft Anklage gegen den abgesetzten Präsidenten Peña erhoben.",
-     "url": "https://www.deutschlandfunk.de/staatsanwaltschaft-in-paraguay-erhebt-anklage-abgesetzter-praesident-pe-a-in-untersuchungshaft-102.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Deutsche Welle",
-     "typ": "Auslandssender (öffentlich finanziert)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "08.11.26, 06:54",
-     "fokus": "Finanzstrukturen und Hintergründe",
-     "text": "Dieser Beitrag beleuchtet detailliert die Solvenzprobleme der Digitalbank, die Verflechtungen mit staatlichen Institutionen wie dem Sozialversicherungsinstitut IPS sowie die gesetzlichen Einlagensicherungen.",
-     "url": "https://www.dw.com/de/bankenskandal-in-paraguay-ex-präsident-peña-muss-in-untersuchungshaft/a-79874532?maca=de-rss-de-all-1119-rdf",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 13,
-      "minuten": 4,
-      "woerter": 796,
-      "satzlaenge": 16,
-      "langeWoerter": 42
-     },
-     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
-     "finanzierung": "Steuermittel des Bundes",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "07.11.26, 20:17",
-     "fokus": "Proteste und politische Reaktionen",
-     "text": "Die BBC betont die massiven Auswirkungen auf die Bevölkerung, die Straßendemonstrationen mit Polizeieinsätzen sowie die Reaktionen und Zitate von Senatoren und des neuen Interimspräsidenten.",
-     "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 472,
-      "satzlaenge": 24,
-      "langeWoerter": 32
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit der Proteste",
-     "Die BBC geht ausführlich auf Straßendemonstrationen, Ausschreitungen mit der Polizei und die Lage auf den Straßen von Asunción ein, während Tagesschau und Deutschlandfunk diesen Aspekt kaum oder gar nicht erwähnen."
-    ],
-    [
-     "Details zu Einlagen",
-     "Die Deutsche Welle nennt konkrete Zahlen über die Höhe der staatlichen Einlagen des Sozialversicherungsinstituts IPS bei der Ueno-Bank, die in anderen Quellen weniger detailliert beleuchtet werden."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Die Staatsanwaltschaft in Paraguay und ein Richter",
-    "was": "Anklageerhebung und Anordnung von Untersuchungshaft gegen den Ex-Präsidenten",
-    "wann": "Anfang November 2026",
-    "wo": "Asunción, Paraguay",
-    "wie": "Durch richterliche Entscheidung nach vorheriger parlamentarischer Amtsenthebung",
-    "warum": "Wegen des Verdachts auf Untreue und Selbstbegünstigung im Zuge eines Bankenzusammenbruchs, laut Justiz",
-    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Deutsche Welle, BBC"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In Paraguay hat sich der abgesetzte Präsident Santiago Peña nach Angaben der Staatsanwaltschaft vor der Justiz zu verantworten. Die Behörde warf ihm im Zusammenhang mit dem Skandal um die Digitalbank Ueno Untreue und Selbstbegünstigung vor. Kurz nach seiner Amtsenthebung durch den Senat wurde Hausarrest für ihn angeordnet. Die Staatsanwaltschaft beantragte zudem Untersuchungshaft gegen ihn und den früheren Zentralbankchef Carlos Carvallo. Ein Richter ordnete diese Haft schließlich an und begründete dies laut Deutscher Welle mit Fluchtgefahr sowie der möglichen Behinderung von Ermittlungen.",
-      "Der Fall um das Geldinstitut Ueno entwickelte sich zu einem umfassenden Finanz- und Politskandal in der jüngeren Geschichte des Landes. Die Krise begann laut übereinstimmenden Berichten am 3. November 2026, als die paraguayische Zentralbank ein Abwicklungsverfahren gegen die Bank einleitete. Zuvor war die Eigenkapitalquote des Geldinstituts unter die Hälfte des vorgeschriebenen Mindestwertes gefallen. Dies führte zu Solvenzproblemen, woraufhin der Geschäftsbetrieb eingeschränkt wurde und Kunden zeitweise keinen Zugriff mehr auf ihre Konten erhielten.",
-      "Die finanzielle Krise der Bank löste Unruhen und Proteste in der Bevölkerung aus. Nach Angaben der BBC verloren schätzungsweise drei Millionen Einleger den vorübergehenden Zugang zu ihren Ersparnissen und Pensionen. In der Hauptstadt Asunción bildeten sich lange Schlangen vor den Filialen der Bank, in denen Menschen versuchten, an ihr Geld zu gelangen. Es kam zu landesweiten Protesten, bei denen Demonstranten die Freigabe ihrer Ersparnisse forderten. Bei früheren Demonstrationen kam es laut BBC auch zu Zusammenstößen mit der Polizei, die Tränengas und Wasserwerfer einsetzte."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Die Staatsanwaltschaft weitete ihre Ermittlungen aus und erhob formell Beschuldigungen gegen insgesamt 27 Personen, darunter acht Führungskräfte der Ueno Bank und 19 weitere Personen aus dem Unternehmensumfeld. Zu den Beschuldigten zählt auch Carlos Carvallo, der die Ueno Bank geleitet hatte, bevor er von Peña in das Amt des Zentralbankchefs berufen wurde. Neben Untreue und Selbstbegünstigung wirft die Staatsanwaltschaft Carvallo laut Tagesschau/ARD auch die Herstellung inhaltlich falscher öffentlicher Dokumente vor. Ermittelt wird ferner wegen des Verdachts auf versuchten Betrug, pflichtwidriges Verhalten in Krisensituationen und Verstöße gegen die Buchführungspflicht.",
-      "Die Ermittler beantragten eine allgemeine Verfügungsbeschränkung über das Vermögen der Beschuldigten und dessen Einfrieren, um finanzielle Schäden aus den mutmaßlichen Straftaten auszugleichen. Zudem verhängte ein Richter Untersuchungshaft für mehrere ehemalige Führungskräfte der Bank, darunter Federico Miguel Vázquez Villasanti als Präsident der Grupo Vázquez. Für zwei weitere Beschuldigte wurde laut Deutscher Welle Hausarrest angeordnet. Peña selbst begab sich innerhalb von 24 Stunden nach Erlass eines Haftbefehls zur Staatsanwaltschaft, verweigerte dort jedoch gemeinsam mit Carvallo die Aussage.",
-      "Ein zentraler Punkt der Untersuchungen sind die Verflechtungen zwischen der Bank und dem Staat sowie private Geschäftsbeziehungen. Die Ueno Bank gehört zur Grupo Vázquez, einem Unternehmenskonzern, zu dem Peña bis März 2025 geschäftliche Beziehungen unterhielt. Laut Deutscher Welle und BBC konzentrieren sich die Ermittlungen darauf, ob die Bank Unternehmen aus demselben Unternehmensverbund Kredite gewährt hat. Zudem verfügte das Institut über Einlagen staatlicher Einrichtungen, darunter das paraguayische Sozialversicherungsinstitut IPS, das zeitweise öffentliche Gelder in Höhe von 800 bis 850 Millionen US-Dollar bei der Bank verwaltet haben soll."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Der politische Druck auf das Staatsoberhaupt wuchs parallel zum Zusammenbruch des Finanzinstituts an. Am Donnerstag, dem 5. November 2026, bot Santiago Peña seinen Rücktritt an, den der Kongress zunächst nicht annahm. Das Abgeordnetenhaus stimmte stattdessen einstimmig für die Einleitung eines Amtsenthebungsverfahrens. Eine gemeinsame Sitzung beider Parlamentskammern scheiterte zunächst an der fehlenden Beschlussfähigkeit, wodurch Peña vorerst im Amt blieb. Schließlich votierte auch der Senat mit großer Mehrheit für die Amtsenthebung, wodurch diese vollzogen wurde.",
-      "Für die Amtsenthebung stimmten im Senat 44 von 45 anwesenden Senatoren, wie die BBC berichtet. Durch die Enthebung im Amt verlor Peña seine parlamentarische Immunität, die ihm bei einem regulären Ausscheiden als Senator auf Lebenszeit zugestanden hätte. Die Anklagepunkte im Amtsenthebungsverfahren umfassten laut BBC den Vorwurf von Interessenkonflikten, die Manipulation der Bankenaufsicht, die Umleitung von Pensionsfonds und die Beteiligung an einer institutionellen Vertuschung über die Zentralbank. Nach der Enthebung wurde Vizepräsident Pedro Alliana als Interimspräsident vereidigt, der das Land bis August 2028 regieren soll.",
-      "Die Zentralbank hat auf Ebene der Abwicklung Maßnahmen zur Entlastung der Sparer eingeleitet. Für Bankeinlagen gilt nach Angaben der Deutschen Welle eine gesetzliche Einlagensicherung von umgerechnet rund 37.600 US-Dollar pro Kunde. Ein weiteres Gesetz ermöglichte zudem eine vorgezogene Rückzahlung von rund 20.000 US-Dollar pro Sparer. Dennoch bleibt laut den Berichten unklar, wann die Betroffenen den vollständigen Zugriff auf ihre Einlagen zurückerhalten oder wie Einlagen oberhalb der gesetzlichen Sicherungsgrenze entschädigt werden."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Zentralbank ist die oberste staatliche Bank eines Landes. Sie reguliert das Geld- und Kreditwesen, beaufsichtigt die Geschäftsbanken und sorgt für die Stabilität des Finanzsystems. Zu ihren Aufgaben gehört es auch, bei drohenden Zahlungsunfähigkeiten von Banken einzugreifen und Abwicklungsverfahren zu veranlassen.",
-      "Eine parlamentarische Amtsenthebung ist ein rechtliches Verfahren, mit dem Inhaber höchster Staatsämter vor dem Ende ihrer regulären Amtszeit abgesetzt werden können."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der abgesetzte Präsident Santiago Peña hat sämtliche Vorwürfe und jegliches Fehlverhalten zurückgewiesen. In einem Video erklärte er laut BBC, es sei nie seine Absicht gewesen, das in ihn gesetzte Vertrauen zu missbrauchen, und betonte als Priorität die Ruhe der Bürger. Bei der Vorladung bei der Staatsanwaltschaft machte er von seinem Recht Gebrauch, die Aussage zu verweigern.",
-      "Der Senatspräsident Basilio Núñez erklärte nach der Abstimmung laut BBC, Peña sei der Pflichtverletzung für schuldig befunden worden. Senator Rafael Filizzola sprach demnach vom größten Korruptionsskandal in der demokratischen Geschichte des Landes, der einen schweren Schlag für den Staat bedeute.",
-      "Peñas Verteidiger Ricardo Preda bezeichnete die juristischen Anschuldigungen gegen den Ex-Präsidenten laut BBC als rücksichtslose und opportunistische Vorwürfe. Der neu vereidigte Interimspräsident Pedro Alliana erklärte in seiner ersten Stellungnahme nach Angaben der BBC, die betroffenen Bürger würden vollständig entschädigt, und versprach, die Millionen Menschen nicht im Stich zu lassen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Über die von der Staatsanwaltschaft beantragten Sicherungsmaßnahmen wie die Vermögenssperre sowie die genaue Ausgestaltung der Untersuchungshaft gegen die Beschuldigten muss nun ein Gericht entscheiden. Die Ermittlungsbehörden kündigten an, weitere Beweise zusammenzutragen, da es sich um den Beginn der Untersuchungen handle.",
-      "Der Interimspräsident Pedro Alliana hat angekündigt, die Regierungsgeschäfte bis zum Ende der Amtsperiode im August 2028 zu führen und sich um die Entschädigung der von der Bankenkrise betroffenen Bürger zu kümmern."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Samstag, 7. November 2026",
-     "Die Staatsanwaltschaft erhebt formell Anklage gegen den abgesetzten Präsidenten und beantragt Untersuchungshaft."
-    ],
-    [
-     "Dienstag, 3. November 2026",
-     "Die Zentralbank leitet ein Abwicklungsverfahren gegen die Digitalbank Ueno wegen Unterschreitung der Mindesteigenkapitalquote ein; Kundenkonten werden blockiert."
-    ],
-    [
-     "Mittwoch, 4. November 2026",
-     "Das Parlament leitet nach wachsendem Druck erste Schritte für ein Amtsenthebungsverfahren gegen Präsident Peña ein."
-    ],
-    [
-     "Donnerstag, 5. November 2026",
-     "Santiago Peña reicht seinen Rücktritt ein, der Kongress nimmt das Gesuch jedoch nicht an."
-    ],
-    [
-     "Freitag, 6. November 2026",
-     "Der Senat stimmt mit 44 Stimmen einstimmig für die Amtsenthebung Peñas; Pedro Alliana wird als Präsident vereidigt und Peña unter Hausarrest gestellt."
-    ],
-    [
-     "Samstag, 7. November 2026",
-     "Die Staatsanwaltschaft klagt Peña an und beantragt Untersuchungshaft sowie die Beschlagnahme von Vermögen; Peña verweigert die Aussage."
-    ],
-    [
-     "3. November 2026",
-     "Die paraguayische Zentralbank leitet wegen mangelnder Solvenz ein Abwicklungsverfahren gegen die Ueno-Bank ein."
-    ],
-    [
-     "4. November 2026",
-     "Die Staatsanwaltschaft erhebt formell Beschuldigungen gegen 27 Personen im Zusammenhang mit dem Bankenskandal."
-    ],
-    [
-     "5. November 2026",
-     "Peña bietet seinen Rücktritt an, der Kongress nimmt diesen nicht an; das Abgeordnetenhaus leitet die Amtsenthebung ein."
-    ],
-    [
-     "6. November 2026",
-     "Der Senat stimmt einstimmig für die Amtsenthebung Peñas; Pedro Alliana wird als Nachfolger vereidigt und Peña unter Hausarrest gestellt."
-    ],
-    [
-     "7. November 2026",
-     "Die Staatsanwaltschaft klagt Peña offiziell an und beantragt Untersuchungshaft sowie die Beschlagnahme von Vermögen; Peña verweigert die Aussage."
-    ],
-    [
-     "7. bis 8. November 2026",
-     "Ein Richter ordnet Untersuchungshaft gegen Santiago Peña an."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Santiago Peña politician",
-     "bildunterschrift": "Santiago Peña war bis zu seiner Absetzung Präsident von Paraguay."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Pedro Alliana",
-     "bildunterschrift": "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Interimspräsident von Paraguay vereidigt."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Asuncion skyline",
-     "bildunterschrift": "In der paraguayischen Hauptstadt Asunción kam es infolge der Bankenkrise zu Protesten und langen Schlangen vor Bankfilialen."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Banco Central del Paraguay",
-     "bildunterschrift": "Die Zentralbank von Paraguay leitete das Abwicklungsverfahren gegen die betroffene Digitalbank ein."
-    }
-   ],
-   "ort": {
-    "name": "Asunción, Paraguay"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Entfernung von wertenden Adjektiven und Spekulationen, um die neutrale Tonalität zu wahren.",
-    "Anpassung von Formulierungen in den Einig-Punkten und Absätzen exakt an die Berichte der Quellen."
-   ],
-   "wortwarnung": [
-    "Skandal"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Zentralbank",
-      "Die Zentralbank ist die oberste Bank eines Landes. Sie beaufsichtigt die anderen Banken und kümmert sich um die Stabilität des Geldes."
-     ],
-     [
-      "Untersuchungshaft",
-      "Das ist eine Gefängnisstrafe vor einem Gerichtsprozess. Sie wird angeordnet, wenn ein Verdacht auf eine Straftat besteht und zum Beispiel Fluchtgefahr vorliegt."
-     ],
-     [
-      "Amtsenthebung",
-      "Ein rechtliches Verfahren, mit dem ein Parlament einen Politiker vor dem Ende seiner regulären Amtszeit absetzt."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen staatliche Institutionen wie die Zentralbank in diesem Finanzskandal?",
-     "Wie bewerten Sie die Berichterstattung verschiedener Medien über die Proteste in Paraguay?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer wurde in Paraguay als neuer Interimspräsident vereidigt?",
-      "optionen": [
-       "Santiago Peña",
-       "Carlos Carvallo",
-       "Pedro Alliana"
-      ],
-      "richtig": 2,
-      "erklaerung": "Laut Tagesschau, Deutscher Welle und BBC wurde der bisherige Vizepräsident Pedro Alliana als Nachfolger vereidigt."
-     },
-     {
-      "frage": "Welche Organisation leitete das Abwicklungsverfahren gegen die Ueno Bank ein?",
-      "optionen": [
-       "Die paraguayische Zentralbank",
-       "Das Sozialversicherungsinstitut IPS",
-       "Die Grupo Vázquez"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Tagesschau und die Deutsche Welle berichten übereinstimmend, dass die paraguayische Zentralbank das Abwicklungsverfahren eingeleitet hat."
-     },
-     {
-      "frage": "Was wirft die Staatsanwaltschaft dem abgesetzten Präsidenten Peña vor?",
-      "optionen": [
-       "Steuerhinterziehung und Bestechung",
-       "Untreue und Selbstbegünstigung",
-       "Dokumentenfälschung und Diebstahl"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau, Deutschlandfunk, Deutscher Welle und BBC wird Peña Untreue und Selbstbegünstigung vorgeworfen."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "In Paraguay gibt es einen großen Finanzskandal. Der bisherige Präsident Santiago Peña wurde abgesetzt und festgenommen.",
-    "absaetze": [
-     "Die Ueno Bank geriet in eine schwere Krise, weil sie nicht mehr genug Geld hatte. Millionen Menschen verloren den Zugriff auf ihre Konten.",
-     "Deshalb gab es große Proteste in der Hauptstadt Asunción. Die Zentralbank leitete ein Verfahren zur Abwicklung der Bank ein.",
-     "Das Parlament in Paraguay enthob den Präsidenten Santiago Peña des Amtes. Die Staatsanwaltschaft wirft ihm Untreue vor und nahm ihn in Untersuchungshaft.",
-     "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Interimspräsident vereidigt. Er soll das Land bis zum August 2028 regieren."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "In Paraguay ist der abgesetzte Präsident Santiago Peña in Untersuchungshaft genommen worden.",
-     "Die Staatsanwaltschaft wirft ihm im Zuge eines Bankenskandals Untreue und Selbstbegünstigung vor.",
-     "Der Senat hatte Peña zuvor des Amtes enthoben, woraufhin Pedro Alliana als neuer Interimspräsident vereidigt wurde."
-    ],
-    "lang": [
-     "In Paraguay ist der abgesetzte Präsident Santiago Peña nach einem Bankenskandal in Untersuchungshaft genommen worden.",
-     "Das berichteten übereinstimmend mehrere Medien wie die Tagesschau und die Deutsche Welle am Wochenende in Asunción.",
-     "Die Staatsanwaltschaft wirft dem Politiker Untreue und Selbstbegünstigung vor.",
-     "Zuvor war die Digitalbank Ueno in eine schwere Finanzkrise geraten, woraufhin die Zentralbank ein Abwicklungsverfahren einleitete.",
-     "Millionen Menschen verloren daraufhin den Zugriff auf ihre Ersparnisse, was zu landesweiten Protesten führte.",
-     "Der Senat enthob den Präsidenten in einem Amtsenthebungsverfahren mit großer Mehrheit des Amtes.",
-     "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Interimspräsident vereidigt und soll das Land bis August 2028 regieren.",
-     "Während Peña nach Angaben von Medien alle Vorwürfe und ein Fehlverhalten bestreitet, forderte die Staatsanwaltschaft eine Untersuchungshaft.",
-     "Über die weiteren juristischen Schritte und Vermögenssperren muss nun ein Gericht in Paraguay entscheiden."
-    ],
-    "einfach": [
-     "In Paraguay gibt es einen grossen Streit um eine Bank.",
-     "Der Präsident Santiago Peña wurde deshalb abgesetzt und festgenommen.",
-     "Die Staatsanwaltschaft wirft ihm Untreue vor.",
-     "Die Bank Ueno hatte nicht mehr genug Geld.",
-     "Viele Menschen kamen nicht mehr an ihre Ersparnisse heran.",
-     "Der Politiker Pedro Alliana ist nun der neue Interimspräsident."
-    ]
-   },
-   "kurz": [
-    "Der abgesetzte Präsident von Paraguay, Santiago Peña, wurde in Untersuchungshaft genommen.",
-    "Die Staatsanwaltschaft wirft ihm Untreue und Selbstbegünstigung im Zusammenhang mit der Ueno Bank vor.",
-    "Der Senat hatte Peña zuvor in einem Amtsenthebungsverfahren des Amtes enthoben.",
-    "Der bisherige Vizepräsident Pedro Alliana wurde als neuer Interimspräsident bis August 2028 vereidigt."
-   ],
-   "fakten": [
-    [
-     "Anzahl beschuldigter Personen",
-     "27"
-    ],
-    [
-     "Senatoren stimmten für Amtsenthebung",
-     "44 von 45"
-    ],
-    [
-     "Gesetzliche Einlagensicherung pro Kunde",
-     "rund 37.600 US-Dollar"
-    ],
-    [
-     "Ende der Amtszeit von Interimspräsident Alliana",
-     "August 2028"
-    ]
-   ],
-   "dossier": {
-    "slug": "bankenskandal-paraguay-2026",
-    "titel": "Bankenskandal und Amtsenthebung in Paraguay"
-   },
-   "bildInfo": {
-    "titel": "Santiago Peña junio 2026.jpg",
-    "beschreibung": "Asunción (Paraguay), 30 de junio de 2026.- El presidente de la República del Ecuador, Daniel Noboa, fue recibido oficialmente por su homólogo paraguayo, Santiago Peña. El encuentro protocolar se dio d",
-    "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Santiago_Pe%C3%B1a_junio_2026.jpg",
-    "urheber": "Presidencia de la República del Ecuador",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Santiago Peña",
-    "sprache": "en",
-    "art": "person",
-    "suchbegriff": "Santiago Peña politician",
-    "bildunterschrift": "Der abgesetzte Präsident Santiago Peña ist nach einem Bankenskandal in Untersuchungshaft genommen worden.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Santiago Peña junio 2026.jpg",
-     "beschreibung": "Asunción (Paraguay), 30 de junio de 2026.- El presidente de la República del Ecuador, Daniel Noboa, fue recibido oficialmente por su homólogo paraguayo, Santiago Peña. El encuentro protocolar se dio d",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Santiago_Pe%C3%B1a_junio_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Santiago_Pe%C3%B1a_junio_2026.jpg",
-     "urheber": "Presidencia de la República del Ecuador",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Santiago Peña",
-     "sprache": "en",
-     "art": "person",
-     "suchbegriff": "Santiago Peña politician",
-     "bildunterschrift": "Der abgesetzte Präsident Santiago Peña ist nach einem Bankenskandal in Untersuchungshaft genommen worden.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "PedroAlliana.jpg",
-     "beschreibung": "PedroAlliana",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/PedroAlliana.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/PedroAlliana.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:PedroAlliana.jpg",
-     "urheber": "Unknown author Unknown author",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "artikel": "Pedro Alliana",
-     "sprache": "de",
-     "art": "person",
-     "suchbegriff": "Pedro Alliana",
-     "bildunterschrift": "Pedro Alliana ist eine Person im politischen Umfeld Paraguays.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Asunción, Paraguay",
-    "lat": -25.28,
-    "lon": -57.634
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "In Paraguay ist der abgesetzte Präsident Santiago Peña nach einem Bankenskandal ",
-     "d": "9d1307aff7.mp3",
-     "l": 62.85,
-     "s": [
-      0.25,
-      7.49,
-      14.28,
-      19.2,
-      27.15,
-      33.2,
-      38.68,
-      48.27,
-      56.7
-     ]
-    },
-    {
-     "k": "In Paraguay ist der abgesetzte Präsident Santiago Peña in Untersuchungshaft geno",
-     "d": "920d4f1f91.mp3",
-     "l": 19.43,
-     "s": [
-      0.25,
-      5.88,
-      12.07
-     ]
-    },
-    {
-     "k": "In Paraguay gibt es einen grossen Streit um eine Bank. Der Präsident Santiago Pe",
-     "d": "cc0e6986bd.mp3",
-     "l": 23.07,
-     "s": [
-      0.25,
-      3.93,
-      8.79,
-      12.07,
-      14.98,
-      18.49
-     ]
-    },
-    {
-     "k": "Ob die beschuldigten Personen direkt in kriminelle Vereinigungen verwickelt ware",
-     "d": "9f89dbadd5.mp3",
-     "l": 8.71,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Zentralbank? Die Zentralbank ist die oberste Bank eines ",
-     "d": "17bcaa72a4.mp3",
-     "l": 11.27,
-     "s": [
-      0.25,
-      2.8,
-      6.21
-     ]
-    },
-    {
-     "k": "In Paraguay hat sich der abgesetzte Präsident Santiago Peña nach Angaben der Sta",
-     "d": "a842c9a7d1.mp3",
-     "l": 53.29,
-     "s": [
-      0.25,
-      7.67,
-      14.33,
-      19.35,
-      26.33,
-      34.39,
-      41.94,
-      45.35
-     ]
-    },
-    {
-     "k": "Die Staatsanwaltschaft weitete ihre Ermittlungen aus und erhob formell Beschuldi",
-     "d": "e68db55a62.mp3",
-     "l": 74.01,
-     "s": [
-      0.25,
-      12.98,
-      21.05,
-      30.62,
-      39.23,
-      49.67,
-      59.49,
-      64.07
-     ]
-    },
-    {
-     "k": "Der politische Druck auf das Staatsoberhaupt wuchs parallel zum Zusammenbruch de",
-     "d": "ab2df50fff.mp3",
-     "l": 52.15,
-     "s": [
-      0.25,
-      6.1,
-      8.38,
-      15.43,
-      21.3,
-      29.04,
-      35.09,
-      42.84
-     ]
-    },
-    {
-     "k": "Eine Zentralbank ist die oberste staatliche Bank eines Landes. Sie reguliert das",
-     "d": "5c54c08581.mp3",
-     "l": 28.64,
-     "s": [
-      0.25,
-      4.33,
-      11.75,
-      19.22
-     ]
-    },
-    {
-     "k": "Der abgesetzte Präsident Santiago Peña hat sämtliche Vorwürfe und jegliches Fehl",
-     "d": "0c4d621aee.mp3",
-     "l": 62.21,
-     "s": [
-      0.25,
-      6.69,
-      16.36,
-      22.41,
-      31.03,
-      40.45,
-      50.2
-     ]
-    },
-    {
-     "k": "Über die von der Staatsanwaltschaft beantragten Sicherungsmaßnahmen wie die Verm",
-     "d": "77f3d5a74f.mp3",
-     "l": 31.22,
-     "s": [
-      0.25,
-      10.6,
-      17.86
-     ]
-    }
-   ]
-  },
-  {
-   "id": "us-angriffe-iran-hormus",
-   "rubrik": "Welt",
-   "zeit": "2026-11-08T14:57:48.000Z",
-   "aktualisiert": "aktualisiert um 16:06 Uhr",
-   "titel": "Militärische Handlungen und diplomatische Bemühungen",
-   "vorspann": "Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angegriffen und manövrierunfähig gemacht. Gleichzeitig gibt es Berichte über diplomatische Bemühungen zur Beilegung des Konflikts.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Das US-Militär hat im Golf von Oman ein Handelsschiff angegriffen.",
-    "Die iranische Revolutionsgarde meldete Tanker, die auf Seeminen liefen.",
-    "Die Huthi-Miliz griff die saudi-arabische Hauptstadt Riad an.",
-    "Vermittler bemühen sich um diplomatische Gespräche."
-   ],
-   "einig": [
-    [
-     "Das US-Militär hat einen Frachter im Golf von Oman angegriffen und untauglich gemacht.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "ORF"
-     ]
-    ],
-    [
-     "Die Huthi-Miliz griff Riad an und das Gebäude des Ölkonzerns Aramco wurde getroffen.",
-     [
-      "Tagesschau/ARD",
-      "NZZ"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob offizielle Bestätigungen für das Schreiben von J.D. Vance an den iranischen Sicherheitsrat und die Forderung nach UN-Inspektoren vorliegen, ist laut NZZ unklar.",
-    "Die Herkunft der Tanker und das genaue Ausmaß der Schäden bei den von der Revolutionsgarde gemeldeten Minen-Vorfällen sind laut Tagesschau/ARD unklar."
-   ],
-   "positionen": [
-    [
-     "US-Zentralkommando",
-     "Das Handelsschiff M/V Huda ignorierte Warnungen und verstieß gegen die Seeblockade.",
-     "Tagesschau/ARD, ORF"
-    ],
-    [
-     "Irans Außenminister Abbas Araqchi",
-     "Man hat Washington über Katar einen Sieben-Tage-Plan übermittelt.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "US-Präsident Donald Trump",
-     "Iran möchte so rasch wie möglich ein Abkommen abschließen.",
-     "NZZ"
-    ],
-    [
-     "Irans Revolutionsführer Mojtaba Khamenei",
-     "Die Streitkräfte sollen auf jede Bedrohung sofort und wirksam reagieren, um maximale Abschreckung zu erreichen.",
-     "NZZ"
-    ]
-   ],
-   "fehlend": "Direkte Stellungnahmen der Besatzungen der angegriffenen Handelsschiffe sowie offizielle Aussagen der Regierungen von St. Kitts und Nevis oder Panama zu den Vorfällen.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "08.11.26, 12:04",
-     "fokus": "Schiffangriff und Huthi-Angriff",
-     "text": "Berichtet ausführlich über den Angriff auf die M/V Huda und den Angriff auf Riad durch die Huthi-Miliz.",
-     "url": "https://www.tagesschau.de/ausland/asien/usa-iran-seeblockade-angriff-handelsschiff-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 423,
-      "satzlaenge": 14,
-      "langeWoerter": 34
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "08.11.26, 15:57",
-     "fokus": "Kompakte Kurzmeldung zum US-Angriff",
-     "text": "Fasst den Frachter-Angriff im Golf von Oman in einem kurzen Satz zusammen.",
-     "url": "https://www.deutschlandfunk.de/us-militaer-beschiesst-handelsschiff-104.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "08.11.26, 13:46",
-     "fokus": "–",
-     "text": "Wintereinbruch verschärft humanitäre Lage +++ Laut Iran brennen zwei Öltanker in der Straße von Hormus +++",
-     "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-70-000-zelte-im-gazastreifen-laut-autonomiebehoerde-ueberschwemmt-faz-200583539.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 5,
-      "minuten": 1,
-      "woerter": 62,
-      "satzlaenge": 10,
-      "langeWoerter": 24
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "NZZ",
-     "typ": "Tageszeitung (Schweiz)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "08.11.26, 11:31",
-     "fokus": "Umfassender Liveticker zur Kriegslage",
-     "text": "Beleuchtet neben den Seeangriffen auch diplomatische Bemühungen, Ölpreise und die politische Lage.",
-     "url": "https://www.nzz.ch/international/iran-krieg-jd-vance-soll-mit-iran-chance-auf-verhandlungen-ausloten-kaempfe-in-jemen-vertreiben-immer-mehr-menschen-ld.10021246",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 6,
-      "woerter": 1128,
-      "satzlaenge": 15,
-      "langeWoerter": 35
-     },
-     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "ORF",
-     "typ": "öffentlich-rechtlich (Österreich)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "08.11.26, 07:19",
-     "fokus": "Details zu Geretteten und Schifffahrt",
-     "text": "Ergänzt Meldungen über gerettete Personen nach dem Frachterbrand.",
-     "url": "https://orf.at/stories/3447565/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 154,
-      "satzlaenge": 17,
-      "langeWoerter": 38
-     },
-     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
-     "finanzierung": "Haushaltsabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Berichterstattungsumfang",
-     "Während die NZZ einen ausführlichen Ticker zu zahlreichen Fronten und Diplomatie bietet, konzentrieren sich Tagesschau, DLF und ORF stark auf den konkreten Frachter-Angriff."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Das US-Militär und die iranische Revolutionsgarde",
-    "was": "Militärische Angriffe auf Frachter und Schiffe sowie diplomatische Kontakte",
-    "wann": "November 2026",
-    "wo": "Golf von Oman, Straße von Hormus und Riad",
-    "wie": "Durch Luftangriffe, Seeblockaden und Minen",
-    "warum": "Verstoß gegen Seeblockaden und anhaltender Krieg",
-    "quellenlage": "Militärkommandos, Regierungsangaben und Agenturberichte"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Militärische Vorfälle im Golf von Oman und der Straße von Hormus",
-     "absaetze": [
-      "Das US-Militär hat nach Angaben der Tagesschau/ARD, des Deutschlandfunks und des ORF im Golf von Oman auf ein Handelsschiff gefeuert. Laut dem zuständigen US-Zentralkommando wurde der Massengutfrachter M/V Huda mit einem Luftangriff untauglich gemacht. Die Besatzung soll wiederholte Warnungen ignoriert und mehrfach gegen die US-Seeblockade verstoßen haben. Das unter der Flagge von St. Kitts und Nevis fahrende Schiff steuerte demnach zuvor einen iranischen Hafen an.",
-      "Die emiratische Küstenwache beziehungsweise Nationalgarde teilte laut Tagesschau/ARD und ORF mit, dass nach einem Brand im Golf von Oman 22 Menschen gerettet worden seien. Laut dem ORF handelte es sich bei allen Geretteten um arabische Staatsangehörige. Zudem berichtete die britische Behörde zur Sicherheit der Schifffahrt UKMTO laut ORF und NZZ über entsprechende Vorfälle auf dem Wasser.",
-      "Zusätzlich berichtete die NZZ unter Berufung auf die Marine im Oman über ein unter panamaischer Flagge fahrendes Schiff namens RITI. An Bord sei in der Straße von Hormus ein Feuer ausgebrochen. Fünfundzwanzig Besatzungsmitglieder seien in Sicherheit gebracht und medizinisch versorgt worden."
-     ]
-    },
-    {
-     "ueberschrift": "Meldungen über Tankerbrände und Angriffe auf Iran",
-     "absaetze": [
-      "Die iranische Revolutionsgarde meldete laut Tagesschau/ARD und NZZ erneut Vorfälle in der Straße von Hormus. Demnach hätten drei Tanker versucht, die Seestraße auf nicht genehmigten Routen zu durchqueren, und seien dabei auf Seeminen gelaufen und in Brand geraten. Nähere Angaben zur Herkunft der Tanker und zum Ausmaß der Schäden wurden laut Tagesschau/ARD von der Revolutionsgarde zunächst nicht gemacht.",
-      "Laut NZZ, die sich auf US-Medienberichte und das Wall Street Journal stützt, hat das amerikanische Militär in der Nacht zum Dienstag Ziele in Iran angegriffen. Der Angriff richtete sich gegen die Insel Qeschm in der Straße von Hormus. Ein US-Kampfflugzeug habe eine Stellung der Revolutionsgarden auf der Insel attackiert.",
-      "US-Präsident Donald Trump sagte in einem Interview mit dem Sender Fox News laut NZZ, das Ziel sei eine kürzlich fertiggestellte Luftabwehrstellung gewesen. Die Ölpreise stiegen nach den Meldungen über erneute Angriffe des US-Militärs auf Ziele in Iran an, wie die NZZ weiter berichtete."
-     ]
-    },
-    {
-     "ueberschrift": "Angriffe der Huthi-Miliz auf Riad",
-     "absaetze": [
-      "Die vom Iran unterstützte Huthi-Miliz griff laut Tagesschau/ARD die saudische Hauptstadt Riad an. Mehrere Geschosse seien von einer von Saudi-Arabien geführten Militärkoalition abgefangen und zerstört worden. Nach Angaben des saudischen Energieministeriums wurde das Verwaltungsgebäude des staatlichen Ölkonzerns Aramco getroffen.",
-      "Trümmerteile seien auf das Gebäude gefallen und hätten begrenzten Schaden verursacht. Tote oder Verletzte hat es bei dem Angriff laut Tagesschau/ARD nicht gegeben. Im Internet kursierte ein Video, das schwere Schäden am Aramco Tower im Zentrum von Riad zeigen soll."
-     ]
-    },
-    {
-     "ueberschrift": "Diplomatische Initiativen und Vermittlungsversuche",
-     "absaetze": [
-      "Iran hat laut Tagesschau/ARD über Katar einen Sieben-Tage-Plan an Washington übermittelt. Außenminister Abbas Araqchi ist in diplomatische Gespräche eingebunden. Vermittler aus Katar sind laut NZZ nach Teheran gereist, um mit dem iranischen Außenminister über ein mögliches Abkommen zu sprechen.",
-      "US-Präsident Donald Trump äußerte sich laut NZZ nach seiner Rede vor den Midterms positiv über die laufenden Verhandlungen mit Iran. Iran wolle so rasch wie möglich ein Abkommen abschließen, sagte he. Die Regierung der USA und regionale Vermittler haben laut Medienberichten neue Anstrengungen für eine diplomatische Lösung unternommen.",
-      "Zudem sollen Vermittler um Katar Iran dazu drängen, UN-Inspektoren Zugang zu seinen Atomanlagen zu gewähren. Offizielle Bestätigungen für diese Kontakte liegen laut NZZ jedoch nicht vor."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund des Konflikts",
-     "absaetze": [
-      "Die USA und Iran befinden sich laut NZZ seit Ende Februar 2026 im Kriegszustand. Zwar hatten die beiden Länder eine Waffenruhe vereinbart, doch US-Präsident Donald Trump erklärte diese Anfang Juli für beendet. Seitdem halten die USA eine Seeblockade in der Straße von Hormus aufrecht.",
-      "Die Straße von Hormus ist eine wichtige Seeroute für den weltweiten Handel mit Öl und Gas. Normalerweise wird durch diese Wasserstraße etwa ein Fünftel des weltweiten Ölverbrauchs transportiert. Der Iran hat die Meerenge nach Angaben der Tagesschau/ARD seit Beginn des Krieges im Februar weitgehend blockiert."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen und strategische Ausrichtung",
-     "absaetze": [
-      "Irans Revolutionsführer Mojtaba Khamenei hat die Streitkräfte des Landes laut NZZ angewiesen, auf jede Bedrohung sofort und wirksam zu reagieren. Ziel sei eine maximale Abschreckung, berichteten iranische Medien nach einem Treffen des Religionsführers mit Kommandanten.",
-      "Der Chef des US-Regionalkommandos für den Nahen Osten Centcom, Admiral Brad Cooper, legte US-Präsident Donald Trump laut NZZ bei einem Treffen militärische Optionen dar. Das Wall Street Journal wertete dies als mögliches Zeichen für einen bevorstehenden bedeutenden Einsatz amerikanischer Streitkräfte."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Montag",
-     "Begrenzte US-Militärschläge auf die Insel Qeschm und Reaktionen der beteiligten Parteien."
-    ],
-    [
-     "Ende Februar 2026",
-     "Beginn des Krieges zwischen den USA, Israel und Iran mit Blockade der Straße von Hormus."
-    ],
-    [
-     "18. September 2026",
-     "Südkoreas Präsident Lee Jae Myung erklärt, keine militärischen Mittel in den Konflikt zu entsenden."
-    ],
-    [
-     "5. November 2026",
-     "Berichte über Tankerbrände in der Straße von Hormus, Angriffe nahe Qeschm und Südkoreas Marinepläne."
-    ],
-    [
-     "Sommer 2025",
-     "Angriffe der USA auf Atomanlagen in Iran nach Angaben des Weißen Hauses."
-    ],
-    [
-     "Freitag",
-     "US-Schläge gegen das iranische Flugabwehrsystem laut US-Präsident Trump."
-    ],
-    [
-     "Samstag",
-     "ZDFheute berichtet über die Notlage der Fischer; USA veröffentlichen Hinweisgeber-Programm."
-    ],
-    [
-     "Sonntag",
-     "US-Militär meldet Beschuss eines Frachters; Iran meldet brennende Tanker."
-    ],
-    [
-     "Ende Februar 2026",
-     "Beginn des Krieges zwischen den USA, Israel und Iran mit Seeblockade."
-    ],
-    [
-     "Montag",
-     "Begrenzte US-Militärschläge auf die Insel Qeschm."
-    ],
-    [
-     "Freitag",
-     "Angriff auf einen katarischen Tanker im Persischen Golf laut QNA."
-    ],
-    [
-     "Dienstag",
-     "US-Angriff auf Handelsschiff M/V Huda im Golf von Oman."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Donald Trump politician",
-     "bildunterschrift": "US-Präsident Donald Trump äußerte sich zu den Verhandlungen mit dem Iran."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "United States Central Command headquarters",
-     "bildunterschrift": "Das zuständige US-Zentralkommando meldete den Angriff auf das Handelsschiff."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Gulf of Oman",
-     "bildunterschrift": "Im Golf von Oman kam es zu militärischen Auseinandersetzungen und Schiffsangriffen."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Strait of Hormuz",
-     "bildunterschrift": "Die Straße von Hormus ist eine zentrale Wasserstraße für den weltweiten Öltransport."
-    }
-   ],
-   "ort": {
-    "name": "Golf von Oman"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Formulierungen angepasst, um rein sachlich zu bleiben und Wertungen zu entfernen."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Seeblockade",
-      "Eine militärische Maßnahme, bei der Kriegsschiffe den Weg in Häfen oder aus Häfen heraus absperren."
-     ],
-     [
-      "Straße von Hormus",
-      "Eine sehr wichtige Meerenge für den weltweiten Transport von Öl und Gas."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Vermittlerstaaten wie Katar in bewaffneten Konflikten?",
-     "Warum ist die freie Schifffahrt in der Straße von Hormus so wichtig für den Welthandel?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer hat nach offiziellen Angaben das Handelsschiff M/V Huda angegriffen?",
-      "optionen": [
-       "Das US-Militär",
-       "Die Huthi-Miliz",
-       "Die iranische Revolutionsgarde"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Tagesschau/ARD, Deutschlandfunk und ORF hat das US-Militär den Frachter angegriffen."
-     },
-     {
-      "frage": "Welches Gebäude wurde bei dem Angriff der Huthi-Miliz in Riad getroffen?",
-      "optionen": [
-       "Das Parlamentsgebäude",
-       "Das Verwaltungsgebäude des Ölkonzerns Aramco",
-       "Der Hauptbahnhof"
-      ],
-      "richtig": 1,
-      "erklaerung": "Nach Angaben des saudischen Energieministeriums wurde das Verwaltungsgebäude von Aramco getroffen."
-     },
-     {
-      "frage": "Welche Organisation meldete brennende Tanker nach dem Auflaufen auf Seeminen?",
-      "optionen": [
-       "Die iranische Revolutionsgarde",
-       "Die US-Marine",
-       "Die Vereinten Nationen"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die iranische Revolutionsgarde meldete, dass Tanker auf Seeminen gelaufen und in Brand geraten sind."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Im Nahen Osten hat das US-Militär ein Schiff angegriffen. Gleichzeitig gibt es Versuche, den Konflikt durch Gespräche zu beenden.",
-    "absaetze": [
-     "Das US-Militär hat ein Handelsschiff im Golf von Oman beschossen.",
-     "Das Schiff hatte zuvor Warnungen ignoriert und sollte gestoppt werden.",
-     "Die iranische Revolutionsgarde meldete zudem brennende Tanker nach Minen-Vorfällen.",
-     "Die Huthi-Miliz griff die Hauptstadt von Saudi-Arabien mit Geschossen an.",
-     "Vermittler versuchen derzeit, Gespräche zwischen den Konfliktparteien zu organisieren."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Das US-Militär hat ein Handelsschiff im Golf von Oman angegriffen.",
-     "Die iranische Revolutionsgarde meldete brennende Tanker.",
-     "Vermittler versuchen derzeit, den Konflikt durch Gespräche zu lösen."
-    ],
-    "lang": [
-     "Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angegriffen.",
-     "Das Schiff wurde dabei nach Angaben des Zentralkommandos untauglich gemacht.",
-     "Die Besatzung hatte zuvor wiederholte Warnungen ignoriert.",
-     "Nach Angaben der emiratischen Küstenwache wurden zweiundzwanzig Menschen gerettet.",
-     "Die iranische Revolutionsgarde meldete zudem brennende Tanker in der Straße von Hormus.",
-     "Die Huthi-Miliz griff nach Angaben der Militärkoalition die Hauptstadt Riad an.",
-     "US-Präsident Donald Trump äußerte sich positiv über laufende Verhandlungen.",
-     "Vermittler aus Katar versuchen derzeit, ein Abkommen zu erreichen.",
-     "Die USA und der Iran befinden sich seit Februar in einem kriegerischen Konflikt.",
-     "Ob die diplomatischen Gespräche erfolgreich sind, bleibt vorerst offen."
-    ],
-    "einfach": [
-     "Das US-Militär hat ein Handelsschiff im Golf von Oman beschossen.",
-     "Das Schiff hatte vorherige Warnungen nicht beachtet.",
-     "Auch in der Straße von Hormus gab es brennende Tanker.",
-     "Die Huthi-Miliz griff die Stadt Riad mit Geschossen an.",
-     "Vermittler versuchen nun, den Krieg durch Gespräche zu stoppen."
-    ]
-   },
-   "kurz": [
-    "Das US-Militär hat im Golf von Oman ein Handelsschiff angegriffen.",
-    "Die iranische Revolutionsgarde meldete brennende Tanker nach Minenkontakten.",
-    "Die Huthi-Miliz griff die saudi-arabische Hauptstadt Riad an.",
-    "Vermittler führen Gespräche für eine diplomatische Lösung."
-   ],
-   "dossier": {
-    "slug": "iran-konflikt-2026",
-    "titel": "Konflikt im Nahen Osten und Schifffahrt"
-   },
-   "bildInfo": {
-    "titel": "January 2025 Official Vice Presidential Portrait of JD Vance.jpg",
-    "beschreibung": "Official Portrait of JD Vance in January 2025.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg/1280px-January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
-    "urheber": "Daniel Torok",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "art": "person",
-    "suchbegriff": "JD Vance politician",
-    "bildunterschrift": "Das offizielle Porträt des US-Vizepräsidenten.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "January 2025 Official Vice Presidential Portrait of JD Vance.jpg",
-     "beschreibung": "Official Portrait of JD Vance in January 2025.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg/1280px-January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/f/f3/January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:January_2025_Official_Vice_Presidential_Portrait_of_JD_Vance.jpg",
-     "urheber": "Daniel Torok",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "person",
-     "suchbegriff": "JD Vance politician",
-     "bildunterschrift": "Das offizielle Porträt des US-Vizepräsidenten.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Strait of Hormuz and Musandam Peninsula (MODIS 2018-12-10).jpg",
-     "beschreibung": "The rugged, barren mountains of the Musandam Peninsula jut into the Strait of Hormuz, the narrow throughway between Iran (north) and Oman and the United Arab Emirates (south) where the waters from the",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg/1280px-Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Strait_of_Hormuz_and_Musandam_Peninsula_%28MODIS_2018-12-10%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Strait_of_Hormuz_and_Musandam_Peninsula_(MODIS_2018-12-10).jpg",
-     "urheber": "MODIS Land Rapid Response Team, NASA GSFC",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Straße von Hormus",
-     "sprache": "de",
-     "art": "ort",
-     "suchbegriff": "Strait of Hormuz",
-     "bildunterschrift": "Topografische Darstellung der Straße von Hormus.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Das US-Militär hat nach eigenen Angaben ein Handelsschiff im Golf von Oman angeg",
-     "d": "72ef58dfd8.mp3",
-     "l": 46.12,
-     "s": [
-      0.25,
-      5.52,
-      9.85,
-      13.44,
-      18.26,
-      23.31,
-      28.11,
-      32.94,
-      37.15,
-      41.76
-     ]
-    },
-    {
-     "k": "Das US-Militär hat ein Handelsschiff im Golf von Oman angegriffen. Die iranische",
-     "d": "241b832928.mp3",
-     "l": 12.36,
-     "s": [
-      0.25,
-      4.6,
-      8.02
-     ]
-    },
-    {
-     "k": "Das US-Militär hat ein Handelsschiff im Golf von Oman beschossen. Das Schiff hat",
-     "d": "2e1cbd8971.mp3",
-     "l": 18.98,
-     "s": [
-      0.25,
-      4.6,
-      7.69,
-      11.34,
-      14.8
-     ]
-    },
-    {
-     "k": "Ob offizielle Bestätigungen für das Schreiben von J. D.",
-     "d": "2024666d86.mp3",
-     "l": 4.56,
-     "s": [
-      0.25,
-      3.48
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Seeblockade? Eine militärische Maßnahme, bei der Kriegss",
-     "d": "d9e21e27b3.mp3",
-     "l": 9.52,
-     "s": [
-      0.25,
-      2.67
-     ]
-    },
-    {
-     "k": "Das US-Militär hat nach Angaben der Tagesschau/ARD, des Deutschlandfunks und des",
-     "d": "67aa65ba41.mp3",
-     "l": 53.2,
-     "s": [
-      0.25,
-      9.01,
-      16.29,
-      22.64,
-      24.69,
-      29.36,
-      40.14,
-      45.24
-     ]
-    },
-    {
-     "k": "Die iranische Revolutionsgarde meldete laut Tagesschau/ARD und NZZ erneut Vorfäl",
-     "d": "a1e584483a.mp3",
-     "l": 60.97,
-     "s": [
-      0.25,
-      7.15,
-      16.12,
-      24.2,
-      33.47,
-      37.35,
-      42.73,
-      52.49
-     ]
-    },
-    {
-     "k": "Die vom Iran unterstützte Huthi-Miliz griff laut Tagesschau/ARD die saudische Ha",
-     "d": "32a61bc78e.mp3",
-     "l": 36.01,
-     "s": [
-      0.25,
-      6.49,
-      13.09,
-      19.99,
-      24.57,
-      29.54
-     ]
-    },
-    {
-     "k": "Iran hat laut Tagesschau/ARD über Katar einen Sieben-Tage-Plan an Washington übe",
-     "d": "865212cb6b.mp3",
-     "l": 49.63,
-     "s": [
-      0.25,
-      5.72,
-      10.37,
-      18.68,
-      26.22,
-      30.28,
-      38.35,
-      44.54
-     ]
-    },
-    {
-     "k": "Die USA und Iran befinden sich laut NZZ seit Ende Februar 2026 im Kriegszustand.",
-     "d": "cfd030933c.mp3",
-     "l": 38.67,
-     "s": [
-      0.25,
-      7.86,
-      15.31,
-      19.99,
-      25.41,
-      31.57
-     ]
-    },
-    {
-     "k": "Irans Revolutionsführer Mojtaba Khamenei hat die Streitkräfte des Landes laut NZ",
-     "d": "53a55412ed.mp3",
-     "l": 35.91,
-     "s": [
-      0.25,
-      9.33,
-      16.72,
-      27.83
      ]
     }
    ]
