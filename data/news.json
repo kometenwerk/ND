@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-11T06:03:32.311Z",
+ "stand": "2026-11-11T14:10:57.771Z",
  "gepusht": [
   "starlink-station-polen-festnahmen",
   "nord-stream-prozess-beginn",
@@ -86,7 +86,6 @@
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "merzd-nachfolge-bundespraesident-frau",
-  "midterms-usa",
   "us-angriffe-iran-hormus",
   "paraguay-praesident-pena-amtsenthebung",
   "schuesse-krakau",
@@ -102,7 +101,7 @@
   "gewalttat-hamburg-eningen"
  ],
  "wetter": {
-  "stand": "2026-11-11T06:03:32.311Z",
+  "stand": "2026-11-11T14:10:57.771Z",
   "morgenTag": "Donnerstag",
   "orte": [
    {
@@ -111,25 +110,25 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 2,
+     "grad": 3,
      "code": 3,
-     "gefuehlt": -1,
-     "wind": 10,
-     "windAus": 135,
-     "feuchte": 98,
-     "druck": 1006,
+     "gefuehlt": 1,
+     "wind": 6,
+     "windAus": 128,
+     "feuchte": 89,
+     "druck": 1002,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 51,
-     "max": 5,
+     "max": 4,
      "min": 2,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 145,
+     "wind": 10,
+     "windAus": 143,
      "uv": 1.6,
      "auf": "07:38",
      "unter": "16:29"
@@ -139,10 +138,10 @@
      "code": 80,
      "max": 8,
      "min": 2,
-     "regen": 15,
-     "menge": 0.9,
-     "wind": 17,
-     "windAus": 248,
+     "regen": 23,
+     "menge": 0.1,
+     "wind": 19,
+     "windAus": 251,
      "uv": 1.6,
      "auf": "07:40",
      "unter": "16:27"
@@ -151,12 +150,12 @@
      {
       "datum": "2026-11-11",
       "code": 51,
-      "max": 5,
+      "max": 4,
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 145,
+      "wind": 10,
+      "windAus": 143,
       "uv": 1.6,
       "auf": "07:38",
       "unter": "16:29"
@@ -166,10 +165,10 @@
       "code": 80,
       "max": 8,
       "min": 2,
-      "regen": 15,
-      "menge": 0.9,
-      "wind": 17,
-      "windAus": 248,
+      "regen": 23,
+      "menge": 0.1,
+      "wind": 19,
+      "windAus": 251,
       "uv": 1.6,
       "auf": "07:40",
       "unter": "16:27"
@@ -178,37 +177,37 @@
       "datum": "2026-11-13",
       "code": 80,
       "max": 8,
-      "min": 5,
-      "regen": 20,
-      "menge": 0.3,
+      "min": 4,
+      "regen": 29,
+      "menge": 0.9,
       "wind": 21,
-      "windAus": 276,
+      "windAus": 270,
       "uv": 1.5,
       "auf": "07:42",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-14",
-      "code": 3,
+      "code": 61,
       "max": 8,
       "min": 3,
-      "regen": 3,
-      "menge": 0,
-      "wind": 12,
+      "regen": 8,
+      "menge": 0.3,
+      "wind": 14,
       "windAus": 233,
-      "uv": 0.9,
+      "uv": 1.2,
       "auf": "07:44",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-15",
       "code": 61,
-      "max": 6,
+      "max": 9,
       "min": 1,
-      "regen": 19,
-      "menge": 2.3,
-      "wind": 8,
-      "windAus": 141,
+      "regen": 33,
+      "menge": 0.6,
+      "wind": 13,
+      "windAus": 159,
       "uv": 1.5,
       "auf": "07:45",
       "unter": "16:22"
@@ -217,12 +216,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 11,
-      "min": 6,
+      "min": 8,
       "regen": 51,
-      "menge": 5.1,
-      "wind": 12,
-      "windAus": 181,
-      "uv": 0.6,
+      "menge": 3.3,
+      "wind": 14,
+      "windAus": 184,
+      "uv": 0.1,
       "auf": "07:47",
       "unter": "16:21"
      },
@@ -242,93 +241,45 @@
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "15:00",
-      "grad": 5,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 3,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 3,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 3,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 3,
-      "code": 3,
+      "code": 51,
       "regen": 0
      },
      {
@@ -369,7 +320,7 @@
      },
      {
       "zeit": "04:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -383,7 +334,55 @@
       "zeit": "06:00",
       "grad": 2,
       "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 2,
+      "code": 61,
       "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 61,
+      "regen": 10
+     },
+     {
+      "zeit": "10:00",
+      "grad": 3,
+      "code": 61,
+      "regen": 20
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 23
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 10
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 1,
+      "regen": 5
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 8
      }
     ]
    },
@@ -393,38 +392,38 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 2,
+     "grad": 5,
      "code": 3,
-     "gefuehlt": -1,
+     "gefuehlt": 2,
      "wind": 10,
-     "windAus": 131,
-     "feuchte": 89,
-     "druck": 1006,
+     "windAus": 112,
+     "feuchte": 78,
+     "druck": 1000,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 51,
      "max": 5,
      "min": 2,
-     "regen": 8,
+     "regen": 3,
      "menge": 0,
      "wind": 12,
-     "windAus": 132,
+     "windAus": 130,
      "uv": 1.5,
      "auf": "07:20",
      "unter": "16:19"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 51,
+     "code": 3,
      "max": 7,
      "min": 3,
-     "regen": 3,
+     "regen": 5,
      "menge": 0,
-     "wind": 12,
-     "windAus": 259,
+     "wind": 14,
+     "windAus": 260,
      "uv": 1.7,
      "auf": "07:22",
      "unter": "16:17"
@@ -435,23 +434,23 @@
       "code": 51,
       "max": 5,
       "min": 2,
-      "regen": 8,
+      "regen": 3,
       "menge": 0,
       "wind": 12,
-      "windAus": 132,
+      "windAus": 130,
       "uv": 1.5,
       "auf": "07:20",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-12",
-      "code": 51,
+      "code": 3,
       "max": 7,
       "min": 3,
-      "regen": 3,
+      "regen": 5,
       "menge": 0,
-      "wind": 12,
-      "windAus": 259,
+      "wind": 14,
+      "windAus": 260,
       "uv": 1.7,
       "auf": "07:22",
       "unter": "16:17"
@@ -460,12 +459,12 @@
       "datum": "2026-11-13",
       "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 5,
+      "min": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 21,
-      "windAus": 273,
-      "uv": 1.6,
+      "wind": 19,
+      "windAus": 268,
+      "uv": 1.5,
       "auf": "07:24",
       "unter": "16:16"
      },
@@ -473,24 +472,24 @@
       "datum": "2026-11-14",
       "code": 3,
       "max": 8,
-      "min": 3,
-      "regen": 1,
+      "min": 2,
+      "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 243,
-      "uv": 1.6,
+      "windAus": 250,
+      "uv": 1.3,
       "auf": "07:26",
       "unter": "16:14"
      },
      {
       "datum": "2026-11-15",
-      "code": 61,
+      "code": 2,
       "max": 7,
       "min": 1,
-      "regen": 9,
-      "menge": 0.3,
-      "wind": 10,
-      "windAus": 156,
+      "regen": 12,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 158,
       "uv": 1.6,
       "auf": "07:28",
       "unter": "16:13"
@@ -499,12 +498,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 8,
-      "min": 5,
+      "min": 4,
       "regen": 41,
       "menge": 2.7,
       "wind": 11,
-      "windAus": 175,
-      "uv": 0.5,
+      "windAus": 170,
+      "uv": 1.3,
       "auf": "07:29",
       "unter": "16:11"
      },
@@ -517,65 +516,17 @@
       "menge": 1.9,
       "wind": 14,
       "windAus": 196,
-      "uv": 0.4,
+      "uv": 0.5,
       "auf": "07:31",
       "unter": "16:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "14:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 8
-     },
-     {
       "zeit": "15:00",
       "grad": 5,
       "code": 3,
-      "regen": 8
+      "regen": 0
      },
      {
       "zeit": "16:00",
@@ -591,61 +542,61 @@
      },
      {
       "zeit": "18:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "22:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
+      "zeit": "22:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 3
+     },
+     {
       "zeit": "23:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 5,
-      "code": 51,
-      "regen": 0
+      "grad": 4,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 4,
       "code": 3,
       "regen": 0
      },
@@ -653,19 +604,67 @@
       "zeit": "04:00",
       "grad": 5,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "05:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "06:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "08:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
       "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "06:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 3
+      "zeit": "13:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
      }
     ]
    },
@@ -675,39 +674,39 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 1,
+     "grad": 6,
      "code": 61,
-     "gefuehlt": -2,
-     "wind": 5,
-     "windAus": 113,
-     "feuchte": 93,
-     "druck": 994,
-     "niederschlag": 0.4,
-     "tag": 0
+     "gefuehlt": 4,
+     "wind": 3,
+     "windAus": 90,
+     "feuchte": 92,
+     "druck": 989,
+     "niederschlag": 0,
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
      "code": 61,
-     "max": 5,
+     "max": 6,
      "min": 1,
-     "regen": 95,
-     "menge": 7,
+     "regen": 100,
+     "menge": 5.9,
      "wind": 7,
-     "windAus": 123,
-     "uv": 0.8,
+     "windAus": 130,
+     "uv": 0.3,
      "auf": "07:21",
      "unter": "16:27"
     },
     "morgen": {
      "datum": "2026-11-12",
      "code": 61,
-     "max": 6,
+     "max": 7,
      "min": 2,
-     "regen": 53,
-     "menge": 0.1,
-     "wind": 6,
-     "windAus": 283,
-     "uv": 0.3,
+     "regen": 55,
+     "menge": 1.6,
+     "wind": 7,
+     "windAus": 279,
+     "uv": 0.7,
      "auf": "07:22",
      "unter": "16:26"
     },
@@ -715,64 +714,64 @@
      {
       "datum": "2026-11-11",
       "code": 61,
-      "max": 5,
+      "max": 6,
       "min": 1,
-      "regen": 95,
-      "menge": 7,
+      "regen": 100,
+      "menge": 5.9,
       "wind": 7,
-      "windAus": 123,
-      "uv": 0.8,
+      "windAus": 130,
+      "uv": 0.3,
       "auf": "07:21",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-12",
       "code": 61,
-      "max": 6,
+      "max": 7,
       "min": 2,
-      "regen": 53,
-      "menge": 0.1,
-      "wind": 6,
-      "windAus": 283,
-      "uv": 0.3,
+      "regen": 55,
+      "menge": 1.6,
+      "wind": 7,
+      "windAus": 279,
+      "uv": 0.7,
       "auf": "07:22",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-13",
-      "code": 3,
-      "max": 8,
+      "code": 2,
+      "max": 7,
       "min": 1,
       "regen": 3,
       "menge": 0,
-      "wind": 16,
-      "windAus": 258,
+      "wind": 15,
+      "windAus": 260,
       "uv": 1.8,
       "auf": "07:24",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-14",
-      "code": 3,
+      "code": 2,
       "max": 8,
       "min": 1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 221,
+      "wind": 10,
+      "windAus": 234,
       "uv": 1.7,
       "auf": "07:26",
       "unter": "16:23"
      },
      {
       "datum": "2026-11-15",
-      "code": 3,
-      "max": 10,
+      "code": 2,
+      "max": 9,
       "min": 1,
-      "regen": 7,
+      "regen": 8,
       "menge": 0,
       "wind": 11,
-      "windAus": 168,
+      "windAus": 169,
       "uv": 1.7,
       "auf": "07:27",
       "unter": "16:21"
@@ -781,12 +780,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 10,
-      "min": 6,
+      "min": 7,
       "regen": 28,
       "menge": 1.2,
-      "wind": 11,
-      "windAus": 182,
-      "uv": 1.6,
+      "wind": 13,
+      "windAus": 183,
+      "uv": 1.4,
       "auf": "07:29",
       "unter": "16:20"
      },
@@ -799,155 +798,155 @@
       "menge": 1.8,
       "wind": 14,
       "windAus": 208,
-      "uv": 0.8,
+      "uv": 0.6,
       "auf": "07:31",
       "unter": "16:19"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 1,
-      "code": 61,
-      "regen": 23
-     },
-     {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 61,
-      "regen": 60
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 95
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 90
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 61,
-      "regen": 90
-     },
-     {
-      "zeit": "13:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "14:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 80
-     },
-     {
       "zeit": "15:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 80
+      "grad": 6,
+      "code": 53,
+      "regen": 73
      },
      {
       "zeit": "16:00",
-      "grad": 5,
+      "grad": 6,
       "code": 61,
-      "regen": 83
+      "regen": 58
      },
      {
       "zeit": "17:00",
-      "grad": 5,
+      "grad": 6,
       "code": 61,
-      "regen": 68
+      "regen": 43
      },
      {
       "zeit": "18:00",
-      "grad": 5,
+      "grad": 6,
       "code": 61,
-      "regen": 53
+      "regen": 40
      },
      {
       "zeit": "19:00",
-      "grad": 5,
+      "grad": 6,
       "code": 61,
-      "regen": 35
+      "regen": 38
      },
      {
       "zeit": "20:00",
-      "grad": 5,
+      "grad": 6,
       "code": 61,
-      "regen": 33
+      "regen": 28
      },
      {
       "zeit": "21:00",
       "grad": 5,
       "code": 61,
-      "regen": 30
+      "regen": 25
      },
      {
       "zeit": "22:00",
       "grad": 5,
-      "code": 3,
-      "regen": 25
+      "code": 61,
+      "regen": 20
      },
      {
       "zeit": "23:00",
       "grad": 5,
-      "code": 3,
-      "regen": 30
+      "code": 61,
+      "regen": 13
      },
      {
       "zeit": "00:00",
       "grad": 5,
-      "code": 45,
+      "code": 61,
       "regen": 28
      },
      {
       "zeit": "01:00",
-      "grad": 4,
-      "code": 45,
-      "regen": 30
+      "grad": 5,
+      "code": 61,
+      "regen": 40
      },
      {
       "zeit": "02:00",
       "grad": 5,
       "code": 61,
-      "regen": 38
+      "regen": 48
      },
      {
       "zeit": "03:00",
       "grad": 5,
-      "code": 45,
-      "regen": 53
+      "code": 61,
+      "regen": 50
      },
      {
       "zeit": "04:00",
       "grad": 5,
       "code": 61,
-      "regen": 45
+      "regen": 55
      },
      {
       "zeit": "05:00",
       "grad": 5,
       "code": 61,
-      "regen": 28
+      "regen": 38
      },
      {
       "zeit": "06:00",
       "grad": 5,
       "code": 61,
-      "regen": 20
+      "regen": 28
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 25
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 40
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 40
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 51,
+      "regen": 48
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 40
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "13:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 35
+     },
+     {
+      "zeit": "14:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 28
      }
     ]
    },
@@ -957,15 +956,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 7,
+     "grad": 8,
      "code": 3,
-     "gefuehlt": 4,
-     "wind": 10,
-     "windAus": 128,
-     "feuchte": 90,
+     "gefuehlt": 7,
+     "wind": 5,
+     "windAus": 302,
+     "feuchte": 89,
      "druck": 995,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
@@ -973,23 +972,23 @@
      "max": 8,
      "min": 5,
      "regen": 100,
-     "menge": 7.5,
+     "menge": 8.9,
      "wind": 16,
-     "windAus": 119,
+     "windAus": 122,
      "uv": 0.3,
      "auf": "07:41",
      "unter": "16:50"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 53,
+     "code": 61,
      "max": 9,
      "min": 4,
-     "regen": 47,
-     "menge": 1.4,
-     "wind": 12,
-     "windAus": 315,
-     "uv": 1.3,
+     "regen": 28,
+     "menge": 2.6,
+     "wind": 11,
+     "windAus": 319,
+     "uv": 1.9,
      "auf": "07:43",
      "unter": "16:48"
     },
@@ -1000,23 +999,23 @@
       "max": 8,
       "min": 5,
       "regen": 100,
-      "menge": 7.5,
+      "menge": 8.9,
       "wind": 16,
-      "windAus": 119,
+      "windAus": 122,
       "uv": 0.3,
       "auf": "07:41",
       "unter": "16:50"
      },
      {
       "datum": "2026-11-12",
-      "code": 53,
+      "code": 61,
       "max": 9,
       "min": 4,
-      "regen": 47,
-      "menge": 1.4,
-      "wind": 12,
-      "windAus": 315,
-      "uv": 1.3,
+      "regen": 28,
+      "menge": 2.6,
+      "wind": 11,
+      "windAus": 319,
+      "uv": 1.9,
       "auf": "07:43",
       "unter": "16:48"
      },
@@ -1024,212 +1023,212 @@
       "datum": "2026-11-13",
       "code": 3,
       "max": 9,
-      "min": 2,
+      "min": 3,
       "regen": 0,
-      "menge": 0.1,
-      "wind": 12,
-      "windAus": 293,
-      "uv": 1.9,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 286,
+      "uv": 1.8,
       "auf": "07:44",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-14",
       "code": 45,
-      "max": 7,
-      "min": 0,
+      "max": 8,
+      "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 15,
-      "windAus": 132,
+      "windAus": 137,
       "uv": 1.9,
       "auf": "07:46",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-15",
-      "code": 53,
-      "max": 12,
+      "code": 51,
+      "max": 13,
       "min": 3,
-      "regen": 47,
-      "menge": 4.3,
-      "wind": 17,
-      "windAus": 149,
-      "uv": 1.1,
+      "regen": 43,
+      "menge": 3.6,
+      "wind": 20,
+      "windAus": 148,
+      "uv": 0.7,
       "auf": "07:48",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-16",
-      "code": 80,
-      "max": 12,
-      "min": 5,
-      "regen": 69,
-      "menge": 8.3,
-      "wind": 20,
-      "windAus": 195,
-      "uv": 1.1,
+      "code": 51,
+      "max": 13,
+      "min": 6,
+      "regen": 53,
+      "menge": 3.3,
+      "wind": 22,
+      "windAus": 213,
+      "uv": 0.4,
       "auf": "07:49",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-17",
-      "code": 80,
-      "max": 12,
-      "min": 4,
-      "regen": 58,
-      "menge": 14.2,
-      "wind": 23,
-      "windAus": 171,
-      "uv": 1.3,
+      "code": 53,
+      "max": 11,
+      "min": 3,
+      "regen": 61,
+      "menge": 5.6,
+      "wind": 22,
+      "windAus": 185,
+      "uv": 1,
       "auf": "07:51",
       "unter": "16:42"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 100
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 96
-     },
-     {
-      "zeit": "09:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 91
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 86
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 80
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 73
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 69
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 71
-     },
-     {
       "zeit": "15:00",
       "grad": 8,
-      "code": 53,
-      "regen": 76
+      "code": 3,
+      "regen": 85
      },
      {
       "zeit": "16:00",
       "grad": 8,
-      "code": 53,
-      "regen": 80
+      "code": 3,
+      "regen": 90
      },
      {
       "zeit": "17:00",
       "grad": 8,
-      "code": 53,
-      "regen": 84
+      "code": 51,
+      "regen": 90
      },
      {
       "zeit": "18:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 89
+      "grad": 8,
+      "code": 51,
+      "regen": 86
      },
      {
       "zeit": "19:00",
       "grad": 7,
-      "code": 3,
-      "regen": 88
+      "code": 51,
+      "regen": 80
      },
      {
       "zeit": "20:00",
       "grad": 7,
-      "code": 3,
-      "regen": 79
+      "code": 51,
+      "regen": 69
      },
      {
       "zeit": "21:00",
       "grad": 7,
       "code": 51,
-      "regen": 65
+      "regen": 55
      },
      {
       "zeit": "22:00",
       "grad": 7,
-      "code": 51,
-      "regen": 53
+      "code": 3,
+      "regen": 43
      },
      {
       "zeit": "23:00",
       "grad": 7,
       "code": 51,
-      "regen": 46
+      "regen": 35
      },
      {
       "zeit": "00:00",
       "grad": 7,
       "code": 51,
-      "regen": 41
+      "regen": 28
      },
      {
       "zeit": "01:00",
       "grad": 7,
       "code": 51,
-      "regen": 39
+      "regen": 24
      },
      {
       "zeit": "02:00",
-      "grad": 7,
-      "code": 53,
-      "regen": 41
+      "grad": 6,
+      "code": 3,
+      "regen": 23
      },
      {
       "zeit": "03:00",
-      "grad": 7,
+      "grad": 6,
       "code": 51,
-      "regen": 46
+      "regen": 25
      },
      {
       "zeit": "04:00",
-      "grad": 7,
+      "grad": 6,
       "code": 51,
-      "regen": 47
+      "regen": 25
      },
      {
       "zeit": "05:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 41
+      "grad": 6,
+      "code": 61,
+      "regen": 22
      },
      {
       "zeit": "06:00",
       "grad": 6,
       "code": 51,
-      "regen": 31
+      "regen": 17
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 12
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 7
+     },
+     {
+      "zeit": "09:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1239,15 +1238,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 6,
-     "code": 45,
-     "gefuehlt": 4,
-     "wind": 4,
-     "windAus": 119,
-     "feuchte": 95,
-     "druck": 992,
+     "grad": 8,
+     "code": 80,
+     "gefuehlt": 7,
+     "wind": 5,
+     "windAus": 228,
+     "feuchte": 96,
+     "druck": 990,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
@@ -1255,10 +1254,10 @@
      "max": 10,
      "min": 5,
      "regen": 100,
-     "menge": 3.3,
-     "wind": 8,
-     "windAus": 208,
-     "uv": 1,
+     "menge": 3.2,
+     "wind": 7,
+     "windAus": 203,
+     "uv": 0.8,
      "auf": "07:31",
      "unter": "16:46"
     },
@@ -1267,11 +1266,11 @@
      "code": 80,
      "max": 10,
      "min": 4,
-     "regen": 13,
-     "menge": 0.2,
+     "regen": 33,
+     "menge": 0,
      "wind": 12,
-     "windAus": 352,
-     "uv": 0.4,
+     "windAus": 360,
+     "uv": 0.5,
      "auf": "07:33",
      "unter": "16:44"
     },
@@ -1282,10 +1281,10 @@
       "max": 10,
       "min": 5,
       "regen": 100,
-      "menge": 3.3,
-      "wind": 8,
-      "windAus": 208,
-      "uv": 1,
+      "menge": 3.2,
+      "wind": 7,
+      "windAus": 203,
+      "uv": 0.8,
       "auf": "07:31",
       "unter": "16:46"
      },
@@ -1294,11 +1293,11 @@
       "code": 80,
       "max": 10,
       "min": 4,
-      "regen": 13,
-      "menge": 0.2,
+      "regen": 33,
+      "menge": 0,
       "wind": 12,
-      "windAus": 352,
-      "uv": 0.4,
+      "windAus": 360,
+      "uv": 0.5,
       "auf": "07:33",
       "unter": "16:44"
      },
@@ -1306,38 +1305,38 @@
       "datum": "2026-11-13",
       "code": 2,
       "max": 8,
-      "min": 0,
+      "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 253,
+      "wind": 10,
+      "windAus": 254,
       "uv": 2,
       "auf": "07:35",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-14",
-      "code": 1,
+      "code": 3,
       "max": 8,
-      "min": 0,
+      "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 5,
-      "windAus": 73,
+      "windAus": 157,
       "uv": 1.9,
       "auf": "07:36",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-15",
-      "code": 61,
-      "max": 6,
-      "min": 1,
-      "regen": 23,
-      "menge": 0.3,
-      "wind": 4,
-      "windAus": 56,
-      "uv": 0.8,
+      "code": 3,
+      "max": 8,
+      "min": 0,
+      "regen": 24,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 112,
+      "uv": 1.6,
       "auf": "07:38",
       "unter": "16:40"
      },
@@ -1345,12 +1344,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 11,
-      "min": 6,
+      "min": 7,
       "regen": 53,
-      "menge": 6,
+      "menge": 1.5,
       "wind": 13,
-      "windAus": 209,
-      "uv": 0.8,
+      "windAus": 212,
+      "uv": 1,
       "auf": "07:39",
       "unter": "16:39"
      },
@@ -1370,38 +1369,134 @@
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 45,
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 61,
       "regen": 10
      },
      {
-      "zeit": "08:00",
-      "grad": 6,
-      "code": 45,
-      "regen": 5
-     },
-     {
-      "zeit": "09:00",
-      "grad": 6,
-      "code": 80,
-      "regen": 3
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 3
-     },
-     {
-      "zeit": "11:00",
+      "zeit": "16:00",
       "grad": 8,
-      "code": 3,
+      "code": 80,
       "regen": 8
      },
      {
-      "zeit": "12:00",
+      "zeit": "17:00",
       "grad": 8,
+      "code": 80,
+      "regen": 8
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "19:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "20:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 33
+     },
+     {
+      "zeit": "21:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "22:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "23:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 51,
+      "regen": 18
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 51,
+      "regen": 33
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 80,
+      "regen": 25
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "04:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "06:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "07:00",
+      "grad": 10,
+      "code": 80,
+      "regen": 8
+     },
+     {
+      "zeit": "08:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 15
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "11:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 28
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
       "code": 3,
       "regen": 23
      },
@@ -1409,109 +1504,13 @@
       "zeit": "13:00",
       "grad": 9,
       "code": 3,
-      "regen": 18
+      "regen": 25
      },
      {
       "zeit": "14:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "15:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 13
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 10
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 30
-     },
-     {
-      "zeit": "20:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "21:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 8
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "04:00",
       "grad": 9,
       "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "05:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "06:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 10
+      "regen": 20
      }
     ]
    },
@@ -1521,38 +1520,38 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 12,
-     "code": 61,
-     "gefuehlt": 11,
-     "wind": 6,
-     "windAus": 170,
-     "feuchte": 87,
-     "druck": 974,
+     "grad": 14,
+     "code": 3,
+     "gefuehlt": 15,
+     "wind": 2,
+     "windAus": 59,
+     "feuchte": 89,
+     "druck": 973,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
      "datum": "2026-11-11",
-     "code": 80,
-     "max": 14,
+     "code": 95,
+     "max": 15,
      "min": 9,
-     "regen": 88,
-     "menge": 6.2,
+     "regen": 95,
+     "menge": 7.9,
      "wind": 9,
-     "windAus": 190,
-     "uv": 1.1,
+     "windAus": 188,
+     "uv": 0.8,
      "auf": "07:25",
      "unter": "16:48"
     },
     "morgen": {
      "datum": "2026-11-12",
      "code": 61,
-     "max": 12,
-     "min": 7,
+     "max": 13,
+     "min": 6,
      "regen": 45,
-     "menge": 2,
-     "wind": 15,
-     "windAus": 349,
+     "menge": 0.2,
+     "wind": 14,
+     "windAus": 3,
      "uv": 1.5,
      "auf": "07:27",
      "unter": "16:47"
@@ -1560,39 +1559,39 @@
     "tage": [
      {
       "datum": "2026-11-11",
-      "code": 80,
-      "max": 14,
+      "code": 95,
+      "max": 15,
       "min": 9,
-      "regen": 88,
-      "menge": 6.2,
+      "regen": 95,
+      "menge": 7.9,
       "wind": 9,
-      "windAus": 190,
-      "uv": 1.1,
+      "windAus": 188,
+      "uv": 0.8,
       "auf": "07:25",
       "unter": "16:48"
      },
      {
       "datum": "2026-11-12",
       "code": 61,
-      "max": 12,
-      "min": 7,
+      "max": 13,
+      "min": 6,
       "regen": 45,
-      "menge": 2,
-      "wind": 15,
-      "windAus": 349,
+      "menge": 0.2,
+      "wind": 14,
+      "windAus": 3,
       "uv": 1.5,
       "auf": "07:27",
       "unter": "16:47"
      },
      {
       "datum": "2026-11-13",
-      "code": 61,
-      "max": 7,
-      "min": 1,
-      "regen": 5,
+      "code": 3,
+      "max": 6,
+      "min": 2,
+      "regen": 3,
       "menge": 0,
       "wind": 13,
-      "windAus": 312,
+      "windAus": 301,
       "uv": 2.1,
       "auf": "07:28",
       "unter": "16:45"
@@ -1600,12 +1599,12 @@
      {
       "datum": "2026-11-14",
       "code": 1,
-      "max": 7,
+      "max": 8,
       "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 142,
+      "wind": 7,
+      "windAus": 151,
       "uv": 2,
       "auf": "07:30",
       "unter": "16:44"
@@ -1615,11 +1614,11 @@
       "code": 3,
       "max": 12,
       "min": 2,
-      "regen": 13,
-      "menge": 0.3,
-      "wind": 6,
-      "windAus": 170,
-      "uv": 1.4,
+      "regen": 11,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 172,
+      "uv": 1.7,
       "auf": "07:31",
       "unter": "16:43"
      },
@@ -1627,12 +1626,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 12,
-      "min": 6,
+      "min": 9,
       "regen": 28,
-      "menge": 1.8,
-      "wind": 11,
-      "windAus": 201,
-      "uv": 0.3,
+      "menge": 5.3,
+      "wind": 13,
+      "windAus": 204,
+      "uv": 1.4,
       "auf": "07:33",
       "unter": "16:42"
      },
@@ -1645,154 +1644,154 @@
       "menge": 4.4,
       "wind": 24,
       "windAus": 194,
-      "uv": 0.5,
+      "uv": 0.4,
       "auf": "07:34",
       "unter": "16:40"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 85
-     },
-     {
-      "zeit": "08:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 78
-     },
-     {
-      "zeit": "09:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 83
-     },
-     {
-      "zeit": "10:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 68
-     },
-     {
-      "zeit": "11:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 70
-     },
-     {
-      "zeit": "12:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 55
-     },
-     {
-      "zeit": "13:00",
+      "zeit": "15:00",
       "grad": 14,
       "code": 3,
-      "regen": 55
+      "regen": 63
      },
      {
-      "zeit": "14:00",
+      "zeit": "16:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 73
+     },
+     {
+      "zeit": "17:00",
       "grad": 14,
       "code": 61,
       "regen": 63
      },
      {
-      "zeit": "15:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 65
-     },
-     {
-      "zeit": "16:00",
-      "grad": 14,
-      "code": 61,
-      "regen": 75
-     },
-     {
-      "zeit": "17:00",
-      "grad": 13,
-      "code": 61,
-      "regen": 85
-     },
-     {
       "zeit": "18:00",
       "grad": 13,
       "code": 61,
-      "regen": 83
+      "regen": 68
      },
      {
       "zeit": "19:00",
       "grad": 13,
-      "code": 3,
-      "regen": 65
+      "code": 61,
+      "regen": 55
      },
      {
       "zeit": "20:00",
       "grad": 13,
       "code": 61,
-      "regen": 48
+      "regen": 35
      },
      {
       "zeit": "21:00",
       "grad": 13,
       "code": 3,
-      "regen": 35
+      "regen": 28
      },
      {
       "zeit": "22:00",
-      "grad": 12,
+      "grad": 13,
       "code": 3,
-      "regen": 28
+      "regen": 20
      },
      {
       "zeit": "23:00",
       "grad": 12,
-      "code": 3,
-      "regen": 25
+      "code": 2,
+      "regen": 15
      },
      {
       "zeit": "00:00",
       "grad": 12,
-      "code": 3,
-      "regen": 10
+      "code": 2,
+      "regen": 5
      },
      {
       "zeit": "01:00",
       "grad": 12,
-      "code": 3,
-      "regen": 13
+      "code": 2,
+      "regen": 5
      },
      {
       "zeit": "02:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "03:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
       "grad": 11,
       "code": 2,
       "regen": 3
      },
      {
+      "zeit": "03:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "04:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 3
+     },
+     {
       "zeit": "06:00",
       "grad": 10,
-      "code": 2,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "09:00",
+      "grad": 10,
+      "code": 45,
+      "regen": 3
+     },
+     {
+      "zeit": "10:00",
+      "grad": 11,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1803,13 +1802,13 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 7,
-     "code": 45,
-     "gefuehlt": 6,
-     "wind": 3,
-     "windAus": 140,
-     "feuchte": 96,
-     "druck": 945,
+     "grad": 14,
+     "code": 61,
+     "gefuehlt": 13,
+     "wind": 5,
+     "windAus": 274,
+     "feuchte": 84,
+     "druck": 943,
      "niederschlag": 0,
      "tag": 1
     },
@@ -1818,24 +1817,24 @@
      "code": 80,
      "max": 14,
      "min": 6,
-     "regen": 98,
-     "menge": 6.8,
+     "regen": 100,
+     "menge": 5.9,
      "wind": 8,
-     "windAus": 201,
-     "uv": 1,
+     "windAus": 197,
+     "uv": 0.8,
      "auf": "07:14",
      "unter": "16:40"
     },
     "morgen": {
      "datum": "2026-11-12",
-     "code": 80,
-     "max": 12,
-     "min": 7,
-     "regen": 100,
-     "menge": 8.3,
-     "wind": 16,
-     "windAus": 43,
-     "uv": 1.3,
+     "code": 61,
+     "max": 13,
+     "min": 6,
+     "regen": 98,
+     "menge": 6.9,
+     "wind": 15,
+     "windAus": 37,
+     "uv": 1.5,
      "auf": "07:15",
      "unter": "16:39"
     },
@@ -1845,49 +1844,49 @@
       "code": 80,
       "max": 14,
       "min": 6,
-      "regen": 98,
-      "menge": 6.8,
+      "regen": 100,
+      "menge": 5.9,
       "wind": 8,
-      "windAus": 201,
-      "uv": 1,
+      "windAus": 197,
+      "uv": 0.8,
       "auf": "07:14",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-12",
-      "code": 80,
-      "max": 12,
-      "min": 7,
-      "regen": 100,
-      "menge": 8.3,
-      "wind": 16,
-      "windAus": 43,
-      "uv": 1.3,
+      "code": 61,
+      "max": 13,
+      "min": 6,
+      "regen": 98,
+      "menge": 6.9,
+      "wind": 15,
+      "windAus": 37,
+      "uv": 1.5,
       "auf": "07:15",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-13",
       "code": 61,
-      "max": 7,
-      "min": 2,
+      "max": 6,
+      "min": 1,
       "regen": 98,
-      "menge": 3.5,
-      "wind": 16,
-      "windAus": 319,
-      "uv": 1.9,
+      "menge": 3.7,
+      "wind": 15,
+      "windAus": 303,
+      "uv": 2.1,
       "auf": "07:17",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-14",
-      "code": 1,
+      "code": 2,
       "max": 6,
       "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 97,
+      "wind": 11,
+      "windAus": 115,
       "uv": 2.1,
       "auf": "07:18",
       "unter": "16:36"
@@ -1895,12 +1894,12 @@
      {
       "datum": "2026-11-15",
       "code": 3,
-      "max": 8,
+      "max": 9,
       "min": -1,
-      "regen": 6,
+      "regen": 2,
       "menge": 0,
-      "wind": 4,
-      "windAus": 126,
+      "wind": 5,
+      "windAus": 118,
       "uv": 2,
       "auf": "07:20",
       "unter": "16:35"
@@ -1909,12 +1908,12 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 9,
-      "min": 0,
+      "min": 1,
       "regen": 19,
       "menge": 1.8,
       "wind": 13,
-      "windAus": 189,
-      "uv": 0.6,
+      "windAus": 193,
+      "uv": 1.8,
       "auf": "07:21",
       "unter": "16:34"
      },
@@ -1927,142 +1926,94 @@
       "menge": 1.3,
       "wind": 15,
       "windAus": 201,
-      "uv": 0.4,
+      "uv": 1,
       "auf": "07:23",
       "unter": "16:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 80,
-      "regen": 55
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 45,
-      "regen": 70
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 70
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 80,
-      "regen": 85
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 90
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "13:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 65
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 78
-     },
-     {
       "zeit": "15:00",
       "grad": 14,
-      "code": 61,
-      "regen": 80
+      "code": 3,
+      "regen": 83
      },
      {
       "zeit": "16:00",
-      "grad": 14,
+      "grad": 13,
       "code": 61,
-      "regen": 95
+      "regen": 85
      },
      {
       "zeit": "17:00",
       "grad": 13,
       "code": 61,
-      "regen": 95
+      "regen": 98
      },
      {
       "zeit": "18:00",
       "grad": 12,
       "code": 61,
-      "regen": 98
+      "regen": 100
      },
      {
       "zeit": "19:00",
       "grad": 12,
       "code": 61,
-      "regen": 98
+      "regen": 100
      },
      {
       "zeit": "20:00",
       "grad": 12,
       "code": 61,
-      "regen": 93
+      "regen": 95
      },
      {
       "zeit": "21:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
-      "regen": 85
+      "regen": 93
      },
      {
       "zeit": "22:00",
-      "grad": 12,
+      "grad": 11,
       "code": 61,
-      "regen": 73
+      "regen": 83
      },
      {
       "zeit": "23:00",
       "grad": 11,
       "code": 61,
-      "regen": 60
+      "regen": 73
      },
      {
       "zeit": "00:00",
       "grad": 11,
       "code": 61,
-      "regen": 35
+      "regen": 55
      },
      {
       "zeit": "01:00",
       "grad": 11,
-      "code": 80,
-      "regen": 13
+      "code": 3,
+      "regen": 23
      },
      {
       "zeit": "02:00",
       "grad": 11,
-      "code": 80,
-      "regen": 8
+      "code": 3,
+      "regen": 10
      },
      {
       "zeit": "03:00",
       "grad": 10,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 10,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -2073,18 +2024,66 @@
      },
      {
       "zeit": "06:00",
-      "grad": 8,
-      "code": 45,
+      "grad": 9,
+      "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "14:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 13
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 5 und 14 Grad.",
-   "Die Vorhersage für morgen, Donnerstag, im ganzen Land: Regenschauer.",
-   "Die Temperaturen erreichen dann 6 bis 12 Grad.",
-   "Am wärmsten wird es in Stuttgart mit 12 Grad.",
+   "Heute liegen die Höchstwerte zwischen 4 und 15 Grad.",
+   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten Regenschauer, im Süden und Westen leichter Regen.",
+   "Die Temperaturen erreichen dann 7 bis 13 Grad.",
+   "Am wärmsten wird es in Stuttgart mit 13 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2097,19 +2096,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 8,
-       "regen": 0.8
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
-       "regen": 1.8
+       "grad": 8,
+       "regen": 1.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 7,
-       "regen": 0.3
+       "grad": 8,
+       "regen": 0.2
       }
      ]
     },
@@ -2142,20 +2141,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 6,
-       "regen": 0.1
+       "grad": 7,
+       "regen": 1.6
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 7,
-       "regen": 1.8
+       "grad": 8,
+       "regen": 0.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 5,
-       "regen": 2.7
+       "regen": 1.5
       }
      ]
     },
@@ -2165,20 +2164,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
-       "regen": 0.7
+       "grad": 8,
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
-       "regen": 1.9
+       "grad": 9,
+       "regen": 2.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 9,
-       "regen": 1.9
+       "regen": 0.8
       }
      ]
     },
@@ -2189,19 +2188,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 10,
-       "regen": 0.1
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
+       "grad": 10,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 10,
-       "regen": 0.3
+       "regen": 0.2
       }
      ]
     },
@@ -2211,20 +2210,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 2
+       "grad": 13,
+       "regen": 0.2
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 0.6
+       "grad": 13,
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 3.3
+       "grad": 12,
+       "regen": 2.3
       }
      ]
     },
@@ -2234,25 +2233,25 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 8.3
+       "grad": 13,
+       "regen": 6.9
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 11.6
+       "grad": 11,
+       "regen": 5.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 2.5
+       "grad": 11,
+       "regen": 5.3
       }
      ]
     }
    ],
-   "spanneGrad": 2,
+   "spanneGrad": 3,
    "uneinigRegen": {
     "ort": "Hamburg",
     "nass": [
@@ -2264,7 +2263,7 @@
     ]
    },
    "saetze": [
-    "Für Hamburg gehen die Modelle am weitesten auseinander: zwischen 7 und 9 Grad.",
+    "Für Leipzig gehen die Modelle am weitesten auseinander: zwischen 5 und 8 Grad.",
     "Und in Hamburg erwartet GFS Regen, ICON und ECMWF dagegen nicht."
    ],
    "dienste": [
@@ -4834,7 +4833,7 @@
       11.5,
       17.81,
       22.48,
-      29.0,
+      29,
       34.69,
       41.05,
       47.33,
@@ -4859,7 +4858,7 @@
      "s": [
       0.25,
       3.29,
-      8.0,
+      8,
       11.61,
       15.46,
       18.69
@@ -5407,7 +5406,7 @@
       22.46,
       26.99,
       31.51,
-      37.0,
+      37,
       42.58
      ]
     },
@@ -9949,587 +9948,6 @@
       9.33,
       16.72,
       27.83
-     ]
-    }
-   ]
-  },
-  {
-   "id": "midterms-usa",
-   "rubrik": "Welt",
-   "zeit": "2026-11-08T12:37:57.000Z",
-   "aktualisiert": "aktualisiert um 16:06 Uhr",
-   "titel": "Politische Entwicklungen nach den US-Zwischenwahlen und Ermittlungsankündigungen",
-   "vorspann": "Nach den US-Zwischenwahlen schürt US-Präsident Donald Trump Zweifel am Ergebnis und weist das Justizministerium an, gegen demokratische Politiker zu ermitteln. Die Demokraten werden im kommenden Januar die Mehrheit im Kongress übernehmen und haben Untersuchungen gegen die Regierung angekündigt.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Nach den US-Zwischenwahlen haben die Demokraten die Mehrheit im Kongress gewonnen und Untersuchungen gegen die Regierung angekündigt.",
-    "US-Präsident Donald Trump zweifelt nun öffentlich am Wahlergebnis und wirft den Demokraten Erpressung vor.",
-    "Trump hat das Justizministerium angewiesen, gegen demokratische Politiker zu ermitteln, die Briefe an Spender und Organisationen verschickt hatten.",
-    "Zusätzlich gibt es personelle Veränderungen im Weißen Haus, darunter die Ernennung von Stephen Miller zum neuen Stabschef."
-   ],
-   "einig": [
-    [
-     "Donald Trump hat das Justizministerium angewiesen, Ermittlungen gegen demokratische Politiker aufzunehmen.",
-     [
-      "ZDFheute",
-      "Spiegel",
-      "ORF"
-     ]
-    ],
-    [
-     "Die Demokraten haben bei den Zwischenwahlen eine Mehrheit im Kongress errungen.",
-     [
-      "ZDFheute",
-      "Spiegel",
-      "ORF"
-     ]
-    ],
-    [
-     "Stephen Miller übernimmt den Posten des Stabschefs im Weißen Haus.",
-     [
-      "ZDFheute",
-      "ORF"
-     ]
-    ],
-    [
-     "Senator Richard Blumenthal hat Briefe zur Anforderung von Unterlagen an Geldgeber und Institutionen verschickt.",
-     [
-      "ZDFheute",
-      "ORF"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob Trump eine Klage zur Verhinderung der Bestätigung des Wahlergebnisses in Alaska tatsächlich offiziell eingereicht hat oder nur anordnet (ZDFheute, ORF).",
-    "Ob der Posten des Sprechers des Weißen Hauses Dana White tatsächlich angeboten wurde und wie dieser reagierte, da sich Medienberichte widersprechen (ORF)."
-   ],
-   "positionen": [
-    [
-     "Donald Trump (US-Präsident)",
-     "Bezeichnet das Vorgehen der Demokraten als Erpressung und fordert Ermittlungen und Haftstrafen.",
-     "ZDFheute,Spiegel,ORF"
-    ],
-    [
-     "Todd Blanche (Justizminister)",
-     "Kritisiert die Rhetorik der demokratischen Kongressabgeordneten öffentlich als abstoßend.",
-     "Spiegel"
-    ],
-    [
-     "Robert Garcia (Demokratischer Abgeordneter)",
-     "Rät der politischen Gegenseite, sich einen Anwalt zu nehmen.",
-     "Spiegel"
-    ],
-    [
-     "Richard Blumenthal (Demokratischer Senator)",
-     "Fordert in Briefen bis Januar freiwillige Antworten in Untersuchungsverfahren unter Androhung alternativer Maßnahmen.",
-     "ZDFheute,ORF"
-    ]
-   ],
-   "fehlend": "Stimmen oder detaillierte Erklärungen von den in den Briefen direkt genannten Organisationen wie World Liberty Financial oder betroffenen Spendern selbst.",
-   "medien": [
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "08.11.26, 10:46",
-     "fokus": "Wahlzweifel und Alaska-Rennen",
-     "text": "Berichtet neben den Ermittlungsanweisungen ausführlich über Trumps Zweifel am Wahlergebnis und das juristische Ringen in Alaska.",
-     "url": "https://www.zdfheute.de/politik/ausland/usa-trump-zweifel-midterms-demokraten-drohung-untersuchung-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 12,
-      "minuten": 2,
-      "woerter": 487,
-      "satzlaenge": 14,
-      "langeWoerter": 39
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "07.11.26, 22:41",
-     "fokus": "Reaktionen und Justizdetails",
-     "text": "Fokussiert sich auf die konkreten Reaktionen von Abgeordneten und Details zu den Schreiben des Justizministerium.",
-     "url": "https://www.spiegel.de/ausland/usa-donald-trump-weist-justizministerium-an-unliebsame-demokraten-zu-untersuchen-a-c5f98176-36ff-41ad-88a9-511276a4b746#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 1,
-      "woerter": 295,
-      "satzlaenge": 21,
-      "langeWoerter": 39
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "ORF",
-     "typ": "öffentlich-rechtlich (Österreich)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "08.11.26, 12:38",
-     "fokus": "Umfassender Überblick und Personalien",
-     "text": "Bietet eine detaillierte Zusammenfassung der innenpolitischen Lage, der Stabschef-Ernennung und der Berichte um Dana White.",
-     "url": "https://orf.at/stories/3447586/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 4,
-      "woerter": 738,
-      "satzlaenge": 18,
-      "langeWoerter": 35
-     },
-     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
-     "finanzierung": "Haushaltsabgabe",
-     "publikumWert": null
-    },
-    {
-     "name": "SRF",
-     "typ": "öffentlich-rechtlich (Schweiz)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "08.11.26, 13:37",
-     "fokus": "–",
-     "text": "<img src=\"https://www.srf.ch/static/cms/images//320ws/091c37.webp\" hspace=\"5\" align=\"left\" >Das US-Justizministerium wird von US-Präsident Donald Trump angewiesen, gegen Demokraten vorzugehen.",
-     "url": "https://www.srf.ch/news/international/midterms-2026-trump-will-gegen-die-demokraten-ermitteln-lassen",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
-     "finanzierung": "Rundfunkabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Detailreichtum bei Nebenmeldungen",
-     "Der ORF erwähnt zusätzlich Berichte um Dana White als Sprecher des Weißen Hauses, während andere Medien diesen Punkt weglassen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "US-Präsident Donald Trump",
-    "was": "Zweifel an Wahlergebnissen und Anweisung zu Ermittlungen",
-    "wann": "November 2026",
-    "wo": "Washington, D.C., USA",
-    "wie": "Über Online-Plattformen und offizielle Anweisungen",
-    "warum": "Wegen angeblicher Erpressung durch die Demokraten, laut Donald Trump",
-    "quellenlage": "ZDFheute, Spiegel, ORF"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "US-Präsident Donald Trump hat das Justizministerium angewiesen, Untersuchungen gegen Politiker der Demokratischen Partei einzuleiten. Diese zuvor angekündigten parlamentarischen Untersuchungen richten sich gegen den Präsidenten und Mitglieder seiner Regierung. Über seine Online-Plattform Truth Social erklärte Trump, das Verhalten der Demokraten sei Erpressung und ein Missbrauch des Rechtssystems. Laut Spiegel und ZDFheute warf er ihnen vor, Drohbriefe an unschuldige Personen verschickt zu haben.",
-      "Zugleich schürt der Präsident Zweifel am Ausgang der Kongresswahl, bei der die Republikaner eine deutliche Niederlage erlitten hatten. Die demokratischen Kandidaten hatten die Zwischenwahlen klar gewonnen und werden ab Januar die parlamentarische Mehrheit im Kongress innehaben. Trump verbreitete Beiträge, die den Vorsprung der Demokraten bei der Parlamentswahl als zu hoch infrage stellten. Nach Angaben von ZDFheute und ORF legte er selbst keine Belege für ein falsches Wahlergebnis vor."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Justizminister Todd Blanche wurde von Trump angewiesen, diese mutmaßlichen Straftaten zu untersuchen, wobei Trump laut ORF auch Haftstrafen gegen die Betroffenen forderte. Justizminister Blanche hatte zuvor im Sender Fox News die Rhetorik der demokratischen Abgeordneten kritisiert. Die Demokraten hatten unter anderem Unterlagen angefordert, etwa zu Spenden von Technologiekonzernen für den Ballsaal, den Trump im Weißen Haus errichten lässt. Laut ZDFheute und ORF verschickte der demokratische Senator Richard Blumenthal Briefe an Geldgeber und an die Digitalwährungs-Firma World Liberty Financial.",
-      "Senator Blumenthal forderte in diesen Schreiben, freiwillig Anfragen in Untersuchungsverfahren bis zum 4. Januar zu beantworten. Andernfalls müssten alternative Maßnahmen zur Durchsetzung erwogen werden. Blumenthal dürfte im Januar den Vorsitz im Untersuchungs-Unterausschuss des Senats übernehmen. Laut Spiegel bezog sich Trumps Beitrag auch auf die Senatorin Elissa Slotkin aus Michigan, die im Vormonat angeregt hatte, Personen zu untersuchen, die Trumps Politik ermöglicht haben.",
-      "Ein weiterer Streitpunkt betrifft das noch offene Rennen um einen Senatssitz in Alaska. Trump forderte, den republikanischen Amtsinhaber Dan Sullivan zum Sieger zu erklären. Laut ZDFheute und ORF lief der Wahlkampf kontrovers, da auch ein unabhängiger Kandidat namens Dan J. Sullivan auf dem Stimmzettel stand. Die Regierung hatte bereits vor dem Wahltag wegen Verwechslungsgefahr Bedenken angemeldet, und ein Gericht wies den Versuch ab, in die Wahl einzugreifen. Aktuell führt dort laut Berichten die Demokratin Mary Peltola knapp vor Sullivan, und Trump soll eine Klage zur Verhinderung der Ergebnissbestätigung angeordnet haben."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die Zwischenwahlen in den Vereinigten Staaten fanden im November statt und brachten den Republikanern Verluste. Die Demokraten errangen die Mehrheit im Kongress und kündigten an, die Aufsicht über die Regierung wiederherzustellen. Parteiführer erklärten, Amtsmissbrauch und Korruption durch Ausschüsse untersuchen zu lassen. Zu den potenziellen Zielen solcher Untersuchungen gehören laut ORF auch Justizminister Todd Blanche und Verteidigungsminister Pete Hegseth.",
-      "Personalveränderungen im Weißen Haus begleiten diese Entwicklungen. Stephen Miller, bisheriger Stellvertreter und bekannter rechter Hardliner, übernimmt den Posten des Stabschefs im Weißen Haus. Zudem berichtete der ORF über ein angebliches Jobangebot an den Kampfsportunternehmer Dana White für den Posten des Sprechers des Weißen Hauses, über dessen Annahme oder Ablehnung widersprüchliche Medienberichte vorliegen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Der Kongress der Vereinigten Staaten setzt sich aus zwei Kammern zusammen: dem Repräsentantenhaus und dem Senat. Die parlamentarische Mehrheit in diesen Kammern gibt einer Partei das Recht, Ausschüsse zu leiten, Zeugen vorzuladen, Dokumente anzufordern und offizielle Untersuchungen gegen Regierungsmitglieder einzuleiten. Ein Amtsenthebungsverfahren gegen den Präsidenten erfordert nach einer Einleitung im Repräsentantenhaus eine qualifizierte Zweidrittelmehrheit im Senat für eine Verurteilung."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "US-Präsident Donald Trump bezeichnete das Vorgehen der Demokraten als Erpressung und kriminelle Handlung und forderte Ermittlungen. Nach Angaben von ZDFheute hatte Trump das Wahlergebnis nach dem Sieg der Demokraten zunächst akzeptiert, bevor er seine Zweifel äußerte. Justizminister Todd Blanche kritisierte laut Spiegel die Ankündigungen der demokratischen Abgeordneten im Sender Fox News als abstoßend. Der demokratische Abgeordnete Robert Garcia empfahl der Gegenseite laut Spiegel knapp, sich einen Anwalt zu nehmen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Demokraten werden im kommenden Januar ihre parlamentarische Mehrheit im Kongress antreten und planen formelle Untersuchungen. Bis zum 4. Januar sind laut den Schreiben von Senator Blumenthal freiwillige Antworten auf Auskunftsersuchen gefordert. Zudem bleibt das genaue Ergebnis im Senatsrennen in Alaska abzuwarten, wo juristische Schritte geprüft werden."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Juli 2026",
-     "Miller hält eine Rede im Außenministerium, in der er scharfe Vorwürfe gegen linke politische Kräfte äußert."
-    ],
-    [
-     "November 2026",
-     "Bei den US-Zwischenwahlen erleiden die Republikaner Verluste; die Demokraten gewinnen laut Berichten Mehrheiten im Kongress."
-    ],
-    [
-     "06.11.2026",
-     "Donald Trump kündigt personelle Änderungen an und bestätigt den Wechsel an der Spitze des Stabes zu Stephen Miller."
-    ],
-    [
-     "07.11.2026",
-     "Medien und Kongressmitglieder aus beiden Parteien äußern sich öffentlich zur Neubesetzung des Stabschefs."
-    ],
-    [
-     "2016",
-     "Stephen Miller schließt sich dem Präsidentschaftswahlkampf von Donald Trump an."
-    ],
-    [
-     "2020",
-     "Susie Wiles beginnt nach der damaligen Wahl für Trump zu arbeiten."
-    ],
-    [
-     "November",
-     "Die Zwischenwahlen in den Vereinigten Staaten finden statt und Susie Wiles reicht ihren Rücktritt ein."
-    ],
-    [
-     "2026-11-03",
-     "Die Zwischenwahlen in den Vereinigten Staaten finden statt."
-    ],
-    [
-     "2026-11-06",
-     "Susie Wiles reicht ihren Rücktritt als Stabschefin ein und Stephen Miller wird als Nachfolger benannt."
-    ],
-    [
-     "November 2026",
-     "Die Zwischenwahlen in den Vereinigten Staaten finden statt und die Demokraten gewinnen die Mehrheit im Kongress."
-    ],
-    [
-     "07.11.2026",
-     "Donald Trump weist das Justizministerium an, Untersuchungen gegen demokratische Politiker einzuleiten."
-    ],
-    [
-     "08.11.2026",
-     "Trump äußert öffentlich Zweifel am Ergebnis der Midterms und fordert juristische Schritte im umstrittenen Senatsrennen in Alaska."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Donald Trump politician",
-     "bildunterschrift": "US-Präsident Donald Trump, der das Justizministerium zu Ermittlungen gegen politische Gegner angewiesen hat."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Stephen Miller political advisor",
-     "bildunterschrift": "Stephen Miller, der neue Stabschef im Weißen Haus."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "United States Capitol building",
-     "bildunterschrift": "Das US-Kapitol in Washington, dem Sitz des Kongresses, in dem die Demokraten künftig die Mehrheit stellen."
-    },
-    {
-     "art": "gebaeude",
-     "suchbegriff": "White House Washington DC",
-     "bildunterschrift": "Das Weiße Haus, der Amtssitz des US-Präsidenten."
-    }
-   ],
-   "ort": {
-    "name": "Washington, D.C., USA"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "SRF aus der Quellenliste im einig-Bereich und den W-Fragen entfernt, da der Text keine SRF-Quelle enthielt.",
-    "Das Datum für den Stabschef-Wechsel von Stephen Miller (6.11.) aus der Zeitleiste entfernt, da es in den berücksichtigten Berichten nicht vorkam."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Kongress",
-      "Das Parlament der Vereinigten Staaten besteht aus dem Repräsentantenhaus und dem Senat."
-     ],
-     [
-      "Stabschef",
-      "Eine wichtige Person im Weißen Haus, die den Stab des US-Präsidenten leitet."
-     ],
-     [
-      "Zwischenwahlen",
-      "Wahlen zum US-Kongress, die in der Mitte der Amtszeit des Präsidenten stattfinden."
-     ]
-    ],
-    "fragen": [
-     "Welche Aufgaben hat die parlamentarische Mehrheit im US-Kongress nach den Zwischenwahlen?",
-     "Wie bewerten verschiedene Medien den Streit zwischen dem Präsidenten und den Demokraten?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wer hat nach den Zwischenwahlen die Mehrheit im US-Kongress gewonnen?",
-      "optionen": [
-       "Die Republikaner",
-       "Die Demokraten",
-       "Unabhängige Kandidaten"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten haben die Demokraten bei den Zwischenwahlen eine Mehrheit im Kongress errungen."
-     },
-     {
-      "frage": "Was hat US-Präsident Donald Trump nach der Wahl angeordnet?",
-      "optionen": [
-       "Ermittlungen gegen demokratische Politiker",
-       "Eine Neuauszählung aller Stimmen",
-       "Die Schließung des Kongresses"
-      ],
-      "richtig": 0,
-      "erklaerung": "Trump wies das Justizministerium an, Ermittlungen gegen Politiker der Demokratischen Partei aufzunehmen."
-     },
-     {
-      "frage": "Wer übernimmt den Posten des Stabschefs im Weißen Haus?",
-      "optionen": [
-       "Todd Blanche",
-       "Stephen Miller",
-       "Richard Blumenthal"
-      ],
-      "richtig": 1,
-      "erklaerung": "Stephen Miller übernimmt laut den Berichten den Posten des Stabschefs im Weißen Haus."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Nach den Wahlen in den Vereinigten Staaten gibt es Streit in der Politik.",
-    "absaetze": [
-     "Die Demokraten haben bei der Wahl die Mehrheit im Kongress gewonnen.",
-     "US-Präsident Donald Trump bezweifelt das Ergebnis dieser Wahl nun.",
-     "Er hat das Justizministerium angewiesen, gegen demokratische Politiker zu ermitteln.",
-     "Die Demokraten hatten zuvor eigene Untersuchungen gegen die Regierung angekündigt.",
-     "Stephen Miller wird neuer Stabschef im Weißen Haus."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "US-Präsident Donald Trump zweifelt das Ergebnis der Zwischenwahlen an.",
-     "Er weist das Justizministerium an, gegen demokratische Politiker zu ermitteln.",
-     "Die Demokraten haben bei der Wahl die Mehrheit im Kongress gewonnen."
-    ],
-    "lang": [
-     "Nach den Zwischenwahlen in den Vereinigten Staaten schürt Präsident Donald Trump Zweifel am Ergebnis.",
-     "Das teilte der US-Präsident über seine Online-Plattform mit.",
-     "Er wies das Justizministerium an, Ermittlungen gegen Politiker der Demokratischen Partei einzuleiten.",
-     "Die Demokraten hatten zuvor angekündigt, die Regierung und den Präsidenten zu untersuchen.",
-     "Bei der Wahl haben die Demokraten die Mehrheit im Kongress gewonnen.",
-     "Nach Angaben von Medien legte Trump selbst keine Belege für ein falsches Wahlergebnis vor.",
-     "Stephen Miller übernimmt zudem den Posten des Stabschefs im Weißen Haus.",
-     "Die Demokraten planen ab Januar formelle Untersuchungen durch parlamentarische Ausschüsse.",
-     "Das genaue Ergebnis im Senatsrennen in Alaska bleibt vorerst weiter abzuwarten."
-    ],
-    "einfach": [
-     "In den Vereinigten Staaten gab es eine wichtige Wahl.",
-     "Die Demokraten haben dabei die Mehrheit im Parlament gewonnen.",
-     "Präsident Donald Trump ist mit dem Ergebnis nicht zufrieden.",
-     "Er hat das Ministerium für Justiz angewiesen, gegen Demokraten zu ermitteln.",
-     "Die Demokraten wollten nämlich die Regierung untersuchen."
-    ]
-   },
-   "kurz": [
-    "US-Präsident Trump zweifelt am Ergebnis der Zwischenwahlen und weist das Justizministerium an, gegen Demokraten zu ermitteln.",
-    "Die Demokraten haben bei der Kongresswahl die Mehrheit gewonnen und Untersuchungen gegen Trumps Regierung angekündigt.",
-    "Stephen Miller übernimmt den Posten des Stabschefs im Weißen Haus."
-   ],
-   "dossier": {
-    "slug": "usa-zwischenwahlen-2026",
-    "titel": "Politische Folgen der US-Zwischenwahlen"
-   },
-   "bildInfo": {
-    "titel": "Donald Trump official portrait.jpg",
-    "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
-    "urheber": "Shealeah Craighead",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "art": "person",
-    "suchbegriff": "Donald Trump politician",
-    "bildunterschrift": "Das offizielle Porträt von US-Präsident Donald Trump im Weißen Haus.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Donald Trump official portrait.jpg",
-     "beschreibung": "President Donald Trump poses for his official portrait at The White House, in Washington, D.C., on Friday, October 6, 2017. (Official White House Photo by Shealah Craighead)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg",
-     "urheber": "Shealeah Craighead",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "person",
-     "suchbegriff": "Donald Trump politician",
-     "bildunterschrift": "Das offizielle Porträt von US-Präsident Donald Trump im Weißen Haus.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Ilhan Omar, official portrait, 116th Congress.jpg",
-     "beschreibung": "Rep. Ilhan Omar (D-MN05)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg/1280px-Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ilhan_Omar%2C_official_portrait%2C_116th_Congress.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ilhan_Omar,_official_portrait,_116th_Congress.jpg",
-     "urheber": "Kristie Boyd; U.S. House Office of Photoraphy",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "person",
-     "suchbegriff": "Ilhan Omar politician",
-     "bildunterschrift": "Die Abgeordnete Ilhan Omar im offiziellen Porträt.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Washington, D.C., USA",
-    "lat": 38.895,
-    "lon": -77.036
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Nach den Zwischenwahlen in den Vereinigten Staaten schürt Präsident Donald Trump",
-     "d": "2bb3948b3e.mp3",
-     "l": 45.97,
-     "s": [
-      0.25,
-      5.81,
-      9.38,
-      15.79,
-      20.94,
-      24.51,
-      30.05,
-      34.55,
-      40.24
-     ]
-    },
-    {
-     "k": "US-Präsident Donald Trump zweifelt das Ergebnis der Zwischenwahlen an. Er weist ",
-     "d": "27c0106017.mp3",
-     "l": 12.75,
-     "s": [
-      0.25,
-      4.6,
-      9.02
-     ]
-    },
-    {
-     "k": "In den Vereinigten Staaten gab es eine wichtige Wahl. Die Demokraten haben dabei",
-     "d": "16cd46e83f.mp3",
-     "l": 19.82,
-     "s": [
-      0.25,
-      3.46,
-      7.28,
-      11.22,
-      15.94
-     ]
-    },
-    {
-     "k": "Ob Trump eine Klage zur Verhinderung der Bestätigung des Wahlergebnisses in Alas",
-     "d": "1842b27c09.mp3",
-     "l": 9.93,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Kongress? Das Parlament der Vereinigten Staaten besteht ",
-     "d": "2dd958f733.mp3",
-     "l": 8.45,
-     "s": [
-      0.25,
-      2.7
-     ]
-    },
-    {
-     "k": "US-Präsident Donald Trump hat das Justizministerium angewiesen, Untersuchungen g",
-     "d": "fcad1f40c7.mp3",
-     "l": 56.34,
-     "s": [
-      0.25,
-      8.19,
-      14.72,
-      22.57,
-      28.81,
-      35.76,
-      43.18,
-      49.51
-     ]
-    },
-    {
-     "k": "Justizminister Todd Blanche wurde von Trump angewiesen, diese mutmaßlichen Straf",
-     "d": "eb392364c8.mp3",
-     "l": 53.94,
-     "s": [
-      0.25,
-      10.02,
-      17.06,
-      25.92,
-      35.65,
-      41.96,
-      43.71,
-      48.08
-     ]
-    },
-    {
-     "k": "Die Zwischenwahlen in den Vereinigten Staaten fanden im November statt und brach",
-     "d": "719174e7ea.mp3",
-     "l": 50.57,
-     "s": [
-      0.25,
-      6.23,
-      12.66,
-      18.14,
-      26.66,
-      30.78,
-      38.29
-     ]
-    },
-    {
-     "k": "Der Kongress der Vereinigten Staaten setzt sich aus zwei Kammern zusammen: dem R",
-     "d": "dc3666e328.mp3",
-     "l": 27.21,
-     "s": [
-      0.25,
-      6.09,
-      17.38
-     ]
-    },
-    {
-     "k": "US-Präsident Donald Trump bezeichnete das Vorgehen der Demokraten als Erpressung",
-     "d": "86b71bdf9c.mp3",
-     "l": 30.96,
-     "s": [
-      0.25,
-      7.7,
-      15.86,
-      24.26
-     ]
-    },
-    {
-     "k": "Die Demokraten werden im kommenden Januar ihre parlamentarische Mehrheit im Kong",
-     "d": "11b85b79f2.mp3",
-     "l": 22.16,
-     "s": [
-      0.25,
-      7.66,
-      9.05,
-      15.38
      ]
     }
    ]
