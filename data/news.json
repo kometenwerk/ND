@@ -2265,7 +2265,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 12 Grad. Die Vorhersage für morgen, ",
+   "d": "39b5d570d4.mp3",
+   "l": 19.25,
+   "s": [
+    0.25,
+    3.93,
+    10.29,
+    13.34,
+    16.54
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -6097,11 +6109,11 @@
     {
      "k": "In Hamburg und Baden-Württemberg hat es eine schwere Gewalttat mit insgesamt dre",
      "d": "db91073598.mp3",
-     "l": 16.07,
+     "l": 16.02,
      "s": [
       0.25,
-      6.1,
-      10.54
+      6.18,
+      10.76
      ]
     },
     {
