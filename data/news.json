@@ -2255,7 +2255,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 13 Grad. Die Vorhersage für morgen, ",
+   "d": "4df1e26273.mp3",
+   "l": 19.53,
+   "s": [
+    0.25,
+    3.88,
+    10.82,
+    13.98,
+    16.84
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2269,173 +2281,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Mittwoch, 11. No",
-    "d": "568522056d.mp3",
-    "l": 9.92,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Donnerstag, 12. ",
+    "d": "b94c2d7055.mp3",
+    "l": 9.99,
+    "s": [
+     0.25,
+     2.74,
+     6.2
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Donnerst",
+    "d": "86aabd844e.mp3",
+    "l": 10.78,
+    "s": [
+     0.25,
+     2.64,
+     6.91
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Donnerstag, 12. N",
+    "d": "728dfc2acc.mp3",
+    "l": 10.77,
+    "s": [
+     0.25,
+     3.04,
+     6.76
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Donnerstag, 12. Nov",
+    "d": "1ab7ad8a70.mp3",
+    "l": 9.97,
+    "s": [
+     0.25,
+     2.72,
+     6.17
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Donnerstag, 1",
+    "d": "8a250a4641.mp3",
+    "l": 10.27,
     "s": [
      0.25,
      2.62,
-     6.04
+     6.31
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Mittwoch",
-    "d": "8872564cb1.mp3",
-    "l": 10.28,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Donnerst",
+    "d": "7f2d0500c0.mp3",
+    "l": 10.41,
     "s": [
      0.25,
-     2.66,
-     6.42
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Mittwoch, 11. Nov",
-    "d": "35d5d05287.mp3",
-    "l": 10.49,
-    "s": [
-     0.25,
-     2.84,
+     2.57,
      6.48
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Mittwoch, 11. Novem",
-    "d": "e12dfe3617.mp3",
-    "l": 9.81,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Donnersta",
+    "d": "954d17365b.mp3",
+    "l": 10.62,
     "s": [
      0.25,
-     2.63,
-     5.82
+     2.66,
+     6.5
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Mittwoch, 11.",
-    "d": "a0e6ca882a.mp3",
-    "l": 9.34,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Donnerst",
+    "d": "362a2d8ef9.mp3",
+    "l": 10.64,
     "s": [
      0.25,
-     2.59,
-     5.48
+     2.73,
+     6.83
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Mittwoch",
-    "d": "cc10cf966e.mp3",
-    "l": 10.14,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Donne",
+    "d": "f372991a14.mp3",
+    "l": 10.92,
     "s": [
      0.25,
-     2.72,
-     6.39
+     2.78,
+     6.98
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Mittwoch,",
-    "d": "552544b1cd.mp3",
-    "l": 10.42,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Donne",
+    "d": "64523f2572.mp3",
+    "l": 10.97,
     "s": [
      0.25,
-     2.81,
-     6.52
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Mittwoch",
-    "d": "f5c619cd9f.mp3",
-    "l": 10.05,
-    "s": [
-     0.25,
-     2.71,
-     6.26
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Mittw",
-    "d": "97746232ea.mp3",
-    "l": 10.8,
-    "s": [
-     0.25,
-     2.9,
-     6.65
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Mittw",
-    "d": "a9a1a517d2.mp3",
-    "l": 10.35,
-    "s": [
-     0.25,
-     2.67,
-     6.52
+     2.79,
+     6.98
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "713e19ecf8.mp3",
-    "l": 10.46,
+    "d": "9a42b32952.mp3",
+    "l": 10.83,
     "s": [
      0.25,
-     2.69,
-     6.57
+     2.7,
+     6.84
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Mittwoch, 11. Novembe",
-    "d": "6c109902ed.mp3",
-    "l": 9.39,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Donnerstag, 12. Novem",
+    "d": "3fa771f1f8.mp3",
+    "l": 10.05,
     "s": [
      0.25,
-     2.59,
-     5.37
+     2.85,
+     6.14
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Mittwoch, 11. November. Es m",
-    "d": "e8926180d5.mp3",
-    "l": 9.2,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Donnerstag, 12. November. Es",
+    "d": "76da4906cf.mp3",
+    "l": 9.92,
     "s": [
      0.25,
-     2.59,
-     5.33
+     2.66,
+     5.71
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Mittwoch, 11. November",
-    "d": "7d5cd7a1a9.mp3",
-    "l": 9.6,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Donnerstag, 12. Novemb",
+    "d": "a4c284ae01.mp3",
+    "l": 9.81,
     "s": [
      0.25,
-     2.8,
-     5.8
+     2.77,
+     6.0
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Mittwoch, 11. No",
-    "d": "83798e76a3.mp3",
-    "l": 9.85,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Donnerstag, 12. ",
+    "d": "789cae5aae.mp3",
+    "l": 11.12,
     "s": [
      0.25,
-     2.62,
-     6.06
+     2.87,
+     6.97
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Mittwoch, 11. November. Es ",
-    "d": "5975590b23.mp3",
-    "l": 9.36,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Donnerstag, 12. November. E",
+    "d": "7cfb961720.mp3",
+    "l": 9.79,
     "s": [
      0.25,
-     2.59,
-     5.44
+     2.63,
+     5.98
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Mittwoch, 11. November. Es",
-    "d": "a914898544.mp3",
-    "l": 9.03,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Donnerstag, 12. November. ",
+    "d": "87f8b9226a.mp3",
+    "l": 9.86,
     "s": [
      0.25,
-     2.6,
-     5.26
+     2.56,
+     5.84
     ]
    },
    {
@@ -2934,7 +2946,144 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Beim US-amerikanischen Chipkonzern Nvidia berät der Verwaltungsrat über die mögl",
+     "d": "0d7b205ce5.mp3",
+     "l": 58.65,
+     "s": [
+      0.25,
+      7.88,
+      12.69,
+      17.85,
+      23.68,
+      28.93,
+      35.94,
+      43.59,
+      49.14,
+      53.64
+     ]
+    },
+    {
+     "k": "Der Chipkonzern Nvidia steht vor einer grossen Krise. Der Vorstandschef Jensen H",
+     "d": "7dd058a135.mp3",
+     "l": 15.5,
+     "s": [
+      0.25,
+      3.51,
+      7.84,
+      11.45
+     ]
+    },
+    {
+     "k": "Beim grossen Chipkonzern Nvidia gibt es eine schwere Krise. Der Chef Jensen Huan",
+     "d": "b699f469a4.mp3",
+     "l": 24.13,
+     "s": [
+      0.25,
+      4.27,
+      7.94,
+      11.8,
+      16.59,
+      20.5
+     ]
+    },
+    {
+     "k": "Ob der Verwaltungsrat Jensen Huang tatsächlich absetzen wird, ist noch unklar.",
+     "d": "df68d83551.mp3",
+     "l": 5.14,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Verwaltungsrat? Ein Aufsichtsgremium in Unternehmen, das",
+     "d": "e2a9240cc1.mp3",
+     "l": 10.82,
+     "s": [
+      0.25,
+      2.92
+     ]
+    },
+    {
+     "k": "Beim US-amerikanischen Chipkonzern Nvidia steht der Vorstandsvorsitzende Jensen ",
+     "d": "7a0794fb66.mp3",
+     "l": 48.03,
+     "s": [
+      0.25,
+      7.9,
+      12.87,
+      17.73,
+      22.9,
+      29.02,
+      34.1,
+      41.08
+     ]
+    },
+    {
+     "k": "Neben der Beziehung zu der mutmaßlichen chinesischen Spionin soll Huang eine wei",
+     "d": "618b6ad4e2.mp3",
+     "l": 49.79,
+     "s": [
+      0.25,
+      6.24,
+      14.32,
+      22.41,
+      26.46,
+      31.97,
+      37.85,
+      45.35
+     ]
+    },
+    {
+     "k": "Die Vorwürfe berühren das Verhältnis zwischen den Vereinigten Staaten und der Vo",
+     "d": "fcf872b3da.mp3",
+     "l": 67.17,
+     "s": [
+      0.25,
+      5.99,
+      12.93,
+      22.24,
+      31.96,
+      41.56,
+      51.21,
+      58.09
+     ]
+    },
+    {
+     "k": "Ein Verwaltungsrat ist ein Aufsichtsgremium in Unternehmen, das die Geschäftsfüh",
+     "d": "6c5bcf0f26.mp3",
+     "l": 20.92,
+     "s": [
+      0.25,
+      7.93,
+      13.53
+     ]
+    },
+    {
+     "k": "Armina Rosenberg, Portfoliomanagerin und Mitgründerin der beteiligten Gesellscha",
+     "d": "ba53b464fe.mp3",
+     "l": 41.35,
+     "s": [
+      0.25,
+      12.49,
+      19.84,
+      28.53
+     ]
+    },
+    {
+     "k": "Der Verwaltungsrat plant Entscheidungen über die Zukunft des Vorstandschefs. Am ",
+     "d": "6b2506033f.mp3",
+     "l": 29.08,
+     "s": [
+      0.25,
+      4.56,
+      13.99,
+      21.09
+     ]
+    }
+   ]
   },
   {
    "id": "kriegsdienstverweigerung-deutschland-anstieg",
@@ -5950,11 +6099,11 @@
     {
      "k": "In Hamburg und Baden-Württemberg hat es eine schwere Gewalttat mit insgesamt dre",
      "d": "db91073598.mp3",
-     "l": 16.06,
+     "l": 16.07,
      "s": [
       0.25,
-      5.96,
-      10.39
+      6.1,
+      10.54
      ]
     },
     {

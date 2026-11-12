@@ -1,6 +1,16 @@
 {
- "stand": "2026-11-11T21:53:39.761Z",
+ "stand": "2026-11-12T10:57:04.148Z",
  "folgen": [
+  {
+   "id": "hauptausgabe-2026-11-12",
+   "art": "nachrichten",
+   "titel": "Hauptausgabe vom 2026-11-12",
+   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia · Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet",
+   "zeit": "2026-11-12T10:57:04.148Z",
+   "d": "folge-hauptausgabe-2026-11-12.mp3",
+   "l": 310.82,
+   "b": 1865324
+  },
   {
    "id": "wissen-wie-entsteht-eigentlich-ein-geruecht",
    "art": "wissen",
@@ -12,14 +22,14 @@
    "b": 256700
   },
   {
-   "id": "hauptausgabe-2026-11-11",
-   "art": "nachrichten",
-   "titel": "Hauptausgabe vom 2026-11-11",
-   "text": "Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Ermittlungen zu Nvidia-Chef Jensen Huang und Kontakte nach China · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet",
+   "id": "doku-die-faszinierende-welt-der-pilze",
+   "art": "doku",
+   "titel": "Die faszinierende Welt der Pilze",
+   "text": "Eine Entdeckungsreise durch das verborgene Leben der Pilze in der Natur.",
    "zeit": "2026-11-11T06:03:32.311Z",
-   "d": "folge-hauptausgabe-2026-11-11.mp3",
-   "l": 505.4,
-   "b": 3032876
+   "d": "folge-doku-die-faszinierende-welt-der-pilze.mp3",
+   "l": 1308.23,
+   "b": 7849820
   },
   {
    "id": "wissen-wie-funktioniert-eigentlich-das-raetsel-der-pantomime",
@@ -50,16 +60,6 @@
    "d": "24cdd1c332.mp3",
    "l": 26.38,
    "b": 158780
-  },
-  {
-   "id": "wissen-was-die-temperatur-im-alltag-und-universum-bestimmt",
-   "art": "wissen",
-   "titel": "Was die Temperatur im Alltag und Universum bestimmt",
-   "text": "Die Temperatur ist eine physikalische Zustandsgröße aus der Thermodynamik. Sie beschreibt, wie warm oder kalt ein Körper ist.",
-   "zeit": "2026-11-07T20:21:10.777Z",
-   "d": "5d2e0277d3.mp3",
-   "l": 35.3,
-   "b": 212204
   }
  ]
 }
