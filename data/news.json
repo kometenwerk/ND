@@ -1,7 +1,6 @@
 {
- "stand": "2026-11-13T07:52:17.962Z",
+ "stand": "2026-11-13T16:14:27.494Z",
  "gepusht": [
-  "starlink-station-polen-festnahmen",
   "nord-stream-prozess-beginn",
   "berliner-sondierungsgespraeche-unterbrochen",
   "sachsen-anhalt-ukraine-hilfen",
@@ -80,21 +79,22 @@
   "kriegsdienstverweigerung-deutschland-anstieg",
   "amtsenthebungsverfahren-hegseth-gestoppt",
   "ukraine-gespraeche-abu-dhabi",
-  "gewalttat-hamburg-eningen"
+  "gewalttat-hamburg-eningen",
+  "mercedes-investitionsstopp- deutschland"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "merzd-nachfolge-bundespraesident-frau",
-  "schuesse-krakau",
   "spionage-verdacht-nvidia-huang",
   "kriegsdienstverweigerung-deutschland-anstieg",
   "amtsenthebungsverfahren-hegseth-gestoppt",
   "ukraine-gespraeche-abu-dhabi",
-  "gewalttat-hamburg-eningen"
+  "gewalttat-hamburg-eningen",
+  "mercedes-investitionsstopp- deutschland"
  ],
  "wetter": {
-  "stand": "2026-11-13T07:52:17.962Z",
+  "stand": "2026-11-13T16:14:27.494Z",
   "morgenTag": "Samstag",
   "orte": [
    {
@@ -103,38 +103,38 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 5,
-     "code": 2,
-     "gefuehlt": 1,
-     "wind": 16,
-     "windAus": 258,
-     "feuchte": 85,
-     "druck": 1001,
+     "grad": 7,
+     "code": 80,
+     "gefuehlt": 3,
+     "wind": 14,
+     "windAus": 269,
+     "feuchte": 78,
+     "druck": 1008,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
      "code": 80,
-     "max": 9,
+     "max": 8,
      "min": 4,
      "regen": 55,
-     "menge": 0.8,
-     "wind": 21,
-     "windAus": 267,
+     "menge": 1,
+     "wind": 20,
+     "windAus": 261,
      "uv": 1.5,
      "auf": "07:42",
      "unter": "16:25"
     },
     "morgen": {
      "datum": "2026-11-14",
-     "code": 3,
+     "code": 61,
      "max": 8,
      "min": 3,
      "regen": 10,
      "menge": 0,
-     "wind": 13,
-     "windAus": 228,
+     "wind": 14,
+     "windAus": 230,
      "uv": 1.2,
      "auf": "07:44",
      "unter": "16:24"
@@ -143,25 +143,25 @@
      {
       "datum": "2026-11-13",
       "code": 80,
-      "max": 9,
+      "max": 8,
       "min": 4,
       "regen": 55,
-      "menge": 0.8,
-      "wind": 21,
-      "windAus": 267,
+      "menge": 1,
+      "wind": 20,
+      "windAus": 261,
       "uv": 1.5,
       "auf": "07:42",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-14",
-      "code": 3,
+      "code": 61,
       "max": 8,
       "min": 3,
       "regen": 10,
       "menge": 0,
-      "wind": 13,
-      "windAus": 228,
+      "wind": 14,
+      "windAus": 230,
       "uv": 1.2,
       "auf": "07:44",
       "unter": "16:24"
@@ -169,12 +169,12 @@
      {
       "datum": "2026-11-15",
       "code": 61,
-      "max": 10,
+      "max": 8,
       "min": 1,
-      "regen": 30,
-      "menge": 0.9,
-      "wind": 16,
-      "windAus": 157,
+      "regen": 49,
+      "menge": 0.6,
+      "wind": 14,
+      "windAus": 156,
       "uv": 1.4,
       "auf": "07:45",
       "unter": "16:22"
@@ -183,11 +183,11 @@
       "datum": "2026-11-16",
       "code": 61,
       "max": 10,
-      "min": 3,
-      "regen": 33,
-      "menge": 2.5,
-      "wind": 18,
-      "windAus": 225,
+      "min": 4,
+      "regen": 53,
+      "menge": 8.8,
+      "wind": 16,
+      "windAus": 233,
       "uv": 1.1,
       "auf": "07:47",
       "unter": "16:21"
@@ -195,38 +195,38 @@
      {
       "datum": "2026-11-17",
       "code": 80,
-      "max": 10,
-      "min": 1,
-      "regen": 83,
-      "menge": 18.5,
+      "max": 11,
+      "min": 2,
+      "regen": 75,
+      "menge": 7.5,
       "wind": 18,
-      "windAus": 179,
-      "uv": 0.9,
+      "windAus": 202,
+      "uv": 0.1,
       "auf": "07:49",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-18",
-      "code": 61,
-      "max": 9,
-      "min": 4,
-      "regen": 50,
-      "menge": 1.9,
-      "wind": 18,
-      "windAus": 268,
-      "uv": 1.3,
+      "code": 80,
+      "max": 10,
+      "min": 6,
+      "regen": 57,
+      "menge": 8.8,
+      "wind": 23,
+      "windAus": 234,
+      "uv": 1.2,
       "auf": "07:51",
       "unter": "16:18"
      },
      {
       "datum": "2026-11-19",
-      "code": 3,
-      "max": 4,
-      "min": 1,
+      "code": 80,
+      "max": 11,
+      "min": 7,
       "regen": 35,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 351,
+      "menge": 6.6,
+      "wind": 15,
+      "windAus": 218,
       "uv": 1.2,
       "auf": "07:53",
       "unter": "16:17"
@@ -234,148 +234,148 @@
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 5,
+      "zeit": "17:00",
+      "grad": 7,
       "code": 1,
-      "regen": 23
+      "regen": 20
      },
      {
-      "zeit": "09:00",
-      "grad": 5,
+      "zeit": "18:00",
+      "grad": 6,
+      "code": 80,
+      "regen": 8
+     },
+     {
+      "zeit": "19:00",
+      "grad": 6,
       "code": 2,
       "regen": 5
      },
      {
-      "zeit": "10:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 13
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 35
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 55
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 43
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 38
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 80,
-      "regen": 13
-     },
-     {
-      "zeit": "18:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 7,
-      "code": 80,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
       "grad": 6,
-      "code": 3,
-      "regen": 0
+      "code": 2,
+      "regen": 3
      },
      {
       "zeit": "21:00",
-      "grad": 5,
-      "code": 2,
+      "grad": 6,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 5,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 5,
-      "code": 2,
-      "regen": 3
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 5,
-      "code": 2,
+      "code": 61,
       "regen": 3
      },
      {
       "zeit": "01:00",
       "grad": 5,
       "code": 2,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 5,
-      "code": 2,
-      "regen": 0
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "03:00",
       "grad": 5,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 5,
-      "code": 2,
-      "regen": 5
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 5,
-      "code": 3,
-      "regen": 0
+      "code": 1,
+      "regen": 8
      },
      {
       "zeit": "06:00",
       "grad": 5,
-      "code": 2,
-      "regen": 8
+      "code": 1,
+      "regen": 10
      },
      {
       "zeit": "07:00",
-      "grad": 5,
+      "grad": 4,
       "code": 1,
-      "regen": 10
+      "regen": 5
+     },
+     {
+      "zeit": "08:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 5
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -385,15 +385,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 4,
-     "code": 1,
-     "gefuehlt": -1,
-     "wind": 17,
-     "windAus": 268,
-     "feuchte": 84,
-     "druck": 999,
+     "grad": 7,
+     "code": 80,
+     "gefuehlt": 2,
+     "wind": 21,
+     "windAus": 272,
+     "feuchte": 66,
+     "druck": 1004,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
@@ -401,23 +401,23 @@
      "max": 8,
      "min": 3,
      "regen": 3,
-     "menge": 0.5,
-     "wind": 20,
-     "windAus": 267,
+     "menge": 0.1,
+     "wind": 22,
+     "windAus": 268,
      "uv": 1.6,
      "auf": "07:24",
      "unter": "16:16"
     },
     "morgen": {
      "datum": "2026-11-14",
-     "code": 3,
+     "code": 2,
      "max": 9,
      "min": 3,
      "regen": 0,
      "menge": 0,
-     "wind": 15,
+     "wind": 14,
      "windAus": 243,
-     "uv": 1.4,
+     "uv": 1.6,
      "auf": "07:26",
      "unter": "16:14"
     },
@@ -428,163 +428,109 @@
       "max": 8,
       "min": 3,
       "regen": 3,
-      "menge": 0.5,
-      "wind": 20,
-      "windAus": 267,
+      "menge": 0.1,
+      "wind": 22,
+      "windAus": 268,
       "uv": 1.6,
       "auf": "07:24",
       "unter": "16:16"
      },
      {
       "datum": "2026-11-14",
-      "code": 3,
+      "code": 2,
       "max": 9,
       "min": 3,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
+      "wind": 14,
       "windAus": 243,
-      "uv": 1.4,
+      "uv": 1.6,
       "auf": "07:26",
       "unter": "16:14"
      },
      {
       "datum": "2026-11-15",
-      "code": 3,
+      "code": 61,
       "max": 8,
       "min": 1,
-      "regen": 22,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 157,
+      "regen": 20,
+      "menge": 1,
+      "wind": 14,
+      "windAus": 160,
       "uv": 1.6,
       "auf": "07:28",
       "unter": "16:13"
      },
      {
       "datum": "2026-11-16",
-      "code": 61,
-      "max": 11,
-      "min": 4,
-      "regen": 48,
-      "menge": 2.6,
-      "wind": 13,
-      "windAus": 205,
-      "uv": 1.4,
+      "code": 80,
+      "max": 12,
+      "min": 5,
+      "regen": 53,
+      "menge": 2.2,
+      "wind": 20,
+      "windAus": 215,
+      "uv": 1.3,
       "auf": "07:29",
       "unter": "16:11"
      },
      {
       "datum": "2026-11-17",
-      "code": 63,
-      "max": 11,
-      "min": 1,
-      "regen": 63,
-      "menge": 11.7,
-      "wind": 19,
-      "windAus": 186,
-      "uv": 0.8,
+      "code": 61,
+      "max": 10,
+      "min": 2,
+      "regen": 72,
+      "menge": 3.3,
+      "wind": 14,
+      "windAus": 202,
+      "uv": 0.2,
       "auf": "07:31",
       "unter": "16:10"
      },
      {
       "datum": "2026-11-18",
-      "code": 61,
-      "max": 10,
-      "min": 6,
+      "code": 80,
+      "max": 13,
+      "min": 8,
       "regen": 50,
-      "menge": 3.9,
-      "wind": 16,
+      "menge": 5.3,
+      "wind": 22,
       "windAus": 231,
-      "uv": 1.3,
+      "uv": 0.6,
       "auf": "07:33",
       "unter": "16:09"
      },
      {
       "datum": "2026-11-19",
-      "code": 3,
-      "max": 6,
-      "min": 3,
+      "code": 80,
+      "max": 12,
+      "min": 9,
       "regen": 43,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 283,
-      "uv": 1,
+      "menge": 2,
+      "wind": 13,
+      "windAus": 216,
+      "uv": 1.3,
       "auf": "07:34",
       "unter": "16:08"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 3
-     },
-     {
       "zeit": "17:00",
       "grad": 7,
-      "code": 80,
+      "code": 2,
       "regen": 3
      },
      {
       "zeit": "18:00",
       "grad": 7,
-      "code": 3,
+      "code": 80,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 6,
-      "code": 80,
+      "code": 3,
       "regen": 0
      },
      {
@@ -595,68 +541,122 @@
      },
      {
       "zeit": "21:00",
-      "grad": 5,
+      "grad": 6,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 5,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 5,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 4,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 4,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 4,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 3,
+      "grad": 4,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 3,
+      "grad": 4,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -667,22 +667,22 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 3,
-     "code": 1,
-     "gefuehlt": -1,
+     "grad": 6,
+     "code": 2,
+     "gefuehlt": 2,
      "wind": 12,
-     "windAus": 251,
-     "feuchte": 89,
-     "druck": 993,
+     "windAus": 263,
+     "feuchte": 73,
+     "druck": 998,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
-     "code": 2,
+     "code": 3,
      "max": 8,
      "min": 2,
-     "regen": 5,
+     "regen": 3,
      "menge": 0,
      "wind": 17,
      "windAus": 255,
@@ -697,8 +697,8 @@
      "min": 1,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 217,
+     "wind": 9,
+     "windAus": 216,
      "uv": 1.7,
      "auf": "07:26",
      "unter": "16:23"
@@ -706,10 +706,10 @@
     "tage": [
      {
       "datum": "2026-11-13",
-      "code": 2,
+      "code": 3,
       "max": 8,
       "min": 2,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
       "wind": 17,
       "windAus": 255,
@@ -724,8 +724,8 @@
       "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 217,
+      "wind": 9,
+      "windAus": 216,
       "uv": 1.7,
       "auf": "07:26",
       "unter": "16:23"
@@ -733,12 +733,12 @@
      {
       "datum": "2026-11-15",
       "code": 3,
-      "max": 10,
-      "min": 0,
-      "regen": 8,
+      "max": 8,
+      "min": 1,
+      "regen": 11,
       "menge": 0,
       "wind": 13,
-      "windAus": 169,
+      "windAus": 170,
       "uv": 1.7,
       "auf": "07:27",
       "unter": "16:21"
@@ -746,25 +746,25 @@
      {
       "datum": "2026-11-16",
       "code": 80,
-      "max": 12,
-      "min": 3,
-      "regen": 36,
-      "menge": 1.3,
-      "wind": 15,
-      "windAus": 216,
-      "uv": 1.6,
+      "max": 11,
+      "min": 4,
+      "regen": 30,
+      "menge": 3.1,
+      "wind": 18,
+      "windAus": 222,
+      "uv": 1,
       "auf": "07:29",
       "unter": "16:20"
      },
      {
       "datum": "2026-11-17",
       "code": 61,
-      "max": 13,
-      "min": 2,
-      "regen": 62,
-      "menge": 7.8,
-      "wind": 22,
-      "windAus": 197,
+      "max": 12,
+      "min": 1,
+      "regen": 73,
+      "menge": 7.5,
+      "wind": 14,
+      "windAus": 199,
       "uv": 0.3,
       "auf": "07:31",
       "unter": "16:19"
@@ -772,85 +772,31 @@
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 11,
-      "min": 5,
+      "max": 13,
+      "min": 9,
       "regen": 38,
-      "menge": 9,
+      "menge": 8.1,
       "wind": 17,
-      "windAus": 230,
-      "uv": 1.4,
+      "windAus": 229,
+      "uv": 0.9,
       "auf": "07:32",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
-      "max": 6,
-      "min": 4,
+      "code": 80,
+      "max": 13,
+      "min": 9,
       "regen": 43,
-      "menge": 0.6,
-      "wind": 8,
-      "windAus": 41,
-      "uv": 0.3,
+      "menge": 1.3,
+      "wind": 16,
+      "windAus": 217,
+      "uv": 1.3,
       "auf": "07:34",
       "unter": "16:16"
      }
     ],
     "stunden": [
-     {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "17:00",
       "grad": 6,
@@ -860,37 +806,37 @@
      {
       "zeit": "18:00",
       "grad": 5,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 5,
-      "code": 1,
-      "regen": 5
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 3
+      "grad": 5,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 4,
-      "code": 0,
-      "regen": 0
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 0,
+      "grad": 4,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 3,
-      "code": 0,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
@@ -907,26 +853,26 @@
      },
      {
       "zeit": "02:00",
-      "grad": 2,
+      "grad": 3,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
-      "code": 1,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 2,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 2,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
@@ -937,7 +883,61 @@
      },
      {
       "zeit": "07:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
       "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
       "code": 0,
       "regen": 0
      }
@@ -949,25 +949,25 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 4,
-     "code": 0,
-     "gefuehlt": 1,
-     "wind": 3,
-     "windAus": 299,
-     "feuchte": 82,
-     "druck": 1004,
+     "grad": 8,
+     "code": 1,
+     "gefuehlt": 5,
+     "wind": 10,
+     "windAus": 274,
+     "feuchte": 77,
+     "druck": 1008,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
-     "code": 51,
+     "code": 3,
      "max": 9,
      "min": 3,
-     "regen": 8,
-     "menge": 0.1,
-     "wind": 14,
-     "windAus": 283,
+     "regen": 4,
+     "menge": 0,
+     "wind": 13,
+     "windAus": 286,
      "uv": 1.9,
      "auf": "07:44",
      "unter": "16:47"
@@ -977,10 +977,10 @@
      "code": 3,
      "max": 9,
      "min": 3,
-     "regen": 0,
+     "regen": 1,
      "menge": 0,
-     "wind": 16,
-     "windAus": 134,
+     "wind": 15,
+     "windAus": 127,
      "uv": 1.9,
      "auf": "07:46",
      "unter": "16:46"
@@ -988,13 +988,13 @@
     "tage": [
      {
       "datum": "2026-11-13",
-      "code": 51,
+      "code": 3,
       "max": 9,
       "min": 3,
-      "regen": 8,
-      "menge": 0.1,
-      "wind": 14,
-      "windAus": 283,
+      "regen": 4,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 286,
       "uv": 1.9,
       "auf": "07:44",
       "unter": "16:47"
@@ -1004,10 +1004,10 @@
       "code": 3,
       "max": 9,
       "min": 3,
-      "regen": 0,
+      "regen": 1,
       "menge": 0,
-      "wind": 16,
-      "windAus": 134,
+      "wind": 15,
+      "windAus": 127,
       "uv": 1.9,
       "auf": "07:46",
       "unter": "16:46"
@@ -1015,171 +1015,117 @@
      {
       "datum": "2026-11-15",
       "code": 61,
-      "max": 11,
+      "max": 10,
       "min": 4,
-      "regen": 76,
-      "menge": 4,
-      "wind": 24,
-      "windAus": 157,
-      "uv": 1.7,
+      "regen": 92,
+      "menge": 4.4,
+      "wind": 21,
+      "windAus": 149,
+      "uv": 1,
       "auf": "07:48",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-16",
       "code": 51,
-      "max": 11,
+      "max": 10,
       "min": 5,
-      "regen": 69,
-      "menge": 0.4,
-      "wind": 22,
-      "windAus": 241,
-      "uv": 1.1,
+      "regen": 81,
+      "menge": 1.4,
+      "wind": 23,
+      "windAus": 237,
+      "uv": 1.4,
       "auf": "07:49",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-17",
-      "code": 80,
-      "max": 14,
-      "min": 4,
-      "regen": 68,
-      "menge": 20,
-      "wind": 30,
-      "windAus": 212,
-      "uv": 0.8,
+      "code": 81,
+      "max": 15,
+      "min": 6,
+      "regen": 86,
+      "menge": 23.3,
+      "wind": 34,
+      "windAus": 216,
+      "uv": 1.4,
       "auf": "07:51",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-18",
-      "code": 51,
-      "max": 7,
-      "min": 3,
-      "regen": 55,
-      "menge": 2,
-      "wind": 10,
-      "windAus": 269,
+      "code": 80,
+      "max": 10,
+      "min": 5,
+      "regen": 65,
+      "menge": 16.7,
+      "wind": 21,
+      "windAus": 221,
       "uv": 1.1,
       "auf": "07:53",
       "unter": "16:41"
      },
      {
       "datum": "2026-11-19",
-      "code": 53,
-      "max": 7,
-      "min": 3,
-      "regen": 48,
-      "menge": 11.2,
-      "wind": 9,
-      "windAus": 121,
-      "uv": 0.3,
+      "code": 55,
+      "max": 10,
+      "min": 5,
+      "regen": 59,
+      "menge": 14.6,
+      "wind": 16,
+      "windAus": 184,
+      "uv": 1.5,
       "auf": "07:54",
       "unter": "16:39"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 6
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 8
-     },
-     {
       "zeit": "17:00",
       "grad": 8,
-      "code": 51,
-      "regen": 7
+      "code": 0,
+      "regen": 4
      },
      {
       "zeit": "18:00",
       "grad": 7,
       "code": 3,
-      "regen": 4
+      "regen": 3
      },
      {
       "zeit": "19:00",
-      "grad": 7,
-      "code": 0,
+      "grad": 6,
+      "code": 1,
       "regen": 2
      },
      {
       "zeit": "20:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 1
+      "grad": 6,
+      "code": 0,
+      "regen": 2
      },
      {
       "zeit": "21:00",
       "grad": 6,
-      "code": 1,
-      "regen": 0
+      "code": 0,
+      "regen": 2
      },
      {
       "zeit": "22:00",
       "grad": 6,
-      "code": 0,
-      "regen": 0
+      "code": 3,
+      "regen": 2
      },
      {
       "zeit": "23:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 0,
+      "regen": 1
      },
      {
       "zeit": "00:00",
       "grad": 5,
-      "code": 3,
-      "regen": 0
+      "code": 2,
+      "regen": 1
      },
      {
       "zeit": "01:00",
@@ -1195,7 +1141,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1207,7 +1153,7 @@
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
@@ -1220,6 +1166,60 @@
      {
       "zeit": "07:00",
       "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
       "code": 0,
       "regen": 0
      }
@@ -1231,25 +1231,25 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 2,
-     "code": 1,
-     "gefuehlt": -1,
-     "wind": 6,
-     "windAus": 215,
-     "feuchte": 91,
-     "druck": 999,
+     "grad": 8,
+     "code": 2,
+     "gefuehlt": 5,
+     "wind": 5,
+     "windAus": 274,
+     "feuchte": 59,
+     "druck": 1003,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
      "code": 45,
      "max": 9,
      "min": 1,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
      "wind": 10,
-     "windAus": 239,
+     "windAus": 244,
      "uv": 2,
      "auf": "07:35",
      "unter": "16:43"
@@ -1257,12 +1257,12 @@
     "morgen": {
      "datum": "2026-11-14",
      "code": 45,
-     "max": 8,
-     "min": 0,
+     "max": 9,
+     "min": 1,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 76,
+     "wind": 7,
+     "windAus": 80,
      "uv": 1.9,
      "auf": "07:36",
      "unter": "16:42"
@@ -1273,10 +1273,10 @@
       "code": 45,
       "max": 9,
       "min": 1,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 10,
-      "windAus": 239,
+      "windAus": 244,
       "uv": 2,
       "auf": "07:35",
       "unter": "16:43"
@@ -1284,12 +1284,12 @@
      {
       "datum": "2026-11-14",
       "code": 45,
-      "max": 8,
-      "min": 0,
+      "max": 9,
+      "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 76,
+      "wind": 7,
+      "windAus": 80,
       "uv": 1.9,
       "auf": "07:36",
       "unter": "16:42"
@@ -1298,175 +1298,121 @@
       "datum": "2026-11-15",
       "code": 61,
       "max": 11,
-      "min": 1,
-      "regen": 55,
-      "menge": 3.1,
-      "wind": 8,
-      "windAus": 151,
-      "uv": 1.1,
+      "min": 2,
+      "regen": 70,
+      "menge": 2.7,
+      "wind": 10,
+      "windAus": 167,
+      "uv": 0.8,
       "auf": "07:38",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-16",
       "code": 80,
-      "max": 11,
+      "max": 12,
       "min": 4,
-      "regen": 58,
-      "menge": 4.1,
-      "wind": 13,
-      "windAus": 222,
-      "uv": 1,
+      "regen": 63,
+      "menge": 5.2,
+      "wind": 20,
+      "windAus": 228,
+      "uv": 1.4,
       "auf": "07:39",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-17",
-      "code": 80,
-      "max": 14,
-      "min": 4,
-      "regen": 93,
-      "menge": 13.2,
-      "wind": 23,
+      "code": 63,
+      "max": 15,
+      "min": 3,
+      "regen": 91,
+      "menge": 18.1,
+      "wind": 18,
       "windAus": 204,
-      "uv": 0.3,
+      "uv": 0.5,
       "auf": "07:41",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-18",
-      "code": 80,
-      "max": 10,
-      "min": 7,
+      "code": 61,
+      "max": 13,
+      "min": 11,
       "regen": 83,
-      "menge": 14.6,
-      "wind": 21,
-      "windAus": 231,
-      "uv": 0.7,
+      "menge": 5.6,
+      "wind": 18,
+      "windAus": 221,
+      "uv": 0.4,
       "auf": "07:43",
       "unter": "16:37"
      },
      {
       "datum": "2026-11-19",
-      "code": 80,
-      "max": 10,
-      "min": 6,
+      "code": 95,
+      "max": 14,
+      "min": 10,
       "regen": 67,
-      "menge": 13.9,
-      "wind": 11,
-      "windAus": 201,
-      "uv": 0.2,
+      "menge": 7.3,
+      "wind": 15,
+      "windAus": 215,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:36"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
       "grad": 8,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "18:00",
       "grad": 7,
-      "code": 1,
-      "regen": 0
+      "code": 2,
+      "regen": 3
      },
      {
       "zeit": "19:00",
-      "grad": 6,
-      "code": 0,
+      "grad": 7,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 5,
-      "code": 1,
+      "grad": 6,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 4,
-      "code": 1,
+      "grad": 5,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 3,
-      "code": 0,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 4,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1477,19 +1423,19 @@
      },
      {
       "zeit": "03:00",
-      "grad": 2,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 1,
-      "code": 45,
+      "grad": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 1,
+      "grad": 2,
       "code": 45,
       "regen": 0
      },
@@ -1504,6 +1450,60 @@
       "grad": 1,
       "code": 45,
       "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 2,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
      }
     ]
    },
@@ -1513,15 +1513,15 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 2,
-     "code": 2,
-     "gefuehlt": -1,
-     "wind": 5,
-     "windAus": 189,
-     "feuchte": 89,
-     "druck": 981,
+     "grad": 7,
+     "code": 0,
+     "gefuehlt": 4,
+     "wind": 4,
+     "windAus": 308,
+     "feuchte": 65,
+     "druck": 986,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
@@ -1531,20 +1531,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 290,
-     "uv": 2,
+     "windAus": 286,
+     "uv": 2.1,
      "auf": "07:28",
      "unter": "16:45"
     },
     "morgen": {
      "datum": "2026-11-14",
      "code": 1,
-     "max": 8,
-     "min": 0,
+     "max": 9,
+     "min": 1,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 148,
+     "wind": 11,
+     "windAus": 146,
      "uv": 2,
      "auf": "07:30",
      "unter": "16:44"
@@ -1558,20 +1558,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 290,
-      "uv": 2,
+      "windAus": 286,
+      "uv": 2.1,
       "auf": "07:28",
       "unter": "16:45"
      },
      {
       "datum": "2026-11-14",
       "code": 1,
-      "max": 8,
-      "min": 0,
+      "max": 9,
+      "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 148,
+      "wind": 11,
+      "windAus": 146,
       "uv": 2,
       "auf": "07:30",
       "unter": "16:44"
@@ -1581,126 +1581,72 @@
       "code": 61,
       "max": 13,
       "min": 3,
-      "regen": 30,
-      "menge": 0.9,
-      "wind": 10,
-      "windAus": 184,
-      "uv": 1.6,
+      "regen": 37,
+      "menge": 0.5,
+      "wind": 15,
+      "windAus": 194,
+      "uv": 1.4,
       "auf": "07:31",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-16",
-      "code": 80,
+      "code": 61,
       "max": 11,
-      "min": 7,
-      "regen": 51,
-      "menge": 3.1,
-      "wind": 16,
-      "windAus": 217,
-      "uv": 1,
+      "min": 4,
+      "regen": 63,
+      "menge": 1.7,
+      "wind": 22,
+      "windAus": 236,
+      "uv": 1.3,
       "auf": "07:33",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
-      "max": 15,
-      "min": 8,
-      "regen": 83,
-      "menge": 5.1,
+      "code": 63,
+      "max": 16,
+      "min": 4,
+      "regen": 91,
+      "menge": 9.8,
       "wind": 27,
-      "windAus": 210,
-      "uv": 0.5,
+      "windAus": 212,
+      "uv": 0.3,
       "auf": "07:34",
       "unter": "16:40"
      },
      {
       "datum": "2026-11-18",
-      "code": 80,
-      "max": 11,
-      "min": 9,
+      "code": 63,
+      "max": 14,
+      "min": 11,
       "regen": 80,
-      "menge": 2.6,
-      "wind": 24,
-      "windAus": 234,
-      "uv": 0.3,
+      "menge": 2.4,
+      "wind": 26,
+      "windAus": 236,
+      "uv": 0.7,
       "auf": "07:36",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 12,
-      "min": 8,
+      "max": 13,
+      "min": 12,
       "regen": 55,
-      "menge": 8.2,
-      "wind": 18,
-      "windAus": 225,
-      "uv": 0.7,
+      "menge": 2.7,
+      "wind": 19,
+      "windAus": 228,
+      "uv": 1.4,
       "auf": "07:37",
       "unter": "16:38"
      }
     ],
     "stunden": [
      {
-      "zeit": "08:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "17:00",
       "grad": 7,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1718,48 +1664,48 @@
      {
       "zeit": "20:00",
       "grad": 4,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 3,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 2,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 2,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 2,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 2,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
@@ -1772,19 +1718,73 @@
      {
       "zeit": "05:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1795,15 +1795,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 2,
-     "code": 3,
-     "gefuehlt": -1,
-     "wind": 10,
-     "windAus": 296,
-     "feuchte": 85,
-     "druck": 948,
+     "grad": 5,
+     "code": 2,
+     "gefuehlt": 2,
+     "wind": 6,
+     "windAus": 283,
+     "feuchte": 63,
+     "druck": 953,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-13",
@@ -1813,15 +1813,15 @@
      "regen": 100,
      "menge": 2,
      "wind": 14,
-     "windAus": 299,
-     "uv": 1.9,
+     "windAus": 301,
+     "uv": 2.1,
      "auf": "07:17",
      "unter": "16:38"
     },
     "morgen": {
      "datum": "2026-11-14",
      "code": 45,
-     "max": 7,
+     "max": 6,
      "min": 0,
      "regen": 0,
      "menge": 0,
@@ -1840,15 +1840,15 @@
       "regen": 100,
       "menge": 2,
       "wind": 14,
-      "windAus": 299,
-      "uv": 1.9,
+      "windAus": 301,
+      "uv": 2.1,
       "auf": "07:17",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-14",
       "code": 45,
-      "max": 7,
+      "max": 6,
       "min": 0,
       "regen": 0,
       "menge": 0,
@@ -1866,119 +1866,65 @@
       "regen": 0,
       "menge": 0,
       "wind": 6,
-      "windAus": 142,
-      "uv": 2,
+      "windAus": 148,
+      "uv": 1.9,
       "auf": "07:20",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-16",
       "code": 61,
-      "max": 9,
+      "max": 10,
       "min": 4,
-      "regen": 63,
-      "menge": 2.8,
-      "wind": 16,
+      "regen": 61,
+      "menge": 1.6,
+      "wind": 23,
       "windAus": 244,
-      "uv": 1.3,
+      "uv": 1.6,
       "auf": "07:21",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
-      "max": 11,
-      "min": 5,
-      "regen": 73,
-      "menge": 0.3,
-      "wind": 14,
-      "windAus": 188,
-      "uv": 1.4,
+      "code": 80,
+      "max": 12,
+      "min": 6,
+      "regen": 67,
+      "menge": 7.9,
+      "wind": 13,
+      "windAus": 210,
+      "uv": 1,
       "auf": "07:23",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 9,
-      "min": 6,
+      "max": 12,
+      "min": 10,
       "regen": 65,
-      "menge": 5.5,
-      "wind": 29,
-      "windAus": 246,
-      "uv": 1,
+      "menge": 3,
+      "wind": 27,
+      "windAus": 242,
+      "uv": 1.2,
       "auf": "07:24",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
-      "max": 9,
-      "min": 6,
+      "code": 3,
+      "max": 12,
+      "min": 8,
       "regen": 65,
-      "menge": 4.4,
-      "wind": 26,
-      "windAus": 240,
-      "uv": 1,
+      "menge": 0.6,
+      "wind": 21,
+      "windAus": 236,
+      "uv": 0.6,
       "auf": "07:26",
       "unter": "16:31"
      }
     ],
     "stunden": [
-     {
-      "zeit": "08:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 5,
-      "code": 2,
-      "regen": 0
-     },
      {
       "zeit": "17:00",
       "grad": 5,
@@ -1987,20 +1933,20 @@
      },
      {
       "zeit": "18:00",
-      "grad": 4,
+      "grad": 5,
       "code": 2,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "19:00",
       "grad": 4,
       "code": 2,
-      "regen": 0
+      "regen": 8
      },
      {
       "zeit": "20:00",
       "grad": 4,
-      "code": 2,
+      "code": 1,
       "regen": 5
      },
      {
@@ -2011,50 +1957,50 @@
      },
      {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
+      "grad": 2,
+      "code": 1,
+      "regen": 3
      },
      {
       "zeit": "23:00",
-      "grad": 2,
+      "grad": 1,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 1,
-      "code": 1,
+      "grad": 0,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 0,
-      "code": 45,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 0,
-      "code": 45,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": 0,
-      "code": 45,
+      "code": 0,
       "regen": 0
      },
      {
@@ -2068,14 +2014,68 @@
       "grad": 0,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 6,
+      "code": 1,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
    "Heute liegen die Höchstwerte zwischen 6 und 9 Grad.",
-   "Die Vorhersage für morgen, Samstag: im Norden und Osten bewölkt, im Süden und Westen neblig.",
-   "Die Temperaturen erreichen dann 7 bis 9 Grad.",
+   "Die Vorhersage für morgen, Samstag: im Norden und Osten teils bewölkt, im Süden und Westen neblig.",
+   "Die Temperaturen erreichen dann 6 bis 9 Grad.",
    "Am wärmsten wird es in Berlin mit 9 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2095,13 +2095,13 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 8,
-       "regen": 0.6
+       "regen": 0.2
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 7,
-       "regen": 0.1
+       "grad": 8,
+       "regen": -0.1
       }
      ]
     },
@@ -2169,8 +2169,8 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": 0
+       "grad": 7,
+       "regen": -0.1
       }
      ]
     },
@@ -2180,7 +2180,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2203,13 +2203,13 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
+       "grad": 9,
        "regen": 0
       },
       {
@@ -2226,7 +2226,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 7,
+       "grad": 6,
        "regen": 0
       },
       {
@@ -2244,10 +2244,10 @@
      ]
     }
    ],
-   "spanneGrad": 1,
+   "spanneGrad": 2,
    "uneinigRegen": null,
    "saetze": [
-    "Die Wettermodelle sind sich für morgen weitgehend einig: hoechstens ein Grad Unterschied."
+    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 7 und 9 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2255,19 +2255,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
-   "d": "6e3c1704f7.mp3",
-   "l": 18.58,
-   "s": [
-    0.25,
-    3.54,
-    9.77,
-    12.91,
-    15.79
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2473,245 +2461,176 @@
   {
    "id": "spionage-verdacht-nvidia-huang",
    "rubrik": "Wirtschaft",
-   "zeit": "2026-11-12T09:38:52.000Z",
-   "aktualisiert": "aktualisiert um 11:57 Uhr",
-   "titel": "Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia",
-   "vorspann": "Der Verwaltungsrat des US-amerikanischen Halbleiterkonzerns Nvidia berät über die mögliche Ablösung des Vorstandsvorsitzenden Jensen Huang. Hintergrund sind Medienberichte über zwei außereheliche Affären des Managers, darunter eine mit einer mutmaßlichen chinesischen Spionin.",
+   "zeit": "2026-11-13T16:08:16.000Z",
+   "aktualisiert": "aktualisiert um 17:14 Uhr",
+   "titel": "US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
+   "vorspann": "Nach Berichten über mögliche Chip-Lieferungen nach China und eine Spionageaffäre müssen der ehemalige Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor einem Senatsausschuss aussagen. Der Vorsitzende des Bankenausschusses forderte sie auf, im Dezember zu erscheinen.",
    "eil": false,
    "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Der Verwaltungsrat des Chipkonzerns Nvidia berät über die mögliche Absetzung von Vorstandschef Jensen Huang nach Berichten über zwei außereheliche Affären.",
-    "Eine der Beziehungen soll zu einer mutmaßlichen chinesischen Spionin geführt haben, was Untersuchungen der US-Behörden und Fragen zur nationalen Sicherheit auslöst.",
-    "Der Aktienkurs des Unternehmens gab infolge der Nachrichten deutlich nach und fiel auf den niedrigsten Stand seit Mitte 2025.",
-    "Führende US-Politiker fordern die Sicherung von Regierungsdokumenten zu Exportkontrollen und den Geschäftsbeziehungen nach China."
+    "Der ehemalige Nvidia-Chef Jensen Huang ist nach Berichten über eine mutmaßliche Spionageaffäre und angebliche Chip-Lieferungen an China zurückgetreten.",
+    "Der US-Senat hat Jensen Huang und Handelsminister Howard Lutnick zu einer öffentlichen Anhörung im Dezember vorgeladen.",
+    "Hintergrund der parlamentarischen Untersuchungen sind Bedenken hinsichtlich der nationalen Sicherheit und möglicher Umgehungen von Exportkontrollen.",
+    "Das Unternehmen Nvidia hat Colette Kress zur Interim-Chefin ernannt und eine unabhängige Untersuchung eingeleitet."
    ],
    "einig": [
     [
-     "Der Verwaltungsrat von Nvidia berät über die Zukunft von Jensen Huang nach Berichten über eine Affäre mit einer mutmaßlichen chinesischen Spionin.",
+     "Jensen Huang wurde für Dezember zu einer Anhörung vor den Bankenausschuss des US-Senats geladen.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Zeit",
-      "Süddeutsche Zeitung"
+      "Deutschlandfunk",
+      "BBC"
      ]
     ],
     [
-     "Jensen Huang hat eine außereheliche Affäre in einer Mitteilung an die Mitarbeitenden eingeräumt.",
+     "Handelsminister Howard Lutnick wurde ebenfalls zu der Anhörung im US-Senat geladen.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die New York Times und das Wall Street Journal berichteten über eine weitere Affäre Huangs mit einer ihm unterstellten Managerin.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Spiegel",
-      "Süddeutsche Zeitung"
+      "BBC"
      ]
     ]
    ],
    "unklar": [
-    "Ob der Verwaltungsrat Jensen Huang tatsächlich absetzen wird, ist noch unklar."
+    "Ob die betroffene Frau tatsächlich als Spionin für China tätig war, ist laut Aussage von US-Generalstaatsanwalt Todd Blanche noch nicht abschließend geklärt; China weist dies als Verleumdung zurück (BBC)."
    ],
    "positionen": [
     [
-     "Armina Rosenberg (Portfoliomanagerin Minotaur Capital)",
-     "Die Abberufung des Gründers wäre ein schwerer Schlag und Finanzchefin Kress eine logische Übergangslösung.",
-     "Tagesschau/ARD"
+     "Tim Scott (Senator)",
+     "Äußerte Sorgen um die nationale Sicherheit und forderte eine öffentliche Anhörung von Huang und Lutnick.",
+     "Tagesschau/ARD,BBC"
     ],
     [
-     "Elon Musk (Tech-Milliardär)",
-     "Jensen Huang einzustellen wäre eine Ehre.",
-     "Tagesschau/ARD"
+     "Nvidia",
+     "Erklärte, es gebe keinen Grund zu der Annahme, dass nationale Sicherheit oder Geheimnisse kompromittiert wurden.",
+     "BBC"
     ],
     [
-     "Raphael Thuin (Kapitalmarktstratege Tikehau Capital)",
-     "Nvidia ist das Zentrum der KI-Branche und Huang ihr wichtigstes Gesicht.",
-     "Süddeutsche Zeitung"
-    ],
-    [
-     "Elizabeth Warren und Chris Coons (US-Senatoren)",
-     "Die Regierung muss Dokumente zu Chip-Exporten und der Affäre sichern, da Bedenken bezüglich der nationalen Sicherheit bestehen.",
-     "Tagesschau/ARD, Süddeutsche Zeitung"
+     "China",
+     "Wies den Vorwurf zurück, bei der betroffenen Person habe es sich um einen Geheimdienstakteur gehandelt.",
+     "BBC"
     ]
    ],
-   "fehlend": "Stellungnahmen von Jensen Huang zu den Vorwürfen der zweiten Affäre sowie offizielle Aussagen der beschuldigten Personen oder der chinesischen Regierung.",
+   "fehlend": "Stellungnahmen von Jensen Huang selbst oder Vertretern der Firma Megaspeed zu den aktuellen Vorwürfen sind in den Berichten nicht enthalten.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "12.11.26, 10:38",
-     "fokus": "Politische Reaktionen und Details",
-     "text": "Berichtet ausführlich über die Reaktionen von US-Senatoren, Elon Musk und Analysten sowie über die Exportkontrollen.",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-beratung-chefwechsel-kursrueckgang-100.html",
+     "datum": "13.11.26, 08:27",
+     "fokus": "Politische Dimension und Exportkontrollen",
+     "text": "Der Bericht beleuchtet ausführlich die Rolle von Handelsminister Lutnick und die politischen Forderungen nach Aufklärung in den USA.",
+     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 4,
-      "woerter": 833,
-      "satzlaenge": 17,
-      "langeWoerter": 36
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 381,
+      "satzlaenge": 15,
+      "langeWoerter": 35
      },
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
      "publikumWert": 3.73
     },
     {
-     "name": "ZDFheute",
+     "name": "Deutschlandfunk",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "12.11.26, 07:23",
-     "fokus": "Ermittlungen und Kurssturz",
-     "text": "Betont die Ermittlungen des Bundeskriminalamtes der Vereinigten Staaten, die Sammelklage von Aktionären und den Kursverlust der Nvidia-Aktie.",
-     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/nvidia-bericht-chefwechsel-jensen-huang-100.html",
+     "datum": "13.11.26, 17:08",
+     "fokus": "Kompakte Zusammenfassung der Vorladung",
+     "text": "Die Meldung konzentriert sich auf die wesentlichen Fakten zur Vorladung von Jensen Huang und Howard Lutnick in den US-Senat.",
+     "url": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
      "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 424,
-      "satzlaenge": 16,
-      "langeWoerter": 34
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
      "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
+     "publikumWert": null
     },
     {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
+     "name": "BBC",
+     "typ": "öffentlich-rechtlich (Großbritannien)",
+     "art": "internationaler Sender",
      "stamm": true,
-     "datum": "12.11.26, 01:06",
-     "fokus": "Hintergrund zur zweiten Affäre",
-     "text": "Nennt konkrete Details zur zweiten Affäre und der betroffenen Vizepräsidentin Kimberly Powell.",
-     "url": "https://www.spiegel.de/wirtschaft/nvidia-jensen-huang-soll-weitere-affaere-gehabt-haben-abloesung-droht-a-6b2af3d6-fa09-4f81-bc22-f915c93985f7#ref=rss",
+     "datum": "13.11.26, 04:57",
+     "fokus": "Hintergründe zu den Affären und Börsenkurs",
+     "text": "Die BBC liefert detaillierte Informationen zu den internen Vorgängen bei Nvidia, den Börsenverlusten und den Reaktionen der Mitarbeitenden.",
+     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 9,
-      "minuten": 2,
-      "woerter": 398,
-      "satzlaenge": 17,
-      "langeWoerter": 32
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "12.11.26, 05:35",
-     "fokus": "Kompakte Zusammenfassung",
-     "text": "Fasst die Beratungen des Verwaltungsrates und die Suche nach einer Nachfolge kurz zusammen.",
-     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/nvidia-jensen-huang-unternehmenschef-verwaltungsrat-usa",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "12.11.26, 07:14",
-     "fokus": "Wirtschaftliche Einordnung und ETFs",
-     "text": "Beleuchtet die Bedeutung Nvidias für den Sektor, Marktfolgen und das Gewicht der Aktie in Indizes.",
-     "url": "https://www.sueddeutsche.de/wirtschaft/nvidia-huang-affaere-aktie-absturz-nachfolgerin-li.3579215",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
       "minuten": 4,
-      "woerter": 886,
-      "satzlaenge": 18,
-      "langeWoerter": 33
+      "woerter": 878,
+      "satzlaenge": 24,
+      "langeWoerter": 29
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
-     "finanzierung": "Abos und Werbung",
+     "traeger": "British Broadcasting Corporation, Großbritannien",
+     "finanzierung": "Rundfunkgebühr (Licence Fee)",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Nennung von Personendetails",
-     "Der Spiegel nennt namentlich die als zweite Affäre genannte Vizepräsidentin Kimberly Powell, während andere Medien diese direkt unterstellte Managerin nicht namentlich aufführen."
+     "Details zu den Beziehungen",
+     "Die BBC nennt konkrete Namen und Hintergründe zu den angeblichen Beziehungen von Jensen Huang, während andere Quellen sich allgemeiner halten."
     ]
    ],
    "wfragen": {
-    "wer": "Der Verwaltungsrat von Nvidia, Jensen Huang und US-Medien.",
-    "was": "Beratungen über die mögliche Ablösung des Konzernchefs nach Affären.",
-    "wann": "November 2026",
-    "wo": "Vereinigte Staaten",
-    "wie": "Durch Sitzungen des Verwaltungsrates und interne Untersuchungen mit externen Anwälten.",
-    "warum": "Wegen außerehelichen Affären und möglicher Sicherheitsrisiken, laut Medienberichten.",
-    "quellenlage": "US-Medien wie New York Times und Wall Street Journal sowie Unternehmensmitteilungen."
+    "wer": "Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick",
+    "was": "Vorladung vor einen US-Senatsausschuss zu einer Anhörung",
+    "wann": "Dezember",
+    "wo": "Washington, Vereinigte Staaten von Amerika",
+    "wie": "Durch eine formelle Aufforderung des Bankenausschusses mit Androhung einer Zwangsvorladung",
+    "warum": "Wegen Bedenken zur nationalen Sicherheit und möglicher Chip-Lieferungen nach China, laut Tagesschau/ARD und BBC",
+    "quellenlage": "Öffentlich-rechtliche Medienberichte aus Deutschland, Großbritannien und den USA"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Beim US-amerikanischen Chipkonzern Nvidia steht der Vorstandsvorsitzende Jensen Huang möglicherweise vor der Absetzung. Der Verwaltungsrat des Unternehmens berät über die Zukunft des Mitgründers und Chefs. Hintergrund der Beratungen sind Berichte über zwei außereheliche Affären des Managers. Eine dieser Beziehungen soll Huang mit einer mutmaßlichen chinesischen Spionin geführt haben. Laut übereinstimmenden Medienberichten kommt als Auslöser zudem ein weiteres Verhältnis hinzu.",
-      "Das Gremium des Halbleiterkonzerns schaltete sich am Mittwoch zu Beratungen zusammen. Die New York Times und das Wall Street Journal berichteten zuerst unter Berufung auf informierte Personen über das Treffen. Noch am Wochenende zuvor hatte der Verwaltungsrat Huang und seinem Führungsteam das Vertrauen ausgesprochen. Nun markieren die aktuellen Beratungen eine scharfe Kehrtwende in der Unternehmensführung. Eine Entscheidung über die Zukunft des Vorstandschefs stand kurz bevor.",
-      "Der US-Chipkonzern hat laut Berichten eine interne Untersuchung eingeleitet, die von Mitgliedern des Verwaltungsrates sowie externen Anwälten geführt wird. Nvidia reagierte zunächst nicht auf Anfragen von Medien zur Sitzung des Verwaltungsrates. Der Manager selbst hat in einer Mitteilung an die Mitarbeitenden eingeräumt, seiner Frau untreu gewesen zu sein. Er übernahm die Verantwortung, nannte jedoch keine Einzelheiten zu den Beziehungen. Gemäß den Statuten des Unternehmens kann der Chef durch einen Mehrheitsbeschluss der Direktoren abberufen werden."
+      "Der ehemalige Chef des Chipherstellers Nvidia, Jensen Huang, ist nach Berichten über eine Spionageaffäre und angebliche Chip-Lieferungen nach China für den Monat Dezember zu einer Anhörung vor dem US-Senat vorgeladen worden. Neben Jensen Huang wurde laut den Berichten auch US-Handelsminister Howard Lutnick von dem Vorsitzenden des Bankenausschusses, Tim Scott, aufgefordert, bei der öffentlichen Anhörung zu erscheinen. Der Republikaner Tim Scott verwies auf Sorgen im Hinblick auf die nationale Sicherheit und drohte dem zurückgetretenen Konzernchef mit einer Zwangsvorladung für den Fall, dass er nicht freiwillig vor dem Gremium aussagt. Handelsminister Howard Lutnick hat seine Teilnahme laut Angaben eines Ministeriumssprechers bereits zugesagt. Die Entwicklungen folgen auf den Rücktritt von Jensen Huang, der nach Medienberichten wegen einer angeblichen Beziehung mit einer Frau aus China unter Druck geraten war. Diese Frau soll nach Erkenntnissen von US-Sicherheitsbehörden möglicherweise vom chinesischen Geheimdienst angeworben worden sein.",
+      "Die politische Dimension des Vorgangs betrifft mögliche Verkäufe von Nvidia-Technologie an Unternehmen, die im Verdacht stehen, die US-Exportverbote zu umgehen. Das in Singapur ansässige Unternehmen Megaspeed soll nach US-Medienberichten Nvidia-Technik im Wert von rund vier Milliarden US-Dollar erhalten haben. Die aus China stammende Frau, mit der Jensen Huang eine Affäre gehabt haben soll, arbeitete zeitweise für diese Firma. Da die Exportkontrolle in das Ressort von Handelsminister Howard Lutnick fällt, muss sich dieser nun im Senatsausschuss kritischen Fragen stellen. Parlamentarier sowohl aus der Demokratischen Partei als auch aus dem Lager von US-Präsident Donald Trump fordern Antworten zu diesen Vorgängen. Die US-Regierung versucht grundsätzlich, mit Verkaufsverboten für Hochleistungschips den Ausbau der Künstlichen Intelligenz in China zu bremsen. Jensen Huang hatte in der Vergangenheit argumentiert, dass Verkäufe nach China dazu dienen, das Land an US-Technologie zu binden. Die Demokraten verlangen zudem Aufklärung darüber, was US-Präsident Donald Trump über die Affäre wusste.",
+      "Die BBC berichtet ergänzend, dass Jensen Huang am Donnerstag abrupt als Chef des Konzerns zurückgetreten ist. Nvidia hat infolge der Berichte und des Skandals innerhalb von fünf Tagen an der Börse einen erheblichen Wertverlust erlitten. Senator Tim Scott richtete am Donnerstag entsprechende Aufforderungsschreiben an Jensen Huang und Howard Lutnick für den dritten Dezember. Ungenannte Regierungsbeamte äußerten gegenüber US-Medien den Vorwurf, dass Handelsminister Howard Lutnick Bestrebungen zur Verschärfung der Exportbeschränkungen für fortschrittliche KI-Chips nach China verzögert haben soll. Drei Ausschüsse des Repräsentanzenhauses haben zudem ein weiteres Schreiben an Jensen Huang gesandt, in dem sie ihn zu einem nicht-öffentlichen Gespräch am ersten Dezember vorladen. Der US-Generalstaatsanwalt Todd Blanche erklärte am Donnerstag, dass das Justizministerium noch keine endgültigen Schlüsse darüber gezogen habe, ob die betroffene Frau tatsächlich Spionage betrieben hat. Nvidia-Sprecher lehnten jegliche Kommentare zu den laufenden Berichten ab."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Neben der Beziehung zu der mutmaßlichen chinesischen Spionin soll Huang eine weitere Affäre gehabt haben. Die New York Times berichtete unter Berufung auf fünf Mitarbeiter des Konzerns von einer Beziehung zu einer ihm direkt unterstellten Managerin. Laut Spiegel und New York Times handelt es sich dabei um die für das Gesundheitsgeschäft zuständige Vizepräsidentin Kimberly Powell. Huang und Nvidia äußerten sich zu diesen Vorwürfen zunächst nicht. Für Affären im Unternehmen gilt in US-Verwaltungsräten oft eine geringe Toleranzschwelle.",
-      "Die Vorgänge haben erhebliche finanzielle Folgen für das an der Börse notierte Unternehmen ausgelöst. Die Aktie des Halbleiterherstellers sackte nach den Berichten um bis zu neun Prozent auf einhundertachtundfünfzig US-Dollar ab. Dies markiert den niedrigsten Stand seit Mitte zweitausendfünfundzwanzig. Seit dem Rekordhoch Anfang Oktober mit etwas mehr als zweihundertvierzig US-Dollar gaben die Papiere um fast dreißig Prozent nach. Der Börsenwert des Konzerns fiel von knapp sechs Billionen US-Dollar auf rund vier Komma zwei Billionen US-Dollar.",
-      "Der Kursverlust zeigt die Verflechtung der Unternehmensführung mit der Person Jensen Huang. Er ist seit der Gründung des Chipkonzerns vor mehr als dreißig Jahren dessen Chef und gilt als treibende Kraft des Aufstiegs. Die Managementstruktur ist stark auf ihn zugeschnitten, da rund sechzig Manager direkt an ihn berichten. Damit ist er stärker in das Tagesgeschäft involviert als andere Chefs großer Unternehmen. Als mögliche Nachfolgerin wird die seit mehr als einem Jahrzehnt amtierende Finanzvorständin Colette Kress genannt."
+      "Jensen Huang war seit 1993 die öffentlich bekannte Führungspersönlichkeit des Chipherstellers Nvidia und hatte das Unternehmen maßgeblich geformt. Am Sonntag räumte er ein, gegenüber seiner Ehefrau Lori Huang untreu gewesen zu sein, nachdem Berichte über eine Beziehung zu Alice Huang aufgetaucht waren. Alice Huang arbeitete als Führungskraft bei der in Singapur registrierten Firma Megaspeed und wurde von US-Medien mit dem Verdacht belegt, ein Geheimdienstakteur für China zu sein. China wies diese Anschuldigungen laut BBC als Verleumdung zurück. Am Mittwoch wurde in den Medien zudem über eine zweite Beziehung von Jensen Huang berichtet, die er demnach mit einer langjährigen Nvidia-Führungskraft namens Kimberly Powell unterhalten haben soll. Kimberly Powell war innerhalb des Unternehmens direkt unterhalb von Jensen Huang tätig. Interne Quellen berichteten der BBC, dass Mitarbeiter eine ungewöhnliche Nähe zwischen den beiden Personen im Firmenalltag beobachtet hatten.",
+      "Der Aktienkurs des Unternehmens verzeichnete in der Berichtswoche den stärksten Fünf-Tages-Einbruch seit dem Börsengang vor 27 Jahren, wobei die Marktkapitalisierung sank. Nvidia gab bekannt, dass Chief Financial Officer Colette Kress vorübergehend den Posten der Interim-Chefin übernehmen wird, während das Unternehmen nach einer Nachfolge sucht. Trotz der internen Untersuchungen betonte Nvidia, dass nach aktuellem Kenntnisstand weder die nationale Sicherheit noch Firmengeheimnisse gefährdet wurden. Unabhängige Prüfungen sollen jedoch alle verfügbaren Informationen analysieren. Angestellte des Unternehmens berichteten, dass die ersten Berichte über die eheliche Untreue zunächst innerhalb der Belegschaft kaum beachtet wurden. Erst das Bekanntwerden der zweiten Beziehung zu einer Führungskraft innerhalb des eigenen Hauses führte zu Beunruhigunsggefühlen. Viele Beschäftigte besitzen durch den Aktienanstieg finanzielle Beteiligungen an dem Technologiekonzern.",
+      "Die politische und juristische Aufarbeitung erfasst neben dem Senat auch das Repräsentanzenhaus. Senator Tim Scott betonte in einer Stellungnahme auf der Plattform X, dass die Berichte schwerwiegende Bedenken hinsichtlich der nationalen Sicherheit und des Schutzes sensibler Technologien auslösen. Das Handelsministerium bestätigte gegenüber Medien, dass Howard Lutnick der Aufforderung zur Anhörung im Bankenausschuss zugestimmt hat. Die Demokratische Partei drängt unterdessen auf Transparenz darüber, welche Kenntnisse Regierungsmitglieder zu welchem Zeitpunkt über die Vorgänge hatten. Die US-Bundesbehörden prüfen in diesem Zusammenhang sämtliche Exportwege von Hochleistungschips nach Asien. Die verhängten Handelsbeschränkungen sollen verhindern, dass chinesische Unternehmen Rechenzentren für militärische oder zivile Anwendungen aufbauen können, die auf amerikanischer Halbleitertechnologie basieren. Nvidia war in den vergangenen Jahren zu einem zentralen Anbieter für die Infrastruktur der Künstlichen Intelligenz aufgestiegen."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Die Vorwürfe berühren das Verhältnis zwischen den Vereinigten Staaten und der Volksrepublik China. Die USA und China liefern sich ein Wettrennen um fortschrittliche Künstliche Intelligenz mit möglichem militärischem Einsatz. Die Regierung in Washington versucht seit zweitausendzweiundzwanzig mit Exportkontrollen, Chinas Zugang zu Hochtechnologie und modernen Halbleitern einzuschränken. Nvidia dominiert den Markt für Spezialchips, die für das Training von KI-Modellen wie ChatGPT unerlässlich sind, und steht damit im Zentrum dieses technologischen Wettbewerbs.",
-      "US-Behörden prüfen laut Berichten den Verdacht, dass durch die Affäre mit der chinesischen Frau die Regierung in Peking Zugang zu hochmodernen KI-Chips erhalten haben könnte. Die mutmaßliche Spionin, in Berichten auch als Alice Huang bezeichnet, hat laut Süddeutscher Zeitung jahrelang ein Unternehmen geleitet, das im großen Stil Nvidia-Technik gekauft hat. Es steht der Verdacht im Raum, dass Chips im Wert von sieben Komma fünf Milliarden US-Dollar nach China verbracht wurden. Huang trat in der Vergangenheit wiederholt als Befürworter des Verkaufs neuerer Chips nach China auf, um der Entwicklung eigener chinesischer Halbleiter vorzubeugen.",
-      "Der Fall ruft auch die US-Politik auf den Plan. Führende Demokraten im Senat fordern die Regierung auf, sämtliche Dokumente im Zusammenhang mit Nvidias Chip-Exporten und der Affäre zu sichern. Die Senatoren Elizabeth Warren und Chris Coons schrieben an Handelsminister Howard Lutnick, Außenminister Marco Rubio und Stabschef Stephen Miller. Sie äußerten Bedenken hinsichtlich der Durchsetzung von Exportkontrollen und dem Schutz der nationalen Sicherheit. Zudem droht Huang eine Zwangsvorladung des US-Kongresses, falls er einer Aufforderung zur nichtöffentlichen Unterrichtung nicht nachkommt."
+      "Die wirtschaftliche und politische Bedeutung von Nvidia ist in den vergangenen Jahren gestiegen, da die Nachfrage nach spezialisierten Computerchips für Systeme der Künstlichen Intelligenz zunahm. Die US-Regierung hat Exportkontrollen erlassen, um den Export von Hochleistungschips an potenzielle Konkurrenten wie China zu unterbinden. Diese Vorschriften sollen den technologischen Vorsprung der Vereinigten Staaten sichern und verhindern, dass Rechenkapazitäten für staatliche Zwecke im Ausland eingesetzt werden. Jensen Huang hatte im Rahmen seiner unternehmerischen Tätigkeit argumentiert, dass ein vollständiger Ausschluss chinesischer Abnehmer zu einer eigenständigen Entwicklung von Alternativtechnologien in China führen könnte. Dies hätte nach seiner Auffassung die internationale Position von Nvidia geschwächt. Die Verknüpfung von privaten Verbindungen und sicherheitspolitischen Fragestellungen hat den Fall zu einem Gegenstand parlamentarischer Untersuchungen gemacht."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Ein Verwaltungsrat ist ein Aufsichtsgremium in Unternehmen, das die Geschäftsführung kontrolliert und wichtige strategische Entscheidungen trifft. Zu seinen Aufgaben gehört es oft auch, den Vorstandsvorsitzenden zu ernennen oder abzuberufen.",
-      "Exportkontrollen sind staatliche Maßnahmen, mit denen der Verkauf bestimmter Waren und Technologien ins Ausland beschränkt wird."
+      "Ein Senatsausschuss ist ein Untergremium des US-Senats, das sich mit speziellen Themen wie Gesetzgebung oder Kontrollfragen befasst. Ausschüsse haben das Recht, Zeugen zu laden, Dokumente anzufordern und öffentliche Anhörungen durchzuführen, um politische Missstände oder Sicherheitsrisiken aufzuklären. Exportkontrollen sind staatliche Regulierungen, die den Verkauf bestimmter sensibler Güter, Technologien oder Software an das Ausland einschränken oder verbieten, um die nationale Sicherheit zu wahren."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Armina Rosenberg, Portfoliomanagerin und Mitgründerin der beteiligten Gesellschaft Minotaur Capital, bezeichnete Finanzchefin Colette Kress als natürliche Wahl für eine Übergangschefin, wie die Tagesschau meldete. Sie erklärte zudem, der Markt beginne, das Unternehmen ohne seinen Gründer einzupreisen, und ein Verlust Huangs wäre ein echter Schlag.",
-      "Tech-Milliardär Elon Musk äußerte sich über den Kurznachrichtendienst X und schrieb, Jensen Huang einzustellen wäre eine Ehre, wie die Tagesschau meldete.",
-      "Raphael Thuin, Leiter der Kapitalmarktstrategie beim Vermögensverwalter Tikehau Capital, erklärte in der Süddeutschen Zeitung, Nvidia bilde das Zentrum des Künstliche-Intelligenz-Universums und Jensen Huang sei das Gesicht der Branche."
+      "Senator Tim Scott erklärte laut Tagesschau/ARD und BBC, dass die aktuellen Medienberichte ernsthafte Sorgen hinsichtlich der nationalen Sicherheit und des Schutzes sensibler Technologien auslösen. Ein Sprecher des US-Handelsministeriums teilte laut Tagesschau/ARD und BBC mit, dass Handelsminister Howard Lutnick der Aufforderung zur Anhörung im Bankenausschuss proaktiv zugestimmt hat. US-Generalstaatsanwalt Todd Blanche erklärte laut BBC, dass das Justizministerium noch keine endgültigen Schlüsse über eine angebliche Spionagetätigkeit von Alice Huang gezogen habe. Nvidia erklärte laut BBC, dass nach bisherigen Erkenntnissen kein Grund zu der Annahme bestehe, dass die nationale Sicherheit oder Unternehmensgeheimnisse kompromittiert worden seien. China wies den Vorwurf, Alice Huang sei ein Geheimdienstakteur gewesen, laut BBC als Verleumdung zurück."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Der Verwaltungsrat plant Entscheidungen über die Zukunft des Vorstandschefs. Am siebzehnten November stehen zudem die Quartalszahlen des Unternehmens an, bei denen Nvidia die Anleger über seine finanzielle Entwicklung und den Ausblick informieren will.",
-      "US-Behörden und das Bundeskriminalamt der Vereinigten Staaten haben laut Medienberichten Ermittlungen zu den Vorfällen aufgenommen. Parlamentarische Untersuchungen im US-Kongress könnten im Januar folgen, wenn die Demokraten die Mehrheit in beiden Kammern übernehmen."
+      "Jensen Huang und Handelsminister Howard Lutnick sollen im Dezember vor dem Bankenausschuss des US-Senats erscheinen. Darüber hinaus wurden sie von drei Ausschüssen des Repräsentanzenhauses zu einem nicht-öffentlichen Gespräch für den ersten Dezember geladen. Das Unternehmen Nvidia setzt seine unternehmensinterne Untersuchung fort und sucht nach einer Nachfolge für die Führungsposition."
      ]
     }
    ],
@@ -2739,150 +2658,145 @@
     [
      "Anfang November zweitausendsechsundzwanzig",
      "Medienberichte über Spionagevorwürfe werden bekannt und Nvidia leitet Untersuchungen ein."
+    ],
+    [
+     "Donnerstag",
+     "Jensen Huang trat als Chef von Nvidia zurück, und Senator Tim Scott verschickte die Ladungsschreiben."
     ]
    ],
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Jensen Huang",
-     "bildunterschrift": "Jensen Huang ist Mitgründer und Vorstandsvorsitzender des Chipkonzerns Nvidia."
+     "suchbegriff": "Jensen Huang businessman",
+     "bildunterschrift": "Jensen Huang war jahrzehntelang das Gesicht des Chipherstellers Nvidia."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Howard Lutnick",
+     "bildunterschrift": "US-Handelsminister Howard Lutnick gerät im Zusammenhang mit Exportkontrollen unter Druck."
+    },
+    {
+     "art": "building",
+     "suchbegriff": "United States Capitol building",
+     "bildunterschrift": "Im US-Senat in Washington befassen sich Ausschüsse mit dem Fall und den geladenen Personen."
     },
     {
      "art": "institution",
-     "suchbegriff": "Nvidia headquarters Santa Clara",
-     "bildunterschrift": "Der Hauptsitz des US-amerikanischen Halbleiterkonzerns Nvidia in Kalifornien."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Silicon Valley",
-     "bildunterschrift": "Das Silicon Valley gilt als globales Zentrum der Technologie- und Halbleiterindustrie."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Microchip semiconductor",
-     "bildunterschrift": "Moderne Halbleiterchips sind essenziell für die Entwicklung Künstlicher Intelligenz."
+     "suchbegriff": "Nvidia headquarters",
+     "bildunterschrift": "Der Hauptsitz des Technologiekonzerns Nvidia ist Schauplatz interner Aufarbeitung und personeller Veränderungen."
     }
    ],
    "ort": {
-    "name": "Santa Clara, Vereinigte Staaten"
+    "name": "Washington, Vereinigte Staaten von Amerika"
    },
    "geprueft": true,
    "korrekturen": [
-    "FBI in Bundeskriminalamt der Vereinigten Staaten übersetzt bzw. an korrekte Bezeichnung angepasst und Jahreszahlen in Text als Wörter ausgeschrieben, um den Sprechregeln zu entsprechen."
+    "Der Begriff 'südkoreanischer Senator Tim Scott' wurde korrigiert, da Tim Scott Senator aus South Carolina (USA) ist."
    ],
-   "wortwarnung": [],
+   "wortwarnung": [
+    "Skandals"
+   ],
    "lernen": {
     "begriffe": [
      [
-      "Verwaltungsrat",
-      "Ein Aufsichtsgremium in Unternehmen, das die Geschäftsführung kontrolliert und wichtige Entscheidungen wie die Abberufung von Chefs trifft."
+      "Exportkontrolle",
+      "Staatliche Regeln, die den Verkauf von bestimmten Waren oder Technologien ins Ausland verbieten oder einschränken."
      ],
      [
-      "Exportkontrollen",
-      "Staatliche Maßnahmen, mit denen der Verkauf bestimmter Waren und Technologien ins Ausland beschränkt wird, um die Sicherheit zu schützen."
+      "Senatsausschuss",
+      "Ein kleineres Gremium innerhalb des Parlaments, das bestimmte Themen genauer untersucht und Zeugen befragen kann."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen persönliche Verfehlungen von Spitzenmanagern für den Wert und das Vertrauen in grosse Unternehmen?",
-     "Wie stark sollte die Politik in wirtschaftliche und sicherheitsrelevante Fragen von Technologiekonzernen eingreifen?"
+     "Welche Rolle spielen private Beziehungen von Firmenlenkern für die nationale Sicherheit eines Staates?",
+     "Wie bewertest du die Tatsache, dass politische Gremien wie der US-Senat Manager von Technologieunternehmen öffentlich vorladen?"
     ],
     "quiz": [
      {
-      "frage": "Worüber berät der Verwaltungsrat von Nvidia laut den Berichten?",
+      "frage": "Wer hat Jensen Huang und Howard Lutnick zu einer Anhörung im Dezember vorgeladen?",
       "optionen": [
-       "Über eine Fusion mit einem chinesischen Unternehmen",
-       "Über die mögliche Ablösung von Vorstandschef Jensen Huang",
-       "Über die Einstellung der Produktion von Künstliche-Intelligenz-Chips"
+       "Der US-Präsident Donald Trump",
+       "Der Bankenausschuss des US-Senats",
+       "Das Justizministerium"
       ],
       "richtig": 1,
-      "erklaerung": "Alle genannten Quellen stimmen überein, dass der Verwaltungsrat über die Zukunft von Jensen Huang berät."
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD, Deutschlandfunk und BBC wurden beide vom Bankenausschuss des US-Senats geladen."
      },
      {
-      "frage": "Was hat Jensen Huang in einer Mitteilung an die Mitarbeitenden eingeräumt?",
+      "frage": "Welches Land wies den Vorwurf zurück, dass die betroffene Person ein Geheimdienstakteur war?",
       "optionen": [
-       "Dass er eine außereheliche Affäre hatte",
-       "Dass er geheime Firmendokumente verkauft hat",
-       "Dass er als Chef zurücktreten wird"
+       "China",
+       "Singapur",
+       "Die Vereinigten Staaten"
       ],
       "richtig": 0,
-      "erklaerung": "Laut Tagesschau, ZDFheute und Süddeutscher Zeitung hat Huang eine außereheliche Affäre in einer Mitteilung eingeräumt."
+      "erklaerung": "Die BBC berichtet, dass China den Vorwurf als Verleumdung zurückgewiesen hat."
      },
      {
-      "frage": "Welche Medien berichteten laut übereinstimmenden Angaben über eine weitere Affäre mit einer unterstellten Managerin?",
+      "frage": "Wer wurde als Interim-Chefin bei Nvidia benannt?",
       "optionen": [
-       "Die New York Times und das Wall Street Journal",
-       "Die Washington Post und die Financial Times",
-       "Der Spiegel und die Frankfurter Allgemeine Zeitung"
+       "Alice Huang",
+       "Kimberly Powell",
+       "Colette Kress"
       ],
-      "richtig": 0,
-      "erklaerung": "Die Berichte stützen sich auf Informationen, die unter anderem von der New York Times und dem Wall Street Journal veröffentlicht wurden."
+      "richtig": 2,
+      "erklaerung": "Die BBC und andere Berichte nennen Chief Financial Officer Colette Kress als neue Übergangs-Chefin."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Beim grossen Chipkonzern Nvidia gibt es grossen Ärger. Der Chef Jensen Huang soll möglicherweise abgesetzt werden.",
+    "vorspann": "Der Chef der US-Firma Nvidia ist nach einer Spionageaffäre zurückgetreten. Nun müssen er und ein Minister vor dem Senat aussagen.",
     "absaetze": [
-     "Grund für den Ärger sind Berichte über zwei private Affären des Chefs. Eine davon soll er mit einer mutmaßlichen Spionin aus China gehabt haben.",
-     "Wegen dieser Vorfälle berät der Verwaltungsrat des Unternehmens über seine Zukunft. Der Verwaltungsrat ist ein Gremium, das die Führung eines Unternehmens kontrolliert.",
-     "Nach den Nachrichten ist der Aktienkurs des Unternehmens stark gesunken. Viele Menschen machen sich Sorgen um die Zukunft der Firma.",
-     "Auch die Politik in den Vereinigten Staaten schaltet sich ein, weil es um wichtige Regeln für den Handel mit Computerteilen geht."
+     "Der Chiphersteller Nvidia stellt wichtige Computerchips her. Der Chef der Firma, Jensen Huang, trat kürzlich zurück. Grund dafür sind Berichte über angebliche Beziehungen zu Frauen, die Verbindungen nach China haben könnten. Eine davon soll für den chinesischen Geheimdienst gearbeitet haben. Die US-Regierung prüft nun, ob dadurch Sicherheitsregeln verletzt wurden. Das Unternehmen Megaspeed aus Singapur soll im großen Stil Chips an China geliefert haben. Das Land China weist die Spionagevorwürfe als Verleumdung zurück. Wegen dieser Vorfälle hat der US-Senat den ehemaligen Nvidia-Chef Jensen Huang und den Handelsminister Howard Lutnick im Dezember zu einer Anhörung vorgeladen. Der Aktienkurs von Nvidia ist stark gefallen. Das Unternehmen hat Colette Kress zur neuen Übergangs-Chefin ernannt."
     ]
    },
    "video": {
     "kurz": [
-     "Der Chipkonzern Nvidia steht vor einer grossen Krise.",
-     "Der Vorstandschef Jensen Huang soll wegen privater Affären abgesetzt werden.",
-     "Eine Affäre soll er mit einer mutmaßlichen Spionin gehabt haben.",
-     "Der Aktienkurs des Unternehmens ist daraufhin stark gesunken."
+     "Der ehemalige Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick müssen im Dezember vor dem US-Senat aussagen. Hintergrund sind Berichte über eine Spionageaffäre und mögliche illegale Chip-Lieferungen nach China. Huang war zuvor als Chef des Technologiekonzerns zurückgetreten."
     ],
     "lang": [
-     "Beim US-amerikanischen Chipkonzern Nvidia berät der Verwaltungsrat über die mögliche Absetzung von Vorstandschef Jensen Huang.",
-     "Hintergrund sind Medienberichte über zwei außereheliche Affären des Managers.",
-     "Eine dieser Beziehungen soll er mit einer mutmaßlichen chinesischen Spionin gehabt haben.",
-     "Nach Angaben von Medien fiel der Aktienkurs des Unternehmens daraufhin um bis zu neun Prozent.",
-     "Der Börsenwert sank von knapp sechs Billionen auf rund vier Komma zwei Billionen US-Dollar.",
-     "Huang räumte eine außereheliche Affäre in einer Mitteilung an die Mitarbeitenden ein und übernahm die Verantwortung.",
-     "Nach Angaben der Tagesschau und der Süddeutschen Zeitung fordern US-Senatoren zudem die Sicherung von Regierungsdokumenten.",
-     "Nvidia dominiert den Markt für Spezialchips, die für Künstliche Intelligenz benötigt werden.",
-     "Ob der Vorstandschef tatsächlich abgesetzt wird, ist derzeit noch unklar.",
-     "Am siebzehnten November will das Unternehmen seine nächsten Quartalszahlen vorlegen."
+     "Der ehemalige Chef des Chipherstellers Nvidia, Jensen Huang, ist nach Berichten über eine Spionageaffäre zurückgetreten.",
+     "Zusammen mit Handelsminister Howard Lutnick muss er im Dezember vor dem Bankenausschuss des US-Senats aussagen.",
+     "Das gaben Medien wie die Tagesschau und die BBC bekannt.",
+     "Hintergrund sind Sorgen um die nationale Sicherheit und mögliche Lieferungen von Chips nach China.",
+     "Eine Frau aus China, mit der Huang eine Beziehung gehabt haben soll, wird verdächtigt, für einen Geheimdienst gearbeitet zu haben.",
+     "China weist diesen Vorwurf nach Angaben der BBC als Verleumdung zurück.",
+     "Handelsminister Lutnick gerät zudem wegen möglicher Umgehungen von Exportkontrollen unter Druck.",
+     "Das Unternehmen Nvidia verlor in den vergangenen Tagen an der Börse erheblich an Wert.",
+     "Ein Sprecher des Handelsministeriums erklärte, dass Lutnick der Vorladung bereits proaktiv zugestimmt hat.",
+     "Das Unternehmen sucht nun nach einer dauerhaften Nachfolge für die Führungsposition."
     ],
     "einfach": [
-     "Beim grossen Chipkonzern Nvidia gibt es eine schwere Krise.",
-     "Der Chef Jensen Huang soll vielleicht entlassen werden.",
-     "Grund sind Berichte über zwei private Affären des Managers.",
-     "Eine Affäre soll mit einer mutmaßlichen Spionin aus China gewesen sein.",
-     "Der Aktienwert des Unternehmens ist daraufhin stark gesunken.",
-     "Ob der Chef wirklich gehen muss, ist noch nicht entschieden."
+     "Der Chef der US-Firma Nvidia ist zurückgetreten.",
+     "Er soll eine Beziehung zu einer Frau aus China gehabt haben.",
+     "Diese Frau steht im Verdacht, für einen Geheimdienst zu spionieren.",
+     "China nennt diesen Vorwurf eine Verleumdung.",
+     "Wegen möglicher illegaler Chip-Lieferungen muss der ehemalige Chef nun vor dem US-Senat aussagen.",
+     "Auch Handelsminister Howard Lutnick wurde zu dieser Anhörung geladen."
     ]
    },
    "kurz": [
-    "Der Verwaltungsrat des Chipkonzerns Nvidia berät über die mögliche Absetzung von Chef Jensen Huang.",
-    "Hintergrund sind Berichte über zwei außereheliche Affären, darunter eine mit einer mutmaßlichen Spionin.",
-    "Der Aktienkurs des Unternehmens sank nach den Berichten deutlich auf ein Mehrwochentief ab.",
-    "US-Behörden und Politiker prüfen mögliche Risiken für die nationale Sicherheit und die Exportkontrollen."
+    "Der ehemalige Nvidia-Chef Jensen Huang ist nach Berichten über eine Spionageaffäre zurückgetreten.",
+    "Der US-Senat hat Huang und Handelsminister Howard Lutnick zu einer Anhörung im Dezember vorgeladen.",
+    "Hintergrund sind Bedenken zur nationalen Sicherheit und mögliche Chip-Lieferungen nach China."
    ],
    "fakten": [
     [
-     "Aktienkurs nach Berichten",
-     "158 US-Dollar"
+     "Wertverlust von Nvidia innerhalb von fünf Tagen",
+     "550 Milliarden US-Dollar"
     ],
     [
-     "Börsenwert Rückgang",
-     "Von knapp sechs Billionen auf rund 4,2 Billionen US-Dollar"
+     "Rücktrittstag von Jensen Huang",
+     "Donnerstag"
     ],
     [
-     "Datum geplante Quartalszahlen",
-     "17. November"
-    ],
-    [
-     "Alter von Jensen Huang",
-     "63 Jahre"
+     "Geplanter Termin für die freiwillige Anhörung im Bankenausschuss",
+     "3. Dezember"
     ]
    ],
    "dossier": {
-    "slug": "nvidia-fuehrungskrise-spionagevorwuerfe",
-    "titel": "Führungskrise und Spionagevorwürfe beim Chipkonzern Nvidia"
+    "slug": "spionageaffaeere-nvidia-usa",
+    "titel": "Spionageaffäre um Chiphersteller Nvidia in den USA"
    },
    "bildInfo": {
     "titel": "11.09 總統出席「第一屆李國鼎獎頒獎典禮」 - 53319959776.jpg",
@@ -2946,144 +2860,337 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "version": 5,
-   "ton": [
+   "ortInfo": {
+    "name": "Washington, Vereinigte Staaten von Amerika",
+    "lat": 38.895,
+    "lon": -77.036
+   },
+   "version": 5
+  },
+  {
+   "id": "mercedes-investitionsstopp- deutschland",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-13T16:08:16.000Z",
+   "titel": "Mercedes-Benz stoppt Investitionen an deutschen Standorten und prüft Werksschließungen",
+   "vorspann": "Der Autobauer Mercedes-Benz setzt wegen stockender Sparverhandlungen sämtliche Investitionen in deutsche Standorte aus. Zudem kündigte der Konzern an, die Schließung von Werken konkret zu prüfen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Mercedes-Benz stoppt alle weiteren Investitionen an seinen deutschen Standorten wegen stockender Sparverhandlungen.",
+    "Der Vorstand prüft zudem konkret die Schließung von Werken in Deutschland, um die Kosten zu senken.",
+    "Auslöser sind Gewinneinbrüche im Pkw-Geschäft, ein starker internationaler Wettbewerb und hohe Produktionskosten.",
+    "Arbeitnehmervertretungen und die IG Metall lehnen die geforderte Verlängerung der Arbeitszeit und Einschnitte ab."
+   ],
+   "einig": [
+    [
+     "Mercedes-Benz stoppt Investitionen an deutschen Standorten.",
+     [
+      "Tagesschau/ARD",
+      "Zeit"
+     ]
+    ],
+    [
+     "Der Konzern prüft konkret die Schließung von Werken in Deutschland.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Zeit"
+     ]
+    ],
+    [
+     "Die Verhandlungen über Kostensenkungen und Sparmaßnahmen stocken.",
+     [
+      "Tagesschau/ARD",
+      "Zeit"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Welche konkreten Standorte von einer Schließung betroffen sein könnten, ist noch nicht abschließend entschieden; laut Tagesschau wurden zuvor ein Aufbauwerk und ein Powertrainwerk genannt."
+   ],
+   "positionen": [
+    [
+     "Michael Schiebe (Produktionsvorstand Mercedes-Benz)",
+     "Die Investitionen in deutsche Standorte werden gestoppt, da mit den heutigen Kostenstrukturen und angesichts starker internationaler Konkurrenz kein Investieren möglich ist.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Britta Seeger (Personalvorständin Mercedes-Benz)",
+     "Das Unternehmen ist wegen ausbleibender Entscheidungen gezwungen, Werksschließungen konkret zu prüfen; eine Lohnerhöhung würde die hohen Arbeitskosten weiter belasten.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Betriebsrat und IG Metall",
+     "Die Verlängerung der Arbeitszeit von 35 auf 40 Stunden ohne Lohnausgleich ist eine rote Linie.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Stimmen von Arbeitnehmern direkt oder von externen Branchenanalysten.",
+   "medien": [
     {
-     "k": "Beim US-amerikanischen Chipkonzern Nvidia berät der Verwaltungsrat über die mögl",
-     "d": "0d7b205ce5.mp3",
-     "l": 58.65,
-     "s": [
-      0.25,
-      7.88,
-      12.69,
-      17.85,
-      23.68,
-      28.93,
-      35.94,
-      43.59,
-      49.14,
-      53.64
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "12.11.26, 19:44",
+     "fokus": "Ausführliche Hintergrundinformationen und Zitate",
+     "text": "Der Bericht liefert detaillierte Aussagen der Vorstandsmitglieder Michael Schiebe und Britta Seeger. Er beleuchtet umfassend die Positionen von Betriebsrat und IG Metall zur Arbeitszeit.",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 535,
+      "satzlaenge": 16,
+      "langeWoerter": 39
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "13.11.26, 17:08",
+     "fokus": "Kurze, prägnante Meldung",
+     "text": "Der Sender fasst die Kernentscheidung des Autoherstellers zusammen, konkret Werksschließungen in Deutschland zu prüfen.",
+     "url": "https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "12.11.26, 18:12",
+     "fokus": "Fokus auf Investitionsstopp",
+     "text": "Die Wochenzeitung hebt hervor, dass Mercedes infolge stockender Sparverhandlungen sämtliche neuen Investitionen an deutschen Standorten aussetzt.",
+     "url": "https://www.zeit.de/wirtschaft/2026-11/mercedes-benz-britta-seeger-arbeitskosten-betriebsrat-ig-metall-werksschliessungen",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während die Tagesschau sehr viele Details, Zitate und Hintergrundinformationen liefert, fassen Deutschlandfunk und Zeit das Geschehen wesentlich kürzer zusammen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Mercedes-Benz-Konzernvorstand, Betriebsrat und IG Metall",
+    "was": "Investitionsstopp und Prüfung von Werksschließungen",
+    "wann": "12. November 2026",
+    "wo": "Deutschland",
+    "wie": "Durch Ankündigung des Konzernvorstands in internen Verhandlungen",
+    "warum": "Wegen stockender Verhandlungen und zu hoher Kostenstrukturen laut Vorstand",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk und Zeit"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Automobilkonzern Mercedes-Benz hat angekündigt, alle weiteren Investitionen in seine deutschen Standorte vorerst zu stoppen. Gleichzeitig prüft das Unternehmen nach Angaben aus den Berichten nun konkret und detailliert die Schließung von Werken in Deutschland. Dieser Schritt folgt auf Verhandlungen über Kostensenkungen, die laut den Berichten derzeit auf der Stelle treten. Eine Lösung ist nach Angaben des Managements trotz intensiver Gespräche gegenwärtig nicht erkennbar. Der Vorstand begründet das Vorgehen mit den bestehenden Kostenstrukturen, unter denen keine Investitionen in Deutschland möglich seien.",
+      "Die Reaktionen auf Arbeitnehmerseite zeigen einen tiefen Konflikt über die künftige Ausrichtung des Unternehmens. Der Konzern fordert von den Beschäftigten weitreichende Zugeständnisse, darunter die Ausweitung der wöchentlichen Arbeitszeit ohne Lohnausgleich. Laut Tagesschau stand im Raum, die Arbeitszeit von 35 auf 40 Stunden pro Woche zu erhöhen. Für Betriebsrat und die Gewerkschaft IG Metall stellt diese Forderung eine rote Linie dar. Die Verhandlungen sind zudem eingebettet in die laufende Tarifrunde der Metall- und Elektroindustrie, in der die IG Metall fünf Prozent mehr Geld fordert.",
+      "Das Management verweist in diesem Zusammenhang auf die hohen Lohnkosten im internationalen Vergleich. Nach Angaben von Produktionsvorstand Michael Schiebe liegen die Kosten einer Arbeitsstunde in der Produktion in Deutschland teilweise bis zu fünfmal höher als in osteuropäischen Ländern. Sollte keine Einigung erzielt werden, sollen neue Fahrzeugmodelle ausschließlich im Ausland gefertigt werden. Personalvorständin Britta Seeger betonte, das Unternehmen müsse nun prüfen, welche Standorte sich das Unternehmen in Deutschland noch leisten könne. Schließungen sollten zwar vermieden werden, müssten aber als Option weiterverfolgt werden."
      ]
     },
     {
-     "k": "Der Chipkonzern Nvidia steht vor einer grossen Krise. Der Vorstandschef Jensen H",
-     "d": "7dd058a135.mp3",
-     "l": 15.5,
-     "s": [
-      0.25,
-      3.51,
-      7.84,
-      11.45
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Mercedes-Benz betreibt in Deutschland insgesamt ein Dutzend Produktionsstandorte. Im Zentrum der Gespräche steht die sogenannte Produktivitätsoffensive, mit der das Unternehmen seine Ausgaben verringern möchte. Neben der Arbeitszeit will das Management auch an Sonderzahlungen, freiwilligen Leistungen wie der Ergebnisbeteiligung sowie tariflichen Bausteinen wie Urlaubs- und Weihnachtsgeld ansetzen. Die Bedingungen, unter denen die Arbeitszeitverkürzung einst vereinbart worden war, hätten sich nach Ansicht des Vorstands grundlegend verändert. Durch mehr Arbeitsstunden könne die Produktivität gesteigert werden, ohne unmittelbar in die Entgelte der Angestellten einzugreifen.",
+      "Bereits vor einigen Wochen hatte Produktionsvorstand Schiebe die Schließung von zwei deutschen Werken ins Gespräch gebracht. Betroffen wären dabei ein deutsches Aufbauwerk sowie ein deutsches Powertrainwerk, in dem Komponenten für Kraftfahrzeuge hergestellt werden. Als Gründe für die wirtschaftliche Anspannung nannte der Vorstand ein extrem anspruchsvolles Umfeld. Dieses sei geprägt von Zöllen, Preisdruck, einer schwächeren Nachfrage und einem intensiven Wettbewerb, der vor allem aus China ausgeht. Auch BMW hat zuvor einen Gewinneinbruch gemeldet.",
+      "Aufseiten der Führungsebene wird betont, dass auch der Vorstand selbst finanziellen Verzicht leistet. So hätten Führungskräfte bereits bei zwei Entgeltrunden keine Erhöhung erhalten. Die Gewerkschaft argumentiert hingegen, dass eine Tariferhöhung von fünf Prozent notwendig ist, während der Vorstand vor einer weiteren Steigerung der ohnehin hohen Arbeitskosten warnt. Der Konzern benötigt nach eigener Aussage in den Verhandlungen mit dem Betriebsrat dringend eine Entscheidung, da die Situation im Pkw-Geschäft durch Gewinneinbrüche belastet ist."
      ]
     },
     {
-     "k": "Beim grossen Chipkonzern Nvidia gibt es eine schwere Krise. Der Chef Jensen Huan",
-     "d": "b699f469a4.mp3",
-     "l": 24.13,
-     "s": [
-      0.25,
-      4.27,
-      7.94,
-      11.8,
-      16.59,
-      20.5
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die aktuellen Entwicklungen bei Mercedes-Benz stehen in einem wirtschaftlich schwierigen Umfeld für Automobilhersteller. Konkurrenten wie BMW verzeichnen ebenfalls Gewinneinbrüche. Internationale Faktoren wie Zölle, ein verändertes Nachfrageverhalten und ein starker Preisdruck auf den globalen Märkten belasten die Bilanzen. Insbesondere der Wettbewerb mit Herstellern aus China verschärft die Situation für die Konzerne.",
+      "Innerhalb der Wirtschaft gibt es Forderungen, dass wieder länger gearbeitet werden muss. Mercedes-Benz versucht durch seine Produktivitätsoffensive, diese Herausforderungen zu bewältigen. Die Gewerkschaften verteidigen jedoch traditionelle Errungenschaften wie die 35-Stunden-Woche. Dies führt zu Spannungen zwischen den Unternehmensleitungen und den Arbeitnehmervertretungen."
      ]
     },
     {
-     "k": "Ob der Verwaltungsrat Jensen Huang tatsächlich absetzen wird, ist noch unklar.",
-     "d": "df68d83551.mp3",
-     "l": 5.14,
-     "s": [
-      0.25
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ein Powertrainwerk ist ein Produktionsstandort, an dem Komponenten für Autos hergestellt werden. Ein Aufbauwerk ist ein Werk, in dem Fahrzeuge aufgebaut werden.",
+      "Tarifverhandlungen sind Verhandlungen zwischen Arbeitgeberverbänden und Gewerkschaften über Löhne, Gehälter und Arbeitsbedingungen."
      ]
     },
     {
-     "k": "Was bedeutet eigentlich Verwaltungsrat? Ein Aufsichtsgremium in Unternehmen, das",
-     "d": "e2a9240cc1.mp3",
-     "l": 10.82,
-     "s": [
-      0.25,
-      2.92
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Produktionsvorstand Michael Schiebe erklärte laut Tagesschau, dass der Konzern alle weiteren Investitionen in die deutschen Standorte stoppen werde. Er begründete dies mit den im internationalen Vergleich hohen Lohnkosten und dem intensiven Wettbewerb, insbesondere aus China.",
+      "Personalvorständin Britta Seeger erklärte laut Tagesschau, das Unternehmen sei gezwungen, konkret und detailliert zu prüfen, welche Standorte man sich in Deutschland noch leisten könne. Sie fügte hinzu, dass die Forderung der IG Metall nach fünf Prozent mehr Geld die Arbeitskosten weiter steigern würde.",
+      "Betriebsrat und IG Metall bewerten laut Tagesschau die geforderte Erhöhung der Arbeitszeit ohne Lohnausgleich als rote Linie."
      ]
     },
     {
-     "k": "Beim US-amerikanischen Chipkonzern Nvidia steht der Vorstandsvorsitzende Jensen ",
-     "d": "7a0794fb66.mp3",
-     "l": 48.03,
-     "s": [
-      0.25,
-      7.9,
-      12.87,
-      17.73,
-      22.9,
-      29.02,
-      34.1,
-      41.08
-     ]
-    },
-    {
-     "k": "Neben der Beziehung zu der mutmaßlichen chinesischen Spionin soll Huang eine wei",
-     "d": "618b6ad4e2.mp3",
-     "l": 49.79,
-     "s": [
-      0.25,
-      6.24,
-      14.32,
-      22.41,
-      26.46,
-      31.97,
-      37.85,
-      45.35
-     ]
-    },
-    {
-     "k": "Die Vorwürfe berühren das Verhältnis zwischen den Vereinigten Staaten und der Vo",
-     "d": "fcf872b3da.mp3",
-     "l": 67.17,
-     "s": [
-      0.25,
-      5.99,
-      12.93,
-      22.24,
-      31.96,
-      41.56,
-      51.21,
-      58.09
-     ]
-    },
-    {
-     "k": "Ein Verwaltungsrat ist ein Aufsichtsgremium in Unternehmen, das die Geschäftsfüh",
-     "d": "6c5bcf0f26.mp3",
-     "l": 20.92,
-     "s": [
-      0.25,
-      7.93,
-      13.53
-     ]
-    },
-    {
-     "k": "Armina Rosenberg, Portfoliomanagerin und Mitgründerin der beteiligten Gesellscha",
-     "d": "ba53b464fe.mp3",
-     "l": 41.35,
-     "s": [
-      0.25,
-      12.49,
-      19.84,
-      28.53
-     ]
-    },
-    {
-     "k": "Der Verwaltungsrat plant Entscheidungen über die Zukunft des Vorstandschefs. Am ",
-     "d": "6b2506033f.mp3",
-     "l": 29.08,
-     "s": [
-      0.25,
-      4.56,
-      13.99,
-      21.09
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Der Mercedes-Benz-Konzern will die Option von Werksschließungen konkret weiterverfolgen. Gleichzeitig bleiben die Investitionen an den deutschen Standorten so lange ausgesetzt, bis in den Verhandlungen eine Einigung erzielt wird. Sollte es zu keinem Kompromiss kommen, plant das Unternehmen, neue Modelle ausschließlich im Ausland zu fertigen."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "Vor wenigen Wochen",
+     "Produktionsvorstand Schiebe brachte die Schließung von zwei Werken in Deutschland ins Gespräch."
+    ],
+    [
+     "12. November 2026",
+     "Der Konzernvorstand kündigt den Investitionsstopp und die Prüfung von Werksschließungen an."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "institution",
+     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
+     "bildunterschrift": "Der Hauptsitz des Automobilkonzerns Mercedes-Benz in Stuttgart."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Stuttgart city skyline",
+     "bildunterschrift": "Blick auf Stuttgart, einen zentralen Standort der deutschen Automobilindustrie."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Automobile manufacturing assembly line",
+     "bildunterschrift": "Eine Produktionsstraße in der Automobilindustrie."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "IG Metall headquarters Frankfurt",
+     "bildunterschrift": "Die Zentrale der Gewerkschaft IG Metall in Frankfurt am Main."
+    }
+   ],
+   "ort": {
+    "name": "Stuttgart, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Entfernung von nicht belegten Adjektiven und wertenden Formulierungen im gesamten Artikel, um die Neutralität zu wahren. Korrektur von Zahlen und Belegen entsprechend den mitgelieferten Berichten."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Investition",
+      "Das Anlegen von Geld in ein Unternehmen, zum Beispiel für neue Maschinen oder Gebäude."
+     ],
+     [
+      "Gewerkschaft",
+      "Eine Organisation von Arbeitnehmern, die sich für bessere Löhne und Arbeitsbedingungen einsetzt."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente nennen die Unternehmensleitung und die Arbeitnehmerseite in den Verhandlungen?",
+     "Welche Folgen könnte der Investitionsstopp für die Regionen der deutschen Standorte haben?"
+    ],
+    "quiz": [
+     {
+      "frage": "Was hat der Vorstand von Mercedes-Benz am zwölften November angekündigt?",
+      "optionen": [
+       "Alle Investitionen in deutsche Standorte werden gestoppt",
+       "Alle Fabriken in Deutschland werden sofort geschlossen",
+       "Die Löhne aller Mitarbeiter werden um zwanzig Prozent erhöht"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Tagesschau und Zeit hat der Vorstand alle Investitionen in deutsche Standorte auf Eis gelegt."
+     },
+     {
+      "frage": "Welche Forderung stellt das Management an die Beschäftigten?",
+      "optionen": [
+       "Kürzere Arbeitszeiten bei gleichen Löhnen",
+       "Länger arbeiten ohne Lohnausgleich",
+       "Keine Arbeit an Wochenenden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau fordert der Vorstand, dass Beschäftigte ohne Lohnausgleich länger arbeiten sollen."
+     },
+     {
+      "frage": "Wie begründet der Vorstand die Maßnahmen?",
+      "optionen": [
+       "Durch Gewinneinbrüche und hohe Kostenstrukturen im internationalen Vergleich",
+       "Durch neue Gesetze der Bundesregierung",
+       "Durch den Wunsch nach einem Umzug ins Ausland"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Tagesschau begründet der Vorstand den Schritt mit Gewinneinbrüchen, hohem Preisdruck und hohen Kosten in Deutschland."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der Autobauer Mercedes-Benz stoppt vorerst alle Investitionen in deutsche Standorte. Grund dafür sind schwierige Verhandlungen über Sparmaßnahmen.",
+    "absaetze": [
+     "Das Unternehmen will Kosten senken und prüft nun auch die Schließung von Werken in Deutschland. Nach Angaben des Vorstandes gibt es trotz vieler Gespräche noch keine Lösung.",
+     "Der Vorstand fordert von den Beschäftigten, dass sie länger arbeiten, ohne dafür mehr Geld zu bekommen. Im Gespräch ist eine Arbeitszeit von vierzig statt fünfunddreißig Stunden in der Woche.",
+     "Der Betriebsrat und die Gewerkschaft IG Metall lehnen diese Forderung ab. Die IG Metall fordert in einer Tarifrunde zudem fünf Prozent mehr Geld für die Beschäftigten."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Autohersteller Mercedes-Benz stoppt alle neuen Investitionen in Deutschland.",
+     "Grund sind stockende Verhandlungen über Einsparungen mit dem Betriebsrat.",
+     "Der Vorstand prüft nun konkret die Schließung von Werken."
+    ],
+    "lang": [
+     "Der Automobilkonzern Mercedes-Benz stoppt alle weiteren Investitionen in deutsche Standorte.",
+     "Das teilte das Unternehmen am zwölften November des Jahres zweitausendsechsundzwanzig mit.",
+     "Grund sind stockende Verhandlungen über Kostensenkungen mit dem Betriebsrat und der Gewerkschaft.",
+     "Der Vorstand fordert von den Mitarbeitern längere Arbeitszeiten ohne zusätzlichen Lohnausgleich.",
+     "Nach Angaben von Produktionsvorstand Michael Schiebe sind die Kosten an deutschen Standorten im internationalen Vergleich zu hoch.",
+     "Personalvorständin Britta Seeger erklärte, das Unternehmen müsse nun prüfen, welche Standorte man sich noch leisten könne.",
+     "Der Betriebsrat und die IG Metall lehnen längere Arbeitszeiten als rote Linie ab.",
+     "Konkurrenten wie BMW verzeichnen ebenfalls Gewinneinbrüche.",
+     "Das Unternehmen will so lange nicht in Deutschland investieren, bis eine Einigung erzielt wird."
+    ],
+    "einfach": [
+     "Mercedes-Benz stoppt alle neuen Investitionen an deutschen Standorten.",
+     "Grund sind schwierige Verhandlungen über Sparmaßnahmen.",
+     "Der Vorstand prüft nun die Schließung von Werken.",
+     "Arbeitnehmer und Gewerkschaften lehnen längere Arbeitszeiten ab."
+    ]
+   },
+   "kurz": [
+    "Der Autohersteller Mercedes-Benz stoppt alle Investitionen in deutsche Standorte.",
+    "Grund sind stockende Verhandlungen über Kostensenkungen mit dem Betriebsrat und der Gewerkschaft.",
+    "Der Konzern prüft nun konkret die Schließung von Werken in Deutschland."
+   ],
+   "fakten": [
+    [
+     "Mitarbeiter-Gewerkschaftsforderung IG Metall",
+     "fünf Prozent mehr Geld"
+    ],
+    [
+     "Datum der Ankündigung",
+     "12. November 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "mercedes-benz-sparverhandlungen",
+    "titel": "Sparverhandlungen und Investitionsstopp bei Mercedes-Benz"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Stuttgart, Deutschland",
+    "lat": 48.778,
+    "lon": 9.18
+   },
+   "version": 5
   },
   {
    "id": "kriegsdienstverweigerung-deutschland-anstieg",
@@ -6217,385 +6324,6 @@
       17.97,
       24.69,
       30.69
-     ]
-    }
-   ]
-  },
-  {
-   "id": "schuesse-krakau",
-   "rubrik": "Welt",
-   "zeit": "2026-11-10T09:37:56.000Z",
-   "aktualisiert": "aktualisiert um 10:41 Uhr",
-   "titel": "Gedenken an die Opfer nach dem Gewalttat in Krakau",
-   "vorspann": "Zehntausende Menschen haben in Krakau mit einem Schweigemarsch der Opfer eines Angriffs gedacht. Der mutmaßliche Täter ist inzwischen im Krankenhaus gestorben.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "In Krakau gedachten Zehntausende Menschen bei einem Schweigemarsch der Opfer eines Schusswaffenangriffs.",
-    "Ein Angreifer hatte am Samstag auf einem Marktplatz sechs Menschen getötet und 15 weitere verletzt.",
-    "Zusätzlich fand die Polizei im Haus der Familie drei tote Angehörige des Verdächtigen in einer anderen Stadt.",
-    "Der mutmaßliche Täter starb im Krankenhaus an Verletzungen, die er bei einem Schusswechsel mit der Polizei erlitten hatte.",
-    "Die Generalstaatsanwaltschaft teilte mit, dass ein Motiv und Hinweise auf eine Ideologie bisher unklar sind."
-   ],
-   "einig": [
-    [
-     "Zehntausende Menschen nahmen an einem Schweigemarsch in Krakau teil.",
-     [
-      "Deutschlandfunk",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Sechs Menschen wurden bei dem Angriff auf dem Marktplatz getötet und 15 verletzt.",
-     [
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Präsident Karol Nawrocki und Ministerpräsident Donald Tusk nahmen gemeinsam an den Gedenkfeiern teil.",
-     [
-      "ZDFheute",
-      "Spiegel"
-     ]
-    ],
-    [
-     "Der Angreifer starb im Krankenhaus an seinen Verletzungen.",
-     [
-      "Deutschlandfunk",
-      "Spiegel"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Das Motiv des Täters ist unklar; die Generalstaatsanwaltschaft sieht keine Belege für eine Ideologie, während Innenminister Kierwinski zuvor von rechtsextremer Faszination sprach (laut Spiegel)."
-   ],
-   "positionen": [
-    [
-     "Präsident Karol Nawrocki",
-     "Gedenkt gemeinsam mit dem Ministerpräsidenten der Opfer und führt den Trauermarsch an.",
-     "ZDFheute,Spiegel"
-    ],
-    [
-     "Ministerpräsident Donald Tusk",
-     "Nimmt trotz politischer Konflikte gemeinsam mit dem Präsidenten an den Gedenken teil und führt den Trauerzug an.",
-     "ZDFheute,Spiegel"
-    ],
-    [
-     "Innenminister Marcin Kierwinski",
-     "Äußerte am Samstag, der Täter sei von rechtsextremen Ideologien fasziniert gewesen.",
-     "Spiegel"
-    ],
-    [
-     "Generalstaatsanwaltschaft (Sprecher Przemyslaw Nowak)",
-     "Bestätigte eine rechtsextreme Ideologie nicht und erklärte, es gebe keinerlei Hinweise auf eine ideologische Inspiration.",
-     "Spiegel"
-    ]
-   ],
-   "fehlend": "Es kommen keine Augenzeugen oder Opfer direkt zu Wort.",
-   "medien": [
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "10.11.26, 09:45",
-     "fokus": "Teilnahme der Spitzenpolitiker",
-     "text": "Berichtet kurz über die Teilnahme von Präsident Nawrocki und Ministerpräsident Tusk am Gedenken in Krakau und nennt die Opferzahlen.",
-     "url": "https://www.zdfheute.de/video/schweigemarsch-in-krakau-100.html",
-     "video": true,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 8,
-      "minuten": 1,
-      "woerter": 60,
-      "satzlaenge": 12,
-      "langeWoerter": 37
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "10.11.26, 10:37",
-     "fokus": "Trauermarsch und Todesfall",
-     "text": "Meldet den Schweigemarsch von Zehntausenden Menschen in Krakau und den Tod des Attentäters im Krankenhaus.",
-     "url": "https://www.deutschlandfunk.de/trauermarsch-in-krakau-attentaeter-im-krankenhaus-gestorben-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "09.11.26, 22:06",
-     "fokus": "Hintergründe und politische Einigkeit",
-     "text": "Liefert ausführliche Details zu den getöteten Familienmitgliedern, den widersprüchlichen Aussagen zu einem Motiv und der politischen Lage in Polen.",
-     "url": "https://www.spiegel.de/ausland/nawrocki-und-tusk-gedenken-gemeinsam-der-opfer-von-krakau-a-86468814-23c1-47fc-8d9a-3995695fe1f2#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 12,
-      "minuten": 1,
-      "woerter": 293,
-      "satzlaenge": 18,
-      "langeWoerter": 37
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Teilnehmerzahl",
-     "ZDFheute spricht allgemein von 'Tausenden Menschen', während Deutschlandfunk und Spiegel von 'Zehntausenden' berichten."
-    ],
-    [
-     "Details zu Opfern und Motiv",
-     "Spiegel nennt als einzige Quelle die drei getöteten Verwandten außerhalb Krakaus sowie die widersprüchlichen Aussagen von Innenminister und Staatsanwaltschaft."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Zehntausende Menschen, der Präsident und der Ministerpräsident",
-    "was": "Ein Schweigemarsch für die Opfer und Todesfälle",
-    "wann": "Samstag bis Montag",
-    "wo": "Krakau und Ostrowiec Świętokrzyski, Polen",
-    "wie": "Mit einem Schweigemarsch und Kerzen",
-    "warum": "Noch unklar, laut Generalstaatsanwaltschaft gibt es keine Beweise für eine Ideologie",
-    "quellenlage": "ZDFheute, Deutschlandfunk und Spiegel"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "In der polnischen Stadt Krakau haben Zehntausende Menschen an einem Schweigemarsch teilgenommen. Sie gedachten damit der Opfer des Schusswaffenangriffs vom Samstag. Der Täter hatte auf dem Krakau Marktplatz das Feuer eröffnet. Dabei wurden sechs Menschen getötet und 15 weitere verletzt.",
-      "Nach der Tat kam es auf der Flucht zu einer Kollision. Anschließend erlitt der Täter bei einem Schusswechsel mit Polizeibeamten Verletzungen. Er wurde in ein Krankenhaus gebracht und ist dort am Montagmorgen gestorben.",
-      "Die Polizei fand im Haus der Familie in Ostrowiec Świętokrzyski, etwa 150 Kilometer von Krakau entfernt, drei weitere tote Angehörige. Bei den Opfern handelte es sich um die Eltern und die Schwester des 24-jährigen mutmaßlichen Angreifers. Die Ermittler gehen davon aus, dass der Täter diese Personen ebenfalls getötet hat.",
-      "Schon vor dem offiziellen Trauerzug zündeten viele Menschen am Tatort Kerzen an. Sie legten zudem Blumen und Karten mit Botschaften des Mitgefühls nieder. Der offizielle Trauerzug wurde von den wichtigsten Politikern des Landes angeführt."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten des Ablaufs",
-     "absaetze": [
-      "Der Angreifer fuhr am Samstagnachmittag gegen 15:00 Uhr mit einem Auto auf den Krakauer Marktplatz. Aus dem Fahrzeug heraus begann er, auf Passanten zu schießen. Nach der Tat floh der Mann zunächst von dem Ort des Geschehens.",
-      "Nach einer Fahrt kam es zu einer Kollision und einem Schusswechsel mit der Polizei. Bei diesem Schusswechsel wurde der Mann schwer verletzt. Rettungskräfte brachten ihn in ein Krankenhaus, wo er medizinisch versorgt wurde.",
-      "Am Samstagabend entdeckte die Polizei bei der Untersuchung eines Hauses in Ostrowiec Świętokrzyski drei leblose Körper. Es handelte sich um die nahen Verwandten des mutmaßlichen Täters. Die Ermittlungen zu den genauen Umständen an diesem zweiten Tatort dauern an.",
-      "Am Montag wurde bekannt, dass der 24-jährige Verdächtige im Krankenhaus gestorben ist. Er erlag dort den Verletzungen, die er während des Schusswechsels mit der Polizei erlitten hatte. Damit ist der Hauptverdächtige des Verbrechens tot."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund und Ermittlungen",
-     "absaetze": [
-      "Die Hintergründe der Tat sind nach Angaben der Behörden weiter völlig unklar. Die Generalstaatsanwaltschaft teilte in einer Pressekonferenz mit, dass es bislang keinerlei Hinweise darauf gebe, dass der Täter von einer Ideologie inspiriert war. Bei den bisherigen Untersuchungen wurden keine klaren Symbole einer bestimmten politischen Bewegung gefunden.",
-      "Zuvor hatte Innenminister Marcin Kierwinski am Samstag laut Spiegel-Berichten geäußert, der Mann sei von rechtsextremen Ideologien fasziniert gewesen. Die Generalstaatsanwaltschaft bestätigte diese Angabe jedoch nicht und betonte, es sei noch zu früh, um sich zum Motiv zu äußern. Die Justizbehörden ermitteln vorerst weiter wegen des Verdachts einer terroristischen Tat.",
-      "Die beiden führenden Politiker des Landes, die sich politisch normalerweise scharf bekämpfen, zeigten bei dem Trauermarsch Einigkeit. Ministerpräsident Donald Tusk und Präsident Karol Nawrocki stehen sich derzeit in einem erbitterten Konflikt um das Verfassungsgericht gegenüber. Trotz dieser politischen Differenzen führten sie den Trauerzug gemeinsam an."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Generalstaatsanwaltschaft ist eine übergeordnete Behörde der Staatsanwälte in einem Staat. Sie koordiniert Ermittlungen, leitet große Verfahren und informiert die Öffentlichkeit über den Stand von wichtigen Strafverfahren. Sprecher dieser Behörden geben offizielle Mitteilungen an die Medien heraus.",
-      "Ein Verfassungsgericht ist ein oberstes Gericht in einem Staat, das die Einhaltung der Verfassung überwacht. Es klärt Streitigkeiten zwischen verschiedenen Verfassungsorgane wie der Regierung und dem Präsidenten. Auseinandersetzungen um dieses Gericht betreffen oft die Verteilung von Macht im Staat."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Präsident Karol Nawrocki nahm an dem Schweigemarsch in Krakau teil. Laut ZDFheute, Deutschlandfunk und Spiegel zündete er gemeinsam mit anderen Kerzen an. Er führte den Trauerzug an der Seite des Regierungschefs an.",
-      "Ministerpräsident Donald Tusk war ebenfalls bei der Kundgebung anwesend. Laut den Berichten führte er den Trauerzug gemeinsam mit dem Präsidenten und dem Bürgermeister an. Auch er zündete Kerzen zum Gedenken an die Opfer an.",
-      "Der Krakauer Bürgermeister Lukasz Gibala beteiligte sich ebenfalls an der Spitze des Trauerzuges. Laut Spiegel führte er den Zug gemeinsam mit Tusk und Nawrocki an.",
-      "Der Sprecher der Generalstaatsanwaltschaft, Przemyslaw Nowak, erklärte auf einer Pressekonferenz, es gebe keine Hinweise auf eine ideologische Motivation des Täters. Laut Spiegel sagte er zudem, dass noch keine klaren Symbole einer politischen Bewegung gefunden wurden.",
-      "Innenminister Marcin Kierwinski äußerte sich nach Angaben des Spiegels am Samstag ebenfalls. Laut dieser Meldung sagte er zunächst, der Mann sei von rechtsextremen Ideologien fasziniert gewesen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Ermittlungen der Behörden zu den Hintergründen des Verbrechens werden fortgesetzt. Die Generalstaatsanwaltschaft prüft weiterhin den Verdacht einer terroristischen Tat, auch wenn ein Motiv noch nicht feststeht. Weitere Auskünfte hängen vom Fortgang der kriminalpolizeilichen Untersuchungen ab.",
-      "Nach dem Tod des Hauptverdächtigen im Krankenhaus konzentrieren sich die Behörden auf die Aufklärung der Tatzusammenhänge in Krakau und Ostrowiec Świętokrzyski. Dabei sollen Spuren und Beweismittel ausgewertet werden, um Fragen zum Ablauf und zu möglichen Hintermännern oder Mitwissern zu klären."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Samstag, gegen 15:00 Uhr",
-     "Ein Mann fährt auf den Marktplatz in Krakau und schießt auf Passanten."
-    ],
-    [
-     "Samstag, kurz nach 15:00 Uhr",
-     "Nach einer Kollision auf der Flucht kommt es zu einem Schusswechsel mit der Polizei; der Verdächtige wird festgenommen."
-    ],
-    [
-     "Sonntag",
-     "Die Staatsanwaltschaft ermittelt wegen des Verdachts auf eine terroristische Straftat, und die Staatstrauer beginnt."
-    ],
-    [
-     "Samstag, 15:00 Uhr",
-     "Ein Mann fährt mit einem Auto auf den Krakauer Hauptmarkt und beginnt zu schießen."
-    ],
-    [
-     "Samstag, im Laufe des Nachmittags",
-     "Nach einer Flucht und einem Schusswechsel mit der Polizei wird der Täter festgenommen."
-    ],
-    [
-     "Samstagabend",
-     "Die Polizei findet im Haus der Familie in Ostrowiec Swietokrzyski drei tote Angehörige."
-    ],
-    [
-     "Samstag",
-     "Ein Mann schießt in Krakau aus einem Auto und tötet sechs Menschen."
-    ],
-    [
-     "Sonntag",
-     "Die Staatsanwaltschaft stuft die Tat als terroristisch ein und eine zweitägige Staatstrauer beginnt."
-    ],
-    [
-     "Samstag",
-     "Ein Angreifer schießt auf dem Marktplatz in Krakau auf Passanten."
-    ],
-    [
-     "Samstag",
-     "Nach einer Flucht kommt es zu einem Schusswechsel mit der Polizei und der Festnahme des Verdächtigen."
-    ],
-    [
-     "Samstagabend",
-     "Die Polizei findet im Haus der Familie in Ostrowiec Świętokrzyski drei tote Angehörige."
-    ],
-    [
-     "Montagmorgen",
-     "Der mutmaßliche Täter stirbt im Krankenhaus an seinen Verletzungen."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Da es sich um eine Gewalttat mit Toten handelt, wird kein Bild gezeigt."
-    }
-   ],
-   "ort": {
-    "name": "Krakau, Polen"
-   },
-   "geprueft": false,
-   "korrekturen": [],
-   "wortwarnung": [],
-   "dossier": {
-    "slug": "gewaltverbrechen-krakau",
-    "titel": "Gewaltverbrechen in Krakau"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Krakau, Polen",
-    "lat": 50.047,
-    "lon": 19.997
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Das Motiv des Täters ist unklar; die Generalstaatsanwaltschaft sieht keine Beleg",
-     "d": "8a6870f55a.mp3",
-     "l": 10.89,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "In der polnischen Stadt Krakau haben Zehntausende Menschen an einem Schweigemars",
-     "d": "17f106286b.mp3",
-     "l": 38.74,
-     "s": [
-      0.25,
-      5.65,
-      9.45,
-      13.01,
-      16.88,
-      20,
-      24.47,
-      28.83
-     ]
-    },
-    {
-     "k": "Der Angreifer fuhr am Samstagnachmittag gegen 15:00 Uhr mit einem Auto auf den K",
-     "d": "a805caedb3.mp3",
-     "l": 38.75,
-     "s": [
-      0.25,
-      7.35,
-      11.45,
-      14.87,
-      19.45,
-      22.43,
-      27.31,
-      34.65
-     ]
-    },
-    {
-     "k": "Die Hintergründe der Tat sind nach Angaben der Behörden weiter völlig unklar. Di",
-     "d": "f29f2918c2.mp3",
-     "l": 56.55,
-     "s": [
-      0.25,
-      4.71,
-      13.64,
-      19.76,
-      28.59,
-      35.97,
-      40.77,
-      48.18
-     ]
-    },
-    {
-     "k": "Eine Generalstaatsanwaltschaft ist eine übergeordnete Behörde der Staatsanwälte ",
-     "d": "90ac69cb5f.mp3",
-     "l": 33.7,
-     "s": [
-      0.25,
-      6.37,
-      13.75,
-      17.79,
-      23.25,
-      28.76
-     ]
-    },
-    {
-     "k": "Präsident Karol Nawrocki nahm an dem Schweigemarsch in Krakau teil. Laut ZDFheut",
-     "d": "41eeb06e1c.mp3",
-     "l": 37.23,
-     "s": [
-      0.25,
-      4.37,
-      9.99,
-      13.54,
-      17.78,
-      23.5,
-      26.46,
-      32.69
-     ]
-    },
-    {
-     "k": "Die Ermittlungen der Behörden zu den Hintergründen des Verbrechens werden fortge",
-     "d": "e44c8540ab.mp3",
-     "l": 34.05,
-     "s": [
-      0.25,
-      5.02,
-      12.02,
-      16.7,
-      26.01
      ]
     }
    ]
