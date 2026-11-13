@@ -2255,7 +2255,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
+   "d": "6e3c1704f7.mp3",
+   "l": 18.58,
+   "s": [
+    0.25,
+    3.54,
+    9.77,
+    12.91,
+    15.79
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2269,173 +2281,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Donnerstag, 12. ",
-    "d": "b94c2d7055.mp3",
-    "l": 9.99,
-    "s": [
-     0.25,
-     2.74,
-     6.2
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Donnerst",
-    "d": "86aabd844e.mp3",
-    "l": 10.78,
-    "s": [
-     0.25,
-     2.64,
-     6.91
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Donnerstag, 12. N",
-    "d": "728dfc2acc.mp3",
-    "l": 10.77,
-    "s": [
-     0.25,
-     3.04,
-     6.76
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Donnerstag, 12. Nov",
-    "d": "1ab7ad8a70.mp3",
-    "l": 9.97,
-    "s": [
-     0.25,
-     2.72,
-     6.17
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Donnerstag, 1",
-    "d": "8a250a4641.mp3",
-    "l": 10.27,
-    "s": [
-     0.25,
-     2.62,
-     6.31
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Donnerst",
-    "d": "7f2d0500c0.mp3",
-    "l": 10.41,
-    "s": [
-     0.25,
-     2.57,
-     6.48
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Donnersta",
-    "d": "954d17365b.mp3",
-    "l": 10.62,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Freitag, 13. Nov",
+    "d": "2d29a7f91a.mp3",
+    "l": 10.32,
     "s": [
      0.25,
      2.66,
-     6.5
+     6.24
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Donnerst",
-    "d": "362a2d8ef9.mp3",
-    "l": 10.64,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Freitag,",
+    "d": "098cc0525a.mp3",
+    "l": 10.36,
     "s": [
      0.25,
-     2.73,
-     6.83
+     2.76,
+     6.65
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Donne",
-    "d": "f372991a14.mp3",
-    "l": 10.92,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Freitag, 13. Nove",
+    "d": "ece09c7e54.mp3",
+    "l": 10.77,
     "s": [
      0.25,
-     2.78,
-     6.98
+     2.89,
+     6.63
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Donne",
-    "d": "64523f2572.mp3",
-    "l": 10.97,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Freitag, 13. Novemb",
+    "d": "bdc97a135d.mp3",
+    "l": 10.15,
     "s": [
      0.25,
-     2.79,
-     6.98
+     2.66,
+     6.03
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Freitag, 13. ",
+    "d": "009e05cb99.mp3",
+    "l": 10.3,
+    "s": [
+     0.25,
+     2.86,
+     6.54
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Freitag,",
+    "d": "6c784a9761.mp3",
+    "l": 10.95,
+    "s": [
+     0.25,
+     2.56,
+     6.77
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Freitag, ",
+    "d": "f63be74ba6.mp3",
+    "l": 10.63,
+    "s": [
+     0.25,
+     2.63,
+     6.82
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Freitag,",
+    "d": "1b9d6a2aba.mp3",
+    "l": 10.71,
+    "s": [
+     0.25,
+     2.66,
+     6.86
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Freit",
+    "d": "017aeabe9c.mp3",
+    "l": 10.66,
+    "s": [
+     0.25,
+     2.58,
+     6.71
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Freit",
+    "d": "8cd124c75f.mp3",
+    "l": 11.02,
+    "s": [
+     0.25,
+     2.71,
+     6.85
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "9a42b32952.mp3",
-    "l": 10.83,
+    "d": "19c744c7c4.mp3",
+    "l": 11.38,
     "s": [
      0.25,
-     2.7,
-     6.84
+     2.72,
+     7.36
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Donnerstag, 12. Novem",
-    "d": "3fa771f1f8.mp3",
-    "l": 10.05,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Freitag, 13. November",
+    "d": "757fda0656.mp3",
+    "l": 9.56,
     "s": [
      0.25,
-     2.85,
-     6.14
+     2.73,
+     5.76
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Donnerstag, 12. November. Es",
-    "d": "76da4906cf.mp3",
-    "l": 9.92,
-    "s": [
-     0.25,
-     2.66,
-     5.71
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Donnerstag, 12. Novemb",
-    "d": "a4c284ae01.mp3",
-    "l": 9.81,
-    "s": [
-     0.25,
-     2.77,
-     6
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Donnerstag, 12. ",
-    "d": "789cae5aae.mp3",
-    "l": 11.12,
-    "s": [
-     0.25,
-     2.87,
-     6.97
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Donnerstag, 12. November. E",
-    "d": "7cfb961720.mp3",
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Freitag, 13. November. Es mo",
+    "d": "559a984992.mp3",
     "l": 9.79,
     "s": [
      0.25,
-     2.63,
-     5.98
+     2.6,
+     5.49
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Donnerstag, 12. November. ",
-    "d": "87f8b9226a.mp3",
-    "l": 9.86,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Freitag, 13. November.",
+    "d": "c6a3970b26.mp3",
+    "l": 9.58,
     "s": [
      0.25,
-     2.56,
-     5.84
+     2.6,
+     5.78
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Freitag, 13. Nov",
+    "d": "143bce23b2.mp3",
+    "l": 10.64,
+    "s": [
+     0.25,
+     2.77,
+     6.38
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Freitag, 13. November. Es m",
+    "d": "9d26ae3a9c.mp3",
+    "l": 9.96,
+    "s": [
+     0.25,
+     2.87,
+     5.96
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Freitag, 13. November. Es ",
+    "d": "cbd364f199.mp3",
+    "l": 9.55,
+    "s": [
+     0.25,
+     2.65,
+     5.75
     ]
    },
    {
@@ -6087,11 +6099,11 @@
     {
      "k": "In Hamburg und Baden-Württemberg hat es eine schwere Gewalttat mit insgesamt dre",
      "d": "db91073598.mp3",
-     "l": 16.45,
+     "l": 16.04,
      "s": [
       0.25,
-      6.3,
-      10.76
+      6.02,
+      10.56
      ]
     },
     {
