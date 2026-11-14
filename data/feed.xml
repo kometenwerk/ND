@@ -2,136 +2,150 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 13 Nov 2026 22:12:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 11:24:30 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Ilse Aigner stellt sich Bundestagsfraktionen vor</title>
     <description>Die Präsidentschaftskandidatin Ilse Aigner besucht Fraktionen und sorgt für Diskussionen. Malte und Jan analysieren die Reaktionen.</description>
     <itunes:summary>Die Präsidentschaftskandidatin Ilse Aigner besucht Fraktionen und sorgt für Diskussionen. Malte und Jan analysieren die Reaktionen.</itunes:summary>
-    <pubDate>Fri, 13 Nov 2026 22:12:23 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 22:12:23 GMT</pubDate>
     <guid isPermaLink="false">podcast-merzd-nachfolge-bundespraesident-frau</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-merzd-nachfolge-bundespraesident-frau.mp3" length="2806892" type="audio/mpeg"/>
     <itunes:duration>00:05:51</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hauptausgabe vom 2026-11-13</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia · Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia · Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet</itunes:summary>
-    <pubDate>Fri, 13 Nov 2026 07:52:17 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 07:52:17 GMT</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-11-13</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-13.mp3" length="1865612" type="audio/mpeg"/>
     <itunes:duration>00:05:11</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>US-Repräsentantenhaus stoppt Amtsenthebung von Verteidigungsminister Hegseth</title>
     <description>Das US-Repräsentantenhaus hat einen Antrag zur Amtsenthebung von Verteidigungsminister Pete Hegseth vorerst blockiert. Wir blicken auf die Hintergründe und die politischen Fronten in Washington.</description>
     <itunes:summary>Das US-Repräsentantenhaus hat einen Antrag zur Amtsenthebung von Verteidigungsminister Pete Hegseth vorerst blockiert. Wir blicken auf die Hintergründe und die politischen Fronten in Washington.</itunes:summary>
-    <pubDate>Thu, 12 Nov 2026 22:29:15 +0000</pubDate>
+    <pubDate>Thu, 12 Nov 2026 22:29:15 GMT</pubDate>
     <guid isPermaLink="false">podcast-amtsenthebungsverfahren-hegseth-gestoppt</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-amtsenthebungsverfahren-hegseth-gestoppt.mp3" length="2013548" type="audio/mpeg"/>
     <itunes:duration>00:04:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Ermittlungen gegen Nvidia-Chef Huang und China-Kontakte</title>
     <description>Wir sprechen über die US-Ermittlungen gegen Nvidia-Chef Jensen Huang und die Vorwürfe im Zusammenhang mit einer mutmaßlichen Spionin. Dabei beleuchten wir die Positionen aus Politik und Wirtschaft sowie offene Fragen.</description>
     <itunes:summary>Wir sprechen über die US-Ermittlungen gegen Nvidia-Chef Jensen Huang und die Vorwürfe im Zusammenhang mit einer mutmaßlichen Spionin. Dabei beleuchten wir die Positionen aus Politik und Wirtschaft sowie offene Fragen.</itunes:summary>
-    <pubDate>Wed, 11 Nov 2026 23:05:56 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 23:05:56 GMT</pubDate>
     <guid isPermaLink="false">podcast-spionage-verdacht-nvidia-huang</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-spionage-verdacht-nvidia-huang.mp3" length="2368172" type="audio/mpeg"/>
     <itunes:duration>00:04:56</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Gerücht?</title>
     <description>Ein Gerücht ist eine ungesicherte Nachricht von öffentlichem Interesse, die sich von Mensch zu Mensch verbreitet und dabei oft verändert wird. Die Forschung untersucht seit vielen Jahrzehnten, warum Menschen solche Aussagen weitergeben und wie sie wieder beendet werden können.</description>
     <itunes:summary>Ein Gerücht ist eine ungesicherte Nachricht von öffentlichem Interesse, die sich von Mensch zu Mensch verbreitet und dabei oft verändert wird. Die Forschung untersucht seit vielen Jahrzehnten, warum Menschen solche Aussagen weitergeben und wie sie wieder beendet werden können.</itunes:summary>
-    <pubDate>Wed, 11 Nov 2026 06:21:17 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 06:21:17 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-geruecht</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/e8e71d52a9.mp3" length="256700" type="audio/mpeg"/>
     <itunes:duration>00:00:43</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Die faszinierende Welt der Pilze</title>
     <description>Eine Entdeckungsreise durch das verborgene Leben der Pilze in der Natur.</description>
     <itunes:summary>Eine Entdeckungsreise durch das verborgene Leben der Pilze in der Natur.</itunes:summary>
-    <pubDate>Wed, 11 Nov 2026 06:03:32 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 06:03:32 GMT</pubDate>
     <guid isPermaLink="false">doku-die-faszinierende-welt-der-pilze</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-doku-die-faszinierende-welt-der-pilze.mp3" length="7849820" type="audio/mpeg"/>
     <itunes:duration>00:21:48</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Gewaltverbrechen und Staatstrauer in Polen</title>
     <description>Nach einer tödlichen Schusswaffenattacke in Krakau ermitteln die Behörden wegen Terrorismus. In ganz Polen gilt eine zweitägige Staatstrauer.</description>
     <itunes:summary>Nach einer tödlichen Schusswaffenattacke in Krakau ermitteln die Behörden wegen Terrorismus. In ganz Polen gilt eine zweitägige Staatstrauer.</itunes:summary>
-    <pubDate>Tue, 10 Nov 2026 00:31:07 +0000</pubDate>
+    <pubDate>Tue, 10 Nov 2026 00:31:07 GMT</pubDate>
     <guid isPermaLink="false">podcast-schuesse-krakau</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-schuesse-krakau.mp3" length="2426540" type="audio/mpeg"/>
     <itunes:duration>00:05:03</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Regierungsbildung in Israel</title>
     <description>Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit der Regierungsbildung nach der Parlamentswahl. Wir analysieren die Fristen und die Aussagen der Beteiligten.</description>
     <itunes:summary>Israels Präsident Herzog beauftragt Oppositionspolitiker Eisenkot mit der Regierungsbildung nach der Parlamentswahl. Wir analysieren die Fristen und die Aussagen der Beteiligten.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 20:44:51 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 20:44:51 GMT</pubDate>
     <guid isPermaLink="false">podcast-israel-regierungsbildung-eisenkot</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-israel-regierungsbildung-eisenkot.mp3" length="2497196" type="audio/mpeg"/>
     <itunes:duration>00:05:12</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich das Rätsel der Pantomime?</title>
     <description>Die Pantomime ist eine Form der darstellenden Kunst ohne Worte. Sie nutzt nur körperlichen Ausdruck wie Mimik und Gestik.</description>
     <itunes:summary>Die Pantomime ist eine Form der darstellenden Kunst ohne Worte. Sie nutzt nur körperlichen Ausdruck wie Mimik und Gestik.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 20:03:03 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 20:03:03 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-raetsel-der-pantomime</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/4a2ad34c1a.mp3" length="191468" type="audio/mpeg"/>
     <itunes:duration>00:00:32</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich die Gebärdensprache?</title>
     <description>Gebärdensprachen sind vollwertige und eigenständige Sprachen für gehörlose und schwerhörige Menschen. Sie funktionieren ganz ohne Lautsprache und nutzen stattdessen Hände, Mimik und den Körper.</description>
     <itunes:summary>Gebärdensprachen sind vollwertige und eigenständige Sprachen für gehörlose und schwerhörige Menschen. Sie funktionieren ganz ohne Lautsprache und nutzen stattdessen Hände, Mimik und den Körper.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 15:29:10 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 15:29:10 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-gebaerdensprache</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/47044d1edb.mp3" length="170300" type="audio/mpeg"/>
     <itunes:duration>00:00:28</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie funktioniert eigentlich das menschliche Ohr?</title>
     <description>Das Ohr ist ein empfindliches Sinnesorgan für die Aufnahme von Schall. Es hilft den Menschen beim Hören und bei der Orientierung im Raum.</description>
     <itunes:summary>Das Ohr ist ein empfindliches Sinnesorgan für die Aufnahme von Schall. Es hilft den Menschen beim Hören und bei der Orientierung im Raum.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 07:26:57 +0000</pubDate>
+    <pubDate>Sun, 08 Nov 2026 07:26:57 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-menschliche-ohr</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/24cdd1c332.mp3" length="158780" type="audio/mpeg"/>
     <itunes:duration>00:00:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Personalwechsel im Weißen Haus nach den Kongresswahlen</title>
     <description>US-Präsident Trump ersetzt seine Stabschefin Susie Wiles durch Stephen Miller. Wir beleuchten die Hintergründe und Reaktionen.</description>
     <itunes:summary>US-Präsident Trump ersetzt seine Stabschefin Susie Wiles durch Stephen Miller. Wir beleuchten die Hintergründe und Reaktionen.</itunes:summary>
-    <pubDate>Sat, 07 Nov 2026 20:32:03 +0000</pubDate>
+    <pubDate>Sat, 07 Nov 2026 20:32:03 GMT</pubDate>
     <guid isPermaLink="false">podcast-midterms-usa</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-midterms-usa.mp3" length="2027756" type="audio/mpeg"/>
     <itunes:duration>00:04:13</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>
