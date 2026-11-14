@@ -2262,7 +2262,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
+   "d": "c2e57e88bf.mp3",
+   "l": 16.95,
+   "s": [
+    0.25,
+    3.6,
+    7.93,
+    11.18,
+    14.32
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -4638,6 +4650,16 @@
       13.06,
       22.17,
       30.21
+     ]
+    },
+    {
+     "k": "Das Unternehmen plant, die Situation an den deutschen Standorten weiter zu prüfe",
+     "d": "d4bcfd03d4.mp3",
+     "l": 17.63,
+     "s": [
+      0.25,
+      5.02,
+      13.04
      ]
     }
    ]
