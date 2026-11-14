@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 14 Nov 2026 11:24:30 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 17:57:02 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -16,6 +16,17 @@
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
+    <title>Hauptausgabe vom 2026-11-14</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor · Mercedes-Benz stoppt Investitionen an deutschen Standorten und prüft Werksschließungen</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor · Mercedes-Benz stoppt Investitionen an deutschen Standorten und prüft Werksschließungen</itunes:summary>
+    <pubDate>Sat, 14 Nov 2026 11:24:30 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-11-14</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-14.mp3" length="481052" type="audio/mpeg"/>
+    <itunes:duration>00:01:20</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
+  <item>
     <title>Ilse Aigner stellt sich Bundestagsfraktionen vor</title>
     <description>Die Präsidentschaftskandidatin Ilse Aigner besucht Fraktionen und sorgt für Diskussionen. Malte und Jan analysieren die Reaktionen.</description>
     <itunes:summary>Die Präsidentschaftskandidatin Ilse Aigner besucht Fraktionen und sorgt für Diskussionen. Malte und Jan analysieren die Reaktionen.</itunes:summary>
@@ -23,17 +34,6 @@
     <guid isPermaLink="false">podcast-merzd-nachfolge-bundespraesident-frau</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-merzd-nachfolge-bundespraesident-frau.mp3" length="2806892" type="audio/mpeg"/>
     <itunes:duration>00:05:51</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-11-13</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia · Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Untersuchungen und Führungsdebatte beim Chiphersteller Nvidia · Bundesamt meldet Anstieg der Anträge auf Kriegsdienstverweigerung im Jahr 2026 · Kandidatin Ilse Aigner stellt sich mehreren Bundestagsfraktionen vor · US-Repräsentantenhaus stoppt Vorstoß zur Amtsenthebung von Verteidigungsminister Hegseth · Gespräche zwischen Ukraine, Russland und den USA in Abu Dhabi ohne offizielles Ergebnis beendet</itunes:summary>
-    <pubDate>Fri, 13 Nov 2026 07:52:17 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-11-13</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-13.mp3" length="1865612" type="audio/mpeg"/>
-    <itunes:duration>00:05:11</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>

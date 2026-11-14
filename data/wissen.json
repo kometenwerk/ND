@@ -1,6 +1,206 @@
 {
- "stand": "2026-11-11T06:03:32.311Z",
+ "stand": "2026-11-14T17:57:02.615Z",
  "stuecke": [
+  {
+   "id": "wie-funktionierte-eigentlich-die-posttaube",
+   "zeit": "2026-11-14T18:07:19.436Z",
+   "bereich": "Geschichte",
+   "titel": "Wie funktionierte eigentlich die Posttaube?",
+   "vorspann": "Brieftauben wurden früher für die Nachrichtenübermittlung eingesetzt. Heute werden ihre Fähigkeiten durch die Zucht und bei Sportwettbewerben erhalten.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Die Brieftaube ist eine Taubenrasse. Sie zeichnet sich durch ein ausgeprägtes Heimfindevermögen aus. Zudem kann sie in kürzester Zeit weite Strecken zurücklegen. Die Vögel stammen von den Haustauben ab. Früher wurden sie verwendet, um Nachrichten zu übermitteln.",
+      "Die Taubenpost war der Anfang der Flugpost. Heute werden die Fähigkeiten der Tiere durch die Brieftaubenzucht erhalten. Dazu werden die Tauben auf Distanzflügen trainiert. Züchter verstehen ihr Hobby als Sport."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Zum Transport einer Botschaft wird die Taube von ihrem Heimatschlag zum Abflugort gebracht. Dort wird sie in einem Behältnis festgehalten. Die Nachricht wird auf einem zusammengerollten Zettel am Fuß oder Rücken befestigt. Nach dem Auflass fliegt die Taube zum Heimatschlag zurück.",
+      "Bei Wettbewerben werden die Tauben mit Speziallastwagen zu einem Auflassplatz transportiert. Dieser liegt etwa einhundert bis sechshundertundfünfzig Kilometer entfernt. Die Tauben treten ihren Heimflug an, wenn das Wetter es erlaubt. Eine Flugleitung entscheidet über den Start.",
+      "Die Identifikation erfolgt über einen Nummernring am Fuß. Verirrte Tauben können damit gemeldet werden. Die Alttauben nehmen an bis zu vierzehn Distanzflügen teil. Jungtauben absolvieren bis zu fünf Flüge."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Historische Beispiele zeigen den früheren Einsatz von Tauben. Im Jahr achtzehnfünfzehn wurde die Nachricht vom Sieg in der Schlacht von Waterloo an die britische Regierung übermittelt. Die Schweizer Armee etablierte im Jahr neunzehnsiebenzehn einen Brieftaubendienst.",
+      "In der Forschung wurden Studien zum Heimfindevermögen veröffentlicht. In den Jahren zweitausend und zweitausendundeins wurden Kristalle im Oberschnabel entdeckt. Im Jahr zweitausendzehn wurde das Schnabelorgan als biologisches Magnetometer interpretiert."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Eine vollständige Erklärung des Heimfindeverhaltens der Brieftauben ist bis heute noch nicht gefunden."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Entfernung Auflassplatz",
+     "100 bis 650 Kilometer"
+    ],
+    [
+     "Höchstgeschwindigkeit",
+     "120 km/h"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Brieftaube",
+     "Eine Taubenrasse mit besonderem Orientierungs- und Heimfindevermögen."
+    ],
+    [
+     "Kabinenexpress",
+     "Ein Speziallastwagen für den Transport der Tauben zum Auflassplatz."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Woher stammen Brieftauben ab?",
+     "optionen": [
+      "Von Haustauben",
+      "Von Wildtauben",
+      "Von Zugvögeln"
+     ],
+     "richtig": 0,
+     "erklaerung": "Brieftauben stammen laut Artikel von den Haustauben ab."
+    }
+   ],
+   "video": [
+    "Brieftauben haben ein ausgeprägtes Heimfindevermögen.",
+    "Früher wurden sie zur Nachrichtenübermittlung genutzt.",
+    "Die Taubenpost war der Anfang der Flugpost.",
+    "Heute werden die Tiere auf Distanzflügen trainiert.",
+    "Züchter betreiben diesen Sport in Vereinen.",
+    "Ein Speziallastwagen bringt die Tiere zum Start.",
+    "Sie fliegen von dort zu ihrem Heimatschlag zurück.",
+    "Die Forschung untersucht ihren Magnetsinn."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Brieftaube",
+    "bildunterschrift": "Eine Brieftaube auf einem Flug."
+   },
+   "quelle": {
+    "titel": "Brieftaube",
+    "url": "https://de.wikipedia.org/wiki/Brieftaube",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 250,
+   "bildInfos": [
+    {
+     "titel": "Postduif.jpg",
+     "beschreibung": "The homing pigeon is a variety of domesticated Rock Dove ( Columba livia ) that has been selectively bred to be able to find its way home over extremely long distances. Because any pigeon generally re",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Postduif.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Postduif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Postduif.jpg",
+     "urheber": "Patrick Edwin Moran",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "artikel": "Brieftaube",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Eine Brieftaube auf einem Flug."
+    },
+    {
+     "titel": "1972 Musik Kpl uniform.jpg",
+     "beschreibung": "Swiss Army. Left, homing pigeon service sergeant major, Women's Military Service, uniform of 1986. Right, military music corporal, uniform of 1972. Swiss Army Museum.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/1972_Musik_Kpl_uniform.jpg/1280px-1972_Musik_Kpl_uniform.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/19/1972_Musik_Kpl_uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:1972_Musik_Kpl_uniform.jpg",
+     "urheber": "Wikimedia Commons user TheBernFiles .",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Swiss Army. Left, homing pigeon service sergeant major, Women's Military Service, uniform of 1986. Right, military music corporal, uniform of 1972. Swiss Army Museum."
+    },
+    {
+     "titel": "Brieftauben im Anflug.jpg",
+     "beschreibung": "Brieftauben im Anflug auf den Heimatschlag",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Brieftauben_im_Anflug.jpg/1280px-Brieftauben_im_Anflug.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/76/Brieftauben_im_Anflug.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Brieftauben_im_Anflug.jpg",
+     "urheber": "nitramtrebla",
+     "lizenz": "CC BY-SA 2.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Brieftauben im Anflug auf den Heimatschlag"
+    },
+    {
+     "titel": "Brieftaubenrucksack.jpg",
+     "beschreibung": "Brieftauben-\"Rucksack\" der Schweizer Armee",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Brieftaubenrucksack.jpg/1280px-Brieftaubenrucksack.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Brieftaubenrucksack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Brieftaubenrucksack.jpg",
+     "urheber": "nitramtrebla",
+     "lizenz": "CC BY-SA 2.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Brieftauben-\"Rucksack\" der Schweizer Armee"
+    },
+    {
+     "titel": "Brieftaubentransporter front IMGP6739 wp.jpg",
+     "beschreibung": "Brieftaubentransporter für Wettbewerbe. Mit freundlicher Genehmigung der reisevereinigung Bochum-Nord e.V.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Brieftaubentransporter_front_IMGP6739_wp.jpg/1280px-Brieftaubentransporter_front_IMGP6739_wp.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brieftaubentransporter_front_IMGP6739_wp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Brieftaubentransporter_front_IMGP6739_wp.jpg",
+     "urheber": "smial",
+     "lizenz": "FAL",
+     "lizenzUrl": "http://artlibre.org/licence/lal/en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Brieftaubentransporter für Wettbewerbe. Mit freundlicher Genehmigung der reisevereinigung Bochum-Nord e.V."
+    },
+    {
+     "titel": "Brieftaubenweibchen mit einem Jungtier.JPG",
+     "beschreibung": "Brieftaubenweibchen mit einem Jungtier",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Brieftaubenweibchen_mit_einem_Jungtier.JPG/1280px-Brieftaubenweibchen_mit_einem_Jungtier.JPG",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brieftaubenweibchen_mit_einem_Jungtier.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Brieftaubenweibchen_mit_einem_Jungtier.JPG",
+     "urheber": "Jens Freitag",
+     "lizenz": "CC BY-SA 3.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Brieftaubenweibchen mit einem Jungtier"
+    },
+    {
+     "titel": "Bundesarchiv Bild 183-1987-0621-007, Berlin, Gartenfest des VKSK.jpg",
+     "beschreibung": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . Berlin, Gartenfest des VKSK ADN-ZB Uh",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bundesarchiv_Bild_183-1987-0621-007%2C_Berlin%2C_Gartenfest_des_VKSK.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bundesarchiv_Bild_183-1987-0621-007%2C_Berlin%2C_Gartenfest_des_VKSK.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-1987-0621-007,_Berlin,_Gartenfest_des_VKSK.jpg",
+     "urheber": "Uhlemann, Thomas",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "For documentary purposes the German Federal Archive often retained the original image captions , which may be erroneous, biased, obsolete or politically extreme . Berlin, Gartenfest des VKSK ADN-ZB Uh"
+    }
+   ],
+   "bildInfo": {
+    "titel": "Postduif.jpg",
+    "beschreibung": "The homing pigeon is a variety of domesticated Rock Dove ( Columba livia ) that has been selectively bred to be able to find its way home over extremely long distances. Because any pigeon generally re",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Postduif.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Postduif.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Postduif.jpg",
+    "urheber": "Patrick Edwin Moran",
+    "lizenz": "Public domain",
+    "lizenzUrl": "",
+    "artikel": "Brieftaube",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Eine Brieftaube auf einem Flug."
+   }
+  },
   {
    "id": "wie-entsteht-eigentlich-ein-geruecht",
    "zeit": "2026-11-11T06:21:17.734Z",
@@ -6289,182 +6489,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Eine Sonnenfinsternis entsteht, wenn der Mond von der Erde aus gesehen vor der Sonne steht."
-   }
-  },
-  {
-   "id": "wie-entsteht-eigentlich-eine-sternschnuppe",
-   "zeit": "2026-10-20T20:38:29.953Z",
-   "bereich": "Weltall",
-   "titel": "Wie entsteht eigentlich eine Sternschnuppe?",
-   "vorspann": "Ein Aufleuchten am Nachthimmel entsteht, wenn kleine Teilchen in der Erdatmosphäre verglühen. Die Astronomie erforscht diese Leuchterscheinungen seit dem neunzehnten Jahrhundert.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Als Meteor wird das Aufleuchten von Sternschnuppen bezeichnet. Kleine Gesteins- oder Staubteilchen verglühen dabei in der Hochatmosphäre. Größere Körper werden als Feuerkugeln oder Boliden bezeichnet. Die wenigen Körper, die bis zur Erdoberfläche herabfallen, nennt man Meteorite. Der Begriff leitet sich aus dem altgriechischen Wort für in der Luft schwebend ab.",
-      "Die meisten Sternschnuppen sind in der zweiten Nachthälfte zu sehen. Dann liegt der Beobachter auf der Vorderseite der Erdbewegung um die Sonne. Besonders deutlich wird dies bei Meteorströmen wie den Perseiden im August oder den Geminiden im Dezember. Im volkstümlichen Aberglauben hat jemand, der zufällig eine Sternschnuppe sieht, einen Wunsch frei."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Meteoroide sind meist Staubkörner sowie kleine Metall- oder Gesteinskörner aus dem interplanetaren Raum. Sie fallen mit einer Geschwindigkeit von elf Komma zwei bis zweiundsiebzig Kilometern pro Sekunde in die Atmosphäre ein. Wegen dieser enormen Geschwindigkeit verdampfen die meisten in etwa achtzig Kilometern Höhe durch Luftreibung. Dabei ionisieren sie die Luftmoleküle und rufen helle Leuchtspuren hervor.",
-      "Meteorströme entstehen, wenn die Erde die Flugbahn eines Kometen kreuzt. Kometen verlieren auf ihrer Reise um die Sonne viele kleine Partikel aus gefrorenen Gasen und Staub. Ein Meteorstrom ist eine Art Wolke oder Schlauch von meteoroiden Partikeln auf parallelen Bahnen. Wenn die Rate nach Tausenden pro Stunde geschätzt werden muss, spricht man von einem Meteorschauer.",
-      "Die Helligkeit eines Meteors wird durch die Ablation des eindringenden Materials pro Zeitspanne bestimmt. Meteoroide aus weichem Material können in sehr kurzer Zeit in einem spektakulären Boliden aufgehen. Harte Materialien werden dagegen in einer viel lichtschwächeren Feuerkugel verbraucht. Neben der sichtbaren Erscheinung sind bei größeren Meteoren manchmal auch Geräusche wahrnehmbar."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Die Erforschung der Meteore hat in der Astronomie eine lange Tradition und wird seit etwa der Mitte des neunzehnten Jahrhunderts betrieben. Die Bahnbestimmung durch freiäugige Beobachtung oder durch spezielle Meteorkameras gibt Einblick in die Herkunft dieser Kleinkörper. Um achtzehn siebzig gelang dem Mailänder Astronomen Giovanni Schiaparelli der Nachweis, dass Meteorströme auf den Zerfall von Kometen zurückgehen.",
-      "Der beobachtete Helligkeitsverlauf der Leuchterscheinung lässt Rückschlüsse auf die Art des Materials und seine Festigkeit zu. Bis etwa neunzehnzig Fünfzig war die Analyse des Verglühens zudem eine der wenigen Möglichkeiten, die Dichte und Zusammensetzung der Hochatmosphäre zu untersuchen. Heute werden die Leuchteffekte unter anderem vom Europäischen Feuerkugelnetz systematisch beobachtet."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Meteoroide pro Tag im Weltall",
-     "zehn Milliarden"
-    ],
-    [
-     "Gesamtmasse der einfallenden Meteoroide pro Tag",
-     "zehn bis einhundertfünfzig Tonnen"
-    ],
-    [
-     "Geschwindigkeit der Meteoroide",
-     "elf Komma zwei bis zweiundsiebzig Kilometer pro Sekunde"
-    ],
-    [
-     "Höhe des Verglühens",
-     "etwa achtzig Kilometer"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Meteor",
-     "Das Aufleuchten von Sternschnuppen oder größeren Körpern beim Verglühen in der Hochatmosphäre."
-    ],
-    [
-     "Meteoroid",
-     "Ein meist kleiner Gesteins-, Metall- oder Staubkorn aus dem interplanetaren Raum."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wodurch entsteht die Leuchtspur einer Sternschnuppe?",
-     "optionen": [
-      "Durch ionisierte Luftmoleküle hinter dem Körper",
-      "Durch direkte Reflexion von Sonnenlicht",
-      "Durch das Leuchten des Erdbodens"
-     ],
-     "richtig": 0,
-     "erklaerung": "Durch Luftreibung und abdampfendes Material bildet sich eine Plasmaspur, die durch strahlende Rekombination leuchtet."
-    }
-   ],
-   "video": [
-    "Eine Sternschnuppe ist ein Meteor am nächtlichen Himmel.",
-    "Kleine Gesteins- oder Staubteilchen dringen in die Erdatmosphäre ein.",
-    "Diese Teilchen nennt man Meteoroide.",
-    "Sie rasen mit enormer Geschwindigkeit durch das Weltall.",
-    "Durch die starke Luftreibung beginnen sie in großer Höhe zu verdampfen.",
-    "Dabei entstehen helle Leuchtspuren und Plasmaspuren.",
-    "Manche dieser Teilchen stammen aus dem Staub von Kometen.",
-    "Die Erforschung dieser Himmelskörper hat eine lange Tradition in der Astronomie."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Meteor",
-    "bildunterschrift": "Eine Sternschnuppe leuchtet beim Verglühen in der Erdatmosphäre auf."
-   },
-   "quelle": {
-    "titel": "Meteor",
-    "url": "https://de.wikipedia.org/wiki/Meteor",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 366,
-   "bildInfos": [
-    {
-     "titel": "Meteor, 8.5.2016.jpg",
-     "beschreibung": "Meteor über Sardinien, 8.5.2016.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Meteor%2C_8.5.2016.jpg/1280px-Meteor%2C_8.5.2016.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Meteor%2C_8.5.2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Meteor,_8.5.2016.jpg",
-     "urheber": "Michael Eberth",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Meteor",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Eine Sternschnuppe leuchtet beim Verglühen in der Erdatmosphäre auf."
-    },
-    {
-     "titel": "MeteorAccGraph.jpg",
-     "beschreibung": "This diagram shows the acceleration of an idealized (spherical) meteoroid when entering the Earth's atmosphere at different initial velocities. As the density of the atmosphere increases in accord wit",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/MeteorAccGraph.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/a/ab/MeteorAccGraph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:MeteorAccGraph.jpg",
-     "urheber": "AllenMcC.",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "This diagram shows the acceleration of an idealized (spherical) meteoroid when entering the Earth's atmosphere at different initial velocities. As the density of the atmosphere increases in accord wit"
-    },
-    {
-     "titel": "Meteor burst.jpg",
-     "beschreibung": "This picture is of the Alpha- Monocerotid meteor outburst in 1995. The Perseid meteor shower, usually the richest meteor shower of the year, peaks in August. Over the course of an hour, a person watch",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Meteor_burst.jpg/1280px-Meteor_burst.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Meteor_burst.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Meteor_burst.jpg",
-     "urheber": "NASA Ames Research Center/S. Molau and P. Jenniskens",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "This picture is of the Alpha- Monocerotid meteor outburst in 1995. The Perseid meteor shower, usually the richest meteor shower of the year, peaks in August. Over the course of an hour, a person watch"
-    },
-    {
-     "titel": "Perseid meteor 2007.jpg",
-     "beschreibung": "A multicolored Perseid meteor striking the sky just to the right from Milky Way .",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Perseid_meteor_2007.jpg/1280px-Perseid_meteor_2007.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Perseid_meteor_2007.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Perseid_meteor_2007.jpg",
-     "urheber": "Brocken Inaglory",
-     "lizenz": "CC BY-SA 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "A multicolored Perseid meteor striking the sky just to the right from Milky Way ."
-    },
-    {
-     "titel": "Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "beschreibung": "Sternschnuppe mit einer Länge vom zwei Bogengrad vom Sternbild Stier (Taurus, rechts oben) durch das Sternbild Eridanus (Eri) bis in das Sternbild Orion im Vergleich zu benachbarten Sternen vierter bi",
-     "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sternschnuppe.scheinbare.Helligkeit.P1091635.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sternschnuppe.scheinbare.Helligkeit.P1091635.png",
-     "urheber": "Bautsch",
-     "lizenz": "CC0",
-     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Sternschnuppe mit einer Länge vom zwei Bogengrad vom Sternbild Stier (Taurus, rechts oben) durch das Sternbild Eridanus (Eri) bis in das Sternbild Orion im Vergleich zu benachbarten Sternen vierter bi"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Meteor, 8.5.2016.jpg",
-    "beschreibung": "Meteor über Sardinien, 8.5.2016.",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Meteor%2C_8.5.2016.jpg/1280px-Meteor%2C_8.5.2016.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Meteor%2C_8.5.2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Meteor,_8.5.2016.jpg",
-    "urheber": "Michael Eberth",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Meteor",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Eine Sternschnuppe leuchtet beim Verglühen in der Erdatmosphäre auf."
    }
   }
  ]

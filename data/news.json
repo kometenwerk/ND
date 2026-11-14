@@ -1,8 +1,6 @@
 {
- "stand": "2026-11-14T11:24:30.283Z",
+ "stand": "2026-11-14T17:57:02.615Z",
  "gepusht": [
-  "nord-stream-prozess-beginn",
-  "berliner-sondierungsgespraeche-unterbrochen",
   "sachsen-anhalt-ukraine-hilfen",
   "lufthansa-tap-portugal",
   "iran-spionage-hamburg-urteil",
@@ -80,16 +78,20 @@
   "amtsenthebungsverfahren-hegseth-gestoppt",
   "ukraine-gespraeche-abu-dhabi",
   "gewalttat-hamburg-eningen",
-  "mercedes-investitionsstopp- deutschland"
+  "mercedes-investitionsstopp- deutschland",
+  "nato-beitritt-ukraine-gebietsverzicht",
+  "flugstopp-usa-technische-panne"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "spionage-verdacht-nvidia-huang",
-  "mercedes-investitionsstopp- deutschland"
+  "mercedes-investitionsstopp- deutschland",
+  "nato-beitritt-ukraine-gebietsverzicht",
+  "flugstopp-usa-technische-panne"
  ],
  "wetter": {
-  "stand": "2026-11-14T11:24:30.283Z",
+  "stand": "2026-11-14T17:57:02.615Z",
   "morgenTag": "Sonntag",
   "orte": [
    {
@@ -98,38 +100,38 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 7,
-     "code": 2,
-     "gefuehlt": 4,
-     "wind": 13,
-     "windAus": 227,
-     "feuchte": 77,
-     "druck": 1018,
+     "grad": 5,
+     "code": 1,
+     "gefuehlt": 2,
+     "wind": 8,
+     "windAus": 193,
+     "feuchte": 87,
+     "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
      "code": 3,
-     "max": 8,
+     "max": 9,
      "min": 3,
      "regen": 5,
      "menge": 0,
      "wind": 13,
-     "windAus": 225,
+     "windAus": 224,
      "uv": 1.4,
      "auf": "07:44",
      "unter": "16:24"
     },
     "morgen": {
      "datum": "2026-11-15",
-     "code": 61,
-     "max": 9,
-     "min": 1,
-     "regen": 60,
-     "menge": 0.3,
-     "wind": 13,
-     "windAus": 169,
+     "code": 80,
+     "max": 8,
+     "min": 0,
+     "regen": 45,
+     "menge": 1.1,
+     "wind": 12,
+     "windAus": 162,
      "uv": 1.2,
      "auf": "07:45",
      "unter": "16:22"
@@ -138,132 +140,96 @@
      {
       "datum": "2026-11-14",
       "code": 3,
-      "max": 8,
+      "max": 9,
       "min": 3,
       "regen": 5,
       "menge": 0,
       "wind": 13,
-      "windAus": 225,
+      "windAus": 224,
       "uv": 1.4,
       "auf": "07:44",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-15",
-      "code": 61,
-      "max": 9,
-      "min": 1,
-      "regen": 60,
-      "menge": 0.3,
-      "wind": 13,
-      "windAus": 169,
+      "code": 80,
+      "max": 8,
+      "min": 0,
+      "regen": 45,
+      "menge": 1.1,
+      "wind": 12,
+      "windAus": 162,
       "uv": 1.2,
       "auf": "07:45",
       "unter": "16:22"
      },
      {
       "datum": "2026-11-16",
-      "code": 80,
+      "code": 61,
       "max": 9,
       "min": 3,
-      "regen": 73,
-      "menge": 1,
-      "wind": 16,
+      "regen": 63,
+      "menge": 1.6,
+      "wind": 19,
       "windAus": 238,
-      "uv": 0.7,
+      "uv": 1,
       "auf": "07:47",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
-      "max": 11,
-      "min": 3,
-      "regen": 94,
-      "menge": 23.9,
-      "wind": 18,
-      "windAus": 173,
-      "uv": 0.5,
+      "code": 63,
+      "max": 5,
+      "min": 2,
+      "regen": 84,
+      "menge": 12.9,
+      "wind": 12,
+      "windAus": 105,
+      "uv": 0.6,
       "auf": "07:49",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-18",
-      "code": 3,
-      "max": 11,
-      "min": 3,
-      "regen": 50,
-      "menge": 0,
-      "wind": 22,
-      "windAus": 249,
-      "uv": 1,
+      "code": 63,
+      "max": 7,
+      "min": 2,
+      "regen": 55,
+      "menge": 5.1,
+      "wind": 9,
+      "windAus": 352,
+      "uv": 0.5,
       "auf": "07:51",
       "unter": "16:18"
      },
      {
       "datum": "2026-11-19",
-      "code": 3,
-      "max": 5,
-      "min": 1,
-      "regen": 50,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 283,
-      "uv": 0.9,
+      "code": 61,
+      "max": 4,
+      "min": 2,
+      "regen": 48,
+      "menge": 5.9,
+      "wind": 10,
+      "windAus": 90,
+      "uv": 0.5,
       "auf": "07:53",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-20",
-      "code": 2,
-      "max": 8,
-      "min": 1,
-      "regen": 31,
+      "code": 3,
+      "max": 6,
+      "min": 4,
+      "regen": 44,
       "menge": 0,
-      "wind": 10,
-      "windAus": 266,
-      "uv": 1.1,
+      "wind": 11,
+      "windAus": 73,
+      "uv": 1,
       "auf": "07:54",
       "unter": "16:15"
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "18:00",
       "grad": 6,
@@ -278,7 +244,7 @@
      },
      {
       "zeit": "20:00",
-      "grad": 4,
+      "grad": 5,
       "code": 1,
       "regen": 0
      },
@@ -291,7 +257,7 @@
      {
       "zeit": "22:00",
       "grad": 3,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -308,8 +274,8 @@
      },
      {
       "zeit": "01:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 2,
+      "code": 0,
       "regen": 0
      },
      {
@@ -321,12 +287,12 @@
      {
       "zeit": "03:00",
       "grad": 2,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 2,
+      "grad": 1,
       "code": 2,
       "regen": 0
      },
@@ -339,7 +305,7 @@
      {
       "zeit": "06:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -350,7 +316,7 @@
      },
      {
       "zeit": "08:00",
-      "grad": 1,
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
@@ -363,14 +329,50 @@
      {
       "zeit": "10:00",
       "grad": 2,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 4,
-      "code": 3,
+      "code": 2,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 13
+     },
+     {
+      "zeit": "14:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 35
+     },
+     {
+      "zeit": "15:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "16:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 13
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 80,
+      "regen": 15
      }
     ]
    },
@@ -380,15 +382,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 7,
-     "code": 0,
-     "gefuehlt": 4,
-     "wind": 9,
-     "windAus": 247,
-     "feuchte": 71,
+     "grad": 6,
+     "code": 1,
+     "gefuehlt": 3,
+     "wind": 6,
+     "windAus": 183,
+     "feuchte": 81,
      "druck": 1017,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
@@ -398,7 +400,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 15,
-     "windAus": 244,
+     "windAus": 242,
      "uv": 1.6,
      "auf": "07:26",
      "unter": "16:14"
@@ -408,10 +410,10 @@
      "code": 61,
      "max": 8,
      "min": 1,
-     "regen": 40,
-     "menge": 0,
-     "wind": 15,
-     "windAus": 164,
+     "regen": 60,
+     "menge": 0.2,
+     "wind": 17,
+     "windAus": 166,
      "uv": 1.6,
      "auf": "07:28",
      "unter": "16:13"
@@ -425,7 +427,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 15,
-      "windAus": 244,
+      "windAus": 242,
       "uv": 1.6,
       "auf": "07:26",
       "unter": "16:14"
@@ -435,10 +437,10 @@
       "code": 61,
       "max": 8,
       "min": 1,
-      "regen": 40,
-      "menge": 0,
-      "wind": 15,
-      "windAus": 164,
+      "regen": 60,
+      "menge": 0.2,
+      "wind": 17,
+      "windAus": 166,
       "uv": 1.6,
       "auf": "07:28",
       "unter": "16:13"
@@ -448,104 +450,68 @@
       "code": 80,
       "max": 11,
       "min": 5,
-      "regen": 88,
-      "menge": 5.7,
-      "wind": 16,
-      "windAus": 217,
-      "uv": 1.1,
+      "regen": 71,
+      "menge": 1.4,
+      "wind": 19,
+      "windAus": 215,
+      "uv": 0.3,
       "auf": "07:29",
       "unter": "16:11"
      },
      {
       "datum": "2026-11-17",
       "code": 80,
-      "max": 13,
-      "min": 4,
-      "regen": 90,
-      "menge": 16.2,
+      "max": 10,
+      "min": 3,
+      "regen": 98,
+      "menge": 15.2,
       "wind": 17,
-      "windAus": 181,
-      "uv": 0.9,
+      "windAus": 175,
+      "uv": 0.8,
       "auf": "07:31",
       "unter": "16:10"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 12,
-      "min": 8,
-      "regen": 64,
-      "menge": 1.5,
-      "wind": 17,
-      "windAus": 230,
-      "uv": 0.2,
+      "max": 11,
+      "min": 3,
+      "regen": 63,
+      "menge": 1.7,
+      "wind": 19,
+      "windAus": 251,
+      "uv": 0.5,
       "auf": "07:33",
       "unter": "16:09"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
+      "code": 80,
       "max": 9,
-      "min": 2,
-      "regen": 54,
-      "menge": 2.3,
-      "wind": 13,
-      "windAus": 301,
-      "uv": 0.5,
+      "min": 3,
+      "regen": 60,
+      "menge": 4.1,
+      "wind": 5,
+      "windAus": 130,
+      "uv": 0.2,
       "auf": "07:34",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-20",
       "code": 3,
-      "max": 5,
-      "min": 1,
-      "regen": 39,
+      "max": 7,
+      "min": 4,
+      "regen": 50,
       "menge": 0,
-      "wind": 11,
-      "windAus": 270,
-      "uv": 0.9,
+      "wind": 9,
+      "windAus": 50,
+      "uv": 1.2,
       "auf": "07:36",
       "unter": "16:06"
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "18:00",
       "grad": 7,
@@ -561,13 +527,13 @@
      {
       "zeit": "20:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": 4,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -578,8 +544,8 @@
      },
      {
       "zeit": "23:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 3,
+      "code": 1,
       "regen": 0
      },
      {
@@ -590,7 +556,7 @@
      },
      {
       "zeit": "01:00",
-      "grad": 3,
+      "grad": 2,
       "code": 1,
       "regen": 0
      },
@@ -614,13 +580,13 @@
      },
      {
       "zeit": "05:00",
-      "grad": 2,
+      "grad": 1,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 2,
+      "grad": 1,
       "code": 1,
       "regen": 0
      },
@@ -633,18 +599,18 @@
      {
       "zeit": "08:00",
       "grad": 1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 2,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
@@ -653,6 +619,42 @@
       "grad": 4,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 20
+     },
+     {
+      "zeit": "16:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 60
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 48
      }
     ]
    },
@@ -662,15 +664,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 8,
-     "code": 1,
-     "gefuehlt": 5,
-     "wind": 7,
-     "windAus": 231,
-     "feuchte": 67,
-     "druck": 1008,
+     "grad": 5,
+     "code": 0,
+     "gefuehlt": 3,
+     "wind": 5,
+     "windAus": 138,
+     "feuchte": 73,
+     "druck": 1007,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
@@ -680,7 +682,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 10,
-     "windAus": 217,
+     "windAus": 218,
      "uv": 1.7,
      "auf": "07:26",
      "unter": "16:23"
@@ -688,13 +690,13 @@
     "morgen": {
      "datum": "2026-11-15",
      "code": 61,
-     "max": 9,
+     "max": 8,
      "min": 1,
-     "regen": 28,
+     "regen": 35,
      "menge": 0,
      "wind": 15,
-     "windAus": 175,
-     "uv": 1.5,
+     "windAus": 176,
+     "uv": 1.4,
      "auf": "07:27",
      "unter": "16:21"
     },
@@ -707,7 +709,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 217,
+      "windAus": 218,
       "uv": 1.7,
       "auf": "07:26",
       "unter": "16:23"
@@ -715,135 +717,99 @@
      {
       "datum": "2026-11-15",
       "code": 61,
-      "max": 9,
+      "max": 8,
       "min": 1,
-      "regen": 28,
+      "regen": 35,
       "menge": 0,
       "wind": 15,
-      "windAus": 175,
-      "uv": 1.5,
+      "windAus": 176,
+      "uv": 1.4,
       "auf": "07:27",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-16",
-      "code": 80,
-      "max": 11,
+      "code": 61,
+      "max": 12,
       "min": 7,
-      "regen": 40,
-      "menge": 1.9,
-      "wind": 16,
-      "windAus": 221,
-      "uv": 0.4,
+      "regen": 55,
+      "menge": 2.2,
+      "wind": 19,
+      "windAus": 219,
+      "uv": 1.5,
       "auf": "07:29",
       "unter": "16:20"
      },
      {
       "datum": "2026-11-17",
-      "code": 63,
+      "code": 80,
       "max": 14,
       "min": 5,
-      "regen": 93,
-      "menge": 13.8,
-      "wind": 18,
-      "windAus": 204,
-      "uv": 0.6,
+      "regen": 97,
+      "menge": 15.9,
+      "wind": 19,
+      "windAus": 213,
+      "uv": 0.7,
       "auf": "07:31",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 12,
-      "min": 9,
-      "regen": 50,
-      "menge": 2.2,
-      "wind": 16,
-      "windAus": 225,
-      "uv": 0.3,
+      "max": 11,
+      "min": 8,
+      "regen": 59,
+      "menge": 6.1,
+      "wind": 17,
+      "windAus": 237,
+      "uv": 0.9,
       "auf": "07:32",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-19",
-      "code": 80,
-      "max": 11,
-      "min": 4,
-      "regen": 50,
-      "menge": 12.8,
-      "wind": 18,
-      "windAus": 256,
-      "uv": 0.8,
+      "code": 61,
+      "max": 12,
+      "min": 8,
+      "regen": 55,
+      "menge": 5.1,
+      "wind": 15,
+      "windAus": 211,
+      "uv": 1.3,
       "auf": "07:34",
       "unter": "16:16"
      },
      {
       "datum": "2026-11-20",
       "code": 61,
-      "max": 7,
-      "min": 1,
-      "regen": 45,
-      "menge": 0.9,
-      "wind": 15,
-      "windAus": 279,
-      "uv": 0.2,
+      "max": 8,
+      "min": 7,
+      "regen": 43,
+      "menge": 10.4,
+      "wind": 9,
+      "windAus": 15,
+      "uv": 1.2,
       "auf": "07:36",
       "unter": "16:15"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
       "grad": 6,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 6,
+      "grad": 5,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 5,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -854,19 +820,19 @@
      },
      {
       "zeit": "22:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 3,
+      "grad": 2,
       "code": 1,
       "regen": 0
      },
@@ -878,20 +844,20 @@
      },
      {
       "zeit": "02:00",
-      "grad": 2,
-      "code": 0,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
-      "code": 0,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -926,8 +892,8 @@
      },
      {
       "zeit": "10:00",
-      "grad": 4,
-      "code": 3,
+      "grad": 3,
+      "code": 1,
       "regen": 0
      },
      {
@@ -935,6 +901,42 @@
       "grad": 5,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "14:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 35
+     },
+     {
+      "zeit": "15:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 28
+     },
+     {
+      "zeit": "16:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 3
      }
     ]
    },
@@ -944,39 +946,39 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 7,
+     "grad": 5,
      "code": 0,
-     "gefuehlt": 4,
-     "wind": 10,
-     "windAus": 141,
-     "feuchte": 71,
-     "druck": 1013,
+     "gefuehlt": 1,
+     "wind": 13,
+     "windAus": 128,
+     "feuchte": 79,
+     "druck": 1010,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
      "code": 3,
-     "max": 9,
+     "max": 8,
      "min": 3,
      "regen": 3,
      "menge": 0,
-     "wind": 13,
-     "windAus": 134,
+     "wind": 16,
+     "windAus": 136,
      "uv": 1.8,
      "auf": "07:46",
      "unter": "16:46"
     },
     "morgen": {
      "datum": "2026-11-15",
-     "code": 55,
+     "code": 61,
      "max": 10,
      "min": 3,
      "regen": 96,
-     "menge": 4.3,
+     "menge": 4.1,
      "wind": 21,
-     "windAus": 145,
-     "uv": 1.6,
+     "windAus": 147,
+     "uv": 1.8,
      "auf": "07:48",
      "unter": "16:44"
     },
@@ -984,39 +986,39 @@
      {
       "datum": "2026-11-14",
       "code": 3,
-      "max": 9,
+      "max": 8,
       "min": 3,
       "regen": 3,
       "menge": 0,
-      "wind": 13,
-      "windAus": 134,
+      "wind": 16,
+      "windAus": 136,
       "uv": 1.8,
       "auf": "07:46",
       "unter": "16:46"
      },
      {
       "datum": "2026-11-15",
-      "code": 55,
+      "code": 61,
       "max": 10,
       "min": 3,
       "regen": 96,
-      "menge": 4.3,
+      "menge": 4.1,
       "wind": 21,
-      "windAus": 145,
-      "uv": 1.6,
+      "windAus": 147,
+      "uv": 1.8,
       "auf": "07:48",
       "unter": "16:44"
      },
      {
       "datum": "2026-11-16",
-      "code": 61,
+      "code": 63,
       "max": 10,
-      "min": 4,
+      "min": 6,
       "regen": 91,
-      "menge": 3.9,
-      "wind": 27,
-      "windAus": 248,
-      "uv": 1.7,
+      "menge": 10.9,
+      "wind": 22,
+      "windAus": 241,
+      "uv": 0.8,
       "auf": "07:49",
       "unter": "16:43"
      },
@@ -1024,11 +1026,11 @@
       "datum": "2026-11-17",
       "code": 81,
       "max": 15,
-      "min": 5,
+      "min": 6,
       "regen": 90,
-      "menge": 15,
-      "wind": 24,
-      "windAus": 195,
+      "menge": 26.6,
+      "wind": 23,
+      "windAus": 202,
       "uv": 1.5,
       "auf": "07:51",
       "unter": "16:42"
@@ -1039,81 +1041,45 @@
       "max": 13,
       "min": 9,
       "regen": 92,
-      "menge": 3.9,
-      "wind": 23,
-      "windAus": 229,
-      "uv": 0.2,
+      "menge": 2.3,
+      "wind": 20,
+      "windAus": 233,
+      "uv": 1,
       "auf": "07:53",
       "unter": "16:41"
      },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 13,
-      "min": 7,
+      "max": 12,
+      "min": 4,
       "regen": 82,
-      "menge": 19.3,
-      "wind": 16,
-      "windAus": 209,
-      "uv": 1.2,
+      "menge": 13.6,
+      "wind": 19,
+      "windAus": 245,
+      "uv": 1,
       "auf": "07:54",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-20",
-      "code": 80,
+      "code": 3,
       "max": 9,
-      "min": 3,
+      "min": 2,
       "regen": 48,
-      "menge": 3.2,
-      "wind": 22,
-      "windAus": 282,
-      "uv": 0.8,
+      "menge": 0,
+      "wind": 16,
+      "windAus": 281,
+      "uv": 0.4,
       "auf": "07:56",
       "unter": "16:38"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
       "grad": 6,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1137,37 +1103,37 @@
      {
       "zeit": "22:00",
       "grad": 4,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 4,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 4,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 4,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 3,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 3,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1185,31 +1151,31 @@
      {
       "zeit": "06:00",
       "grad": 4,
-      "code": 53,
+      "code": 51,
       "regen": 37
      },
      {
       "zeit": "07:00",
       "grad": 4,
-      "code": 55,
+      "code": 61,
       "regen": 57
      },
      {
       "zeit": "08:00",
       "grad": 5,
-      "code": 3,
+      "code": 53,
       "regen": 75
      },
      {
       "zeit": "09:00",
       "grad": 5,
-      "code": 51,
+      "code": 3,
       "regen": 91
      },
      {
       "zeit": "10:00",
       "grad": 6,
-      "code": 3,
+      "code": 51,
       "regen": 96
      },
      {
@@ -1217,6 +1183,42 @@
       "grad": 7,
       "code": 51,
       "regen": 82
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 57
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 21
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "17:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 20
      }
     ]
    },
@@ -1226,15 +1228,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 5,
+     "grad": 3,
      "code": 0,
-     "gefuehlt": 2,
-     "wind": 6,
-     "windAus": 75,
-     "feuchte": 78,
-     "druck": 1009,
+     "gefuehlt": 1,
+     "wind": 7,
+     "windAus": 84,
+     "feuchte": 87,
+     "druck": 1006,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
@@ -1243,8 +1245,8 @@
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 7,
-     "windAus": 84,
+     "wind": 8,
+     "windAus": 86,
      "uv": 1.9,
      "auf": "07:36",
      "unter": "16:42"
@@ -1254,11 +1256,11 @@
      "code": 61,
      "max": 11,
      "min": 1,
-     "regen": 93,
-     "menge": 3.7,
-     "wind": 11,
-     "windAus": 186,
-     "uv": 1.4,
+     "regen": 83,
+     "menge": 2.4,
+     "wind": 13,
+     "windAus": 188,
+     "uv": 0.7,
      "auf": "07:38",
      "unter": "16:40"
     },
@@ -1270,8 +1272,8 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 84,
+      "wind": 8,
+      "windAus": 86,
       "uv": 1.9,
       "auf": "07:36",
       "unter": "16:42"
@@ -1281,11 +1283,11 @@
       "code": 61,
       "max": 11,
       "min": 1,
-      "regen": 93,
-      "menge": 3.7,
-      "wind": 11,
-      "windAus": 186,
-      "uv": 1.4,
+      "regen": 83,
+      "menge": 2.4,
+      "wind": 13,
+      "windAus": 188,
+      "uv": 0.7,
       "auf": "07:38",
       "unter": "16:40"
      },
@@ -1293,114 +1295,78 @@
       "datum": "2026-11-16",
       "code": 80,
       "max": 12,
-      "min": 6,
+      "min": 7,
       "regen": 70,
-      "menge": 5.5,
-      "wind": 17,
-      "windAus": 228,
-      "uv": 1.5,
+      "menge": 4.3,
+      "wind": 18,
+      "windAus": 223,
+      "uv": 1,
       "auf": "07:39",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-17",
       "code": 80,
-      "max": 15,
-      "min": 7,
-      "regen": 100,
-      "menge": 23.9,
-      "wind": 20,
-      "windAus": 214,
-      "uv": 0.5,
+      "max": 16,
+      "min": 8,
+      "regen": 98,
+      "menge": 21.5,
+      "wind": 23,
+      "windAus": 216,
+      "uv": 0.2,
       "auf": "07:41",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 13,
-      "min": 10,
-      "regen": 68,
-      "menge": 4,
-      "wind": 17,
-      "windAus": 220,
-      "uv": 0.5,
+      "max": 12,
+      "min": 9,
+      "regen": 76,
+      "menge": 9.6,
+      "wind": 16,
+      "windAus": 219,
+      "uv": 1.3,
       "auf": "07:43",
       "unter": "16:37"
      },
      {
       "datum": "2026-11-19",
-      "code": 95,
+      "code": 61,
       "max": 12,
-      "min": 6,
-      "regen": 68,
-      "menge": 10.5,
-      "wind": 16,
-      "windAus": 217,
-      "uv": 1.3,
+      "min": 9,
+      "regen": 75,
+      "menge": 9.7,
+      "wind": 17,
+      "windAus": 199,
+      "uv": 1.5,
       "auf": "07:44",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-20",
-      "code": 61,
-      "max": 8,
-      "min": 1,
-      "regen": 50,
-      "menge": 3.4,
-      "wind": 15,
-      "windAus": 311,
-      "uv": 1,
+      "code": 80,
+      "max": 11,
+      "min": 9,
+      "regen": 74,
+      "menge": 15.1,
+      "wind": 16,
+      "windAus": 225,
+      "uv": 0.3,
       "auf": "07:46",
       "unter": "16:35"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
-      "grad": 5,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 4,
+      "grad": 3,
       "code": 0,
       "regen": 0
      },
@@ -1424,7 +1390,7 @@
      },
      {
       "zeit": "23:00",
-      "grad": 2,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
@@ -1442,14 +1408,14 @@
      },
      {
       "zeit": "02:00",
-      "grad": 2,
+      "grad": 1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1460,45 +1426,81 @@
      },
      {
       "zeit": "05:00",
-      "grad": 2,
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 1,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "06:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 33
-     },
-     {
       "zeit": "07:00",
       "grad": 2,
-      "code": 61,
-      "regen": 60
+      "code": 3,
+      "regen": 25
      },
      {
       "zeit": "08:00",
-      "grad": 3,
+      "grad": 2,
       "code": 61,
-      "regen": 75
+      "regen": 63
      },
      {
       "zeit": "09:00",
       "grad": 3,
       "code": 61,
-      "regen": 40
+      "regen": 65
      },
      {
       "zeit": "10:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
-      "regen": 15
+      "regen": 33
      },
      {
       "zeit": "11:00",
-      "grad": 5,
+      "grad": 4,
+      "code": 3,
+      "regen": 10
+     },
+     {
+      "zeit": "12:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "13:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "14:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "15:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "16:00",
+      "grad": 10,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 13
      }
     ]
    },
@@ -1508,25 +1510,25 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 6,
+     "grad": 4,
      "code": 0,
-     "gefuehlt": 3,
-     "wind": 6,
-     "windAus": 103,
-     "feuchte": 65,
-     "druck": 990,
+     "gefuehlt": 1,
+     "wind": 5,
+     "windAus": 159,
+     "feuchte": 78,
+     "druck": 987,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
      "code": 45,
-     "max": 8,
+     "max": 9,
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 145,
+     "wind": 11,
+     "windAus": 147,
      "uv": 2,
      "auf": "07:30",
      "unter": "16:44"
@@ -1536,11 +1538,11 @@
      "code": 61,
      "max": 14,
      "min": 3,
-     "regen": 53,
-     "menge": 0.1,
+     "regen": 63,
+     "menge": 0.6,
      "wind": 16,
      "windAus": 195,
-     "uv": 1.5,
+     "uv": 1.8,
      "auf": "07:31",
      "unter": "16:43"
     },
@@ -1548,12 +1550,12 @@
      {
       "datum": "2026-11-14",
       "code": 45,
-      "max": 8,
+      "max": 9,
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 145,
+      "wind": 11,
+      "windAus": 147,
       "uv": 2,
       "auf": "07:30",
       "unter": "16:44"
@@ -1563,11 +1565,11 @@
       "code": 61,
       "max": 14,
       "min": 3,
-      "regen": 53,
-      "menge": 0.1,
+      "regen": 63,
+      "menge": 0.6,
       "wind": 16,
       "windAus": 195,
-      "uv": 1.5,
+      "uv": 1.8,
       "auf": "07:31",
       "unter": "16:43"
      },
@@ -1575,25 +1577,25 @@
       "datum": "2026-11-16",
       "code": 80,
       "max": 12,
-      "min": 8,
-      "regen": 70,
-      "menge": 1.7,
-      "wind": 21,
-      "windAus": 229,
-      "uv": 0.9,
+      "min": 9,
+      "regen": 50,
+      "menge": 3.8,
+      "wind": 19,
+      "windAus": 223,
+      "uv": 0.4,
       "auf": "07:33",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-17",
-      "code": 61,
+      "code": 63,
       "max": 16,
       "min": 9,
-      "regen": 95,
-      "menge": 9,
-      "wind": 30,
-      "windAus": 219,
-      "uv": 0.7,
+      "regen": 93,
+      "menge": 12.6,
+      "wind": 27,
+      "windAus": 223,
+      "uv": 0.6,
       "auf": "07:34",
       "unter": "16:40"
      },
@@ -1602,78 +1604,42 @@
       "code": 80,
       "max": 13,
       "min": 10,
-      "regen": 57,
-      "menge": 5.9,
-      "wind": 21,
-      "windAus": 232,
-      "uv": 1.3,
+      "regen": 65,
+      "menge": 6,
+      "wind": 24,
+      "windAus": 238,
+      "uv": 1.7,
       "auf": "07:36",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
-      "max": 14,
-      "min": 10,
-      "regen": 58,
-      "menge": 3.4,
-      "wind": 22,
-      "windAus": 226,
-      "uv": 1.4,
+      "code": 80,
+      "max": 13,
+      "min": 9,
+      "regen": 47,
+      "menge": 9.2,
+      "wind": 20,
+      "windAus": 205,
+      "uv": 1.2,
       "auf": "07:37",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-20",
       "code": 80,
-      "max": 10,
-      "min": 1,
-      "regen": 41,
-      "menge": 3.2,
-      "wind": 16,
-      "windAus": 275,
+      "max": 12,
+      "min": 10,
+      "regen": 68,
+      "menge": 3.3,
+      "wind": 21,
+      "windAus": 236,
       "uv": 1,
       "auf": "07:39",
       "unter": "16:37"
      }
     ],
     "stunden": [
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 8,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "18:00",
       "grad": 5,
@@ -1742,45 +1708,81 @@
      },
      {
       "zeit": "05:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 5,
-      "code": 3,
+      "grad": 6,
+      "code": 61,
       "regen": 3
      },
      {
       "zeit": "07:00",
       "grad": 6,
-      "code": 3,
-      "regen": 30
+      "code": 61,
+      "regen": 3
      },
      {
       "zeit": "08:00",
       "grad": 7,
-      "code": 61,
-      "regen": 53
+      "code": 3,
+      "regen": 28
      },
      {
       "zeit": "09:00",
       "grad": 8,
-      "code": 61,
-      "regen": 48
+      "code": 3,
+      "regen": 33
      },
      {
       "zeit": "10:00",
       "grad": 9,
-      "code": 3,
-      "regen": 10
+      "code": 61,
+      "regen": 30
      },
      {
       "zeit": "11:00",
-      "grad": 11,
+      "grad": 10,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 2,
+      "regen": 5
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 13,
       "code": 3,
       "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -1790,25 +1792,25 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 5,
+     "grad": 2,
      "code": 0,
-     "gefuehlt": 1,
-     "wind": 12,
-     "windAus": 90,
-     "feuchte": 58,
-     "druck": 958,
+     "gefuehlt": -1,
+     "wind": 8,
+     "windAus": 95,
+     "feuchte": 84,
+     "druck": 956,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-14",
-     "code": 1,
+     "code": 2,
      "max": 6,
      "min": -1,
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 107,
+     "windAus": 108,
      "uv": 2.1,
      "auf": "07:18",
      "unter": "16:36"
@@ -1820,22 +1822,22 @@
      "min": -1,
      "regen": 5,
      "menge": 0,
-     "wind": 5,
-     "windAus": 155,
-     "uv": 1.8,
+     "wind": 6,
+     "windAus": 157,
+     "uv": 1.9,
      "auf": "07:20",
      "unter": "16:35"
     },
     "tage": [
      {
       "datum": "2026-11-14",
-      "code": 1,
+      "code": 2,
       "max": 6,
       "min": -1,
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 107,
+      "windAus": 108,
       "uv": 2.1,
       "auf": "07:18",
       "unter": "16:36"
@@ -1847,22 +1849,22 @@
       "min": -1,
       "regen": 5,
       "menge": 0,
-      "wind": 5,
-      "windAus": 155,
-      "uv": 1.8,
+      "wind": 6,
+      "windAus": 157,
+      "uv": 1.9,
       "auf": "07:20",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-16",
       "code": 80,
-      "max": 10,
+      "max": 11,
       "min": 4,
       "regen": 60,
-      "menge": 3.7,
-      "wind": 22,
-      "windAus": 241,
-      "uv": 1.4,
+      "menge": 3,
+      "wind": 25,
+      "windAus": 239,
+      "uv": 1.9,
       "auf": "07:21",
       "unter": "16:34"
      },
@@ -1871,94 +1873,58 @@
       "code": 61,
       "max": 13,
       "min": 6,
-      "regen": 70,
-      "menge": 2.9,
-      "wind": 25,
-      "windAus": 224,
-      "uv": 0.9,
+      "regen": 90,
+      "menge": 7.7,
+      "wind": 27,
+      "windAus": 231,
+      "uv": 1,
       "auf": "07:23",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-18",
-      "code": 61,
-      "max": 12,
-      "min": 9,
-      "regen": 50,
-      "menge": 5.5,
-      "wind": 22,
+      "code": 80,
+      "max": 11,
+      "min": 8,
+      "regen": 53,
+      "menge": 6.8,
+      "wind": 24,
       "windAus": 242,
-      "uv": 1.9,
+      "uv": 1.7,
       "auf": "07:24",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
-      "max": 13,
-      "min": 7,
-      "regen": 50,
-      "menge": 1.3,
-      "wind": 26,
-      "windAus": 240,
-      "uv": 1.5,
+      "code": 80,
+      "max": 12,
+      "min": 8,
+      "regen": 51,
+      "menge": 8.6,
+      "wind": 17,
+      "windAus": 233,
+      "uv": 1.8,
       "auf": "07:26",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-20",
-      "code": 61,
-      "max": 8,
-      "min": 1,
-      "regen": 39,
-      "menge": 3.3,
-      "wind": 26,
-      "windAus": 259,
-      "uv": 0.6,
+      "code": 3,
+      "max": 11,
+      "min": 8,
+      "regen": 66,
+      "menge": 0.2,
+      "wind": 27,
+      "windAus": 249,
+      "uv": 1.5,
       "auf": "07:27",
       "unter": "16:30"
      }
     ],
     "stunden": [
      {
-      "zeit": "12:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "18:00",
-      "grad": 3,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
@@ -1976,44 +1942,44 @@
      },
      {
       "zeit": "21:00",
-      "grad": 0,
-      "code": 1,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 0,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
@@ -2025,44 +1991,80 @@
      {
       "zeit": "05:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
       "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "09:00",
+      "zeit": "08:00",
       "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
+      "zeit": "09:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
       "zeit": "10:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 4,
+      "grad": 5,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "16:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "17:00",
+      "grad": 8,
+      "code": 2,
+      "regen": 3
      }
     ]
    }
@@ -2084,13 +2086,13 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 8,
-       "regen": 0.2
+       "regen": 0.9
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
-       "regen": 0.3
+       "grad": 8,
+       "regen": 1.2
       },
       {
        "name": "ECMWF",
@@ -2106,14 +2108,14 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
-       "regen": 0.1
+       "grad": 8,
+       "regen": 0.2
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 8,
-       "regen": 0
+       "regen": 0.1
       },
       {
        "name": "ECMWF",
@@ -2129,7 +2131,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 9,
+       "grad": 8,
        "regen": 0
       },
       {
@@ -2141,7 +2143,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
+       "grad": 8,
        "regen": 0
       }
      ]
@@ -2152,20 +2154,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 4.8
+       "grad": 12,
+       "regen": 2.8
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 12,
-       "regen": 1.7
+       "regen": 1.9
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 11,
-       "regen": 3.5
+       "regen": 4.4
       }
      ]
     },
@@ -2176,19 +2178,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 11,
-       "regen": 3.8
+       "regen": 2.8
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
+       "grad": 9,
        "regen": 1.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 11,
-       "regen": 0.7
+       "regen": 0
       }
      ]
     },
@@ -2199,19 +2201,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 14,
-       "regen": 0.1
+       "regen": 0.6
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
-       "regen": 0.1
+       "grad": 12,
+       "regen": 0.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 13,
-       "regen": 0
+       "regen": 0.2
       }
      ]
     },
@@ -2233,26 +2235,26 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 10,
+       "grad": 9,
        "regen": 0
       }
      ]
     }
    ],
-   "spanneGrad": 3,
+   "spanneGrad": 2,
    "uneinigRegen": {
-    "ort": "Frankfurt",
+    "ort": "Hamburg",
     "nass": [
-     "ICON",
      "GFS"
     ],
     "trocken": [
+     "ICON",
      "ECMWF"
     ]
    },
    "saetze": [
-    "Für Stuttgart gehen die Modelle am weitesten auseinander: zwischen 11 und 14 Grad.",
-    "Und in Frankfurt erwartet ICON und GFS Regen, ECMWF dagegen nicht."
+    "Für Leipzig gehen die Modelle am weitesten auseinander: zwischen 8 und 10 Grad.",
+    "Und in Hamburg erwartet GFS Regen, ICON und ECMWF dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2260,19 +2262,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
-   "d": "c2e57e88bf.mp3",
-   "l": 16.73,
-   "s": [
-    0.25,
-    3.55,
-    7.99,
-    11.05,
-    14.03
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2476,80 +2466,88 @@
  },
  "nachrichten": [
   {
-   "id": "spionage-verdacht-nvidia-huang",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-13T16:08:16.000Z",
-   "aktualisiert": "aktualisiert um 17:14 Uhr",
-   "titel": "US-Senat lädt Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor",
-   "vorspann": "Nach Berichten über mögliche Chip-Lieferungen nach China und eine Spionageaffäre müssen der ehemalige Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick vor einem Senatsausschuss aussagen. Der Vorsitzende des Bankenausschusses forderte sie auf, im Dezember zu erscheinen.",
+   "id": "nato-beitritt-ukraine-gebietsverzicht",
+   "rubrik": "Welt",
+   "zeit": "2026-11-14T17:24:57.000Z",
+   "titel": "US-Unterhändler bringen NATO-Beitritt der Ukraine bei Gebietsverzicht ins Gespräch",
+   "vorspann": "Die USA haben der Ukraine nach Angaben von Präsident Wolodymyr Selenskyj eine NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht vorgeschlagen. Kiew lehnte eine solche Abtretung bislang ab, zeigte sich jedoch unter bestimmten Bedingungen offen für ein Referendum.",
    "eil": false,
    "verstaendlich": {
     "stufe": "schwer",
     "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Der ehemalige Nvidia-Chef Jensen Huang ist nach Berichten über eine mutmaßliche Spionageaffäre und angebliche Chip-Lieferungen an China zurückgetreten.",
-    "Der US-Senat hat Jensen Huang und Handelsminister Howard Lutnick zu einer öffentlichen Anhörung im Dezember vorgeladen.",
-    "Hintergrund der parlamentarischen Untersuchungen sind Bedenken hinsichtlich der nationalen Sicherheit und möglicher Umgehungen von Exportkontrollen.",
-    "Das Unternehmen Nvidia hat Colette Kress zur Interim-Chefin ernannt und eine unabhängige Untersuchung eingeleitet."
+    "US-Unterhändler haben der Ukraine laut Präsident Selenskyj eine NATO-Mitgliedschaft bei gleichzeitiger Abtretung des Donbass in Aussicht gestellt.",
+    "Selenskyj lehnt Gebietsabtretungen ab, schließt jedoch ein Referendum bei Vorliegen umfassender internationaler Sicherheitsgarantien nicht aus.",
+    "Russlands Präsident Putin hält an seinen Forderungen, einem neutralen Status der Ukraine und dem Zugriff auf beanspruchte Gebiete fest.",
+    "Die Europäische Union hat bei einem Gipfel in Dublin ein eigenes Verhandlungsteam aus den E5-Ländern und EU-Institutionen gebildet."
    ],
    "einig": [
     [
-     "Jensen Huang wurde für Dezember zu einer Anhörung vor den Bankenausschuss des US-Senats geladen.",
+     "Die USA haben der Ukraine laut Angaben von Präsident Wolodymyr Selenskyj eine NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht im Donbass in Aussicht gestellt.",
      [
       "Tagesschau/ARD",
       "Deutschlandfunk",
-      "BBC"
+      "Spiegel",
+      "Deutsche Welle"
      ]
     ],
     [
-     "Handelsminister Howard Lutnick wurde ebenfalls zu der Anhörung im US-Senat geladen.",
+     "Präsident Wolodymyr Selenskyj erklärte, er würde die Frage eines Gebietsverzichts bei entsprechenden Sicherheitsgarantien in einem Referendum zur Abstimmung stellen.",
      [
       "Tagesschau/ARD",
-      "BBC"
+      "Spiegel",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Die EU-Staaten einigten sich in Dublin auf ein gemeinsames Verhandlungsteam aus E5-Ländern und EU-Institutionen.",
+     [
+      "Tagesschau/ARD",
+      "Deutsche Welle"
      ]
     ]
    ],
    "unklar": [
-    "Ob die betroffene Frau tatsächlich als Spionin für China tätig war, ist laut Aussage von US-Generalstaatsanwalt Todd Blanche noch nicht abschließend geklärt; China weist dies als Verleumdung zurück (BBC)."
+    "Ob die USA den Vorschlag eines NATO-Beitritts gegen Gebietsverzicht als offizielle und endgültige US-Politik verfolgen, ist unklar."
    ],
    "positionen": [
     [
-     "Tim Scott (Senator)",
-     "Äußerte Sorgen um die nationale Sicherheit und forderte eine öffentliche Anhörung von Huang und Lutnick.",
-     "Tagesschau/ARD,BBC"
+     "Wolodymyr Selenskyj (Präsident der Ukraine)",
+     "Lehnt Gebietsabtretungen ab, fordert umfassende Sicherheitsgarantien und will die Frage bei einem Sicherheitspaket per Referendum entscheiden lassen.",
+     "Tagesschau/ARD, Deutschlandfunk, Spiegel, Deutsche Welle"
     ],
     [
-     "Nvidia",
-     "Erklärte, es gebe keinen Grund zu der Annahme, dass nationale Sicherheit oder Geheimnisse kompromittiert wurden.",
-     "BBC"
+     "Wladimir Putin (Präsident Russlands)",
+     "Beharrt auf Maximalforderungen, Neutralität der Ukraine, Kontrolle über beanspruchte Gebiete und lehnt eine NATO-Mitgliedschaft der Ukraine ab.",
+     "Tagesschau/ARD, Spiegel, Deutsche Welle"
     ],
     [
-     "China",
-     "Wies den Vorwurf zurück, bei der betroffenen Person habe es sich um einen Geheimdienstakteur gehandelt.",
-     "BBC"
+     "US-Unterhändler / US-Gesandte",
+     "Brachten die Frage eines NATO-Beitritts der Ukraine im Tausch gegen den Donbass nach Gesprächen in Abu Dhabi ins Gespräch.",
+     "Tagesschau/ARD, Spiegel"
     ]
    ],
-   "fehlend": "Stellungnahmen von Jensen Huang selbst oder Vertretern der Firma Megaspeed zu den aktuellen Vorwürfen sind in den Berichten nicht enthalten.",
+   "fehlend": "Direkte Stellungnahmen der offiziellen US-Regierung unter Donald Trump zu den konkreten Berichten über den NATO-Vorschlag.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "13.11.26, 08:27",
-     "fokus": "Politische Dimension und Exportkontrollen",
-     "text": "Der Bericht beleuchtet ausführlich die Rolle von Handelsminister Lutnick und die politischen Forderungen nach Aufklärung in den USA.",
-     "url": "https://www.tagesschau.de/ausland/amerika/nvidia-huang-us-handelsausschuss-100.html",
+     "datum": "14.11.26, 18:21",
+     "fokus": "Umfassender Überblick mit Kriegsgeschehen",
+     "text": "Die Tagesschau liefert neben den Verhandlungsdetails auch konkrete Berichte über Angriffe und Opfer in ukrainischen Regionen wie Saporischschja und Pawlohrad.",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 381,
-      "satzlaenge": 15,
-      "langeWoerter": 35
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 645,
+      "satzlaenge": 16,
+      "langeWoerter": 38
      },
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
@@ -2560,10 +2558,10 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "13.11.26, 17:08",
-     "fokus": "Kompakte Zusammenfassung der Vorladung",
-     "text": "Die Meldung konzentriert sich auf die wesentlichen Fakten zur Vorladung von Jensen Huang und Howard Lutnick in den US-Senat.",
-     "url": "https://www.deutschlandfunk.de/us-senat-laedt-ex-nvidia-chef-jensen-huang-und-handelsminister-howard-lutnick-vor-102.html",
+     "datum": "14.11.26, 18:24",
+     "fokus": "Kompakte Kurzmeldung zur Kernfrage",
+     "text": "Der Deutschlandfunk fasst die Ankündigung von Selenskyj bezüglich der NATO-Mitgliedschaft und der Gebietsabtretungen prägnant zusammen.",
+     "url": "https://www.deutschlandfunk.de/selenskyj-usa-haben-gebietsabtretungen-an-russland-im-gegenzug-fuer-eine-nato-mitgliedschaft-ins-ges-100.html",
      "video": false,
      "lesbar": null,
      "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
@@ -2571,83 +2569,936 @@
      "publikumWert": null
     },
     {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
      "stamm": true,
-     "datum": "13.11.26, 04:57",
-     "fokus": "Hintergründe zu den Affären und Börsenkurs",
-     "text": "Die BBC liefert detaillierte Informationen zu den internen Vorgängen bei Nvidia, den Börsenverlusten und den Reaktionen der Mitarbeitenden.",
-     "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+     "datum": "14.11.26, 11:49",
+     "fokus": "Hintergründe zu US-Gesandten und Dokumenten",
+     "text": "Der Spiegel beleuchtet die Rolle der US-Gesandten Witkoff und Kushner sowie ein zugespieltes russisches Positionspapier zur europäischen Sicherheitsarchitektur.",
+     "url": "https://www.spiegel.de/ausland/ukraine-russland-konflikt-us-unterhaendler-bringen-offenbar-nato-beitritt-der-ukraine-ins-spiel-a-f8b38fc5-a754-4ec2-bf85-3c857dbd0f96#ref=rss",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 4,
-      "woerter": 878,
-      "satzlaenge": 24,
-      "langeWoerter": 29
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 534,
+      "satzlaenge": 17,
+      "langeWoerter": 36
      },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "14.11.26, 13:39",
+     "fokus": "–",
+     "text": "Der ukrainische Präsident lehnt jedoch eine Preisgabe der Region im Osten des Landes weiter strikt ab – für Russland eine Hauptforderung zur Beendigung des Krieges.",
+     "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-usa-russland-nato-donbass-rueckzug-li.3571967",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "14.11.26, 14:36",
+     "fokus": "Europäische Reaktionen und Verhandlungsteam",
+     "text": "Die Deutsche Welle legt den Schwerpunkt auf die Beratungen in Dublin und die Bildung des europäischen Verhandlungsteams durch die EU-Staaten.",
+     "url": "https://www.dw.com/de/neue-impulse-für-nato-mitgliedschaft-der-ukraine/a-79948144?maca=de-rss-de-all-1119-rdf",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 375,
+      "satzlaenge": 18,
+      "langeWoerter": 35
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Details zu den Beziehungen",
-     "Die BBC nennt konkrete Namen und Hintergründe zu den angeblichen Beziehungen von Jensen Huang, während andere Quellen sich allgemeiner halten."
+     "Berichterstattung über Kriegshandlungen",
+     "Nur die Tagesschau/ARD nennt konkrete aktuelle Angriffe, Opferzahlen und Militärberichte aus Saporischschja und Pawlohrad."
     ]
    ],
    "wfragen": {
-    "wer": "Ex-Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick",
-    "was": "Vorladung vor einen US-Senatsausschuss zu einer Anhörung",
-    "wann": "Dezember",
-    "wo": "Washington, Vereinigte Staaten von Amerika",
-    "wie": "Durch eine formelle Aufforderung des Bankenausschusses mit Androhung einer Zwangsvorladung",
-    "warum": "Wegen Bedenken zur nationalen Sicherheit und möglicher Chip-Lieferungen nach China, laut Tagesschau/ARD und BBC",
-    "quellenlage": "Öffentlich-rechtliche Medienberichte aus Deutschland, Großbritannien und den USA"
+    "wer": "Präsident Wolodymyr Selenskyj und US-Unterhändler",
+    "was": "NATO-Beitritt der Ukraine bei Gebietsverzicht im Gespräch",
+    "wann": "2026-11-14",
+    "wo": "Dublin, Abu Dhabi und Moskau",
+    "wie": "Übermittlung neuer Vorschläge im Rahmen von Gesprächen",
+    "warum": "Suche nach Wegen zur Beendigung des Krieges laut Berichten",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Spiegel, Süddeutsche Zeitung, Deutsche Welle"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Der ehemalige Chef des Chipherstellers Nvidia, Jensen Huang, ist nach Berichten über eine Spionageaffäre und angebliche Chip-Lieferungen nach China für den Monat Dezember zu einer Anhörung vor dem US-Senat vorgeladen worden. Neben Jensen Huang wurde laut den Berichten auch US-Handelsminister Howard Lutnick von dem Vorsitzenden des Bankenausschusses, Tim Scott, aufgefordert, bei der öffentlichen Anhörung zu erscheinen. Der Republikaner Tim Scott verwies auf Sorgen im Hinblick auf die nationale Sicherheit und drohte dem zurückgetretenen Konzernchef mit einer Zwangsvorladung für den Fall, dass er nicht freiwillig vor dem Gremium aussagt. Handelsminister Howard Lutnick hat seine Teilnahme laut Angaben eines Ministeriumssprechers bereits zugesagt. Die Entwicklungen folgen auf den Rücktritt von Jensen Huang, der nach Medienberichten wegen einer angeblichen Beziehung mit einer Frau aus China unter Druck geraten war. Diese Frau soll nach Erkenntnissen von US-Sicherheitsbehörden möglicherweise vom chinesischen Geheimdienst angeworben worden sein.",
-      "Die politische Dimension des Vorgangs betrifft mögliche Verkäufe von Nvidia-Technologie an Unternehmen, die im Verdacht stehen, die US-Exportverbote zu umgehen. Das in Singapur ansässige Unternehmen Megaspeed soll nach US-Medienberichten Nvidia-Technik im Wert von rund vier Milliarden US-Dollar erhalten haben. Die aus China stammende Frau, mit der Jensen Huang eine Affäre gehabt haben soll, arbeitete zeitweise für diese Firma. Da die Exportkontrolle in das Ressort von Handelsminister Howard Lutnick fällt, muss sich dieser nun im Senatsausschuss kritischen Fragen stellen. Parlamentarier sowohl aus der Demokratischen Partei als auch aus dem Lager von US-Präsident Donald Trump fordern Antworten zu diesen Vorgängen. Die US-Regierung versucht grundsätzlich, mit Verkaufsverboten für Hochleistungschips den Ausbau der Künstlichen Intelligenz in China zu bremsen. Jensen Huang hatte in der Vergangenheit argumentiert, dass Verkäufe nach China dazu dienen, das Land an US-Technologie zu binden. Die Demokraten verlangen zudem Aufklärung darüber, was US-Präsident Donald Trump über die Affäre wusste.",
-      "Die BBC berichtet ergänzend, dass Jensen Huang am Donnerstag abrupt als Chef des Konzerns zurückgetreten ist. Nvidia hat infolge der Berichte und des Skandals innerhalb von fünf Tagen an der Börse einen erheblichen Wertverlust erlitten. Senator Tim Scott richtete am Donnerstag entsprechende Aufforderungsschreiben an Jensen Huang und Howard Lutnick für den dritten Dezember. Ungenannte Regierungsbeamte äußerten gegenüber US-Medien den Vorwurf, dass Handelsminister Howard Lutnick Bestrebungen zur Verschärfung der Exportbeschränkungen für fortschrittliche KI-Chips nach China verzögert haben soll. Drei Ausschüsse des Repräsentanzenhauses haben zudem ein weiteres Schreiben an Jensen Huang gesandt, in dem sie ihn zu einem nicht-öffentlichen Gespräch am ersten Dezember vorladen. Der US-Generalstaatsanwalt Todd Blanche erklärte am Donnerstag, dass das Justizministerium noch keine endgültigen Schlüsse darüber gezogen habe, ob die betroffene Frau tatsächlich Spionage betrieben hat. Nvidia-Sprecher lehnten jegliche Kommentare zu den laufenden Berichten ab."
+      "Die Vereinigten Staaten haben nach Angaben des ukrainischen Präsidenten Wolodymyr Selenskyj eine NATO-Mitgliedschaft der Ukraine im Gegenzug für einen Verzicht auf das Gebiet des Donbass ins Gespräch gebracht. Dies sei nach einer Runde von Friedensgesprächen mit Russland in den Vereinigten Arabischen Emiraten von US-Unterhändlern vorgebracht worden. Das geht aus übereinstimmenden Berichten von Tagesschau/ARD, Deutschlandfunk, Spiegel, Süddeutscher Zeitung und Deutscher Welle hervor. Es sei das erste Mal gewesen, dass diese Frage in dieser Form gestellt worden sei. Präsident Selenskyj äußerte sich zu diesen Vorgängen vor Journalisten nach Konsultationen mit europäischen Partnern.",
+      "Der ukrainische Präsident erklärte, er selbst habe nicht das Recht, eine solche Entscheidung allein zu treffen. Sollte die Ukraine jedoch ein umfassendes Sicherheitspaket erhalten, das verlässliche Sicherheitsgarantien, eine stark finanzierte Armee und Mittel für den Wiederaufbau umfasst, würde er diese Frage in einem Referendum zur Abstimmung stellen. Das Ziel eines NATO-Beitritts ist in der ukrainischen Verfassung verankert. Eine Änderung dieser Verfassung lehnte der Staatschef nach Angaben der Tagesschau/ARD jedoch ab. Die offizielle Position Kiews bleibt bestehen, dass keine Gebiete abgetreten werden.",
+      "Russlands Präsident Wladimir Putin verhält sich nach übereinstimmenden Berichten bei der Gebietsfrage unnachgiebig. Russland beansprucht neben der bereits annektierten Krim auch die gesamte Donbass-Region sowie weitere Landesteile. Zu den Forderungen Moskaus zählt auch ein neutraler Status des Nachbarstaates. Laut der Deutschen Welle und der Tagesschau/ARD machte Putin bei einem Treffen mit US-Gesandten deutlich, dass er nicht von seinen bisherigen Maximalforderungen abzurücken gedenkt."
      ]
     },
     {
-     "ueberschrift": "Die Einzelheiten",
+     "ueberschrift": "Die Einzelheiten der Verhandlungen",
      "absaetze": [
-      "Jensen Huang war seit 1993 die öffentlich bekannte Führungspersönlichkeit des Chipherstellers Nvidia und hatte das Unternehmen maßgeblich geformt. Am Sonntag räumte er ein, gegenüber seiner Ehefrau Lori Huang untreu gewesen zu sein, nachdem Berichte über eine Beziehung zu Alice Huang aufgetaucht waren. Alice Huang arbeitete als Führungskraft bei der in Singapur registrierten Firma Megaspeed und wurde von US-Medien mit dem Verdacht belegt, ein Geheimdienstakteur für China zu sein. China wies diese Anschuldigungen laut BBC als Verleumdung zurück. Am Mittwoch wurde in den Medien zudem über eine zweite Beziehung von Jensen Huang berichtet, die er demnach mit einer langjährigen Nvidia-Führungskraft namens Kimberly Powell unterhalten haben soll. Kimberly Powell war innerhalb des Unternehmens direkt unterhalb von Jensen Huang tätig. Interne Quellen berichteten der BBC, dass Mitarbeiter eine ungewöhnliche Nähe zwischen den beiden Personen im Firmenalltag beobachtet hatten.",
-      "Der Aktienkurs des Unternehmens verzeichnete in der Berichtswoche den stärksten Fünf-Tages-Einbruch seit dem Börsengang vor 27 Jahren, wobei die Marktkapitalisierung sank. Nvidia gab bekannt, dass Chief Financial Officer Colette Kress vorübergehend den Posten der Interim-Chefin übernehmen wird, während das Unternehmen nach einer Nachfolge sucht. Trotz der internen Untersuchungen betonte Nvidia, dass nach aktuellem Kenntnisstand weder die nationale Sicherheit noch Firmengeheimnisse gefährdet wurden. Unabhängige Prüfungen sollen jedoch alle verfügbaren Informationen analysieren. Angestellte des Unternehmens berichteten, dass die ersten Berichte über die eheliche Untreue zunächst innerhalb der Belegschaft kaum beachtet wurden. Erst das Bekanntwerden der zweiten Beziehung zu einer Führungskraft innerhalb des eigenen Hauses führte zu Beunruhigunsggefühlen. Viele Beschäftigte besitzen durch den Aktienanstieg finanzielle Beteiligungen an dem Technologiekonzern.",
-      "Die politische und juristische Aufarbeitung erfasst neben dem Senat auch das Repräsentanzenhaus. Senator Tim Scott betonte in einer Stellungnahme auf der Plattform X, dass die Berichte schwerwiegende Bedenken hinsichtlich der nationalen Sicherheit und des Schutzes sensibler Technologien auslösen. Das Handelsministerium bestätigte gegenüber Medien, dass Howard Lutnick der Aufforderung zur Anhörung im Bankenausschuss zugestimmt hat. Die Demokratische Partei drängt unterdessen auf Transparenz darüber, welche Kenntnisse Regierungsmitglieder zu welchem Zeitpunkt über die Vorgänge hatten. Die US-Bundesbehörden prüfen in diesem Zusammenhang sämtliche Exportwege von Hochleistungschips nach Asien. Die verhängten Handelsbeschränkungen sollen verhindern, dass chinesische Unternehmen Rechenzentren für militärische oder zivile Anwendungen aufbauen können, die auf amerikanischer Halbleitertechnologie basieren. Nvidia war in den vergangenen Jahren zu einem zentralen Anbieter für die Infrastruktur der Künstlichen Intelligenz aufgestiegen."
+      "Die diplomatischen Bemühungen um eine Beendigung des Konflikts wurden durch Treffen in Abu Dhabi und Dublin intensiviert. An den Beratungen in Dublin nahm Selenskyj unter anderem an der Seite der US-Gesandten Steve Witkoff und Jared Kushner teil. Die USA versuchen nach Darstellung des Spiegels erneut, einen Durchbruch im Konflikt zu erreichen. Dabei wurden von US-Emissären wiederholt Szenarien ins Spiel gebracht, die einen Rückzug der ukrainischen Streitkräfte aus umstrittenen Regionen vorsehen.",
+      "Ein wichtiges Element der künftigen Verhandlungsstruktur ist die Einbindung europäischer Staaten. Beim informellen Gipfel in der irischen Hauptstadt Dublin verständigten sich die Staats- und Regierungschefs der Europäischen Union auf ein festes Verhandlungsteam. Laut Deutscher Welle setzt sich dieses Team aus Vertretern der EU-Institutionen sowie den sogenannten E5-Ländern zusammen. Zu den E5-Ländern gehören Deutschland, Großbritannien, Frankreich, Italien und Polen.",
+      "Bundeskanzler Friedrich Merz erklärte in Dublin, dass es in den kommenden Wochen konkrete Friedensgespräche geben werde. Dabei sei Deutschland als Teil dieses europäischen Teams gesetzt. Parallel zu diesen diplomatischen Vorbereitungen läuft der militärische Konflikt unvermindert weiter. Nach Angaben aus Berichten der Tagesschau/ARD wurden bei Angriffen in Saporischschja mindestens 22 Menschen verletzt, während in Pawlohrad ein Mensch ums Leben kam."
      ]
     },
     {
-     "ueberschrift": "Hintergrund",
+     "ueberschrift": "Hintergrund und russische Positionen",
      "absaetze": [
-      "Die wirtschaftliche und politische Bedeutung von Nvidia ist in den vergangenen Jahren gestiegen, da die Nachfrage nach spezialisierten Computerchips für Systeme der Künstlichen Intelligenz zunahm. Die US-Regierung hat Exportkontrollen erlassen, um den Export von Hochleistungschips an potenzielle Konkurrenten wie China zu unterbinden. Diese Vorschriften sollen den technologischen Vorsprung der Vereinigten Staaten sichern und verhindern, dass Rechenkapazitäten für staatliche Zwecke im Ausland eingesetzt werden. Jensen Huang hatte im Rahmen seiner unternehmerischen Tätigkeit argumentiert, dass ein vollständiger Ausschluss chinesischer Abnehmer zu einer eigenständigen Entwicklung von Alternativtechnologien in China führen könnte. Dies hätte nach seiner Auffassung die internationale Position von Nvidia geschwächt. Die Verknüpfung von privaten Verbindungen und sicherheitspolitischen Fragestellungen hat den Fall zu einem Gegenstand parlamentarischer Untersuchungen gemacht."
+      "Russland verfolgt nach Analysen in den Berichten das Ziel einer grundlegenden Neuordnung der europäischen Sicherheitsarchitektur. Einem zugespielten russischen Positionspapier für Verhandlungen vom November 2026 zufolge fordert Moskau den Abzug von NATO-Basen und Truppen aus weiten Teile Ost- und Mitteleuropas. Das Militärbündnis soll faktisch auf den Stand von 1997 zurückgeführt werden, um Russland eine eigene Einflusssphäre zuzugestehen. Selenskyj bezeichnete diese Pläne laut Tagesschau/ARD als gefährlich, da sie zu neuen Kriegen führen könnten.",
+      "Die USA haben in jüngster Zeit ihrerseits Gespräche über eine Neuordnung der europäischen Sicherheitsarchitektur angeregt. Kritiker befürchten laut Tagesschau/ARD, dass Washington damit die Logik des Kremls übernimmt. Zudem bestehen in Europa fortwährend Sorgen über mögliche Truppenabzüge der USA und die anhaltende Kritik von US-Präsident Donald Trump an der NATO. Selenskyj betonte, dass wirkliche Sicherheit in Europa ausschließlich durch die Europäische Union und die NATO gewährleistet werden könne.",
+      "Die ukrainische Verteidigung stützt sich in den umstrittenen Gebieten auf stark befestigte Stellungen. Ein Verlust dieser Regionen würde laut Spiegel die militärische Verteidigungsposition Kiews im Falle einer erneuten Offensive spürbar schwächen. Moskau betrachtet die Souveränität des Nachbarstaates fortwährend als verhandelbar und betont den historischen Anspruch auf die Regionen. Gleichzeitig verweist die Tagesschau/ARD darauf, dass viele Angaben zum Kriegsverlauf von beteiligten Behörden stammen und schwer unabhängig zu verifizieren sind."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Ein Senatsausschuss ist ein Untergremium des US-Senats, das sich mit speziellen Themen wie Gesetzgebung oder Kontrollfragen befasst. Ausschüsse haben das Recht, Zeugen zu laden, Dokumente anzufordern und öffentliche Anhörungen durchzuführen, um politische Missstände oder Sicherheitsrisiken aufzuklären. Exportkontrollen sind staatliche Regulierungen, die den Verkauf bestimmter sensibler Güter, Technologien oder Software an das Ausland einschränken oder verbieten, um die nationale Sicherheit zu wahren."
+      "Die NATO ist ein internationales Bündnis aus nordamerikanischen und europäischen Staaten, das auf gegenseitige militärische Unterstützung ausgelegt ist. Die Aufnahme neuer Mitglieder erfordert die Zustimmung aller bestehenden Mitgliedstaaten.",
+      "Ein Referendum ist eine Volksabstimmung, bei der die wahlberechtigte Bevölkerung direkt über eine konkrete politische Sachfrage entscheidet."
      ]
     },
     {
-     "ueberschrift": "Reaktionen",
+     "ueberschrift": "Reaktionen und Positionen",
      "absaetze": [
-      "Senator Tim Scott erklärte laut Tagesschau/ARD und BBC, dass die aktuellen Medienberichte ernsthafte Sorgen hinsichtlich der nationalen Sicherheit und des Schutzes sensibler Technologien auslösen. Ein Sprecher des US-Handelsministeriums teilte laut Tagesschau/ARD und BBC mit, dass Handelsminister Howard Lutnick der Aufforderung zur Anhörung im Bankenausschuss proaktiv zugestimmt hat. US-Generalstaatsanwalt Todd Blanche erklärte laut BBC, dass das Justizministerium noch keine endgültigen Schlüsse über eine angebliche Spionagetätigkeit von Alice Huang gezogen habe. Nvidia erklärte laut BBC, dass nach bisherigen Erkenntnissen kein Grund zu der Annahme bestehe, dass die nationale Sicherheit oder Unternehmensgeheimnisse kompromittiert worden seien. China wies den Vorwurf, Alice Huang sei ein Geheimdienstakteur gewesen, laut BBC als Verleumdung zurück."
+      "Präsident Wolodymyr Selenskyj erklärte laut Tagesschau/ARD und Spiegel, dass er eine Gebietsabtretung im Donbass ablehne, die Frage jedoch bei Vorliegen umfassender Sicherheitsgarantien und wirtschaftlicher Hilfe in einem Referendum zur Abstimmung stellen würde. Er betonte, dass die Ukraine ohne eine NATO-Mitgliedschaft langfristig keine ausreichenden Sicherheitsgarantien besitze.",
+      "Russlands Präsident Wladimir Putin fordert laut Tagesschau/ARD und Deutscher Welle einen neutralen Status der Ukraine und den Verzicht auf annektierte sowie beanspruchte Gebiete. Er hält an seinen Maximalforderungen fest und lehnt eine NATO-Mitgliedschaft des Nachbarstaates ab.",
+      "Bundeskanzler Friedrich Merz betonte laut Deutscher Welle in Dublin, dass Deutschland in den kommenden Wochen bei den konkreten Friedensgesprächen als Teil des europäischen Teams fest eingeplant ist."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Jensen Huang und Handelsminister Howard Lutnick sollen im Dezember vor dem Bankenausschuss des US-Senats erscheinen. Darüber hinaus wurden sie von drei Ausschüssen des Repräsentanzenhauses zu einem nicht-öffentlichen Gespräch für den ersten Dezember geladen. Das Unternehmen Nvidia setzt seine unternehmensinterne Untersuchung fort und sucht nach einer Nachfolge für die Führungsposition."
+      "Die internationalen diplomatischen Bemühungen werden mit einer neuen Verhandlungsrunde fortgesetzt. An diesen kommenden Gesprächen sollen neben US-Unterhändlern auch die vereinbarten europäischen Vertreter teilnehmen.",
+      "In den nächsten Wochen sind laut den Ankündigungen konkrete Friedensgespräche zur Beendigung des Konflikts vorgesehen, an denen Europa durch ein neu zusammengestelltes Team vertreten sein wird."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "2026-11-10",
+     "Ein russisches Positionspapier für Verhandlungen wird laut Berichten datiert."
+    ],
+    [
+     "2026-11-13",
+     "Treffen von Präsident Selenskyj mit den US-Gesandten Witkoff und Kushner in Dublin."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Volodymyr Zelenskyy",
+     "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich zu den diplomatischen Vorschlägen der USA."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "NATO headquarters Brussels",
+     "bildunterschrift": "Die NATO ist das westliche Bündnis, dessen möglicher Beitritt der Ukraine Gegenstand internationaler Gespräche ist."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Dublin City Council",
+     "bildunterschrift": "In der irischen Hauptstadt Dublin fanden wichtige Konsultationen und Treffen europäischer Staats- und Regierungschefs statt."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Peace negotiations symbol",
+     "bildunterschrift": "Symbolische Darstellung von Verhandlungen und diplomatischen Bemühungen zur Beendigung von Konflikten."
+    }
+   ],
+   "ort": {
+    "name": "Dublin, Irland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Formulierung im ersten Punkt unter einig präzisiert, dass sich die Aussage auf Angaben von Selenskyj stützt."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Referendum",
+      "Ein Referendum ist eine Volksabstimmung. Dabei entscheidet die wahlberechtigte Bevölkerung direkt über eine politische Frage."
+     ],
+     [
+      "NATO",
+      "Die NATO ist ein militärisches Bündnis aus nordamerikanischen und europäischen Staaten, das auf gegenseitigen Beistand ausgerichtet ist."
+     ],
+     [
+      "E5-Länder",
+      "Zu den E5-Ländern gehören Deutschland, Großbritannien, Frankreich, Italien und Polen. Sie bilden zusammen mit EU-Vertretern ein neues Verhandlungsteam."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielen internationale Verbündete bei den Verhandlungen zwischen der Ukraine und Russland?",
+     "Warum ist die Frage von Sicherheitsgarantien für die Ukraine in den Friedensgesprächen von zentraler Bedeutung?",
+     "Welche Auswirkungen könnte ein Gebietsverzicht auf die militärische Verteidigungsposition der Ukraine haben?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer hat nach Angaben von Präsident Selenskyj den Vorschlag eines NATO-Beitritts im Tausch gegen den Donbass eingebracht?",
+      "optionen": [
+       "US-Unterhändler",
+       "Die Europäische Union",
+       "Das russische Verteidigungsministerium"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, Deutschlandfunk, Spiegel und Deutscher Welle brachten US-Unterhändler diese Frage nach Gesprächen in Abu Dhabi ins Gespräch."
+     },
+     {
+      "frage": "Unter welchen Bedingungen würde Selenskyj die Frage eines Gebietsverzichts zur Abstimmung stellen?",
+      "optionen": [
+       "Ohne weitere Bedingungen",
+       "Bei Vorliegen eines umfassenden Sicherheitspakets",
+       "Nur auf Anweisung der Vereinten Nationen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Selenskyj erklärte, er würde die Frage in einem Referendum zur Abstimmung stellen, falls die Ukraine ein umfassendes Sicherheitspaket mit Sicherheitsgarantien und einer gut finanzierten Armee erhält."
+     },
+     {
+      "frage": "Worauf einigten sich die Staats- und Regierungschefs der EU bei einem Gipfel in Dublin?",
+      "optionen": [
+       "Auf einen sofortigen Truppenabzug",
+       "Auf ein gemeinsames Verhandlungsteam aus E5-Ländern und EU-Institutionen",
+       "Auf eine Änderung der ukrainischen Verfassung"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die EU-Staaten einigten sich in Dublin auf ein gemeinsames Verhandlungsteam, das aus den E5-Ländern und Vertretern der EU-Institutionen besteht."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Vereinigten Staaten haben der Ukraine nach Angaben von Präsident Wolodymyr Selenskyj einen NATO-Beitritt vorgeschlagen. Dafür soll die Ukraine aber Gebiete an Russland abgeben.",
+    "absaetze": [
+     "Nach Gesprächen in den Vereinigten Arabischen Emiraten haben Unterhändler der Vereinigten Staaten eine neue Frage aufgeworfen. Sie überlegten, ob die Ukraine der NATO beitreten könnte, wenn sie sich aus der Region Donbass zurückzieht.",
+     "Das sagte der ukrainische Präsident Wolodymyr Selenskyj vor Journalisten. Er betonte, dass er Gebiete nicht einfach so abtreten will. Wenn die Ukraine aber gute Sicherheitsgarantien bekommt, könnte die Bevölkerung in einer Abstimmung darüber entscheiden.",
+     "Russlands Präsident Wladimir Putin lehnt einen NATO-Beitritt der Ukraine weiterhin ab. Er fordert stattdessen, dass die Ukraine neutral bleibt und bestimmte Gebiete an Russland abtritt.",
+     "Die Europäische Union hat sich inzwischen auf ein eigenes Verhandlungsteam geeinigt. Zu diesem Team gehören Deutschland, Frankreich, Großbritannien, Italien, Polen sowie Vertreter der Europäischen Union.",
+     "In den kommenden Wochen sollen weitere Gespräche stattfinden, um nach Möglichkeiten für ein Ende des Krieges zu suchen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "US-Unterhändler haben der Ukraine laut Präsident Wolodymyr Selenskyj einen NATO-Beitritt bei Gebietsverzicht vorgeschlagen.",
+     "Selenskyj schließt eine Volksabstimmung darüber nur bei Vorliegen starker Sicherheitsgarantien nicht aus.",
+     "Russlands Präsident Wladimir Putin fordert weiterhin einen neutralen Status der Ukraine und die Kontrolle über beanspruchte Gebiete.",
+     "Die EU hat ein gemeinsames Verhandlungsteam aus fünf europäischen Staaten und EU-Institutionen gebildet."
+    ],
+    "lang": [
+     "Die Vereinigten Staaten haben der Ukraine nach Angaben von Präsident Wolodymyr Selenskyj einen NATO-Beitritt im Gegenzug für einen Gebietsverzicht in Aussicht gestellt.",
+     "Das erklärte der ukrainische Staatschef nach Friedensgesprächen mit Russland in den Vereinigten Arabischen Emiraten.",
+     "Selenskyj betonte vor Journalisten, dass er offizielle Gebietsabtretungen ablehne.",
+     "Er würde diese Frage jedoch in einem Referendum zur Abstimmung stellen, falls die Ukraine ein umfassendes Sicherheitspaket erhalte.",
+     "Russlands Präsident Wladimir Putin beharrt nach übereinstimmenden Berichten auf seinen Maximalforderungen und fordert einen neutralen Status der Ukraine.",
+     "Die Europäische Union verständigte sich indessen bei einem Gipfel in Dublin auf ein gemeinsames Verhandlungsteam für kommende Friedensgespräche.",
+     "Zu diesem Team gehören Deutschland, Großbritannien, Frankreich, Italien, Polen sowie Vertreter der Europäischen Union.",
+     "Die NATO ist ein Bündnis aus nordamerikanischen und europäischen Staaten zur gegenseitigen militärischen Unterstützung.",
+     "In den kommenden Wochen sollen konkrete Gespräche zur Beendigung des Konflikts stattfinden.",
+     "Ob die USA den Vorschlag eines NATO-Beitritts als offizielle Politik verfolgen, bleibt vorerst unklar."
+    ],
+    "einfach": [
+     "Die Vereinigten Staaten haben der Ukraine laut Präsident Selenskyj einen NATO-Beitritt vorgeschlagen.",
+     "Dafür soll sich die Ukraine nach den Plänen aus dem Donbass zurückziehen.",
+     "Selenskyj erklärte, dass er das nicht allein entscheiden will.",
+     "Die Bürger sollen in einer Volksabstimmung darüber abstimmen, wenn es gute Sicherheitsgarantien gibt.",
+     "Russlands Präsident Putin fordert dagegen weiterhin, dass die Ukraine neutral bleibt.",
+     "Die Europäische Union hat ein eigenes Team für künftige Friedensgespräche gebildet."
+    ]
+   },
+   "kurz": [
+    "US-Unterhändler haben der Ukraine laut Selenskyj einen NATO-Beitritt bei Gebietsverzicht vorgeschlagen.",
+    "Selenskyj lehnt Gebietsabtretungen ab, schließt aber ein Referendum bei Sicherheitsgarantien nicht aus.",
+    "Russlands Präsident Putin fordert weiterhin die Neutralität der Ukraine und die Kontrolle über beanspruchte Gebiete.",
+    "Die EU hat ein Verhandlungsteam aus E5-Ländern und EU-Institutionen für künftige Gespräche gebildet."
+   ],
+   "fakten": [
+    [
+     "Datum des russischen Positionspapiers",
+     "10. November 2026"
+    ],
+    [
+     "Datum des Treffens von Selenskyj mit US-Gesandten in Dublin",
+     "13. November 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "krieg-in-der-ukraine",
+    "titel": "Krieg in der Ukraine"
+   },
+   "bildInfo": {
+    "titel": "Volodymyr Zelensky Official portrait.jpg",
+    "beschreibung": "Official portrait of Volodymyr Zelenskyy .",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+    "urheber": "http://www.president.gov.ua/",
+    "lizenz": "CC BY 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "art": "person",
+    "suchbegriff": "Volodymyr Zelenskyy",
+    "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj, dessen Land ein NATO-Beitritt im Gegenzug für einen Gebietsverzicht vorgeschlagen wurde.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Volodymyr Zelensky Official portrait.jpg",
+     "beschreibung": "Official portrait of Volodymyr Zelenskyy .",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Volodymyr_Zelensky_Official_portrait.jpg/1280px-Volodymyr_Zelensky_Official_portrait.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Volodymyr_Zelensky_Official_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_Official_portrait.jpg",
+     "urheber": "http://www.president.gov.ua/",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "person",
+     "suchbegriff": "Volodymyr Zelenskyy",
+     "bildunterschrift": "Der ukrainische Präsident Wolodymyr Selenskyj, dessen Land ein NATO-Beitritt im Gegenzug für einen Gebietsverzicht vorgeschlagen wurde.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Brussels NATO Headquarters 02.jpg",
+     "beschreibung": "NATO Headquarters in Brussels .",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Brussels_NATO_Headquarters_02.jpg/1280px-Brussels_NATO_Headquarters_02.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Brussels_NATO_Headquarters_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Brussels_NATO_Headquarters_02.jpg",
+     "urheber": "Ad Meskens You are free to use this picture for any purpose as long as you credit its auth",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "NATO headquarters",
+     "sprache": "en",
+     "art": "institution",
+     "suchbegriff": "NATO headquarters Brussels",
+     "bildunterschrift": "Der Hauptsitz der NATO in Brüssel.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Dublin, Irland",
+    "lat": 53.349,
+    "lon": -6.261
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "flugstopp-usa-technische-panne",
+   "rubrik": "Welt",
+   "zeit": "2026-11-14T17:24:57.000Z",
+   "titel": "Landesweiter Flugstopp in den Vereinigten Staaten nach technischer Störung",
+   "vorspann": "In den USA kam der Luftverkehr infolge eines technischen Defekts an Kommunikationssystemen für mehrere Stunden zum Erliegen. Zehntausende Passagiere waren von Verspätungen und Flugausfällen betroffen, auch Verbindungen nach Europa und Deutschland wurden beeinträchtigt.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "In den USA kam der Flugbetrieb durch eine technische Störung für rund vier Stunden zum Erliegen.",
+    "Die US-Luftfahrtaufsicht verhängte ein landesweites Startverbot, das Zehntausende Passagiere betraf.",
+    "Verkehrsminister Sean Duffy machte veraltete Technik und überlastete Router für den Ausfall verantwortlich.",
+    "Auch in Deutschland kam es an den Flughäfen Frankfurt und München zu Flugausfällen und Umleitungen."
+   ],
+   "einig": [
+    [
+     "Es gab ein mehrstündiges landesweites Startverbot für Flugzeuge in den USA.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "US-Verkehrsminister Sean Duffy äußerte sich zu den Ursachen der Störung.",
+     [
+      "Tagesschau/ARD",
+      "Deutsche Welle",
+      "Spiegel"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob es einen Zusammenhang mit anderen weltweiten Systempannen gibt, wurde von Verkehrsminister Sean Duffy laut Tagesschau/ARD ausgeschlossen, während die genauen Ursachen laut Behördenangaben zunächst weiter untersucht werden."
+   ],
+   "positionen": [
+    [
+     "Sean Duffy (US-Verkehrsminister)",
+     "Veraltete Technik und überlastete Router waren die Ursache, nicht die aktuelle Regierung.",
+     "Tagesschau/ARD, Spiegel, Süddeutsche Zeitung, Deutsche Welle"
+    ],
+    [
+     "Markwayne Mullin (US-Heimatschutzminister)",
+     "Es gab keine Hinweise auf einen böswilligen Angriff oder eine Cyberattacke.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Steve Arroyo (Luftfahrt-Sicherheitsexperte)",
+     "Fehlende Sprachverbindungen zwischen Lotsen und Piloten machen Startverbote zwingend erforderlich.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Sprecherin der Deutschen Flugsicherung",
+     "Eine Panne dieses Ausmaßes gab es in Deutschland bisher nicht; Systeme verfügen über umfangreiche Redundanzen.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Vertreter von Fluggesellschaften sowie betroffene Passagiere kommen in den Berichten nicht direkt mit Aussagen zu Wort.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "14.11.26, 17:44",
+     "fokus": "Hintergründe und internationale Folgen",
+     "text": "Der Beitrag bietet einen umfassenden Überblick über die technischen Ursachen, die Infrastrukturprobleme in den USA sowie die Auswirkungen auf deutsche Flughäfen.",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 6,
+      "woerter": 1193,
+      "satzlaenge": 15,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "14.11.26, 18:24",
+     "fokus": "Kompakte Zusammenfassung",
+     "text": "Die Kurzmeldung fasst die wesentlichen Fakten des stundenlangen Flugverbots und der betroffenen Verbindungen zusammen.",
+     "url": "https://www.deutschlandfunk.de/flugverbot-in-den-usa-wieder-aufgehoben-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "14.11.26, 11:15",
+     "fokus": "Auswirkungen auf deutsche Reisende",
+     "text": "Der Bericht konzentriert sich stark auf die konkreten Flugausfälle und Umleitungen an den Flughäfen in Frankfurt am Main und München.",
+     "url": "https://www.spiegel.de/reise/auswirkungen-technischer-panne-mehrere-usa-fluege-gestrichen-a-af8a753f-0fe5-4241-b3e4-e25aba57d44e#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 274,
+      "satzlaenge": 18,
+      "langeWoerter": 36
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "14.11.26, 06:14",
+     "fokus": "Ausmaß des Passagierverkehrs",
+     "text": "Die Zeitung hebt die historische Dimension des Flugstopps und die Gesamtzahl der betroffenen Flüge und Passagiere hervor.",
+     "url": "https://www.sueddeutsche.de/panorama/flugverkehr-chaos-flugstopp-luftfahrt-canceln-airport-verkehrsminister-duffy-trump-li.3580357",
+     "video": false,
+     "lesbar": {
+      "stufe": "leicht",
+      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
+      "klasse": 7,
+      "minuten": 1,
+      "woerter": 118,
+      "satzlaenge": 13,
+      "langeWoerter": 29
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "14.11.26, 09:00",
+     "fokus": "Internationale Nachrichtenübersicht",
+     "text": "Neben der Meldung zum US-Flugstopp enthält der Überblick auch Berichte zu weiteren weltweiten Themen.",
+     "url": "https://www.dw.com/de/news-kompakt-landesweites-startverbot-an-us-flughäfen-aufgehoben/a-79946821?maca=de-rss-de-all-1119-rdf",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 4,
+      "woerter": 772,
+      "satzlaenge": 14,
+      "langeWoerter": 37
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während Tagesschau/ARD und Süddeutsche Zeitung sehr detailliert auf die Hintergründe der Infrastruktur eingehen, fassen Deutschlandfunk und Spiegel das Ereignis kompakter zusammen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "US-Luftfahrtaufsicht FAA und Verkehrsministerium",
+    "was": "Landesweites Startverbot für Flugzeuge",
+    "wann": "2026",
+    "wo": "Vereinigte Staaten",
+    "wie": "Durch ein veraltetes System, das bei der Behebung von Fehlern in die Knie gezwungen wurde",
+    "warum": "Überlastete Router und Unstimmigkeiten in Daten, laut Verkehrsminister Sean Duffy",
+    "quellenlage": "Mitteilungen von Behörden, Ministerien und Flughäfen sowie Medienberichte"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "In den Vereinigten Staaten kam es zu dem längsten Ausfall des Flugbetriebs seit Jahrzehnten. Die zuständige Luftfahrtaufsicht verhängte überraschend ein landesweites Startverbot für Inlandsflüge. Maschinen in der Luft konnten nach und nach landen. Nach etwa vier Stunden hob die Federal Aviation Administration das Verbot wieder auf und gab Entwarnung. Laut Medien und Augenzeugen durften einige Überseeflüge trotz des Stopps abheben.",
+      "Es handelte sich um den dritten landesweiten Stopp des US-Luftverkehrs in der Geschichte. Zuvor blieben Flugzeuge nach den Terroranschlägen vom 11. September 2001 und im Januar 2023 am Boden. Im Jahr 2023 war ein Ausfall des Nachrichtensystems für Piloten der Auslöser für die Maßnahme. Die Behörden betonten, dass das aktuelle Vorgehen aus reiner Vorsicht erfolgt sei."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Das Verkehrsministerium und die Luftsicherheitsbehörde machten Kommunikationssysteme für die Störung verantwortlich. Die Federal Aviation Administration beschrieb das Problem als einen vorübergehenden Ausfall der Telekommunikation in allen Flugsicherungszentren. Die volle Funktionsfähigkeit des Systems wurde inzwischen wiederhergestellt. Nach Angaben von Regierungsvertretern gab es keine Hinweise auf einen böswilligen Angriff oder eine Cyberattacke.",
+      "Infolge des Startverbots kam es an US-Flughäfen zu landesweitem Chaos und langen Warteschlangen. Nach Einschätzung des Luftfahrtberaters Andrew Charlton wurde etwa ein Viertel der täglich rund 45.000 Flüge in den USA abgesagt. Zehntausende Passagiere waren von den Maßnahmen betroffen. In vielen Städten stieg die Nachfrage nach Mietwagen, Taxen und Hotels stark an."
+     ]
+    },
+    {
+     "ueberschrift": "Auswirkungen in Deutschland und Europa",
+     "absaetze": [
+      "Die Störungen in den USA wirkten sich auch auf den internationalen Flugverkehr aus. In der Nacht wurden sämtliche Flüge aus Europa in die Vereinigten Staaten zeitweise ausgesetzt. Wegen des dortigen Nachtflugverbots blieben die unmittelbaren Auswirkungen laut Berichten jedoch gering. Die europäische Luftsicherheitsbehörde Eurocontrol nahm den Hinweis zum Startverbot am frühen Morgen von ihrer Website.",
+      "Am Flughafen Frankfurt am Main wurden vier für den folgenden Tag geplante Flüge in die USA gestrichen. Drei Maschinen, die bereits in Richtung USA gestartet waren, wurden am Vorabend nach Deutschland umgeleitet. Am Münchner Flughafen fielen ebenfalls Verbindungen aus, weil ankommende Maschinen fehlten. Die dortigen Sprecher rechneten mit weiteren Verspätungen und Anpassungen im Flugplan."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Als Hauptursache für den Ausfall nannte Verkehrsminister Sean Duffy veraltete Technik. Es habe sich um ein unglaublich veraltetes Flugsicherungssystem gehandelt, bei dem überlastete Router zu Unstimmigkeiten in den Daten führten. Ein altes analoges System und ein neues digitales System seien nebeneinander betrieben worden. Eingriffe zur Fehlerbehebung hätten das alte System überfordert.",
+      "Die US-Flugverkehrsinfrastruktur leidet laut den Berichten unter technischen Störungen, veralteten Anlagen und einem Mangel an Fluglotsen. Der Kongress hatte im vergangenen Jahr finanzielle Mittel für die Modernisierung bewilligt. Weitere Anträge der Regierung auf Milliardenbeträge zur Behebung von Mängeln stehen zur Prüfung. Bis Ende 2028 sollen Computersysteme aus den 1980er-Jahren ausgemustert werden."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Flugsicherungsbehörden überwachen den Luftraum, steuern Starts und Landungen und sorgen für einen sicheren Abstand zwischen den Flugzeugen. Dazu nutzen sie Kommunikationssysteme, Radaranlagen und Datensysteme für den Nachrichtenaustausch mit Piloten. Veraltete Infrastruktur kann bei hohem Datenaufkommen zu Instabilitäten führen.",
+      "Redundanzen in der Technik bedeuten, dass wichtige Systeme mehrfach vorhanden sind. Fällt ein System aus, kann ein anderes den Betrieb übernehmen, um einen vollständigen Ausfall des Verkehrs zu verhindern."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Verkehrsminister Sean Duffy erklärte bei einer Pressekonferenz im Weißen Haus, dass die Router überlastet gewesen seien und alte Technik versagt habe. Er entschuldigte sich für die Panne und forderte die Freigabe weiterer Finanzmittel. Heimatschutzminister Markwayne Mullin betonte, es habe sich nicht um eine Cyberattacke oder einen böswilligen Angriff gehandelt.",
+      "Eine Sprecherin der bundeseigenen Deutschen Flugsicherung teilte mit, eine Panne dieses Ausmaßes habe es in Deutschland bisher nicht gegeben. Die deutschen Systeme würden mit umfangreichen Redundanzen betrieben. Der Luftfahrt-Sicherheitsexperte Steve Arroyo erklärte, dass Fluglotsen ohne funktionierende Sprachverbindung mit Piloten Flugzeuge am Boden halten müssten."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Freitag",
+     "Die US-Luftfahrtaufsicht verhängt ein landesweites Startverbot."
+    ],
+    [
+     "Vier Stunden später",
+     "Die FAA hebt das Verbot auf und gibt Entwarnung."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Sean Duffy politician",
+     "bildunterschrift": "US-Verkehrsminister Sean Duffy erläuterte bei einer Pressekonferenz die Hintergründe der technischen Störung."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Federal Aviation Administration headquarters",
+     "bildunterschrift": "Die US-Luftfahrtaufsicht FAA verhängte das landesweite Startverbot für den Flugverkehr."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Frankfurt Airport terminal",
+     "bildunterschrift": "Am Flughafen Frankfurt am Main kam es infolge des US-Flugstopps zu Ausfällen und Umleitungen."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Air traffic control radar",
+     "bildunterschrift": "Flugsicherungs- und Radarsysteme steuern den zivilen Luftverkehr und leiten Kommunikationsdaten."
+    }
+   ],
+   "ort": {
+    "name": "Washington, D.C., USA"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das genaue Datum im wfragen-Abschnitt wurde auf das Jahr reduziert, da kein exakter Kalendertag in den Belegen stand."
+   ],
+   "wortwarnung": [
+    "Chaos",
+    "unglaublich"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Luftfahrtaufsicht",
+      "Eine staatliche Behörde, die den Flugverkehr überwacht und für Sicherheit sorgt."
+     ],
+     [
+      "Redundanz",
+      "Das mehrfache Vorhandensein wichtiger technischer Systeme, damit bei einem Ausfall ein Ersatz bereitsteht."
+     ]
+    ],
+    "fragen": [
+     "Welche Folgen kann veraltete Technik für kritische Infrastrukturen wie den Luftverkehr haben?",
+     "Wie wichtig ist die internationale Zusammenarbeit bei der Überwachung des Luftraums?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie lange dauerte das Startverbot für Inlandsflüge in den USA?",
+      "optionen": [
+       "Genau eine Stunde",
+       "Etwa vier Stunden",
+       "Ganze 24 Stunden"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut den Berichten dauerte der Ausfall rund vier Stunden."
+     },
+     {
+      "frage": "Wer machte veraltete Technik für den Ausfall verantwortlich?",
+      "optionen": [
+       "US-Verkehrsminister Sean Duffy",
+       "Der Präsident der Fluggesellschaft United Airlines",
+       "Die Europäische Union"
+      ],
+      "richtig": 0,
+      "erklaerung": "US-Verkehrsminister Sean Duffy nannte veraltete Technik als Ursache für die Panne."
+     },
+     {
+      "frage": "Welche Auswirkungen hatte die Panne in Deutschland?",
+      "optionen": [
+       "Es gab einen kompletten Ausfall des deutschen Luftraums.",
+       "Flüge wurden gestrichen oder umgeleitet.",
+       "Es gab keinerlei Auswirkungen."
+      ],
+      "richtig": 1,
+      "erklaerung": "An den Flughäfen in Frankfurt und München fielen Verbindungen aus und Maschinen wurden umgeleitet."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In den Vereinigten Staaten gab es einen großen Ausfall im Flugverkehr.",
+    "absaetze": [
+     "Die Luftfahrtbehörde verhängte ein landesweites Startverbot für Inlandsflüge.",
+     "Grund war eine technische Störung in den Kommunikationssystemen der Flugsicherung.",
+     "Nach etwa vier Stunden wurde das Verbot wieder aufgehoben.",
+     "Zehntausende Passagiere mussten an den Flughäfen warten.",
+     "Auch an den deutschen Flughäfen in Frankfurt und München fielen Flüge aus."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "In den Vereinigten Staaten gab es ein vierstündiges landesweites Startverbot für Flugzeuge.",
+     "Grund für den Ausfall war eine technische Störung in den Kommunikationssystemen.",
+     "Das teilte das Verkehrsministerium mit.",
+     "Auch an deutschen Flughäfen kam es zu Verspätungen und Ausfällen."
+    ],
+    "lang": [
+     "In den Vereinigten Staaten kam der Flugverkehr nach einer technischen Störung für vier Stunden zum Erliegen.",
+     "Die US-Luftfahrtaufsicht verhängte am Freitag ein landesweites Startverbot für Inlandsflüge.",
+     "Zehntausende Passagiere strandeten an den Flughäfen und mussten lange warten.",
+     "Nach Angaben des Verkehrsministers Sean Duffy war veraltete Technik die Ursache für den Ausfall.",
+     "Überlastete Router führten demnach zu Unstimmigkeiten in den Daten.",
+     "Hinweise auf einen böswilligen Angriff gab es nach Regierungsangaben nicht.",
+     "Die europäische Luftsicherheitsbehörde Eurocontrol und auch deutsche Flughäfen meldeten ebenfalls Auswirkungen.",
+     "In Frankfurt am Main und München mussten Verbindungen gestrichen oder Maschinen umgeleitet werden.",
+     "Eine Sprecherin der Deutschen Flugsicherung erklärte, dass es in Deutschland eine vergleichbare Panne bisher nicht gab.",
+     "Der normale Flugverkehr soll nach Angaben der Behörden schrittweise wieder anlaufen."
+    ],
+    "einfach": [
+     "In den USA sind stundenlang keine Inlandsflüge gestartet.",
+     "Eine technische Störung war der Grund für den Ausfall.",
+     "Der Verkehrsminister sagte, dass veraltete Technik die Ursache war.",
+     "Auch in Deutschland fielen deshalb einige Flüge aus."
+    ]
+   },
+   "kurz": [
+    "In den USA gab es ein vierstündiges landesweites Startverbot für Flugzeuge.",
+    "Grund für den Ausfall war eine technische Störung der Kommunikationssysteme.",
+    "Verkehrsminister Sean Duffy nannte veraltete Technik als Ursache für die Panne.",
+    "Auch an deutschen Flughäfen kam es zu Flugausfällen und Umleitungen."
+   ],
+   "fakten": [
+    [
+     "Dauer des Startverbots in den USA",
+     "etwa vier Stunden"
+    ],
+    [
+     "Tägliche Flüge in den USA",
+     "etwa 45.000"
+    ],
+    [
+     "Gestrichene Flüge in Frankfurt",
+     "vier"
+    ],
+    [
+     "Alter betroffener Computersysteme",
+     "aus den neunzehnamtsechziger Jahren"
+    ],
+    [
+     "Geplantes Ausmusterungsjahr für alte Systeme",
+     "Ende zweitausendachtundachtzig"
+    ]
+   ],
+   "dossier": {
+    "slug": "flugverkehr-usa--stoerung",
+    "titel": "Technischer Ausfall im US-Luftverkehr"
+   },
+   "bildInfo": {
+    "titel": "Federal Aviation Administration headquarters and sign.jpg",
+    "beschreibung": "Washington, DC",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Federal_Aviation_Administration_headquarters_and_sign.jpg/1280px-Federal_Aviation_Administration_headquarters_and_sign.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Federal_Aviation_Administration_headquarters_and_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Federal_Aviation_Administration_headquarters_and_sign.jpg",
+    "urheber": "Runner1928",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "art": "institution",
+    "suchbegriff": "Federal Aviation Administration headquarters",
+    "bildunterschrift": "Das Gebäude der US-Luftfahrtbehörde FAA in Washington, D.C.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Federal Aviation Administration headquarters and sign.jpg",
+     "beschreibung": "Washington, DC",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Federal_Aviation_Administration_headquarters_and_sign.jpg/1280px-Federal_Aviation_Administration_headquarters_and_sign.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/80/Federal_Aviation_Administration_headquarters_and_sign.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Federal_Aviation_Administration_headquarters_and_sign.jpg",
+     "urheber": "Runner1928",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "institution",
+     "suchbegriff": "Federal Aviation Administration headquarters",
+     "bildunterschrift": "Das Gebäude der US-Luftfahrtbehörde FAA in Washington, D.C.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Washington, D.C., USA",
+    "lat": 38.895,
+    "lon": -77.036
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "spionage-verdacht-nvidia-huang",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-14T15:05:48.000Z",
+   "aktualisiert": "aktualisiert um 18:57 Uhr",
+   "titel": "Untersuchungen und Rücktritt nach Exportvorwürfen bei Nvidia",
+   "vorspann": "Nach Vorwürfen des illegalen Exports von Hochleistungschips nach China ist der Chef des Chipherstellers Nvidia zurückgetreten. US-Finanzminister Scott Bessent hat zudem schwere Vorwürfe gegen Handelsminister Howard Lutnick erhoben.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Nvidia-Chef Jensen Huang ist nach Berichten über Vorwürfe zum illegalen Chip-Schmuggel zurückgetreten.",
+    "US-Finanzminister Scott Bessent warf Handelsminister Howard Lutnick vor, den Export von Nvidia-Chips an verdächtige Firmen nicht verhindert zu haben.",
+    "Der US-Senat und das Abgeordnetenhaus haben Untersuchungen zu den Exportbewilligungen eingeleitet.",
+    "In Singapur und Malaysia laufen Ermittlungen zu mutmaßlichen Umgehungen von US-Exportkontrollen."
+   ],
+   "einig": [
+    [
+     "Jensen Huang trat als Chef von Nvidia zurück.",
+     [
+      "FAZ",
+      "NZZ"
+     ]
+    ],
+    [
+     "Alice Huang ist die Chefin der Firma Megaspeed und wird von US-Behörden der Beteiligung am Schmuggel von Nvidia-Chips nach China verdächtigt.",
+     [
+      "FAZ",
+      "NZZ"
+     ]
+    ],
+    [
+     "Finanzminister Scott Bessent erhob schwere Vorwürfe gegen Handelsminister Howard Lutnick.",
+     [
+      "FAZ",
+      "NZZ"
+     ]
+    ],
+    [
+     "Die US-Regierung hat im Jahr 2022 Exportkontrollen für Hochleistungschips von Nvidia verhängt.",
+     [
+      "FAZ",
+      "NZZ"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob das Handelsministerium die Aufnahme neuer Unternehmen auf die schwarze Liste für Exportverbote absichtlich um zwei Monate verzögert hat (laut NZZ)",
+    "Ob Malaysia das endgültige Ziel der verschifften Server war oder diese von dort aus weitergeleitet wurden (laut FAZ)",
+    "Ob der Rückgang des Aktienwerts von Cantor Fitzgerald direkt mit dem Spionageskandal zusammenhängt (laut NZZ)"
+   ],
+   "positionen": [
+    [
+     "Scott Bessent (US-Finanzminister)",
+     "Wirft Handelsminister Lutnick laut NZZ und FAZ vor, den Export von Nvidia-Chips nach China nicht verhindert zu haben.",
+     "FAZ,NZZ"
+    ],
+    [
+     "Howard Lutnick (US-Handelsminister)",
+     "Wird von Finanzminister Bessent kritisiert und erhält laut NZZ Unterstützung von US-Präsident Donald Trump.",
+     "FAZ,NZZ"
+    ],
+    [
+     "Elizabeth Warren und Jim Banks (US-Senatoren)",
+     "Forderten laut FAZ im März vom Handelsminister den Entzug der Exportlizenzen für Chips und Server nach Singapur und andere südostasiatische Staaten.",
+     "FAZ"
+    ],
+    [
+     "Yuen Kuan Moon (Vorstandschef Singtel)",
+     "Rechnet laut FAZ nicht damit, dass Nvidia die Lieferung von Prozessoren nach Singapur und Südostasien stoppt.",
+     "FAZ"
+    ],
+    [
+     "Anwar Ibrahim (Malaysias Ministerpräsident)",
+     "Erklärt laut FAZ, es gebe bisher keine Hinweise auf illegalen Chip-Transport über Malaysia nach China und er werde eine solche Nutzung nicht zulassen.",
+     "FAZ"
+    ]
+   ],
+   "fehlend": "Stellungnahmen direkt von Alice Huang oder dem Unternehmen Megaspeed zu den Schmuggelvorwürfen.",
+   "medien": [
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "14.11.26, 13:59",
+     "fokus": "Schwerpunkt auf Singapur und Schmuggel",
+     "text": "Die FAZ beleuchtet ausführlich die Rolle Singapurs als Handelsdrehscheibe, laufende Gerichtsverfahren vor Ort sowie die wirtschaftlichen und politischen Folgen für Südostasien.",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nvidia-skandal-wird-singapur-der-zugang-zu-ki-chips-gesperrt-accg-201680765.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 6,
+      "woerter": 1104,
+      "satzlaenge": 22,
+      "langeWoerter": 36
+     },
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "NZZ",
+     "typ": "Tageszeitung (Schweiz)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "14.11.26, 16:05",
+     "fokus": "Schwerpunkt auf US-Regierung und Ministerstreit",
+     "text": "Die NZZ konzentriert sich auf die innenpolitischen Verwerfungen in Washington, den Konflikt zwischen Finanzminister Bessent und Handelsminister Lutnick sowie Verbindungen zur Investmentfirma Cantor Fitzgerald.",
+     "url": "https://www.nzz.ch/wirtschaft/er-nannte-jensen-huang-ein-nationales-heiligtum-der-us-handelsminister-howard-lutnick-geraet-in-den-sog-des-nvidia-skandals-ld.10063981",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 4,
+      "woerter": 862,
+      "satzlaenge": 14,
+      "langeWoerter": 36
+     },
+     "traeger": "Neue Zürcher Zeitung AG, Schweiz",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Geografischer Fokus",
+     "Die FAZ legt einen Schwerpunkt auf die Vorgänge in Singapur und Südostasien. Die NZZ fokussiert sich stärker auf die politischen Machtkämpfe in der US-Regierung in Washington."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Nvidia-Chef Jensen Huang, Finanzminister Scott Bessent und Handelsminister Howard Lutnick",
+    "was": "Rücktritte, Vorwürfe wegen Chip-Schmuggel und politische Untersuchungen",
+    "wann": "März und November 2026",
+    "wo": "USA, Singapur und Südostasien",
+    "wie": "Durch Untersuchungen von Behörden, Vorwürfe in Medien und Briefe von Senatoren",
+    "warum": "Wegen des Verdachts des illegalen Exports von Nvidia-Chips nach China unter Umgehung von Handelsbeschränkungen (laut Berichten der FAZ und NZZ)",
+    "quellenlage": "Tageszeitungen FAZ und NZZ sowie offizielle Behördenangaben und Medienberichte"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Rücktritt und Schmuggelvorwürfe",
+     "absaetze": [
+      "Der Chef des US-Chipherstellers Nvidia, Jensen Huang, ist laut FAZ und NZZ von seinem Amt zurückgetreten. Grund für den Rücktritt sind laut übereinstimmenden Medienberichten Vorwürfe des illegalen Exports von Prozessoren. Die Finanzchefin Colette Kress übernimmt laut NZZ den Chefposten interimistisch, während der Verwaltungsrat eine dauerhafte Nachfolge sucht. Das Aufsichtsgremium von Nvidia hat den bisherigen Chef laut NZZ hinausgeworfen, da das Board keine andere Wahl mehr hatte.",
+      "Amerikanischen Geheimdiensten zufolge besteht der Verdacht, dass über das in Singapur ansässige Unternehmen Megaspeed entgegen Exportbeschränkungen im großen Stil Nvidia-Chips nach China geschmuggelt wurden. Laut FAZ geht es um 240.000 Prozessoren im Wert von 7,5 Milliarden Dollar. Die ehemalige Chefin von Megaspeed, Alice Huang, steht nach Angaben von US-Behörden im Verdacht der Spionage und traf sich laut Berichten mehrfach mit dem zurückgetretenen Nvidia-Chef. Die US-Behörden untersuchen eine mögliche Beteiligung von Megaspeed an einem Schmuggelnetzwerk.",
+      "Singapurs Telekomkonzern Singtel teilte in einer Telefonkonferenz mit, der Vorstandschef Yuen Kuan Moon rechne laut FAZ nicht mit einem Stopp der Lieferungen durch Nvidia nach Singapur und Südostasien. Singapurs Innenministerium betonte laut FAZ, man sei ein liberales Wirtschaftszentrum, greife aber gegen Personen entschlossen durch, die den Standort zur Umgehung von Exportkontrollen nutzen. Malaysias Ministerpräsident Anwar Ibrahim erklärte laut FAZ, es gebe bisher keine Hinweise darauf, dass Chips illegal über Singapur und Malaysia nach China transportiert wurden."
+     ]
+    },
+    {
+     "ueberschrift": "Politische Konflikte in Washington",
+     "absaetze": [
+      "In der US-Regierung sorgt der Skandal für offene Konflikte zwischen Regierungsmitgliedern. Finanzminister Scott Bessent erhob am Freitag laut NZZ und FAZ schwere Vorwürfe gegen Handelsminister Howard Lutnick. Lutnick habe den Export von Nvidia-Chips an die fragliche Firma Megaspeed nicht verboten, obwohl das Finanzministerium, das Außenministerium und das Büro des Handelsbeauftragten ein solches Verbot befürwortet hätten. Bessent erklärte gegenüber dem Fernsehsender CNBC laut NZZ, das Handelsministerium halte den Stift in der Hand.",
+      "Finanzminister Bessent und Handelsminister Lutnick gelten laut NZZ schon länger als Rivalen. Lutnick gilt als enger Vertrauter von US-Präsident Donald Trump und unterhält laut Berichten enge Beziehungen zu dem zurückgetretenen Nvidia-Chef Jensen Huang. Huang erzählte dem Podcaster Joe Rogan laut NZZ, Lutnick habe ihn bei ihrem ersten Treffen ein nationales Heiligtum der USA genannt. Gleichzeitig gerät Lutnick auch wegen möglicher Interessenkonflikte im Zusammenhang mit seiner früheren Investmentfirma Cantor Fitzgerald in die Kritik.",
+      "Die Investmentfirma Cantor Fitzgerald, die heute von Lutnicks Söhnen geführt wird, unterhält laut NZZ enge Verbindungen zu Nvidia. Anfang 2025 hielt das Unternehmen laut Börsenaufsicht SEC Aktien des Chipherstellers im Wert von rund 1,2 Milliarden Dollar, wobei der gemeldete Wert inzwischen gesunken ist. Laut NZZ erklärten Vertreter der Finanzfirma, es habe sich beim größten Teil der Papiere um Aktien von Kunden gehandelt. Amerikanische Medien berichten zudem, Geheimdienste hätten Lutnick vor der Verbindung von Huang zu der mutmaßlichen chinesischen Spionin gewarnt."
+     ]
+    },
+    {
+     "ueberschrift": "Parlamentarische Untersuchungen und Gesetzesinitiativen",
+     "absaetze": [
+      "Auch der US-Kongress hat Untersuchungen eingeleitet. Demokratische Abgeordnete im Kongress untersuchen laut NZZ die Exportbewilligungen der Administration für Nvidia und fordern die Aufbewahrung sämtlicher Dokumente und der Kommunikation mit dem Unternehmen. Bereits im März hatten die demokratische Senatorin Elizabeth Warren und ihr republikanischer Kollege Jim Banks einen gemeinsamen Brief an Handelsminister Howard Lutnick verschickt, in dem sie den Entzug der Exportlizenzen für Chips und Server von Nvidia nach Singapur, Malaysia, Thailand und Vietnam forderten.",
+      "Anlass für die Forderungen der Senatoren im Frühjahr war laut FAZ eine Anklage des US-Justizministeriums gegen drei Männer, die Hochleistungsserver mit Nvidia-Chips an ein Unternehmen in Südostasien geliefert und von dort aus nach China weitergeleitet haben sollen. In Singapur läuft zudem ein Strafverfahren im Zusammenhang mit Servern, die Nvidia-Chips nutzen. Die Singapurer Staatsanwaltschaft klagte einen Manager an, nachdem Server im Wert von rund 390 Millionen Dollar für den Einsatz in Singapur bestellt, aber stattdessen nach Malaysia verschifft worden sein sollen.",
+      "Der Skandal könnte auch Auswirkungen auf Gesetze haben. Nach Einschätzung des Unternehmensberaters Steven Okun, zitiert von der FAZ, könnte der Skandal dazu führen, dass der Kongress die Gesetzeslage für den Export von Hochleistungstechnologie ändert."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund der Exportkontrollen",
+     "absaetze": [
+      "Die US-Regierung hat im Jahr 2022 Exportkontrollen für Hochleistungschips von Nvidia verhängt, um zu verhindern, dass China die USA im Wettbewerb bei Künstlicher Intelligenz einholt. Die Chips von Nvidia sind für die Entwicklung von Modellen von großer Bedeutung. Trotz der staatlichen Verbote wird die Ausfuhr nach Berichten der NZZ und FAZ regelmäßig über Umwege umgangen.",
+      "Singapur gilt als wichtiges Wirtschaftszentrum und stellt für Nvidia einen bedeutenden Absatzmarkt dar. Im zweiten Quartal des vergangenen Geschäftsjahres betrug der Anteil Singapurs an Nvidias Gesamtumsatz laut FAZ 22 Prozent. Das Unternehmen erklärte dazu, dass der überwiegende Teil dieser Lieferungen an amerikanische Kunden gegangen sei. Singapurs Regierung betonte wiederholt, dass sie rechtlich nicht verpflichtet sei, einseitig verhängte US-Exportkontrollen durchzusetzen, kündigte jedoch ein härteres Vorgehen gegen die Umgehung von Exportregeln an."
      ]
     }
    ],
@@ -2679,141 +3530,168 @@
     [
      "Donnerstag",
      "Jensen Huang trat als Chef von Nvidia zurück, und Senator Tim Scott verschickte die Ladungsschreiben."
+    ],
+    [
+     "März 2025",
+     "US-Senatoren forderten den Entzug von Exportlizenzen für Chips nach Südostasien."
+    ],
+    [
+     "Donnerstag",
+     "Jensen Huang trat als Chef von Nvidia zurück."
+    ],
+    [
+     "Freitag",
+     "Finanzminister Scott Bessent erhob Vorwürfe gegen Handelsminister Howard Lutnick."
     ]
    ],
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Jensen Huang businessman",
-     "bildunterschrift": "Jensen Huang war jahrzehntelang das Gesicht des Chipherstellers Nvidia."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Howard Lutnick",
-     "bildunterschrift": "US-Handelsminister Howard Lutnick gerät im Zusammenhang mit Exportkontrollen unter Druck."
-    },
-    {
-     "art": "building",
-     "suchbegriff": "United States Capitol building",
-     "bildunterschrift": "Im US-Senat in Washington befassen sich Ausschüsse mit dem Fall und den geladenen Personen."
+     "suchbegriff": "Donald Trump",
+     "bildunterschrift": "US-Präsident Donald Trump hält trotz der Kritik an seinem Handelsminister Howard Lutnick fest."
     },
     {
      "art": "institution",
-     "suchbegriff": "Nvidia headquarters",
-     "bildunterschrift": "Der Hauptsitz des Technologiekonzerns Nvidia ist Schauplatz interner Aufarbeitung und personeller Veränderungen."
+     "suchbegriff": "U.S. Department of Commerce",
+     "bildunterschrift": "Das US-Handelsministerium steht wegen ausbleibender Exportverbote im Fokus von Untersuchungen."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Singapore skyline",
+     "bildunterschrift": "Singapur gerät als bedeutender Umschlagplatz für Technologiegüter unter politischen Druck."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Microprocessor",
+     "bildunterschrift": "Hochleistungschips und Prozessoren sind Gegenstand internationaler Exportkontrollen und Handelsstreitigkeiten."
     }
    ],
    "ort": {
-    "name": "Washington, Vereinigte Staaten von Amerika"
+    "name": "Washington, D.C., USA und Singapur"
    },
    "geprueft": true,
    "korrekturen": [
-    "Der Begriff 'südkoreanischer Senator Tim Scott' wurde korrigiert, da Tim Scott Senator aus South Carolina (USA) ist."
+    "Das Datum in der Zeitleiste korrigiert, um nur belegte Angaben aus den Berichten zu verwenden.",
+    "Unbelegte Aussagen im Abschnitt zur Zeitleiste und den Artikeln entfernt.",
+    "Behauptungen als Aussagen von Personen gekennzeichnet."
    ],
    "wortwarnung": [
-    "Skandals"
+    "Skandal"
    ],
    "lernen": {
     "begriffe": [
      [
       "Exportkontrolle",
-      "Staatliche Regeln, die den Verkauf von bestimmten Waren oder Technologien ins Ausland verbieten oder einschränken."
+      "Eine staatliche Maßnahme, um den Verkauf von bestimmten Waren oder Technologien ins Ausland zu beschränken oder zu verbieten."
      ],
      [
-      "Senatsausschuss",
-      "Ein kleineres Gremium innerhalb des Parlaments, das bestimmte Themen genauer untersucht und Zeugen befragen kann."
+      "Hochleistungschip",
+      "Ein sehr leistungsfähiger Mikroprozessor, der besonders für komplexe Rechenaufgaben wie Künstliche Intelligenz benötigt wird."
      ]
     ],
     "fragen": [
-     "Welche Rolle spielen private Beziehungen von Firmenlenkern für die nationale Sicherheit eines Staates?",
-     "Wie bewertest du die Tatsache, dass politische Gremien wie der US-Senat Manager von Technologieunternehmen öffentlich vorladen?"
+     "Welche Rolle spielen Handelsministerien bei der Durchsetzung von internationalen Wirtschaftssanktionen?",
+     "Warum ist der Standort Singapur für den Handel mit Hochtechnologie von großer Bedeutung?"
     ],
     "quiz": [
      {
-      "frage": "Wer hat Jensen Huang und Howard Lutnick zu einer Anhörung im Dezember vorgeladen?",
+      "frage": "Wer ist als Chef des Chipherstellers Nvidia zurückgetreten?",
       "optionen": [
-       "Der US-Präsident Donald Trump",
-       "Der Bankenausschuss des US-Senats",
-       "Das Justizministerium"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD, Deutschlandfunk und BBC wurden beide vom Bankenausschuss des US-Senats geladen."
-     },
-     {
-      "frage": "Welches Land wies den Vorwurf zurück, dass die betroffene Person ein Geheimdienstakteur war?",
-      "optionen": [
-       "China",
-       "Singapur",
-       "Die Vereinigten Staaten"
+       "Jensen Huang",
+       "Howard Lutnick",
+       "Scott Bessent"
       ],
       "richtig": 0,
-      "erklaerung": "Die BBC berichtet, dass China den Vorwurf als Verleumdung zurückgewiesen hat."
+      "erklaerung": "Laut übereinstimmenden Berichten von FAZ und NZZ trat Jensen Huang als Nvidia-Chef zurück."
      },
      {
-      "frage": "Wer wurde als Interim-Chefin bei Nvidia benannt?",
+      "frage": "Welches Land verhängte im Jahr 2022 Exportkontrollen für Hochleistungschips?",
       "optionen": [
-       "Alice Huang",
-       "Kimberly Powell",
-       "Colette Kress"
+       "Singapur",
+       "Die Vereinigten Staaten",
+       "Malaysia"
       ],
-      "richtig": 2,
-      "erklaerung": "Die BBC und andere Berichte nennen Chief Financial Officer Colette Kress als neue Übergangs-Chefin."
+      "richtig": 1,
+      "erklaerung": "Laut FAZ und NZZ hat die US-Regierung im Jahr 2022 Exportkontrollen für Hochleistungschips von Nvidia verhängt."
+     },
+     {
+      "frage": "Wer erhob schwere Vorwürfe gegen Handelsminister Howard Lutnick?",
+      "optionen": [
+       "Der malaysische Ministerpräsident",
+       "US-Finanzminister Scott Bessent",
+       "Der Vorstandschef von Singtel"
+      ],
+      "richtig": 1,
+      "erklaerung": "FAZ und NZZ berichten übereinstimmend, dass US-Finanzminister Scott Bessent schwere Vorwürfe gegen Handelsminister Howard Lutnick erhob."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Der Chef der US-Firma Nvidia ist nach einer Spionageaffäre zurückgetreten. Nun müssen er und ein Minister vor dem Senat aussagen.",
+    "vorspann": "Der Chef des grossen Chip-Herstellers Nvidia ist zurückgetreten. Es gibt den Verdacht des illegalen Handels mit Prozessoren.",
     "absaetze": [
-     "Der Chiphersteller Nvidia stellt wichtige Computerchips her. Der Chef der Firma, Jensen Huang, trat kürzlich zurück. Grund dafür sind Berichte über angebliche Beziehungen zu Frauen, die Verbindungen nach China haben könnten. Eine davon soll für den chinesischen Geheimdienst gearbeitet haben. Die US-Regierung prüft nun, ob dadurch Sicherheitsregeln verletzt wurden. Das Unternehmen Megaspeed aus Singapur soll im großen Stil Chips an China geliefert haben. Das Land China weist die Spionagevorwürfe als Verleumdung zurück. Wegen dieser Vorfälle hat der US-Senat den ehemaligen Nvidia-Chef Jensen Huang und den Handelsminister Howard Lutnick im Dezember zu einer Anhörung vorgeladen. Der Aktienkurs von Nvidia ist stark gefallen. Das Unternehmen hat Colette Kress zur neuen Übergangs-Chefin ernannt."
+     "Der Chef von Nvidia, Jensen Huang, hat sein Amt niedergelegt. US-Medien berichten über Vorwürfe des illegalen Exports von Chips.",
+     "Nach Angaben von Geheimdiensten wurden Chips über Singapur nach China geschmuggelt. Das verstößt gegen amerikanische Handelsregeln.",
+     "US-Finanzminister Scott Bessent kritisierte Handelsminister Howard Lutnick scharf. Lutnick habe den Export der Chips nicht richtig verhindert.",
+     "Der amerikanische Senat und Behörden in Singapur und Malaysia haben Untersuchungen eingeleitet."
     ]
    },
    "video": {
     "kurz": [
-     "Der ehemalige Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick müssen im Dezember vor dem US-Senat aussagen. Hintergrund sind Berichte über eine Spionageaffäre und mögliche illegale Chip-Lieferungen nach China. Huang war zuvor als Chef des Technologiekonzerns zurückgetreten."
+     "Nvidia-Chef Jensen Huang ist nach Vorwürfen zum illegalen Chip-Schmuggel zurückgetreten.",
+     "US-Finanzminister Scott Bessent kritisierte Handelsminister Howard Lutnick öffentlich.",
+     "Der US-Kongress untersucht nun die Exportbewilligungen."
     ],
     "lang": [
-     "Der ehemalige Chef des Chipherstellers Nvidia, Jensen Huang, ist nach Berichten über eine Spionageaffäre zurückgetreten.",
-     "Zusammen mit Handelsminister Howard Lutnick muss er im Dezember vor dem Bankenausschuss des US-Senats aussagen.",
-     "Das gaben Medien wie die Tagesschau und die BBC bekannt.",
-     "Hintergrund sind Sorgen um die nationale Sicherheit und mögliche Lieferungen von Chips nach China.",
-     "Eine Frau aus China, mit der Huang eine Beziehung gehabt haben soll, wird verdächtigt, für einen Geheimdienst gearbeitet zu haben.",
-     "China weist diesen Vorwurf nach Angaben der BBC als Verleumdung zurück.",
-     "Handelsminister Lutnick gerät zudem wegen möglicher Umgehungen von Exportkontrollen unter Druck.",
-     "Das Unternehmen Nvidia verlor in den vergangenen Tagen an der Börse erheblich an Wert.",
-     "Ein Sprecher des Handelsministeriums erklärte, dass Lutnick der Vorladung bereits proaktiv zugestimmt hat.",
-     "Das Unternehmen sucht nun nach einer dauerhaften Nachfolge für die Führungsposition."
+     "Der Chef des amerikanischen Chipherstellers Nvidia, Jensen Huang, ist von seinem Amt zurückgetreten.",
+     "Das berichten die Frankfurter Allgemeine Zeitung und die Neue Zürcher Zeitung am Freitag.",
+     "Grund für den Rücktritt sind Vorwürfe des illegalen Exports von Hochleistungschips nach China.",
+     "Nach Angaben von US-Behörden sollen Hunderttausende Prozessoren über Singapur unter Umgehung von Handelsregeln transportiert worden sein.",
+     "In der US-Regierung führte der Fall zu einem offenen Streit zwischen Regierungsmitgliedern.",
+     "Finanzminister Scott Bessent warf Handelsminister Howard Lutnick vor, den Export nicht verhindert zu haben.",
+     "Das Handelsministerium wies die Vorwürfe zurück und US-Präsident Donald Trump stärkte Lutnick den Rücken.",
+     "Auch der US-Kongress hat inzwischen Untersuchungen zu den Exportbewilligungen eingeleitet.",
+     "In Singapur und Malaysia prüfen Behörden ebenfalls mögliche Verstösse und Schmuggelwege.",
+     "Ob die Exportregeln für die Region verschärft werden, ist derzeit noch unklar."
     ],
     "einfach": [
-     "Der Chef der US-Firma Nvidia ist zurückgetreten.",
-     "Er soll eine Beziehung zu einer Frau aus China gehabt haben.",
-     "Diese Frau steht im Verdacht, für einen Geheimdienst zu spionieren.",
-     "China nennt diesen Vorwurf eine Verleumdung.",
-     "Wegen möglicher illegaler Chip-Lieferungen muss der ehemalige Chef nun vor dem US-Senat aussagen.",
-     "Auch Handelsminister Howard Lutnick wurde zu dieser Anhörung geladen."
+     "Der Chef der Firma Nvidia ist zurückgetreten.",
+     "Es geht um den illegalen Handel mit Computer-Chips.",
+     "Chips sind winzige Bauteile für Computer.",
+     "Über Singapur sollen Chips nach China gelangt sein.",
+     "Das verstößt gegen amerikanische Regeln.",
+     "Nun ermitteln Politiker und Behörden in den Vereinigten Staaten."
     ]
    },
    "kurz": [
-    "Der ehemalige Nvidia-Chef Jensen Huang ist nach Berichten über eine Spionageaffäre zurückgetreten.",
-    "Der US-Senat hat Huang und Handelsminister Howard Lutnick zu einer Anhörung im Dezember vorgeladen.",
-    "Hintergrund sind Bedenken zur nationalen Sicherheit und mögliche Chip-Lieferungen nach China."
+    "Nvidia-Chef Jensen Huang ist nach Vorwürfen zum illegalen Chip-Schmuggel zurückgetreten.",
+    "US-Finanzminister Scott Bessent warf Handelsminister Howard Lutnick Versäumnisse bei Exportverboten vor.",
+    "Der US-Kongress und Behörden in Singapur und Malaysia untersuchen den Fall."
    ],
    "fakten": [
     [
-     "Wertverlust von Nvidia innerhalb von fünf Tagen",
-     "550 Milliarden US-Dollar"
+     "Wert der Prozessoren im Schmuggelverdacht",
+     "7,5 Milliarden Dollar"
     ],
     [
-     "Rücktrittstag von Jensen Huang",
-     "Donnerstag"
+     "Anzahl der Prozessoren",
+     "240.000"
     ],
     [
-     "Geplanter Termin für die freiwillige Anhörung im Bankenausschuss",
-     "3. Dezember"
+     "Anteil von Singapur an Nvidias Gesamtumsatz",
+     "22 Prozent"
+    ],
+    [
+     "Wert der in Singapur bestellten Server",
+     "390 Millionen Dollar"
+    ],
+    [
+     "Aktienwert der Investmentfirma Cantor Fitzgerald bei Nvidia Anfang 2025",
+     "1,2 Milliarden Dollar"
     ]
    ],
    "dossier": {
-    "slug": "spionageaffaeere-nvidia-usa",
-    "titel": "Spionageaffäre um Chiphersteller Nvidia in den USA"
+    "slug": "nvidia-exportaffaere",
+    "titel": "Exportaffäre um den Chiphersteller Nvidia"
    },
    "bildInfo": {
     "titel": "11.09 總統出席「第一屆李國鼎獎頒獎典禮」 - 53319959776.jpg",
@@ -2877,127 +3755,369 @@
      "hinweis": "Archivfoto"
     }
    ],
-   "ortInfo": {
-    "name": "Washington, Vereinigte Staaten von Amerika",
-    "lat": 38.895,
-    "lon": -77.036
+   "version": 5
+  },
+  {
+   "id": "mercedes-investitionsstopp-deutschland",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-13T16:59:00.000Z",
+   "titel": "Krise der Automobilindustrie: Mercedes erwägt Werksschließungen und stoppt Investitionen",
+   "vorspann": "Der Autobauer Mercedes-Benz prüft wegen sinkender Erträge Werksschließungen in Deutschland und stoppt vorerst alle Investitionen. Auch andere Unternehmen der Branche stehen vor Problemen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
-   "version": 5,
-   "ton": [
+   "zusammenfassung": [
+    "Mercedes-Benz prüft Werksschließungen in Deutschland und stoppt vorerst alle weiteren Investitionen an den heimischen Standorten.",
+    "Als Gründe nennt das Unternehmen sinkende Absatzzahlen, insbesondere in China, sowie hohe Kosten im Vergleich zu anderen Regionen.",
+    "Arbeitnehmervertretungen und die Gewerkschaft IG Metall lehnen die Pläne ab und kündigen Widerstand an.",
+    "Die Krise betrifft neben Mercedes auch andere große Automobilkonzerne und Zulieferbetriebe."
+   ],
+   "einig": [
+    [
+     "Mercedes-Benz erwägt Werksschließungen in Deutschland und stoppt Investitionen.",
+     [
+      "taz",
+      "SRF"
+     ]
+    ],
+    [
+     "Die Krise der Automobilindustrie ist unter anderem auf sinkende Absatzzahlen auf dem chinesischen Markt zurückzuführen.",
+     [
+      "taz",
+      "SRF"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Welche konkreten Standorte von Schließungen betroffen sein könnten, ist laut taz derzeit noch unklar."
+   ],
+   "positionen": [
+    [
+     "Mercedes-Management",
+     "Die Kostenstrukturen sind zu hoch, weshalb Investitionen gestoppt werden und Werksschließungen geprüft werden.",
+     "taz,SRF"
+    ],
+    [
+     "Betriebsrat und IG Metall",
+     "Werksschließungen werden entschieden abgelehnt; das Unternehmen muss verbindliche Perspektiven schaffen.",
+     "taz"
+    ],
+    [
+     "Cem Ince (Die Linke)",
+     "Das Management nutzt die Belegschaft für Kapitalinteressen in Geiselhaft.",
+     "taz"
+    ]
+   ],
+   "fehlend": "Stimmen von Vertretern der chinesischen Regierung oder konkurrierenden ausländischen Autobauern sowie Aussagen von Kundinnen und Kunden.",
+   "medien": [
     {
-     "k": "Der ehemalige Nvidia-Chef Jensen Huang und Handelsminister Howard Lutnick müssen",
-     "d": "d9b9191ddb.mp3",
-     "l": 17.24,
-     "s": [
-      0.25
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "13.11.26, 17:59",
+     "fokus": "Interne Gespräche und Reaktionen",
+     "text": "Die taz berichtet detailliert über interne Aussagen von Mercedes-Vorständen, Details zu Forderungen bei den Arbeitszeiten sowie Reaktionen der Gewerkschaft und der Politik.",
+     "url": "https://taz.de/Mercedes-Vorstand-droht-Arbeitnehmern/!6229788/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 592,
+      "satzlaenge": 16,
+      "langeWoerter": 40
+     },
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
+     "publikumWert": null
+    },
+    {
+     "name": "SRF",
+     "typ": "öffentlich-rechtlich (Schweiz)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "13.11.26, 13:39",
+     "fokus": "Markt und internationale Auswirkungen",
+     "text": "SRF beleuchtet vor allem die wirtschaftlichen Hintergründe in China, die weltweiten Marktzusammenhänge sowie die konkreten Folgen für die Schweizer Zulieferindustrie.",
+     "url": "https://www.srf.ch/news/wirtschaft/krise-in-der-autoindustrie-mercedes-erwaegt-werksschliessungen-das-steckt-dahinter",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 343,
+      "satzlaenge": 10,
+      "langeWoerter": 38
+     },
+     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
+     "finanzierung": "Rundfunkabgabe",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Fokus auf Ausland",
+     "Die taz konzentriert sich stärker auf die innerbetrieblichen Konflikte und Tarifstrukturen in Deutschland, während SRF ausführlich auf den chinesischen Markt und die Auswirkungen auf die Schweiz eingeht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Mercedes-Benz, Betriebsrat, IG Metall",
+    "was": "Mögliche Werksschließungen und Investitionsstopp in Deutschland",
+    "wann": "November 2026",
+    "wo": "Deutschland",
+    "wie": "Durch gestoppte Investitionen und Verhandlungen über Arbeitskosten",
+    "warum": "Sinkende Absatzzahlen, hohe Kosten und Margendruck nach Angaben der Unternehmensführung",
+    "quellenlage": "taz, SRF"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Autobauer Mercedes-Benz erwägt laut übereinstimmenden Berichten die Schließung von Werken in Deutschland. Unternehmensangaben zufolge wird geprüft, welche Standorte sich das Unternehmen hierzulande noch leisten kann. Gleichzeitig hat der Vorstand beschlossen, alle weiteren Investitionen in deutsche Standorte vorerst zu stoppen. Neue Modelle sollen laut den Berichten ausschließlich im Ausland gefertigt werden, falls keine Einigung erzielt wird.",
+      "Hintergrund der Entwicklung sind sinkende Absatzzahlen und hohe Kostenstrukturen. Nach Angaben aus den Medienberichten sind von den weltweiten Beschäftigten des Unternehmens viele in Deutschland tätig. Der Vorstand fordert von den Arbeitnehmern eine Senkung der Arbeitskosten. Die Unternehmensführung und die Arbeitnehmervertretungen führen dazu Gespräche, die bislang zu keinem Ergebnis führten."
      ]
     },
     {
-     "k": "Der Chef der US-Firma Nvidia ist zurückgetreten. Er soll eine Beziehung zu einer",
-     "d": "d7a69aa84a.mp3",
-     "l": 26.13,
-     "s": [
-      0.25,
-      4.19,
-      7.99,
-      12.07,
-      15.05,
-      21.88
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Laut dem Bericht der taz verhandeln das Management und die Arbeitnehmervertreter über die Arbeitszeit und finanzielle Leistungen. Das Management fordert demnach eine Verlängerung der Wochenarbeitszeit sowie die Kürzung von Sonderzahlungen. Die IG Metall und der Betriebsrat lehnen diese Pläne ab und kündigten Widerstand an. Arbeitsdirektorin Britta Seeger erklärte in einem internen Interview, dass sich derzeit kein Lösungskorridor abzeichnet.",
+      "Produktionsvorstand Michael Schiebe hatte bereits im Oktober auf Betriebsversammlungen vor möglichen Werksschließungen gewarnt. Vorstandschef Ola Källenius nannte das Ziel, die Arbeitskosten in Deutschland um zwanzig Prozent auf das Niveau in den Vereinigten Staaten zu senken. Die Arbeitsstunde in Deutschland sei nach Angaben des Unternehmens deutlich teurer als in Osteuropa, wo das Werk in Ungarn ausgebaut wird.",
+      "Nach Angaben des Schweizer Senders SRF ist ein wesentlicher Grund für die Krise der Einbruch der Verkaufszahlen auf dem chinesischen Markt. Dort verkauft Mercedes demnach deutlich weniger Fahrzeuge als in den Vorjahren, weil insbesondere Verbrennungsmotoren kaum noch nachgefragt werden. Dies führt zu ungenutzten Produktionskapazitäten. Auch andere Hersteller wie Volkswagen und Zulieferer wie Schaeffler und Aluwag sind von der Krise betroffen."
      ]
     },
     {
-     "k": "Ob die betroffene Frau tatsächlich als Spionin für China tätig war, ist laut Aus",
-     "d": "c5e05f1d64.mp3",
-     "l": 11.59,
-     "s": [
-      0.25
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die deutsche Automobilindustrie befindet sich in einer wirtschaftlichen Krise. Die Berichte nennen als Ursachen eine zu langsame Umstellung auf elektrische Antriebe, fehlende digitale Funktionen sowie zu große Fahrzeuge. Hinzu kommen eine schwächere Nachfrage in den Kernmärkten wie China und den USA sowie hohe Zölle. Die Rendite der Pkw-Sparte von Mercedes sank im Laufe des Jahres, wodurch die Wachstumsziele für das Jahr 2026 nach Angaben der taz kassiert wurden.",
+      "In der gesamten Automobilbranche stehen erhebliche Umstrukturierungen an. Volkswagen plant den Abbau von Stellen und hat die Modernisierung des Stammwerks in Wolfsburg gestoppt. Auch Zulieferunternehmen in der Schweiz und in Deutschland verzeichnen Auftragsrückgänge und Arbeitsplatzverluste."
      ]
     },
     {
-     "k": "Was bedeutet eigentlich Exportkontrolle? Staatliche Regeln, die den Verkauf von ",
-     "d": "0d7ee05946.mp3",
-     "l": 10.22,
-     "s": [
-      0.25,
-      3.05
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ein Betriebsrat ist eine gewählte Vertretung der Arbeitnehmer in einem Betrieb. Er vertritt die Interessen der Beschäftigten gegenüber dem Arbeitgeber und verhandelt über Themen wie Arbeitszeiten und Standortsicherheit. Die IG Metall ist die zuständige Gewerkschaft für die Metall- und Elektroindustrie in Deutschland und führt Tarifverhandlungen."
      ]
     },
     {
-     "k": "Der ehemalige Chef des Chipherstellers Nvidia, Jensen Huang, ist nach Berichten ",
-     "d": "517875f43e.mp3",
-     "l": 74.65,
-     "s": [
-      0.25,
-      12.22,
-      23.17,
-      33.8,
-      40.35,
-      49.2,
-      56.28,
-      65.65
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Der Betriebsrat und die IG Metall kritisierten die Ankündigungen des Vorstandes scharf und kündigten in einer gemeinsamen Mitteilung Widerstand an. Sie fordern vom Unternehmen verbindliche Perspektiven für Produkte und Investitionen. Arbeitsdirektorin Britta Seeger bezeichnete Forderungen der Gewerkschaft nach Lohnerhöhungen in der aktuellen Situation nach Angaben der taz als überzogen.",
+      "Der Bundestagsabgeordnete Cem Ince von der Partei Die Linke warf dem Management vor, die Belegschaft für Kapitalinteressen in Geiselhaft zu nehmen. Er zog Vergleiche zu den Arbeitskämpfen bei Volkswagen und betonte die Streikbereitschaft der Beschäftigten."
      ]
     },
     {
-     "k": "Jensen Huang war seit 1993 die öffentlich bekannte Führungspersönlichkeit des Ch",
-     "d": "2cc2e8b749.mp3",
-     "l": 66.66,
-     "s": [
-      0.25,
-      10.08,
-      19.4,
-      29.4,
-      33.72,
-      44.42,
-      49.3,
-      57.07
-     ]
-    },
-    {
-     "k": "Die wirtschaftliche und politische Bedeutung von Nvidia ist in den vergangenen J",
-     "d": "bb6c57eaaa.mp3",
-     "l": 52.41,
-     "s": [
-      0.25,
-      10.73,
-      18.68,
-      27.75,
-      38.74,
-      43.92
-     ]
-    },
-    {
-     "k": "Ein Senatsausschuss ist ein Untergremium des US-Senats, das sich mit speziellen ",
-     "d": "b4bb6bc49c.mp3",
-     "l": 29.15,
-     "s": [
-      0.25,
-      8.06,
-      18.33
-     ]
-    },
-    {
-     "k": "Senator Tim Scott erklärte laut Tagesschau/ARD und BBC, dass die aktuellen Medie",
-     "d": "b01622b36d.mp3",
-     "l": 51,
-     "s": [
-      0.25,
-      11.86,
-      23.33,
-      34.46,
-      44.18
-     ]
-    },
-    {
-     "k": "Jensen Huang und Handelsminister Howard Lutnick sollen im Dezember vor dem Banke",
-     "d": "9edfffbc61.mp3",
-     "l": 23.32,
-     "s": [
-      0.25,
-      7.37,
-      15.3
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Das Unternehmen plant, die Situation an den deutschen Standorten weiter zu prüfen. Soweit keine Einigung mit den Arbeitnehmervertretungen erzielt wird, sollen neue Automobilmodelle ausschließlich im Ausland produziert werden. Die Gespräche zwischen dem Vorstand und den Arbeitnehmern werden fortgesetzt."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "Oktober 2026",
+     "Produktionsvorstand Michael Schiebe warnt auf Betriebsversammlungen vor möglichen Werksschließungen."
+    ],
+    [
+     "November 2026",
+     "Der Vorstand beschließt den Investitionsstopp in Deutschland und kündigt Prüfungen von Standorten an."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Ola Källenius",
+     "bildunterschrift": "Ola Källenius ist Vorstandschef des Automobilkonzerns Mercedes-Benz."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
+     "bildunterschrift": "Die Zentrale des Automobilkonzerns Mercedes-Benz in Stuttgart."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Shanghai Automobile Exhibition",
+     "bildunterschrift": "Automobilmessen in China sind für deutsche Hersteller von großer Bedeutung."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Automobile assembly line",
+     "bildunterschrift": "Eine Produktionslinie in der Automobilindustrie."
+    }
+   ],
+   "ort": {
+    "name": "Stuttgart, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Daten und Fakten wurden strikt an die Berichte von taz und SRF angepasst und spekulative Angaben entfernt."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Betriebsrat",
+      "Eine gewählte Vertretung der Arbeitnehmer in einem Unternehmen, die sich für die Rechte der Beschäftigten einsetzt."
+     ],
+     [
+      "Gewerkschaft",
+      "Eine Organisation von Arbeitnehmern, die gemeinsam für bessere Löhne und Arbeitsbedingungen eintritt."
+     ]
+    ],
+    "fragen": [
+     "Welche Gründe nennen Unternehmen für die aktuellen Probleme in der Automobilindustrie?",
+     "Wie begründen Gewerkschaften ihren Widerstand gegen angekündigte Werksschließungen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Was prüft der Autobauer Mercedes-Benz in Deutschland?",
+      "optionen": [
+       "Die Eröffnung neuer Werke",
+       "Werksschließungen und einen Investitionsstopp",
+       "Die Verdoppelung der Belegschaft"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten von taz und SRF prüft das Unternehmen Werksschließungen und stoppt Investitionen."
+     },
+     {
+      "frage": "Welcher Markt wird in den Berichten als besonders wichtig und stark rückläufig genannt?",
+      "optionen": [
+       "China",
+       "Brasilien",
+       "Australien"
+      ],
+      "richtig": 0,
+      "erklaerung": "Beide Quellen nennen den chinesischen Markt als Grund für sinkende Verkaufszahlen."
+     },
+     {
+      "frage": "Wie reagieren Betriebsrat und IG Metall auf die Pläne?",
+      "optionen": [
+       "Sie stimmen allen Kürzungen zu",
+       "Sie fordern höhere Boni",
+       "Sie lehnen Werksschließungen entschieden ab und kündigen Widerstand an"
+      ],
+      "richtig": 2,
+      "erklaerung": "Laut taz lehnen Betriebsrat und IG Metall Werksschließungen entschieden ab."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der Autobauer Mercedes-Benz hat finanzielle Probleme. Deshalb prüft das Unternehmen Werksschließungen in Deutschland und stoppt vorerst alle Investitionen.",
+    "absaetze": [
+     "Sinkende Verkaufszahlen in China und hohe Kosten belasten den Autobauer Mercedes-Benz schwer.",
+     "Das Management fordert deshalb von den Beschäftigten in Deutschland niedrigere Arbeitskosten und längere Arbeitszeiten.",
+     "Die Gewerkschaft IG Metall und der Betriebsrat lehnen diese Forderungen strikt ab und kündigen Widerstand an.",
+     "Auch andere Unternehmen der Autoindustrie und Zulieferer spüren die wirtschaftlichen Probleme deutlich."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Autobauer Mercedes-Benz prüft wegen sinkender Erträge Werksschließungen in Deutschland.",
+     "Das Unternehmen hat zudem alle weiteren Investitionen in deutsche Standorte gestoppt.",
+     "Arbeitnehmervertretungen und die Gewerkschaft IG Metall kündigten Widerstand gegen die Pläne an."
+    ],
+    "lang": [
+     "Der Autobauer Mercedes-Benz prüft nach Medienberichten Werksschließungen in Deutschland und stoppt vorerst alle Investitionen.",
+     "Das Unternehmen reagiert damit auf sinkende Absatzzahlen und nach Angaben des Managements zu hohe Kosten.",
+     "Nach Berichten der taz und des Senders SRF sind besonders die Verkaufszahlen auf dem chinesischen Markt eingebrochen.",
+     "Vorstandschef Ola Källenius nannte das Ziel, die Arbeitskosten in Deutschland um zwanzig Prozent zu senken.",
+     "Das Management fordert von der Belegschaft nach Angaben der taz unter anderem längere Arbeitszeiten und weniger Sonderzahlungen.",
+     "Arbeitsdirektorin Britta Seeger erklärte in einem internen Interview, dass sich derzeit kein Lösungskorridor abzeichnet.",
+     "Der Betriebsrat und die Gewerkschaft IG Metall kritisierten die Drohungen scharf und kündigten Widerstand an.",
+     "Cem Ince von der Partei Die Linke warf dem Management vor, die Belegschaft für Kapitalinteressen in Geiselhaft zu nehmen.",
+     "Die deutsche Automobilindustrie befindet sich in einer schwierigen Phase mit sinkender Nachfrage und Problemen bei der Elektromobilität.",
+     "Gespräche zwischen dem Vorstand und den Arbeitnehmern sollen fortgesetzt werden, um eine Einigung zu finden."
+    ],
+    "einfach": [
+     "Mercedes-Benz hat finanzielle Probleme und prüft die Schließung von Werken in Deutschland.",
+     "Der Autobauer hat vorerst alle Investitionen an den heimischen Standorten gestoppt.",
+     "Grund dafür sind gesunkene Verkaufszahlen im Ausland und zu hohe Kosten.",
+     "Gewerkschaften und Betriebsräte wollen diesen Sparkurs nicht akzeptieren und wehren sich dagegen.",
+     "Auch andere Firmen in der Automobilindustrie spüren die Krise aktuell deutlich."
+    ]
+   },
+   "kurz": [
+    "Mercedes-Benz prüft Werksschließungen in Deutschland und stoppt Investitionen.",
+    "Als Gründe nennt das Unternehmen sinkende Absatzzahlen in China und hohe Kosten.",
+    "Gewerkschaften und Betriebsräte kündigen Widerstand gegen die Pläne an."
+   ],
+   "fakten": [
+    [
+     "Mitarbeiter bei Mercedes-Benz Ende zweitausendfünfundzwanzig",
+     "rund 164.000"
+    ],
+    [
+     "Mitarbeiter in Deutschland bei Mercedes-Benz",
+     "etwa 108.000"
+    ],
+    [
+     "Werke von Mercedes-Benz in Deutschland",
+     "10 bis 12"
+    ],
+    [
+     "Geplante Senkung der Arbeitskosten nach Vorstandsziel",
+     "20 Prozent"
+    ]
+   ],
+   "dossier": {
+    "slug": "krise-der-automobilindustrie",
+    "titel": "Krise der Automobilindustrie"
+   },
+   "bildInfo": {
+    "titel": "Ola Källenius - Daimler Genf 2019 1Y7A5215.jpg",
+    "beschreibung": "Ola Källenius at Geneva Motor Show 2019",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg/1280px-Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
+    "urheber": "Alexander Migl",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "art": "person",
+    "suchbegriff": "Ola Källenius",
+    "bildunterschrift": "Ola Källenius, Vorstandsvorsitzender von Mercedes-Benz, bei einer Automobilausstellung im Jahr 2019.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Ola Källenius - Daimler Genf 2019 1Y7A5215.jpg",
+     "beschreibung": "Ola Källenius at Geneva Motor Show 2019",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg/1280px-Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
+     "urheber": "Alexander Migl",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "person",
+     "suchbegriff": "Ola Källenius",
+     "bildunterschrift": "Ola Källenius, Vorstandsvorsitzender von Mercedes-Benz, bei einer Automobilausstellung im Jahr 2019.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Mercedes-Benz Werk Untertürkheim Neckarpark Stuttgart 2015 02.jpg",
+     "beschreibung": "Mercedes-Benz Werk Untertürkheim (Werk 1/Konzernzentrale Daimler AG), Neckarpark, Mercedes-Benz Arena in Stuttgart.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg/1280px-Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg",
+     "urheber": "Julian Herzog ( Website )",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "institution",
+     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
+     "bildunterschrift": "Das Mercedes-Benz Werk in Stuttgart-Untertürkheim als Standort des Unternehmens.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Stuttgart, Deutschland",
+    "lat": 48.778,
+    "lon": 9.18
+   },
+   "version": 5,
+   "bildVersucht": true
   },
   {
    "id": "mercedes-investitionsstopp- deutschland",
@@ -3190,23 +4310,8 @@
    "bilder": [
     {
      "art": "institution",
-     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
-     "bildunterschrift": "Der Hauptsitz des Automobilkonzerns Mercedes-Benz in Stuttgart."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Stuttgart city skyline",
-     "bildunterschrift": "Blick auf Stuttgart, einen zentralen Standort der deutschen Automobilindustrie."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Automobile manufacturing assembly line",
-     "bildunterschrift": "Eine Produktionsstraße in der Automobilindustrie."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "IG Metall headquarters Frankfurt",
-     "bildunterschrift": "Die Zentrale der Gewerkschaft IG Metall in Frankfurt am Main."
+     "suchbegriff": "Mercedes-Benz Logo",
+     "bildunterschrift": ""
     }
    ],
    "ort": {
@@ -3455,7 +4560,8 @@
       13.27
      ]
     }
-   ]
+   ],
+   "bildVersucht": true
   }
  ]
 }

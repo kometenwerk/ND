@@ -1,6 +1,64 @@
 {
- "stand": "2026-11-11T06:03:32.311Z",
- "inArbeit": null,
+ "stand": "2026-11-14T17:57:02.615Z",
+ "inArbeit": {
+  "id": "die-geschichte-der-erdatmosphaere",
+  "titel": "Die Geschichte der Erdatmosphäre",
+  "untertitel": "Wie sich die Lufthülle unseres Planeten über Milliarden von Jahren veränderte.",
+  "bereich": "Erde und Klima",
+  "begonnen": "2026-11-14T18:07:30.510Z",
+  "kapitel": [
+   {
+    "ueberschrift": "Der Blick auf die Lufthülle",
+    "wikipedia": "Erdatmosphäre",
+    "fokus": "Dieses Kapitel beschreibt den Aufbau und die heutige Zusammensetzung der Lufthülle."
+   },
+   {
+    "ueberschrift": "Die Entstehung der Ur-Erde",
+    "wikipedia": "Entstehung der Erde",
+    "fokus": "Hier wird die Bildung des Planeten und dessen fr଼he Phase erklärt."
+   },
+   {
+    "ueberschrift": "Vulkane und die erste Gashülle",
+    "wikipedia": "Vulkanismus",
+    "fokus": "Dieses Kapitel zeigt, wie Gase aus dem Erdinneren die frühe Atmosphäre prägten."
+   },
+   {
+    "ueberschrift": "Der Beginn des Lebens im Ozean",
+    "wikipedia": "Entstehung des Lebens",
+    "fokus": "Hier geht es um die ersten Organismen im Wasser und deren Bedingungen."
+   },
+   {
+    "ueberschrift": "Die Sauerstoffkatastrophe",
+    "wikipedia": "Große Oxidation",
+    "fokus": "Dieses Kapitel beleuchtet die massive Anreicherung von Sauerstoff durch Mikroorganismen."
+   },
+   {
+    "ueberschrift": "Die Entstehung der Ozonschicht",
+    "wikipedia": "Ozonschicht",
+    "fokus": "Hier wird erklärt, wie UV-Strahlung und Sauerstoff die schützende Ozonschicht bildeten."
+   },
+   {
+    "ueberschrift": "Eiszeiten und Treibhauseffekte",
+    "wikipedia": "Eiszeitalter",
+    "fokus": "Dieses Kapitel beschreibt extreme Klimaschwankungen in der Erdgeschichte."
+   },
+   {
+    "ueberschrift": "Spuren im Eis und Gestein",
+    "wikipedia": "Klimageschichte",
+    "fokus": "Hier wird gezeigt, wie Forschende frühere Atmosphären anhand von Bohrkernen rekonstruieren."
+   },
+   {
+    "ueberschrift": "Der Einfluss des Menschen",
+    "wikipedia": "Anthropozän",
+    "fokus": "Dieses Kapitel widmet sich den modernen Veränderungen der Lufthülle durch menschliche Aktivitäten."
+   },
+   {
+    "ueberschrift": "Offene Fragen der Klimaforschung",
+    "wikipedia": "Klimawandel",
+    "fokus": "Hier werden verbleibende Unbekannte und zukünftige Entwicklungen des Erdklimas behandelt."
+   }
+  ]
+ },
  "fertig": [
   {
    "id": "die-faszinierende-welt-der-pilze",
@@ -484,7 +542,7 @@
         194.59,
         198.09,
         201.79,
-        206.0,
+        206,
         208.98,
         211.79,
         213.79,
@@ -1241,7 +1299,7 @@
       {
        "k": "Im vorigen Kapitel betrachteten wir die Entwicklung der Arten im Stammbaum. Nun ",
        "d": "5bc5f3da2c.mp3",
-       "l": 278.0,
+       "l": 278,
        "s": [
         0.25,
         4.93,
