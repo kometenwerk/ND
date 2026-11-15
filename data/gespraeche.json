@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-14T20:59:39.682008Z",
+ "stand": "2026-11-15T21:18:33.980195Z",
  "besetzung": [
   {
    "name": "Thorsten",
@@ -33,6 +33,199 @@
   }
  ],
  "folgen": [
+  {
+   "id": "podcast-flugstopp-usa-technische-panne",
+   "themaId": "flugstopp-usa-technische-panne",
+   "art": "podcast",
+   "titel": "Flugstopp in den USA nach schwerer technischer Störung",
+   "text": "Ein Systemausfall legt den amerikanischen Flugverkehr für mehrere Stunden lahm und zieht weite Kreise. Wir beleuchten die Ursachen, Reaktionen und die offenen Fragen der Ermittlungen.",
+   "zeit": "2026-11-15T21:18:33.980195Z",
+   "besetzung": [
+    "Thorsten",
+    "Malte",
+    "Jan"
+   ],
+   "d": "folge-podcast-flugstopp-usa-technische-panne.mp3",
+   "l": 675.24,
+   "b": 5402540,
+   "marken": [
+    {
+     "s": 0.3,
+     "wer": "Thorsten",
+     "text": "Guten Tag und herzlich willkommen zu unserem Nachrichten-Podcast. Heute blicken wir auf einen beispiellosen Vorfall im Luftverkehr der Vereinigten Staaten, der weltweit für Aufsehen gesorgt hat. Alle Stimmen dieser Sendung sind Computerstimmen. An meiner Seite sind Malte, der für uns die Fakten und Quellen zusammengetragen hat, und Jan für die Einordnung und kritische Nachfragen."
+    },
+    {
+     "s": 20.05,
+     "wer": "Malte",
+     "text": "Hallo zusammen. Auslöser war ein schwerer technischer Defekt an den Kommunikationssystemen, der sich an einem Freitag ereignete. Die US-Luftfahrtaufsicht sah sich daraufhin gezwungen, ein landesweites Startverbot für Flugzeuge zu verhängen. Dieser Stillstand dauerte etwa vier Stunden an, bevor die Behörde Entwarnung geben und die Maßnahme wieder aufheben konnte."
+    },
+    {
+     "s": 41.2,
+     "wer": "Jan",
+     "text": "Das klingt nach einer kurzen Zeitspanne, hatte aber massive Auswirkungen. In den Vereinigten Staaten finden täglich etwa fünfundvierzigtausend Flüge statt, entsprechend groß war das Chaos. Zehntausende Passagiere saßen fest oder mussten erhebliche Verspätungen hinnehmen. Zudem blieben die Folgen nicht auf Nordamerika beschränkt, sondern reichten bis nach Europa."
+    },
+    {
+     "s": 61.84,
+     "wer": "Thorsten",
+     "text": "Blicken wir zunächst darauf, worin sich die vorliegenden Medienberichte von ARD, Deutschlandfunk, Spiegel, Süddeutscher Zeitung und Deutscher Welle einig sind. Malte, wie stellt sich der gesicherte Ablauf nach den Quellen dar?"
+    },
+    {
+     "s": 74.42,
+     "wer": "Malte",
+     "text": "Einigkeit herrscht in allen Berichten darüber, dass es dieses mehrstündige, landesweite Startverbot tatsächlich gegeben hat. Ebenfalls unbestritten ist, dass US-Verkehrsminister Sean Duffy sich öffentlich zu den Hintergründen geäußert hat. Über die reine Tatsache des vierstündigen Ausfalls und den Stillstand am Boden gibt es zwischen den Medien keinerlei Dissens."
+    },
+    {
+     "s": 95.6,
+     "wer": "Jan",
+     "text": "Auch die internationalen Konsequenzen sind eindeutig dokumentiert. In Deutschland waren namentlich die beiden großen Drehkreuze Frankfurt am Main und München direkt betroffen. Während es in München zu Flugausfällen und Umleitungen kam, mussten in Frankfurt vier Verbindungen komplett gestrichen werden. Das zeigt sehr deutlich, wie eng der weltweite Luftverkehr getaktet ist."
+    },
+    {
+     "s": 116.68,
+     "wer": "Malte",
+     "text": "Genau das bestätigen die Berichte übereinstimmend. Bei einem täglichen Aufkommen von etwa fünfundvierzigtausend Flügen in den USA bringt schon ein vierstündiger Stopp das gesamte Gefüge durcheinander. Selbst wenn vier gestrichene Flüge in Frankfurt auf den ersten Blick wenig wirken, summierten sich die Verspätungen international beträchtlich. Zehntausende Reisende bekamen die Kettenreaktion unmittelbar zu spüren."
+    },
+    {
+     "s": 139.75,
+     "wer": "Thorsten",
+     "text": "Damit stellt sich unweigerlich die Frage nach den Auslösern dieser Panne. Sean Duffy hat als amtierender Verkehrsminister eine sehr konkrete Erklärung geliefert. Malte, welche Position nimmt das US-Verkehrsministerium ein?"
+    },
+    {
+     "s": 152.4,
+     "wer": "Malte",
+     "text": "Sean Duffy machte veraltete Technik und überlastete Router für den Zusammenbruch verantwortlich. Er betonte dabei ausdrücklich, dass die Ursache nicht bei der aktuellen Regierung zu suchen sei. Laut Tagesschau und ARD schloss Duffy zudem aus, dass ein Zusammenhang mit anderen weltweiten Systempannen besteht. Für ihn liegt das Problem primär in der bestehenden technischen Infrastruktur."
+    },
+    {
+     "s": 174.95,
+     "wer": "Jan",
+     "text": "Die Aussage zur Technik wirft natürlich Fragen auf, wenn man sich die Dimensionen vor Augen führt. Was genau bedeutet denn veraltete Technik in diesem Kontext? Es gibt dazu ja erstaunliche Details in den Berichten über das Alter der betroffenen Systeme. Man fragt sich unwillkürlich, wie ein moderner Luftraum auf solchen Grundlagen betrieben werden kann."
+    },
+    {
+     "s": 194.66,
+     "wer": "Malte",
+     "text": "Die Zahlen dazu sind in der Tat bemerkenswert. Die betroffenen Computersysteme stammen laut den Berichten teilweise noch aus den neunzehnhundertsechziger Jahren. Das geplante Ausmusterungsjahr für diese alten Systeme wird auf Ende zweitausendachtundachtzig beziffert. Es handelt sich also um jahrzehntealte Anlagen, die offenbar im Dauereinsatz an ihre Belastungsgrenzen gestoßen sind."
+    },
+    {
+     "s": 216.97,
+     "wer": "Jan",
+     "text": "Ein geplantes Ausmusterungsjahr Ende zweitausendachtundachtzig ist eine beachtliche Zeitspanne für IT-Infrastruktur. Das zeigt sehr gut, unter welchem Druck die Systeme stehen, wenn Router überlastet werden. Duffys Haltung, die Verantwortung nicht bei der aktuellen Administration zu verorten, erklärt sich vor diesem Hintergrund. Dennoch bleibt die Frage, wie es ganz konkret zu dieser akuten Überlastung kommen konnte."
+    },
+    {
+     "s": 240.42,
+     "wer": "Thorsten",
+     "text": "Bei solchen Vorfällen steht auch immer schnell der Verdacht von Sabotage im Raum. Damit zu Jan und den Stimmen aus den Sicherheitsbehörden. Wie wird dieser Aspekt offiziell beurteilt?"
+    },
+    {
+     "s": 250.67,
+     "wer": "Jan",
+     "text": "Hierzu hat sich US-Heimatschutzminister Markwayne Mullin klar positioniert. Er erklärte öffentlich, dass es keinerlei Hinweise auf einen böswilligen Angriff oder eine Cyberattacke gegeben habe. Man geht demnach von einem rein internen technischen Defekt aus. Diese Einschätzung deckt sich mit der Darstellung des Verkehrsministeriums zur Überlastung der Router."
+    },
+    {
+     "s": 270.7,
+     "wer": "Malte",
+     "text": "Zur Dringlichkeit der Maßnahme hat sich außerdem der Luftfahrt-Sicherheitsexperte Steve Arroyo geäußert. Er stellte klar, dass fehlende Sprachverbindungen zwischen den Lotsen und den Piloten ein Startverbot zwingend erforderlich machen. Wenn die Kommunikation abreißt, darf aus Sicherheitsgründen keine Maschine mehr abheben. Die FAA hatte nach dieser fachlichen Einschätzung gar keine andere Wahl."
+    },
+    {
+     "s": 293.02,
+     "wer": "Jan",
+     "text": "Das unterstreicht Arroyo völlig zu Recht, denn Sicherheit hat in der Luftfahrt absoluten Vorrang vor jedem Flugplan. Ohne verlässlichen Sprechfunk ist eine sichere Staffelung am Himmel unmöglich. Man muss sich aber fragen, warum in den USA keine Ausweichsysteme gegriffen haben. Das führt uns direkt zum internationalen Vergleich mit Europa und Deutschland."
+    },
+    {
+     "s": 313.21,
+     "wer": "Thorsten",
+     "text": "In Deutschland hat die Deutsche Flugsicherung auf den Vorfall reagiert und die eigene Lage eingeordnet. Malte, wie lautet dort die Einschätzung?"
+    },
+    {
+     "s": 321.68,
+     "wer": "Malte",
+     "text": "Eine Sprecherin der Deutschen Flugsicherung teilte mit, dass es eine Panne dieses Ausmaßes in Deutschland bisher nicht gegeben hat. Sie verwies zur Begründung darauf, dass die hiesigen Systeme über umfangreiche Redundanzen verfügen. Fällt eine Komponente aus, springt ein paralleles System ein, um die Kommunikation aufrechtzuerhalten. Genau diese Absicherung hat in den USA offenbar in diesem Umfang gefehlt."
+    },
+    {
+     "s": 344.5,
+     "wer": "Jan",
+     "text": "Die Sprecherin der Flugsicherung stellt damit die technischen Schutzmechanismen in den Vordergrund. Gleichzeitig darf man nicht vergessen, dass auch in Deutschland die Auswirkungen spürbar waren, obwohl die eigenen Systeme funktionierten. Wenn in den USA nichts mehr startet, stehen transatlantische Routen eben trotzdem still. Das Problem betrifft letztlich die internationale Kette, unabhängig von nationalen Redundanzen."
+    },
+    {
+     "s": 366.41,
+     "wer": "Thorsten",
+     "text": "Kommen wir zu den Punkten, die in der Berichterstattung noch als offen oder widersprüchlich gelten. Jan, was ist derzeit noch nicht abschließend geklärt?"
+    },
+    {
+     "s": 374.65,
+     "wer": "Jan",
+     "text": "Offen bleibt vor allem die genaue Ursachenforschung im Detail. Zwar hat Verkehrsminister Sean Duffy einen Zusammenhang mit anderen weltweiten Systempannen laut Berichten von Tagesschau und ARD ausgeschlossen. Allerdings betonen die Behördenangaben parallel, dass die genauen Ursachen der Störung zunächst weiter untersucht werden. Es gibt also noch keine abschließende technische Abschlussanalyse."
+    },
+    {
+     "s": 396.53,
+     "wer": "Malte",
+     "text": "Genau an dieser Stelle unterscheiden sich die Perspektiven leicht. Einerseits haben wir Duffys rasche Festlegung auf die überlasteten Router und die Systeme aus den neunzehnhundertsechziger Jahren. Andererseits verweisen die Behörden darauf, dass die genauen Abläufe erst noch lückenlos rekonstruiert werden müssen. Ob die Überlastung ein singuläres Ereignis war, wird sich erst nach diesen Prüfungen zeigen."
+    },
+    {
+     "s": 419.16,
+     "wer": "Jan",
+     "text": "Das ist ein entscheidender Punkt, den Malte da anspricht. Router überlasten ja in der Regel nicht ohne einen spezifischen Datenstrom oder ein auslösendes Ereignis. Dass Minister Mullin einen Cyberangriff ausschließt, beruhigt zwar hinsichtlich krimineller Sabotage. Doch wie es im regulären Betrieb zu einem derart fatalen Kollaps kommen konnte, müssen die laufenden Untersuchungen erst belegen."
+    },
+    {
+     "s": 440.62,
+     "wer": "Thorsten",
+     "text": "Es bleibt also festzuhalten, dass die offizielle Untersuchung noch im Gange ist. Steve Arroyo hat die Handlungsweise der Behörden dennoch verteidigt. Malte, wie bewertet er die Abwägung zwischen Verkehrsfluss und Risiko?"
+    },
+    {
+     "s": 453.18,
+     "wer": "Malte",
+     "text": "Arroyo sieht das rein aus dem Blickwinkel der Flugsicherheit. Für ihn ist die Unterbrechung der Sprachverbindung zwischen Lotsen und Cockpit das denkbar größte Sicherheitsrisiko. In einem solchen Moment ist ein sofortiger Stopp alternativlos, selbst wenn Zehntausende Passagiere stranden. Wirtschaftliche Schäden oder Flugplanchaos müssen hinter der Verhinderung von Unfällen zurückstehen."
+    },
+    {
+     "s": 475.42,
+     "wer": "Jan",
+     "text": "Dem wird niemand ernsthaft widersprechen können. Dennoch bleibt die Frage brisant, warum ein Ausfall dieser Tragweite überhaupt eintreten konnte. Wenn Systeme bis Ende zweitausendachtundachtzig betrieben werden sollen, müssen Redundanzen vorhanden sein. Der Vergleich zur Deutschen Flugsicherung verdeutlicht ja gerade, dass mehrfache Absicherungen Standard sein sollten, um solche Totalausfälle zu verhindern."
+    },
+    {
+     "s": 497.91,
+     "wer": "Malte",
+     "text": "Man muss dabei aber auch die schiere Größenordnung des amerikanischen Luftraums berücksichtigen. Bei rund fünfundvierzigtausend Flügen täglich ist das Netzwerk extrem komplex. Wenn dort ältere Rechnerarchitekturen aus den sechziger Jahren eingebunden sind, lassen sich Neuerungen offenbar nicht im laufenden Betrieb beliebig schnell durchführen. Das erklärt zumindest, warum Duffy den Zustand der Infrastruktur so scharf anprangert."
+    },
+    {
+     "s": 522.63,
+     "wer": "Jan",
+     "text": "Duffy trennt dabei sehr genau zwischen der technischen Realität und der politischen Verantwortung. Indem er betont, die aktuelle Regierung trage keine Schuld, weist er auf ein strukturelles Problem hin. Das ändert aber nichts daran, dass die Behörden nun aufklären müssen, wie die Routerüberlastung konkret entstand. Solange dieser Bericht nicht vorliegt, bleibt eine Lücke in der Erklärungskette."
+    },
+    {
+     "s": 544.02,
+     "wer": "Thorsten",
+     "text": "Blicken wir noch einmal auf die zeitliche Abfolge an jenem Freitag. Malte, wie verlief die Wiederinbetriebnahme nach den vier Stunden des Stillstands?"
+    },
+    {
+     "s": 552.44,
+     "wer": "Malte",
+     "text": "Nach etwa vier Stunden hob die US-Luftfahrtaufsicht das Startverbot schrittweise wieder auf. Die Systeme zur Sprachverbindung arbeiteten wieder stabil genug, um den Verkehr freizugeben. Dennoch brauchte es viele weitere Stunden, bis sich die Lage normalisierte. Die Verspätungen und die Flugstreichungen in Frankfurt und München wirkten noch bis weit in den restlichen Tag hinein nach."
+    },
+    {
+     "s": 574.07,
+     "wer": "Jan",
+     "text": "Das zeigt eben, dass vier Stunden Systemausfall nicht nach vier Stunden ausgestanden sind. Flugzeuge und Crews standen nicht dort, wo sie gebraucht wurden. Für die Reisenden bedeutete das erhebliche Wartezeiten, auch wenn die eigentliche Freigabe durch die FAA erfolgt war. Die Auswirkungen auf den Flugbetrieb waren also noch lange nach der offiziellen Entwarnung messbar."
+    },
+    {
+     "s": 594.57,
+     "wer": "Thorsten",
+     "text": "Fassen wir zusammen, was wir aus den Berichten von Tagesschau, Deutschlandfunk, Spiegel, Süddeutscher Zeitung und Deutscher Welle wissen. Ein mehrstündiger technischer Defekt an Kommunikationssystemen hat den Flugverkehr in den USA für rund vier Stunden lahmgelegt. Heimatschutzminister Mullin schloss Sabotage aus, während Verkehrsminister Duffy auf überlastete Router und uralte Systeme verwies."
+    },
+    {
+     "s": 616.19,
+     "wer": "Malte",
+     "text": "Und während Steve Arroyo die Notwendigkeit des Startverbots wegen fehlender Sprachverbindungen bekräftigte, betonte die Deutsche Flugsicherung ihre eigenen Redundanzen. Die Zahl von vier gestrichenen Flügen in Frankfurt und die Ausfälle in München belegen, dass die Störung nicht lokal isoliert blieb. Die Technik aus den neunzehnhundertsechziger Jahren hat hier weltweit spürbare Wellen geschlagen."
+    },
+    {
+     "s": 638.61,
+     "wer": "Jan",
+     "text": "Was abschließend festzuhalten bleibt, ist die Diskrepanz zwischen Duffys schneller Ursachenzuschreibung und der angekündigten behördlichen Untersuchung. Duffy sieht Router und alte Hardware als alleinigen Grund und schließt globale Zusammenhänge aus. Die zuständigen Behörden betonen jedoch, dass die Ermittlungen zu den genauen technischen Abläufen noch laufen. Dieses Ergebnis müssen wir abwarten."
+    },
+    {
+     "s": 660.0,
+     "wer": "Thorsten",
+     "text": "Damit sind wir am Ende dieser Ausgabe angekommen. Wir haben die gesicherten Fakten, die unterschiedlichen Stimmen und die noch offenen Ermittlungen beleuchtet. Vielen Dank an Malte und Jan für die Analysen und Nachfragen. Wir bedanken uns für Ihr Interesse und verabschieden uns bis zum nächsten Mal."
+    }
+   ]
+  },
   {
    "id": "podcast-nato-beitritt-ukraine-gebietsverzicht",
    "themaId": "nato-beitritt-ukraine-gebietsverzicht",
@@ -806,99 +999,6 @@
      "s": 242.23,
      "wer": "Thorsten",
      "text": "Das war unser Blick auf den Personalwechsel im Weißen Haus und die politischen Reaktionen darauf. Vielen Dank an meine Kollegen Malte und Jan für diese ausführlichen Analysen. Damit schließen wir diese Sendung."
-    }
-   ]
-  },
-  {
-   "id": "podcast-cyberangriff-supermaerkte-kuehlsysteme",
-   "themaId": "cyberangriff-supermaerkte-kuehlsysteme",
-   "art": "podcast",
-   "titel": "Cyberangriffe auf Kühlsysteme",
-   "text": "US-Behörden und europäische Institutionen warnen nach Cyberangriffen auf gewerbliche Kühlanlagen. Die Europäische Kommission berief Krisentreffen ein.",
-   "zeit": "2026-11-06T21:48:11.729156Z",
-   "besetzung": [
-    "Thorsten",
-    "Malte",
-    "Jan"
-   ],
-   "d": "folge-podcast-cyberangriff-supermaerkte-kuehlsysteme.mp3",
-   "l": 312.72,
-   "b": 2502380,
-   "marken": [
-    {
-     "s": 0.3,
-     "wer": "Thorsten",
-     "text": "Willkommen zum Nachrichten-Podcast. Alle Stimmen dieser Sendung sind Computerstimmen. Ich führe euch heute durch das Thema der Cyberangriffe auf gewerbliche Kühlsysteme in Supermärkten und an anderen Orten. Mit dabei sind heute Malte und Jan, die sich die Berichte von Tagesschau und ARD, Deutschlandfunk und Süddeutscher Zeitung genauer angesehen haben. Malte, wie schätzt du die aktuelle Lage nach den Warnungen von US-Behörden und europäischen Institutionen ein?"
-    },
-    {
-     "s": 25.82,
-     "wer": "Malte",
-     "text": "Die US-Behörden und europäische Institutionen warnen vor einer anhaltenden Bedrohung nach gezielten Cyberangriffen auf gewerbliche Kühlanlagen. Unbekannte Täter haben diese Systeme in den Vereinigten Staaten und in mehreren europäischen Ländern über das Internet manipuliert. Die Vorfälle führten zu verdorbenen Lebensmitteln, Sachschäden durch Erhitzung sowie zu Angriffen auf Blutbanken. Erpressungsversuche und Lösegeldforderungen blieben dabei bisher allerdings völlig aus."
-    },
-    {
-     "s": 52.42,
-     "wer": "Jan",
-     "text": "Das klingt wirklich besorgniserregend, wenn Blutbanken und Supermärkte ins Visier geraten. Wie Malte eben sagte, gibt es keinerlei Lösegeldforderungen oder Bekennerschreiben von den Täterinnen oder Tätern. Laut der Süddeutschen Zeitung ist daher völlig unklar, ob es sich bei den Verantwortlichen um staatlich gelenkte Akteure oder kriminelle Hackergruppen handelt. Auch die Frage, ob gezielt Supermärkte gesucht wurden oder lediglich offene Geräte angetroffen wurden, bleibt offen, wie Dennis-Kenji Kipker in der Tagesschau und ARD erklärte."
-    },
-    {
-     "s": 81.09,
-     "wer": "Thorsten",
-     "text": "Da gibt es also noch einige offene Fragen zu den Motiven und den Tätern. Malte, welche konkreten Zahlen und Belege liegen zu diesen weltweiten Vorfällen vor?"
-    },
-    {
-     "s": 90.37,
-     "wer": "Malte",
-     "text": "Die Berichte nennen einige bemerkenswerte Details zu den Dimensionen der Vorfälle. So wurden weltweit eine Million dreihunderttausend Fernsehgeräte genannt, während in einer französischen Blutbank eine Höchsttemperatur von einhundertzehn Grad gemessen wurde. Bereits im August prüfte das Verteidigungsministerium ungeklärte Störungen an Kühlgeräten in Supermärkten auf US-Militärstützpunkten. Mitte Oktober folgten dann eine groß angelegte Cyberattacke auf französische Supermarktketten mit Schäden in Millionenhöhe sowie erneute Angriffe auf mehr als einhundert Geschäfte in ganz Europa."
-    },
-    {
-     "s": 123.3,
-     "wer": "Jan",
-     "text": "Diese Zahlen zeigen ja eine deutliche Eskalation im Laufe des Oktobers in verschiedenen Ländern. Am Montag kam es zu erneuten Angriffen auf Kühlsysteme in Supermärkten in Belgien, Schweden, Deutschland und weiteren europäischen Ländern. Unternehmensvertreter, Staatsanwaltschaften, Dienstleister, Behörden und EU-Politiker äußerten sich am Montag zu den Vorfällen und leiteten Sicherheitsmaßnahmen ein. Daraufhin hat die Europäische Kommission am Dienstag zwei Krisentreffen unter anderem mit Enisa und Europol einberufen."
-    },
-    {
-     "s": 151.63,
-     "wer": "Thorsten",
-     "text": "Damit zu Jan und den verschiedenen Positionen von Experten und Behördenverantwortlichen aus den Berichten."
-    },
-    {
-     "s": 157.66,
-     "wer": "Jan",
-     "text": "Es gibt dazu sehr klare Einschätzungen aus dem Bereich der Cybersicherheit. Chris Butera als CISA-Direktor für Cybersicherheit betont, dass jedes Unternehmen mit Kühlsystemen davon ausgehen müsse, ins Fadenkreuz der Angreifer zu geraten. Brett Leatherman vom FBI erklärt als Direktor für Cyberoperationen, dass die betroffenen Systeme weltweit in verschiedenen Sektoren der kritischen Infrastruktur angegriffen werden. Die Sorge vor weitreichenden Störungen ist also bei den US-Behörden sehr groß."
-    },
-    {
-     "s": 183.56,
-     "wer": "Malte",
-     "text": "Auch von europäischer Seite und von Sicherheitsexperten gibt es dazu deutliche Worte. Christophe Hansen, der EU-Agrarkommissar, bezeichnet die Vorfälle als einen gezielten Versuch, die Lebensmittelversorgung zu stören und das Vertrauen der Verbraucher zu untergraben. Mirko Ross von der Firma Asvin weist zudem darauf hin, dass Steuerungssysteme weit verbaut und oft über das Internet erreichbar sind, was Angriffe stark begünstigt. Das deckt sich mit der allgemeinen Warnung der Institutionen."
-    },
-    {
-     "s": 211.06,
-     "wer": "Jan",
-     "text": "Das wirft für mich die Frage auf, wie Sicherheitsexperten auf diese technischen Schwachstellen reagieren. Sie fordern ja offenbar sehr drastische Schritte für den Betrieb der Anlagen. Malte, was genau schlagen die Fachleute zur Abwehr vor?"
-    },
-    {
-     "s": 223.68,
-     "wer": "Malte",
-     "text": "Sicherheitsexperten fordern laut den Berichten die sofortige Trennung der Steuerungssysteme vom öffentlichen Internet. Zudem soll der Einbau sicherer Verbindungen für die Fernwartung erfolgen, um unbefugte Zugriffe in Zukunft zu verhindern. Die Europäische Kommission hat ihre Krisentreffen zur Koordination genau dieser Maßnahmen einberufen. Es geht also vor allem darum, die Erreichbarkeit der Anlagen im Netz zu kappen."
-    },
-    {
-     "s": 246.97,
-     "wer": "Thorsten",
-     "text": "Malte, gibt es bei all diesen unterschiedlichen Reaktionen auch Punkte, in denen sich die Berichte völlig einig sind?"
-    },
-    {
-     "s": 253.27,
-     "wer": "Malte",
-     "text": "In einigen zentralen Punkten herrscht in den Berichten von Tagesschau, Deutschlandfunk und Süddeutscher Zeitung absolute Einigkeit. Erstens warnten US-Behörden übereinstimmend vor Cyberbedrohungen für industrielle Kühlsysteme. Zweitens berief die Europäische Kommission Krisentreffen ein, um Informationen auszutauschen und das Vorgehen abzustimmen. Und drittens gibt es bis jetzt keine Bekennerschreiben und keine Lösegeldforderungen von den Täterinnen oder Tätern."
-    },
-    {
-     "s": 279.18,
-     "wer": "Jan",
-     "text": "Das unterstreicht noch einmal, wie ungewöhnlich diese Art von Angriffen ohne finanzielle Erpressung ist. Und genau das macht die Einordnung für Behörden und Experten so schwierig, wie wir gehört haben. Ob es nun staatliche Akteure sind oder kriminelle Gruppen, bleibt ja vorerst Spekulation der Medien. Die beteiligten Stellen konzentrieren sich daher voll auf die technische Absicherung der Anlagen."
-    },
-    {
-     "s": 299.58,
-     "wer": "Thorsten",
-     "text": "Damit fassen wir die wichtigsten Punkte dieses Vorfalls zusammen. Wir haben die Berichte über Angriffe auf Kühlsysteme aus den Medien gehört. Danke an Malte und Jan für eure Einschätzungen und die Details aus den Quellen. Tschüss bis zum nächsten Mal."
     }
    ]
   }

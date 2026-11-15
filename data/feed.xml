@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 14 Nov 2026 20:59:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 21:18:33 +0000</lastBuildDate>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
@@ -14,6 +14,16 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
   <item>
+    <title>Flugstopp in den USA nach schwerer technischer Störung</title>
+    <description>Ein Systemausfall legt den amerikanischen Flugverkehr für mehrere Stunden lahm und zieht weite Kreise. Wir beleuchten die Ursachen, Reaktionen und die offenen Fragen der Ermittlungen.</description>
+    <itunes:summary>Ein Systemausfall legt den amerikanischen Flugverkehr für mehrere Stunden lahm und zieht weite Kreise. Wir beleuchten die Ursachen, Reaktionen und die offenen Fragen der Ermittlungen.</itunes:summary>
+    <pubDate>Sun, 15 Nov 2026 21:18:33 +0000</pubDate>
+    <guid isPermaLink="false">podcast-flugstopp-usa-technische-panne</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-flugstopp-usa-technische-panne.mp3" length="5402540" type="audio/mpeg"/>
+    <itunes:duration>00:11:15</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>NATO-Beitritt der Ukraine im Tausch gegen Gebietsverzicht</title>
     <description>Wir beleuchten den Vorschlag von US-Unterhändlern zur NATO-Mitgliedschaft der Ukraine gegen Gebietsverzicht. Zudem schauen wir auf die Reaktionen in Kiew, Moskau und der Europäischen Union.</description>
     <itunes:summary>Wir beleuchten den Vorschlag von US-Unterhändlern zur NATO-Mitgliedschaft der Ukraine gegen Gebietsverzicht. Zudem schauen wir auf die Reaktionen in Kiew, Moskau und der Europäischen Union.</itunes:summary>
@@ -21,6 +31,16 @@
     <guid isPermaLink="false">podcast-nato-beitritt-ukraine-gebietsverzicht</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-nato-beitritt-ukraine-gebietsverzicht.mp3" length="2731052" type="audio/mpeg"/>
     <itunes:duration>00:05:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Wie funktionierte eigentlich die Posttaube?</title>
+    <description>Brieftauben wurden früher für die Nachrichtenübermittlung eingesetzt. Heute werden ihre Fähigkeiten durch die Zucht und bei Sportwettbewerben erhalten.</description>
+    <itunes:summary>Brieftauben wurden früher für die Nachrichtenübermittlung eingesetzt. Heute werden ihre Fähigkeiten durch die Zucht und bei Sportwettbewerben erhalten.</itunes:summary>
+    <pubDate>Sat, 14 Nov 2026 18:07:19 +0000</pubDate>
+    <guid isPermaLink="false">wissen-wie-funktionierte-eigentlich-die-posttaube</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/2ec6f67818.mp3" length="145964" type="audio/mpeg"/>
+    <itunes:duration>00:00:24</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -111,26 +131,6 @@
     <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-raetsel-der-pantomime</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/4a2ad34c1a.mp3" length="191468" type="audio/mpeg"/>
     <itunes:duration>00:00:32</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wie funktioniert eigentlich die Gebärdensprache?</title>
-    <description>Gebärdensprachen sind vollwertige und eigenständige Sprachen für gehörlose und schwerhörige Menschen. Sie funktionieren ganz ohne Lautsprache und nutzen stattdessen Hände, Mimik und den Körper.</description>
-    <itunes:summary>Gebärdensprachen sind vollwertige und eigenständige Sprachen für gehörlose und schwerhörige Menschen. Sie funktionieren ganz ohne Lautsprache und nutzen stattdessen Hände, Mimik und den Körper.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 15:29:10 +0000</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-die-gebaerdensprache</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/47044d1edb.mp3" length="170300" type="audio/mpeg"/>
-    <itunes:duration>00:00:28</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-  </item>
-  <item>
-    <title>Wie funktioniert eigentlich das menschliche Ohr?</title>
-    <description>Das Ohr ist ein empfindliches Sinnesorgan für die Aufnahme von Schall. Es hilft den Menschen beim Hören und bei der Orientierung im Raum.</description>
-    <itunes:summary>Das Ohr ist ein empfindliches Sinnesorgan für die Aufnahme von Schall. Es hilft den Menschen beim Hören und bei der Orientierung im Raum.</itunes:summary>
-    <pubDate>Sun, 08 Nov 2026 07:26:57 +0000</pubDate>
-    <guid isPermaLink="false">wissen-wie-funktioniert-eigentlich-das-menschliche-ohr</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/24cdd1c332.mp3" length="158780" type="audio/mpeg"/>
-    <itunes:duration>00:00:26</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
