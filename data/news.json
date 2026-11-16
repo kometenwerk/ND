@@ -1,7 +1,6 @@
 {
- "stand": "2026-11-14T17:57:02.615Z",
+ "stand": "2026-11-16T20:58:04.266Z",
  "gepusht": [
-  "sachsen-anhalt-ukraine-hilfen",
   "lufthansa-tap-portugal",
   "iran-spionage-hamburg-urteil",
   "eu-haushalt-streit-merz",
@@ -80,19 +79,20 @@
   "gewalttat-hamburg-eningen",
   "mercedes-investitionsstopp- deutschland",
   "nato-beitritt-ukraine-gebietsverzicht",
-  "flugstopp-usa-technische-panne"
+  "flugstopp-usa-technische-panne",
+  "abschiebezentrum-ruanda"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
   "spionage-verdacht-nvidia-huang",
-  "mercedes-investitionsstopp- deutschland",
   "nato-beitritt-ukraine-gebietsverzicht",
-  "flugstopp-usa-technische-panne"
+  "flugstopp-usa-technische-panne",
+  "abschiebezentrum-ruanda"
  ],
  "wetter": {
-  "stand": "2026-11-14T17:57:02.615Z",
-  "morgenTag": "Sonntag",
+  "stand": "2026-11-16T20:58:04.266Z",
+  "morgenTag": "Dienstag",
   "orte": [
    {
     "name": "Hamburg",
@@ -100,279 +100,279 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 5,
-     "code": 1,
-     "gefuehlt": 2,
-     "wind": 8,
-     "windAus": 193,
-     "feuchte": 87,
-     "druck": 1016,
+     "grad": 6,
+     "code": 3,
+     "gefuehlt": 3,
+     "wind": 14,
+     "windAus": 255,
+     "feuchte": 89,
+     "druck": 997,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 3,
-     "max": 9,
-     "min": 3,
-     "regen": 5,
-     "menge": 0,
-     "wind": 13,
-     "windAus": 224,
-     "uv": 1.4,
-     "auf": "07:44",
-     "unter": "16:24"
+     "datum": "2026-11-16",
+     "code": 80,
+     "max": 10,
+     "min": 6,
+     "regen": 100,
+     "menge": 4.2,
+     "wind": 20,
+     "windAus": 231,
+     "uv": 0.8,
+     "auf": "07:47",
+     "unter": "16:21"
     },
     "morgen": {
-     "datum": "2026-11-15",
+     "datum": "2026-11-17",
      "code": 80,
-     "max": 8,
-     "min": 0,
-     "regen": 45,
-     "menge": 1.1,
-     "wind": 12,
-     "windAus": 162,
-     "uv": 1.2,
-     "auf": "07:45",
-     "unter": "16:22"
+     "max": 7,
+     "min": 3,
+     "regen": 100,
+     "menge": 5.5,
+     "wind": 19,
+     "windAus": 143,
+     "uv": 0.7,
+     "auf": "07:49",
+     "unter": "16:19"
     },
     "tage": [
      {
-      "datum": "2026-11-14",
-      "code": 3,
-      "max": 9,
-      "min": 3,
-      "regen": 5,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 224,
-      "uv": 1.4,
-      "auf": "07:44",
-      "unter": "16:24"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 80,
-      "max": 8,
-      "min": 0,
-      "regen": 45,
-      "menge": 1.1,
-      "wind": 12,
-      "windAus": 162,
-      "uv": 1.2,
-      "auf": "07:45",
-      "unter": "16:22"
-     },
-     {
       "datum": "2026-11-16",
-      "code": 61,
-      "max": 9,
-      "min": 3,
-      "regen": 63,
-      "menge": 1.6,
-      "wind": 19,
-      "windAus": 238,
-      "uv": 1,
+      "code": 80,
+      "max": 10,
+      "min": 6,
+      "regen": 100,
+      "menge": 4.2,
+      "wind": 20,
+      "windAus": 231,
+      "uv": 0.8,
       "auf": "07:47",
       "unter": "16:21"
      },
      {
       "datum": "2026-11-17",
-      "code": 63,
-      "max": 5,
-      "min": 2,
-      "regen": 84,
-      "menge": 12.9,
-      "wind": 12,
-      "windAus": 105,
-      "uv": 0.6,
+      "code": 80,
+      "max": 7,
+      "min": 3,
+      "regen": 100,
+      "menge": 5.5,
+      "wind": 19,
+      "windAus": 143,
+      "uv": 0.7,
       "auf": "07:49",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-18",
-      "code": 63,
-      "max": 7,
-      "min": 2,
-      "regen": 55,
-      "menge": 5.1,
-      "wind": 9,
-      "windAus": 352,
-      "uv": 0.5,
+      "code": 61,
+      "max": 10,
+      "min": 4,
+      "regen": 53,
+      "menge": 1.9,
+      "wind": 20,
+      "windAus": 235,
+      "uv": 0.8,
       "auf": "07:51",
       "unter": "16:18"
      },
      {
       "datum": "2026-11-19",
       "code": 61,
-      "max": 4,
-      "min": 2,
-      "regen": 48,
-      "menge": 5.9,
-      "wind": 10,
-      "windAus": 90,
-      "uv": 0.5,
+      "max": 5,
+      "min": 3,
+      "regen": 49,
+      "menge": 9.6,
+      "wind": 14,
+      "windAus": 53,
+      "uv": 0.2,
       "auf": "07:53",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-20",
       "code": 3,
-      "max": 6,
-      "min": 4,
-      "regen": 44,
+      "max": 4,
+      "min": 0,
+      "regen": 25,
       "menge": 0,
       "wind": 11,
-      "windAus": 73,
-      "uv": 1,
+      "windAus": 276,
+      "uv": 1.2,
       "auf": "07:54",
       "unter": "16:15"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 3,
+      "max": 7,
+      "min": 3,
+      "regen": 13,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 249,
+      "uv": 0.6,
+      "auf": "07:56",
+      "unter": "16:14"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 61,
+      "max": 6,
+      "min": 4,
+      "regen": 22,
+      "menge": 0.6,
+      "wind": 16,
+      "windAus": 117,
+      "uv": 1,
+      "auf": "07:58",
+      "unter": "16:13"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
+      "grad": 7,
+      "code": 80,
+      "regen": 38
      },
      {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "23:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 15
      },
      {
       "zeit": "00:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "01:00",
-      "grad": 2,
-      "code": 0,
+      "grad": 6,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 2,
-      "code": 1,
+      "grad": 5,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
+      "grad": 5,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
       "grad": 4,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": 6,
+      "zeit": "05:00",
+      "grad": 4,
       "code": 3,
-      "regen": 10
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 3,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 7,
+      "grad": 5,
       "code": 3,
-      "regen": 13
+      "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 7,
-      "code": 61,
-      "regen": 35
+      "grad": 5,
+      "code": 3,
+      "regen": 20
      },
      {
       "zeit": "15:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 8
+      "grad": 5,
+      "code": 61,
+      "regen": 63
      },
      {
       "zeit": "16:00",
-      "grad": 7,
+      "grad": 4,
       "code": 61,
-      "regen": 13
+      "regen": 93
      },
      {
       "zeit": "17:00",
-      "grad": 7,
+      "grad": 3,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "18:00",
+      "grad": 4,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "19:00",
+      "grad": 4,
+      "code": 61,
+      "regen": 73
+     },
+     {
+      "zeit": "20:00",
+      "grad": 4,
       "code": 80,
-      "regen": 15
+      "regen": 58
      }
     ]
    },
@@ -382,92 +382,66 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 6,
-     "code": 1,
-     "gefuehlt": 3,
-     "wind": 6,
-     "windAus": 183,
-     "feuchte": 81,
-     "druck": 1017,
+     "grad": 8,
+     "code": 3,
+     "gefuehlt": 5,
+     "wind": 16,
+     "windAus": 250,
+     "feuchte": 74,
+     "druck": 996,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 2,
-     "max": 9,
-     "min": 2,
-     "regen": 0,
-     "menge": 0,
-     "wind": 15,
-     "windAus": 242,
-     "uv": 1.6,
-     "auf": "07:26",
-     "unter": "16:14"
+     "datum": "2026-11-16",
+     "code": 80,
+     "max": 11,
+     "min": 7,
+     "regen": 100,
+     "menge": 1.4,
+     "wind": 20,
+     "windAus": 214,
+     "uv": 0.8,
+     "auf": "07:29",
+     "unter": "16:11"
     },
     "morgen": {
-     "datum": "2026-11-15",
-     "code": 61,
+     "datum": "2026-11-17",
+     "code": 63,
      "max": 8,
-     "min": 1,
-     "regen": 60,
-     "menge": 0.2,
-     "wind": 17,
-     "windAus": 166,
-     "uv": 1.6,
-     "auf": "07:28",
-     "unter": "16:13"
+     "min": 5,
+     "regen": 100,
+     "menge": 6.6,
+     "wind": 16,
+     "windAus": 192,
+     "uv": 1.3,
+     "auf": "07:31",
+     "unter": "16:10"
     },
     "tage": [
-     {
-      "datum": "2026-11-14",
-      "code": 2,
-      "max": 9,
-      "min": 2,
-      "regen": 0,
-      "menge": 0,
-      "wind": 15,
-      "windAus": 242,
-      "uv": 1.6,
-      "auf": "07:26",
-      "unter": "16:14"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 61,
-      "max": 8,
-      "min": 1,
-      "regen": 60,
-      "menge": 0.2,
-      "wind": 17,
-      "windAus": 166,
-      "uv": 1.6,
-      "auf": "07:28",
-      "unter": "16:13"
-     },
      {
       "datum": "2026-11-16",
       "code": 80,
       "max": 11,
-      "min": 5,
-      "regen": 71,
+      "min": 7,
+      "regen": 100,
       "menge": 1.4,
-      "wind": 19,
-      "windAus": 215,
-      "uv": 0.3,
+      "wind": 20,
+      "windAus": 214,
+      "uv": 0.8,
       "auf": "07:29",
       "unter": "16:11"
      },
      {
       "datum": "2026-11-17",
-      "code": 80,
-      "max": 10,
-      "min": 3,
-      "regen": 98,
-      "menge": 15.2,
-      "wind": 17,
-      "windAus": 175,
-      "uv": 0.8,
+      "code": 63,
+      "max": 8,
+      "min": 5,
+      "regen": 100,
+      "menge": 6.6,
+      "wind": 16,
+      "windAus": 192,
+      "uv": 1.3,
       "auf": "07:31",
       "unter": "16:10"
      },
@@ -475,11 +449,11 @@
       "datum": "2026-11-18",
       "code": 80,
       "max": 11,
-      "min": 3,
-      "regen": 63,
-      "menge": 1.7,
-      "wind": 19,
-      "windAus": 251,
+      "min": 7,
+      "regen": 74,
+      "menge": 9.2,
+      "wind": 18,
+      "windAus": 233,
       "uv": 0.5,
       "auf": "07:33",
       "unter": "16:09"
@@ -487,174 +461,200 @@
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 9,
-      "min": 3,
-      "regen": 60,
-      "menge": 4.1,
-      "wind": 5,
-      "windAus": 130,
-      "uv": 0.2,
+      "max": 11,
+      "min": 7,
+      "regen": 73,
+      "menge": 5.3,
+      "wind": 13,
+      "windAus": 214,
+      "uv": 1.2,
       "auf": "07:34",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-20",
-      "code": 3,
+      "code": 85,
       "max": 7,
-      "min": 4,
+      "min": 1,
       "regen": 50,
-      "menge": 0,
-      "wind": 9,
-      "windAus": 50,
-      "uv": 1.2,
+      "menge": 0.2,
+      "wind": 12,
+      "windAus": 313,
+      "uv": 1.4,
       "auf": "07:36",
       "unter": "16:06"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 85,
+      "max": 7,
+      "min": 1,
+      "regen": 14,
+      "menge": 0,
+      "wind": 16,
+      "windAus": 262,
+      "uv": 1.2,
+      "auf": "07:38",
+      "unter": "16:05"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 3,
+      "max": 6,
+      "min": 1,
+      "regen": 23,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 108,
+      "uv": 1.1,
+      "auf": "07:40",
+      "unter": "16:04"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 7,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
+      "grad": 9,
+      "code": 3,
+      "regen": 43
      },
      {
       "zeit": "22:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
+      "grad": 8,
+      "code": 3,
+      "regen": 30
      },
      {
       "zeit": "23:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 8,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
       "grad": 8,
       "code": 3,
       "regen": 3
      },
      {
-      "zeit": "15:00",
-      "grad": 8,
+      "zeit": "01:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "02:00",
+      "grad": 7,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "03:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 6,
       "code": 61,
-      "regen": 20
+      "regen": 3
+     },
+     {
+      "zeit": "05:00",
+      "grad": 6,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 5,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "15:00",
+      "grad": 6,
+      "code": 3,
+      "regen": 40
      },
      {
       "zeit": "16:00",
-      "grad": 8,
+      "grad": 6,
       "code": 61,
-      "regen": 60
+      "regen": 80
      },
      {
       "zeit": "17:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 48
+      "grad": 5,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "18:00",
+      "grad": 5,
+      "code": 63,
+      "regen": 100
+     },
+     {
+      "zeit": "19:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 78
+     },
+     {
+      "zeit": "20:00",
+      "grad": 6,
+      "code": 61,
+      "regen": 50
      }
     ]
    },
@@ -664,279 +664,279 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 5,
-     "code": 0,
-     "gefuehlt": 3,
-     "wind": 5,
-     "windAus": 138,
-     "feuchte": 73,
-     "druck": 1007,
+     "grad": 7,
+     "code": 1,
+     "gefuehlt": 4,
+     "wind": 11,
+     "windAus": 242,
+     "feuchte": 74,
+     "druck": 990,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 3,
-     "max": 9,
-     "min": 2,
-     "regen": 0,
-     "menge": 0,
-     "wind": 10,
-     "windAus": 218,
-     "uv": 1.7,
-     "auf": "07:26",
-     "unter": "16:23"
+     "datum": "2026-11-16",
+     "code": 61,
+     "max": 12,
+     "min": 6,
+     "regen": 68,
+     "menge": 0.2,
+     "wind": 20,
+     "windAus": 219,
+     "uv": 0.7,
+     "auf": "07:29",
+     "unter": "16:20"
     },
     "morgen": {
-     "datum": "2026-11-15",
-     "code": 61,
-     "max": 8,
-     "min": 1,
-     "regen": 35,
-     "menge": 0,
-     "wind": 15,
-     "windAus": 176,
-     "uv": 1.4,
-     "auf": "07:27",
-     "unter": "16:21"
+     "datum": "2026-11-17",
+     "code": 80,
+     "max": 12,
+     "min": 2,
+     "regen": 100,
+     "menge": 6.6,
+     "wind": 17,
+     "windAus": 200,
+     "uv": 0.8,
+     "auf": "07:31",
+     "unter": "16:19"
     },
     "tage": [
-     {
-      "datum": "2026-11-14",
-      "code": 3,
-      "max": 9,
-      "min": 2,
-      "regen": 0,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 218,
-      "uv": 1.7,
-      "auf": "07:26",
-      "unter": "16:23"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 61,
-      "max": 8,
-      "min": 1,
-      "regen": 35,
-      "menge": 0,
-      "wind": 15,
-      "windAus": 176,
-      "uv": 1.4,
-      "auf": "07:27",
-      "unter": "16:21"
-     },
      {
       "datum": "2026-11-16",
       "code": 61,
       "max": 12,
-      "min": 7,
-      "regen": 55,
-      "menge": 2.2,
-      "wind": 19,
+      "min": 6,
+      "regen": 68,
+      "menge": 0.2,
+      "wind": 20,
       "windAus": 219,
-      "uv": 1.5,
+      "uv": 0.7,
       "auf": "07:29",
       "unter": "16:20"
      },
      {
       "datum": "2026-11-17",
       "code": 80,
-      "max": 14,
-      "min": 5,
-      "regen": 97,
-      "menge": 15.9,
-      "wind": 19,
-      "windAus": 213,
-      "uv": 0.7,
+      "max": 12,
+      "min": 2,
+      "regen": 100,
+      "menge": 6.6,
+      "wind": 17,
+      "windAus": 200,
+      "uv": 0.8,
       "auf": "07:31",
       "unter": "16:19"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 11,
-      "min": 8,
-      "regen": 59,
-      "menge": 6.1,
-      "wind": 17,
-      "windAus": 237,
-      "uv": 0.9,
+      "max": 12,
+      "min": 10,
+      "regen": 65,
+      "menge": 3.2,
+      "wind": 19,
+      "windAus": 230,
+      "uv": 0.7,
       "auf": "07:32",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-19",
       "code": 61,
-      "max": 12,
-      "min": 8,
-      "regen": 55,
-      "menge": 5.1,
+      "max": 10,
+      "min": 7,
+      "regen": 80,
+      "menge": 4.9,
       "wind": 15,
-      "windAus": 211,
-      "uv": 1.3,
+      "windAus": 207,
+      "uv": 0.8,
       "auf": "07:34",
       "unter": "16:16"
      },
      {
       "datum": "2026-11-20",
       "code": 61,
-      "max": 8,
-      "min": 7,
-      "regen": 43,
-      "menge": 10.4,
-      "wind": 9,
-      "windAus": 15,
-      "uv": 1.2,
+      "max": 9,
+      "min": 0,
+      "regen": 68,
+      "menge": 6.7,
+      "wind": 12,
+      "windAus": 310,
+      "uv": 0.7,
       "auf": "07:36",
       "unter": "16:15"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 61,
+      "max": 6,
+      "min": 0,
+      "regen": 40,
+      "menge": 0.1,
+      "wind": 14,
+      "windAus": 239,
+      "uv": 1.5,
+      "auf": "07:37",
+      "unter": "16:14"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 61,
+      "max": 7,
+      "min": 4,
+      "regen": 31,
+      "menge": 0.8,
+      "wind": 8,
+      "windAus": 114,
+      "uv": 0.9,
+      "auf": "07:39",
+      "unter": "16:13"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 8,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 3,
+      "grad": 7,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "00:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 5
      },
      {
       "zeit": "01:00",
-      "grad": 2,
+      "grad": 6,
       "code": 1,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "02:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
+      "grad": 5,
+      "code": 0,
+      "regen": 8
      },
      {
       "zeit": "03:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
+      "grad": 4,
+      "code": 0,
+      "regen": 10
      },
      {
       "zeit": "04:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
+      "grad": 3,
+      "code": 0,
+      "regen": 5
      },
      {
       "zeit": "05:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 3,
+      "code": 1,
+      "regen": 3
      },
      {
       "zeit": "06:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 2,
+      "code": 2,
+      "regen": 3
      },
      {
       "zeit": "07:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 2,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "08:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 2,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "09:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
+      "grad": 3,
+      "code": 3,
+      "regen": 10
      },
      {
       "zeit": "10:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
+      "grad": 4,
+      "code": 61,
+      "regen": 20
      },
      {
       "zeit": "11:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
+      "grad": 4,
+      "code": 61,
+      "regen": 65
      },
      {
       "zeit": "12:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
+      "grad": 5,
+      "code": 61,
+      "regen": 90
      },
      {
       "zeit": "13:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 15
+      "grad": 5,
+      "code": 61,
+      "regen": 95
      },
      {
       "zeit": "14:00",
-      "grad": 8,
+      "grad": 6,
       "code": 61,
-      "regen": 35
+      "regen": 98
      },
      {
       "zeit": "15:00",
-      "grad": 8,
+      "grad": 6,
       "code": 61,
-      "regen": 28
+      "regen": 100
      },
      {
       "zeit": "16:00",
       "grad": 7,
-      "code": 3,
-      "regen": 8
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "17:00",
-      "grad": 7,
+      "grad": 8,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "18:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 38
+     },
+     {
+      "zeit": "19:00",
+      "grad": 11,
       "code": 2,
-      "regen": 3
+      "regen": 10
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -946,279 +946,279 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 5,
+     "grad": 6,
      "code": 0,
-     "gefuehlt": 1,
-     "wind": 13,
-     "windAus": 128,
-     "feuchte": 79,
-     "druck": 1010,
+     "gefuehlt": 3,
+     "wind": 7,
+     "windAus": 280,
+     "feuchte": 78,
+     "druck": 998,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 3,
-     "max": 8,
-     "min": 3,
-     "regen": 3,
-     "menge": 0,
-     "wind": 16,
-     "windAus": 136,
-     "uv": 1.8,
-     "auf": "07:46",
-     "unter": "16:46"
-    },
-    "morgen": {
-     "datum": "2026-11-15",
+     "datum": "2026-11-16",
      "code": 61,
      "max": 10,
-     "min": 3,
-     "regen": 96,
-     "menge": 4.1,
-     "wind": 21,
-     "windAus": 147,
-     "uv": 1.8,
-     "auf": "07:48",
-     "unter": "16:44"
+     "min": 6,
+     "regen": 100,
+     "menge": 7.4,
+     "wind": 22,
+     "windAus": 248,
+     "uv": 1.7,
+     "auf": "07:49",
+     "unter": "16:43"
+    },
+    "morgen": {
+     "datum": "2026-11-17",
+     "code": 63,
+     "max": 15,
+     "min": 5,
+     "regen": 100,
+     "menge": 26.5,
+     "wind": 30,
+     "windAus": 197,
+     "uv": 0.7,
+     "auf": "07:51",
+     "unter": "16:42"
     },
     "tage": [
      {
-      "datum": "2026-11-14",
-      "code": 3,
-      "max": 8,
-      "min": 3,
-      "regen": 3,
-      "menge": 0,
-      "wind": 16,
-      "windAus": 136,
-      "uv": 1.8,
-      "auf": "07:46",
-      "unter": "16:46"
-     },
-     {
-      "datum": "2026-11-15",
+      "datum": "2026-11-16",
       "code": 61,
       "max": 10,
-      "min": 3,
-      "regen": 96,
-      "menge": 4.1,
-      "wind": 21,
-      "windAus": 147,
-      "uv": 1.8,
-      "auf": "07:48",
-      "unter": "16:44"
-     },
-     {
-      "datum": "2026-11-16",
-      "code": 63,
-      "max": 10,
       "min": 6,
-      "regen": 91,
-      "menge": 10.9,
+      "regen": 100,
+      "menge": 7.4,
       "wind": 22,
-      "windAus": 241,
-      "uv": 0.8,
+      "windAus": 248,
+      "uv": 1.7,
       "auf": "07:49",
       "unter": "16:43"
      },
      {
       "datum": "2026-11-17",
-      "code": 81,
+      "code": 63,
       "max": 15,
-      "min": 6,
-      "regen": 90,
-      "menge": 26.6,
-      "wind": 23,
-      "windAus": 202,
-      "uv": 1.5,
+      "min": 5,
+      "regen": 100,
+      "menge": 26.5,
+      "wind": 30,
+      "windAus": 197,
+      "uv": 0.7,
       "auf": "07:51",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-18",
-      "code": 51,
-      "max": 13,
+      "code": 61,
+      "max": 12,
       "min": 9,
-      "regen": 92,
-      "menge": 2.3,
-      "wind": 20,
-      "windAus": 233,
-      "uv": 1,
+      "regen": 88,
+      "menge": 3.1,
+      "wind": 27,
+      "windAus": 237,
+      "uv": 1.1,
       "auf": "07:53",
       "unter": "16:41"
      },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 12,
-      "min": 4,
-      "regen": 82,
-      "menge": 13.6,
-      "wind": 19,
-      "windAus": 245,
-      "uv": 1,
+      "max": 11,
+      "min": 7,
+      "regen": 93,
+      "menge": 8.6,
+      "wind": 27,
+      "windAus": 229,
+      "uv": 1.1,
       "auf": "07:54",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-20",
-      "code": 3,
+      "code": 81,
       "max": 9,
-      "min": 2,
-      "regen": 48,
-      "menge": 0,
-      "wind": 16,
-      "windAus": 281,
-      "uv": 0.4,
+      "min": 6,
+      "regen": 73,
+      "menge": 34.9,
+      "wind": 8,
+      "windAus": 209,
+      "uv": 1.5,
       "auf": "07:56",
       "unter": "16:38"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 80,
+      "max": 8,
+      "min": 2,
+      "regen": 31,
+      "menge": 5.1,
+      "wind": 12,
+      "windAus": 315,
+      "uv": 1.4,
+      "auf": "07:57",
+      "unter": "16:37"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 45,
+      "max": 7,
+      "min": 1,
+      "regen": 35,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 114,
+      "uv": 0.9,
+      "auf": "07:59",
+      "unter": "16:36"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 6,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 4,
+      "grad": 7,
       "code": 0,
-      "regen": 0
+      "regen": 11
      },
      {
       "zeit": "22:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
+      "grad": 6,
+      "code": 0,
+      "regen": 12
      },
      {
       "zeit": "23:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 12
      },
      {
       "zeit": "00:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 12
      },
      {
       "zeit": "01:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 18
      },
      {
       "zeit": "02:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 33
      },
      {
       "zeit": "03:00",
-      "grad": 3,
-      "code": 1,
-      "regen": 0
+      "grad": 6,
+      "code": 3,
+      "regen": 53
      },
      {
       "zeit": "04:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
+      "grad": 5,
+      "code": 51,
+      "regen": 71
      },
      {
       "zeit": "05:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 15
+      "grad": 5,
+      "code": 53,
+      "regen": 84
      },
      {
       "zeit": "06:00",
-      "grad": 4,
-      "code": 51,
-      "regen": 37
+      "grad": 5,
+      "code": 53,
+      "regen": 93
      },
      {
       "zeit": "07:00",
-      "grad": 4,
+      "grad": 6,
       "code": 61,
-      "regen": 57
+      "regen": 100
      },
      {
       "zeit": "08:00",
-      "grad": 5,
-      "code": 53,
-      "regen": 75
+      "grad": 7,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "09:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 91
+      "grad": 8,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "10:00",
-      "grad": 6,
-      "code": 51,
-      "regen": 96
+      "grad": 8,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "11:00",
-      "grad": 7,
-      "code": 51,
-      "regen": 82
+      "grad": 9,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "12:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 57
+      "grad": 10,
+      "code": 55,
+      "regen": 100
      },
      {
       "zeit": "13:00",
-      "grad": 8,
+      "grad": 15,
       "code": 3,
-      "regen": 35
+      "regen": 100
      },
      {
       "zeit": "14:00",
-      "grad": 9,
+      "grad": 15,
       "code": 3,
-      "regen": 21
+      "regen": 90
      },
      {
       "zeit": "15:00",
-      "grad": 10,
+      "grad": 14,
       "code": 3,
-      "regen": 10
+      "regen": 75
      },
      {
       "zeit": "16:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 8
+      "grad": 14,
+      "code": 2,
+      "regen": 61
      },
      {
       "zeit": "17:00",
-      "grad": 9,
+      "grad": 13,
       "code": 3,
-      "regen": 20
+      "regen": 45
+     },
+     {
+      "zeit": "18:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 30
+     },
+     {
+      "zeit": "19:00",
+      "grad": 13,
+      "code": 3,
+      "regen": 24
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 51,
+      "regen": 35
      }
     ]
    },
@@ -1228,277 +1228,277 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 3,
-     "code": 0,
-     "gefuehlt": 1,
-     "wind": 7,
-     "windAus": 84,
-     "feuchte": 87,
-     "druck": 1006,
-     "niederschlag": 0,
+     "grad": 9,
+     "code": 63,
+     "gefuehlt": 8,
+     "wind": 9,
+     "windAus": 294,
+     "feuchte": 95,
+     "druck": 992,
+     "niederschlag": 1.3,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 45,
-     "max": 8,
-     "min": -1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 8,
-     "windAus": 86,
-     "uv": 1.9,
-     "auf": "07:36",
-     "unter": "16:42"
+     "datum": "2026-11-16",
+     "code": 80,
+     "max": 12,
+     "min": 9,
+     "regen": 88,
+     "menge": 6.5,
+     "wind": 21,
+     "windAus": 224,
+     "uv": 1.8,
+     "auf": "07:39",
+     "unter": "16:39"
     },
     "morgen": {
-     "datum": "2026-11-15",
-     "code": 61,
-     "max": 11,
-     "min": 1,
-     "regen": 83,
-     "menge": 2.4,
-     "wind": 13,
-     "windAus": 188,
-     "uv": 0.7,
-     "auf": "07:38",
-     "unter": "16:40"
+     "datum": "2026-11-17",
+     "code": 80,
+     "max": 15,
+     "min": 8,
+     "regen": 100,
+     "menge": 17,
+     "wind": 18,
+     "windAus": 203,
+     "uv": 0.5,
+     "auf": "07:41",
+     "unter": "16:38"
     },
     "tage": [
-     {
-      "datum": "2026-11-14",
-      "code": 45,
-      "max": 8,
-      "min": -1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 86,
-      "uv": 1.9,
-      "auf": "07:36",
-      "unter": "16:42"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 61,
-      "max": 11,
-      "min": 1,
-      "regen": 83,
-      "menge": 2.4,
-      "wind": 13,
-      "windAus": 188,
-      "uv": 0.7,
-      "auf": "07:38",
-      "unter": "16:40"
-     },
      {
       "datum": "2026-11-16",
       "code": 80,
       "max": 12,
-      "min": 7,
-      "regen": 70,
-      "menge": 4.3,
-      "wind": 18,
-      "windAus": 223,
-      "uv": 1,
+      "min": 9,
+      "regen": 88,
+      "menge": 6.5,
+      "wind": 21,
+      "windAus": 224,
+      "uv": 1.8,
       "auf": "07:39",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-17",
       "code": 80,
-      "max": 16,
+      "max": 15,
       "min": 8,
-      "regen": 98,
-      "menge": 21.5,
-      "wind": 23,
-      "windAus": 216,
-      "uv": 0.2,
+      "regen": 100,
+      "menge": 17,
+      "wind": 18,
+      "windAus": 203,
+      "uv": 0.5,
       "auf": "07:41",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 12,
+      "max": 13,
       "min": 9,
-      "regen": 76,
-      "menge": 9.6,
-      "wind": 16,
-      "windAus": 219,
-      "uv": 1.3,
+      "regen": 80,
+      "menge": 3.1,
+      "wind": 21,
+      "windAus": 221,
+      "uv": 1.2,
       "auf": "07:43",
       "unter": "16:37"
      },
      {
       "datum": "2026-11-19",
-      "code": 61,
-      "max": 12,
-      "min": 9,
-      "regen": 75,
-      "menge": 9.7,
+      "code": 80,
+      "max": 11,
+      "min": 7,
+      "regen": 83,
+      "menge": 7.5,
       "wind": 17,
-      "windAus": 199,
-      "uv": 1.5,
+      "windAus": 212,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-20",
-      "code": 80,
-      "max": 11,
-      "min": 9,
-      "regen": 74,
-      "menge": 15.1,
-      "wind": 16,
-      "windAus": 225,
-      "uv": 0.3,
+      "code": 61,
+      "max": 10,
+      "min": 0,
+      "regen": 81,
+      "menge": 11.7,
+      "wind": 14,
+      "windAus": 258,
+      "uv": 0.5,
       "auf": "07:46",
       "unter": "16:35"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 45,
+      "max": 6,
+      "min": -1,
+      "regen": 32,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 209,
+      "uv": 1.6,
+      "auf": "07:47",
+      "unter": "16:34"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 61,
+      "max": 9,
+      "min": 3,
+      "regen": 60,
+      "menge": 2.2,
+      "wind": 5,
+      "windAus": 52,
+      "uv": 0.9,
+      "auf": "07:49",
+      "unter": "16:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 78
      },
      {
       "zeit": "22:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 63,
+      "regen": 83
      },
      {
       "zeit": "23:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 88
      },
      {
       "zeit": "00:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 83
      },
      {
       "zeit": "01:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 78
      },
      {
       "zeit": "02:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 70
      },
      {
       "zeit": "03:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 75
      },
      {
       "zeit": "04:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 80
      },
      {
       "zeit": "05:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 90
      },
      {
       "zeit": "06:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 3
+      "grad": 8,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "07:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 25
+      "grad": 8,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "08:00",
-      "grad": 2,
-      "code": 61,
-      "regen": 63
+      "grad": 9,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "09:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 65
+      "grad": 9,
+      "code": 63,
+      "regen": 100
      },
      {
       "zeit": "10:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 33
+      "grad": 9,
+      "code": 63,
+      "regen": 98
      },
      {
       "zeit": "11:00",
-      "grad": 4,
+      "grad": 10,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "12:00",
+      "grad": 12,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "13:00",
+      "grad": 13,
+      "code": 80,
+      "regen": 83
+     },
+     {
+      "zeit": "14:00",
+      "grad": 14,
+      "code": 80,
+      "regen": 68
+     },
+     {
+      "zeit": "15:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 60
+     },
+     {
+      "zeit": "16:00",
+      "grad": 15,
+      "code": 80,
+      "regen": 43
+     },
+     {
+      "zeit": "17:00",
+      "grad": 14,
       "code": 3,
       "regen": 10
      },
      {
-      "zeit": "12:00",
-      "grad": 6,
+      "zeit": "18:00",
+      "grad": 13,
       "code": 3,
       "regen": 8
      },
      {
-      "zeit": "13:00",
-      "grad": 8,
+      "zeit": "19:00",
+      "grad": 13,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
-      "zeit": "14:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "15:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "16:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 10,
+      "zeit": "20:00",
+      "grad": 13,
       "code": 3,
       "regen": 13
      }
@@ -1510,92 +1510,66 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 4,
-     "code": 0,
-     "gefuehlt": 1,
-     "wind": 5,
-     "windAus": 159,
-     "feuchte": 78,
-     "druck": 987,
+     "grad": 10,
+     "code": 3,
+     "gefuehlt": 7,
+     "wind": 12,
+     "windAus": 210,
+     "feuchte": 81,
+     "druck": 976,
      "niederschlag": 0,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 45,
-     "max": 9,
-     "min": -1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 11,
-     "windAus": 147,
-     "uv": 2,
-     "auf": "07:30",
-     "unter": "16:44"
+     "datum": "2026-11-16",
+     "code": 80,
+     "max": 13,
+     "min": 10,
+     "regen": 93,
+     "menge": 0.8,
+     "wind": 19,
+     "windAus": 224,
+     "uv": 1.1,
+     "auf": "07:33",
+     "unter": "16:42"
     },
     "morgen": {
-     "datum": "2026-11-15",
-     "code": 61,
-     "max": 14,
-     "min": 3,
-     "regen": 63,
-     "menge": 0.6,
-     "wind": 16,
-     "windAus": 195,
-     "uv": 1.8,
-     "auf": "07:31",
-     "unter": "16:43"
+     "datum": "2026-11-17",
+     "code": 80,
+     "max": 16,
+     "min": 10,
+     "regen": 100,
+     "menge": 16.5,
+     "wind": 24,
+     "windAus": 215,
+     "uv": 0.7,
+     "auf": "07:34",
+     "unter": "16:40"
     },
     "tage": [
      {
-      "datum": "2026-11-14",
-      "code": 45,
-      "max": 9,
-      "min": -1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 11,
-      "windAus": 147,
-      "uv": 2,
-      "auf": "07:30",
-      "unter": "16:44"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 61,
-      "max": 14,
-      "min": 3,
-      "regen": 63,
-      "menge": 0.6,
-      "wind": 16,
-      "windAus": 195,
-      "uv": 1.8,
-      "auf": "07:31",
-      "unter": "16:43"
-     },
-     {
       "datum": "2026-11-16",
       "code": 80,
-      "max": 12,
-      "min": 9,
-      "regen": 50,
-      "menge": 3.8,
+      "max": 13,
+      "min": 10,
+      "regen": 93,
+      "menge": 0.8,
       "wind": 19,
-      "windAus": 223,
-      "uv": 0.4,
+      "windAus": 224,
+      "uv": 1.1,
       "auf": "07:33",
       "unter": "16:42"
      },
      {
       "datum": "2026-11-17",
-      "code": 63,
+      "code": 80,
       "max": 16,
-      "min": 9,
-      "regen": 93,
-      "menge": 12.6,
-      "wind": 27,
-      "windAus": 223,
-      "uv": 0.6,
+      "min": 10,
+      "regen": 100,
+      "menge": 16.5,
+      "wind": 24,
+      "windAus": 215,
+      "uv": 0.7,
       "auf": "07:34",
       "unter": "16:40"
      },
@@ -1603,12 +1577,12 @@
       "datum": "2026-11-18",
       "code": 80,
       "max": 13,
-      "min": 10,
-      "regen": 65,
-      "menge": 6,
-      "wind": 24,
-      "windAus": 238,
-      "uv": 1.7,
+      "min": 9,
+      "regen": 63,
+      "menge": 8.6,
+      "wind": 19,
+      "windAus": 228,
+      "uv": 1.4,
       "auf": "07:36",
       "unter": "16:39"
      },
@@ -1616,171 +1590,197 @@
       "datum": "2026-11-19",
       "code": 80,
       "max": 13,
-      "min": 9,
-      "regen": 47,
-      "menge": 9.2,
-      "wind": 20,
-      "windAus": 205,
-      "uv": 1.2,
+      "min": 8,
+      "regen": 63,
+      "menge": 3.8,
+      "wind": 22,
+      "windAus": 223,
+      "uv": 1.4,
       "auf": "07:37",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-20",
       "code": 80,
-      "max": 12,
-      "min": 10,
+      "max": 11,
+      "min": 6,
       "regen": 68,
-      "menge": 3.3,
-      "wind": 21,
-      "windAus": 236,
-      "uv": 1,
+      "menge": 6.2,
+      "wind": 20,
+      "windAus": 247,
+      "uv": 0.3,
       "auf": "07:39",
       "unter": "16:37"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 45,
+      "max": 10,
+      "min": 1,
+      "regen": 63,
+      "menge": 0.2,
+      "wind": 10,
+      "windAus": 193,
+      "uv": 1.7,
+      "auf": "07:40",
+      "unter": "16:36"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 61,
+      "max": 10,
+      "min": 1,
+      "regen": 52,
+      "menge": 0.5,
+      "wind": 4,
+      "windAus": 181,
+      "uv": 0.8,
+      "auf": "07:42",
+      "unter": "16:35"
      }
     ],
     "stunden": [
      {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 48
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 55
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 48
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 45
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 73
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 88
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 60
+     },
+     {
+      "zeit": "04:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 68
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 88
+     },
+     {
+      "zeit": "06:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "07:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 95
+     },
+     {
+      "zeit": "08:00",
+      "grad": 11,
+      "code": 61,
+      "regen": 100
+     },
+     {
+      "zeit": "09:00",
+      "grad": 12,
+      "code": 63,
+      "regen": 100
+     },
+     {
+      "zeit": "10:00",
+      "grad": 13,
+      "code": 63,
+      "regen": 100
+     },
+     {
+      "zeit": "11:00",
+      "grad": 14,
+      "code": 61,
+      "regen": 98
+     },
+     {
+      "zeit": "12:00",
+      "grad": 15,
+      "code": 61,
+      "regen": 78
+     },
+     {
+      "zeit": "13:00",
+      "grad": 15,
+      "code": 61,
+      "regen": 60
+     },
+     {
+      "zeit": "14:00",
+      "grad": 16,
+      "code": 80,
+      "regen": 40
+     },
+     {
+      "zeit": "15:00",
+      "grad": 16,
+      "code": 1,
+      "regen": 40
+     },
+     {
+      "zeit": "16:00",
+      "grad": 16,
+      "code": 1,
+      "regen": 15
+     },
+     {
+      "zeit": "17:00",
+      "grad": 15,
+      "code": 1,
+      "regen": 10
+     },
+     {
       "zeit": "18:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
+      "grad": 14,
+      "code": 2,
+      "regen": 3
      },
      {
       "zeit": "19:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 13,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 28
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 33
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 30
-     },
-     {
-      "zeit": "11:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "13:00",
       "grad": 13,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 14,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 13,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "17:00",
-      "grad": 12,
       "code": 3,
       "regen": 0
      }
@@ -1792,105 +1792,79 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 2,
-     "code": 0,
-     "gefuehlt": -1,
-     "wind": 8,
-     "windAus": 95,
-     "feuchte": 84,
-     "druck": 956,
-     "niederschlag": 0,
+     "grad": 8,
+     "code": 61,
+     "gefuehlt": 5,
+     "wind": 13,
+     "windAus": 243,
+     "feuchte": 81,
+     "druck": 947,
+     "niederschlag": 0.5,
      "tag": 0
     },
     "heute": {
-     "datum": "2026-11-14",
-     "code": 2,
-     "max": 6,
-     "min": -1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 13,
-     "windAus": 108,
-     "uv": 2.1,
-     "auf": "07:18",
-     "unter": "16:36"
+     "datum": "2026-11-16",
+     "code": 61,
+     "max": 11,
+     "min": 3,
+     "regen": 100,
+     "menge": 4.6,
+     "wind": 28,
+     "windAus": 243,
+     "uv": 1.6,
+     "auf": "07:21",
+     "unter": "16:34"
     },
     "morgen": {
-     "datum": "2026-11-15",
-     "code": 3,
-     "max": 10,
-     "min": -1,
-     "regen": 5,
-     "menge": 0,
-     "wind": 6,
-     "windAus": 157,
-     "uv": 1.9,
-     "auf": "07:20",
-     "unter": "16:35"
+     "datum": "2026-11-17",
+     "code": 61,
+     "max": 14,
+     "min": 8,
+     "regen": 100,
+     "menge": 10.2,
+     "wind": 20,
+     "windAus": 228,
+     "uv": 0.6,
+     "auf": "07:23",
+     "unter": "16:33"
     },
     "tage": [
      {
-      "datum": "2026-11-14",
-      "code": 2,
-      "max": 6,
-      "min": -1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 108,
-      "uv": 2.1,
-      "auf": "07:18",
-      "unter": "16:36"
-     },
-     {
-      "datum": "2026-11-15",
-      "code": 3,
-      "max": 10,
-      "min": -1,
-      "regen": 5,
-      "menge": 0,
-      "wind": 6,
-      "windAus": 157,
-      "uv": 1.9,
-      "auf": "07:20",
-      "unter": "16:35"
-     },
-     {
       "datum": "2026-11-16",
-      "code": 80,
+      "code": 61,
       "max": 11,
-      "min": 4,
-      "regen": 60,
-      "menge": 3,
-      "wind": 25,
-      "windAus": 239,
-      "uv": 1.9,
+      "min": 3,
+      "regen": 100,
+      "menge": 4.6,
+      "wind": 28,
+      "windAus": 243,
+      "uv": 1.6,
       "auf": "07:21",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-17",
       "code": 61,
-      "max": 13,
-      "min": 6,
-      "regen": 90,
-      "menge": 7.7,
-      "wind": 27,
-      "windAus": 231,
-      "uv": 1,
+      "max": 14,
+      "min": 8,
+      "regen": 100,
+      "menge": 10.2,
+      "wind": 20,
+      "windAus": 228,
+      "uv": 0.6,
       "auf": "07:23",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-18",
       "code": 80,
-      "max": 11,
+      "max": 13,
       "min": 8,
-      "regen": 53,
-      "menge": 6.8,
+      "regen": 58,
+      "menge": 2.3,
       "wind": 24,
-      "windAus": 242,
-      "uv": 1.7,
+      "windAus": 246,
+      "uv": 1.8,
       "auf": "07:24",
       "unter": "16:32"
      },
@@ -1898,186 +1872,212 @@
       "datum": "2026-11-19",
       "code": 80,
       "max": 12,
-      "min": 8,
-      "regen": 51,
-      "menge": 8.6,
-      "wind": 17,
+      "min": 5,
+      "regen": 44,
+      "menge": 3.2,
+      "wind": 22,
       "windAus": 233,
-      "uv": 1.8,
+      "uv": 1.2,
       "auf": "07:26",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-20",
-      "code": 3,
-      "max": 11,
-      "min": 8,
-      "regen": 66,
-      "menge": 0.2,
+      "code": 80,
+      "max": 10,
+      "min": 5,
+      "regen": 63,
+      "menge": 2.8,
       "wind": 27,
-      "windAus": 249,
-      "uv": 1.5,
+      "windAus": 250,
+      "uv": 1.7,
       "auf": "07:27",
       "unter": "16:30"
+     },
+     {
+      "datum": "2026-11-21",
+      "code": 3,
+      "max": 8,
+      "min": 0,
+      "regen": 65,
+      "menge": 0.6,
+      "wind": 17,
+      "windAus": 257,
+      "uv": 0.6,
+      "auf": "07:29",
+      "unter": "16:29"
+     },
+     {
+      "datum": "2026-11-22",
+      "code": 3,
+      "max": 8,
+      "min": -1,
+      "regen": 45,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 106,
+      "uv": 1,
+      "auf": "07:30",
+      "unter": "16:28"
      }
     ],
     "stunden": [
      {
-      "zeit": "18:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "21:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 90
      },
      {
       "zeit": "22:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 88
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "00:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "01:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "02:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "03:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "04:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "05:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "06:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "07:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "08:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "09:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 61,
+      "regen": 98
      },
      {
       "zeit": "10:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "11:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
+      "grad": 9,
+      "code": 61,
+      "regen": 95
      },
      {
       "zeit": "12:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
+      "grad": 11,
+      "code": 61,
+      "regen": 95
      },
      {
       "zeit": "13:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
+      "grad": 11,
+      "code": 61,
+      "regen": 100
      },
      {
       "zeit": "14:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 0
+      "grad": 13,
+      "code": 61,
+      "regen": 80
      },
      {
       "zeit": "15:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 5
+      "grad": 13,
+      "code": 61,
+      "regen": 65
      },
      {
       "zeit": "16:00",
-      "grad": 9,
+      "grad": 14,
       "code": 3,
-      "regen": 3
+      "regen": 58
      },
      {
       "zeit": "17:00",
-      "grad": 8,
+      "grad": 14,
+      "code": 3,
+      "regen": 45
+     },
+     {
+      "zeit": "18:00",
+      "grad": 14,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "19:00",
+      "grad": 13,
       "code": 2,
-      "regen": 3
+      "regen": 28
+     },
+     {
+      "zeit": "20:00",
+      "grad": 12,
+      "code": 1,
+      "regen": 8
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 6 und 9 Grad.",
-   "Die Vorhersage für morgen, Sonntag, im ganzen Land: leichter Regen.",
-   "Die Temperaturen erreichen dann 8 bis 14 Grad.",
-   "Am wärmsten wird es in Stuttgart mit 14 Grad.",
+   "Heute liegen die Höchstwerte zwischen 10 und 13 Grad.",
+   "Die Vorhersage für morgen, Dienstag, im ganzen Land: Regenschauer.",
+   "Die Temperaturen erreichen dann 7 bis 16 Grad.",
+   "Am wärmsten wird es in Stuttgart mit 16 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
-   "tag": "Sonntag",
+   "tag": "Dienstag",
    "orte": [
     {
      "name": "Hamburg",
@@ -2085,20 +2085,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
-       "regen": 0.9
+       "grad": 7,
+       "regen": 5.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
-       "regen": 1.2
+       "grad": 9,
+       "regen": 8.5
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": 0.2
+       "grad": 9,
+       "regen": 10.9
       }
      ]
     },
@@ -2109,19 +2109,19 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 8,
-       "regen": 0.2
+       "regen": 6.6
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 8,
-       "regen": 0.1
+       "grad": 10,
+       "regen": 6.8
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": 0
+       "grad": 9,
+       "regen": 8
       }
      ]
     },
@@ -2131,20 +2131,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 8,
-       "regen": 0
+       "grad": 12,
+       "regen": 6.4
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
-       "regen": 0
+       "grad": 13,
+       "regen": 8.3
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": 0
+       "grad": 11,
+       "regen": 9.3
       }
      ]
     },
@@ -2154,20 +2154,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 2.8
+       "grad": 15,
+       "regen": 20.4
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 1.9
+       "grad": 15,
+       "regen": 15.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 4.4
+       "grad": 14,
+       "regen": 13.7
       }
      ]
     },
@@ -2177,20 +2177,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 2.8
+       "grad": 15,
+       "regen": 17
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
-       "regen": 1.4
+       "grad": 14,
+       "regen": 18.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 0
+       "grad": 14,
+       "regen": 25.5
       }
      ]
     },
@@ -2200,20 +2200,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 14,
-       "regen": 0.6
+       "grad": 16,
+       "regen": 16.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 0.3
+       "grad": 15,
+       "regen": 9.9
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 13,
-       "regen": 0.2
+       "grad": 14,
+       "regen": 15.7
       }
      ]
     },
@@ -2223,38 +2223,28 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
-       "regen": 0
+       "grad": 14,
+       "regen": 10.2
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
-       "regen": 0
+       "grad": 12,
+       "regen": 8.4
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": 0
+       "grad": 12,
+       "regen": 15.8
       }
      ]
     }
    ],
    "spanneGrad": 2,
-   "uneinigRegen": {
-    "ort": "Hamburg",
-    "nass": [
-     "GFS"
-    ],
-    "trocken": [
-     "ICON",
-     "ECMWF"
-    ]
-   },
+   "uneinigRegen": null,
    "saetze": [
-    "Für Leipzig gehen die Modelle am weitesten auseinander: zwischen 8 und 10 Grad.",
-    "Und in Hamburg erwartet GFS Regen, ICON und ECMWF dagegen nicht."
+    "Für Hamburg gehen die Modelle am weitesten auseinander: zwischen 7 und 9 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2262,19 +2252,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
-   "d": "c2e57e88bf.mp3",
-   "l": 16.95,
-   "s": [
-    0.25,
-    3.6,
-    7.93,
-    11.18,
-    14.32
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2477,6 +2455,388 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "abschiebezentrum-ruanda",
+   "rubrik": "Welt",
+   "zeit": "2026-11-16T20:50:56.000Z",
+   "titel": "Pläne für gemeinsames Abschiebezentrum in Ruanda",
+   "vorspann": "Deutschland und vier weitere EU-Staaten planen die Einrichtung eines Abschiebezentrums im ostafrikanischen Ruanda. Abgelehnte Asylbewerber sollen ab 2027 dorthin gebracht werden.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Deutschland und vier weitere EU-Staaten planen die Einrichtung eines gemeinsamen Abschiebezentrums in Ruanda ab dem Jahr 2027.",
+    "Das Projekt richtet sich an abgelehnte Asylbewerber, deren Abschiebung in ihre Herkunftsländer scheitert.",
+    "Die rechtliche Grundlage bildet die neue EU-Rückführungsverordnung, die Überstellungen in Drittstaaten erlaubt.",
+    "In Deutschland gibt es Kritik aus der SPD und von Hilfsorganisationen an den Kosten und der Menschenrechtslage in Ruanda."
+   ],
+   "einig": [
+    [
+     "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande planen ein Abschiebezentrum in Ruanda.",
+     [
+      "Deutschlandfunk",
+      "Spiegel",
+      "FAZ",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Die Umsetzung des Pilotprojekts ist ab dem Jahr 2027 geplant.",
+     [
+      "Deutschlandfunk",
+      "Spiegel",
+      "FAZ",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Bundesinnenminister Alexander Dobrindt kündigte das Vorhaben am Rande einer Migrationskonferenz in Wien an.",
+     [
+      "Deutschlandfunk",
+      "Spiegel",
+      "FAZ",
+      "Deutsche Welle"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Anzahl der Personen, die ab 2027 nach Ruanda überstellt werden sollen.",
+    "Die Höhe der tatsächlichen Gesamtkosten des Projekts nach der Startphase."
+   ],
+   "positionen": [
+    [
+     "Bundesinnenminister Alexander Dobrindt (CSU)",
+     "Das Vorhaben setzt europäisches Recht um und dient der wirksamen Durchsetzung von Ausreisepflichten sowie der Abschreckung.",
+     "Deutschlandfunk,Spiegel,FAZ,Deutsche Welle"
+    ],
+    [
+     "Österreichs Bundeskanzler Christian Stocker",
+     "Die Einigung stellt einen historischen Paradigmenwechsel in der Migrationspolitik dar.",
+     "Spiegel,FAZ"
+    ],
+    [
+     "Ruandas Innenminister Vincent Biruta",
+     "Ruanda will zur Lösung des globalen Migrationsproblems beitragen und bietet Integration für Abgeschobene.",
+     "FAZ,Deutsche Welle"
+    ],
+    [
+     "SPD-Abgeordnete (Rasha Nasr, Hakan Demir, Sebastian Fiedler)",
+     "Das Projekt ist unverhältnismäßig teuer, in der Koalition nicht abgesprochen und birgt Gefahren von Menschenrechtsverletzungen in Ruanda.",
+     "Spiegel,FAZ,Deutsche Welle"
+    ],
+    [
+     "Vertreter von Hilfsorganisationen (Caritas International)",
+     "Es bestehen schwerwiegende humanitäre und menschenrechtliche Bedenken gegen die Zusammenarbeit.",
+     "Deutsche Welle"
+    ]
+   ],
+   "fehlend": "Stellungnahmen von Vertretern der Herkunftsländer der betroffenen Asylbewerber sowie Einschätzungen von EU-Institutionen zur rechtlichen Prüfung.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.11.26, 21:50",
+     "fokus": "–",
+     "text": "Migrationspolitik: Deutschland plant Abschiebezentrum in Ruanda",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1684984.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "16.11.26, 21:41",
+     "fokus": "–",
+     "text": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen im kommenden Jahr erste abgelehnte Asylbewerber in ein spezielles Rückführungszentrum im ostafrikanischen Ruanda bringen. Das kündigte Bundesinnenminister Dobrindt am Rande einer Migrationskonferenz in Wien an",
+     "url": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.11.26, 16:54",
+     "fokus": "Finanzen und politischer Kontext",
+     "text": "Der Spiegel beleuchtet die finanziellen Planungen von Innenminister Dobrindt und zieht Parallelen zum gescheiterten britischen Ruanda-Modell.",
+     "url": "https://www.spiegel.de/politik/deutschland/deutschland-und-weitere-eu-laender-einigen-sich-auf-abschiebezentrum-in-ruanda-a-3a25bbe9-f973-4f75-be7c-1827d06f46cc#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 264,
+      "satzlaenge": 19,
+      "langeWoerter": 39
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "16.11.26, 16:42",
+     "fokus": "Hintergründe und internationale Reaktionen",
+     "text": "Die FAZ beschreibt ausführlich die Konferenz in Wien, die Rolle Ruandas in der internationalen Politik sowie frühere Pläne anderer Staaten.",
+     "url": "https://www.faz.net/aktuell/politik/ausland/erstes-eu-abschiebezentrum-soll-2027-in-ruanda-eroeffnen-201686820.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 5,
+      "woerter": 1091,
+      "satzlaenge": 20,
+      "langeWoerter": 37
+     },
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "16.11.26, 19:07",
+     "fokus": "Koalitionskritik und Völkerrecht",
+     "text": "Die Deutsche Welle fokussiert sich auf die innerparteiliche Kritik der SPD in Deutschland sowie Einschätzungen von Völkerrechtlern.",
+     "url": "https://www.dw.com/de/abgelehnte-asylbewerber-sollen-nach-ruanda-abgeschoben-werden/a-79962582?maca=de-rss-de-all-1119-rdf",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 4,
+      "woerter": 813,
+      "satzlaenge": 17,
+      "langeWoerter": 38
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Fokus der Kritik",
+     "Während der Spiegel vor allem die finanziellen Aspekte und den Vergleich zu Großbritannien betont, legt die Deutsche Welle ein größeres Gewicht auf die interne Kritik innerhalb der deutschen Regierungskoalition und völkerrechtliche Einschätzungen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Deutschland, Österreich, Dänemark, Griechenland, die Niederlande und Ruanda",
+    "was": "Planung eines gemeinsamen Abschiebezentrums für abgelehnte Asylbewerber",
+    "wann": "2026-11-16",
+    "wo": "Wien, Österreich und Kigali, Ruanda",
+    "wie": "Durch Verhandlungen über ein gemeinsames Pilotprojekt ab 2027",
+    "warum": "Nach Angaben von Bundesinnenminister Dobrindt zur wirksamen Durchsetzung von Ausreisepflichten",
+    "quellenlage": "Berichte von öffentlich-rechtlichen Sendern, Tageszeitungen und Magazinen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Vorhaben in Wien",
+     "absaetze": [
+      "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande planen die Errichtung eines gemeinsamen Abschiebezentrums in Ruanda. Dies kündigten Vertreter der Staaten am Rande einer Migrationskonferenz im österreichischen Wien an. Laut dem Nachrichtenmagazin Spiegel fand die Konferenz am Montag statt. Die beteiligten Staaten wollen ab dem Jahr 2027 erste Personen in das ostafrikanische Land überstellen. Nach Angaben der Tageszeitung Frankfurter Allgemeine Zeitung nahmen an den Gesprächen auch der ruandische Minister Vincent Biruta sowie die dänische Regierungschefin Mette Frederiksen teil.",
+      "Das Vorhaben betrifft Menschen, deren Asylanträge in der EU abgelehnt wurden. Laut dem Spiegel sollen Personen dorthin gebracht werden, deren Abschiebung in die Herkunftsländer scheitert. Dies gilt beispielsweise dann, wenn Herkunftsländer die Rücknahme verweigern oder in diesen Ländern Krieg herrscht. Der Deutschlandfunk berichtete, dass die Ankündigung von Bundesinnenminister Alexander Dobrindt getätigt wurde. Laut dem Spiegel bezeichnete Österreichs Kanzler Christian Stocker die Einigung als historischen Paradigmenwechsel.",
+      "Laut der Frankfurter Allgemeine Zeitung wurden auf der Pressekonferenz zunächst keine genauen Zahlen genannt. In Teilnehmerkreisen sei jedoch von anfangs einhundert Personen die Rede gewesen. Die beteiligten Staaten verfolgen nach denselben Angaben zunächst eine abschreckende Wirkung für Herkunftsstaaten. Ein Abkommen mit Ruanda soll zudem als Vorbild für weitere Staaten dienen. Nach Angaben des Senders Deutsche Welle handelt es sich vorerst um ein Pilotprojekt."
+     ]
+    },
+    {
+     "ueberschrift": "Rahmenbedingungen und Finanzierung",
+     "absaetze": [
+      "Die rechtliche Grundlage für die Überstellung in Drittstaaten bildet die EU-Rückführungsverordnung. Diese wurde laut Spiegel im Juni von Unterhändlern des EU-Parlaments und den Mitgliedstaaten beschlossen. Das Partnerland Ruanda muss dabei internationale Menschenrechtsstandards und das Völkerrecht einhalten. Laut der Frankfurter Allgemeine Zeitung sollen die Abgeschobenen in offenen Zentren untergebracht werden und eine Arbeitserlaubnis erhalten. Dies soll eine Rückreise in die Heimat oder eine Integration in Ruanda ermöglichen.",
+      "Bundesinnenminister Alexander Dobrindt hat laut dem Spiegel im kommenden Bundeshaushalt 20 Millionen Euro für das Modellprojekt vorgesehen. Gleichzeitig wird in den Berichten darauf hingewiesen, dass die tatsächlichen Kosten bei einer dauerhaften Etablierung deutlich höher ausfallen könnten. Der Spiegel erwähnt zudem, dass Ruanda als Favorit galt, während Uganda und Usbekistan ebenfalls im Gespräch waren. Die Deutsche Welle berichtete, dass die Niederlande bilaterale Verhandlungen mit Uganda zuvor gestoppt hatten, Gespräche mit Kampala jedoch andauern.",
+      "Die beteiligten europäischen Staaten betonen die Zusammenarbeit mit internationalen Organisationen. Laut der Frankfurter Allgemeine Zeitung wird das Projekt vom UN-Flüchtlingshochkommissariat sowie der Internationalen Organisation für Migration begleitet. Bundesinnenminister Dobrindt erklärte laut Deutscher Welle, dass es sich nicht um geschlossene Abschiebelager handle. Der Hohe Kommissar der Vereinten Nationen für Flüchtlinge, Barham Salih, war laut Berichten ebenfalls bei den Beratungen in Wien anwesend."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund und frühere Versuche",
+     "absaetze": [
+      "Das Konzept der Auslagerung von Asylverfahren oder Rückführungen wurde in der Vergangenheit bereits von anderen Staaten verfolgt. Die britische Regierung hatte zuvor versucht, ein Abschiebesystem mit Ruanda aufzubauen. Dieses Projekt scheiterte jedoch nach gerichtlichen Entscheidungen im Vereinigten Königreich im Jahr 2023. Laut der Frankfurter Allgemeine Zeitung wollte die damalige britische Regierung unter Rishi Sunak sämtliche Asylverfahren in das afrikanische Land verlegen. Der Oberste Gerichtshof Großbritanniens stoppte die Pläne wegen Mängeln im ruandischen Asylsystem.",
+      "Nach einem Regierungswechsel in Großbritannien im Jahr 2024 gab die neue Labour-Regierung unter Keir Starmer die Pläne endgültig auf. Die aktuellen europäischen Planungen unterscheiden sich laut Bundesinnenminister Alexander Dobrindt von dem britischen Modell. Es gehe nicht um die Auslagerung von Asylverfahren nach Ruanda. Vielmehr sollen ausschließlich Personen überstellt werden, deren Verfahren in Europa bereits vollständig durchlaufen und abgelehnt sind.",
+      "Ruanda arbeitet nach Angaben der Deutschen Welle bereits seit längerer Zeit mit dem UN-Flüchtlingshilfswerk UNHCR zusammen. Das Land hat in der Vergangenheit Flüchtlinge aus Nachbarstaaten sowie aus Libyen aufgenommen. Ruandas Präsident Paul Kagame erklärte in Wien, dass sein Land dazu beitragen wolle, das globale Migrationsproblem zu bewältigen. Kritiker werfen der Regierung in Kigali hingegen Menschenrechtsverletzungen und die Unterdrückung von politischen Gegnern vor."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen und Kritik",
+     "absaetze": [
+      "In Deutschland stößt das Vorhaben auf Kritik von Parteien und Hilfsorganisationen. SPD-Politiker äußerten Bedenken hinsichtlich der Kosten und der Menschenrechtslage in Ruanda. Laut dem Spiegel bezeichnete der SPD-Innenpolitiker Sebastian Fiedler die veranschlagten 20 Millionen Euro für deutsche Plätze als unverhältnismäßig teuer. Die Bundestagsabgeordneten Rasha Nasr und Hakan Demir äußerten nach Angaben des Magazins die Befürchtung von willkürlicher Inhaftierung und Folter in Ruanda. Die Abgeordnete Rasha Nasr erklärte gegenüber der Deutschen Welle, dass die Initiative in der Regierungskoalition nicht abgesprochen worden sei.",
+      "Bundesinnenminister Alexander Dobrindt wies die Kritik an der Koalition zurück. Ein Sprecher des Innenministers erklärte laut Deutscher Welle, dass das Vorgehen durch europäisches Recht gedeckt und von der gesamten Bundesregierung mitgetragen sei. Hilfsorganisationen wie Brot für die Welt und Caritas International äußerten ebenfalls Bedenken. Oliver Müller von der Caritas verwies laut Deutscher Welle auf humanitäre Risiken und offene Fragen zur Effektivität.",
+      "Der Völkerrechtler Daniel Thym äußerte gegenüber der Deutschen Welle die Erwartung, dass sich deutsche und europäische Gerichte mit den neuen Vereinbarungen befassen werden. Da die meisten Asylanträge von Staatsbürgern aus Ruanda in Deutschland abgelehnt würden, könnten Gerichte das Land als sicher bewerten. Dennoch müssten die Behörden sorgfältig prüfen, welche Personen dorthin geschickt werden könnten. Als Beispiel nannte Thym homosexuelle Menschen, da diese in Zentralafrika verfolgt würden."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Juni",
+     "Unterhändler von Europäischem Parlament und Mitgliedstaaten einigen sich auf EU-Rückführungsverordnung."
+    ],
+    [
+     "2026-11-16",
+     "Fünf Europäische Union-Staaten und Ruanda verkünden in Wien den Plan für ein gemeinsames Abschiebezentrum."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Alexander Dobrindt politician",
+     "bildunterschrift": "Bundesinnenminister Alexander Dobrindt stellte die Pläne für das Abschiebezentrum in Ruanda vor."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Bundesministerium des Innern Berlin",
+     "bildunterschrift": "Das Bundesministerium des Innern ist für die Umsetzung der Migrationspolitik in Deutschland zuständig."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Kigali cityscape",
+     "bildunterschrift": "Die ruandische Hauptstadt Kigali ist as Standort für das geplante Abschiebezentrum vorgesehen."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "European Union flag",
+     "bildunterschrift": "Die Europäische Union-Rückführungsverordnung bildet die rechtliche Grundlage für die Überstellung in Drittstaaten."
+    }
+   ],
+   "ort": {
+    "name": "Wien, Österreich und Kigali, Ruanda"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das Datum im Datensatz wurde auf das im Bericht genannte Datum der Konferenz angepasst."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Asylbewerber",
+      "Ein Asylbewerber ist ein Mensch, der in einem fremden Land Schutz vor Krieg oder Verfolgung sucht und dessen Antrag auf Asyl noch geprüft wird oder abgelehnt wurde."
+     ],
+     [
+      "Rückführungsverordnung",
+      "Eine Rückführungsverordnung ist eine rechtliche Regelung der Europäischen Union, die den Umgang mit ausreisepflichtigen Personen in den Mitgliedstaaten regelt."
+     ],
+     [
+      "Drittstaat",
+      "Als Drittstaat wird in diesem Zusammenhang ein Land bezeichnet, das weder das Herkunftsland der betroffenen Person noch ein Mitgliedstaat der Europäischen Union ist."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente bringen Befürworter und Kritiker für beziehungsweise gegen das geplante Abschiebezentrum in Ruanda vor?",
+     "Welche Rolle spielt die Europäische Union bei der Umsetzung solcher Abkommen mit Staaten außerhalb Europas?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welcher Politiker kündigte das Vorhaben am Rande einer Migrationskonferenz in Wien an?",
+      "optionen": [
+       "Bundesinnenminister Alexander Dobrindt",
+       "Bundeskanzler Olaf Scholz",
+       "Außenministerin Annalena Baerbock"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Berichten von Deutschlandfunk, Spiegel, FAZ und Deutscher Welle kündigte Bundesinnenminister Alexander Dobrindt das Vorhaben in Wien an."
+     },
+     {
+      "frage": "Ab welchem Jahr sollen erste Personen in das Abschiebezentrum in Ruanda gebracht werden?",
+      "optionen": [
+       "Ab dem Jahr 2025",
+       "Ab dem Jahr 2027",
+       "Ab dem Jahr 2030"
+      ],
+      "richtig": 1,
+      "erklaerung": "In den Berichten von Deutschlandfunk, Spiegel, FAZ und Deutscher Welle wird übereinstimmend das Jahr 2027 für die Überstellungen genannt."
+     },
+     {
+      "frage": "Welche Institution liefert die rechtliche Grundlage für die Überstellung in Drittstaaten?",
+      "optionen": [
+       "Die Europäische Menschenrechtskonvention",
+       "Die EU-Rückführungsverordnung",
+       "Der UN-Sicherheitsrat"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Spiegel und FAZ bildet die EU-Rückführungsverordnung die rechtliche Grundlage für die Abschiebung in den Drittstaat."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Deutschland und vier weitere Länder der Europäischen Union wollen abgelehnte Asylbewerber in das afrikanische Land Ruanda bringen.",
+    "absaetze": [
+     "Asylbewerber sind Menschen, die in einem anderen Land Schutz vor Krieg oder Verfolgung suchen. Wenn ein Gericht ihren Antrag ablehnt, müssen sie das Land normalerweise wieder verlassen.",
+     "Manchmal weigern sich die Herkunftsländer aber, die Menschen zurückzunehmen. Deshalb wollen Deutschland, Österreich, Dänemark, Griechenland und die Niederlande ein Zentrum in Ruanda bauen.",
+     "Ab dem Jahr zweitausend siebenundzwanzig sollen abgelehnte Asylbewerber dorthin gebracht werden. Das hat der deutsche Innenminister Alexander Dobrindt in Wien angekündigt.",
+     "Das Projekt ist umstritten. Einige Politiker und Hilfsorganisationen kritisieren die Pläne wegen der Menschenrechte in Ruanda und den hohen Kosten scharf."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Deutschland und vier europäische Partner planen ein gemeinsames Abschiebezentrum in Ruanda.",
+     "Ab dem Jahr zweitausend siebenundzwanzig sollen abgelehnte Asylbewerber in das afrikanische Land gebracht werden.",
+     "Bundesinnenminister Alexander Dobrindt stellte die Pläne am Montag in Wien vor.",
+     "Aus der Partei Sozialdemokratische Partei Deutschlands und von Hilfsorganisationen gibt es erhebliche Kritik an dem Vorhaben."
+    ],
+    "lang": [
+     "Deutschland plant gemeinsam mit vier weiteren europäischen Staaten die Einrichtung eines Abschiebezentrums in Ruanda.",
+     "Das gaben Vertreter der Länder am Montag am Rande einer Migrationskonferenz im österreichischen Wien bekannt.",
+     "Ab dem Jahr zweitausend siebenundzwanzig sollen demnach erste abgelehnte Asylbewerber in das ostafrikanische Land gebracht werden.",
+     "Rechtliche Grundlage für das Vorhaben ist die neue Rückführungsverordnung der Europäischen Union.",
+     "Bundesinnenminister Alexander Dobrindt erklärte, dass damit Ausreisepflichten wirksam durchgesetzt werden sollen.",
+     "Für das deutsche Modellprojekt sind im Haushaltsentwurf zunächst zwanzig Millionen Euro vorgesehen.",
+     "Kritiker wie SPD-Politiker und Hilfsorganisationen bemängeln dagegen die hohen Kosten und mögliche Verletzungen von Menschenrechten in Ruanda.",
+     "Der Völkerrechtler Daniel Thym erwartet, dass sich auch deutsche und europäische Gerichte mit den neuen Vereinbarungen befassen werden."
+    ],
+    "einfach": [
+     "Deutschland und vier andere europäische Länder wollen ein Abschiebezentrum in Ruanda bauen.",
+     "Dorthin sollen ab dem Jahr zweitausend siebenundzwanzig Menschen gebracht werden, deren Asylantrag abgelehnt wurde.",
+     "Das hat der deutsche Innenminister Alexander Dobrindt in Wien gesagt.",
+     "Die Kosten für das Projekt sollen zunächst zwanzig Millionen Euro betragen.",
+     "Kritiker finden den Plan zu teuer und machen sich Sorgen um die Menschenrechte in Ruanda.",
+     "Ob das Projekt wie geplant umgesetzt wird, ist noch nicht sicher."
+    ]
+   },
+   "kurz": [
+    "Fünf Europäische Union-Staaten planen ein gemeinsames Abschiebezentrum in Ruanda.",
+    "Ab dem Jahr zweitausend siebenundzwanzig sollen abgelehnte Asylbewerber dorthin gebracht werden.",
+    "Bundesinnenminister Alexander Dobrindt kündigte das Vorhaben in Wien an.",
+    "Kritiker äußern Bedenken bezüglich der Menschenrechte und hoher Kosten."
+   ],
+   "fakten": [
+    [
+     "Geplanter Beginn der Überstellungen",
+     "2027"
+    ],
+    [
+     "Vorgesehene Haushaltsmittel für das deutsche Modellprojekt",
+     "20 Millionen Euro"
+    ],
+    [
+     "Anzahl der beteiligten Europäischen Union-Staaten",
+     "5"
+    ]
+   ],
+   "dossier": {
+    "slug": "migrationspolitik-abschiebezentrum-ruanda",
+    "titel": "Pläne für Abschiebezentren in Drittstaaten"
+   },
+   "bildInfos": [],
+   "version": 5
+  },
   {
    "id": "nato-beitritt-ukraine-gebietsverzicht",
    "rubrik": "Welt",
@@ -3571,7 +3931,7 @@
       10.71,
       16.49,
       23.69,
-      30.0,
+      30,
       36.38,
       41.74
      ]
@@ -4167,946 +4527,6 @@
      ]
     }
    ]
-  },
-  {
-   "id": "mercedes-investitionsstopp-deutschland",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-13T16:59:00.000Z",
-   "titel": "Krise der Automobilindustrie: Mercedes erwägt Werksschließungen und stoppt Investitionen",
-   "vorspann": "Der Autobauer Mercedes-Benz prüft wegen sinkender Erträge Werksschließungen in Deutschland und stoppt vorerst alle Investitionen. Auch andere Unternehmen der Branche stehen vor Problemen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Mercedes-Benz prüft Werksschließungen in Deutschland und stoppt vorerst alle weiteren Investitionen an den heimischen Standorten.",
-    "Als Gründe nennt das Unternehmen sinkende Absatzzahlen, insbesondere in China, sowie hohe Kosten im Vergleich zu anderen Regionen.",
-    "Arbeitnehmervertretungen und die Gewerkschaft IG Metall lehnen die Pläne ab und kündigen Widerstand an.",
-    "Die Krise betrifft neben Mercedes auch andere große Automobilkonzerne und Zulieferbetriebe."
-   ],
-   "einig": [
-    [
-     "Mercedes-Benz erwägt Werksschließungen in Deutschland und stoppt Investitionen.",
-     [
-      "taz",
-      "SRF"
-     ]
-    ],
-    [
-     "Die Krise der Automobilindustrie ist unter anderem auf sinkende Absatzzahlen auf dem chinesischen Markt zurückzuführen.",
-     [
-      "taz",
-      "SRF"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Welche konkreten Standorte von Schließungen betroffen sein könnten, ist laut taz derzeit noch unklar."
-   ],
-   "positionen": [
-    [
-     "Mercedes-Management",
-     "Die Kostenstrukturen sind zu hoch, weshalb Investitionen gestoppt werden und Werksschließungen geprüft werden.",
-     "taz,SRF"
-    ],
-    [
-     "Betriebsrat und IG Metall",
-     "Werksschließungen werden entschieden abgelehnt; das Unternehmen muss verbindliche Perspektiven schaffen.",
-     "taz"
-    ],
-    [
-     "Cem Ince (Die Linke)",
-     "Das Management nutzt die Belegschaft für Kapitalinteressen in Geiselhaft.",
-     "taz"
-    ]
-   ],
-   "fehlend": "Stimmen von Vertretern der chinesischen Regierung oder konkurrierenden ausländischen Autobauern sowie Aussagen von Kundinnen und Kunden.",
-   "medien": [
-    {
-     "name": "taz",
-     "typ": "Tageszeitung (Genossenschaft)",
-     "art": "privates Medium",
-     "stamm": false,
-     "datum": "13.11.26, 17:59",
-     "fokus": "Interne Gespräche und Reaktionen",
-     "text": "Die taz berichtet detailliert über interne Aussagen von Mercedes-Vorständen, Details zu Forderungen bei den Arbeitszeiten sowie Reaktionen der Gewerkschaft und der Politik.",
-     "url": "https://taz.de/Mercedes-Vorstand-droht-Arbeitnehmern/!6229788/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 592,
-      "satzlaenge": 16,
-      "langeWoerter": 40
-     },
-     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
-     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
-     "publikumWert": null
-    },
-    {
-     "name": "SRF",
-     "typ": "öffentlich-rechtlich (Schweiz)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "13.11.26, 13:39",
-     "fokus": "Markt und internationale Auswirkungen",
-     "text": "SRF beleuchtet vor allem die wirtschaftlichen Hintergründe in China, die weltweiten Marktzusammenhänge sowie die konkreten Folgen für die Schweizer Zulieferindustrie.",
-     "url": "https://www.srf.ch/news/wirtschaft/krise-in-der-autoindustrie-mercedes-erwaegt-werksschliessungen-das-steckt-dahinter",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 343,
-      "satzlaenge": 10,
-      "langeWoerter": 38
-     },
-     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
-     "finanzierung": "Rundfunkabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf Ausland",
-     "Die taz konzentriert sich stärker auf die innerbetrieblichen Konflikte und Tarifstrukturen in Deutschland, während SRF ausführlich auf den chinesischen Markt und die Auswirkungen auf die Schweiz eingeht."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Mercedes-Benz, Betriebsrat, IG Metall",
-    "was": "Mögliche Werksschließungen und Investitionsstopp in Deutschland",
-    "wann": "November 2026",
-    "wo": "Deutschland",
-    "wie": "Durch gestoppte Investitionen und Verhandlungen über Arbeitskosten",
-    "warum": "Sinkende Absatzzahlen, hohe Kosten und Margendruck nach Angaben der Unternehmensführung",
-    "quellenlage": "taz, SRF"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Der Autobauer Mercedes-Benz erwägt laut übereinstimmenden Berichten die Schließung von Werken in Deutschland. Unternehmensangaben zufolge wird geprüft, welche Standorte sich das Unternehmen hierzulande noch leisten kann. Gleichzeitig hat der Vorstand beschlossen, alle weiteren Investitionen in deutsche Standorte vorerst zu stoppen. Neue Modelle sollen laut den Berichten ausschließlich im Ausland gefertigt werden, falls keine Einigung erzielt wird.",
-      "Hintergrund der Entwicklung sind sinkende Absatzzahlen und hohe Kostenstrukturen. Nach Angaben aus den Medienberichten sind von den weltweiten Beschäftigten des Unternehmens viele in Deutschland tätig. Der Vorstand fordert von den Arbeitnehmern eine Senkung der Arbeitskosten. Die Unternehmensführung und die Arbeitnehmervertretungen führen dazu Gespräche, die bislang zu keinem Ergebnis führten."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Laut dem Bericht der taz verhandeln das Management und die Arbeitnehmervertreter über die Arbeitszeit und finanzielle Leistungen. Das Management fordert demnach eine Verlängerung der Wochenarbeitszeit sowie die Kürzung von Sonderzahlungen. Die IG Metall und der Betriebsrat lehnen diese Pläne ab und kündigten Widerstand an. Arbeitsdirektorin Britta Seeger erklärte in einem internen Interview, dass sich derzeit kein Lösungskorridor abzeichnet.",
-      "Produktionsvorstand Michael Schiebe hatte bereits im Oktober auf Betriebsversammlungen vor möglichen Werksschließungen gewarnt. Vorstandschef Ola Källenius nannte das Ziel, die Arbeitskosten in Deutschland um zwanzig Prozent auf das Niveau in den Vereinigten Staaten zu senken. Die Arbeitsstunde in Deutschland sei nach Angaben des Unternehmens deutlich teurer als in Osteuropa, wo das Werk in Ungarn ausgebaut wird.",
-      "Nach Angaben des Schweizer Senders SRF ist ein wesentlicher Grund für die Krise der Einbruch der Verkaufszahlen auf dem chinesischen Markt. Dort verkauft Mercedes demnach deutlich weniger Fahrzeuge als in den Vorjahren, weil insbesondere Verbrennungsmotoren kaum noch nachgefragt werden. Dies führt zu ungenutzten Produktionskapazitäten. Auch andere Hersteller wie Volkswagen und Zulieferer wie Schaeffler und Aluwag sind von der Krise betroffen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die deutsche Automobilindustrie befindet sich in einer wirtschaftlichen Krise. Die Berichte nennen als Ursachen eine zu langsame Umstellung auf elektrische Antriebe, fehlende digitale Funktionen sowie zu große Fahrzeuge. Hinzu kommen eine schwächere Nachfrage in den Kernmärkten wie China und den USA sowie hohe Zölle. Die Rendite der Pkw-Sparte von Mercedes sank im Laufe des Jahres, wodurch die Wachstumsziele für das Jahr 2026 nach Angaben der taz kassiert wurden.",
-      "In der gesamten Automobilbranche stehen erhebliche Umstrukturierungen an. Volkswagen plant den Abbau von Stellen und hat die Modernisierung des Stammwerks in Wolfsburg gestoppt. Auch Zulieferunternehmen in der Schweiz und in Deutschland verzeichnen Auftragsrückgänge und Arbeitsplatzverluste."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ein Betriebsrat ist eine gewählte Vertretung der Arbeitnehmer in einem Betrieb. Er vertritt die Interessen der Beschäftigten gegenüber dem Arbeitgeber und verhandelt über Themen wie Arbeitszeiten und Standortsicherheit. Die IG Metall ist die zuständige Gewerkschaft für die Metall- und Elektroindustrie in Deutschland und führt Tarifverhandlungen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der Betriebsrat und die IG Metall kritisierten die Ankündigungen des Vorstandes scharf und kündigten in einer gemeinsamen Mitteilung Widerstand an. Sie fordern vom Unternehmen verbindliche Perspektiven für Produkte und Investitionen. Arbeitsdirektorin Britta Seeger bezeichnete Forderungen der Gewerkschaft nach Lohnerhöhungen in der aktuellen Situation nach Angaben der taz als überzogen.",
-      "Der Bundestagsabgeordnete Cem Ince von der Partei Die Linke warf dem Management vor, die Belegschaft für Kapitalinteressen in Geiselhaft zu nehmen. Er zog Vergleiche zu den Arbeitskämpfen bei Volkswagen und betonte die Streikbereitschaft der Beschäftigten."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Das Unternehmen plant, die Situation an den deutschen Standorten weiter zu prüfen. Soweit keine Einigung mit den Arbeitnehmervertretungen erzielt wird, sollen neue Automobilmodelle ausschließlich im Ausland produziert werden. Die Gespräche zwischen dem Vorstand und den Arbeitnehmern werden fortgesetzt."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Oktober 2026",
-     "Produktionsvorstand Michael Schiebe warnt auf Betriebsversammlungen vor möglichen Werksschließungen."
-    ],
-    [
-     "November 2026",
-     "Der Vorstand beschließt den Investitionsstopp in Deutschland und kündigt Prüfungen von Standorten an."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Ola Källenius",
-     "bildunterschrift": "Ola Källenius ist Vorstandschef des Automobilkonzerns Mercedes-Benz."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
-     "bildunterschrift": "Die Zentrale des Automobilkonzerns Mercedes-Benz in Stuttgart."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Shanghai Automobile Exhibition",
-     "bildunterschrift": "Automobilmessen in China sind für deutsche Hersteller von großer Bedeutung."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Automobile assembly line",
-     "bildunterschrift": "Eine Produktionslinie in der Automobilindustrie."
-    }
-   ],
-   "ort": {
-    "name": "Stuttgart, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Daten und Fakten wurden strikt an die Berichte von taz und SRF angepasst und spekulative Angaben entfernt."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Betriebsrat",
-      "Eine gewählte Vertretung der Arbeitnehmer in einem Unternehmen, die sich für die Rechte der Beschäftigten einsetzt."
-     ],
-     [
-      "Gewerkschaft",
-      "Eine Organisation von Arbeitnehmern, die gemeinsam für bessere Löhne und Arbeitsbedingungen eintritt."
-     ]
-    ],
-    "fragen": [
-     "Welche Gründe nennen Unternehmen für die aktuellen Probleme in der Automobilindustrie?",
-     "Wie begründen Gewerkschaften ihren Widerstand gegen angekündigte Werksschließungen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Was prüft der Autobauer Mercedes-Benz in Deutschland?",
-      "optionen": [
-       "Die Eröffnung neuer Werke",
-       "Werksschließungen und einen Investitionsstopp",
-       "Die Verdoppelung der Belegschaft"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten von taz und SRF prüft das Unternehmen Werksschließungen und stoppt Investitionen."
-     },
-     {
-      "frage": "Welcher Markt wird in den Berichten als besonders wichtig und stark rückläufig genannt?",
-      "optionen": [
-       "China",
-       "Brasilien",
-       "Australien"
-      ],
-      "richtig": 0,
-      "erklaerung": "Beide Quellen nennen den chinesischen Markt als Grund für sinkende Verkaufszahlen."
-     },
-     {
-      "frage": "Wie reagieren Betriebsrat und IG Metall auf die Pläne?",
-      "optionen": [
-       "Sie stimmen allen Kürzungen zu",
-       "Sie fordern höhere Boni",
-       "Sie lehnen Werksschließungen entschieden ab und kündigen Widerstand an"
-      ],
-      "richtig": 2,
-      "erklaerung": "Laut taz lehnen Betriebsrat und IG Metall Werksschließungen entschieden ab."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Der Autobauer Mercedes-Benz hat finanzielle Probleme. Deshalb prüft das Unternehmen Werksschließungen in Deutschland und stoppt vorerst alle Investitionen.",
-    "absaetze": [
-     "Sinkende Verkaufszahlen in China und hohe Kosten belasten den Autobauer Mercedes-Benz schwer.",
-     "Das Management fordert deshalb von den Beschäftigten in Deutschland niedrigere Arbeitskosten und längere Arbeitszeiten.",
-     "Die Gewerkschaft IG Metall und der Betriebsrat lehnen diese Forderungen strikt ab und kündigen Widerstand an.",
-     "Auch andere Unternehmen der Autoindustrie und Zulieferer spüren die wirtschaftlichen Probleme deutlich."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Der Autobauer Mercedes-Benz prüft wegen sinkender Erträge Werksschließungen in Deutschland.",
-     "Das Unternehmen hat zudem alle weiteren Investitionen in deutsche Standorte gestoppt.",
-     "Arbeitnehmervertretungen und die Gewerkschaft IG Metall kündigten Widerstand gegen die Pläne an."
-    ],
-    "lang": [
-     "Der Autobauer Mercedes-Benz prüft nach Medienberichten Werksschließungen in Deutschland und stoppt vorerst alle Investitionen.",
-     "Das Unternehmen reagiert damit auf sinkende Absatzzahlen und nach Angaben des Managements zu hohe Kosten.",
-     "Nach Berichten der taz und des Senders SRF sind besonders die Verkaufszahlen auf dem chinesischen Markt eingebrochen.",
-     "Vorstandschef Ola Källenius nannte das Ziel, die Arbeitskosten in Deutschland um zwanzig Prozent zu senken.",
-     "Das Management fordert von der Belegschaft nach Angaben der taz unter anderem längere Arbeitszeiten und weniger Sonderzahlungen.",
-     "Arbeitsdirektorin Britta Seeger erklärte in einem internen Interview, dass sich derzeit kein Lösungskorridor abzeichnet.",
-     "Der Betriebsrat und die Gewerkschaft IG Metall kritisierten die Drohungen scharf und kündigten Widerstand an.",
-     "Cem Ince von der Partei Die Linke warf dem Management vor, die Belegschaft für Kapitalinteressen in Geiselhaft zu nehmen.",
-     "Die deutsche Automobilindustrie befindet sich in einer schwierigen Phase mit sinkender Nachfrage und Problemen bei der Elektromobilität.",
-     "Gespräche zwischen dem Vorstand und den Arbeitnehmern sollen fortgesetzt werden, um eine Einigung zu finden."
-    ],
-    "einfach": [
-     "Mercedes-Benz hat finanzielle Probleme und prüft die Schließung von Werken in Deutschland.",
-     "Der Autobauer hat vorerst alle Investitionen an den heimischen Standorten gestoppt.",
-     "Grund dafür sind gesunkene Verkaufszahlen im Ausland und zu hohe Kosten.",
-     "Gewerkschaften und Betriebsräte wollen diesen Sparkurs nicht akzeptieren und wehren sich dagegen.",
-     "Auch andere Firmen in der Automobilindustrie spüren die Krise aktuell deutlich."
-    ]
-   },
-   "kurz": [
-    "Mercedes-Benz prüft Werksschließungen in Deutschland und stoppt Investitionen.",
-    "Als Gründe nennt das Unternehmen sinkende Absatzzahlen in China und hohe Kosten.",
-    "Gewerkschaften und Betriebsräte kündigen Widerstand gegen die Pläne an."
-   ],
-   "fakten": [
-    [
-     "Mitarbeiter bei Mercedes-Benz Ende zweitausendfünfundzwanzig",
-     "rund 164.000"
-    ],
-    [
-     "Mitarbeiter in Deutschland bei Mercedes-Benz",
-     "etwa 108.000"
-    ],
-    [
-     "Werke von Mercedes-Benz in Deutschland",
-     "10 bis 12"
-    ],
-    [
-     "Geplante Senkung der Arbeitskosten nach Vorstandsziel",
-     "20 Prozent"
-    ]
-   ],
-   "dossier": {
-    "slug": "krise-der-automobilindustrie",
-    "titel": "Krise der Automobilindustrie"
-   },
-   "bildInfo": {
-    "titel": "Ola Källenius - Daimler Genf 2019 1Y7A5215.jpg",
-    "beschreibung": "Ola Källenius at Geneva Motor Show 2019",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg/1280px-Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
-    "urheber": "Alexander Migl",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "art": "person",
-    "suchbegriff": "Ola Källenius",
-    "bildunterschrift": "Ola Källenius, Vorstandsvorsitzender von Mercedes-Benz, bei einer Automobilausstellung im Jahr 2019.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Ola Källenius - Daimler Genf 2019 1Y7A5215.jpg",
-     "beschreibung": "Ola Källenius at Geneva Motor Show 2019",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg/1280px-Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Ola_K%C3%A4llenius_-_Daimler_Genf_2019_1Y7A5215.jpg",
-     "urheber": "Alexander Migl",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "person",
-     "suchbegriff": "Ola Källenius",
-     "bildunterschrift": "Ola Källenius, Vorstandsvorsitzender von Mercedes-Benz, bei einer Automobilausstellung im Jahr 2019.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Mercedes-Benz Werk Untertürkheim Neckarpark Stuttgart 2015 02.jpg",
-     "beschreibung": "Mercedes-Benz Werk Untertürkheim (Werk 1/Konzernzentrale Daimler AG), Neckarpark, Mercedes-Benz Arena in Stuttgart.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg/1280px-Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_Werk_Untert%C3%BCrkheim_Neckarpark_Stuttgart_2015_02.jpg",
-     "urheber": "Julian Herzog ( Website )",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "art": "institution",
-     "suchbegriff": "Mercedes-Benz headquarters Stuttgart",
-     "bildunterschrift": "Das Mercedes-Benz Werk in Stuttgart-Untertürkheim als Standort des Unternehmens.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Stuttgart, Deutschland",
-    "lat": 48.778,
-    "lon": 9.18
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Der Autobauer Mercedes-Benz prüft nach Medienberichten Werksschließungen in Deut",
-     "d": "6c0a0a37cb.mp3",
-     "l": 70.63,
-     "s": [
-      0.25,
-      7.47,
-      13.85,
-      20.59,
-      27.24,
-      34.99,
-      42.19,
-      48.98,
-      55.76,
-      64.06
-     ]
-    },
-    {
-     "k": "Der Autobauer Mercedes-Benz prüft wegen sinkender Erträge Werksschließungen in D",
-     "d": "89a5605c92.mp3",
-     "l": 15.83,
-     "s": [
-      0.25,
-      5.18,
-      9.92
-     ]
-    },
-    {
-     "k": "Mercedes-Benz hat finanzielle Probleme und prüft die Schließung von Werken in De",
-     "d": "abe8a513d1.mp3",
-     "l": 28.32,
-     "s": [
-      0.25,
-      5.95,
-      11.41,
-      16.43,
-      22.72
-     ]
-    },
-    {
-     "k": "Welche konkreten Standorte von Schließungen betroffen sein könnten, ist laut taz",
-     "d": "441557661b.mp3",
-     "l": 6.26,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Betriebsrat? Eine gewählte Vertretung der Arbeitnehmer i",
-     "d": "710f8b344a.mp3",
-     "l": 9.15,
-     "s": [
-      0.25,
-      2.86
-     ]
-    },
-    {
-     "k": "Der Autobauer Mercedes-Benz erwägt laut übereinstimmenden Berichten die Schließu",
-     "d": "430fa24d08.mp3",
-     "l": 48.76,
-     "s": [
-      0.25,
-      6.26,
-      12.84,
-      19.28,
-      25.81,
-      30.85,
-      37.21,
-      41.79
-     ]
-    },
-    {
-     "k": "Laut dem Bericht der taz verhandeln das Management und die Arbeitnehmervertreter",
-     "d": "0f5a91accb.mp3",
-     "l": 57.28,
-     "s": [
-      0.25,
-      7.37,
-      13.46,
-      18.89,
-      26.23,
-      33.17,
-      41.16,
-      49.53
-     ]
-    },
-    {
-     "k": "Die deutsche Automobilindustrie befindet sich in einer wirtschaftlichen Krise. D",
-     "d": "357174a4b4.mp3",
-     "l": 45.82,
-     "s": [
-      0.25,
-      4.99,
-      13.1,
-      19.04,
-      29.28,
-      33.46,
-      39.38
-     ]
-    },
-    {
-     "k": "Ein Betriebsrat ist eine gewählte Vertretung der Arbeitnehmer in einem Betrieb. ",
-     "d": "8466050175.mp3",
-     "l": 20.37,
-     "s": [
-      0.25,
-      4.83,
-      12.52
-     ]
-    },
-    {
-     "k": "Der Betriebsrat und die IG Metall kritisierten die Ankündigungen des Vorstandes ",
-     "d": "2de17e7587.mp3",
-     "l": 36.76,
-     "s": [
-      0.25,
-      8.04,
-      13.06,
-      22.17,
-      30.21
-     ]
-    },
-    {
-     "k": "Das Unternehmen plant, die Situation an den deutschen Standorten weiter zu prüfe",
-     "d": "d4bcfd03d4.mp3",
-     "l": 17.63,
-     "s": [
-      0.25,
-      5.02,
-      13.04
-     ]
-    }
-   ]
-  },
-  {
-   "id": "mercedes-investitionsstopp- deutschland",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-13T16:08:16.000Z",
-   "titel": "Mercedes-Benz stoppt Investitionen an deutschen Standorten und prüft Werksschließungen",
-   "vorspann": "Der Autobauer Mercedes-Benz setzt wegen stockender Sparverhandlungen sämtliche Investitionen in deutsche Standorte aus. Zudem kündigte der Konzern an, die Schließung von Werken konkret zu prüfen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Mercedes-Benz stoppt alle weiteren Investitionen an seinen deutschen Standorten wegen stockender Sparverhandlungen.",
-    "Der Vorstand prüft zudem konkret die Schließung von Werken in Deutschland, um die Kosten zu senken.",
-    "Auslöser sind Gewinneinbrüche im Pkw-Geschäft, ein starker internationaler Wettbewerb und hohe Produktionskosten.",
-    "Arbeitnehmervertretungen und die IG Metall lehnen die geforderte Verlängerung der Arbeitszeit und Einschnitte ab."
-   ],
-   "einig": [
-    [
-     "Mercedes-Benz stoppt Investitionen an deutschen Standorten.",
-     [
-      "Tagesschau/ARD",
-      "Zeit"
-     ]
-    ],
-    [
-     "Der Konzern prüft konkret die Schließung von Werken in Deutschland.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Zeit"
-     ]
-    ],
-    [
-     "Die Verhandlungen über Kostensenkungen und Sparmaßnahmen stocken.",
-     [
-      "Tagesschau/ARD",
-      "Zeit"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Welche konkreten Standorte von einer Schließung betroffen sein könnten, ist noch nicht abschließend entschieden; laut Tagesschau wurden zuvor ein Aufbauwerk und ein Powertrainwerk genannt."
-   ],
-   "positionen": [
-    [
-     "Michael Schiebe (Produktionsvorstand Mercedes-Benz)",
-     "Die Investitionen in deutsche Standorte werden gestoppt, da mit den heutigen Kostenstrukturen und angesichts starker internationaler Konkurrenz kein Investieren möglich ist.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Britta Seeger (Personalvorständin Mercedes-Benz)",
-     "Das Unternehmen ist wegen ausbleibender Entscheidungen gezwungen, Werksschließungen konkret zu prüfen; eine Lohnerhöhung würde die hohen Arbeitskosten weiter belasten.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Betriebsrat und IG Metall",
-     "Die Verlängerung der Arbeitszeit von 35 auf 40 Stunden ohne Lohnausgleich ist eine rote Linie.",
-     "Tagesschau/ARD"
-    ]
-   ],
-   "fehlend": "Stimmen von Arbeitnehmern direkt oder von externen Branchenanalysten.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "12.11.26, 19:44",
-     "fokus": "Ausführliche Hintergrundinformationen und Zitate",
-     "text": "Der Bericht liefert detaillierte Aussagen der Vorstandsmitglieder Michael Schiebe und Britta Seeger. Er beleuchtet umfassend die Positionen von Betriebsrat und IG Metall zur Arbeitszeit.",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 3,
-      "woerter": 535,
-      "satzlaenge": 16,
-      "langeWoerter": 39
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "13.11.26, 17:08",
-     "fokus": "Kurze, prägnante Meldung",
-     "text": "Der Sender fasst die Kernentscheidung des Autoherstellers zusammen, konkret Werksschließungen in Deutschland zu prüfen.",
-     "url": "https://www.deutschlandfunk.de/mercedes-benz-prueft-jetzt-konkret-und-detailliert-werksschliessungen-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "12.11.26, 18:12",
-     "fokus": "Fokus auf Investitionsstopp",
-     "text": "Die Wochenzeitung hebt hervor, dass Mercedes infolge stockender Sparverhandlungen sämtliche neuen Investitionen an deutschen Standorten aussetzt.",
-     "url": "https://www.zeit.de/wirtschaft/2026-11/mercedes-benz-britta-seeger-arbeitskosten-betriebsrat-ig-metall-werksschliessungen",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit",
-     "Während die Tagesschau sehr viele Details, Zitate und Hintergrundinformationen liefert, fassen Deutschlandfunk und Zeit das Geschehen wesentlich kürzer zusammen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Mercedes-Benz-Konzernvorstand, Betriebsrat und IG Metall",
-    "was": "Investitionsstopp und Prüfung von Werksschließungen",
-    "wann": "12. November 2026",
-    "wo": "Deutschland",
-    "wie": "Durch Ankündigung des Konzernvorstands in internen Verhandlungen",
-    "warum": "Wegen stockender Verhandlungen und zu hoher Kostenstrukturen laut Vorstand",
-    "quellenlage": "Tagesschau/ARD, Deutschlandfunk und Zeit"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Der Automobilkonzern Mercedes-Benz hat angekündigt, alle weiteren Investitionen in seine deutschen Standorte vorerst zu stoppen. Gleichzeitig prüft das Unternehmen nach Angaben aus den Berichten nun konkret und detailliert die Schließung von Werken in Deutschland. Dieser Schritt folgt auf Verhandlungen über Kostensenkungen, die laut den Berichten derzeit auf der Stelle treten. Eine Lösung ist nach Angaben des Managements trotz intensiver Gespräche gegenwärtig nicht erkennbar. Der Vorstand begründet das Vorgehen mit den bestehenden Kostenstrukturen, unter denen keine Investitionen in Deutschland möglich seien.",
-      "Die Reaktionen auf Arbeitnehmerseite zeigen einen tiefen Konflikt über die künftige Ausrichtung des Unternehmens. Der Konzern fordert von den Beschäftigten weitreichende Zugeständnisse, darunter die Ausweitung der wöchentlichen Arbeitszeit ohne Lohnausgleich. Laut Tagesschau stand im Raum, die Arbeitszeit von 35 auf 40 Stunden pro Woche zu erhöhen. Für Betriebsrat und die Gewerkschaft IG Metall stellt diese Forderung eine rote Linie dar. Die Verhandlungen sind zudem eingebettet in die laufende Tarifrunde der Metall- und Elektroindustrie, in der die IG Metall fünf Prozent mehr Geld fordert.",
-      "Das Management verweist in diesem Zusammenhang auf die hohen Lohnkosten im internationalen Vergleich. Nach Angaben von Produktionsvorstand Michael Schiebe liegen die Kosten einer Arbeitsstunde in der Produktion in Deutschland teilweise bis zu fünfmal höher als in osteuropäischen Ländern. Sollte keine Einigung erzielt werden, sollen neue Fahrzeugmodelle ausschließlich im Ausland gefertigt werden. Personalvorständin Britta Seeger betonte, das Unternehmen müsse nun prüfen, welche Standorte sich das Unternehmen in Deutschland noch leisten könne. Schließungen sollten zwar vermieden werden, müssten aber als Option weiterverfolgt werden."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Mercedes-Benz betreibt in Deutschland insgesamt ein Dutzend Produktionsstandorte. Im Zentrum der Gespräche steht die sogenannte Produktivitätsoffensive, mit der das Unternehmen seine Ausgaben verringern möchte. Neben der Arbeitszeit will das Management auch an Sonderzahlungen, freiwilligen Leistungen wie der Ergebnisbeteiligung sowie tariflichen Bausteinen wie Urlaubs- und Weihnachtsgeld ansetzen. Die Bedingungen, unter denen die Arbeitszeitverkürzung einst vereinbart worden war, hätten sich nach Ansicht des Vorstands grundlegend verändert. Durch mehr Arbeitsstunden könne die Produktivität gesteigert werden, ohne unmittelbar in die Entgelte der Angestellten einzugreifen.",
-      "Bereits vor einigen Wochen hatte Produktionsvorstand Schiebe die Schließung von zwei deutschen Werken ins Gespräch gebracht. Betroffen wären dabei ein deutsches Aufbauwerk sowie ein deutsches Powertrainwerk, in dem Komponenten für Kraftfahrzeuge hergestellt werden. Als Gründe für die wirtschaftliche Anspannung nannte der Vorstand ein extrem anspruchsvolles Umfeld. Dieses sei geprägt von Zöllen, Preisdruck, einer schwächeren Nachfrage und einem intensiven Wettbewerb, der vor allem aus China ausgeht. Auch BMW hat zuvor einen Gewinneinbruch gemeldet.",
-      "Aufseiten der Führungsebene wird betont, dass auch der Vorstand selbst finanziellen Verzicht leistet. So hätten Führungskräfte bereits bei zwei Entgeltrunden keine Erhöhung erhalten. Die Gewerkschaft argumentiert hingegen, dass eine Tariferhöhung von fünf Prozent notwendig ist, während der Vorstand vor einer weiteren Steigerung der ohnehin hohen Arbeitskosten warnt. Der Konzern benötigt nach eigener Aussage in den Verhandlungen mit dem Betriebsrat dringend eine Entscheidung, da die Situation im Pkw-Geschäft durch Gewinneinbrüche belastet ist."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die aktuellen Entwicklungen bei Mercedes-Benz stehen in einem wirtschaftlich schwierigen Umfeld für Automobilhersteller. Konkurrenten wie BMW verzeichnen ebenfalls Gewinneinbrüche. Internationale Faktoren wie Zölle, ein verändertes Nachfrageverhalten und ein starker Preisdruck auf den globalen Märkten belasten die Bilanzen. Insbesondere der Wettbewerb mit Herstellern aus China verschärft die Situation für die Konzerne.",
-      "Innerhalb der Wirtschaft gibt es Forderungen, dass wieder länger gearbeitet werden muss. Mercedes-Benz versucht durch seine Produktivitätsoffensive, diese Herausforderungen zu bewältigen. Die Gewerkschaften verteidigen jedoch traditionelle Errungenschaften wie die 35-Stunden-Woche. Dies führt zu Spannungen zwischen den Unternehmensleitungen und den Arbeitnehmervertretungen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ein Powertrainwerk ist ein Produktionsstandort, an dem Komponenten für Autos hergestellt werden. Ein Aufbauwerk ist ein Werk, in dem Fahrzeuge aufgebaut werden.",
-      "Tarifverhandlungen sind Verhandlungen zwischen Arbeitgeberverbänden und Gewerkschaften über Löhne, Gehälter und Arbeitsbedingungen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Produktionsvorstand Michael Schiebe erklärte laut Tagesschau, dass der Konzern alle weiteren Investitionen in die deutschen Standorte stoppen werde. Er begründete dies mit den im internationalen Vergleich hohen Lohnkosten und dem intensiven Wettbewerb, insbesondere aus China.",
-      "Personalvorständin Britta Seeger erklärte laut Tagesschau, das Unternehmen sei gezwungen, konkret und detailliert zu prüfen, welche Standorte man sich in Deutschland noch leisten könne. Sie fügte hinzu, dass die Forderung der IG Metall nach fünf Prozent mehr Geld die Arbeitskosten weiter steigern würde.",
-      "Betriebsrat und IG Metall bewerten laut Tagesschau die geforderte Erhöhung der Arbeitszeit ohne Lohnausgleich als rote Linie."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Der Mercedes-Benz-Konzern will die Option von Werksschließungen konkret weiterverfolgen. Gleichzeitig bleiben die Investitionen an den deutschen Standorten so lange ausgesetzt, bis in den Verhandlungen eine Einigung erzielt wird. Sollte es zu keinem Kompromiss kommen, plant das Unternehmen, neue Modelle ausschließlich im Ausland zu fertigen."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Vor wenigen Wochen",
-     "Produktionsvorstand Schiebe brachte die Schließung von zwei Werken in Deutschland ins Gespräch."
-    ],
-    [
-     "12. November 2026",
-     "Der Konzernvorstand kündigt den Investitionsstopp und die Prüfung von Werksschließungen an."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "institution",
-     "suchbegriff": "Mercedes-Benz Logo",
-     "bildunterschrift": ""
-    }
-   ],
-   "ort": {
-    "name": "Stuttgart, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Entfernung von nicht belegten Adjektiven und wertenden Formulierungen im gesamten Artikel, um die Neutralität zu wahren. Korrektur von Zahlen und Belegen entsprechend den mitgelieferten Berichten."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Investition",
-      "Das Anlegen von Geld in ein Unternehmen, zum Beispiel für neue Maschinen oder Gebäude."
-     ],
-     [
-      "Gewerkschaft",
-      "Eine Organisation von Arbeitnehmern, die sich für bessere Löhne und Arbeitsbedingungen einsetzt."
-     ]
-    ],
-    "fragen": [
-     "Welche Argumente nennen die Unternehmensleitung und die Arbeitnehmerseite in den Verhandlungen?",
-     "Welche Folgen könnte der Investitionsstopp für die Regionen der deutschen Standorte haben?"
-    ],
-    "quiz": [
-     {
-      "frage": "Was hat der Vorstand von Mercedes-Benz am zwölften November angekündigt?",
-      "optionen": [
-       "Alle Investitionen in deutsche Standorte werden gestoppt",
-       "Alle Fabriken in Deutschland werden sofort geschlossen",
-       "Die Löhne aller Mitarbeiter werden um zwanzig Prozent erhöht"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Tagesschau und Zeit hat der Vorstand alle Investitionen in deutsche Standorte auf Eis gelegt."
-     },
-     {
-      "frage": "Welche Forderung stellt das Management an die Beschäftigten?",
-      "optionen": [
-       "Kürzere Arbeitszeiten bei gleichen Löhnen",
-       "Länger arbeiten ohne Lohnausgleich",
-       "Keine Arbeit an Wochenenden"
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut Tagesschau fordert der Vorstand, dass Beschäftigte ohne Lohnausgleich länger arbeiten sollen."
-     },
-     {
-      "frage": "Wie begründet der Vorstand die Maßnahmen?",
-      "optionen": [
-       "Durch Gewinneinbrüche und hohe Kostenstrukturen im internationalen Vergleich",
-       "Durch neue Gesetze der Bundesregierung",
-       "Durch den Wunsch nach einem Umzug ins Ausland"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Tagesschau begründet der Vorstand den Schritt mit Gewinneinbrüchen, hohem Preisdruck und hohen Kosten in Deutschland."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Der Autobauer Mercedes-Benz stoppt vorerst alle Investitionen in deutsche Standorte. Grund dafür sind schwierige Verhandlungen über Sparmaßnahmen.",
-    "absaetze": [
-     "Das Unternehmen will Kosten senken und prüft nun auch die Schließung von Werken in Deutschland. Nach Angaben des Vorstandes gibt es trotz vieler Gespräche noch keine Lösung.",
-     "Der Vorstand fordert von den Beschäftigten, dass sie länger arbeiten, ohne dafür mehr Geld zu bekommen. Im Gespräch ist eine Arbeitszeit von vierzig statt fünfunddreißig Stunden in der Woche.",
-     "Der Betriebsrat und die Gewerkschaft IG Metall lehnen diese Forderung ab. Die IG Metall fordert in einer Tarifrunde zudem fünf Prozent mehr Geld für die Beschäftigten."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Der Autohersteller Mercedes-Benz stoppt alle neuen Investitionen in Deutschland.",
-     "Grund sind stockende Verhandlungen über Einsparungen mit dem Betriebsrat.",
-     "Der Vorstand prüft nun konkret die Schließung von Werken."
-    ],
-    "lang": [
-     "Der Automobilkonzern Mercedes-Benz stoppt alle weiteren Investitionen in deutsche Standorte.",
-     "Das teilte das Unternehmen am zwölften November des Jahres zweitausendsechsundzwanzig mit.",
-     "Grund sind stockende Verhandlungen über Kostensenkungen mit dem Betriebsrat und der Gewerkschaft.",
-     "Der Vorstand fordert von den Mitarbeitern längere Arbeitszeiten ohne zusätzlichen Lohnausgleich.",
-     "Nach Angaben von Produktionsvorstand Michael Schiebe sind die Kosten an deutschen Standorten im internationalen Vergleich zu hoch.",
-     "Personalvorständin Britta Seeger erklärte, das Unternehmen müsse nun prüfen, welche Standorte man sich noch leisten könne.",
-     "Der Betriebsrat und die IG Metall lehnen längere Arbeitszeiten als rote Linie ab.",
-     "Konkurrenten wie BMW verzeichnen ebenfalls Gewinneinbrüche.",
-     "Das Unternehmen will so lange nicht in Deutschland investieren, bis eine Einigung erzielt wird."
-    ],
-    "einfach": [
-     "Mercedes-Benz stoppt alle neuen Investitionen an deutschen Standorten.",
-     "Grund sind schwierige Verhandlungen über Sparmaßnahmen.",
-     "Der Vorstand prüft nun die Schließung von Werken.",
-     "Arbeitnehmer und Gewerkschaften lehnen längere Arbeitszeiten ab."
-    ]
-   },
-   "kurz": [
-    "Der Autohersteller Mercedes-Benz stoppt alle Investitionen in deutsche Standorte.",
-    "Grund sind stockende Verhandlungen über Kostensenkungen mit dem Betriebsrat und der Gewerkschaft.",
-    "Der Konzern prüft nun konkret die Schließung von Werken in Deutschland."
-   ],
-   "fakten": [
-    [
-     "Mitarbeiter-Gewerkschaftsforderung IG Metall",
-     "fünf Prozent mehr Geld"
-    ],
-    [
-     "Datum der Ankündigung",
-     "12. November 2026"
-    ]
-   ],
-   "dossier": {
-    "slug": "mercedes-benz-sparverhandlungen",
-    "titel": "Sparverhandlungen und Investitionsstopp bei Mercedes-Benz"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Stuttgart, Deutschland",
-    "lat": 48.778,
-    "lon": 9.18
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Der Automobilkonzern Mercedes-Benz stoppt alle weiteren Investitionen in deutsch",
-     "d": "f437d25629.mp3",
-     "l": 52.48,
-     "s": [
-      0.25,
-      6.34,
-      11.75,
-      17.18,
-      22.76,
-      30.26,
-      37.4,
-      42.88,
-      46.84
-     ]
-    },
-    {
-     "k": "Der Autohersteller Mercedes-Benz stoppt alle neuen Investitionen in Deutschland.",
-     "d": "eeb61b80bd.mp3",
-     "l": 12.57,
-     "s": [
-      0.25,
-      4.93,
-      9.07
-     ]
-    },
-    {
-     "k": "Mercedes-Benz stoppt alle neuen Investitionen an deutschen Standorten. Grund sin",
-     "d": "cd8df755d7.mp3",
-     "l": 16.62,
-     "s": [
-      0.25,
-      5.44,
-      8.95,
-      12.09
-     ]
-    },
-    {
-     "k": "Welche konkreten Standorte von einer Schließung betroffen sein könnten, ist noch",
-     "d": "0a265b45a6.mp3",
-     "l": 10.2,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Investition? Das Anlegen von Geld in ein Unternehmen, zu",
-     "d": "1d4fbb7e47.mp3",
-     "l": 8.07,
-     "s": [
-      0.25,
-      2.62
-     ]
-    },
-    {
-     "k": "Der Automobilkonzern Mercedes-Benz hat angekündigt, alle weiteren Investitionen ",
-     "d": "2696d324eb.mp3",
-     "l": 55.48,
-     "s": [
-      0.25,
-      8.04,
-      15.05,
-      20.86,
-      27.04,
-      34.57,
-      40.8,
-      48.7
-     ]
-    },
-    {
-     "k": "Mercedes-Benz betreibt in Deutschland insgesamt ein Dutzend Produktionsstandorte",
-     "d": "9fa484ee89.mp3",
-     "l": 59.09,
-     "s": [
-      0.25,
-      5.07,
-      12.48,
-      23.14,
-      30.75,
-      38.47,
-      45.15,
-      53.16
-     ]
-    },
-    {
-     "k": "Die aktuellen Entwicklungen bei Mercedes-Benz stehen in einem wirtschaftlich sch",
-     "d": "d78e20dde1.mp3",
-     "l": 45.42,
-     "s": [
-      0.25,
-      6.5,
-      10.39,
-      18.89,
-      24.28,
-      28.78,
-      34.39,
-      40.46
-     ]
-    },
-    {
-     "k": "Ein Powertrainwerk ist ein Produktionsstandort, an dem Komponenten für Autos her",
-     "d": "1ff2d4b805.mp3",
-     "l": 17.01,
-     "s": [
-      0.25,
-      5.54,
-      9.25
-     ]
-    },
-    {
-     "k": "Produktionsvorstand Michael Schiebe erklärte laut Tagesschau, dass der Konzern a",
-     "d": "5f102d9423.mp3",
-     "l": 40.98,
-     "s": [
-      0.25,
-      8.96,
-      16.16,
-      26.31,
-      33.04
-     ]
-    },
-    {
-     "k": "Der Mercedes-Benz-Konzern will die Option von Werksschließungen konkret weiterve",
-     "d": "191f748c48.mp3",
-     "l": 19.78,
-     "s": [
-      0.25,
-      5.49,
-      13.27
-     ]
-    }
-   ],
-   "bildVersucht": true
   }
  ]
 }
