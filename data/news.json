@@ -2249,7 +2249,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 9 und 14 Grad. Die Vorhersage für morgen, ",
+   "d": "53c9691950.mp3",
+   "l": 19.89,
+   "s": [
+    0.25,
+    3.72,
+    10.57,
+    13.91,
+    17.2
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
