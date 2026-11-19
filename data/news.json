@@ -1,9 +1,6 @@
 {
- "stand": "2026-11-18T21:53:09.380Z",
+ "stand": "2026-11-19T12:55:47.128Z",
  "gepusht": [
-  "lufthansa-tap-portugal",
-  "iran-spionage-hamburg-urteil",
-  "eu-haushalt-streit-merz",
   "grundschul-schiesserei-oregon",
   "tabaksteuer-erhoehung-bundestag",
   "fruehstartrente-bundestag",
@@ -80,16 +77,22 @@
   "mercedes-investitionsstopp- deutschland",
   "nato-beitritt-ukraine-gebietsverzicht",
   "flugstopp-usa-technische-panne",
-  "abschiebezentrum-ruanda"
+  "abschiebezentrum-ruanda",
+  "voelkermord-rohingya",
+  "gipfel-in-shenzhen",
+  "commerzbank-uebernahme"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
-  "abschiebezentrum-ruanda"
+  "abschiebezentrum-ruanda",
+  "voelkermord-rohingya",
+  "gipfel-in-shenzhen",
+  "commerzbank-uebernahme"
  ],
  "wetter": {
-  "stand": "2026-11-18T21:53:09.380Z",
-  "morgenTag": "Donnerstag",
+  "stand": "2026-11-19T12:55:47.128Z",
+  "morgenTag": "Freitag",
   "orte": [
    {
     "name": "Hamburg",
@@ -97,78 +100,65 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 7,
-     "code": 3,
-     "gefuehlt": 3,
-     "wind": 15,
-     "windAus": 292,
-     "feuchte": 82,
-     "druck": 985,
-     "niederschlag": 0,
-     "tag": 0
+     "grad": 5,
+     "code": 61,
+     "gefuehlt": 2,
+     "wind": 12,
+     "windAus": 54,
+     "feuchte": 91,
+     "druck": 984,
+     "niederschlag": 0.2,
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 80,
-     "max": 9,
-     "min": 6,
-     "regen": 95,
-     "menge": 12.1,
-     "wind": 28,
-     "windAus": 241,
-     "uv": 0.5,
-     "auf": "07:51",
-     "unter": "16:18"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 61,
-     "max": 6,
+     "max": 7,
      "min": 4,
-     "regen": 80,
-     "menge": 12.5,
-     "wind": 13,
-     "windAus": 53,
-     "uv": 0.2,
+     "regen": 100,
+     "menge": 14.7,
+     "wind": 14,
+     "windAus": 42,
+     "uv": 0.1,
      "auf": "07:53",
      "unter": "16:17"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 80,
+     "max": 4,
+     "min": -1,
+     "regen": 13,
+     "menge": 0.1,
+     "wind": 13,
+     "windAus": 252,
+     "uv": 1.3,
+     "auf": "07:54",
+     "unter": "16:15"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 80,
-      "max": 9,
-      "min": 6,
-      "regen": 95,
-      "menge": 12.1,
-      "wind": 28,
-      "windAus": 241,
-      "uv": 0.5,
-      "auf": "07:51",
-      "unter": "16:18"
-     },
      {
       "datum": "2026-11-19",
       "code": 61,
-      "max": 6,
+      "max": 7,
       "min": 4,
-      "regen": 80,
-      "menge": 12.5,
-      "wind": 13,
-      "windAus": 53,
-      "uv": 0.2,
+      "regen": 100,
+      "menge": 14.7,
+      "wind": 14,
+      "windAus": 42,
+      "uv": 0.1,
       "auf": "07:53",
       "unter": "16:17"
      },
      {
       "datum": "2026-11-20",
-      "code": 51,
-      "max": 5,
-      "min": 1,
-      "regen": 20,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 299,
+      "code": 80,
+      "max": 4,
+      "min": -1,
+      "regen": 13,
+      "menge": 0.1,
+      "wind": 13,
+      "windAus": 252,
       "uv": 1.3,
       "auf": "07:54",
       "unter": "16:15"
@@ -177,199 +167,212 @@
       "datum": "2026-11-21",
       "code": 80,
       "max": 7,
-      "min": 1,
-      "regen": 35,
-      "menge": 1,
-      "wind": 13,
-      "windAus": 270,
+      "min": 2,
+      "regen": 75,
+      "menge": 2.4,
+      "wind": 17,
+      "windAus": 263,
       "uv": 1.2,
       "auf": "07:56",
       "unter": "16:14"
      },
      {
       "datum": "2026-11-22",
-      "code": 3,
-      "max": 5,
+      "code": 2,
+      "max": 6,
       "min": 0,
-      "regen": 14,
+      "regen": 10,
       "menge": 0,
-      "wind": 7,
-      "windAus": 337,
+      "wind": 12,
+      "windAus": 296,
       "uv": 1.2,
       "auf": "07:58",
       "unter": "16:13"
      },
      {
       "datum": "2026-11-23",
-      "code": 3,
+      "code": 2,
       "max": 3,
-      "min": -1,
-      "regen": 0,
+      "min": 0,
+      "regen": 10,
       "menge": 0,
-      "wind": 8,
-      "windAus": 285,
-      "uv": 1.2,
+      "wind": 10,
+      "windAus": 304,
+      "uv": 0.3,
       "auf": "08:00",
       "unter": "16:12"
      },
      {
       "datum": "2026-11-24",
-      "code": 45,
-      "max": 0,
+      "code": 3,
+      "max": 2,
       "min": -2,
-      "regen": 9,
+      "regen": 17,
       "menge": 0,
-      "wind": 5,
-      "windAus": 231,
-      "uv": 0.5,
+      "wind": 15,
+      "windAus": 110,
+      "uv": 1.1,
       "auf": "08:01",
       "unter": "16:11"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 3,
+      "max": 2,
+      "min": 0,
+      "regen": 30,
+      "menge": 0,
+      "wind": 15,
+      "windAus": 112,
+      "uv": 1.1,
+      "auf": "08:03",
+      "unter": "16:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "23:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 5,
-      "code": 45,
-      "regen": 5
-     },
-     {
-      "zeit": "06:00",
-      "grad": 5,
-      "code": 45,
-      "regen": 8
-     },
-     {
-      "zeit": "07:00",
-      "grad": 5,
-      "code": 45,
-      "regen": 10
-     },
-     {
-      "zeit": "08:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 28
-     },
-     {
-      "zeit": "09:00",
-      "grad": 5,
-      "code": 61,
-      "regen": 20
-     },
-     {
-      "zeit": "10:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 28
-     },
-     {
-      "zeit": "11:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 30
-     },
-     {
-      "zeit": "12:00",
-      "grad": 6,
-      "code": 61,
-      "regen": 25
-     },
-     {
       "zeit": "13:00",
-      "grad": 6,
+      "grad": 5,
       "code": 61,
-      "regen": 45
+      "regen": 100
      },
      {
       "zeit": "14:00",
       "grad": 5,
       "code": 61,
-      "regen": 68
+      "regen": 100
      },
      {
       "zeit": "15:00",
       "grad": 5,
       "code": 61,
-      "regen": 73
+      "regen": 100
      },
      {
       "zeit": "16:00",
-      "grad": 5,
+      "grad": 4,
       "code": 61,
-      "regen": 75
+      "regen": 100
      },
      {
       "zeit": "17:00",
       "grad": 4,
       "code": 61,
-      "regen": 80
+      "regen": 100
      },
      {
       "zeit": "18:00",
       "grad": 4,
       "code": 61,
-      "regen": 75
+      "regen": 98
      },
      {
       "zeit": "19:00",
       "grad": 4,
       "code": 61,
-      "regen": 70
+      "regen": 80
      },
      {
       "zeit": "20:00",
       "grad": 4,
       "code": 61,
-      "regen": 55
+      "regen": 73
      },
      {
       "zeit": "21:00",
       "grad": 4,
       "code": 61,
-      "regen": 45
+      "regen": 50
+     },
+     {
+      "zeit": "22:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 33
+     },
+     {
+      "zeit": "23:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "00:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 13
+     },
+     {
+      "zeit": "01:00",
+      "grad": 3,
+      "code": 1,
+      "regen": 3
+     },
+     {
+      "zeit": "02:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": 0,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 0,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 0,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": -1,
+      "code": 45,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -380,278 +383,278 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 9,
-     "code": 3,
-     "gefuehlt": 4,
-     "wind": 25,
-     "windAus": 261,
-     "feuchte": 71,
+     "code": 61,
+     "gefuehlt": 6,
+     "wind": 16,
+     "windAus": 153,
+     "feuchte": 91,
      "druck": 983,
-     "niederschlag": 0,
-     "tag": 0
+     "niederschlag": 0.5,
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 61,
-     "max": 12,
-     "min": 8,
-     "regen": 95,
-     "menge": 4.2,
-     "wind": 28,
-     "windAus": 232,
-     "uv": 0.8,
-     "auf": "07:33",
-     "unter": "16:09"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 80,
      "max": 10,
      "min": 6,
-     "regen": 93,
-     "menge": 7.8,
-     "wind": 23,
-     "windAus": 239,
-     "uv": 1.2,
+     "regen": 100,
+     "menge": 8.4,
+     "wind": 22,
+     "windAus": 233,
+     "uv": 0.7,
      "auf": "07:34",
      "unter": "16:08"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 61,
+     "max": 6,
+     "min": 2,
+     "regen": 43,
+     "menge": 0.5,
+     "wind": 12,
+     "windAus": 303,
+     "uv": 1.4,
+     "auf": "07:36",
+     "unter": "16:06"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 61,
-      "max": 12,
-      "min": 8,
-      "regen": 95,
-      "menge": 4.2,
-      "wind": 28,
-      "windAus": 232,
-      "uv": 0.8,
-      "auf": "07:33",
-      "unter": "16:09"
-     },
      {
       "datum": "2026-11-19",
       "code": 80,
       "max": 10,
       "min": 6,
-      "regen": 93,
-      "menge": 7.8,
-      "wind": 23,
-      "windAus": 239,
-      "uv": 1.2,
+      "regen": 100,
+      "menge": 8.4,
+      "wind": 22,
+      "windAus": 233,
+      "uv": 0.7,
       "auf": "07:34",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-20",
-      "code": 80,
-      "max": 9,
+      "code": 61,
+      "max": 6,
       "min": 2,
-      "regen": 38,
-      "menge": 2,
+      "regen": 43,
+      "menge": 0.5,
       "wind": 12,
-      "windAus": 321,
-      "uv": 1.3,
+      "windAus": 303,
+      "uv": 1.4,
       "auf": "07:36",
       "unter": "16:06"
      },
      {
       "datum": "2026-11-21",
       "code": 3,
-      "max": 6,
-      "min": 0,
-      "regen": 16,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 262,
+      "max": 7,
+      "min": 1,
+      "regen": 20,
+      "menge": 0.2,
+      "wind": 17,
+      "windAus": 268,
       "uv": 1.3,
       "auf": "07:38",
       "unter": "16:05"
      },
      {
       "datum": "2026-11-22",
-      "code": 3,
-      "max": 5,
-      "min": 0,
-      "regen": 16,
-      "menge": 0.3,
-      "wind": 12,
-      "windAus": 309,
+      "code": 61,
+      "max": 6,
+      "min": 1,
+      "regen": 19,
+      "menge": 0.7,
+      "wind": 15,
+      "windAus": 280,
       "uv": 1.3,
       "auf": "07:40",
       "unter": "16:04"
      },
      {
       "datum": "2026-11-23",
-      "code": 2,
+      "code": 3,
       "max": 3,
-      "min": -1,
-      "regen": 2,
+      "min": 0,
+      "regen": 16,
       "menge": 0,
-      "wind": 12,
-      "windAus": 282,
+      "wind": 14,
+      "windAus": 283,
       "uv": 1.3,
       "auf": "07:41",
       "unter": "16:03"
      },
      {
       "datum": "2026-11-24",
-      "code": 2,
-      "max": 2,
+      "code": 3,
+      "max": 1,
       "min": -1,
-      "regen": 4,
+      "regen": 7,
       "menge": 0,
       "wind": 10,
-      "windAus": 276,
+      "windAus": 235,
       "uv": 1.2,
       "auf": "07:43",
       "unter": "16:02"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 3,
+      "max": 3,
+      "min": 0,
+      "regen": 14,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 111,
+      "uv": 1.2,
+      "auf": "07:45",
+      "unter": "16:01"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "00:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "02:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "07:00",
-      "grad": 6,
-      "code": 2,
-      "regen": 20
-     },
-     {
-      "zeit": "08:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "09:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "10:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "12:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "13:00",
       "grad": 9,
       "code": 61,
-      "regen": 13
+      "regen": 83
      },
      {
       "zeit": "14:00",
       "grad": 9,
       "code": 61,
-      "regen": 40
+      "regen": 100
      },
      {
       "zeit": "15:00",
       "grad": 9,
       "code": 61,
-      "regen": 70
+      "regen": 98
      },
      {
       "zeit": "16:00",
-      "grad": 9,
+      "grad": 10,
       "code": 61,
-      "regen": 80
+      "regen": 93
      },
      {
       "zeit": "17:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 93
+      "grad": 10,
+      "code": 80,
+      "regen": 78
      },
      {
       "zeit": "18:00",
       "grad": 10,
       "code": 61,
-      "regen": 88
+      "regen": 50
      },
      {
       "zeit": "19:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 85
+      "grad": 10,
+      "code": 2,
+      "regen": 30
      },
      {
       "zeit": "20:00",
       "grad": 9,
-      "code": 80,
-      "regen": 75
+      "code": 3,
+      "regen": 20
      },
      {
       "zeit": "21:00",
       "grad": 9,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "22:00",
+      "grad": 7,
       "code": 80,
-      "regen": 78
+      "regen": 35
+     },
+     {
+      "zeit": "23:00",
+      "grad": 7,
+      "code": 80,
+      "regen": 35
+     },
+     {
+      "zeit": "00:00",
+      "grad": 6,
+      "code": 61,
+      "regen": 43
+     },
+     {
+      "zeit": "01:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 38
+     },
+     {
+      "zeit": "02:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "03:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 28
+     },
+     {
+      "zeit": "04:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "05:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 30
+     },
+     {
+      "zeit": "06:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "07:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "08:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "09:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 5
+     },
+     {
+      "zeit": "10:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "11:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 5
+     },
+     {
+      "zeit": "12:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 3
      }
     ]
    },
@@ -661,79 +664,66 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 9,
-     "code": 3,
-     "gefuehlt": 6,
-     "wind": 17,
-     "windAus": 262,
-     "feuchte": 75,
-     "druck": 977,
-     "niederschlag": 0,
-     "tag": 0
+     "grad": 10,
+     "code": 61,
+     "gefuehlt": 8,
+     "wind": 12,
+     "windAus": 201,
+     "feuchte": 84,
+     "druck": 974,
+     "niederschlag": 0.2,
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 80,
-     "max": 13,
-     "min": 9,
-     "regen": 90,
-     "menge": 1.6,
-     "wind": 21,
-     "windAus": 234,
-     "uv": 1,
-     "auf": "07:32",
-     "unter": "16:17"
-    },
-    "morgen": {
      "datum": "2026-11-19",
-     "code": 61,
+     "code": 80,
      "max": 11,
      "min": 8,
-     "regen": 90,
-     "menge": 5.2,
-     "wind": 17,
-     "windAus": 222,
-     "uv": 0.7,
+     "regen": 100,
+     "menge": 3.6,
+     "wind": 16,
+     "windAus": 219,
+     "uv": 0.5,
      "auf": "07:34",
      "unter": "16:16"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 61,
+     "max": 10,
+     "min": 3,
+     "regen": 80,
+     "menge": 1.3,
+     "wind": 16,
+     "windAus": 295,
+     "uv": 0.4,
+     "auf": "07:36",
+     "unter": "16:15"
+    },
     "tage": [
      {
-      "datum": "2026-11-18",
-      "code": 80,
-      "max": 13,
-      "min": 9,
-      "regen": 90,
-      "menge": 1.6,
-      "wind": 21,
-      "windAus": 234,
-      "uv": 1,
-      "auf": "07:32",
-      "unter": "16:17"
-     },
-     {
       "datum": "2026-11-19",
-      "code": 61,
+      "code": 80,
       "max": 11,
       "min": 8,
-      "regen": 90,
-      "menge": 5.2,
-      "wind": 17,
-      "windAus": 222,
-      "uv": 0.7,
+      "regen": 100,
+      "menge": 3.6,
+      "wind": 16,
+      "windAus": 219,
+      "uv": 0.5,
       "auf": "07:34",
       "unter": "16:16"
      },
      {
       "datum": "2026-11-20",
       "code": 61,
-      "max": 9,
-      "min": 4,
-      "regen": 70,
-      "menge": 8.8,
-      "wind": 14,
-      "windAus": 283,
-      "uv": 0.3,
+      "max": 10,
+      "min": 3,
+      "regen": 80,
+      "menge": 1.3,
+      "wind": 16,
+      "windAus": 295,
+      "uv": 0.4,
       "auf": "07:36",
       "unter": "16:15"
      },
@@ -742,24 +732,24 @@
       "code": 3,
       "max": 7,
       "min": 1,
-      "regen": 21,
+      "regen": 3,
       "menge": 0,
-      "wind": 12,
-      "windAus": 258,
-      "uv": 1.5,
+      "wind": 14,
+      "windAus": 248,
+      "uv": 1.4,
       "auf": "07:37",
       "unter": "16:14"
      },
      {
       "datum": "2026-11-22",
       "code": 3,
-      "max": 5,
+      "max": 6,
       "min": 0,
-      "regen": 7,
+      "regen": 8,
       "menge": 0,
-      "wind": 9,
-      "windAus": 305,
-      "uv": 1.2,
+      "wind": 10,
+      "windAus": 266,
+      "uv": 1.3,
       "auf": "07:39",
       "unter": "16:13"
      },
@@ -768,10 +758,10 @@
       "code": 85,
       "max": 3,
       "min": -1,
-      "regen": 8,
-      "menge": 0.4,
+      "regen": 20,
+      "menge": 1.2,
       "wind": 10,
-      "windAus": 280,
+      "windAus": 273,
       "uv": 1.4,
       "auf": "07:40",
       "unter": "16:12"
@@ -779,161 +769,174 @@
      {
       "datum": "2026-11-24",
       "code": 3,
-      "max": 2,
-      "min": -2,
-      "regen": 8,
-      "menge": 0.2,
-      "wind": 10,
-      "windAus": 267,
+      "max": 3,
+      "min": -3,
+      "regen": 9,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 121,
       "uv": 1.4,
       "auf": "07:42",
       "unter": "16:11"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 3,
+      "max": 5,
+      "min": 0,
+      "regen": 25,
+      "menge": 0.6,
+      "wind": 8,
+      "windAus": 109,
+      "uv": 1.3,
+      "auf": "07:44",
+      "unter": "16:10"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 20
-     },
-     {
-      "zeit": "01:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 28
-     },
-     {
-      "zeit": "02:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 33
-     },
-     {
-      "zeit": "03:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 28
-     },
-     {
-      "zeit": "04:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 18
-     },
-     {
-      "zeit": "05:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "06:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 8
-     },
-     {
-      "zeit": "07:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "08:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "10:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 15
-     },
-     {
-      "zeit": "11:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 35
-     },
-     {
-      "zeit": "12:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 70
-     },
-     {
       "zeit": "13:00",
-      "grad": 10,
+      "grad": 11,
       "code": 61,
-      "regen": 88
+      "regen": 93
      },
      {
       "zeit": "14:00",
       "grad": 10,
       "code": 61,
-      "regen": 90
+      "regen": 80
      },
      {
       "zeit": "15:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 83
+      "grad": 11,
+      "code": 3,
+      "regen": 45
      },
      {
       "zeit": "16:00",
       "grad": 11,
-      "code": 61,
-      "regen": 65
+      "code": 80,
+      "regen": 15
      },
      {
       "zeit": "17:00",
       "grad": 10,
-      "code": 3,
-      "regen": 65
+      "code": 2,
+      "regen": 15
      },
      {
       "zeit": "18:00",
       "grad": 10,
       "code": 3,
-      "regen": 53
+      "regen": 20
      },
      {
       "zeit": "19:00",
       "grad": 10,
-      "code": 1,
-      "regen": 48
+      "code": 61,
+      "regen": 45
      },
      {
       "zeit": "20:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 58
+     },
+     {
+      "zeit": "21:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 78
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 88
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 80,
+      "regen": 63
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 80
+     },
+     {
+      "zeit": "01:00",
       "grad": 9,
+      "code": 3,
+      "regen": 73
+     },
+     {
+      "zeit": "02:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 70
+     },
+     {
+      "zeit": "03:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 53
+     },
+     {
+      "zeit": "04:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 48
+     },
+     {
+      "zeit": "05:00",
+      "grad": 6,
+      "code": 51,
+      "regen": 50
+     },
+     {
+      "zeit": "06:00",
+      "grad": 5,
       "code": 3,
       "regen": 50
      },
      {
-      "zeit": "21:00",
-      "grad": 9,
+      "zeit": "07:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 38
+     },
+     {
+      "zeit": "08:00",
+      "grad": 5,
       "code": 61,
       "regen": 38
+     },
+     {
+      "zeit": "09:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 15
+     },
+     {
+      "zeit": "10:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 30
+     },
+     {
+      "zeit": "11:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 23
+     },
+     {
+      "zeit": "12:00",
+      "grad": 5,
+      "code": 61,
+      "regen": 28
      }
     ]
    },
@@ -943,92 +946,79 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 11,
-     "code": 1,
-     "gefuehlt": 8,
+     "grad": 12,
+     "code": 3,
+     "gefuehlt": 9,
      "wind": 13,
-     "windAus": 228,
-     "feuchte": 80,
-     "druck": 985,
+     "windAus": 232,
+     "feuchte": 74,
+     "druck": 981,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 53,
-     "max": 13,
-     "min": 9,
-     "regen": 100,
-     "menge": 2.7,
-     "wind": 27,
-     "windAus": 243,
-     "uv": 0.4,
-     "auf": "07:53",
-     "unter": "16:41"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 63,
      "max": 12,
      "min": 9,
      "regen": 100,
-     "menge": 10.1,
-     "wind": 20,
-     "windAus": 213,
-     "uv": 1.6,
+     "menge": 14,
+     "wind": 19,
+     "windAus": 209,
+     "uv": 0.9,
      "auf": "07:54",
      "unter": "16:39"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 61,
+     "max": 10,
+     "min": 3,
+     "regen": 93,
+     "menge": 18.6,
+     "wind": 16,
+     "windAus": 314,
+     "uv": 0.3,
+     "auf": "07:56",
+     "unter": "16:38"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 53,
-      "max": 13,
-      "min": 9,
-      "regen": 100,
-      "menge": 2.7,
-      "wind": 27,
-      "windAus": 243,
-      "uv": 0.4,
-      "auf": "07:53",
-      "unter": "16:41"
-     },
      {
       "datum": "2026-11-19",
       "code": 63,
       "max": 12,
       "min": 9,
       "regen": 100,
-      "menge": 10.1,
-      "wind": 20,
-      "windAus": 213,
-      "uv": 1.6,
+      "menge": 14,
+      "wind": 19,
+      "windAus": 209,
+      "uv": 0.9,
       "auf": "07:54",
       "unter": "16:39"
      },
      {
       "datum": "2026-11-20",
-      "code": 63,
+      "code": 61,
       "max": 10,
-      "min": 4,
-      "regen": 77,
-      "menge": 13.9,
-      "wind": 18,
-      "windAus": 298,
-      "uv": 0.2,
+      "min": 3,
+      "regen": 93,
+      "menge": 18.6,
+      "wind": 16,
+      "windAus": 314,
+      "uv": 0.3,
       "auf": "07:56",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-21",
-      "code": 53,
+      "code": 51,
       "max": 8,
-      "min": 1,
-      "regen": 27,
-      "menge": 3.4,
-      "wind": 10,
-      "windAus": 257,
-      "uv": 1.4,
+      "min": 0,
+      "regen": 18,
+      "menge": 0.1,
+      "wind": 11,
+      "windAus": 258,
+      "uv": 1.5,
       "auf": "07:57",
       "unter": "16:37"
      },
@@ -1037,185 +1027,198 @@
       "code": 45,
       "max": 6,
       "min": -1,
-      "regen": 18,
+      "regen": 6,
       "menge": 0,
       "wind": 9,
-      "windAus": 115,
-      "uv": 1.5,
+      "windAus": 80,
+      "uv": 1.4,
       "auf": "07:59",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-23",
       "code": 3,
-      "max": 3,
+      "max": 4,
       "min": -2,
-      "regen": 14,
+      "regen": 5,
       "menge": 0,
-      "wind": 7,
-      "windAus": 7,
+      "wind": 10,
+      "windAus": 337,
       "uv": 1.5,
       "auf": "08:00",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-24",
-      "code": 3,
+      "code": 45,
       "max": 3,
       "min": -2,
-      "regen": 13,
+      "regen": 2,
       "menge": 0,
-      "wind": 12,
-      "windAus": 131,
+      "wind": 10,
+      "windAus": 112,
       "uv": 1.1,
       "auf": "08:02",
       "unter": "16:34"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 3,
+      "max": 3,
+      "min": -2,
+      "regen": 35,
+      "menge": 0,
+      "wind": 14,
+      "windAus": 127,
+      "uv": 1,
+      "auf": "08:04",
+      "unter": "16:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
+      "zeit": "13:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 59
+     },
+     {
+      "zeit": "14:00",
+      "grad": 12,
+      "code": 51,
+      "regen": 65
+     },
+     {
+      "zeit": "15:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 77
+     },
+     {
+      "zeit": "16:00",
+      "grad": 11,
+      "code": 51,
+      "regen": 88
+     },
+     {
+      "zeit": "17:00",
       "grad": 11,
       "code": 3,
-      "regen": 90
+      "regen": 94
      },
      {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 0,
-      "regen": 75
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 54
-     },
-     {
-      "zeit": "01:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 37
-     },
-     {
-      "zeit": "02:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 27
-     },
-     {
-      "zeit": "03:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 23
-     },
-     {
-      "zeit": "04:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 27
-     },
-     {
-      "zeit": "05:00",
-      "grad": 9,
-      "code": 53,
-      "regen": 47
-     },
-     {
-      "zeit": "06:00",
-      "grad": 9,
-      "code": 63,
-      "regen": 76
-     },
-     {
-      "zeit": "07:00",
+      "zeit": "18:00",
       "grad": 10,
       "code": 53,
-      "regen": 98
+      "regen": 99
      },
      {
-      "zeit": "08:00",
+      "zeit": "19:00",
       "grad": 10,
       "code": 61,
       "regen": 100
      },
      {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 53,
-      "regen": 100
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 100
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 95
-     },
-     {
-      "zeit": "12:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 88
-     },
-     {
-      "zeit": "13:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 82
-     },
-     {
-      "zeit": "14:00",
-      "grad": 12,
-      "code": 2,
-      "regen": 80
-     },
-     {
-      "zeit": "15:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 79
-     },
-     {
-      "zeit": "16:00",
-      "grad": 12,
-      "code": 3,
-      "regen": 80
-     },
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 85
-     },
-     {
-      "zeit": "18:00",
-      "grad": 11,
-      "code": 53,
-      "regen": 91
-     },
-     {
-      "zeit": "19:00",
-      "grad": 10,
-      "code": 55,
-      "regen": 94
-     },
-     {
       "zeit": "20:00",
       "grad": 10,
       "code": 51,
-      "regen": 91
+      "regen": 97
      },
      {
       "zeit": "21:00",
       "grad": 10,
       "code": 53,
+      "regen": 90
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 84
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 63,
+      "regen": 79
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 74
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 73
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 77
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 53,
       "regen": 85
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 90
+     },
+     {
+      "zeit": "05:00",
+      "grad": 8,
+      "code": 53,
+      "regen": 91
+     },
+     {
+      "zeit": "06:00",
+      "grad": 8,
+      "code": 55,
+      "regen": 90
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 90
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 91
+     },
+     {
+      "zeit": "09:00",
+      "grad": 7,
+      "code": 61,
+      "regen": 93
+     },
+     {
+      "zeit": "10:00",
+      "grad": 7,
+      "code": 53,
+      "regen": 92
+     },
+     {
+      "zeit": "11:00",
+      "grad": 7,
+      "code": 55,
+      "regen": 88
+     },
+     {
+      "zeit": "12:00",
+      "grad": 7,
+      "code": 53,
+      "regen": 83
      }
     ]
    },
@@ -1225,267 +1228,177 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 10,
-     "code": 2,
-     "gefuehlt": 7,
-     "wind": 10,
-     "windAus": 218,
-     "feuchte": 84,
-     "druck": 982,
+     "grad": 12,
+     "code": 3,
+     "gefuehlt": 9,
+     "wind": 18,
+     "windAus": 237,
+     "feuchte": 67,
+     "druck": 979,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 80,
-     "max": 14,
-     "min": 9,
-     "regen": 100,
-     "menge": 2.8,
-     "wind": 22,
-     "windAus": 226,
-     "uv": 1.2,
-     "auf": "07:43",
-     "unter": "16:37"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 80,
-     "max": 13,
+     "max": 12,
      "min": 8,
-     "regen": 98,
-     "menge": 7.3,
-     "wind": 18,
-     "windAus": 217,
-     "uv": 1,
+     "regen": 100,
+     "menge": 13.9,
+     "wind": 19,
+     "windAus": 221,
+     "uv": 1.6,
      "auf": "07:44",
      "unter": "16:36"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 61,
+     "max": 10,
+     "min": 6,
+     "regen": 90,
+     "menge": 21.8,
+     "wind": 16,
+     "windAus": 237,
+     "uv": 0.6,
+     "auf": "07:46",
+     "unter": "16:35"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 80,
-      "max": 14,
-      "min": 9,
-      "regen": 100,
-      "menge": 2.8,
-      "wind": 22,
-      "windAus": 226,
-      "uv": 1.2,
-      "auf": "07:43",
-      "unter": "16:37"
-     },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 13,
+      "max": 12,
       "min": 8,
-      "regen": 98,
-      "menge": 7.3,
-      "wind": 18,
-      "windAus": 217,
-      "uv": 1,
+      "regen": 100,
+      "menge": 13.9,
+      "wind": 19,
+      "windAus": 221,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-20",
-      "code": 80,
-      "max": 11,
-      "min": 8,
-      "regen": 93,
-      "menge": 14.1,
+      "code": 61,
+      "max": 10,
+      "min": 6,
+      "regen": 90,
+      "menge": 21.8,
       "wind": 16,
-      "windAus": 226,
-      "uv": 0.7,
+      "windAus": 237,
+      "uv": 0.6,
       "auf": "07:46",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-21",
-      "code": 61,
-      "max": 8,
+      "code": 3,
+      "max": 7,
       "min": 2,
-      "regen": 55,
-      "menge": 1.3,
-      "wind": 13,
-      "windAus": 293,
+      "regen": 38,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 245,
       "uv": 1.6,
       "auf": "07:47",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-22",
-      "code": 3,
+      "code": 45,
       "max": 5,
       "min": 0,
-      "regen": 67,
+      "regen": 24,
       "menge": 0,
-      "wind": 11,
-      "windAus": 47,
-      "uv": 1.5,
+      "wind": 7,
+      "windAus": 29,
+      "uv": 1.3,
       "auf": "07:49",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-23",
       "code": 3,
-      "max": 3,
-      "min": -1,
-      "regen": 62,
+      "max": 5,
+      "min": 0,
+      "regen": 24,
       "menge": 0,
-      "wind": 10,
-      "windAus": 4,
+      "wind": 7,
+      "windAus": 236,
       "uv": 1.6,
       "auf": "07:50",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-24",
-      "code": 3,
+      "code": 61,
       "max": 3,
-      "min": -3,
-      "regen": 14,
+      "min": -1,
+      "regen": 13,
       "menge": 0,
       "wind": 9,
-      "windAus": 60,
-      "uv": 0.6,
+      "windAus": 71,
+      "uv": 1.3,
       "auf": "07:52",
       "unter": "16:31"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 61,
+      "max": 7,
+      "min": 1,
+      "regen": 42,
+      "menge": 0.3,
+      "wind": 8,
+      "windAus": 52,
+      "uv": 1.3,
+      "auf": "07:53",
+      "unter": "16:30"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 10
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 13
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 3,
-      "regen": 15
-     },
-     {
-      "zeit": "01:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 13
-     },
-     {
-      "zeit": "02:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": 8,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 8
-     },
-     {
-      "zeit": "06:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 43
-     },
-     {
-      "zeit": "07:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 98
-     },
-     {
-      "zeit": "10:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 80
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 80
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 78
-     },
-     {
       "zeit": "13:00",
       "grad": 12,
       "code": 3,
-      "regen": 63
+      "regen": 53
      },
      {
       "zeit": "14:00",
       "grad": 12,
-      "code": 2,
-      "regen": 35
+      "code": 3,
+      "regen": 20
      },
      {
       "zeit": "15:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 20
+      "grad": 12,
+      "code": 3,
+      "regen": 15
      },
      {
       "zeit": "16:00",
       "grad": 12,
       "code": 3,
-      "regen": 28
+      "regen": 43
      },
      {
       "zeit": "17:00",
       "grad": 11,
       "code": 3,
-      "regen": 30
+      "regen": 60
      },
      {
       "zeit": "18:00",
       "grad": 11,
-      "code": 3,
-      "regen": 50
+      "code": 61,
+      "regen": 80
      },
      {
       "zeit": "19:00",
       "grad": 10,
       "code": 61,
-      "regen": 55
+      "regen": 70
      },
      {
       "zeit": "20:00",
@@ -1496,8 +1409,98 @@
      {
       "zeit": "21:00",
       "grad": 10,
+      "code": 63,
+      "regen": 90
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 90
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 83
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 75
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 78
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 68
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 68
+     },
+     {
+      "zeit": "04:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 75
+     },
+     {
+      "zeit": "05:00",
+      "grad": 10,
       "code": 61,
       "regen": 85
+     },
+     {
+      "zeit": "06:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 85
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 70
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 68
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 68
+     },
+     {
+      "zeit": "10:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 80
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 80
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 90
      }
     ]
    },
@@ -1507,279 +1510,279 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 10,
-     "code": 1,
-     "gefuehlt": 7,
-     "wind": 14,
-     "windAus": 217,
-     "feuchte": 75,
-     "druck": 968,
+     "grad": 12,
+     "code": 2,
+     "gefuehlt": 9,
+     "wind": 15,
+     "windAus": 245,
+     "feuchte": 59,
+     "druck": 965,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 80,
-     "max": 14,
-     "min": 10,
-     "regen": 75,
-     "menge": 9.8,
-     "wind": 23,
-     "windAus": 234,
-     "uv": 1.6,
-     "auf": "07:36",
-     "unter": "16:39"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 80,
-     "max": 13,
-     "min": 10,
-     "regen": 95,
-     "menge": 6.7,
-     "wind": 18,
-     "windAus": 220,
-     "uv": 1.2,
+     "max": 12,
+     "min": 9,
+     "regen": 100,
+     "menge": 3.1,
+     "wind": 17,
+     "windAus": 216,
+     "uv": 1.3,
      "auf": "07:37",
      "unter": "16:38"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 80,
+     "max": 11,
+     "min": 9,
+     "regen": 70,
+     "menge": 7.5,
+     "wind": 16,
+     "windAus": 227,
+     "uv": 0.2,
+     "auf": "07:39",
+     "unter": "16:37"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 80,
-      "max": 14,
-      "min": 10,
-      "regen": 75,
-      "menge": 9.8,
-      "wind": 23,
-      "windAus": 234,
-      "uv": 1.6,
-      "auf": "07:36",
-      "unter": "16:39"
-     },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 13,
-      "min": 10,
-      "regen": 95,
-      "menge": 6.7,
-      "wind": 18,
-      "windAus": 220,
-      "uv": 1.2,
+      "max": 12,
+      "min": 9,
+      "regen": 100,
+      "menge": 3.1,
+      "wind": 17,
+      "windAus": 216,
+      "uv": 1.3,
       "auf": "07:37",
       "unter": "16:38"
      },
      {
       "datum": "2026-11-20",
-      "code": 61,
-      "max": 12,
+      "code": 80,
+      "max": 11,
       "min": 9,
-      "regen": 56,
-      "menge": 1.2,
-      "wind": 22,
-      "windAus": 225,
-      "uv": 0.4,
+      "regen": 70,
+      "menge": 7.5,
+      "wind": 16,
+      "windAus": 227,
+      "uv": 0.2,
       "auf": "07:39",
       "unter": "16:37"
      },
      {
       "datum": "2026-11-21",
-      "code": 61,
+      "code": 80,
       "max": 9,
-      "min": 4,
-      "regen": 73,
-      "menge": 5.5,
-      "wind": 13,
-      "windAus": 289,
+      "min": 2,
+      "regen": 78,
+      "menge": 11.2,
+      "wind": 14,
+      "windAus": 272,
       "uv": 1.7,
       "auf": "07:40",
       "unter": "16:36"
      },
      {
       "datum": "2026-11-22",
-      "code": 61,
-      "max": 5,
-      "min": 2,
-      "regen": 83,
-      "menge": 13.5,
-      "wind": 6,
-      "windAus": 85,
-      "uv": 1.2,
+      "code": 45,
+      "max": 4,
+      "min": 0,
+      "regen": 87,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 53,
+      "uv": 0.9,
       "auf": "07:42",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-23",
-      "code": 77,
-      "max": 3,
-      "min": 0,
-      "regen": 80,
-      "menge": 8.4,
-      "wind": 8,
-      "windAus": 358,
+      "code": 3,
+      "max": 6,
+      "min": -1,
+      "regen": 82,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 241,
       "uv": 1.7,
       "auf": "07:43",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-24",
-      "code": 3,
-      "max": 2,
+      "code": 61,
+      "max": 6,
       "min": -2,
-      "regen": 30,
-      "menge": 0,
+      "regen": 10,
+      "menge": 0.2,
       "wind": 6,
-      "windAus": 118,
-      "uv": 0.2,
+      "windAus": 151,
+      "uv": 1.4,
       "auf": "07:45",
       "unter": "16:34"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 61,
+      "max": 11,
+      "min": 4,
+      "regen": 38,
+      "menge": 1,
+      "wind": 5,
+      "windAus": 136,
+      "uv": 1.3,
+      "auf": "07:46",
+      "unter": "16:33"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
+      "zeit": "13:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 5
      },
      {
-      "zeit": "23:00",
-      "grad": 10,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 10,
+      "zeit": "14:00",
+      "grad": 12,
       "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "03:00",
-      "grad": 10,
-      "code": 3,
       "regen": 8
      },
      {
-      "zeit": "04:00",
-      "grad": 10,
+      "zeit": "15:00",
+      "grad": 12,
       "code": 3,
-      "regen": 15
+      "regen": 10
      },
      {
-      "zeit": "05:00",
+      "zeit": "16:00",
+      "grad": 12,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "17:00",
+      "grad": 11,
+      "code": 1,
+      "regen": 20
+     },
+     {
+      "zeit": "18:00",
       "grad": 10,
       "code": 3,
       "regen": 25
      },
      {
-      "zeit": "06:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 30
-     },
-     {
-      "zeit": "07:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 63
-     },
-     {
-      "zeit": "08:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "09:00",
-      "grad": 10,
-      "code": 61,
-      "regen": 95
-     },
-     {
-      "zeit": "10:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 88
-     },
-     {
-      "zeit": "11:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 68
-     },
-     {
-      "zeit": "12:00",
-      "grad": 11,
-      "code": 61,
-      "regen": 45
-     },
-     {
-      "zeit": "13:00",
-      "grad": 11,
-      "code": 3,
-      "regen": 43
-     },
-     {
-      "zeit": "14:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 28
-     },
-     {
-      "zeit": "15:00",
-      "grad": 13,
-      "code": 2,
-      "regen": 13
-     },
-     {
-      "zeit": "16:00",
-      "grad": 12,
-      "code": 80,
-      "regen": 13
-     },
-     {
-      "zeit": "17:00",
-      "grad": 11,
-      "code": 80,
-      "regen": 15
-     },
-     {
-      "zeit": "18:00",
-      "grad": 10,
-      "code": 80,
-      "regen": 10
-     },
-     {
       "zeit": "19:00",
       "grad": 10,
       "code": 80,
-      "regen": 10
+      "regen": 20
      },
      {
       "zeit": "20:00",
       "grad": 10,
       "code": 80,
-      "regen": 10
+      "regen": 13
      },
      {
       "zeit": "21:00",
       "grad": 10,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "22:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "23:00",
+      "grad": 10,
       "code": 61,
+      "regen": 53
+     },
+     {
+      "zeit": "00:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 70
+     },
+     {
+      "zeit": "01:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 58
+     },
+     {
+      "zeit": "02:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 33
+     },
+     {
+      "zeit": "03:00",
+      "grad": 10,
+      "code": 3,
+      "regen": 45
+     },
+     {
+      "zeit": "04:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 50
+     },
+     {
+      "zeit": "05:00",
+      "grad": 9,
+      "code": 61,
+      "regen": 50
+     },
+     {
+      "zeit": "06:00",
+      "grad": 9,
+      "code": 80,
+      "regen": 45
+     },
+     {
+      "zeit": "07:00",
+      "grad": 9,
+      "code": 3,
       "regen": 20
+     },
+     {
+      "zeit": "08:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "09:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 28
+     },
+     {
+      "zeit": "10:00",
+      "grad": 10,
+      "code": 80,
+      "regen": 40
+     },
+     {
+      "zeit": "11:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 63
+     },
+     {
+      "zeit": "12:00",
+      "grad": 10,
+      "code": 61,
+      "regen": 70
      }
     ]
    },
@@ -1790,291 +1793,291 @@
     "teil": "Süden",
     "jetzt": {
      "grad": 9,
-     "code": 2,
-     "gefuehlt": 5,
-     "wind": 16,
-     "windAus": 239,
-     "feuchte": 73,
-     "druck": 939,
+     "code": 61,
+     "gefuehlt": 4,
+     "wind": 22,
+     "windAus": 249,
+     "feuchte": 76,
+     "druck": 935,
      "niederschlag": 0,
-     "tag": 0
+     "tag": 1
     },
     "heute": {
-     "datum": "2026-11-18",
-     "code": 80,
-     "max": 13,
-     "min": 9,
-     "regen": 78,
-     "menge": 1.8,
-     "wind": 30,
-     "windAus": 244,
-     "uv": 1.7,
-     "auf": "07:24",
-     "unter": "16:32"
-    },
-    "morgen": {
      "datum": "2026-11-19",
      "code": 80,
-     "max": 10,
-     "min": 7,
-     "regen": 90,
-     "menge": 3.5,
-     "wind": 23,
+     "max": 9,
+     "min": 6,
+     "regen": 100,
+     "menge": 4.3,
+     "wind": 22,
      "windAus": 237,
-     "uv": 0.9,
+     "uv": 0.5,
      "auf": "07:26",
      "unter": "16:31"
     },
+    "morgen": {
+     "datum": "2026-11-20",
+     "code": 80,
+     "max": 9,
+     "min": 7,
+     "regen": 65,
+     "menge": 1.1,
+     "wind": 23,
+     "windAus": 243,
+     "uv": 1.8,
+     "auf": "07:27",
+     "unter": "16:30"
+    },
     "tage": [
-     {
-      "datum": "2026-11-18",
-      "code": 80,
-      "max": 13,
-      "min": 9,
-      "regen": 78,
-      "menge": 1.8,
-      "wind": 30,
-      "windAus": 244,
-      "uv": 1.7,
-      "auf": "07:24",
-      "unter": "16:32"
-     },
      {
       "datum": "2026-11-19",
       "code": 80,
-      "max": 10,
-      "min": 7,
-      "regen": 90,
-      "menge": 3.5,
-      "wind": 23,
+      "max": 9,
+      "min": 6,
+      "regen": 100,
+      "menge": 4.3,
+      "wind": 22,
       "windAus": 237,
-      "uv": 0.9,
+      "uv": 0.5,
       "auf": "07:26",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-20",
       "code": 80,
-      "max": 10,
+      "max": 9,
       "min": 7,
-      "regen": 48,
-      "menge": 1.2,
-      "wind": 27,
-      "windAus": 242,
-      "uv": 0.7,
+      "regen": 65,
+      "menge": 1.1,
+      "wind": 23,
+      "windAus": 243,
+      "uv": 1.8,
       "auf": "07:27",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-21",
-      "code": 61,
+      "code": 80,
       "max": 8,
       "min": 2,
-      "regen": 80,
-      "menge": 6.6,
-      "wind": 22,
+      "regen": 70,
+      "menge": 8.6,
+      "wind": 20,
       "windAus": 263,
-      "uv": 1.8,
+      "uv": 0.5,
       "auf": "07:29",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-22",
-      "code": 73,
-      "max": 3,
-      "min": 0,
-      "regen": 91,
-      "menge": 14.1,
-      "wind": 6,
-      "windAus": 82,
+      "code": 45,
+      "max": 4,
+      "min": -1,
+      "regen": 85,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 57,
       "uv": 1.3,
       "auf": "07:30",
       "unter": "16:28"
      },
      {
       "datum": "2026-11-23",
-      "code": 77,
-      "max": 1,
-      "min": -4,
-      "regen": 91,
-      "menge": 14.4,
+      "code": 2,
+      "max": 3,
+      "min": -2,
+      "regen": 86,
+      "menge": 0,
       "wind": 10,
-      "windAus": 8,
-      "uv": 1.7,
+      "windAus": 266,
+      "uv": 1.8,
       "auf": "07:31",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-24",
-      "code": 48,
-      "max": -1,
-      "min": -6,
-      "regen": 55,
+      "code": 3,
+      "max": 3,
+      "min": -4,
+      "regen": 21,
       "menge": 0,
-      "wind": 13,
-      "windAus": 99,
-      "uv": 0.9,
+      "wind": 14,
+      "windAus": 102,
+      "uv": 1.5,
       "auf": "07:33",
       "unter": "16:27"
+     },
+     {
+      "datum": "2026-11-25",
+      "code": 3,
+      "max": 7,
+      "min": -1,
+      "regen": 13,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 93,
+      "uv": 1.3,
+      "auf": "07:34",
+      "unter": "16:26"
      }
     ],
     "stunden": [
      {
-      "zeit": "22:00",
-      "grad": 9,
-      "code": 0,
-      "regen": 5
-     },
-     {
-      "zeit": "23:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "00:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 3
-     },
-     {
-      "zeit": "01:00",
-      "grad": 8,
-      "code": 1,
-      "regen": 10
-     },
-     {
-      "zeit": "02:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 8
-     },
-     {
-      "zeit": "04:00",
-      "grad": 8,
-      "code": 2,
-      "regen": 8
-     },
-     {
-      "zeit": "05:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 5
-     },
-     {
-      "zeit": "06:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "07:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "08:00",
-      "grad": 7,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "09:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 20
-     },
-     {
-      "zeit": "10:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 40
-     },
-     {
-      "zeit": "11:00",
-      "grad": 8,
-      "code": 61,
-      "regen": 85
-     },
-     {
-      "zeit": "12:00",
-      "grad": 9,
-      "code": 61,
-      "regen": 90
-     },
-     {
       "zeit": "13:00",
-      "grad": 10,
+      "grad": 8,
       "code": 61,
-      "regen": 68
+      "regen": 93
      },
      {
       "zeit": "14:00",
       "grad": 9,
       "code": 61,
-      "regen": 38
+      "regen": 50
      },
      {
       "zeit": "15:00",
-      "grad": 10,
-      "code": 3,
-      "regen": 33
+      "grad": 8,
+      "code": 61,
+      "regen": 48
      },
      {
       "zeit": "16:00",
-      "grad": 10,
-      "code": 2,
-      "regen": 25
+      "grad": 9,
+      "code": 80,
+      "regen": 15
      },
      {
       "zeit": "17:00",
-      "grad": 9,
-      "code": 1,
-      "regen": 13
+      "grad": 8,
+      "code": 3,
+      "regen": 3
      },
      {
       "zeit": "18:00",
-      "grad": 9,
-      "code": 1,
+      "grad": 8,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 9,
-      "code": 2,
-      "regen": 0
+      "grad": 8,
+      "code": 0,
+      "regen": 3
      },
      {
       "zeit": "20:00",
-      "grad": 9,
+      "grad": 8,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "21:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 8
+     },
+     {
+      "zeit": "22:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 28
+     },
+     {
+      "zeit": "23:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 15
+     },
+     {
+      "zeit": "00:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 25
+     },
+     {
+      "zeit": "01:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 35
+     },
+     {
+      "zeit": "02:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 40
+     },
+     {
+      "zeit": "03:00",
+      "grad": 8,
       "code": 3,
       "regen": 10
      },
      {
-      "zeit": "21:00",
+      "zeit": "04:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "05:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 15
+     },
+     {
+      "zeit": "06:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 28
+     },
+     {
+      "zeit": "07:00",
+      "grad": 8,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "08:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 30
+     },
+     {
+      "zeit": "09:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 18
+     },
+     {
+      "zeit": "10:00",
+      "grad": 8,
+      "code": 3,
+      "regen": 20
+     },
+     {
+      "zeit": "11:00",
       "grad": 9,
-      "code": 2,
-      "regen": 10
+      "code": 80,
+      "regen": 45
+     },
+     {
+      "zeit": "12:00",
+      "grad": 9,
+      "code": 3,
+      "regen": 65
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 9 und 14 Grad.",
-   "Die Vorhersage für morgen, Donnerstag: im Norden und Osten leichter Regen, im Süden und Westen Regenschauer.",
-   "Die Temperaturen erreichen dann 6 bis 13 Grad.",
-   "Am wärmsten wird es in Frankfurt mit 13 Grad.",
+   "Heute liegen die Höchstwerte zwischen 7 und 12 Grad.",
+   "Die Vorhersage für morgen, Freitag: im Norden und Osten leichter Regen, im Süden und Westen Regenschauer.",
+   "Die Temperaturen erreichen dann 4 bis 11 Grad.",
+   "Am wärmsten wird es in Stuttgart mit 11 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
-   "tag": "Donnerstag",
+   "tag": "Freitag",
    "orte": [
     {
      "name": "Hamburg",
@@ -2082,20 +2085,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 6,
-       "regen": 12.6
+       "grad": 4,
+       "regen": 0.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 6,
-       "regen": 18.8
+       "grad": 5,
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 7,
-       "regen": 14.3
+       "grad": 4,
+       "regen": 1.7
       }
      ]
     },
@@ -2105,20 +2108,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
-       "regen": 7.8
+       "grad": 6,
+       "regen": 0.5
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 10,
-       "regen": 5.3
+       "grad": 6,
+       "regen": 2.6
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 9,
-       "regen": 5.7
+       "grad": 8,
+       "regen": 5.3
       }
      ]
     },
@@ -2128,20 +2131,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 11,
-       "regen": 5.2
+       "grad": 10,
+       "regen": 1.3
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
-       "regen": 8.8
+       "grad": 9,
+       "regen": 4.1
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 10,
-       "regen": 5.3
+       "grad": 8,
+       "regen": 5.8
       }
      ]
     },
@@ -2151,20 +2154,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 12,
-       "regen": 13
+       "grad": 9,
+       "regen": 10.4
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 11,
-       "regen": 10.4
+       "grad": 10,
+       "regen": 30.8
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 9.6
+       "grad": 9,
+       "regen": 36
       }
      ]
     },
@@ -2174,20 +2177,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 6.9
+       "grad": 10,
+       "regen": 21.9
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 12,
-       "regen": 3.9
+       "grad": 11,
+       "regen": 9.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 12,
-       "regen": 4
+       "grad": 9,
+       "regen": 14.7
       }
      ]
     },
@@ -2197,20 +2200,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 13,
-       "regen": 6.7
+       "grad": 11,
+       "regen": 7.5
       },
       {
        "name": "GFS",
        "heim": "USA",
        "grad": 10,
-       "regen": 4.1
+       "regen": 10.5
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 11,
-       "regen": 5.5
+       "grad": 10,
+       "regen": 8.2
       }
      ]
     },
@@ -2220,28 +2223,38 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 10,
-       "regen": 3.5
+       "grad": 9,
+       "regen": 1.1
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 9,
-       "regen": 2.9
+       "grad": 8,
+       "regen": 1.5
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 8,
-       "regen": 4.3
+       "grad": 9,
+       "regen": 2.3
       }
      ]
     }
    ],
-   "spanneGrad": 3,
-   "uneinigRegen": null,
+   "spanneGrad": 2,
+   "uneinigRegen": {
+    "ort": "Hamburg",
+    "nass": [
+     "ECMWF"
+    ],
+    "trocken": [
+     "ICON",
+     "GFS"
+    ]
+   },
    "saetze": [
-    "Für Stuttgart gehen die Modelle am weitesten auseinander: zwischen 10 und 13 Grad."
+    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 6 und 8 Grad.",
+    "Und in Hamburg erwartet ECMWF Regen, ICON und GFS dagegen nicht."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2249,19 +2262,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 9 und 14 Grad. Die Vorhersage für morgen, ",
-   "d": "53c9691950.mp3",
-   "l": 19.89,
-   "s": [
-    0.25,
-    3.72,
-    10.57,
-    13.91,
-    17.2
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2464,6 +2465,1196 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "voelkermord-rohingya",
+   "rubrik": "Welt",
+   "zeit": "2026-11-19T12:42:10.000Z",
+   "titel": "Internationaler Gerichtshof stellt Verantwortung Myanmars für Völkermord fest",
+   "vorspann": "Der Internationale Gerichtshof hat das Vorgehen Myanmars gegen die Minderheit der Rohingya als Völkermord eingestuft. Es ist das erste Mal in der Geschichte des höchsten UN-Gerichts, dass die Verantwortung eines Staates für Völkermord festgestellt wird.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Der Internationale Gerichtshof in Den Haag hat Myanmar wegen Völkermords an den Rohingya im Jahr 2017 verurteilt.",
+    "Das Gericht stellte fest, dass die Sicherheitskräfte mindestens 10.000 Menschen töteten und massive sexuelle Gewalt anwandten.",
+    "Es ist das erste Mal, dass das höchste UN-Gericht die direkte Verantwortung eines Staates für Völkermord festgestellt hat.",
+    "Das Verfahren war im Jahr 2019 vom westafrikanischen Staat Gambia angestrengt worden."
+   ],
+   "einig": [
+    [
+     "Der Internationale Gerichtshof hat das Vorgehen Myanmars gegen die Rohingya als Völkermord eingestuft.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Das Verfahren wurde von dem westafrikanischen Staat Gambia angestrengt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Das Gericht stellte fest, dass mindestens 10.000 Menschen von den Sicherheitskräften getötet wurden.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Es ist das erste Mal, dass das höchste UN-Gericht die Verantwortung eines Staates für Völkermord feststellt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Zahl der Geflüchteten nach Bangladesch schwankt in den Berichten zwischen rund 700.000 (ZDFheute), mehr als 740.000 (Spiegel), mehr als 750.000 (Tagesschau) und über 700.000 bis 750.000.",
+    "Ob die Wahlen in Myanmar frei und fair ablaufen, wird laut ZDFheute von Kritikern bezweifelt."
+   ],
+   "positionen": [
+    [
+     "Internationaler Gerichtshof",
+     "Myanmar ist verantwortlich für Völkermord, da eine Vernichtungsabsicht vorliegt.",
+     "Tagesschau/ARD,ZDFheute,Deutschlandfunk,Spiegel,Süddeutsche Zeitung"
+    ],
+    [
+     "Regierung und Militär Myanmar",
+     "Die Militäroffensive war ein rechtmässiger Einsatz zur Terrorismusbekämpfung gegen Aufständische.",
+     "Tagesschau/ARD,ZDFheute,Süddeutsche Zeitung"
+    ],
+    [
+     "Julia Duchrow (Generalsekretärin Amnesty International Deutschland)",
+     "Das Urteil stärkt die Opfer und ist ein wichtiger Präzedenzfall.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Direkte Stellungnahmen der Regierung oder des Militärs von Myanmar zum aktuellen Urteil selbst (es wird nur die generelle Haltung zum Vorwurf genannt).",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:42",
+     "fokus": "Hintergründe und Reaktionen",
+     "text": "Die Tagesschau liefert viele Details zum Verfahren, zur Geschichte der Rohingya, zur politischen Situation in Myanmar und zitiert Amnesty International.",
+     "url": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 632,
+      "satzlaenge": 15,
+      "langeWoerter": 38
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 11:48",
+     "fokus": "Kompakte Übersicht",
+     "text": "ZDFheute fasst die Kernpunkte des historischen Urteils zusammen und nennt die wichtigsten Opferzahlen.",
+     "url": "https://www.zdfheute.de/politik/ausland/myanmar-rohingya-voelkermord-internationaler-gerichtshof-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 1,
+      "woerter": 249,
+      "satzlaenge": 15,
+      "langeWoerter": 41
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:24",
+     "fokus": "Kurzmeldung zum Urteil",
+     "text": "Der Deutschlandfunk bringt die Kernentscheidung des Internationalen Gerichtshofs kurz und prägnant auf den Punkt.",
+     "url": "https://www.deutschlandfunk.de/internationaler-gerichtshof-macht-myanmar-verantwortlich-fuer-voelkermord-an-rohingya-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 12:50",
+     "fokus": "Juristische Einordnung",
+     "text": "Der Spiegel beleuchtet die hohen Hürden für Völkermordklagen und nennt Details zur systematischen Gewalt.",
+     "url": "https://www.spiegel.de/ausland/myanmar-uno-gericht-stuft-vorgehen-gegen-rohingya-als-voelkermord-ein-a-7879b8b5-7b90-49e2-98b7-bcc5e96fa85c#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 387,
+      "satzlaenge": 15,
+      "langeWoerter": 41
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 12:35",
+     "fokus": "Historischer Kontext",
+     "text": "Die Süddeutsche Zeitung ordnet das Urteil im Vergleich zu früheren Entscheidungen des Gerichts ein.",
+     "url": "https://www.sueddeutsche.de/politik/myanmar-internationaler-gerichtshof-den-haag-urteil-rohingya-voelkermord-li.3581811",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 453,
+      "satzlaenge": 13,
+      "langeWoerter": 37
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Zahlenangaben zu Geflüchteten",
+     "Die Berichte nennen leicht abweichende Zahlen zwischen 700.000 und 750.000 Geflüchteten."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Der Internationale Gerichtshof",
+    "was": "Myanmar für Völkermord an Rohingya verantwortlich erklärt",
+    "wann": "2026-11-19",
+    "wo": "Den Haag, Niederlande",
+    "wie": "Durch ein bindendes Urteil nach einer Prüfung von Beweisen",
+    "warum": "Weil das Vorgehen eine Vernichtungsabsicht belegt, laut Gericht",
+    "quellenlage": "Gerichtsdokumente, UN-Berichte, Zeugenaussagen und Organisationen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das Urteil des Internationalen Gerichtshofs",
+     "absaetze": [
+      "Der Internationale Gerichtshof in Den Haag hat das Vorgehen Myanmars gegen die muslimische Minderheit der Rohingya im Jahr 2017 als Völkermord eingestuft. Laut dem Urteil wollte das Land einen wesentlichen Teil dieser Bevölkerungsgruppe vernichten. Der Vorsitzende Richter Yuji Iwasawa verlas das Urteil im Den Haager Friedenspalast. Nach Auffassung des Gerichts lassen Ausmaß und Art der militärischen Handlungen als einzige Schlussfolgerung die Absicht eines Genozids zu. Dies ist das erste Mal, dass das höchste Gericht der Vereinten Nationen die Verantwortung eines Staates für Völkermord feststellt. Bisher hatte das Gericht lediglich im Jahr 2007 das Massaker von Srebrenica aus dem Jahr 1995 als Völkermord eingestuft und Serbien verurteilt, weil es seine Pflicht zur Verhinderung verletzt hatte.",
+      "Das westafrikanische Land Gambia hatte das Verfahren Ende 2019 vor das Gericht gebracht. Bei der Klage berief sich Gambia auf die Völkermord-Konvention von 1948. Der Klage hatten sich laut Angaben der Süddeutschen Zeitung auch Deutschland und zehn weitere Länder angeschlossen. Myanmar wies die Vorwürfe laut Tagesschau/ARD als rechtmässigen Einsatz zur Terrorismusbekämpfung zurück. Das Militär sei 2017 nach einem Angriff hart gegen Aufständische vorgegangen. Das Gericht lehnte diese Darstellung jedoch ab und bewertete die Beweislage als ausreichend für die Feststellung eines Völkermords.",
+      "Das Gericht stellte fest, dass die Sicherheitskräfte des südostasiatischen Staates mindestens 10.000 Menschen getötet haben. Zudem machten sie sich laut dem Gericht schuldig an massiver sexualisierter Gewalt und Gewalt gegen Kinder. Laut dem Spiegel wurden Frauen und Mädchen im grossen Umfang Opfer sexueller Gewalt, die laut Uno-Berichten auch als Mittel eingesetzt wurde, um Geburten zu verhindern. Hunderttausende Menschen wurden vertrieben und Dörfer zerstört. Die Sicherheitskräfte hatten vor allem die rund 815.000 Menschen umfassende Bevölkerungsgruppe im nördlichen Rakhine-Staat im Visier."
+     ]
+    },
+    {
+     "ueberschrift": "Ablauf und historische Einordnung",
+     "absaetze": [
+      "Die Krise hat eine lange Vorgeschichte in dem überwiegend buddhistischen Land. In dem Staatsbürgerschaftsgesetz von 1982 sind die Rohingya nicht als Volksgruppe anerkannt, weshalb viele staatenlos sind. Sie sind seit Jahrzehnten Verfolgung und Diskriminierung ausgesetzt. Die Militäroffensive im Jahr 2017 führte zur Vertreibung von etwa 750.000 Menschen, die in das benachbarte Bangladesch flohen. Laut ZDFheute waren es mehr als 700.000 Menschen, während der Spiegel und die Tagesschau von mehr als 740.000 beziehungsweise rund 750.000 Geflüchteten berichten. Die Menschen leben dort weiterhin in Flüchtlingslagern unter schwierigen Bedingungen.",
+      "Die Beweisschwelle für Völkermord ist nach internationalem Recht hoch. Das Gericht betonte, dass der Nachweis einer erklärten Absicht oder eines Planes zur Auslöschung einer Gruppe notwendig ist. Dieser Nachweis ist bei Verfahren dieser Art besonders schwierig. Das Urteil gilt nun als Testfall für andere Verfahren vor dem Internationalen Gerichtshof, wie etwa die Klage Südafrikas gegen Israel aus dem Jahr 2023 wegen der Gewalt im Gazastreifen. Israel bestreitet die Vorwürfe und spricht von legitimer Verteidigung gegen die Hamas, wie unter anderem die Tagesschau und der Spiegel berichten.",
+      "Das Urteil hat vorerst keine direkten rechtlichen Konsequenzen zur Durchsetzung. Das Gericht verfügt nicht über die Mittel, um Myanmar zu Zwangsmassnahmen wie Entschädigungszahlungen zu verpflichten. Dennoch wird erwartet, dass der internationale Druck auf die Militärjunta durch das Urteil weiter zunimmt. Unabhängig davon ermittelt auch der Internationale Strafgerichtshof in Den Haag gegen hohe Militärs aus Myanmar. Die Ankläger hatten dort bereits einen Haftbefehl gegen den Militärchef General Min Aung Hlaing beantragt, den die Richter jedoch noch nicht bestätigt haben."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen und politische Entwicklungen",
+     "absaetze": [
+      "Vertreter der Rohingya bewerten die Entscheidung als Anerkennung ihres jahrelangen Leids und hoffen auf eine strafrechtliche Verfolgung der Täter. Die Menschenrechtsorganisation Amnesty International begrüsste das Urteil ebenfalls. Julia Duchrow, Generalsekretärin von Amnesty International in Deutschland, erklärte laut Tagesschau, dass das Urteil die Opfer stärke und Hoffnung für andere akut bedrohte Gruppen bedeute. Sie betonte, dass der Präzedenzfall zeige, dass ein Staat nicht unmittelbar selbst betroffen sein müsse, um Völkermord vor dem Gericht anzuklagen.",
+      "Parallel zu den juristischen Entwicklungen gibt es politische Veränderungen in Myanmar. Nach Angaben der Tagesschau hat das Parlament den seit Jahren faktisch regierenden Militärjunta-Chef zum Präsidenten gewählt. Zudem findet in Myanmar erstmals seit dem Militärputsch vor fünf Jahren wieder eine Abstimmung statt, wobei Kritiker laut ZDFheute bezweifeln, ob es sich dabei um freie und faire Wahlen handeln."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "1982",
+     "Myanmar schliesst die Rohingya im Staatsbürgerschaftsgesetz von der Anerkennung als Volksgruppe aus."
+    ],
+    [
+     "2017",
+     "Eine Militäroffensive in Myanmar führt zur Tötung von Tausenden Menschen und zur Flucht Hunderttausender Rohingya."
+    ],
+    [
+     "2019",
+     "Gambia reicht Klage gegen Myanmar wegen Völkermords beim Internationalen Gerichtshof ein."
+    ],
+    [
+     "2026",
+     "Der Internationale Gerichtshof urteilt, dass das Vorgehen Myanmars einen Völkermord darstellt."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Da es sich um ein Verfahren zu schweren Verbrechen und Gewalt handelt, wird vereinbarungsgemäss auf Bildvorschläge verzichtet."
+    }
+   ],
+   "ort": {
+    "name": "Den Haag, Niederlande"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [
+    "massive"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Internationaler Gerichtshof",
+      "Das ist das höchste Gericht der Vereinten Nationen. Es entscheidet über Streitigkeiten zwischen Staaten."
+     ],
+     [
+      "Völkermord",
+      "Das ist die geplante Vernichtung einer nationalen, ethnischen, rassischen oder religiösen Gruppe."
+     ],
+     [
+      "Rohingya",
+      "Das ist eine muslimische Bevölkerungsgruppe in dem vor allem buddhistischen Land Myanmar."
+     ]
+    ],
+    "fragen": [
+     "Welche Schwierigkeiten gibt es laut dem Gericht bei der Beweisführung in Völkermordprozessen?",
+     "Welche Bedeutung hat das Urteil für andere laufende Verfahren vor dem Internationalen Gerichtshof?",
+     "Wie reagierte die Regierung von Myanmar auf die Vorwürfe des Gerichts?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welches Land hat die Klage gegen Myanmar beim Internationalen Gerichtshof eingereicht?",
+      "optionen": [
+       "Deutschland",
+       "Gambia",
+       "Südafrika"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten hatte das westafrikanische Land Gambia das Verfahren Ende 2019 eingereicht."
+     },
+     {
+      "frage": "Wie viele Menschen wurden nach Feststellung des Gerichts von den Sicherheitskräften mindestens getötet?",
+      "optionen": [
+       "5.000 Menschen",
+       "10.000 Menschen",
+       "50.000 Menschen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Gericht stellte in seiner Urteilsverlesung fest, dass mindestens 10.000 Menschen getötet wurden."
+     },
+     {
+      "frage": "In welchem Jahr fand die Militäroffensive statt, die vom Gericht als Völkermord eingestuft wurde?",
+      "optionen": [
+       "2015",
+       "2017",
+       "2019"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Berichte nennen übereinstimmend die Militäroffensive aus dem Jahr 2017 als Auslöser."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der Internationale Gerichtshof hat das Land Myanmar wegen Völkermords an den Rohingya verurteilt.",
+    "absaetze": [
+     "Die Rohingya sind eine muslimische Minderheit in Myanmar. Sie werden dort seit vielen Jahren verfolgt und diskriminiert.",
+     "Im Jahr zweitausendsiebenzehn gab es eine brutale Militäroffensive gegen sie. Dabei wurden mindestens zehntausend Menschen getötet.",
+     "Hunderttausende Menschen mussten fliehen und leben seitdem in Lagern im Nachbarland Bangladesch.",
+     "Das höchste Gericht der Vereinten Nationen hat nun entschieden, dass es sich dabei um Völkermord handelt.",
+     "Das westafrikanische Land Gambia hatte die Klage im Jahr zweitausendneunzehn eingereicht."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Internationale Gerichtshof verurteilt Myanmar wegen Völkermords an den Rohingya.",
+     "Mindestens zehntausend Menschen starben bei einer Militäroffensive im Jahr zweitausendsiebenzehn.",
+     "Es ist das erste Mal, dass das UN-Gericht einen Staat dafür direkt verantwortlich macht."
+    ],
+    "lang": [
+     "Der Internationale Gerichtshof hat Myanmar für Völkermord an den Rohingya verantwortlich erklärt.",
+     "Das Gericht in Den Haag fällte dieses historische Urteil am Donnerstag.",
+     "Sicherheitskräfte töteten bei einer Militäroffensive im Jahr zweitausendsiebenzehn mindestens zehntausend Menschen.",
+     "Das westafrikanische Land Gambia hatte die Klage im Jahr zweitausendneunzehn eingereicht.",
+     "Myanmar wies die Vorwürfe zurück und sprach von einem rechtmäßigen Einsatz gegen Aufständische.",
+     "Das Gericht lehnte diese Darstellung ab und sah die Absicht zur Vernichtung als erwiesen an.",
+     "Menschenrechtsorganisationen begrüßten die Entscheidung als wichtige Stärkung für die Opfer.",
+     "Das Urteil ist bindend, allerdings kann das Gericht keine Entschädigungen erzwingen.",
+     "Zudem gilt das Verfahren als wichtiger Testfall für andere Völkermordklagen vor demselben Gericht.",
+     "Beobachter erwarten, dass der internationale Druck auf die Regierung in Myanmar weiter zunehmen wird."
+    ],
+    "einfach": [
+     "Das höchste Gericht der Vereinten Nationen hat Myanmar verurteilt.",
+     "Es geht um den Völkermord an der Minderheit der Rohingya.",
+     "Im Jahr zweitausendsiebenzehn tötete das Militär dort mindestens zehntausend Menschen.",
+     "Viele Hunderttausend Menschen flohen in das Nachbarland Bangladesch.",
+     "Das Gericht stellte fest, dass Myanmar die Gruppe vernichten wollte.",
+     "Das Land Gambia hatte das Verfahren im Jahr zweitausendneunzehn gestartet."
+    ]
+   },
+   "kurz": [
+    "Der Internationale Gerichtshof hat Myanmar wegen Völkermords an den Rohingya verurteilt.",
+    "Mindestens zehntausend Menschen wurden bei einer Militäroffensive im Jahr zweitausendsiebenzehn getötet.",
+    "Es ist das erste Mal, dass das UN-Gericht die Verantwortung eines Staates feststellt.",
+    "Das westafrikanische Land Gambia hatte das Verfahren im Jahr zweitausendneunzehn eingereicht."
+   ],
+   "fakten": [
+    [
+     "Getötete Menschen",
+     "mindestens 10.000"
+    ],
+    [
+     "Geflüchtete Menschen",
+     "über 700.000 bis 750.000"
+    ],
+    [
+     "Jahr der Militäroffensive",
+     "2017"
+    ],
+    [
+     "Jahr der Klageerhebung",
+     "2019"
+    ]
+   ],
+   "dossier": {
+    "slug": "voelkermord-klage-myanmar-igh",
+    "titel": "Völkermord-Urteil gegen Myanmar"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Den Haag, Niederlande",
+    "lat": 52.075,
+    "lon": 4.27
+   },
+   "version": 5
+  },
+  {
+   "id": "gipfel-in-shenzhen",
+   "rubrik": "Welt",
+   "zeit": "2026-11-19T12:30:44.000Z",
+   "titel": "Erstes Dreiertreffen der Staatschefs der USA, Chinas und Russlands in Shenzhen",
+   "vorspann": "Die Präsidenten der USA, Chinas und Russlands sind in Shenzhen zu einem historischen Dreiergipfel zusammengekommen. Dabei verständigten sich die drei Staaten auf eine gemeinsame Erklärung zu atomaren Risiken und weiteren Themen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "In Shenzhen haben sich die Präsidenten der USA, Chinas und Russlands zum ersten Mal zu einem Dreiertreffen zusammengefunden.",
+    "Die Staatschefs verabschiedeten eine gemeinsame Friedenserklärung, die einen Dialog über atomare Risiken ankündigt.",
+    "Konkrete Vereinbarungen zur atomaren Abrüstung oder zu bestehenden Konflikten wie dem Ukraine-Krieg enthält das Dokument jedoch nicht.",
+    "Themen wie Taiwan, Iran und die Arbeit internationaler Gerichte wurden bei den Gesprächen ebenfalls angesprochen."
+   ],
+   "einig": [
+    [
+     "Donald Trump, Wladimir Putin und Xi Jinping hielten ein erstes gemeinsames Dreiertreffen ab.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "Es wurde eine gemeinsame Friedenserklärung verabschiedet, die einen Dialog über atomare Risiken ankündigt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Zeit"
+     ]
+    ],
+    [
+     "Die Erklärung enthält keine konkreten Zusagen zur atomaren Abrüstung oder einen festen Zeitplan.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "China, Russland und die USA einigten sich laut chinesischen und russischen Angaben auf eine Reform der Vereinten Nationen und eine Ausweitung der Treibstoffversorgung.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Inwieweit die Friedenserklärung die internationale Rüstungskontrolle tatsächlich voranbringen kann, bleibt laut Tagesschau/ARD abzuwarten."
+   ],
+   "positionen": [
+    [
+     "Donald Trump (US-Präsident)",
+     "Die drei Großmächte sind in einer einzigartigen Position, um über die Reduzierung von Atomwaffen zu sprechen, auch wenn dies eine sehr schwierige Sache ist. Zudem kündigte er an, einen iranischen Atomwaffenbesitz nicht zuzulassen.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Wladimir Putin (Russischer Präsident)",
+     "Betonte die gemeinsame Verantwortung der Großmächte für den Weltfrieden und das gemeinsame Interesse an der Beendigung des Ukraine-Krieges.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Xi Jinping (Chinesischer Staatschef)",
+     "Rief dazu auf, alle Anstrengungen zur Verhinderung eines Atomkrieges zu unternehmen, und forderte die USA bei der Taiwan-Frage zu Zurückhaltung auf.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Stimmen aus den europäischen Staaten oder von der Regierung in Taipeh.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:30",
+     "fokus": "Umfassender Überblick mit Hintergrundinformationen",
+     "text": "Der Bericht beleuchtet den Verlauf des Gipfels, die Reaktionen der Staatschefs sowie bestehende Konflikte wie den Ukraine- und Iran-Krieg.",
+     "url": "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 4,
+      "woerter": 708,
+      "satzlaenge": 16,
+      "langeWoerter": 35
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:05",
+     "fokus": "Zusammenfassung und Einordnung vor Ort",
+     "text": "ZDFheute nennt die vier Punkte der Erklärung und ordnet Xis Rolle als Gastgeber und globaler Akteur durch eine Korrespondentin ein.",
+     "url": "https://www.zdfheute.de/politik/ausland/xi-trump-putin-friedenserklaerung-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 479,
+      "satzlaenge": 18,
+      "langeWoerter": 34
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:24",
+     "fokus": "Aussagen von Chinas Staatschef",
+     "text": "Der Sender konzentriert sich in seiner Kurzmeldung auf Xis Appruf zur Verhinderung eines Atomkrieges.",
+     "url": "https://www.deutschlandfunk.de/xi-auf-dreier-gipfel-mit-putin-und-trump-alles-tun-um-einen-atomkrieg-zu-verhindern-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 12:47",
+     "fokus": "–",
+     "text": "Etwa 80 Minuten dauerte das Gespräch zwischen Xi Jinping, Donald Trump und Wladimir Putin in Shenzhen. Substanzielles wurde nicht beschlossen, es blieb bei Allgemeinplätzen. Das Format »G3« dürfte dennoch geboren sein.",
+     "url": "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 106,
+      "satzlaenge": 13,
+      "langeWoerter": 32
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 13:09",
+     "fokus": "Kompakte Zusammenfassung",
+     "text": "Die Wochenzeitung meldet kurz die Einigung auf Gespräche über Atomwaffen im Rahmen einer Friedenserklärung.",
+     "url": "https://www.zeit.de/politik/ausland/2026-11/dreiergipfel-shenzhen-china-russland-usa-xi-jinping-wladimir-putin-donald-trump-friedenserklaerung-atomkrieg",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während Tagesschau/ARD und ZDFheute sehr detailliert über die Inhalte der Erklärung und Hintergründe berichten, fassen Deutschlandfunk und Zeit das Ereignis in kurzen Meldungen zusammen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Donald Trump, Wladimir Putin, Xi Jinping",
+    "was": "Erstes Dreiertreffen und Verabschiedung einer Friedenserklärung",
+    "wann": "2026-11-19",
+    "wo": "Shenzhen, China",
+    "wie": "In einem eineinhalbstündigen Gespräch und durch die Unterzeichnung einer gemeinsamen Erklärung",
+    "warum": "Zur Besprechung globaler Herausforderungen und atomarer Risiken laut den Berichten",
+    "quellenlage": "Berichte von Tagesschau/ARD, ZDFheute, Deutschlandfunk und Zeit"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Staatschefs der Vereinigten Staaten, Chinas und Russlands haben zum ersten Mal ein gemeinsames Dreiertreffen abgehalten. Der US-amerikanische Präsident Donald Trump, der russische Präsident Wladimir Putin und der chinesische Staatschef Xi Jinping kamen in der chinesischen Metropole Shenzhen zusammen. Das Treffen dauerte etwa eineinhalb Stunden und fand am Rande des APEC-Gipfels statt. Im Mittelpunkt der Zusammenkunft standen Beratungen über globale Fragen, insbesondere über atomare Risiken. Die drei Staatschefs traten damit auf eine neue Ebene der diplomatischen Beziehungen in dieser trilateralen Zusammensetzung.",
+      "Das Treffen endete nach übereinstimmenden Medienberichten mit der Verabschiedung einer sogenannten Friedenserklärung. Chinesischen Staatsmedien zufolge wurde dieses Dokument von allen drei Seiten getragen. Die Erklärung umfasst vier Punkte und befasst sich thematisch mit der Vermeidung eines Atomkrieges sowie mit der strategischen Stabilität. Die drei Großmächte erklärten darin ihre Absicht, einen regulären Dialog über atomare Risiken zu etablieren. Eine detaillierte Vereinbarung über konkrete nukleare Abrüstungsschritte oder einen verbindlichen Zeitplan enthält das Dokument laut den Berichten jedoch nicht.",
+      "Neben der Thematik der Atomwaffen wurden in der Erklärung weitere internationale Fragen behandelt. Laut Angaben aus chinesischen und russischen Quellen einigten sich die drei Länder auf eine Reform der Vereinten Nationen. Zudem verständigten sie sich auf eine Ausweitung der Treibstoffversorgung und äußerten sich zur Arbeit internationaler Gerichte. Der Internationale Strafgerichtshof sowie vergleichbare Institutionen dürften ihre Befugnisse nicht missbrauchen, hiegß es in dem gemeinsamen Papier. Gegen den russischen Präsidenten Putin besteht ein internationaler Haftbefehl im Zusammenhang mit dem Krieg in der Ukraine."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten des Treffens",
+     "absaetze": [
+      "Das Treffen in Shenzhen war das erste seiner Art in dieser Dreierkonstellation. Zu Beginn der Gespräche rief der chinesische Gastgeber Xi Jinping dazu auf, alle Anstrengungen zur Verhinderung eines Atomkrieges zu unternehmen. Ein solcher Krieg könne niemals gewonnen werden und dürfe folglich niemals geführt werden. Auch der US-amerikanische Präsident äußerte sich zu den atomaren Arsenalen und hob hervor, dass die drei Atommächte in einer einzigartigen Position seien, über die Reduzierung der Bestände zu sprechen. Gleichzeitig betonte Donald Trump, dass vereinbarte Reduzierungen der Atomwaffenarsenale eine äußerst schwierige Aufgabe darstellen. China hatte im Vorfeld Gespräche zur Rüstungskontrolle mit Washington und Moskau mehrfach abgelehnt, da die beiden anderen Staaten über wesentlich größere Arsenale verfügen.",
+      "Ein weiterer Punkt des Treffens war das Verhältnis der Großmächte zu regionalen Konflikten und Streitpunkten. US-Präsident Trump sprach in diesem Zusammenhang den Iran-Krieg an und erklärte, dass ein Erwerb von Atomwaffen durch den Iran nicht zugelassen werde. Die USA hatten gemeinsam mit Israel Ende Februar einen groß angelegten Angriff auf den Iran begonnen, gefolgt von Luftschlägen im Juni 2025. Der russische Präsident Putin verwies auf eine von ihm genannte gemeinsame Verantwortung der Großmächte für den Weltfrieden und das gemeinsame Interesse an der Beendigung des Ukraine-Krieges. Die gemeinsam verabschiedete Erklärung enthält allerdings weder den russischen Angriffskrieg gegen die Ukraine noch andere aktuelle internationale Konflikte als konkrete Vertragspunkte.",
+      "Auch das Thema Taiwan wurde während des Dreiertreffens angesprochen. Chinas Staatschef Xi forderte die USA zu Zurückhaltung und zur Vermeidung von Turbulenzen in den bilateralen Beziehungen auf. Taiwan gilt als zentraler und sensibler Streitpunkt zwischen Peking und Washington. Während China die demokratische Inselrepublik als abtrünnige Provinz betrachtet und eine Wiedervereinigung notfalls mit militärischer Gewalt anstrebt, unterhalten die USA zwar keine offiziellen diplomatischen Beziehungen zu Taiwan, sind jedoch gesetzlich zur Bereitstellung von Verteidigungswaffen verpflichtet."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund und Reaktionen",
+     "absaetze": [
+      "Die drei beteiligten Staaten USA, China und Russland nehmen als ständige Mitglieder des Sicherheitsrates der Vereinten Nationen eine zentrale Rolle im globalen Sicherheitssystem ein. Russlands Präsident Putin führt seit fast fünf Jahren einen Angriffskrieg gegen das benachbarte Land Ukraine. Der Iran-Konflikt dauert ebenfalls an, nachdem die USA und Israel Anfang des Jahres militärisch interveniert hatten. Das Verhältnis zwischen China und den USA ist zudem durch den langjährigen Streit um den Status von Taiwan belastet. In diesem politischen Umfeld fand das trilaterale Treffen in Shenzhen statt, das von den beteiligten Staatschefs als historisch bewertet wurde.",
+      "Chinas Staatschef Xi Jinping bezeichnete den Gipfel als wegweisend und erklärte laut Berichten der Tagesschau/ARD, dass die drei ständigen UN-Sicherheitsratsmitglieder ein gutes Beispiel beim Umgang mit globalen Herausforderungen abgeben sollten. Nach Einschätzung von ZDFheute-Auslandskorrespondentin Miriam Steimer diente das Treffen für Xi vor allem dazu, sich als verantwortungsvoller globaler Akteur und Gastgeber zu inszenieren. US-Präsident Donald Trump wertete das Treffen kurz nach dessen Abschluss als ein Ereignis, mit dem Geschichte werde. Gleichzeitig verließ er China kurz nach dem Ende der Gespräche wieder per Flugzeug."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der Internationale Strafgerichtshof ist eine ständige internationale Institution zur Verfolgung von Völkermord, Verbrechen gegen die Menschlichkeit und Kriegsverbrechen. Gegen den russischen Präsidenten Wladimir Putin liegt ein Haftbefehl dieses Gerichts vor.",
+      "Der Vertrag über die Nichtverbreitung von Kernwaffen ist ein internationales Abkommen zur Eindämmung der Verbreitung von Atomwaffen. Er sieht vor, dass die bestehenden Atommächte ihre Arsenale langfristig abbauen, während andere Staaten auf den Erwerb solcher Waffen verzichten."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die drei Präsidenten haben in ihrer gemeinsamen Erklärung vereinbart, einen Dialog über atomare Risiken in die Wege zu leiten. Ob diese angekündigte Initiative zu konkreten Schritten bei der Rüstungskontrolle oder zu weiteren trilateralen Verhandlungen führt, bleibt nach Angaben der Berichte abzuwarten. Es wird sich zeigen, inwieweit die getroffene Friedenserklärung praktische Auswirkungen auf die globale Abrüstung haben wird."
+     ]
+    }
+   ],
+   "zeitleiste": [],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Xi Jinping politician",
+     "bildunterschrift": "Chinas Staatschef Xi Jinping war Gastgeber des ersten trilateralen Treffens in Shenzhen."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Donald Trump politician",
+     "bildunterschrift": "US-Präsident Donald Trump nahm an den Gesprächen über atomare Risiken teil."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Vladimir Putin politician",
+     "bildunterschrift": "Russlands Präsident Wladimir Putin traf in China erstmals in dieser Runde mit Trump und Xi zusammen."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Shenzhen skyline",
+     "bildunterschrift": "Die chinesische Metropole Shenzhen war der Austragungsort des historischen Dreiergipfels."
+    }
+   ],
+   "ort": {
+    "name": "Shenzhen, China"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Spiegel-Quelle entfernt, da der Text nicht aufrufbar war und keine nutzbaren Fakten lieferte."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Friedenserklärung",
+      "Ein offizielles Dokument von Staaten, in dem sie über Frieden und Zusammenarbeit sprechen."
+     ],
+     [
+      "Rüstungskontrolle",
+      "Abmachungen von Ländern, um Waffen zu begrenzen oder zu verringern."
+     ]
+    ],
+    "fragen": [
+     "Welche Ziele verfolgen die drei Großmächte nach Ansicht ihrer Staatschefs mit dem Treffen?",
+     "Warum kritisieren Beobachter, dass die Erklärung keine konkreten Abrüstungsschritte enthält?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wo fand das erste Dreiertreffen der Staatschefs statt?",
+      "optionen": [
+       "In Peking",
+       "In Shenzhen",
+       "In Washington"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Treffen wurde in der chinesischen Metropole Shenzhen abgehalten."
+     },
+     {
+      "frage": "Welches Thema steht im Mittelpunkt der verabschiedeten Friedenserklärung?",
+      "optionen": [
+       "Atomare Risiken",
+       "Wirtschaftssanktionen",
+       "Klimaschutz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Staatschefs kündigten einen Dialog über atomare Risiken an."
+     },
+     {
+      "frage": "Enthält die Erklärung konkrete Zusagen zur atomaren Abrüstung?",
+      "optionen": [
+       "Ja, einen festen Zeitplan",
+       "Ja, mit konkreten Zahlen",
+       "Nein, keine konkreten Zusagen"
+      ],
+      "richtig": 2,
+      "erklaerung": "Laut Tagesschau und ZDFheute enthält das Dokument keine konkreten Zusagen oder Zeitpläne zur Abrüstung."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Staatschefs der USA, Chinas und Russlands haben sich zum ersten Mal zu einem Dreiertreffen getroffen.",
+    "absaetze": [
+     "Das Treffen fand in der chinesischen Stadt Shenzhen statt.",
+     "Die drei Präsidenten sprachen etwa eineinhalb Stunden lang miteinander.",
+     "Sie unterschrieben eine sogenannte Friedenserklärung.",
+     "In dem Papier kündigen sie Gespräche über atomare Risiken an.",
+     "Konkrete Pläne für den Abbau von Atomwaffen enthält die Erklärung nicht."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Präsidenten der USA, Chinas und Russlands hielten ein erstes gemeinsames Dreiertreffen in China ab.",
+     "Sie verabschiedeten eine Friedenserklärung und kündigten Gespräche über atomare Risiken an.",
+     "Konkrete Schritte zur Abrüstung enthält das Dokument laut den Berichten nicht."
+    ],
+    "lang": [
+     "Die Präsidenten der USA, Chinas und Russlands sind in China zu einem ersten gemeinsamen Dreiertreffen zusammengekommen.",
+     "Das Treffen der Staatschefs Donald Trump, Wladimir Putin und Xi Jinping fand in der Stadt Shenzhen statt.",
+     "Die Zusammenkunft dauerte nach Angaben von Tagesschau und ZDF etwa eineinhalb Stunden.",
+     "Die drei Politiker verabschiedeten eine gemeinsame Friedenserklärung zu atomaren Risiken.",
+     "Das teilten chinesische Staatsmedien mit.",
+     "Konkrete Zusagen zu einer atomaren Abrüstung enthält das Dokument allerdings nicht.",
+     "Nach Angaben der Tagesschau rief Xi zu Beginn dazu auf, einen Atomkrieg zu verhindern.",
+     "Der Internationale Strafgerichtshof darf laut der Erklärung seine Befugnisse nicht missbrauchen.",
+     "Ob die Erklärung die Rüstungskontrolle voranbringt, bleibt abzuwarten."
+    ],
+    "einfach": [
+     "Die Präsidenten der USA, Chinas und Russlands haben sich zum ersten Mal getroffen.",
+     "Das Treffen fand in China statt.",
+     "Die drei Politiker unterschrieben eine gemeinsame Erklärung.",
+     "Sie wollen über Risiken von Atomwaffen sprechen.",
+     "Echte Pläne zum Abrüsten gibt es bisher noch nicht."
+    ]
+   },
+   "kurz": [
+    "Die Präsidenten der USA, Chinas und Russlands trafen sich erstmals in China zu einem Dreiergipfel.",
+    "Sie verabschiedeten eine Friedenserklärung und kündigten einen Dialog über atomare Risiken an.",
+    "Konkrete Zusagen zur atomaren Abrüstung enthält das Dokument jedoch nicht."
+   ],
+   "fakten": [
+    [
+     "Dauer des Treffens",
+     "etwa eineinhalb Stunden"
+    ]
+   ],
+   "dossier": {
+    "slug": "dreiertreffen-china-usa-russland",
+    "titel": "Erstes Dreiertreffen der Staatschefs der USA, Chinas und Russlands"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Shenzhen, China",
+    "lat": 22.545,
+    "lon": 114.055
+   },
+   "version": 5
+  },
+  {
+   "id": "commerzbank-uebernahme",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-19T12:24:31.000Z",
+   "titel": "Bundesregierung und UniCredit verständigen sich über Bedingungen zur Commerzbank-Übernahme",
+   "vorspann": "Die Bundesregierung gibt ihren bisherigen Widerstand gegen eine Übernahme der Commerzbank durch die italienische Großbank UniCredit auf. Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel haben sich nach Regierungsangaben auf grundlegende Zusagen für den Standort und die Unternehmensführung geeinigt.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Die Bundesregierung hat ihren Widerstand gegen die geplante Übernahme der Commerzbank durch die italienische Großbank UniCredit aufgegeben.",
+    "Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel verständigten sich auf Garantien für den Hauptsitz Frankfurt am Main und den Erhalt von Arbeitnehmerrechten.",
+    "Als Teil der Abmachung verzichtet die Bundesregierung auf ihre beiden Sitze im Aufsichtsrat der Commerzbank zugunsten zweier unabhängiger Marktexperten.",
+    "Kritik und Sorgen kommen von Arbeitnehmervertretern und der Gewerkschaft Verdi, da das Abkommen keine ausdrückliche Garantie gegen betriebsbedingte Kündigungen enthält."
+   ],
+   "einig": [
+    [
+     "Die Bundesregierung gibt ihren Widerstand gegen die Übernahme der Commerzbank durch UniCredit auf.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "Zeit",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel haben sich auf eine gemeinsame Basis verständigt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Zeit",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Commerzbank soll ihren Sitz in Frankfurt am Main behalten und eine börsennotierte Aktiengesellschaft bleiben.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Das Mittelstandsgeschäft der Commerzbank soll ausgebaut werden und wesentliche Entscheidungen sollen in Deutschland getroffen werden.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Bundesregierung verzichtet auf ihre beiden Aufsichtsratssitze, UniCredit schlägt stattdessen zwei unabhängige Experten vor.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Aufsichtsbehörden, darunter die Europäische Zentralbank, haben die Übernahmepläne genehmigt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute"
+     ]
+    ],
+    [
+     "Es gibt Zusagen zum Standort Deutschland und zur Beachtung von Arbeitnehmerrechten, aber keinen ausdrücklichen Ausschluss betriebsbedingter Kündigungen.",
+     [
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "UniCredit strebt für Anfang 2027 eine außerordentliche Hauptversammlung an, um die Anteilseignervertreter im Aufsichtsrat neu zu wählen.",
+     [
+      "ZDFheute",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Genaue Höhe der aktuellen UniCredit-Beteiligung: Süddeutsche Zeitung nennt 49 Prozent, ZDFheute spricht von knapp 50 Prozent.,Süddeutsche Zeitung / ZDFheute",
+    "Genaue Höhe der Bundesbeteiligung: Tagesschau/ARD und Süddeutsche Zeitung nennen 13,3 Prozent, ZDFheute nennt gut 13 Prozent.,Tagesschau/ARD, Süddeutsche Zeitung / ZDFheute",
+    "Ob und zu welchem Zeitpunkt die Bundesregierung ihre Aktien an der Commerzbank verkaufen wird.,Tagesschau/ARD, ZDFheute, Süddeutsche Zeitung",
+    "Ausmaß des künftigen Stellenabbaus: Commerzbank rechnet mit 3.000 bis 4.000 Stellen, UniCredit plant rund 7.000 Stellen abzubauen, Verdi befürchtet bis zu 15.000 gefährdete Arbeits Arbeitsplätze.,ZDFheute, Süddeutsche Zeitung"
+   ],
+   "positionen": [
+    [
+     "Lars Klingbeil (Bundesfinanzminister)",
+     "Die Zusagen von UniCredit wahren die Kerninteressen der Bundesregierung und bieten eine verlässliche Basis für den Bankenstandort Deutschland.",
+     "Tagesschau/ARD, ZDFheute, Zeit, Süddeutsche Zeitung"
+    ],
+    [
+     "Andrea Orcel (Vorstandsvorsitzender UniCredit)",
+     "Die Einigung schafft Klarheit und ermöglicht die Bildung einer europäischen Bankengruppe mit klarer Führung.",
+     "Tagesschau/ARD, ZDFheute, Süddeutsche Zeitung"
+    ],
+    [
+     "Bettina Orlopp und Vorstand (Commerzbank)",
+     "Begrüßen die Zusagen der UniCredit und wollen gemeinsam an einer Strategie arbeiten, die auf den Stärken beider Häuser fußt.",
+     "ZDFheute"
+    ],
+    [
+     "Gewerkschaft Verdi und Commerzbank-Betriebsrat",
+     "Befürchten den Wegfall von Tausenden Arbeitsplätzen und bemängeln das Fehlen einer Garantie gegen betriebsbedingte Kündigungen.",
+     "ZDFheute, Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Vertreter der europäischen Bankenaufsicht oder der Europäischen Kommission kommen mit eigenen aktuellen Begründungen im Volltext nicht zu Wort.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 02:06",
+     "fokus": "Politischer Durchbruch und Aufsichtsrat",
+     "text": "Berichtet kompakt über die Einigung zwischen Klingbeil und Orcel. Betont insbesondere die Zusagen zum Standort Frankfurt und den Verzicht des Bundes auf Aufsichtsratsmandate.",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 1,
+      "woerter": 183,
+      "satzlaenge": 18,
+      "langeWoerter": 39
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 12:32",
+     "fokus": "Arbeitsplätze und Machtübernahme",
+     "text": "Beleuchtet ausführlich die personellen Risiken für die Beschäftigten und Warnungen von Gewerkschaften. Analysiert die Strategie von Orcel zur Übernahme von Aufsichtsrat und Vorstand.",
+     "url": "https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 4,
+      "woerter": 796,
+      "satzlaenge": 17,
+      "langeWoerter": 40
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "19.11.26, 13:24",
+     "fokus": "Rücknahme des Regierungswiderstands",
+     "text": "Fasst in einer Kurzmeldung die Aufgabe des Widerstands der Bundesregierung gegen die geplante Übernahme zusammen.",
+     "url": "https://www.deutschlandfunk.de/einigung-mit-unicredit-bundesregierung-will-uebernahme-der-commerzbank-nun-unterstuetzen-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 08:46",
+     "fokus": "Verkündung durch Finanzminister",
+     "text": "Meldet kurz das Zustandekommen der Einigung auf Grundlage der Aussagen von Bundesfinanzminister Lars Klingbeil.",
+     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/commerzbank-unicredit-uebernahme-bundesregierung-lars-klingbeil-einigung",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "19.11.26, 09:30",
+     "fokus": "Acht Zusagen und Fusionszeitplan",
+     "text": "Erläutert detailliert die acht schriftlichen Zusagen von Orcel an Klingbeil. Nennt Einzelheiten zur geplanten Verschmelzung mit der Hypovereinsbank für 2028 und personelle Veränderungen.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/commerzbank-unicredit-uebernahme-bundesregierung-klingbeil-li.3582908",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 3,
+      "woerter": 551,
+      "satzlaenge": 17,
+      "langeWoerter": 41
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Detailtiefe bei den Arbeitsplätzen",
+     "ZDFheute und Süddeutsche Zeitung führen konkrete Zahlen zum befürchteten Jobabbau und die Rolle der Gewerkschaft Verdi an, während Tagesschau/ARD, Zeit und Deutschlandfunk dies nur am Rande erwähnen."
+    ],
+    [
+     "Orcels schriftliche Zusagen",
+     "Die Süddeutsche Zeitung berichtet detailliert über die acht konkreten Punkte im Brief von Andrea Orcel an Lars Klingbeil, die andere Quellen nur zusammenfassend erwähnen."
+    ],
+    [
+     "Höhe der Aktienanteile",
+     "Die Süddeutsche Zeitung beziffert den Anteil von UniCredit auf 49 Prozent, ZDFheute spricht von knapp 50 Prozent."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel",
+    "was": "Einigung über Rahmenbedingungen zur Übernahme der Commerzbank",
+    "wann": "19. November 2026",
+    "wo": "Frankfurt am Main und Berlin",
+    "wie": "Durch schriftliche und mündliche Vereinbarungen zu Standort- und Arbeitnehmergarantien",
+    "warum": "UniCredit will europäische Großbank bilden; Bund sieht Kernanliegen gewahrt",
+    "quellenlage": "Aussagen von Finanzminister Klingbeil, Briefe von UniCredit-Chef Orcel, Mitteilungen der Banken"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Bundesregierung hat nach Angaben von Tagesschau/ARD, ZDFheute, Deutschlandfunk, Zeit und Süddeutscher Zeitung ihren Widerstand gegen eine Übernahme des Kreditinstituts Commerzbank durch die italienische Großbank UniCredit aufgegeben. Bundesfinanzminister Lars Klingbeil teilte mit, dass die Bundesregierung und UniCredit nach gemeinsamen Gesprächen eine Basis für das weitere Vorgehen gefunden haben. Die Bundesregierung unterstützt laut seinen Angaben nun ein zügiges Verfahren sowie einen geordneten Übergang der geschäftlichen Kontrolle. UniCredit-Chef Andrea Orcel hatte der Bundesregierung vorab in einem Brief mehrere Zusicherungen für die künftige Entwicklung der Commerzbank übermittelt. Damit rückt ein Zusammenschluss der beiden europäischen Finanzinstitute näher."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "UniCredit hält derzeit einen maßgeblichen Anteil an der deutschen Großbank. Laut Angaben der Süddeutschen Zeitung verfügt das italienische Institut über 49 Prozent der Anteile, während ZDFheute von knapp 50 Prozent über Verträge und Finanzinstrumente berichtet. Die Schwelle von 50 Prozent hat UniCredit laut ZDFheute vorerst nicht überschritten, um kein rechtlich bindendes Übernahmeangebot für die polnische Commerzbank-Tochter mBank auszulösen. Der Bund hält als zweitgrößter Anteilseigner nach Angaben von Tagesschau/ARD und der Süddeutschen Zeitung noch eine Beteiligung von 13,3 Prozent, laut ZDFheute gut 13 Prozent. UniCredit-Chef Andrea Orcel erklärte in seinem Schreiben an das Bundesfinanzministerium, dass die Zusagen auch eine Basis für den Erwerb dieses staatlichen Aktienpakets bildeten."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "UniCredit-Chef Andrea Orcel verfolgt bereits seit rund zwei Jahren das Ziel, die Commerzbank zu übernehmen und zu einem europäischen Bankenkonzern auszubauen. Die Führung der Commerzbank unter Vorstandschefin Bettina Orlopp hatte sich über längere Zeit gegen diesen Plan ausgesprochen und auf die Eigenständigkeit des Instituts gepocht. Vor allem der Schutz des deutschen Mittelstandsgeschäfts und das weltweite Netz an Auslandskontakten wurden von der Commerzbank-Führung als Argumente für eine Unabhängigkeit angeführt. Orcel hatte das internationale Netzwerk der Frankfurter Bank hingegen zuvor als unverhältnismäßig groß eingestuft. Zuletzt hatten mehrere internationale Aufsichtsbehörden grünes Licht für eine Übernahme gegeben."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ein Aufsichtsrat kontrolliert in einer Aktiengesellschaft die Arbeit des geschäftsführenden Vorstands und ernennt dessen Mitglieder. Das Gremium setzt sich bei großen Unternehmen aus Vertretern der Aktionäre und Vertretern der Arbeitnehmerseite zusammen. Wer die Mehrheit der Stimmen auf der Seite der Anteilseigner besitzt, kann maßgeblichen Einfluss auf strategische Weichenstellungen des Unternehmens ausüben. Die Hauptversammlung ist wiederum das oberste Beschlussorgan, in dem die Aktionäre ihr Stimmrecht geltend machen. Dort werden Entscheidungen über Satzungsänderungen, Kapitalmaßnahmen oder die Wahl der Aktionärsvertreter im Aufsichtsrat getroffen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Finanzminister Lars Klingbeil betonte nach Angaben von Tagesschau/ARD, ZDFheute, Zeit und Süddeutscher Zeitung, dass mit den Zusagen eine verlässliche Vereinbarung für die Weiterentwicklung des Frankfurter Geldhauses erreicht worden sei. Er erklärte nach Gesprächen mit UniCredit, die Zusagen seien eine tragfähige Basis, um nachhaltiges Wachstum für die Commerzbank zu sichern. UniCredit-Chef Andrea Orcel begrüßte die Unterstützung des Ministers für seinen Kurs und sprach von gewonnener Klarheit. Nach Angaben von Orcel verleihe diese Einigung der nächsten Phase des Zusammenschlusses neuen Schwung zum Vorteil von Kunden und Beschäftigten. Der Vorstand der Commerzbank kündigte an, gemeinsam mit UniCredit an einer Strategie arbeiten zu wollen, die auf den Stärken beider Häuser aufbaut."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "UniCredit plant laut ZDFheute und Süddeutscher Zeitung für das erste Quartal 2027 die Einberufung einer außerordentlichen Hauptversammlung der Commerzbank. Auf dieser Versammlung sollen alle zehn Anteilseignervertreter im Aufsichtsrat neu gewählt werden. Gelingt es der italienischen Großbank, ihre Vorstellungen im Kontrollgremium durchzusetzen, könnte dies zu einer Neubesetzung des Vorstandes um Commerzbank-Chefin Bettina Orlopp führen. Zugleich bereitet UniCredit die Umsetzung ihrer Einspar- und Wachstumsstrategie vor. Dazu zählt nach den vorliegenden Berichten auch die spätere Verschmelzung der Commerzbank mit der Hypovereinsbank bis 2028."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "2024–2026",
+     "UniCredit-Chef Orcel arbeitet an der Übernahme der Commerzbank; Widerstand von Bankvorstand und Bundesregierung"
+    ],
+    [
+     "Vor dem 19. November 2026",
+     "Zustimmung zur Übernahme durch Europäische Kommission, EZB-Bankenaufsicht und US-Zentralbank Fed"
+    ],
+    [
+     "19. November 2026",
+     "Finanzminister Lars Klingbeil gibt Einigung mit UniCredit über Standort- und Mitbestimmungszusagen bekannt"
+    ],
+    [
+     "Erstes Quartal 2027",
+     "UniCredit plant außerordentliche Hauptversammlung zur Neuwahl der zehn Aufsichtsratsmitglieder der Kapitalseite"
+    ],
+    [
+     "Im Laufe des Jahres 2027",
+     "Angekündigter Rücktritt des UniCredit-Verwaltungsratsvorsitzenden Pier Carlo Padoan"
+    ],
+    [
+     "Für 2028 angepeilt",
+     "Geplante formelle Fusion der Commerzbank mit der Hypovereinsbank"
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Lars Klingbeil",
+     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil verkündete die Einigung der Bundesregierung mit der italienischen Großbank UniCredit."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Andrea Orcel",
+     "bildunterschrift": "Andrea Orcel, Vorstandsvorsitzender der Großbank UniCredit, gab der Bundesregierung schriftliche Zusicherungen."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Commerzbank Tower",
+     "bildunterschrift": "Der Commerzbank Tower in Frankfurt am Main, dem Hauptsitz der Commerzbank."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "UniCredit",
+     "bildunterschrift": "UniCredit ist die italienische Großbank, die die Übernahme der Commerzbank vorantreibt."
+    }
+   ],
+   "ort": {
+    "name": "Frankfurt am Main, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Fachwörter im Bereich Zum Verständnis entfernt, um den reinen Grundwissen-Charakter zu wahren.",
+    "Quellenangaben bei den Reaktionen präzisiert, um strikt den Regeln zu folgen."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Aufsichtsrat",
+      "Ein Gremium, das die Arbeit des Vorstands eines Unternehmens kontrolliert und wichtige Entscheidungen überwacht."
+     ],
+     [
+      "Aktienkapital",
+      "Das Geld, das die Eigentümer eines Unternehmens in Form von Aktien eingebracht haben."
+     ]
+    ],
+    "fragen": [
+     "Welche Vor- und Nachteile kann eine solche Bankübernahme für die Wirtschaft in Deutschland haben?",
+     "Warum ist der Verzicht der Bundesregierung auf ihre Aufsichtsratssitze ein wichtiges Thema bei den Verhandlungen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer hat sich nach den Berichten auf eine gemeinsame Basis geeinigt?",
+      "optionen": [
+       "Lars Klingbeil und Andrea Orcel",
+       "Bettina Orlopp und Olaf Scholz",
+       "Pier Carlo Padoan und Verdi"
+      ],
+      "richtig": 0,
+      "erklaerung": "Nach übereinstimmenden Berichten von Tagesschau, ZDFheute, Zeit und Süddeutscher Zeitung haben sich Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel geeinigt."
+     },
+     {
+      "frage": "Welcher Hauptsitz der Commerzbank wurde in den Zusagen vereinbart?",
+      "optionen": [
+       "München",
+       "Frankfurt am Main",
+       "Berlin"
+      ],
+      "richtig": 1,
+      "erklaerung": "Mehrere Quellen wie Tagesschau/ARD, ZDFheute und Süddeutsche Zeitung bestätigen, dass die Commerzbank ihren Sitz in Frankfurt am Main behalten soll."
+     },
+     {
+      "frage": "Worauf verzichtet die Bundesregierung im Rahmen der Einigung?",
+      "optionen": [
+       "Auf ihren gesamten Aktienanteil",
+       "Auf ihre Forderung nach Sitzen im Aufsichtsrat",
+       "Auf alle Steuereinnahmen der Bank"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau/ARD, ZDFheute und Süddeutscher Zeitung verzichtet die Bundesregierung im Gegenzug auf ihre Forderung, Vertreter in den Aufsichtsrat zu entsenden."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Bundesregierung unterstützt nun die Übernahme der Commerzbank durch die italienische Großbank UniCredit.",
+    "absaetze": [
+     "Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel haben sich geeinigt. Die Commerzbank soll ihren Hauptsitz in Frankfurt am Main behalten. Die Bank bleibt eine Aktiengesellschaft und baut ihr Mittelstandsgeschäft weiter aus. UniCredit hat Zusagen für den Standort Deutschland gemacht. Die Bundesregierung gibt im Gegenzug ihre Sitze im Aufsichtsrat auf. Gewerkschaften und Betriebsräte sorgen sich um Arbeitsplätze, weil das Abkommen keine Garantie gegen Kündigungen enthält."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Bundesregierung gibt ihren Widerstand gegen die Commerzbank-Übernahme auf.",
+     "Bundesfinanzminister Lars Klingbeil und UniCredit-Chef Andrea Orcel erzielten eine Einigung.",
+     "Gewerkschaften kritisieren das Fehlen einer ausdrücklichen Garantie gegen Kündigungen."
+    ],
+    "lang": [
+     "Die Bundesregierung gibt ihren Widerstand gegen die geplante Übernahme der Commerzbank durch die UniCredit auf.",
+     "Das teilten Bundesfinanzminister Lars Klingbeil und der Chef der italienischen Großbank Andrea Orcel mit.",
+     "Die Commerzbank soll danach als börsennotierte Aktiengesellschaft mit Sitz in Frankfurt am Main erhalten bleiben.",
+     "Der Bund verzichtet im Gegenzug auf seine Forderung nach zwei Sitzen im Aufsichtsrat.",
+     "UniCredit hält nach Berichten von Medien knapp fünfzig Prozent der Anteile an der Commerzbank.",
+     "Klingbeil erklärte nach Angaben von Tagesschau und ZDF, die Zusagen entsprächen den wichtigsten Anliegen der Bundesregierung.",
+     "Gewerkschaften wie Verdi kritisieren jedoch, dass es keine Garantie gegen betriebsbedingte Kündigungen gibt.",
+     "Ein Aufsichtsrat ist ein Kontrollorgan, das die Arbeit des Vorstands in einem Unternehmen überwacht.",
+     "Im ersten Quartal des Jahres zweitausend sieben plant UniCredit eine außerordentliche Hauptversammlung zur Neubesetzung des Aufsichtsrats."
+    ],
+    "einfach": [
+     "Die Bundesregierung stoppt ihren Widerstand gegen den Kauf der Commerzbank.",
+     "Die italienische Großbank UniCredit übernimmt das Geldhaus.",
+     "Der Hauptsitz der Bank bleibt in Frankfurt am Main.",
+     "Die Regierung bekommt keine Sitze mehr im Aufsichtsrat.",
+     "Gewerkschaften haben Angst vor dem Verlust von Arbeitsplätzen."
+    ]
+   },
+   "kurz": [
+    "Die Bundesregierung gibt ihren Widerstand gegen die Commerzbank-Übernahme durch UniCredit auf.",
+    "Beide Seiten einigen sich auf Garantien für den Standort Frankfurt und Arbeitnehmerrechte.",
+    "Der Bund verzichtet im Gegenzug auf seine Sitze im Aufsichtsrat der Commerzbank."
+   ],
+   "fakten": [
+    [
+     "Aktienanteil des Bundes an der Commerzbank",
+     "13,3 Prozent"
+    ],
+    [
+     "Anteil von UniCredit an der Commerzbank",
+     "knapp 50 Prozent"
+    ],
+    [
+     "Geplanter Termin für die Hauptversammlung",
+     "erstes Quartal 2027"
+    ],
+    [
+     "Geplante Fusion mit der Hypovereinsbank",
+     "2028"
+    ]
+   ],
+   "dossier": {
+    "slug": "commerzbank-uebernahme-unicredit",
+    "titel": "Übernahme der Commerzbank durch UniCredit"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Frankfurt am Main, Deutschland",
+    "lat": 50.111,
+    "lon": 8.682
+   },
+   "version": 5
+  },
   {
    "id": "abschiebezentrum-ruanda",
    "rubrik": "Welt",
