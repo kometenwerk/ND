@@ -2262,7 +2262,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 7 und 12 Grad. Die Vorhersage für morgen, ",
+   "d": "920b0199e6.mp3",
+   "l": 19.22,
+   "s": [
+    0.25,
+    3.72,
+    10.32,
+    13.59,
+    16.53
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2276,173 +2288,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Mittwoch, 18. No",
-    "d": "5e7cd13907.mp3",
-    "l": 10.18,
-    "s": [
-     0.25,
-     2.64,
-     6.02
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Mittwoch",
-    "d": "92211d7691.mp3",
-    "l": 10.79,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Donnerstag, 19. ",
+    "d": "b3d6228e97.mp3",
+    "l": 10.54,
     "s": [
      0.25,
      2.76,
-     6.57
+     6.42
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Mittwoch, 18. Nov",
-    "d": "8b99b5888a.mp3",
-    "l": 10.94,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Donnerst",
+    "d": "85c9447b38.mp3",
+    "l": 10.42,
     "s": [
      0.25,
-     2.93,
-     6.63
+     2.76,
+     6.74
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Mittwoch, 18. Novem",
-    "d": "19c7464c5c.mp3",
-    "l": 10.34,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Donnerstag, 19. N",
+    "d": "9bc94417cd.mp3",
+    "l": 10.89,
     "s": [
      0.25,
-     2.79,
-     6.14
+     2.99,
+     6.74
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Mittwoch, 18.",
-    "d": "3a6ecee5a9.mp3",
-    "l": 10.19,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Donnerstag, 19. Nov",
+    "d": "fa4b5e1ad2.mp3",
+    "l": 10.35,
     "s": [
      0.25,
-     2.64,
-     6.2
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Mittwoch",
-    "d": "9b9833c9db.mp3",
-    "l": 10.43,
-    "s": [
-     0.25,
-     2.55,
-     6.54
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Mittwoch,",
-    "d": "6d3581121e.mp3",
-    "l": 10.26,
-    "s": [
-     0.25,
-     2.51,
-     6.34
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Mittwoch",
-    "d": "91ebffa85a.mp3",
-    "l": 10.51,
-    "s": [
-     0.25,
-     2.69,
+     2.88,
      6.47
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Mittw",
-    "d": "d918bc4ffa.mp3",
-    "l": 10.87,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Donnerstag, 1",
+    "d": "ef72091a5d.mp3",
+    "l": 10.35,
     "s": [
      0.25,
-     2.62,
-     6.7
+     2.58,
+     6.5
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Mittw",
-    "d": "36517fba6d.mp3",
-    "l": 11.05,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Donnerst",
+    "d": "b059c339a6.mp3",
+    "l": 10.34,
     "s": [
      0.25,
-     2.74,
-     6.97
+     2.66,
+     6.62
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Donnersta",
+    "d": "333df86e01.mp3",
+    "l": 10.79,
+    "s": [
+     0.25,
+     2.8,
+     7.01
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Donnerst",
+    "d": "79087b8f3e.mp3",
+    "l": 10.78,
+    "s": [
+     0.25,
+     2.6,
+     6.84
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Donne",
+    "d": "e5fa18c6ac.mp3",
+    "l": 10.76,
+    "s": [
+     0.25,
+     2.76,
+     6.99
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Donne",
+    "d": "76ba22ca2a.mp3",
+    "l": 10.95,
+    "s": [
+     0.25,
+     2.69,
+     6.91
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "bb29a2ed7b.mp3",
-    "l": 11.62,
+    "d": "bcfc7a1330.mp3",
+    "l": 11.23,
     "s": [
      0.25,
-     2.7,
-     7.43
+     2.81,
+     7.34
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Mittwoch, 18. Novembe",
-    "d": "91369a1d92.mp3",
-    "l": 9.48,
-    "s": [
-     0.25,
-     2.59,
-     5.66
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Mittwoch, 18. November. Es m",
-    "d": "b92c1b80db.mp3",
-    "l": 9.88,
-    "s": [
-     0.25,
-     2.58,
-     5.75
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Mittwoch, 18. November",
-    "d": "3f4af77787.mp3",
-    "l": 9.97,
-    "s": [
-     0.25,
-     2.6,
-     6.02
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Mittwoch, 18. No",
-    "d": "83946a09d8.mp3",
-    "l": 9.92,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Donnerstag, 19. Novem",
+    "d": "ab6985e50d.mp3",
+    "l": 9.99,
     "s": [
      0.25,
      2.74,
-     6.02
+     5.78
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Mittwoch, 18. November. Es ",
-    "d": "56035f6250.mp3",
-    "l": 9.88,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Donnerstag, 19. November. Es",
+    "d": "6349124ed2.mp3",
+    "l": 9.83,
     "s": [
      0.25,
-     2.74,
-     5.81
+     2.71,
+     5.73
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Mittwoch, 18. November. Es",
-    "d": "f483432648.mp3",
-    "l": 10.1,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Donnerstag, 19. Novemb",
+    "d": "91209dbe50.mp3",
+    "l": 10.55,
     "s": [
      0.25,
      2.79,
-     6.07
+     6.39
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Donnerstag, 19. ",
+    "d": "2cd5bd1c74.mp3",
+    "l": 10.39,
+    "s": [
+     0.25,
+     2.59,
+     6.42
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Donnerstag, 19. November. E",
+    "d": "d7b781ae1f.mp3",
+    "l": 9.83,
+    "s": [
+     0.25,
+     2.72,
+     5.96
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Donnerstag, 19. November. ",
+    "d": "2153fa0f7b.mp3",
+    "l": 9.88,
+    "s": [
+     0.25,
+     2.65,
+     5.81
     ]
    },
    {
@@ -2848,7 +2860,112 @@
     "lat": 52.075,
     "lon": 4.27
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Der Internationale Gerichtshof hat Myanmar für Völkermord an den Rohingya verant",
+     "d": "d58faa3e0f.mp3",
+     "l": 54.19,
+     "s": [
+      0.25,
+      6.0,
+      10.21,
+      16.61,
+      22.03,
+      27.49,
+      32.65,
+      37.78,
+      42.28,
+      48.21
+     ]
+    },
+    {
+     "k": "Der Internationale Gerichtshof verurteilt Myanmar wegen Völkermords an den Rohin",
+     "d": "409fb03019.mp3",
+     "l": 15.87,
+     "s": [
+      0.25,
+      5.33,
+      10.92
+     ]
+    },
+    {
+     "k": "Das höchste Gericht der Vereinten Nationen hat Myanmar verurteilt. Es geht um de",
+     "d": "4e05e1c817.mp3",
+     "l": 27.46,
+     "s": [
+      0.25,
+      4.65,
+      8.14,
+      13.83,
+      18.44,
+      22.54
+     ]
+    },
+    {
+     "k": "Die genaue Zahl der Geflüchteten nach Bangladesch schwankt in den Berichten zwis",
+     "d": "ea07067a93.mp3",
+     "l": 9.87,
+     "s": [
+      0.25,
+      5.51
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Internationaler Gerichtshof? Das ist das höchste Gericht",
+     "d": "6ce16af038.mp3",
+     "l": 10.45,
+     "s": [
+      0.25,
+      3.68,
+      6.98
+     ]
+    },
+    {
+     "k": "Der Internationale Gerichtshof in Den Haag hat das Vorgehen Myanmars gegen die m",
+     "d": "557d148279.mp3",
+     "l": 62.73,
+     "s": [
+      0.25,
+      9.87,
+      15.04,
+      20.35,
+      29.11,
+      36.27,
+      49.65,
+      56.07
+     ]
+    },
+    {
+     "k": "Die Krise hat eine lange Vorgeschichte in dem überwiegend buddhistischen Land. I",
+     "d": "6fb2de1038.mp3",
+     "l": 40.24,
+     "s": [
+      0.25,
+      4.53,
+      13.78,
+      17.87,
+      24.01,
+      27.71,
+      31.14,
+      36.73
+     ]
+    },
+    {
+     "k": "Vertreter der Rohingya bewerten die Entscheidung als Anerkennung ihres jahrelang",
+     "d": "e42817901f.mp3",
+     "l": 56.04,
+     "s": [
+      0.25,
+      8.36,
+      13.42,
+      24.76,
+      33.03,
+      37.65,
+      44.74
+     ]
+    }
+   ]
   },
   {
    "id": "gipfel-in-shenzhen",
@@ -3208,7 +3325,130 @@
     "lat": 22.545,
     "lon": 114.055
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Die Präsidenten der USA, Chinas und Russlands sind in China zu einem ersten geme",
+     "d": "08c54ddcb0.mp3",
+     "l": 48.15,
+     "s": [
+      0.25,
+      7.21,
+      13.72,
+      19.9,
+      25.02,
+      27.88,
+      32.78,
+      38.48,
+      43.76
+     ]
+    },
+    {
+     "k": "Die Präsidenten der USA, Chinas und Russlands hielten ein erstes gemeinsames Dre",
+     "d": "e4e14ad005.mp3",
+     "l": 17.02,
+     "s": [
+      0.25,
+      6.89,
+      12.38
+     ]
+    },
+    {
+     "k": "Die Präsidenten der USA, Chinas und Russlands haben sich zum ersten Mal getroffe",
+     "d": "aebb26d8ae.mp3",
+     "l": 18.89,
+     "s": [
+      0.25,
+      6.0,
+      8.37,
+      12.11,
+      15.17
+     ]
+    },
+    {
+     "k": "Inwieweit die Friedenserklärung die internationale Rüstungskontrolle tatsächlich",
+     "d": "60975c35e4.mp3",
+     "l": 9.09,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Friedenserklärung? Ein offizielles Dokument von Staaten,",
+     "d": "31737ac28e.mp3",
+     "l": 8.57,
+     "s": [
+      0.25,
+      3.22
+     ]
+    },
+    {
+     "k": "Die Staatschefs der Vereinigten Staaten, Chinas und Russlands haben zum ersten M",
+     "d": "361f6e9d6f.mp3",
+     "l": 57.64,
+     "s": [
+      0.25,
+      7.47,
+      18.32,
+      23.31,
+      29.88,
+      37.26,
+      43.91,
+      49.46
+     ]
+    },
+    {
+     "k": "Das Treffen in Shenzhen war das erste seiner Art in dieser Dreierkonstellation. ",
+     "d": "ceac197fb8.mp3",
+     "l": 62.07,
+     "s": [
+      0.25,
+      5.32,
+      13.74,
+      18.62,
+      30.23,
+      37.62,
+      47.14,
+      53.25
+     ]
+    },
+    {
+     "k": "Die drei beteiligten Staaten USA, China und Russland nehmen als ständige Mitglie",
+     "d": "e1118798f4.mp3",
+     "l": 70.82,
+     "s": [
+      0.25,
+      10.25,
+      16.62,
+      24.43,
+      31.94,
+      39.98,
+      52.83,
+      63.81
+     ]
+    },
+    {
+     "k": "Der Internationale Strafgerichtshof ist eine ständige internationale Institution",
+     "d": "6b6ef42021.mp3",
+     "l": 29.9,
+     "s": [
+      0.25,
+      9.2,
+      14.77,
+      22.1
+     ]
+    },
+    {
+     "k": "Die drei Präsidenten haben in ihrer gemeinsamen Erklärung vereinbart, einen Dial",
+     "d": "71e80d80a0.mp3",
+     "l": 23.75,
+     "s": [
+      0.25,
+      7.65,
+      16.72
+     ]
+    }
+   ]
   },
   {
    "id": "commerzbank-uebernahme",
@@ -3653,7 +3893,137 @@
     "lat": 50.111,
     "lon": 8.682
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Die Bundesregierung gibt ihren Widerstand gegen die geplante Übernahme der Comme",
+     "d": "734697d92a.mp3",
+     "l": 58.08,
+     "s": [
+      0.25,
+      6.38,
+      13.12,
+      19.73,
+      24.73,
+      30.64,
+      37.6,
+      43.9,
+      49.63
+     ]
+    },
+    {
+     "k": "Die Bundesregierung gibt ihren Widerstand gegen die Commerzbank-Übernahme auf. B",
+     "d": "f79620b997.mp3",
+     "l": 15.32,
+     "s": [
+      0.25,
+      4.42,
+      10.53
+     ]
+    },
+    {
+     "k": "Die Bundesregierung stoppt ihren Widerstand gegen den Kauf der Commerzbank. Die ",
+     "d": "f4a2aefcc4.mp3",
+     "l": 19.42,
+     "s": [
+      0.25,
+      4.52,
+      8.5,
+      12.01,
+      15.5
+     ]
+    },
+    {
+     "k": "Genaue Höhe der aktuellen UniCredit-Beteiligung: Süddeutsche Zeitung nennt 49 Pr",
+     "d": "be8baca8c0.mp3",
+     "l": 12.8,
+     "s": [
+      0.25,
+      10.15
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Aufsichtsrat? Ein Gremium, das die Arbeit des Vorstands ",
+     "d": "4e9bcecafb.mp3",
+     "l": 9.41,
+     "s": [
+      0.25,
+      2.74
+     ]
+    },
+    {
+     "k": "Die Bundesregierung hat nach Angaben von Tagesschau/ARD, ZDFheute, Deutschlandfu",
+     "d": "40ede80ec8.mp3",
+     "l": 43.9,
+     "s": [
+      0.25,
+      13.34,
+      22.77,
+      30.36,
+      39.18
+     ]
+    },
+    {
+     "k": "UniCredit hält derzeit einen maßgeblichen Anteil an der deutschen Großbank. Laut",
+     "d": "37056886ec.mp3",
+     "l": 49.67,
+     "s": [
+      0.25,
+      5.52,
+      17.3,
+      27.95,
+      39.8
+     ]
+    },
+    {
+     "k": "UniCredit-Chef Andrea Orcel verfolgt bereits seit rund zwei Jahren das Ziel, die",
+     "d": "58416d10ca.mp3",
+     "l": 41.6,
+     "s": [
+      0.25,
+      9.87,
+      19.26,
+      28.98,
+      35.66
+     ]
+    },
+    {
+     "k": "Ein Aufsichtsrat kontrolliert in einer Aktiengesellschaft die Arbeit des geschäf",
+     "d": "ad7dcdfccd.mp3",
+     "l": 36.96,
+     "s": [
+      0.25,
+      7.63,
+      14.42,
+      22.86,
+      28.91
+     ]
+    },
+    {
+     "k": "Finanzminister Lars Klingbeil betonte nach Angaben von Tagesschau/ARD, ZDFheute,",
+     "d": "938eefa2fc.mp3",
+     "l": 44.97,
+     "s": [
+      0.25,
+      13.11,
+      20.78,
+      27.86,
+      36.44
+     ]
+    },
+    {
+     "k": "UniCredit plant laut ZDFheute und Süddeutscher Zeitung für das erste Quartal 202",
+     "d": "06329deb24.mp3",
+     "l": 40.89,
+     "s": [
+      0.25,
+      10.55,
+      16.22,
+      26.94,
+      32.42
+     ]
+    }
+   ]
   },
   {
    "id": "abschiebezentrum-ruanda",
