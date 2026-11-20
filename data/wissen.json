@@ -1,6 +1,208 @@
 {
- "stand": "2026-11-20T11:33:49.137Z",
+ "stand": "2026-11-20T20:04:07.099Z",
  "stuecke": [
+  {
+   "id": "wie-polarlichter-am-nachthimmel-entstehen",
+   "zeit": "2026-11-20T20:16:06.603Z",
+   "bereich": "Erde und Klima",
+   "titel": "Wie Polarlichter am Nachthimmel entstehen",
+   "vorspann": "Bunte Leuchterscheinungen am Nachthimmel faszinieren Menschen seit Jahrhunderten. Sie entstehen durch geladene Teilchen der Sonne in der Erdatmosphäre.",
+   "artikel": [
+    {
+     "ueberschrift": "Worum es geht",
+     "absaetze": [
+      "Das Polarlicht ist eine farbige Leuchterscheinung in der Hochatmosphäre der Erde. Auf der Nordhalbkugel nennt man es Nordlicht oder Aurora borealis, auf der Südhalbkugel Südlicht oder Aurora australis. Diese Lichterscheinungen treten meistens in Bändern in der Nähe der Magnetpole auf. Hervorgerufen werden sie durch energiereiche geladene Teilchen, die mit dem Erdmagnetfeld wechselwirken. Wenn diese Teilchen in den Polarregionen auf die Erdatmosphäre treffen, entsteht das helle Leuchten am Himmel.",
+      "Besonders häufig sind Polarlichter unter anderem in Kanada, Skandinavien, Island oder Russland zu sehen. Auch auf anderen Planeten des Sonnensystems wie dem Mars werden solche Erscheinungen beobachtet. Sogar Kernwaffentests in hohen Atmosphärenschichten rufen solche Phänomene hervor, wie etwa der Starfish-Prime-Test der USA im Jahr 1962. Früher deuteten viele Völker die Lichter als Zeichen ihrer Götter oder als Vorboten von schlechten Zeiten. Im Mittelalter galten sie in Europa oft als Vorboten kommenden Unheils."
+     ]
+    },
+    {
+     "ueberschrift": "So funktioniert es",
+     "absaetze": [
+      "Die Sonne ist unstet und kann bei heftigen Eruptionen einen koronalen Massenauswurf hervorbringen. Dieser erreicht die Erde nach etwa zwei Tagen und stört das Erdmagnetfeld, was Fachleute als geomagnetischen Sturm bezeichnen. Durch die Veränderung des Magnetfeldes entsteht auf der Nachtseite der Erde Elektrizität. Elektronen werden beschleunigt und bewegen sich in großen Strömen um die Erde.",
+      "Diese Elektronen treffen an den Fußpunkten der Magnetfeldlinien auf Sauerstoff- und Stickstoffatome der Erdatmosphäre und regen sie an. Beim Rückfall in den Grundzustand senden die Atome Licht aus. Sauerstoffatome erzeugen meist grünes oder rotes Licht, während Stickstoff für blaue und violette Farben sorgt. Das rote Licht entsteht dabei in größerer Höhe als das grüne Licht."
+     ]
+    },
+    {
+     "ueberschrift": "Woher wir das wissen",
+     "absaetze": [
+      "Die Höhe der Polarlichter wurde bereits im 18. Jahrhundert durch Triangulation bestimmt. Dabei peilten Beobachter ein charakteristisches Merkmal von zwei verschiedenen Standorten aus an. John Dalton und Henry Cavendish gelang im Jahr 1789 eine solche Höhenbestimmung, die in etwa heutigen Werten entspricht. Im 20. Jahrhundert ermittelte Carl Störmer durch zahlreiche Bildauswertungen mittlere Höhen für das grüne Licht."
+     ]
+    },
+    {
+     "ueberschrift": "Was noch offen ist",
+     "absaetze": [
+      "Die statistische Ableitung, dass Polarlichter hauptsächlich in bestimmten Monaten von Oktober bis Dezember sowie von Februar bis April auftreten, ist nicht absolut gesichert."
+     ]
+    }
+   ],
+   "fakten": [
+    [
+     "Höhe für rotes Licht",
+     "~250 km"
+    ],
+    [
+     "Höhe für grünes Licht",
+     "~120 km"
+    ],
+    [
+     "Geschwindigkeit des Sonnenwinds",
+     "ca. 1000 km/s"
+    ]
+   ],
+   "begriffe": [
+    [
+     "Aurora borealis",
+     "Der wissenschaftliche Name für das Nordlicht auf der Nordhalbkugel."
+    ],
+    [
+     "Geomagnetischer Sturm",
+     "Eine Störung der Magnetosphäre der Erde durch Sonneneruptionen."
+    ]
+   ],
+   "quiz": [
+    {
+     "frage": "Wo entstehen die Polarlichter hauptsächlich?",
+     "optionen": [
+      "In den Polarregionen",
+      "Am Äquator",
+      "Überall gleich verteilt"
+     ],
+     "richtig": 0,
+     "erklaerung": "Polarlichter treten hauptsächlich in den Polarregionen auf, wo die Feldlinien die Atmosphäre durchdringen."
+    }
+   ],
+   "video": [
+    "Polarlichter sind faszinierende Leuchterscheinungen am Nachthimmel der Erde.",
+    "Wissenschaftlich werden sie auch Aurora borealis und Aurora australis genannt.",
+    "Ausgelöst werden sie durch geladene Teilchen der Sonne.",
+    "Diese Teilchen treffen auf das Magnetfeld der Erde.",
+    "In der Erdatmosphäre regen sie Sauerstoff und Stickstoff an.",
+    "Dadurch entsteht das farbige Leuchten in verschiedenen Höhen.",
+    "Sauerstoff sorgt vor allem für grünes und rotes Licht.",
+    "Stickstoff kann blaues und violettes Licht erzeugen."
+   ],
+   "bild": {
+    "art": "symbol",
+    "suchbegriff": "Polarlicht",
+    "bildunterschrift": "Ein farbiges Polarlicht leuchtet am Nachthimmel auf."
+   },
+   "quelle": {
+    "titel": "Polarlicht",
+    "url": "https://de.wikipedia.org/wiki/Polarlicht",
+    "lizenz": "CC BY-SA 4.0"
+   },
+   "woerter": 330,
+   "bildInfos": [
+    {
+     "titel": "Leuchtturm Akranes Iceland 2015 7001.jpg",
+     "beschreibung": "Leuchtturm Akranes Iceland",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Leuchtturm_Akranes_Iceland_2015_7001.jpg",
+     "urheber": "Theo Schacht",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "artikel": "Polarlicht",
+     "sprache": "de",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Ein farbiges Polarlicht leuchtet am Nachthimmel auf."
+    },
+    {
+     "titel": "Amundsen-Scott marsstation ray h edit.jpg",
+     "beschreibung": "A full moon and 25 second exposure allowed sufficient light into this photo taken at Amundsen-Scott South Pole Station during the long Antarctic night . The new station can be seen at far left, power ",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg/1280px-Amundsen-Scott_marsstation_ray_h_edit.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Amundsen-Scott_marsstation_ray_h_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Amundsen-Scott_marsstation_ray_h_edit.jpg",
+     "urheber": "Photo by Chris Danals, National Science Foundation",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "A full moon and 25 second exposure allowed sufficient light into this photo taken at Amundsen-Scott South Pole Station during the long Antarctic night . The new station can be seen at far left, power "
+    },
+    {
+     "titel": "Aurora2.jpg",
+     "beschreibung": "Purple polar aurora seen from Alaska",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Aurora2.jpg/1280px-Aurora2.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/12/Aurora2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aurora2.jpg",
+     "urheber": "Jan Curtis of the Geophysical Institute at the University of Alaska, ACRC",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Purple polar aurora seen from Alaska"
+    },
+    {
+     "titel": "Aurora Australis From Melbourne.jpg",
+     "beschreibung": "Photographed from Southern Melbourne (38° S)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aurora_Australis_From_Melbourne.jpg/1280px-Aurora_Australis_From_Melbourne.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/9/91/Aurora_Australis_From_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Australis_From_Melbourne.jpg",
+     "urheber": "Yash Soorma",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Photographed from Southern Melbourne (38° S)"
+    },
+    {
+     "titel": "Aurora Saturn.jpg",
+     "beschreibung": "Saturn with ultraviolet Aurorae, photographed in October 1997 by the Hubble Space Telescope's Space Telescope Imaging Spectrograph (STIS) from a distance of 810 million miles (1.3 billion kilometers) ",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aurora_Saturn.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aurora_Saturn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Saturn.jpg",
+     "urheber": "J.T. Trauger (Jet Propulsion Laboratory) and NASA/ESA",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Saturn with ultraviolet Aurorae, photographed in October 1997 by the Hubble Space Telescope's Space Telescope Imaging Spectrograph (STIS) from a distance of 810 million miles (1.3 billion kilometers) "
+    },
+    {
+     "titel": "Aurora Seen From Space by NASA.jpg",
+     "beschreibung": "An image from the International Space Station shows a bright green and red aurora over our planet. The red coloring is reportedly caused by nitrogen in the Earth's atmosphere being bombarded with radi",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Aurora_Seen_From_Space_by_NASA.jpg/1280px-Aurora_Seen_From_Space_by_NASA.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Aurora_Seen_From_Space_by_NASA.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_Seen_From_Space_by_NASA.jpg",
+     "urheber": "NASA -- US government agency",
+     "lizenz": "Public domain",
+     "lizenzUrl": "",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "An image from the International Space Station shows a bright green and red aurora over our planet. The red coloring is reportedly caused by nitrogen in the Earth's atmosphere being bombarded with radi"
+    },
+    {
+     "titel": "Aurora shapes.jpg",
+     "beschreibung": "Polar aurora, Iceland Feb. 2014. Canon EOS 400D, 17mm-f2,8- Iso 1600. First row exposure time 30-20sec, with the naked eye slightly visible. Second row exposure time 4sec., clearly visible.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Aurora_shapes.jpg/1280px-Aurora_shapes.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Aurora_shapes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Aurora_shapes.jpg",
+     "urheber": "Schnuffel2002",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "hinweis": "Bild aus der Wikipedia",
+     "bildunterschrift": "Polar aurora, Iceland Feb. 2014. Canon EOS 400D, 17mm-f2,8- Iso 1600. First row exposure time 30-20sec, with the naked eye slightly visible. Second row exposure time 4sec., clearly visible."
+    }
+   ],
+   "bildInfo": {
+    "titel": "Leuchtturm Akranes Iceland 2015 7001.jpg",
+    "beschreibung": "Leuchtturm Akranes Iceland",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Leuchtturm_Akranes_Iceland_2015_7001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Leuchtturm_Akranes_Iceland_2015_7001.jpg",
+    "urheber": "Theo Schacht",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "artikel": "Polarlicht",
+    "sprache": "de",
+    "art": "symbol",
+    "hinweis": "Bild aus der Wikipedia",
+    "bildunterschrift": "Ein farbiges Polarlicht leuchtet am Nachthimmel auf."
+   }
+  },
   {
    "id": "wie-entsteht-eigentlich-ein-vulkanausbruch",
    "zeit": "2026-11-20T11:42:21.202Z",
@@ -6288,165 +6490,6 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Die Entstehung des Mondes wird durch verschiedene wissenschaftliche Theorien erklärt."
-   }
-  },
-  {
-   "id": "wie-funktioniert-eigentlich-das-deutsche-pfandsystem",
-   "zeit": "2026-10-21T10:14:16.816Z",
-   "bereich": "Gesellschaft und Zusammenleben",
-   "titel": "Wie funktioniert eigentlich das deutsche Pfandsystem?",
-   "vorspann": "In Deutschland wird beim Kauf vieler Flaschen und Dosen ein Pfand bezahlt. Dieses Geld bekommen Käufer bei der Rückgabe wieder zurück.",
-   "artikel": [
-    {
-     "ueberschrift": "Worum es geht",
-     "absaetze": [
-      "Pfand ist ein Geldbetrag, den man beim Kauf von bestimmten Flaschen und Gefäßen zusätzlich zum normalen Preis bezahlen muss. Wer die leeren Behälter korrekt zurückbringt, erhält dieses Geld vollständig erstattet. Dabei wird zwischen Einweg- und Mehrwegbehältern unterschieden. Einwegflaschen werden meist nach der Rückgabe direkt zerstört und das Material wird wiederverwertet. Mehrweggebinde bestehen aus stabileren Materialien und können mehrfach befüllt werden.",
-      "Die Grundlage für das Pfand auf Einweg-Getränkeverpackungen ist die Verpackungsverordnung aus dem Jahr 1991. Diese wurde von der Bundesregierung unter dem Minister Klaus Töpfer von der Partei CDU beschlossen. Im Jahr 1998 wurde die Verordnung von der damaligen Bundesregierung unter Bundesministerin Angela Merkel von der Partei CDU bestätigt und verändert. Unter Umweltminister Jürgen Trittin von der Partei Die Grünen wurde das Einwegpfand schließlich zum 1. Januar 2003 eingeführt."
-     ]
-    },
-    {
-     "ueberschrift": "So funktioniert es",
-     "absaetze": [
-      "Seit dem 29. Mai 2005 beträgt das Pfand für Einweggetränkeverpackungen einheitlich 0,25 Euro. Dies gilt für Verpackungen mit einem Volumen von 0,1 bis 3 Litern. Seit dem 1. Mai 2006 müssen alle Geschäfte, die solche Getränke verkaufen, die Einwegverpackungen auch wieder zurücknehmen. Ausnahmen gelten für Läden mit einer Verkaufsfläche von weniger als 200 Quadratmetern.",
-      "Für Mehrwegverpackungen gibt es im Gegensatz dazu keine gesetzliche Regelung für die Höhe des Pfandes. Die Beträge können von jedem Abfüller frei bestimmt werden. So kostet das Pfand für Mehrweg-Bierflaschen zum Beispiel 0,08 Euro. Mehrweg-Bierflaschen mit einem Bügelverschluss kosten 0,15 Euro Pfand, werden regional aber auch mit anderen Beträgen bepfandet."
-     ]
-    },
-    {
-     "ueberschrift": "Woher wir das wissen",
-     "absaetze": [
-      "Über die Entwicklung des Mehrweganteils gibt es Erhebungen von der Gesellschaft für Konsumforschung. Nach diesen Daten ist die Mehrwegquote bei alkoholfreien Getränken bis zum Jahr 2008 auf 31 Prozent zurückgegangen. Zu den Auswirkungen des Einwegpfandes präsentierte das Umweltbundesamt im Mai 2010 eine Studie, die vom Augsburger Umweltinstitut bifa erstellt worden war."
-     ]
-    },
-    {
-     "ueberschrift": "Was noch offen ist",
-     "absaetze": [
-      "In der Fachliteratur gibt es unterschiedliche Einschätzungen zu steuerlichen Einnahmeverlusten durch den Handel mit Pfandflaschen. Während einige Quellen von einem geringen Umfang ausgehen, werden andere Schätzungen von 40 Millionen Euro als durchaus plausibel bewertet."
-     ]
-    }
-   ],
-   "fakten": [
-    [
-     "Pfandbetrag für Einwegflaschen",
-     "0,25 Euro"
-    ],
-    [
-     "Einführungsjahr Einwegpfand",
-     "2003"
-    ]
-   ],
-   "begriffe": [
-    [
-     "Einwegbehälter",
-     "Getränkebehälter, die nach der Rückgabe meist zerstört und stofflich wiederverwertet werden."
-    ],
-    [
-     "Mehrweggebinde",
-     "Flaschen oder Gefäße aus beständigen Materialien, die nach der Rückgabe mehrfach befüllt werden."
-    ]
-   ],
-   "quiz": [
-    {
-     "frage": "Wann wurde das Einwegpfand in Deutschland eingeführt?",
-     "optionen": [
-      "1. Januar 2003",
-      "1. Mai 2006",
-      "1. Januar 2019"
-     ],
-     "richtig": 0,
-     "erklaerung": "Das Einwegpfand wurde zum 1. Januar 2003 unter Umweltminister Jürgen Trittin eingeführt."
-    }
-   ],
-   "video": [
-    "In Deutschland gibt es ein Pfandsystem für viele Flaschen und Dosen.",
-    "Wer eine Flasche kauft, bezahlt einen Geldbetrag als Pfand zusätzlich.",
-    "Bei der Rückgabe im Geschäft bekommen die Käufer das Geld zurück.",
-    "Man unterscheidet zwischen Einwegflaschen und Mehrwegflaschen.",
-    "Einwegflaschen werden nach der Rückgabe meistens zerstört und recycelt.",
-    "Mehrwegflaschen bestehen aus stabilerem Material und werden neu befüllt.",
-    "Das Einwegpfand beträgt einheitlich null komma zwei fünf Euro.",
-    "Für Mehrwegflaschen gibt es hingegen keine gesetzliche Regelung für die Höhe."
-   ],
-   "bild": {
-    "art": "symbol",
-    "suchbegriff": "Pfand auf Getränkebehälter",
-    "bildunterschrift": "Leergutautomaten nehmen Pfandflaschen und Einwegdosen in Geschäften zurück."
-   },
-   "quelle": {
-    "titel": "Pfand auf Getränkebehälter",
-    "url": "https://de.wikipedia.org/wiki/Pfand_auf_Getr%C3%A4nkebeh%C3%A4lter",
-    "lizenz": "CC BY-SA 4.0"
-   },
-   "woerter": 317,
-   "bildInfos": [
-    {
-     "titel": "Sprudelkasten (fcm).jpg",
-     "beschreibung": "Bildinhalt: Mineralwasserkasten GDB Deutscher Brunnen Format (Breite x Tiefe x Höhe) 355 mm × 270 mm × 345 mm (Höhe wenn durch Stapeln eingesunken: 330 mm) Aufnahmeort: Baden-Baden, Deutschland",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sprudelkasten_%28fcm%29.jpg/1280px-Sprudelkasten_%28fcm%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sprudelkasten_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Sprudelkasten_(fcm).jpg",
-     "urheber": "Photograph: Frank C. Müller , Baden-Baden",
-     "lizenz": "Public domain",
-     "lizenzUrl": "",
-     "artikel": "Pfand auf Getränkebehälter",
-     "sprache": "de",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Leergutautomaten nehmen Pfandflaschen und Einwegdosen in Geschäften zurück."
-    },
-    {
-     "titel": "Berlin Kreuzberg Flaschensammler 18.04.2013 14-01-40.jpg",
-     "beschreibung": "Guy, looking for returnable glass bottles inside a recycling container in Berlin-Kreuzberg",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Berlin_Kreuzberg_Flaschensammler_18.04.2013_14-01-40.jpg/1280px-Berlin_Kreuzberg_Flaschensammler_18.04.2013_14-01-40.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Berlin_Kreuzberg_Flaschensammler_18.04.2013_14-01-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Berlin_Kreuzberg_Flaschensammler_18.04.2013_14-01-40.jpg",
-     "urheber": "Dirk Ingo Franke",
-     "lizenz": "CC BY 3.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/3.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Guy, looking for returnable glass bottles inside a recycling container in Berlin-Kreuzberg"
-    },
-    {
-     "titel": "DiagrammAnteilePfandGetränke.png",
-     "beschreibung": "Die Datei zeigt ein Balkendiagramm zur Verteilung von untersch. Verpackungen mit Pfand in untersch. Getränkesparten für 2019. Quelle GVM.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/DiagrammAnteilePfandGetr%C3%A4nke.png/1280px-DiagrammAnteilePfandGetr%C3%A4nke.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/DiagrammAnteilePfandGetr%C3%A4nke.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:DiagrammAnteilePfandGetr%C3%A4nke.png",
-     "urheber": "VECTRONATOR",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Die Datei zeigt ein Balkendiagramm zur Verteilung von untersch. Verpackungen mit Pfand in untersch. Getränkesparten für 2019. Quelle GVM."
-    },
-    {
-     "titel": "DiagrammEWMWVerbrauchAnteile.png",
-     "beschreibung": "Diese Datei zeigt ein Diagramm über die Anteile von verschiedenen Gebinden am Getränkeverbrauch in den Jahren 2000 bis 2018 in 3-Jahres-Schritten. Die Daten lieferte die Gesellschaft für Verpackungsma",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/DiagrammEWMWVerbrauchAnteile.png/1280px-DiagrammEWMWVerbrauchAnteile.png",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/2/25/DiagrammEWMWVerbrauchAnteile.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:DiagrammEWMWVerbrauchAnteile.png",
-     "urheber": "VECTRONATOR",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "art": "symbol",
-     "hinweis": "Bild aus der Wikipedia",
-     "bildunterschrift": "Diese Datei zeigt ein Diagramm über die Anteile von verschiedenen Gebinden am Getränkeverbrauch in den Jahren 2000 bis 2018 in 3-Jahres-Schritten. Die Daten lieferte die Gesellschaft für Verpackungsma"
-    }
-   ],
-   "bildInfo": {
-    "titel": "Sprudelkasten (fcm).jpg",
-    "beschreibung": "Bildinhalt: Mineralwasserkasten GDB Deutscher Brunnen Format (Breite x Tiefe x Höhe) 355 mm × 270 mm × 345 mm (Höhe wenn durch Stapeln eingesunken: 330 mm) Aufnahmeort: Baden-Baden, Deutschland",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Sprudelkasten_%28fcm%29.jpg/1280px-Sprudelkasten_%28fcm%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sprudelkasten_%28fcm%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Sprudelkasten_(fcm).jpg",
-    "urheber": "Photograph: Frank C. Müller , Baden-Baden",
-    "lizenz": "Public domain",
-    "lizenzUrl": "",
-    "artikel": "Pfand auf Getränkebehälter",
-    "sprache": "de",
-    "art": "symbol",
-    "hinweis": "Bild aus der Wikipedia",
-    "bildunterschrift": "Leergutautomaten nehmen Pfandflaschen und Einwegdosen in Geschäften zurück."
    }
   }
  ]
