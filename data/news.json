@@ -2263,7 +2263,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 3 und 12 Grad. Die Vorhersage für morgen, ",
+   "d": "b400ecfa67.mp3",
+   "l": 18.81,
+   "s": [
+    0.25,
+    3.48,
+    10.11,
+    13.36,
+    16.25
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2687,7 +2699,72 @@
     "lat": 50.45,
     "lon": 30.524
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Russland hat erneut Brücken in der ukrainischen Hauptstadt Kiew angegriffen. Nac",
+     "d": "84e7b513de.mp3",
+     "l": 11.3,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Russland hat Brücken in der Stadt Kiew angegriffen. Dabei wurden drei Brücken be",
+     "d": "85a9de8577.mp3",
+     "l": 13.37,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Genaue Anzahl der Toten",
+     "d": "58836d49cd.mp3",
+     "l": 2.22,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Dnipro-Übergänge? Brücken, die über den Fluss Dnipro in ",
+     "d": "6218d853b3.mp3",
+     "l": 7.98,
+     "s": [
+      0.25,
+      3.14
+     ]
+    },
+    {
+     "k": "Russland hat erneut die Dnipro-Übergänge in der ukrainischen Hauptstadt Kiew ins",
+     "d": "582697634b.mp3",
+     "l": 53.68,
+     "s": [
+      0.25,
+      5.93,
+      11.7,
+      18.84,
+      24.77,
+      31.64,
+      39.85,
+      47.69
+     ]
+    },
+    {
+     "k": "Die Abwehr solcher Angriffe wird laut NZZ für die Ukraine immer schwerer, da ihr",
+     "d": "9362bcbb36.mp3",
+     "l": 49.98,
+     "s": [
+      0.25,
+      7.27,
+      12.82,
+      20.19,
+      24.38,
+      31.89,
+      37.02,
+      43.74
+     ]
+    }
+   ]
   },
   {
    "id": "anthropic-boersengang",
@@ -3105,7 +3182,146 @@
     }
    ],
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Das auf Künstliche Intelligenz spezialisierte Unternehmen Anthropic hat einen Re",
+     "d": "c4f0b7066f.mp3",
+     "l": 48.78,
+     "s": [
+      0.25,
+      7.07,
+      10.88,
+      17.62,
+      23.7,
+      29.08,
+      32.46,
+      38.53,
+      43.9
+     ]
+    },
+    {
+     "k": "Das KI-Unternehmen Anthropic hat einen Rekorderlös an der Börse erzielt. Am zwei",
+     "d": "03a6dd3a29.mp3",
+     "l": 11.64,
+     "s": [
+      0.25,
+      4.75,
+      8.19
+     ]
+    },
+    {
+     "k": "Anthropic stellt Software mit Künstlicher Intelligenz her. Das Unternehmen ging ",
+     "d": "cbce2ffbd2.mp3",
+     "l": 19.23,
+     "s": [
+      0.25,
+      3.94,
+      8.83,
+      11.36,
+      15.27
+     ]
+    },
+    {
+     "k": "Die genaue Bewertung des Unternehmens variiert in den Berichten: Die Zeit nennt ",
+     "d": "2538cd71df.mp3",
+     "l": 16.08,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Börsengang? Der erstmalige Verkauf von Unternehmensantei",
+     "d": "75ca7fd5bc.mp3",
+     "l": 6.94,
+     "s": [
+      0.25,
+      2.75
+     ]
+    },
+    {
+     "k": "Das Unternehmen Anthropic, das den KI-Assistenten Claude entwickelt hat, hat ein",
+     "d": "f2e6730767.mp3",
+     "l": 61.74,
+     "s": [
+      0.25,
+      8.73,
+      19.05,
+      27.54,
+      35.17,
+      42.75,
+      46.77,
+      55.03
+     ]
+    },
+    {
+     "k": "Die Umsätze von Anthropic sind im vergangenen Jahr stark gestiegen und erreichte",
+     "d": "2f20bea6b5.mp3",
+     "l": 72.33,
+     "s": [
+      0.25,
+      13.18,
+      20.96,
+      30.56,
+      35.07,
+      43.35,
+      54.01,
+      64.69
+     ]
+    },
+    {
+     "k": "Künstliche Intelligenz hat sich in den vergangenen Jahren laut den Berichten zu ",
+     "d": "9d8ba22e9d.mp3",
+     "l": 73.58,
+     "s": [
+      0.25,
+      8.18,
+      16.94,
+      25.64,
+      34.88,
+      41.08,
+      52.79,
+      63.88
+     ]
+    },
+    {
+     "k": "Ein Börsengang ist der erstmalige Verkauf von Unternehmensanteilen an der Börse,",
+     "d": "d75fef9de6.mp3",
+     "l": 43.49,
+     "s": [
+      0.25,
+      9.41,
+      14.73,
+      21.66,
+      31.47
+     ]
+    },
+    {
+     "k": "Eckhard Schulte, Portfoliomanager bei MainSky Asset Management, erklärte laut Ta",
+     "d": "701482379d.mp3",
+     "l": 73.01,
+     "s": [
+      0.25,
+      11.02,
+      20.01,
+      24.84,
+      33.91,
+      43.98,
+      53.75,
+      63.52
+     ]
+    },
+    {
+     "k": "Das Unternehmen Anthropic plant laut den Berichten trotz der Marktvolatilität un",
+     "d": "8e591da5b9.mp3",
+     "l": 28.29,
+     "s": [
+      0.25,
+      11.31,
+      17.53
+     ]
+    }
+   ]
   },
   {
    "id": "voelkermord-rohingya",
@@ -3502,7 +3718,128 @@
     }
    ],
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Der Internationale Gerichtshof hat Myanmar für Völkermord an den Rohingya verant",
+     "d": "7a5c4ca6ee.mp3",
+     "l": 61.25,
+     "s": [
+      0.25,
+      5.9,
+      10.8,
+      17.78,
+      23.25,
+      31.49,
+      34.69,
+      43.44,
+      50.36,
+      55.73
+     ]
+    },
+    {
+     "k": "Der Internationale Gerichtshof verurteilte Myanmar wegen Völkermords an den Rohi",
+     "d": "da0721764f.mp3",
+     "l": 15.61,
+     "s": [
+      0.25,
+      5.38,
+      11.33
+     ]
+    },
+    {
+     "k": "Ein Gericht hat Myanmar für Völkermord an den Rohingya verurteilt. Die Rohingya ",
+     "d": "0ae4d10599.mp3",
+     "l": 28.13,
+     "s": [
+      0.25,
+      4.61,
+      9.04,
+      14.85,
+      19.61,
+      23.15
+     ]
+    },
+    {
+     "k": "Die genaue Zahl der geflüchteten Rohingya: ZDFheute nennt mehr als 700. 000, die",
+     "d": "617dd7c9ec.mp3",
+     "l": 9.97,
+     "s": [
+      0.25,
+      5.22
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Internationaler Gerichtshof? Das ist das höchste Gericht",
+     "d": "6ce16af038.mp3",
+     "l": 10.22,
+     "s": [
+      0.25,
+      3.48,
+      6.83
+     ]
+    },
+    {
+     "k": "Der Internationale Gerichtshof hat Myanmar erstmals in der Geschichte der Verein",
+     "d": "ee75c67312.mp3",
+     "l": 42.77,
+     "s": [
+      0.25,
+      7.93,
+      12.51,
+      19.4,
+      24.44,
+      29.54,
+      33.74,
+      35.94
+     ]
+    },
+    {
+     "k": "Das Verfahren wurde von dem westafrikanischen Land Gambia im Jahr 2019 angestren",
+     "d": "d1928ba57e.mp3",
+     "l": 44.42,
+     "s": [
+      0.25,
+      6.13,
+      10.79,
+      15.35,
+      22.32,
+      30.14,
+      33.82,
+      38.63
+     ]
+    },
+    {
+     "k": "Die militärische Offensive im Bundesstaat Rakhine im Jahr 2017 führte zu einer h",
+     "d": "b18d764ff0.mp3",
+     "l": 53.29,
+     "s": [
+      0.25,
+      7.39,
+      14.32,
+      21.46,
+      28.01,
+      35.68,
+      41.97,
+      45.2
+     ]
+    },
+    {
+     "k": "Die Regierung in Myanmar kritisierte das Urteil als ungerecht. Präsidentensprech",
+     "d": "16b3239383.mp3",
+     "l": 42.86,
+     "s": [
+      0.25,
+      4.13,
+      11.37,
+      16.19,
+      21.63,
+      26.02,
+      32.32,
+      36.51
+     ]
+    }
+   ]
   },
   {
    "id": "gipfel-in-shenzhen",
@@ -3915,7 +4252,149 @@
     "lon": 114.055
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Die Staatschefs der USA, Chinas und Russlands haben sich in Shenzhen zu einem dr",
+     "d": "77a6788b0e.mp3",
+     "l": 63.64,
+     "s": [
+      0.25,
+      6.66,
+      11.36,
+      17.57,
+      25.0,
+      31.24,
+      38.25,
+      45.27,
+      51.96,
+      57.9
+     ]
+    },
+    {
+     "k": "Die Staatschefs der USA, Chinas und Russlands haben sich in Shenzhen zu einem Gi",
+     "d": "48d0dd52ab.mp3",
+     "l": 16.11,
+     "s": [
+      0.25,
+      5.73,
+      10.85
+     ]
+    },
+    {
+     "k": "Drei Staatschefs haben sich in China getroffen. Es sind die Präsidenten der Vere",
+     "d": "ae233ae776.mp3",
+     "l": 24.38,
+     "s": [
+      0.25,
+      3.04,
+      8.02,
+      12.11,
+      15.8,
+      19.77
+     ]
+    },
+    {
+     "k": "Ob das Treffen mehr als eine Inszenierung war, ist laut Tagesschau/ARD in den US",
+     "d": "ae106835cf.mp3",
+     "l": 6.52,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Friedenserklärung? Ein Dokument, in dem Staaten gemeinsa",
+     "d": "7862c5ede9.mp3",
+     "l": 8.64,
+     "s": [
+      0.25,
+      2.99
+     ]
+    },
+    {
+     "k": "Im südchinesischen Shenzhen haben sich die Staatschefs der Atommächte USA, China",
+     "d": "e32ed12065.mp3",
+     "l": 52.71,
+     "s": [
+      0.25,
+      7.64,
+      15.78,
+      18.66,
+      23.47,
+      29.59,
+      35.9,
+      42.57
+     ]
+    },
+    {
+     "k": "Die verabschiedete Friedenserklärung enthält laut den übereinstimmenden Berichte",
+     "d": "73bbd30372.mp3",
+     "l": 55.22,
+     "s": [
+      0.25,
+      8.47,
+      11.32,
+      17.49,
+      25.65,
+      32.09,
+      39.52,
+      49.01
+     ]
+    },
+    {
+     "k": "Das Treffen fand vor dem Hintergrund internationaler Konflikte statt. Russland b",
+     "d": "5a671f9056.mp3",
+     "l": 51.63,
+     "s": [
+      0.25,
+      4.27,
+      9.86,
+      18.21,
+      25.28,
+      30.84,
+      38.28,
+      44.4
+     ]
+    },
+    {
+     "k": "Der Apec-Gipfel ist ein Treffen der Asiatisch-Pazifischen Wirtschaftsgemeinschaf",
+     "d": "02904a50c7.mp3",
+     "l": 24.11,
+     "s": [
+      0.25,
+      4.86,
+      9.5,
+      12.85,
+      19.7
+     ]
+    },
+    {
+     "k": "In den USA stieß das Treffen auf Kritik von der Opposition. Der ehemalige demokr",
+     "d": "7f251bd0f1.mp3",
+     "l": 54.26,
+     "s": [
+      0.25,
+      3.96,
+      12.46,
+      18.95,
+      22.17,
+      29.16,
+      37.94,
+      41.94
+     ]
+    },
+    {
+     "k": "Die drei beteiligten Staaten haben laut den Berichten angekündigt, den Dialog üb",
+     "d": "12fa0b1ea4.mp3",
+     "l": 23.89,
+     "s": [
+      0.25,
+      6.75,
+      12.49,
+      16.08
+     ]
+    }
+   ]
   },
   {
    "id": "commerzbank-uebernahme",
@@ -4372,6 +4851,55 @@
       34.27,
       37.24,
       43.76
+     ]
+    },
+    {
+     "k": "Die Commerzbank blickt auf eine lange Geschichte zurück, die im Februar 1870 als",
+     "d": "865a2e22dd.mp3",
+     "l": 62.47,
+     "s": [
+      0.25,
+      8.76,
+      17.56,
+      28.73,
+      33.03,
+      41.34,
+      48.92,
+      55.68
+     ]
+    },
+    {
+     "k": "Eine Aktiengesellschaft ist eine Gesellschaft, deren Grundkapital in Aktien aufg",
+     "d": "1801ad4748.mp3",
+     "l": 31.3,
+     "s": [
+      0.25,
+      6.04,
+      14.27,
+      22.12
+     ]
+    },
+    {
+     "k": "Bundesfinanzminister Lars Klingbeil erklärte, die Zusagen der Unicredit entspräc",
+     "d": "29fcd19500.mp3",
+     "l": 40.89,
+     "s": [
+      0.25,
+      7.3,
+      13.28,
+      21.7,
+      29.49
+     ]
+    },
+    {
+     "k": "Nach der Einigung und den behördlichen Freigaben plant Unicredit die nächsten Sc",
+     "d": "cedecc050e.mp3",
+     "l": 29.05,
+     "s": [
+      0.25,
+      6.14,
+      14.36,
+      21.27
      ]
     }
    ]
