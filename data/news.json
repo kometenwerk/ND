@@ -2263,7 +2263,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 6 und 9 Grad. Die Vorhersage für morgen, S",
+   "d": "43e2efeef9.mp3",
+   "l": 16.72,
+   "s": [
+    0.25,
+    3.78,
+    8.27,
+    11.42,
+    14.02
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2775,7 +2787,136 @@
     "titel": "Krieg in der Ukraine und Raketenangriffe"
    },
    "bildInfos": [],
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Bei russischen Raketenangriffen auf ukrainische Städte wurden nach Angaben von B",
+     "d": "ee677329f0.mp3",
+     "l": 52.55,
+     "s": [
+      0.25,
+      7.02,
+      11.34,
+      17.79,
+      21.17,
+      28.14,
+      32.3,
+      38.2,
+      43.09,
+      49.09
+     ]
+    },
+    {
+     "k": "Russische Raketen haben die ukrainischen Städte Krywyj Rih und Kiew schwer getro",
+     "d": "7e0bc3b210.mp3",
+     "l": 12.62,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Russische Raketen haben ukrainische Städte angegriffen. Dabei gab es nach Angabe",
+     "d": "1f40e12306.mp3",
+     "l": 19.86,
+     "s": [
+      0.25,
+      4.02,
+      8.19,
+      11.43,
+      14.84
+     ]
+    },
+    {
+     "k": "Die genaue Opferzahl in Kiew unterscheidet sich in den Berichten: Die Tagesschau",
+     "d": "368e7d644d.mp3",
+     "l": 10.13,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Ballistische Raketen? Das sind Flugkörper, die nach eine",
+     "d": "39a1c09f28.mp3",
+     "l": 8.92,
+     "s": [
+      0.25,
+      2.96
+     ]
+    },
+    {
+     "k": "Die südukrainische Industriestadt Krywyj Rih wurde von der russischen Armee mit ",
+     "d": "72dd90ba56.mp3",
+     "l": 44.12,
+     "s": [
+      0.25,
+      6.91,
+      13.13,
+      18.16,
+      22.91,
+      28.42,
+      32.74,
+      40.2
+     ]
+    },
+    {
+     "k": "Der Angriff auf Krywyj Rih traf nach Angaben des Militärgouverneurs Olexander Ha",
+     "d": "b8dfdf846a.mp3",
+     "l": 46.47,
+     "s": [
+      0.25,
+      6.92,
+      12.77,
+      18.51,
+      25.29,
+      29.84,
+      34.02,
+      39.24
+     ]
+    },
+    {
+     "k": "Der Konflikt zwischen Russland und der Ukraine dauert bereits seit mehr als vier",
+     "d": "afc1e1aedb.mp3",
+     "l": 40.62,
+     "s": [
+      0.25,
+      5.73,
+      11.01,
+      18.13,
+      23.03,
+      27.49,
+      33.6
+     ]
+    },
+    {
+     "k": "Ballistische Raketen sind Flugkörper, die nach einem anfangs angetriebenen Flug ",
+     "d": "98d308bb94.mp3",
+     "l": 16.29,
+     "s": [
+      0.25,
+      10.82
+     ]
+    },
+    {
+     "k": "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnete den Angriff laut BBC a",
+     "d": "eadeb52d1a.mp3",
+     "l": 41.37,
+     "s": [
+      0.25,
+      8.48,
+      13.39,
+      25.02,
+      33.98
+     ]
+    },
+    {
+     "k": "In den Berichten wurden keine konkreten künftigen militärischen oder politischen",
+     "d": "e555a25d40.mp3",
+     "l": 11.2,
+     "s": [
+      0.25
+     ]
+    }
+   ]
   },
   {
    "id": "anthropic-boersengang",
@@ -3234,7 +3375,134 @@
     "lat": 40.713,
     "lon": -74.006
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Das Technologieunternehmen Anthropic hat an der US-Börse Nasdaq einen großen Bör",
+     "d": "dcc17bff67.mp3",
+     "l": 64.29,
+     "s": [
+      0.25,
+      6.36,
+      12.81,
+      19.75,
+      25.05,
+      34.17,
+      40.88,
+      48.37,
+      57.41
+     ]
+    },
+    {
+     "k": "Das KI-Unternehmen Anthropic hat an der Börse einen starken Start hingelegt, ver",
+     "d": "f54a324829.mp3",
+     "l": 23.61,
+     "s": [
+      0.25,
+      8.04,
+      15.36
+     ]
+    },
+    {
+     "k": "Das Unternehmen Anthropic ging an die Börse in den Vereinigten Staaten. Am erste",
+     "d": "3aa442052f.mp3",
+     "l": 25.69,
+     "s": [
+      0.25,
+      4.98,
+      9.37,
+      13.34,
+      19.6
+     ]
+    },
+    {
+     "k": "Ob Nvidia tatsächlich von der US-Börsenaufsicht SEC wegen Bilanzierungspraktiken",
+     "d": "e1ed75379b.mp3",
+     "l": 10.61,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Börsengang? Das erste Mal bietet ein Unternehmen seine A",
+     "d": "51681e9901.mp3",
+     "l": 8.13,
+     "s": [
+      0.25,
+      2.64
+     ]
+    },
+    {
+     "k": "Das Unternehmen Anthropic hat seinen Börsengang an der US-Technologiebörse Nasda",
+     "d": "48af80c013.mp3",
+     "l": 55.59,
+     "s": [
+      0.25,
+      5.98,
+      13.85,
+      23.28,
+      31.91,
+      36.7,
+      40.87,
+      44.97
+     ]
+    },
+    {
+     "k": "Anthropic hatte laut den Berichten einen großen Börsengang hingelegt. Die Aktie ",
+     "d": "6267094d87.mp3",
+     "l": 61.33,
+     "s": [
+      0.25,
+      4.36,
+      14.55,
+      19.29,
+      26.76,
+      38.29,
+      43.92,
+      49.17
+     ]
+    },
+    {
+     "k": "Künstliche Intelligenz hat sich in den vergangenen Jahren zu einem der wichtigst",
+     "d": "f0303164bd.mp3",
+     "l": 63.52,
+     "s": [
+      0.25,
+      6.6,
+      18.74,
+      29.24,
+      37.48,
+      45.59,
+      52.91,
+      59.84
+     ]
+    },
+    {
+     "k": "Portfoliomanager Ascan Iredi von Plutos äußerte sich zu den möglichen Folgen ein",
+     "d": "e22020b135.mp3",
+     "l": 71.06,
+     "s": [
+      0.25,
+      7.6,
+      15.69,
+      24.12,
+      35.04,
+      45.88,
+      55.41,
+      59.5
+     ]
+    },
+    {
+     "k": "Die Finanzmärkte beobachten weiterhin die Entwicklung der Investitionskosten und",
+     "d": "547e2420df.mp3",
+     "l": 25.56,
+     "s": [
+      0.25,
+      7.5,
+      16.87
+     ]
+    }
+   ]
   },
   {
    "id": "voelkermord-rohingya",
