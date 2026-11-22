@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-22T15:14:27.185Z",
+ "stand": "2026-11-22T21:43:51.046Z",
  "gepusht": [
   "fruehstartrente-bundestag",
   "verbrenner-aus-aufweichung-deutschland-frankreich",
@@ -87,13 +87,12 @@
  "notified": [
   "voelkermord-rohingya",
   "gipfel-in-shenzhen",
-  "commerzbank-uebernahme",
   "anthropic-boersengang",
   "ukraine-bruenke-angriff",
   "klimakonferenz-antalya-cop31"
  ],
  "wetter": {
-  "stand": "2026-11-22T15:14:27.185Z",
+  "stand": "2026-11-22T21:43:51.046Z",
   "morgenTag": "Montag",
   "orte": [
    {
@@ -102,13 +101,13 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 4,
-     "code": 2,
-     "gefuehlt": 1,
-     "wind": 12,
-     "windAus": 344,
-     "feuchte": 83,
-     "druck": 1012,
+     "grad": 1,
+     "code": 1,
+     "gefuehlt": -3,
+     "wind": 11,
+     "windAus": 326,
+     "feuchte": 85,
+     "druck": 1016,
      "niederschlag": 0,
      "tag": 0
     },
@@ -120,7 +119,7 @@
      "regen": 8,
      "menge": 0.1,
      "wind": 13,
-     "windAus": 314,
+     "windAus": 315,
      "uv": 1.2,
      "auf": "07:58",
      "unter": "16:13"
@@ -128,12 +127,12 @@
     "morgen": {
      "datum": "2026-11-23",
      "code": 2,
-     "max": 3,
+     "max": 4,
      "min": -1,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 318,
+     "wind": 15,
+     "windAus": 317,
      "uv": 1.2,
      "auf": "08:00",
      "unter": "16:12"
@@ -147,7 +146,7 @@
       "regen": 8,
       "menge": 0.1,
       "wind": 13,
-      "windAus": 314,
+      "windAus": 315,
       "uv": 1.2,
       "auf": "07:58",
       "unter": "16:13"
@@ -155,12 +154,12 @@
      {
       "datum": "2026-11-23",
       "code": 2,
-      "max": 3,
+      "max": 4,
       "min": -1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 318,
+      "wind": 15,
+      "windAus": 317,
       "uv": 1.2,
       "auf": "08:00",
       "unter": "16:12"
@@ -168,12 +167,12 @@
      {
       "datum": "2026-11-24",
       "code": 3,
-      "max": 2,
-      "min": -2,
-      "regen": 3,
+      "max": 3,
+      "min": -1,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 314,
+      "wind": 10,
+      "windAus": 318,
       "uv": 1.2,
       "auf": "08:01",
       "unter": "16:11"
@@ -183,10 +182,10 @@
       "code": 3,
       "max": 2,
       "min": -2,
-      "regen": 0,
+      "regen": 2,
       "menge": 0,
-      "wind": 8,
-      "windAus": 59,
+      "wind": 7,
+      "windAus": 55,
       "uv": 1.1,
       "auf": "08:03",
       "unter": "16:10"
@@ -194,12 +193,12 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 2,
-      "min": -1,
+      "max": 1,
+      "min": -2,
       "regen": 3,
       "menge": 0,
-      "wind": 9,
-      "windAus": 62,
+      "wind": 12,
+      "windAus": 64,
       "uv": 1.1,
       "auf": "08:05",
       "unter": "16:09"
@@ -207,12 +206,12 @@
      {
       "datum": "2026-11-27",
       "code": 3,
-      "max": -1,
+      "max": 0,
       "min": -3,
-      "regen": 6,
+      "regen": 3,
       "menge": 0,
-      "wind": 10,
-      "windAus": 97,
+      "wind": 8,
+      "windAus": 78,
       "uv": 1.1,
       "auf": "08:06",
       "unter": "16:08"
@@ -221,11 +220,11 @@
       "datum": "2026-11-28",
       "code": 3,
       "max": 0,
-      "min": -4,
-      "regen": 8,
+      "min": -3,
+      "regen": 12,
       "menge": 0,
-      "wind": 18,
-      "windAus": 117,
+      "wind": 17,
+      "windAus": 131,
       "uv": 1.1,
       "auf": "08:08",
       "unter": "16:07"
@@ -233,51 +232,15 @@
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 1,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 0,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
@@ -366,13 +329,49 @@
      },
      {
       "zeit": "14:00",
-      "grad": 3,
+      "grad": 4,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
       "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 1,
       "code": 0,
       "regen": 0
      }
@@ -384,13 +383,13 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 5,
+     "grad": 3,
      "code": 3,
-     "gefuehlt": 1,
+     "gefuehlt": -1,
      "wind": 12,
-     "windAus": 324,
-     "feuchte": 74,
-     "druck": 1007,
+     "windAus": 306,
+     "feuchte": 76,
+     "druck": 1009,
      "niederschlag": 0,
      "tag": 0
     },
@@ -398,24 +397,24 @@
      "datum": "2026-11-22",
      "code": 80,
      "max": 6,
-     "min": 2,
+     "min": 3,
      "regen": 88,
      "menge": 2,
      "wind": 17,
-     "windAus": 297,
+     "windAus": 295,
      "uv": 1.3,
      "auf": "07:40",
      "unter": "16:04"
     },
     "morgen": {
      "datum": "2026-11-23",
-     "code": 3,
-     "max": 4,
+     "code": 77,
+     "max": 3,
      "min": 0,
-     "regen": 23,
-     "menge": 0,
-     "wind": 18,
-     "windAus": 299,
+     "regen": 33,
+     "menge": 0.2,
+     "wind": 19,
+     "windAus": 298,
      "uv": 1.3,
      "auf": "07:41",
      "unter": "16:03"
@@ -425,24 +424,24 @@
       "datum": "2026-11-22",
       "code": 80,
       "max": 6,
-      "min": 2,
+      "min": 3,
       "regen": 88,
       "menge": 2,
       "wind": 17,
-      "windAus": 297,
+      "windAus": 295,
       "uv": 1.3,
       "auf": "07:40",
       "unter": "16:04"
      },
      {
       "datum": "2026-11-23",
-      "code": 3,
-      "max": 4,
+      "code": 77,
+      "max": 3,
       "min": 0,
-      "regen": 23,
-      "menge": 0,
-      "wind": 18,
-      "windAus": 299,
+      "regen": 33,
+      "menge": 0.2,
+      "wind": 19,
+      "windAus": 298,
       "uv": 1.3,
       "auf": "07:41",
       "unter": "16:03"
@@ -450,12 +449,12 @@
      {
       "datum": "2026-11-24",
       "code": 77,
-      "max": 3,
+      "max": 2,
       "min": 0,
-      "regen": 18,
-      "menge": 0.3,
-      "wind": 14,
-      "windAus": 288,
+      "regen": 8,
+      "menge": 0,
+      "wind": 15,
+      "windAus": 294,
       "uv": 1.2,
       "auf": "07:43",
       "unter": "16:02"
@@ -463,12 +462,12 @@
      {
       "datum": "2026-11-25",
       "code": 3,
-      "max": 1,
+      "max": 2,
       "min": -1,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 65,
+      "wind": 6,
+      "windAus": 43,
       "uv": 1.3,
       "auf": "07:45",
       "unter": "16:01"
@@ -476,38 +475,38 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 1,
-      "min": -2,
+      "max": 0,
+      "min": -1,
       "regen": 8,
       "menge": 0,
-      "wind": 13,
-      "windAus": 64,
-      "uv": 1.2,
+      "wind": 14,
+      "windAus": 72,
+      "uv": 1,
       "auf": "07:46",
       "unter": "16:00"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
-      "max": -1,
+      "code": 71,
+      "max": 0,
       "min": -2,
-      "regen": 13,
-      "menge": 0,
-      "wind": 10,
-      "windAus": 67,
-      "uv": 1,
+      "regen": 15,
+      "menge": 2.1,
+      "wind": 13,
+      "windAus": 64,
+      "uv": 1.1,
       "auf": "07:48",
       "unter": "15:59"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 0,
+      "max": 1,
       "min": -2,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 11,
-      "windAus": 100,
+      "wind": 14,
+      "windAus": 111,
       "uv": 1.2,
       "auf": "07:49",
       "unter": "15:58"
@@ -515,81 +514,45 @@
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 13
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 61,
-      "regen": 13
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 61,
-      "regen": 5
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 5
-     },
-     {
       "zeit": "22:00",
       "grad": 3,
       "code": 3,
-      "regen": 8
+      "regen": 3
      },
      {
       "zeit": "23:00",
       "grad": 3,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 3,
+      "code": 3,
       "regen": 5
      },
      {
       "zeit": "01:00",
       "grad": 2,
-      "code": 3,
-      "regen": 3
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 2,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 3
+      "grad": 1,
+      "code": 0,
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 1,
+      "code": 2,
       "regen": 3
      },
      {
@@ -606,57 +569,93 @@
      },
      {
       "zeit": "07:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
       "grad": 0,
       "code": 1,
       "regen": 3
      },
      {
-      "zeit": "08:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 3
-     },
-     {
       "zeit": "09:00",
       "grad": 0,
-      "code": 2,
-      "regen": 8
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 1,
-      "code": 2,
-      "regen": 5
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": 2,
       "code": 2,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 2,
+      "grad": 3,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 3,
       "code": 2,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 4,
+      "grad": 3,
       "code": 2,
-      "regen": 8
+      "regen": 13
      },
      {
       "zeit": "15:00",
-      "grad": 4,
+      "grad": 3,
       "code": 2,
-      "regen": 8
+      "regen": 23
+     },
+     {
+      "zeit": "16:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 25
+     },
+     {
+      "zeit": "17:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 23
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "19:00",
+      "grad": 2,
+      "code": 61,
+      "regen": 33
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 77,
+      "regen": 20
+     },
+     {
+      "zeit": "21:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 15
      }
     ]
    },
@@ -666,13 +665,13 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 5,
-     "code": 1,
-     "gefuehlt": 1,
-     "wind": 7,
-     "windAus": 331,
-     "feuchte": 70,
-     "druck": 997,
+     "grad": 2,
+     "code": 3,
+     "gefuehlt": -1,
+     "wind": 8,
+     "windAus": 309,
+     "feuchte": 87,
+     "druck": 1001,
      "niederschlag": 0,
      "tag": 0
     },
@@ -682,22 +681,22 @@
      "max": 6,
      "min": 2,
      "regen": 33,
-     "menge": 0,
+     "menge": 0.1,
      "wind": 11,
-     "windAus": 288,
+     "windAus": 283,
      "uv": 0.7,
      "auf": "07:39",
      "unter": "16:13"
     },
     "morgen": {
      "datum": "2026-11-23",
-     "code": 3,
+     "code": 61,
      "max": 3,
      "min": -1,
-     "regen": 8,
-     "menge": 0,
+     "regen": 10,
+     "menge": 0.3,
      "wind": 13,
-     "windAus": 294,
+     "windAus": 291,
      "uv": 1.4,
      "auf": "07:40",
      "unter": "16:12"
@@ -709,35 +708,35 @@
       "max": 6,
       "min": 2,
       "regen": 33,
-      "menge": 0,
+      "menge": 0.1,
       "wind": 11,
-      "windAus": 288,
+      "windAus": 283,
       "uv": 0.7,
       "auf": "07:39",
       "unter": "16:13"
      },
      {
       "datum": "2026-11-23",
-      "code": 3,
+      "code": 61,
       "max": 3,
       "min": -1,
-      "regen": 8,
-      "menge": 0,
+      "regen": 10,
+      "menge": 0.3,
       "wind": 13,
-      "windAus": 294,
+      "windAus": 291,
       "uv": 1.4,
       "auf": "07:40",
       "unter": "16:12"
      },
      {
       "datum": "2026-11-24",
-      "code": 3,
+      "code": 71,
       "max": 2,
-      "min": -2,
+      "min": -1,
       "regen": 8,
       "menge": 0,
-      "wind": 8,
-      "windAus": 264,
+      "wind": 9,
+      "windAus": 272,
       "uv": 1.1,
       "auf": "07:42",
       "unter": "16:11"
@@ -747,24 +746,24 @@
       "code": 3,
       "max": 1,
       "min": -2,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 68,
+      "wind": 11,
+      "windAus": 71,
       "uv": 1.4,
       "auf": "07:44",
       "unter": "16:10"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
+      "code": 73,
       "max": 0,
-      "min": -2,
-      "regen": 26,
-      "menge": 5.5,
-      "wind": 12,
-      "windAus": 47,
-      "uv": 1.3,
+      "min": -3,
+      "regen": 43,
+      "menge": 8.2,
+      "wind": 14,
+      "windAus": 62,
+      "uv": 1.2,
       "auf": "07:45",
       "unter": "16:09"
      },
@@ -772,75 +771,39 @@
       "datum": "2026-11-27",
       "code": 71,
       "max": -1,
-      "min": -4,
-      "regen": 31,
-      "menge": 2.6,
+      "min": -3,
+      "regen": 45,
+      "menge": 2.9,
       "wind": 9,
-      "windAus": 52,
-      "uv": 1,
+      "windAus": 20,
+      "uv": 1.1,
       "auf": "07:47",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": -1,
-      "min": -4,
-      "regen": 8,
+      "max": 0,
+      "min": -3,
+      "regen": 3,
       "menge": 0,
-      "wind": 9,
-      "windAus": 103,
-      "uv": 1.3,
+      "wind": 8,
+      "windAus": 102,
+      "uv": 1.4,
       "auf": "07:48",
       "unter": "16:07"
      }
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 5,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 13
-     },
-     {
       "zeit": "22:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 18
+      "grad": 2,
+      "code": 3,
+      "regen": 23
      },
      {
       "zeit": "23:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
       "regen": 13
      },
@@ -848,95 +811,131 @@
       "zeit": "00:00",
       "grad": 2,
       "code": 3,
-      "regen": 5
+      "regen": 8
      },
      {
       "zeit": "01:00",
       "grad": 2,
-      "code": 3,
-      "regen": 5
+      "code": 61,
+      "regen": 8
      },
      {
       "zeit": "02:00",
       "grad": 2,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
       "zeit": "03:00",
       "grad": 2,
       "code": 3,
-      "regen": 3
+      "regen": 5
      },
      {
       "zeit": "04:00",
       "grad": 1,
-      "code": 2,
-      "regen": 5
+      "code": 61,
+      "regen": 10
      },
      {
       "zeit": "05:00",
       "grad": 1,
       "code": 2,
-      "regen": 0
+      "regen": 5
      },
      {
       "zeit": "06:00",
-      "grad": 0,
+      "grad": 1,
       "code": 2,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 0,
       "code": 2,
-      "regen": 8
+      "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 0,
       "code": 2,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 0,
-      "code": 2,
-      "regen": 8
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 1,
-      "code": 3,
-      "regen": 3
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 2,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 2,
-      "code": 3,
-      "regen": 3
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 3,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 3,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "15:00",
       "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
       "code": 2,
       "regen": 0
      }
@@ -948,25 +947,25 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 7,
-     "code": 2,
-     "gefuehlt": 4,
-     "wind": 8,
-     "windAus": 11,
-     "feuchte": 73,
-     "druck": 1004,
+     "grad": 2,
+     "code": 0,
+     "gefuehlt": -1,
+     "wind": 5,
+     "windAus": 339,
+     "feuchte": 83,
+     "druck": 1010,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-22",
      "code": 3,
-     "max": 7,
+     "max": 8,
      "min": 2,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 47,
+     "wind": 7,
+     "windAus": 88,
      "uv": 1.4,
      "auf": "07:59",
      "unter": "16:36"
@@ -974,12 +973,12 @@
     "morgen": {
      "datum": "2026-11-23",
      "code": 3,
-     "max": 2,
-     "min": -1,
+     "max": 3,
+     "min": 0,
      "regen": 0,
      "menge": 0,
-     "wind": 7,
-     "windAus": 258,
+     "wind": 9,
+     "windAus": 349,
      "uv": 1.5,
      "auf": "08:00",
      "unter": "16:35"
@@ -988,12 +987,12 @@
      {
       "datum": "2026-11-22",
       "code": 3,
-      "max": 7,
+      "max": 8,
       "min": 2,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 47,
+      "wind": 7,
+      "windAus": 88,
       "uv": 1.4,
       "auf": "07:59",
       "unter": "16:36"
@@ -1001,12 +1000,12 @@
      {
       "datum": "2026-11-23",
       "code": 3,
-      "max": 2,
-      "min": -1,
+      "max": 3,
+      "min": 0,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 258,
+      "wind": 9,
+      "windAus": 349,
       "uv": 1.5,
       "auf": "08:00",
       "unter": "16:35"
@@ -1018,9 +1017,9 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
+      "wind": 15,
       "windAus": 123,
-      "uv": 1.4,
+      "uv": 1.5,
       "auf": "08:02",
       "unter": "16:34"
      },
@@ -1028,11 +1027,11 @@
       "datum": "2026-11-25",
       "code": 3,
       "max": 4,
-      "min": -1,
+      "min": -2,
       "regen": 12,
       "menge": 0,
-      "wind": 14,
-      "windAus": 103,
+      "wind": 12,
+      "windAus": 99,
       "uv": 1.3,
       "auf": "08:04",
       "unter": "16:33"
@@ -1040,12 +1039,12 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 3,
+      "max": 2,
       "min": -3,
       "regen": 6,
       "menge": 0,
       "wind": 10,
-      "windAus": 21,
+      "windAus": 12,
       "uv": 1.4,
       "auf": "08:05",
       "unter": "16:32"
@@ -1053,25 +1052,25 @@
      {
       "datum": "2026-11-27",
       "code": 3,
-      "max": 3,
+      "max": 2,
       "min": -2,
       "regen": 6,
       "menge": 0,
-      "wind": 11,
-      "windAus": 108,
+      "wind": 9,
+      "windAus": 85,
       "uv": 1.4,
       "auf": "08:07",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
-      "max": 2,
-      "min": -3,
+      "code": 0,
+      "max": 3,
+      "min": -2,
       "regen": 10,
       "menge": 0,
-      "wind": 14,
-      "windAus": 117,
+      "wind": 13,
+      "windAus": 109,
       "uv": 1.4,
       "auf": "08:08",
       "unter": "16:31"
@@ -1079,44 +1078,8 @@
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 7,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
@@ -1134,7 +1097,7 @@
      },
      {
       "zeit": "01:00",
-      "grad": 2,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
@@ -1147,78 +1110,114 @@
      {
       "zeit": "03:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 1,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
       "grad": 1,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "14:00",
+      "zeit": "06:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
       "grad": 2,
       "code": 1,
       "regen": 0
      },
      {
+      "zeit": "13:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
       "zeit": "15:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
       "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 1,
       "code": 0,
       "regen": 0
      }
@@ -1230,15 +1229,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 3,
-     "code": 3,
-     "gefuehlt": 0,
-     "wind": 10,
-     "windAus": 25,
-     "feuchte": 89,
-     "druck": 999,
+     "grad": 1,
+     "code": 2,
+     "gefuehlt": -2,
+     "wind": 5,
+     "windAus": 51,
+     "feuchte": 90,
+     "druck": 1004,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-22",
@@ -1255,13 +1254,13 @@
     },
     "morgen": {
      "datum": "2026-11-23",
-     "code": 2,
-     "max": 3,
+     "code": 45,
+     "max": 4,
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 6,
-     "windAus": 38,
+     "wind": 5,
+     "windAus": 40,
      "uv": 1.6,
      "auf": "07:50",
      "unter": "16:32"
@@ -1282,26 +1281,26 @@
      },
      {
       "datum": "2026-11-23",
-      "code": 2,
-      "max": 3,
+      "code": 45,
+      "max": 4,
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 38,
+      "wind": 5,
+      "windAus": 40,
       "uv": 1.6,
       "auf": "07:50",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-24",
-      "code": 45,
-      "max": 3,
-      "min": -4,
+      "code": 48,
+      "max": 0,
+      "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 52,
+      "wind": 8,
+      "windAus": 54,
       "uv": 1.6,
       "auf": "07:52",
       "unter": "16:31"
@@ -1311,49 +1310,49 @@
       "code": 3,
       "max": 2,
       "min": -3,
-      "regen": 13,
+      "regen": 4,
       "menge": 0,
       "wind": 10,
-      "windAus": 32,
-      "uv": 1.5,
+      "windAus": 42,
+      "uv": 1.4,
       "auf": "07:53",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
-      "max": 0,
+      "code": 3,
+      "max": 1,
       "min": -3,
-      "regen": 10,
-      "menge": 0.6,
-      "wind": 10,
-      "windAus": 14,
-      "uv": 1.5,
+      "regen": 5,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 19,
+      "uv": 1.4,
       "auf": "07:55",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
+      "code": 71,
       "max": 1,
-      "min": -3,
-      "regen": 9,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 42,
-      "uv": 1.4,
+      "min": -4,
+      "regen": 3,
+      "menge": 0.5,
+      "wind": 6,
+      "windAus": 360,
+      "uv": 1.5,
       "auf": "07:56",
       "unter": "16:28"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 2,
-      "min": -4,
-      "regen": 14,
+      "max": 1,
+      "min": -5,
+      "regen": 7,
       "menge": 0,
-      "wind": 8,
-      "windAus": 65,
+      "wind": 7,
+      "windAus": 61,
       "uv": 1.4,
       "auf": "07:58",
       "unter": "16:27"
@@ -1361,45 +1360,9 @@
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 2,
-      "code": 1,
+      "grad": 1,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1410,26 +1373,26 @@
      },
      {
       "zeit": "00:00",
-      "grad": 2,
+      "grad": 1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 2,
+      "grad": 1,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1440,50 +1403,50 @@
      },
      {
       "zeit": "05:00",
-      "grad": 1,
-      "code": 1,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": 0,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": 0,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
       "grad": 0,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": 0,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 1,
-      "code": 1,
+      "grad": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 2,
-      "code": 1,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1494,14 +1457,50 @@
      },
      {
       "zeit": "14:00",
-      "grad": 3,
+      "grad": 4,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "15:00",
+      "grad": 4,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
       "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1512,25 +1511,25 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 6,
+     "grad": 3,
      "code": 3,
-     "gefuehlt": 4,
-     "wind": 7,
-     "windAus": 60,
-     "feuchte": 81,
-     "druck": 979,
+     "gefuehlt": 0,
+     "wind": 5,
+     "windAus": 4,
+     "feuchte": 80,
+     "druck": 985,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-22",
      "code": 45,
      "max": 6,
      "min": 2,
-     "regen": 10,
+     "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 41,
+     "wind": 7,
+     "windAus": 43,
      "uv": 0.9,
      "auf": "07:42",
      "unter": "16:35"
@@ -1538,12 +1537,12 @@
     "morgen": {
      "datum": "2026-11-23",
      "code": 45,
-     "max": 3,
-     "min": 0,
+     "max": 2,
+     "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 5,
-     "windAus": 28,
+     "wind": 6,
+     "windAus": 10,
      "uv": 1.7,
      "auf": "07:43",
      "unter": "16:35"
@@ -1554,10 +1553,10 @@
       "code": 45,
       "max": 6,
       "min": 2,
-      "regen": 10,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 41,
+      "wind": 7,
+      "windAus": 43,
       "uv": 0.9,
       "auf": "07:42",
       "unter": "16:35"
@@ -1565,147 +1564,111 @@
      {
       "datum": "2026-11-23",
       "code": 45,
-      "max": 3,
-      "min": 0,
+      "max": 2,
+      "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 5,
-      "windAus": 28,
+      "wind": 6,
+      "windAus": 10,
       "uv": 1.7,
       "auf": "07:43",
       "unter": "16:35"
      },
      {
       "datum": "2026-11-24",
-      "code": 45,
-      "max": 3,
-      "min": -3,
+      "code": 3,
+      "max": 4,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 106,
+      "wind": 10,
+      "windAus": 108,
       "uv": 1.7,
       "auf": "07:45",
       "unter": "16:34"
      },
      {
       "datum": "2026-11-25",
-      "code": 71,
-      "max": 2,
-      "min": -1,
-      "regen": 26,
-      "menge": 1,
-      "wind": 6,
-      "windAus": 67,
+      "code": 3,
+      "max": 3,
+      "min": -2,
+      "regen": 15,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 68,
       "uv": 1.3,
       "auf": "07:46",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-26",
-      "code": 3,
+      "code": 71,
       "max": 0,
-      "min": -1,
-      "regen": 26,
-      "menge": 0.2,
-      "wind": 6,
-      "windAus": 341,
-      "uv": 1.5,
+      "min": -2,
+      "regen": 23,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 353,
+      "uv": 1.2,
       "auf": "07:48",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 77,
+      "code": 3,
       "max": 0,
       "min": -2,
-      "regen": 18,
-      "menge": 0.3,
-      "wind": 5,
-      "windAus": 37,
-      "uv": 1.3,
+      "regen": 6,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 328,
+      "uv": 1.4,
       "auf": "07:49",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 3,
+      "max": 2,
       "min": -3,
-      "regen": 14,
+      "regen": 8,
       "menge": 0,
-      "wind": 5,
-      "windAus": 128,
-      "uv": 1.4,
+      "wind": 6,
+      "windAus": 131,
+      "uv": 1.5,
       "auf": "07:50",
       "unter": "16:31"
      }
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "17:00",
-      "grad": 6,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "18:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 10
-     },
-     {
-      "zeit": "19:00",
-      "grad": 5,
-      "code": 3,
-      "regen": 8
-     },
-     {
-      "zeit": "20:00",
-      "grad": 4,
-      "code": 3,
-      "regen": 5
-     },
-     {
-      "zeit": "21:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 5
-     },
-     {
       "zeit": "22:00",
       "grad": 3,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 2,
+      "grad": 3,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 2,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 1,
-      "code": 45,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 1,
-      "code": 45,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1716,44 +1679,44 @@
      },
      {
       "zeit": "04:00",
-      "grad": 1,
+      "grad": 0,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 0,
+      "code": 45,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 1,
+      "grad": -1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 0,
+      "grad": -1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 0,
+      "grad": -1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 0,
+      "grad": -1,
       "code": 45,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 0,
+      "code": 45,
       "regen": 0
      },
      {
@@ -1764,7 +1727,7 @@
      },
      {
       "zeit": "12:00",
-      "grad": 2,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
@@ -1782,8 +1745,44 @@
      },
      {
       "zeit": "15:00",
-      "grad": 3,
+      "grad": 2,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -1794,22 +1793,22 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 3,
+     "grad": 2,
      "code": 3,
-     "gefuehlt": 0,
-     "wind": 8,
-     "windAus": 55,
-     "feuchte": 85,
-     "druck": 946,
+     "gefuehlt": -1,
+     "wind": 7,
+     "windAus": 339,
+     "feuchte": 81,
+     "druck": 951,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-22",
      "code": 45,
      "max": 4,
      "min": 0,
-     "regen": 50,
+     "regen": 30,
      "menge": 0,
      "wind": 11,
      "windAus": 58,
@@ -1821,12 +1820,12 @@
      "datum": "2026-11-23",
      "code": 77,
      "max": 2,
-     "min": -1,
-     "regen": 8,
+     "min": -2,
+     "regen": 3,
      "menge": 0,
      "wind": 8,
-     "windAus": 307,
-     "uv": 1.6,
+     "windAus": 309,
+     "uv": 1.8,
      "auf": "07:31",
      "unter": "16:27"
     },
@@ -1836,7 +1835,7 @@
       "code": 45,
       "max": 4,
       "min": 0,
-      "regen": 50,
+      "regen": 30,
       "menge": 0,
       "wind": 11,
       "windAus": 58,
@@ -1848,234 +1847,234 @@
       "datum": "2026-11-23",
       "code": 77,
       "max": 2,
-      "min": -1,
-      "regen": 8,
+      "min": -2,
+      "regen": 3,
       "menge": 0,
       "wind": 8,
-      "windAus": 307,
-      "uv": 1.6,
+      "windAus": 309,
+      "uv": 1.8,
       "auf": "07:31",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-24",
-      "code": 3,
-      "max": 3,
-      "min": -5,
+      "code": 2,
+      "max": 2,
+      "min": -4,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 75,
+      "wind": 10,
+      "windAus": 77,
       "uv": 1.7,
       "auf": "07:33",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-25",
-      "code": 66,
-      "max": 2,
+      "code": 3,
+      "max": 1,
       "min": -5,
-      "regen": 28,
-      "menge": 2.1,
-      "wind": 11,
-      "windAus": 74,
-      "uv": 1.6,
+      "regen": 14,
+      "menge": 0,
+      "wind": 12,
+      "windAus": 79,
+      "uv": 1.5,
       "auf": "07:34",
       "unter": "16:26"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
+      "code": 73,
       "max": -1,
       "min": -2,
-      "regen": 65,
-      "menge": 5.4,
-      "wind": 7,
-      "windAus": 290,
-      "uv": 1.1,
+      "regen": 59,
+      "menge": 18.7,
+      "wind": 11,
+      "windAus": 345,
+      "uv": 1.2,
       "auf": "07:36",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-27",
       "code": 3,
-      "max": -1,
-      "min": -3,
-      "regen": 35,
-      "menge": 0,
-      "wind": 4,
-      "windAus": 335,
-      "uv": 1,
+      "max": 0,
+      "min": -4,
+      "regen": 18,
+      "menge": 0.2,
+      "wind": 9,
+      "windAus": 265,
+      "uv": 1.3,
       "auf": "07:37",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": -1,
+      "max": 0,
       "min": -4,
-      "regen": 11,
+      "regen": 3,
       "menge": 0,
-      "wind": 10,
-      "windAus": 101,
-      "uv": 1.3,
+      "wind": 11,
+      "windAus": 93,
+      "uv": 1.6,
       "auf": "07:38",
       "unter": "16:24"
      }
     ],
     "stunden": [
      {
-      "zeit": "16:00",
-      "grad": 3,
+      "zeit": "22:00",
+      "grad": 2,
       "code": 3,
       "regen": 8
      },
      {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 25
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 35
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 50
-     },
-     {
-      "zeit": "20:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 45
-     },
-     {
-      "zeit": "21:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 33
-     },
-     {
-      "zeit": "22:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 25
-     },
-     {
       "zeit": "23:00",
-      "grad": 1,
+      "grad": 2,
       "code": 3,
-      "regen": 23
+      "regen": 3
      },
      {
       "zeit": "00:00",
       "grad": 1,
       "code": 3,
-      "regen": 8
+      "regen": 3
      },
      {
       "zeit": "01:00",
-      "grad": 0,
+      "grad": 1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 3
+      "grad": 1,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 0,
-      "code": 3,
-      "regen": 3
+      "code": 1,
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 3
+      "grad": 0,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": -1,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "06:00",
-      "grad": -1,
-      "code": 77,
+      "grad": -2,
+      "code": 48,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
+      "grad": -2,
       "code": 77,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
-      "code": 77,
+      "grad": -2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -1,
-      "code": 3,
+      "grad": -2,
+      "code": 77,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 0,
-      "code": 3,
+      "grad": -2,
+      "code": 45,
       "regen": 3
      },
      {
       "zeit": "11:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "13:00",
       "grad": 1,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "14:00",
       "grad": 2,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "15:00",
       "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 2,
       "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 3 und 7 Grad.",
-   "Die Vorhersage für morgen, Montag: im Norden und Osten bewölkt, im Süden und Westen neblig.",
+   "Heute liegen die Höchstwerte zwischen 3 und 8 Grad.",
+   "Die Vorhersage für morgen, Montag: im Norden und Osten teils bewölkt, im Süden und Westen neblig.",
    "Die Temperaturen erreichen dann 2 bis 4 Grad.",
-   "Am wärmsten wird es in Berlin mit 4 Grad.",
+   "Am wärmsten wird es in Hamburg mit 4 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
@@ -2087,7 +2086,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 3,
+       "grad": 4,
        "regen": 0
       },
       {
@@ -2110,8 +2109,8 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 4,
-       "regen": 0
+       "grad": 3,
+       "regen": 0.2
       },
       {
        "name": "GFS",
@@ -2134,12 +2133,12 @@
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
        "grad": 3,
-       "regen": 0
+       "regen": 0.3
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 4,
+       "grad": 3,
        "regen": 0.2
       },
       {
@@ -2156,7 +2155,30 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
+       "grad": 2,
+       "regen": 0
+      },
+      {
+       "name": "GFS",
+       "heim": "USA",
+       "grad": 5,
+       "regen": 0
+      },
+      {
+       "name": "ECMWF",
+       "heim": "Europa",
        "grad": 3,
+       "regen": 0
+      }
+     ]
+    },
+    {
+     "name": "Frankfurt",
+     "je": [
+      {
+       "name": "ICON",
+       "heim": "Deutscher Wetterdienst",
+       "grad": 4,
        "regen": 0
       },
       {
@@ -2174,35 +2196,12 @@
      ]
     },
     {
-     "name": "Frankfurt",
-     "je": [
-      {
-       "name": "ICON",
-       "heim": "Deutscher Wetterdienst",
-       "grad": 3,
-       "regen": 0
-      },
-      {
-       "name": "GFS",
-       "heim": "USA",
-       "grad": 5,
-       "regen": 0
-      },
-      {
-       "name": "ECMWF",
-       "heim": "Europa",
-       "grad": 3,
-       "regen": 0
-      }
-     ]
-    },
-    {
      "name": "Stuttgart",
      "je": [
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2214,7 +2213,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       }
      ]
@@ -2232,21 +2231,21 @@
        "name": "GFS",
        "heim": "USA",
        "grad": 3,
-       "regen": 0.1
+       "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 2,
-       "regen": 0
+       "regen": 0.1
       }
      ]
     }
    ],
-   "spanneGrad": 2,
+   "spanneGrad": 3,
    "uneinigRegen": null,
    "saetze": [
-    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 3 und 5 Grad."
+    "Für Köln gehen die Modelle am weitesten auseinander: zwischen 2 und 5 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2254,19 +2253,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 3 und 7 Grad. Die Vorhersage für morgen, M",
-   "d": "3811400685.mp3",
-   "l": 18.6,
-   "s": [
-    0.25,
-    3.49,
-    10.01,
-    13.14,
-    15.91
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -4906,514 +4893,6 @@
       6.75,
       12.49,
       16.08
-     ]
-    }
-   ]
-  },
-  {
-   "id": "commerzbank-uebernahme",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-19T16:51:02.000Z",
-   "aktualisiert": "aktualisiert um 12:33 Uhr",
-   "titel": "Bundesregierung gibt Widerstand gegen Commerzbank-Übernahme auf",
-   "vorspann": "Nach einer Einigung zwischen dem Bund und der italienischen Unicredit gibt die Bundesregierung ihren Widerstand gegen die Übernahme auf. Unicredit-Chef Andrea Orcel hat Zusagen zum Standort Frankfurt und zu den Beschäftigten gemacht.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "mittel",
-    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
-   },
-   "zusammenfassung": [
-    "Die Bundesregierung hat ihren Widerstand gegen die Commerzbank-Übernahme durch die Unicredit aufgegeben.",
-    "Finanzminister Klingbeil und Unicredit-Chef Orcel verständigten sich auf eine gemeinsame Basis und Zusagen zum Standort Frankfurt.",
-    "Die EU-Kommission und weitere Aufsichtsbehörden haben der Transaktion bereits ohne Auflagen zugestimmt.",
-    "Im ersten Quartal 2027 plant Unicredit eine Hauptversammlung zur Neuwahl des Aufsichtsrats."
-   ],
-   "einig": [
-    [
-     "Der Bund gibt seinen Widerstand gegen die Übernahme der Commerzbank durch die Unicredit auf.",
-     [
-      "ZDFheute",
-      "Zeit"
-     ]
-    ],
-    [
-     "Finanzminister Lars Klingbeil verkündete eine Einigung mit der Unicredit.",
-     [
-      "ZDFheute",
-      "Zeit"
-     ]
-    ],
-    [
-     "Unicredit-Chef Andrea Orcel machte Zusagen zum Standort und Personal.",
-     [
-      "ZDFheute",
-      "FAZ"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob betriebsbedingte Kündigungen bei der Commerzbank trotz der Zusagen ausgeschlossen bleiben, wird laut ZDFheute unterschiedlich bewertet.",
-    "Wie viel der Einfluss der Landesregierung aus Wiesbaden und Frankfurt am Ende tatsächlich bewirkt hat, lässt sich laut FAZ erst in einigen Jahren beurteilen."
-   ],
-   "positionen": [
-    [
-     "Lars Klingbeil (Bundesfinanzminister)",
-     "Die Zusagen der Unicredit entsprechen den Kernanliegen der Bundesregierung und bieten eine gute Basis für nachhaltiges Wachstum.",
-     "ZDFheute,Zeit"
-    ],
-    [
-     "Andrea Orcel (Unicredit-Chef)",
-     "Die Unterstützung der Bundesregierung schafft Klarheit, verleiht der nächsten Phase neuen Schwung und stützt den geordneten Übergabeprozess.",
-     "ZDFheute"
-    ],
-    [
-     "Commerzbank-Vorstand",
-     "Man begrüßt die Zusagen der Unicredit und wird die Interessen aller Stakeholder wahren.",
-     "ZDFheute"
-    ],
-    [
-     "Boris Rhein (Hessischer Ministerpräsident) und Mike Josef (Oberbürgermeister Frankfurt)",
-     "Man hat im Hintergrund versucht, für den Finanzplatz Frankfurt das Beste herauszuholen.",
-     "FAZ"
-    ],
-    [
-     "Gewerkschaft Verdi",
-     "Es wird vor bis zu 15.000 gefährdeten Arbeitsplätzen bei beiden Instituten gewarnt.",
-     "ZDFheute"
-    ]
-   ],
-   "fehlend": "Stimmen von Arbeitnehmervertretern der Commerzbank und der polnischen Tochter mBank im Detail",
-   "medien": [
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "19.11.26, 12:32",
-     "fokus": "Umfassende Berichterstattung mit Details zu Stellenabbau und Strategie",
-     "text": "Der Bericht beleuchtet detailliert die Zusagen des Unicredit-Chefs, die Reaktionen des Finanzministers sowie die internen Sorgen um den Arbeitsplatzabbau.",
-     "url": "https://www.zdfheute.de/wirtschaft/commerzbank-uebernahme-unicredit-bundesregierung-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 4,
-      "woerter": 791,
-      "satzlaenge": 16,
-      "langeWoerter": 40
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "19.11.26, 08:46",
-     "fokus": "Kurze Meldung zur Verkündung der Einigung",
-     "text": "Die Zeit konzentriert sich in einer kurzen Nachricht auf die offizielle Bekanntgabe der Einigung zwischen dem Bund und der UniCredit.",
-     "url": "https://www.zeit.de/wirtschaft/unternehmen/2026-11/commerzbank-unicredit-uebernahme-bundesregierung-lars-klingbeil-einigung",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "19.11.26, 17:51",
-     "fokus": "Bedeutung für den Finanzplatz Frankfurt und historische Einordnung",
-     "text": "Die FAZ betrachtet die Übernahme aus historischer Perspektive und beleuchtet die Rolle der hessischen Landesregierung sowie der Stadt Frankfurt.",
-     "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/commerzbank-sitz-bleibt-in-frankfurt-ein-kleiner-erfolg-fuer-hessen-201697441.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 2,
-      "woerter": 489,
-      "satzlaenge": 21,
-      "langeWoerter": 34
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus der Berichte",
-     "ZDFheute liefert sehr viele wirtschaftliche Details und Zahlen zum Stellenabbau, während die Zeit eine kurze Agenturmeldung bringt und die FAZ den Schwerpunkt auf den Finanzplatz Frankfurt legt."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Bundesregierung und Unicredit",
-    "was": "Einigung über Commerzbank-Übernahme",
-    "wann": "19. November 2026",
-    "wo": "Frankfurt, Berlin und Wiesbaden, Deutschland",
-    "wie": "durch schriftliche Zusagen und gefundene gemeinsame Basis",
-    "warum": "laut Bundesregierung wegen erfüllter Kernanliegen, laut Zeit",
-    "quellenlage": "ZDFheute, Zeit, FAZ"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Die Bundesregierung hat ihren Widerstand gegen eine Übernahme der Commerzbank durch die italienische Großbank Unicredit aufgegeben. Dies teilten Bundesfinanzminister Lars Klingbeil sowie die beteiligten Medien mit. Der Bund und die Unicredit haben laut den Berichten eine gemeinsame Basis für das weitere Vorgehen gefunden. Damit ist der Weg für eine Übernahme des zweitgrößten deutschen Privatgeldhauses frei. Die italienische Bank hält nach Angaben von ZDFheute bereits knapp 50 Prozent der Anteile an der Commerzbank.",
-      "Laut Bundesfinanzminister Lars Klingbeil hat der Chef der italienischen Großbank, Andrea Orcel, in einem Brief Zusagen gemacht. Diese Zusagen entsprechen nach Angaben der Bundesregierung den Kernanliegen für das deutsche Kreditinstitut. Die Bundesregierung unterstützt nun ein zügiges weiteres Verfahren und einen geordneten Übergang der Kontrolle. Das lange Ringen um die Zukunft der Bank hat damit ein Ende gefunden. Die Europäische Kommission hat die Übernahme nach Angaben von ZDFheute bereits ohne Auflagen genehmigt.",
-      "Auch wichtige internationale Aufsichtsbehörden haben der Übernahme laut den Berichten grünes Licht erteilt. Dazu zählen die US-Notenbank Fed sowie die Bankenaufsicht der Europäischen Zentralbank. Unicredit plant, im ersten Quartal 2027 eine außerordentliche Hauptversammlung einzuberufen. Dabei soll der gesamte Aufsichtsrat auf der Kapitalseite neu gewählt werden. Danach könnte der Vorstand um Commerzbank-Chefin Bettina Orlopp ausgetauscht werden, wie ZDFheute berichtet."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Die Zusagen der Unicredit umfassen den Erhalt des Hauptsitzes in Frankfurt sowie die Beibehaltung der Börsennotierung als Aktiengesellschaft. Die Commerzbank soll ihr Mittelstandsgeschäft ausbauen und eine angemessene Kapitalausstattung behalten. Wesentliche Entscheidungen sollen zudem in Deutschland getroffen werden, wie Finanzminister Klingbeil ausführte. Unicredit hat ferner angekündigt, die Rechte der Commerzbank-Beschäftigten zu wahren und den Standort Deutschland zu unterstützen. Ob es einen Verzicht auf betriebsbedingte Kündigungen gibt, blieb in den Aussagen des Finanzministers jedoch offen.",
-      "Die Commerzbank beschäftigt weltweit rund 40.000 Vollzeitkräfte und hat selbst einen Stellenabbau bis zum Jahr 2030 angekündigt. Unicredit sieht nach den vorliegenden Berichten Einsparpotenziale vor und peilt eine formelle Fusion für das Jahr 2028 an. Die Gewerkschaft Verdi warnt vor starkem Arbeitsplatzabbau bei den beteiligten Instituten. Unicredit-Chef Andrea Orcel hat laut ZDFheute das Ziel, rund 7.000 Arbeitsplätze abzubauen. Die genaue künftige Machtverteilung ist auch über Derivate und Beteiligungen geregelt, wobei Orcel die Schwelle von 50 Prozent vorerst nicht überschreiten will.",
-      "Ein weiterer Streitpunkt war der Übergang im Aufsichtsrat der Commerzbank, der nun ebenfalls beigelegt ist. Unicredit wird zwei unabhängige Mitglieder vorschlagen, die den deutschen Markt gut kennen, wie Klingbeil erklärte. Bisher war der Bund mit zwei Vertretern im Aufsichtsrat repräsentiert, verzichtet nun aber auf eigene Sitze. Der Bund hält aktuell noch eine Beteiligung von gut 13 Prozent an der Commerzbank. Sollte die Regierung sich entscheiden, diese Anteile zu verkaufen, würde Unicredit dies laut den Berichten unterstützen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Die Commerzbank blickt auf eine lange Geschichte zurück, die im Februar 1870 als Commerz- und Disconto-Bank in Hamburg begann. Im Laufe von 156 Jahren gab es zahlreiche Übernahmen, eine Aufsplittung nach dem Zweiten Weltkrieg und mehrere Umzüge. Seit 1990 hat die Bank ihren Rechtssitz in Frankfurt am Main, wo sie seit 1997 im höchsten Hochhaus Deutschlands untergebracht ist. Im Jahr 2009 fusionierte der Konzern mit der Dresdner Bank. Die Übernahme durch Unicredit bedeutet laut der FAZ einen zentralen Einschnitt in der Geschichte des Hauses und des Finanzplatzes Frankfurt.",
-      "Unicredit-Chef Andrea Orcel arbeitet nach Angaben der Berichte seit gut zwei Jahren an der Übernahme des Frankfurter Geldhauses. Zu den strategischen Schritten gehört auch die Verschmelzung der Commerzbank mit der Münchner Unicredit-Tochter Hypovereinsbank. Die Landesregierung von Hessen sowie die Stadt Frankfurt haben sich im Vorfeld intensiv in die Gespräche eingeschaltet. Ministerpräsident Boris Rhein und Oberbürgermeister Mike Josef führten Gespräche mit Orcel und stimmten sich mit der Bundesregierung ab. Ziel war es laut FAZ, das Beste für den Finanzplatz Frankfurt herauszuholen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Eine Aktiengesellschaft ist eine Gesellschaft, deren Grundkapital in Aktien aufgeteilt ist. Aktionäre sind Miteigentümer des Unternehmens und haben Stimmrechte auf der Hauptversammlung, dem obersten beschlussfassenden Organ einer Aktiengesellschaft. Der Aufsichtsrat ist ein Kontrollorgan, das den Vorstand einer Gesellschaft überwacht und über wichtige strategische Entscheidungen mitbestimmt. Der Bund hält bei Unternehmen oft Beteiligungen, um politische oder wirtschaftliche Interessen zu wahren, kann sich von diesen Anteilen jedoch wie im Fall der Commerzbank auch wieder trennen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Bundesfinanzminister Lars Klingbeil erklärte, die Zusagen der Unicredit entsprächen den Kernanliegen der Bundesregierung. Sie bilden laut Klingbeil eine gute Basis, um ein nachhaltiges Wachstum für die Commerzbank zu erreichen. Unicredit-Chef Andrea Orcel begrüßte die Unterstützung für seine Strategie und betonte, dies schaffe Klarheit für Kunden und Mitarbeitende. Die Commerzbank erklärte laut ZDFheute, sie begrüße die Zusagen der Unicredit und werde gemeinsam an einer Strategie arbeiten. Hessens Ministerpräsident Boris Rhein und Frankfurts Oberbürgermeister Mike Josef versuchten laut FAZ, im Hintergrund Einfluss auf die Modalitäten zu nehmen, um den Hauptsitz in Frankfurt zu sichern."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Nach der Einigung und den behördlichen Freigaben plant Unicredit die nächsten Schritte für die Übernahme. Im ersten Quartal 2027 soll eine außerordentliche Hauptversammlung stattfinden, um den Aufsichtsrat neu zu wählen. Danach will Unicredit-Chef Andrea Orcel seine Strategie umsetzen und die Integration der Commerzbank vorantreiben. Eine formelle Fusion mit der Hypovereinsbank wird für das Jahr 2028 anpeilt, wie aus der Zeitleiste hervorgeht."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2024–2026",
-     "UniCredit-Chef Orcel arbeitet an der Übernahme der Commerzbank; Widerstand von Bankvorstand und Bundesregierung"
-    ],
-    [
-     "Vor dem 19. November 2026",
-     "Zustimmung zur Übernahme durch Europäische Kommission, EZB-Bankenaufsicht und US-Zentralbank Fed"
-    ],
-    [
-     "19. November 2026",
-     "Finanzminister Lars Klingbeil gibt Einigung mit UniCredit über Standort- und Mitbestimmungszusagen bekannt"
-    ],
-    [
-     "Erstes Quartal 2027",
-     "UniCredit plant außerordentliche Hauptversammlung zur Neuwahl der zehn Aufsichtsratsmitglieder der Kapitalseite"
-    ],
-    [
-     "Im Laufe des Jahres 2027",
-     "Angekündigter Rücktritt des UniCredit-Verwaltungsratsvorsitzenden Pier Carlo Padoan"
-    ],
-    [
-     "Für 2028 angepeilt",
-     "Geplante formelle Fusion der Commerzbank mit der Hypovereinsbank"
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Andrea Orcel businessman",
-     "bildunterschrift": "Unicredit-Chef Andrea Orcel treibt die Übernahme der Commerzbank voran."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Lars Klingbeil politician",
-     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil gab die Einigung mit der Unicredit bekannt."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Boris Rhein politician",
-     "bildunterschrift": "Hessens Ministerpräsident Boris Rhein setzte sich für den Finanzplatz Frankfurt am Main ein."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Commerzbank Tower Frankfurt",
-     "bildunterschrift": "Der Commerzbank-Tower in Frankfurt am Main bleibt Hauptsitz der Bank."
-    }
-   ],
-   "ort": {
-    "name": "Frankfurt am Main, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das unbestätigte Datum des 19. November 2026 wurde aus den W-Fragen entfernt, da es in den Texten so nicht exakt als fixer Tag genannt wird, sondern nur Aussagen vorliegen."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Aktiengesellschaft",
-      "Eine Aktiengesellschaft ist eine Form von Unternehmen. Das Geld des Unternehmens ist in viele kleine Teile aufgeteilt, die Aktien genannt werden."
-     ],
-     [
-      "Aufsichtsrat",
-      "Der Aufsichtsrat ist ein Kontrollorgan in einem Unternehmen. Er überwacht den Vorstand und bestimmt bei wichtigen Entscheidungen mit."
-     ],
-     [
-      "Fusion",
-      "Eine Fusion ist der Zusammenschluss von zwei oder mehr vorher getrennten Unternehmen zu einem einzigen neuen Unternehmen."
-     ]
-    ],
-    "fragen": [
-     "Welche Argumente sprechen aus Sicht der beteiligten Politiker für oder gegen die Vereinbarungen mit der Unicredit?",
-     "Warum ist der Erhalt des Hauptsitzes in Frankfurt für die Stadt und das Bundesland Hessen so wichtig?"
-    ],
-    "quiz": [
-     {
-      "frage": "Welche Institution hat ihre Zustimmung zu der Übernahme bereits ohne Auflagen erteilt?",
-      "optionen": [
-       "Die EU-Kommission",
-       "Das Europäische Parlament",
-       "Der Deutsche Bundestag"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut ZDFheute hat die EU-Kommission die Übernahme der Commerzbank ohne Auflagen genehmigt."
-     },
-     {
-      "frage": "Wer gab die Einigung zwischen dem Bund und der Unicredit bekannt?",
-      "optionen": [
-       "Bundeskanzler",
-       "Finanzminister Lars Klingbeil",
-       "Commerzbank-Chefin Bettina Orlopp"
-      ],
-      "richtig": 1,
-      "erklaerung": "ZDFheute und die Zeit berichten übereinstimmend, dass Finanzminister Lars Klingbeil die Einigung verkündet hat."
-     },
-     {
-      "frage": "Wo soll der Hauptsitz der Commerzbank laut den Zusagen bleiben?",
-      "optionen": [
-       "In München",
-       "In Berlin",
-       "In Frankfurt"
-      ],
-      "richtig": 2,
-      "erklaerung": "ZDFheute und die FAZ berichten, dass die Commerzbank eine Aktiengesellschaft mit Sitz in Frankfurt bleiben soll."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Die Bundesregierung will nicht länger verhindern, dass eine italienische Bank die Commerzbank übernimmt.",
-    "absaetze": [
-     "Die italienische Großbank Unicredit möchte die Commerzbank kaufen.",
-     "Lange Zeit war die Bundesregierung dagegen.",
-     "Nun hat sich Finanzminister Lars Klingbeil mit der Unicredit geeinigt.",
-     "Die Unicredit hat versprochen, dass der Hauptsitz in Frankfurt am Main bleiben soll.",
-     "Ob es Kündigungen für die Beschäftigten geben wird, bleibt bisher unklar."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Die Bundesregierung gibt ihren Widerstand gegen die Übernahme der Commerzbank auf.",
-     "Die italienische Bank Unicredit hat dem Bund Zusagen zum Standort Frankfurt gemacht.",
-     "Im ersten Quartal des Jahres 2027 plant Unicredit eine Hauptversammlung."
-    ],
-    "lang": [
-     "Die Bundesregierung hat ihren Widerstand gegen die Übernahme der Commerzbank aufgegeben.",
-     "Nach Angaben von Finanzminister Lars Klingbeil gibt es eine Einigung mit der italienischen Bank Unicredit.",
-     "Die Unicredit-Führung hat schriftliche Zusagen zum Standort Frankfurt am Main gemacht.",
-     "Die Europäische Kommission hat die Pläne nach Medienberichten bereits ohne Auflagen genehmigt.",
-     "Die Commerzbank soll nach den Plänen eine Aktiengesellschaft mit Sitz in Frankfurt bleiben.",
-     "Unicredit hält nach Angaben von ZDFheute bereits knapp fünfzig Prozent der Anteile.",
-     "Gewerkschaften wie Verdi warnen vor möglichen Gefahren für Arbeitsplätze bei den beteiligten Instituten.",
-     "Eine Aktiengesellschaft ist ein Unternehmen, dessen Grundkapital in Aktien aufgeteilt ist.",
-     "Im ersten Quartal des Jahres 2027 will die Unicredit eine Hauptversammlung zur Neuwahl des Aufsichtsrats einberufen.",
-     "Wie sich die Übernahme auf die Beschäftigten auswirkt, bleibt in den kommenden Monaten weiter unklar."
-    ],
-    "einfach": [
-     "Die Bundesregierung stoppt den Widerstand gegen die Commerzbank-Übernahme.",
-     "Die italienische Bank Unicredit übernimmt das Geldhaus.",
-     "Der Bund und die Unicredit haben sich auf eine gemeinsame Basis geeinigt.",
-     "Die Bank behält ihren Hauptsitz in Frankfurt am Main.",
-     "Ob Arbeitsplätze sicher sind, ist im Moment noch unklar."
-    ]
-   },
-   "kurz": [
-    "Die Bundesregierung gibt den Widerstand gegen die Commerzbank-Übernahme auf.",
-    "Unicredit-Chef Orcel sagte Zusagen für den Standort Frankfurt und die Beschäftigten zu.",
-    "Die EU-Kommission hat die Übernahme bereits ohne Auflagen genehmigt."
-   ],
-   "fakten": [
-    [
-     "Beteiligung des Bundes",
-     "gut 13 Prozent"
-    ],
-    [
-     "Mitarbeiter weltweit bei der Commerzbank",
-     "rund 40.000 Vollzeitkräfte"
-    ],
-    [
-     "Geplanter Stellenabbau durch Unicredit",
-     "etwa 7.000 Arbeitsplätze"
-    ]
-   ],
-   "dossier": {
-    "slug": "commerzbank-uebernahme-unicredit",
-    "titel": "Übernahme der Commerzbank durch Unicredit"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Frankfurt am Main, Deutschland",
-    "lat": 50.111,
-    "lon": 8.682
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Die Bundesregierung hat ihren Widerstand gegen die Übernahme der Commerzbank auf",
-     "d": "077717a1f2.mp3",
-     "l": 57.88,
-     "s": [
-      0.25,
-      4.79,
-      11.02,
-      15.88,
-      21.21,
-      26.42,
-      32.12,
-      38.2,
-      43.94,
-      52.2
-     ]
-    },
-    {
-     "k": "Die Bundesregierung gibt ihren Widerstand gegen die Übernahme der Commerzbank au",
-     "d": "df5fc97414.mp3",
-     "l": 15.84,
-     "s": [
-      0.25,
-      4.74,
-      9.8
-     ]
-    },
-    {
-     "k": "Die Bundesregierung stoppt den Widerstand gegen die Commerzbank-Übernahme. Die i",
-     "d": "f65f322d73.mp3",
-     "l": 21.75,
-     "s": [
-      0.25,
-      5.03,
-      9.11,
-      13.94,
-      17.67
-     ]
-    },
-    {
-     "k": "Ob betriebsbedingte Kündigungen bei der Commerzbank trotz der Zusagen ausgeschlo",
-     "d": "4d3b174281.mp3",
-     "l": 8.64,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Aktiengesellschaft? Eine Aktiengesellschaft ist eine For",
-     "d": "6268f792da.mp3",
-     "l": 12.81,
-     "s": [
-      0.25,
-      3.26,
-      6.95
-     ]
-    },
-    {
-     "k": "Die Bundesregierung hat ihren Widerstand gegen eine Übernahme der Commerzbank du",
-     "d": "ab9ac7f18d.mp3",
-     "l": 51.13,
-     "s": [
-      0.25,
-      7.47,
-      12.64,
-      18.59,
-      23.48,
-      30.75,
-      38.27,
-      44.26
-     ]
-    },
-    {
-     "k": "Die Zusagen der Unicredit umfassen den Erhalt des Hauptsitzes in Frankfurt sowie",
-     "d": "bc9e54fce7.mp3",
-     "l": 52.51,
-     "s": [
-      0.25,
-      8.21,
-      14.22,
-      20.59,
-      27.96,
-      34.27,
-      37.24,
-      43.76
-     ]
-    },
-    {
-     "k": "Die Commerzbank blickt auf eine lange Geschichte zurück, die im Februar 1870 als",
-     "d": "865a2e22dd.mp3",
-     "l": 62.47,
-     "s": [
-      0.25,
-      8.76,
-      17.56,
-      28.73,
-      33.03,
-      41.34,
-      48.92,
-      55.68
-     ]
-    },
-    {
-     "k": "Eine Aktiengesellschaft ist eine Gesellschaft, deren Grundkapital in Aktien aufg",
-     "d": "1801ad4748.mp3",
-     "l": 31.3,
-     "s": [
-      0.25,
-      6.04,
-      14.27,
-      22.12
-     ]
-    },
-    {
-     "k": "Bundesfinanzminister Lars Klingbeil erklärte, die Zusagen der Unicredit entspräc",
-     "d": "29fcd19500.mp3",
-     "l": 40.89,
-     "s": [
-      0.25,
-      7.3,
-      13.28,
-      21.7,
-      29.49
-     ]
-    },
-    {
-     "k": "Nach der Einigung und den behördlichen Freigaben plant Unicredit die nächsten Sc",
-     "d": "cedecc050e.mp3",
-     "l": 29.05,
-     "s": [
-      0.25,
-      6.14,
-      14.36,
-      21.27
      ]
     }
    ]
