@@ -2254,7 +2254,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 4 und 8 Grad. Die Vorhersage für morgen, M",
+   "d": "c119203074.mp3",
+   "l": 19.2,
+   "s": [
+    0.25,
+    3.64,
+    10.53,
+    13.54,
+    16.38
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2268,173 +2280,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Samstag, 21. Nov",
-    "d": "f780b172d0.mp3",
-    "l": 11.05,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Sonntag, 22. Nov",
+    "d": "3f0a37664d.mp3",
+    "l": 10.65,
     "s": [
      0.25,
-     2.93,
+     2.67,
+     6.75
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Sonntag,",
+    "d": "22bfa34fe1.mp3",
+    "l": 11.25,
+    "s": [
+     0.25,
+     2.69,
+     7.1
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Sonntag, 22. Nove",
+    "d": "f15b551f64.mp3",
+    "l": 11.23,
+    "s": [
+     0.25,
+     2.86,
      6.93
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Samstag,",
-    "d": "52da5a837d.mp3",
-    "l": 11.11,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Sonntag, 22. Novemb",
+    "d": "f21d0b0d78.mp3",
+    "l": 10.06,
     "s": [
      0.25,
-     2.57,
-     7.12
+     2.6,
+     6.24
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Samstag, 21. Nove",
-    "d": "1ca6619d0e.mp3",
-    "l": 11.33,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Sonntag, 22. ",
+    "d": "bd4ca6eb72.mp3",
+    "l": 10.71,
     "s": [
      0.25,
-     3.19,
+     2.71,
+     6.62
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Sonntag,",
+    "d": "3200189558.mp3",
+    "l": 11.02,
+    "s": [
+     0.25,
+     2.73,
      7.32
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Samstag, 21. Novemb",
-    "d": "48cbefa31f.mp3",
-    "l": 10.37,
-    "s": [
-     0.25,
-     2.6,
-     6.56
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Samstag, 21. ",
-    "d": "5b96e4100b.mp3",
-    "l": 11.01,
-    "s": [
-     0.25,
-     2.79,
-     6.9
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Samstag,",
-    "d": "600a79491f.mp3",
-    "l": 11.09,
-    "s": [
-     0.25,
-     2.87,
-     7.25
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Samstag, ",
-    "d": "3947fa7805.mp3",
-    "l": 11.28,
-    "s": [
-     0.25,
-     2.73,
-     7.15
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Samstag,",
-    "d": "2e7d5694b9.mp3",
-    "l": 10.91,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Sonntag, ",
+    "d": "55dd6b8b89.mp3",
+    "l": 10.82,
     "s": [
      0.25,
      2.55,
-     6.96
+     6.92
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Samst",
-    "d": "feedc76141.mp3",
-    "l": 11.2,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Sonntag,",
+    "d": "2bbc677ad7.mp3",
+    "l": 11.15,
     "s": [
      0.25,
-     2.63,
-     7.19
+     2.93,
+     7.11
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Samst",
-    "d": "11fb44774f.mp3",
-    "l": 11.27,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Sonnt",
+    "d": "4e18e95e0b.mp3",
+    "l": 11.15,
     "s": [
      0.25,
-     2.9,
+     2.79,
+     7.34
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Sonnt",
+    "d": "27258327de.mp3",
+    "l": 11.04,
+    "s": [
+     0.25,
+     2.8,
      7.19
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "b4436d8409.mp3",
-    "l": 11.26,
+    "d": "70c8303e3d.mp3",
+    "l": 11.77,
     "s": [
      0.25,
-     2.56,
-     7.55
+     2.81,
+     7.89
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Samstag, 21. November",
-    "d": "77b3338e65.mp3",
-    "l": 10.66,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Sonntag, 22. November",
+    "d": "5c0b153bcd.mp3",
+    "l": 10.33,
     "s": [
      0.25,
-     2.56,
-     6.54
+     2.66,
+     6.57
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Samstag, 21. November. Es mo",
-    "d": "3e9a70568b.mp3",
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Sonntag, 22. November. Es mo",
+    "d": "14f71d71f4.mp3",
+    "l": 9.77,
+    "s": [
+     0.25,
+     2.65,
+     5.95
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Sonntag, 22. November.",
+    "d": "775017d002.mp3",
+    "l": 10.55,
+    "s": [
+     0.25,
+     2.76,
+     6.64
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Sonntag, 22. Nov",
+    "d": "8093a81493.mp3",
+    "l": 10.63,
+    "s": [
+     0.25,
+     2.63,
+     6.83
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Sonntag, 22. November. Es m",
+    "d": "7952cb415b.mp3",
     "l": 10.12,
     "s": [
      0.25,
-     2.74,
+     2.72,
      6.27
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Samstag, 21. November.",
-    "d": "3d99ab3381.mp3",
-    "l": 10.39,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Sonntag, 22. November. Es ",
+    "d": "34ad561cc4.mp3",
+    "l": 10.54,
     "s": [
      0.25,
-     2.7,
-     6.26
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Samstag, 21. Nov",
-    "d": "9c34b47785.mp3",
-    "l": 10.35,
-    "s": [
-     0.25,
-     2.73,
-     6.56
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Samstag, 21. November. Es m",
-    "d": "7224350e73.mp3",
-    "l": 10.34,
-    "s": [
-     0.25,
-     2.69,
-     6.49
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Samstag, 21. November. Es ",
-    "d": "91de3e9658.mp3",
-    "l": 10.13,
-    "s": [
-     0.25,
-     2.78,
-     6.27
+     2.79,
+     6.52
     ]
    },
    {
@@ -2727,7 +2739,77 @@
     "lat": 36.887,
     "lon": 30.703
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Ob die Delegationen den neuen Entwurf im Plenum annehmen werden, ist laut Tagess",
+     "d": "c91bfc2c25.mp3",
+     "l": 6.48,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Bei der UNO-Klimakonferenz in Antalya liegt nach Angaben der beteiligten Medien ",
+     "d": "dca403f466.mp3",
+     "l": 73.58,
+     "s": [
+      0.25,
+      8.73,
+      16.05,
+      24.03,
+      36.51,
+      44.27,
+      55.37,
+      64.34
+     ]
+    },
+    {
+     "k": "Der neue Textentwurf enthält nach übereinstimmenden Berichten von Tagesschau, Sp",
+     "d": "caa51ee764.mp3",
+     "l": 68.52,
+     "s": [
+      0.25,
+      10.84,
+      16.35,
+      23.76,
+      36.46,
+      45.77,
+      52.76,
+      61.07
+     ]
+    },
+    {
+     "k": "Die Klimakonferenz in Antalya ist die 31. UN-Klimakonferenz, abgekürzt als COP31",
+     "d": "f3987d3821.mp3",
+     "l": 62.62,
+     "s": [
+      0.25,
+      4.04,
+      8.4,
+      13.37,
+      22.82,
+      30.73,
+      37.84,
+      49.41
+     ]
+    },
+    {
+     "k": "Die Positionen der Staaten und Delegationen unterscheiden sich deutlich. Die EU,",
+     "d": "3b66045f8b.mp3",
+     "l": 58.4,
+     "s": [
+      0.25,
+      4.58,
+      15.33,
+      26.32,
+      31.47,
+      39.15,
+      45.46,
+      51.04
+     ]
+    }
+   ]
   },
   {
    "id": "ukraine-bruenke-angriff",
