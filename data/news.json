@@ -2252,7 +2252,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 3 und 4 Grad. Die Vorhersage für morgen, D",
+   "d": "626ce966b4.mp3",
+   "l": 18.74,
+   "s": [
+    0.25,
+    3.64,
+    10.17,
+    13.48,
+    16.04
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2266,173 +2278,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Sonntag, 22. Nov",
-    "d": "3f0a37664d.mp3",
-    "l": 10.65,
-    "s": [
-     0.25,
-     2.67,
-     6.75
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Sonntag,",
-    "d": "22bfa34fe1.mp3",
-    "l": 11.25,
-    "s": [
-     0.25,
-     2.69,
-     7.1
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Sonntag, 22. Nove",
-    "d": "f15b551f64.mp3",
-    "l": 11.23,
-    "s": [
-     0.25,
-     2.86,
-     6.93
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Sonntag, 22. Novemb",
-    "d": "f21d0b0d78.mp3",
-    "l": 10.06,
-    "s": [
-     0.25,
-     2.6,
-     6.24
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Sonntag, 22. ",
-    "d": "bd4ca6eb72.mp3",
-    "l": 10.71,
-    "s": [
-     0.25,
-     2.71,
-     6.62
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Sonntag,",
-    "d": "3200189558.mp3",
-    "l": 11.02,
-    "s": [
-     0.25,
-     2.73,
-     7.32
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Sonntag, ",
-    "d": "55dd6b8b89.mp3",
-    "l": 10.82,
-    "s": [
-     0.25,
-     2.55,
-     6.92
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Sonntag,",
-    "d": "2bbc677ad7.mp3",
-    "l": 11.15,
-    "s": [
-     0.25,
-     2.93,
-     7.11
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Sonnt",
-    "d": "4e18e95e0b.mp3",
-    "l": 11.15,
-    "s": [
-     0.25,
-     2.79,
-     7.34
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Sonnt",
-    "d": "27258327de.mp3",
-    "l": 11.04,
-    "s": [
-     0.25,
-     2.8,
-     7.19
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "70c8303e3d.mp3",
-    "l": 11.77,
-    "s": [
-     0.25,
-     2.81,
-     7.89
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Sonntag, 22. November",
-    "d": "5c0b153bcd.mp3",
-    "l": 10.33,
-    "s": [
-     0.25,
-     2.66,
-     6.57
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Sonntag, 22. November. Es mo",
-    "d": "14f71d71f4.mp3",
-    "l": 9.77,
-    "s": [
-     0.25,
-     2.65,
-     5.95
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Sonntag, 22. November.",
-    "d": "775017d002.mp3",
-    "l": 10.55,
-    "s": [
-     0.25,
-     2.76,
-     6.64
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Sonntag, 22. Nov",
-    "d": "8093a81493.mp3",
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Montag, 23. Nove",
+    "d": "569e0e0345.mp3",
     "l": 10.63,
     "s": [
      0.25,
+     2.81,
+     6.67
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Montag, ",
+    "d": "de03e9a0e0.mp3",
+    "l": 10.87,
+    "s": [
+     0.25,
+     2.73,
+     6.97
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Montag, 23. Novem",
+    "d": "1df97be99d.mp3",
+    "l": 11.23,
+    "s": [
+     0.25,
+     3.07,
+     7.12
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Montag, 23. Novembe",
+    "d": "4a1d3a1b5f.mp3",
+    "l": 10.76,
+    "s": [
+     0.25,
+     2.71,
+     6.55
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Montag, 23. N",
+    "d": "a2a882246d.mp3",
+    "l": 10.98,
+    "s": [
+     0.25,
      2.63,
+     6.7
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Montag, ",
+    "d": "4991313130.mp3",
+    "l": 11.08,
+    "s": [
+     0.25,
+     2.71,
+     7.01
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Montag, 2",
+    "d": "95bd8b878e.mp3",
+    "l": 11.36,
+    "s": [
+     0.25,
+     2.69,
+     7.49
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Montag, ",
+    "d": "b2ecec2f59.mp3",
+    "l": 11.04,
+    "s": [
+     0.25,
+     2.49,
      6.83
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Sonntag, 22. November. Es m",
-    "d": "7952cb415b.mp3",
-    "l": 10.12,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Monta",
+    "d": "5896ad6a00.mp3",
+    "l": 10.94,
     "s": [
      0.25,
-     2.72,
-     6.27
+     2.67,
+     7.12
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Sonntag, 22. November. Es ",
-    "d": "34ad561cc4.mp3",
-    "l": 10.54,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Monta",
+    "d": "e702a08b76.mp3",
+    "l": 10.8,
     "s": [
      0.25,
-     2.79,
-     6.52
+     2.62,
+     6.99
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
+    "d": "a58cdf86d2.mp3",
+    "l": 11.67,
+    "s": [
+     0.25,
+     2.72,
+     7.49
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Montag, 23. November.",
+    "d": "3144d6d119.mp3",
+    "l": 10.07,
+    "s": [
+     0.25,
+     2.66,
+     6.23
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Montag, 23. November. Es mod",
+    "d": "0a094a6abb.mp3",
+    "l": 10.04,
+    "s": [
+     0.25,
+     2.49,
+     5.89
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Montag, 23. November. ",
+    "d": "0a557088c1.mp3",
+    "l": 9.78,
+    "s": [
+     0.25,
+     2.71,
+     5.91
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Montag, 23. Nove",
+    "d": "38244fe9bf.mp3",
+    "l": 10.56,
+    "s": [
+     0.25,
+     2.78,
+     6.54
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Montag, 23. November. Es mo",
+    "d": "d7277f226d.mp3",
+    "l": 10.3,
+    "s": [
+     0.25,
+     2.63,
+     6.25
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Montag, 23. November. Es m",
+    "d": "db39ea5c0f.mp3",
+    "l": 10.28,
+    "s": [
+     0.25,
+     2.73,
+     6.28
     ]
    },
    {
@@ -2874,7 +2886,133 @@
     "lat": 36.887,
     "lon": 30.703
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Die Weltklimakonferenz in Antalya ist nach zwei Wochen Verhandlungen ohne eine g",
+     "d": "4820d363de.mp3",
+     "l": 61.47,
+     "s": [
+      0.25,
+      7.78,
+      13.98,
+      19.63,
+      25.85,
+      32.86,
+      38.23,
+      45.53,
+      52.71
+     ]
+    },
+    {
+     "k": "Die Weltschutzkonferenz in Antalya endete ohne eine gemeinsame Abschlusserklärun",
+     "d": "7d8b6d3540.mp3",
+     "l": 19.72,
+     "s": [
+      0.25,
+      4.85,
+      9.01,
+      13.74
+     ]
+    },
+    {
+     "k": "In der Türkei ging eine wichtige Klimakonferenz zu Ende. Die Länder konnten sich",
+     "d": "4d16e4d05d.mp3",
+     "l": 17.73,
+     "s": [
+      0.25,
+      4.19,
+      7.76,
+      10.92,
+      14.05
+     ]
+    },
+    {
+     "k": "Ob und wie das Konsensprinzip des UN-Prozesses nach den Enttäuschungen von Antal",
+     "d": "a84cea0542.mp3",
+     "l": 11.33,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Abschlusserklärung? Ein offizielles Dokument am Ende ein",
+     "d": "435bcaabca.mp3",
+     "l": 10.83,
+     "s": [
+      0.25,
+      3.29
+     ]
+    },
+    {
+     "k": "Die Weltklimakonferenz COP31 in Antalya ist nach zwei Wochen Verhandlungen ohne ",
+     "d": "4f08235901.mp3",
+     "l": 56.28,
+     "s": [
+      0.25,
+      9.18,
+      17.78,
+      24.1,
+      32.49,
+      34.61,
+      43.04,
+      49.74
+     ]
+    },
+    {
+     "k": "Ölfördernde Staaten und Länder mit Bedenken bezüglich eines raschen Ausstiegs äu",
+     "d": "b043bc8cfa.mp3",
+     "l": 65.93,
+     "s": [
+      0.25,
+      6.48,
+      13.32,
+      25.07,
+      30.93,
+      41.03,
+      47.57,
+      58.73
+     ]
+    },
+    {
+     "k": "Das Scheitern einer politischen Haupterklärung auf einer Weltklimakonferenz gab ",
+     "d": "34fd397436.mp3",
+     "l": 67.37,
+     "s": [
+      0.25,
+      9.36,
+      16.34,
+      22.91,
+      36.45,
+      42.71,
+      49.97,
+      57.68
+     ]
+    },
+    {
+     "k": "Weltklimakonferenzen, offiziell als COP bezeichnet, finden jährlich im Rahmen de",
+     "d": "5948ee93ac.mp3",
+     "l": 46.54,
+     "s": [
+      0.25,
+      6.78,
+      15.94,
+      21.45,
+      35.34
+     ]
+    },
+    {
+     "k": "Nach dem Abschluss der Konferenz in Antalya kündigte UN-Klimachef Simon Stiell a",
+     "d": "f41eb7d0e5.mp3",
+     "l": 36.19,
+     "s": [
+      0.25,
+      10.7,
+      19.42,
+      27.59
+     ]
+    }
+   ]
   },
   {
    "id": "russland-atomwaffe-all",
@@ -3255,7 +3393,106 @@
     "lat": 52.517,
     "lon": 13.395
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Nach Berichten westlicher Geheimdienste plant Russland noch in diesem Jahr den S",
+     "d": "4901c06de4.mp3",
+     "l": 67.5,
+     "s": [
+      0.25,
+      7.11,
+      14.37,
+      22.73,
+      31.76,
+      40.39,
+      48.73,
+      60.55
+     ]
+    },
+    {
+     "k": "Westliche Geheimdienste warnen vor russischen Plänen für einen atomar bewaffnete",
+     "d": "c44955b398.mp3",
+     "l": 16.14,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Westliche Geheimdienste warnen vor neuen russischen Plänen im Weltraum. Russland",
+     "d": "299b31f214.mp3",
+     "l": 23.99,
+     "s": [
+      0.25,
+      4.91,
+      10.11,
+      14.03,
+      19.8
+     ]
+    },
+    {
+     "k": "Ob ein Start des Satelliten Sputnik-S tatsächlich noch in den kommenden Wochen s",
+     "d": "1c195ccdaa.mp3",
+     "l": 9.43,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Satellit? Ein künstlicher Himmelskörper, der die Erde in",
+     "d": "8802aae9a3.mp3",
+     "l": 10.85,
+     "s": [
+      0.25,
+      2.45
+     ]
+    },
+    {
+     "k": "Westliche Geheimdienste und Militärs gehen davon aus, dass Russland noch in dies",
+     "d": "c7b4bd2534.mp3",
+     "l": 63.18,
+     "s": [
+      0.25,
+      8.58,
+      14.73,
+      20.59,
+      25.03,
+      32.7,
+      43.12,
+      54.35
+     ]
+    },
+    {
+     "k": "Eine Atomexplosion im Weltraum könnte zahlreiche Satelliten beschädigen oder zer",
+     "d": "612ea2554f.mp3",
+     "l": 70.29,
+     "s": [
+      0.25,
+      9.51,
+      20.43,
+      26.41,
+      32.83,
+      41.01,
+      54.02,
+      60.35
+     ]
+    },
+    {
+     "k": "Die Warnungen vor einer Stationierung von Atomwaffen im All bestehen seit einige",
+     "d": "26782b1395.mp3",
+     "l": 66.64,
+     "s": [
+      0.25,
+      5.26,
+      13.13,
+      18.5,
+      29.18,
+      44.31,
+      49.02,
+      58.25
+     ]
+    }
+   ]
   },
   {
    "id": "ukraine-bruenke-angriff",
