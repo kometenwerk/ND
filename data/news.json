@@ -2252,7 +2252,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 2 und 5 Grad. Die Vorhersage für morgen, M",
+   "d": "a49e42e628.mp3",
+   "l": 16.57,
+   "s": [
+    0.25,
+    3.56,
+    7.76,
+    10.94,
+    13.84
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2266,173 +2278,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Montag, 23. Nove",
-    "d": "569e0e0345.mp3",
-    "l": 10.63,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Dienstag, 24. No",
+    "d": "4caa01b2ba.mp3",
+    "l": 10.86,
     "s": [
      0.25,
-     2.81,
-     6.67
+     2.79,
+     6.68
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Montag, ",
-    "d": "de03e9a0e0.mp3",
-    "l": 10.87,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Dienstag",
+    "d": "49b1b7a878.mp3",
+    "l": 10.86,
     "s": [
      0.25,
-     2.73,
-     6.97
+     2.7,
+     7.1
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Montag, 23. Novem",
-    "d": "1df97be99d.mp3",
-    "l": 11.23,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Dienstag, 24. Nov",
+    "d": "37fda10223.mp3",
+    "l": 11.54,
     "s": [
      0.25,
-     3.07,
-     7.12
+     3.02,
+     7.42
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Montag, 23. Novembe",
-    "d": "4a1d3a1b5f.mp3",
-    "l": 10.76,
-    "s": [
-     0.25,
-     2.71,
-     6.55
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Montag, 23. N",
-    "d": "a2a882246d.mp3",
-    "l": 10.98,
-    "s": [
-     0.25,
-     2.63,
-     6.7
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Montag, ",
-    "d": "4991313130.mp3",
-    "l": 11.08,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Dienstag, 24. Novem",
+    "d": "8664d224f8.mp3",
+    "l": 10.64,
     "s": [
      0.25,
      2.71,
-     7.01
+     6.34
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Montag, 2",
-    "d": "95bd8b878e.mp3",
-    "l": 11.36,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Dienstag, 24.",
+    "d": "e18ce717b4.mp3",
+    "l": 10.64,
+    "s": [
+     0.25,
+     2.94,
+     6.88
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Dienstag",
+    "d": "22822a38e0.mp3",
+    "l": 11.07,
+    "s": [
+     0.25,
+     2.78,
+     7.15
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Dienstag,",
+    "d": "49198f0325.mp3",
+    "l": 11.21,
+    "s": [
+     0.25,
+     2.78,
+     7.29
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Dienstag",
+    "d": "41391258e8.mp3",
+    "l": 11.11,
+    "s": [
+     0.25,
+     2.56,
+     7.34
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Diens",
+    "d": "ccb00d9430.mp3",
+    "l": 11.42,
     "s": [
      0.25,
      2.69,
-     7.49
+     7.44
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Montag, ",
-    "d": "b2ecec2f59.mp3",
-    "l": 11.04,
-    "s": [
-     0.25,
-     2.49,
-     6.83
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Monta",
-    "d": "5896ad6a00.mp3",
-    "l": 10.94,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Diens",
+    "d": "546845fea6.mp3",
+    "l": 11.09,
     "s": [
      0.25,
      2.67,
-     7.12
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Monta",
-    "d": "e702a08b76.mp3",
-    "l": 10.8,
-    "s": [
-     0.25,
-     2.62,
-     6.99
+     7.35
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "a58cdf86d2.mp3",
-    "l": 11.67,
+    "d": "b6ed0aa390.mp3",
+    "l": 11.47,
     "s": [
      0.25,
-     2.72,
-     7.49
+     2.64,
+     7.68
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Montag, 23. November.",
-    "d": "3144d6d119.mp3",
-    "l": 10.07,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Dienstag, 24. Novembe",
+    "d": "d3556f1c90.mp3",
+    "l": 10.36,
+    "s": [
+     0.25,
+     2.87,
+     6.41
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Dienstag, 24. November. Es m",
+    "d": "bcbd305890.mp3",
+    "l": 10.27,
     "s": [
      0.25,
      2.66,
-     6.23
+     6.3
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Montag, 23. November. Es mod",
-    "d": "0a094a6abb.mp3",
-    "l": 10.04,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Dienstag, 24. November",
+    "d": "f53cb7b451.mp3",
+    "l": 10.11,
     "s": [
      0.25,
-     2.49,
-     5.89
+     2.7,
+     6.1
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Montag, 23. November. ",
-    "d": "0a557088c1.mp3",
-    "l": 9.78,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Dienstag, 24. No",
+    "d": "981951601e.mp3",
+    "l": 10.27,
     "s": [
      0.25,
-     2.71,
-     5.91
+     2.7,
+     6.41
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Montag, 23. Nove",
-    "d": "38244fe9bf.mp3",
-    "l": 10.56,
-    "s": [
-     0.25,
-     2.78,
-     6.54
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Montag, 23. November. Es mo",
-    "d": "d7277f226d.mp3",
-    "l": 10.3,
-    "s": [
-     0.25,
-     2.63,
-     6.25
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Montag, 23. November. Es m",
-    "d": "db39ea5c0f.mp3",
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Dienstag, 24. November. Es ",
+    "d": "fd7cdfc432.mp3",
     "l": 10.28,
     "s": [
      0.25,
-     2.73,
-     6.28
+     2.7,
+     6.3
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Dienstag, 24. November. Es",
+    "d": "f54c6c963c.mp3",
+    "l": 10.44,
+    "s": [
+     0.25,
+     2.77,
+     6.63
     ]
    },
    {
@@ -2707,7 +2719,97 @@
     "lat": 52.517,
     "lon": 13.395
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Ob Russland die Atomwaffe tatsächlich noch in diesem Jahr im All stationiert, is",
+     "d": "a8441eda2d.mp3",
+     "l": 11.98,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Westliche Geheimdienste und Militärs gehen davon aus, dass Russland noch in dies",
+     "d": "aa4b297771.mp3",
+     "l": 56.34,
+     "s": [
+      0.25,
+      8.14,
+      13.46,
+      20.45,
+      25.94,
+      32.31,
+      39.83,
+      47.76
+     ]
+    },
+    {
+     "k": "Die potenziellen militärischen und zivilen Handlungen im Orbit könnten nach Eins",
+     "d": "9378423b28.mp3",
+     "l": 62.18,
+     "s": [
+      0.25,
+      7.01,
+      14.1,
+      23.55,
+      28.97,
+      34.07,
+      41.87,
+      49.62
+     ]
+    },
+    {
+     "k": "Die aktuellen Vermutungen knüpfen an frühere Beobachtungen an. Zunächst hatten U",
+     "d": "f840d544c9.mp3",
+     "l": 62.53,
+     "s": [
+      0.25,
+      3.97,
+      17.71,
+      25.13,
+      31.89,
+      41.02,
+      46.59,
+      55.7
+     ]
+    },
+    {
+     "k": "Der Weltraumvertrag aus dem Jahr 1967 ist ein internationales Abkommen, das die ",
+     "d": "142efd9fd0.mp3",
+     "l": 48.14,
+     "s": [
+      0.25,
+      8.47,
+      15.29,
+      25.86,
+      33.18,
+      39.97
+     ]
+    },
+    {
+     "k": "Bundeskanzler Friedrich Merz äußerte sich auf einer Pressekonferenz am Montag zu",
+     "d": "fcbdbc7f51.mp3",
+     "l": 49.2,
+     "s": [
+      0.25,
+      5.81,
+      17.81,
+      25.57,
+      35.63
+     ]
+    },
+    {
+     "k": "Das deutsche Verteidigungsministerium plant Investitionen in Höhe von 35 Milliar",
+     "d": "2944a1a4db.mp3",
+     "l": 27.36,
+     "s": [
+      0.25,
+      8.58,
+      20.17
+     ]
+    }
+   ]
   },
   {
    "id": "klimakonferenz-antalya-cop31",
@@ -3072,7 +3174,148 @@
     "lat": 36.887,
     "lon": 30.703
    },
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Die Uno-Klimakonferenz COP31 in der türkischen Stadt Antalya endete ohne eine ge",
+     "d": "73160a780c.mp3",
+     "l": 72.13,
+     "s": [
+      0.25,
+      7.94,
+      13.84,
+      19.09,
+      24.44,
+      29.14,
+      41.32,
+      48.23,
+      58.49,
+      65.68
+     ]
+    },
+    {
+     "k": "Die Uno-Klimakonferenz COP31 in Antalya ging ohne gemeinsame Abschlusserklärung ",
+     "d": "d71fa118dd.mp3",
+     "l": 16.92,
+     "s": [
+      0.25,
+      6.92,
+      11.6
+     ]
+    },
+    {
+     "k": "Die Weltklimakonferenz in der Türkei ist ohne Einigung beendet worden. Ein Grund",
+     "d": "d7cf25cc97.mp3",
+     "l": 22.57,
+     "s": [
+      0.25,
+      4.65,
+      7.78,
+      12.4,
+      18.07
+     ]
+    },
+    {
+     "k": "Ob künftig bei den Uno-Klimakonferenzen anstelle des Konsensprinzips Mehrheitsab",
+     "d": "6a5dca5015.mp3",
+     "l": 10.65,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Abschlusserklärung? Ein gemeinsames Dokument am Ende ein",
+     "d": "8b6a063d41.mp3",
+     "l": 9.74,
+     "s": [
+      0.25,
+      3.4
+     ]
+    },
+    {
+     "k": "Die Uno-Klimakonferenz COP31 ist in der türkischen Stadt Antalya ohne eine gemei",
+     "d": "4c4f228de2.mp3",
+     "l": 55.87,
+     "s": [
+      0.25,
+      8.57,
+      17.16,
+      24.21,
+      30.99,
+      35.92,
+      42.33,
+      49.09
+     ]
+    },
+    {
+     "k": "Laut Angaben des Spiegels und der BBC wurde der Entwurf für den Abschlusstext vo",
+     "d": "df36dbc7b3.mp3",
+     "l": 66.52,
+     "s": [
+      0.25,
+      11.19,
+      21.06,
+      25.62,
+      35.38,
+      40.43,
+      54.29,
+      57.57
+     ]
+    },
+    {
+     "k": "Die Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzi",
+     "d": "6749411c64.mp3",
+     "l": 56.52,
+     "s": [
+      0.25,
+      5.81,
+      14.04,
+      19.97,
+      28.34,
+      37.42,
+      40.66,
+      46.98
+     ]
+    },
+    {
+     "k": "Weltklimakonferenzen sind offizielle Zusammenkünfte der Vertragsstaaten der Klim",
+     "d": "c875a23482.mp3",
+     "l": 33.98,
+     "s": [
+      0.25,
+      7.3,
+      15.87,
+      21.84,
+      28.32
+     ]
+    },
+    {
+     "k": "Guo Jiakun, Sprecher des chinesischen Außenministeriums, bezeichnete das Scheite",
+     "d": "4c7dfc1dcb.mp3",
+     "l": 70.4,
+     "s": [
+      0.25,
+      8.07,
+      13.41,
+      24.59,
+      33.13,
+      41.31,
+      51.26,
+      61.5
+     ]
+    },
+    {
+     "k": "Nach dem Abschluss der Konferenz kündigte der Uno-Klimachef Simon Stiell an, er ",
+     "d": "edc17976c9.mp3",
+     "l": 35.14,
+     "s": [
+      0.25,
+      9.51,
+      17.33,
+      24.22
+     ]
+    }
+   ]
   },
   {
    "id": "ukraine-bruenke-angriff",
