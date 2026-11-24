@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-24T10:51:38.872Z",
+ "stand": "2026-11-24T21:07:35.422Z",
  "gepusht": [
   "verbrenner-aus-aufweichung-deutschland-frankreich",
   "trump-russland-sanktionen-ausgesetzt",
@@ -85,13 +85,11 @@
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
-  "anthropic-boersengang",
-  "ukraine-bruenke-angriff",
   "klimakonferenz-antalya-cop31",
   "russland-atomwaffe-all"
  ],
  "wetter": {
-  "stand": "2026-11-24T10:51:38.872Z",
+  "stand": "2026-11-24T21:07:35.422Z",
   "morgenTag": "Mittwoch",
   "orte": [
    {
@@ -100,25 +98,25 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 1,
-     "code": 1,
+     "grad": 0,
+     "code": 3,
      "gefuehlt": -3,
-     "wind": 5,
-     "windAus": 256,
-     "feuchte": 79,
-     "druck": 1026,
+     "wind": 2,
+     "windAus": 117,
+     "feuchte": 87,
+     "druck": 1024,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
-     "code": 2,
-     "max": 2,
+     "code": 3,
+     "max": 3,
      "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 7,
-     "windAus": 295,
+     "windAus": 298,
      "uv": 1.2,
      "auf": "08:01",
      "unter": "16:11"
@@ -130,8 +128,8 @@
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 13,
-     "windAus": 85,
+     "wind": 11,
+     "windAus": 77,
      "uv": 1.1,
      "auf": "08:03",
      "unter": "16:10"
@@ -139,13 +137,13 @@
     "tage": [
      {
       "datum": "2026-11-24",
-      "code": 2,
-      "max": 2,
+      "code": 3,
+      "max": 3,
       "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 295,
+      "windAus": 298,
       "uv": 1.2,
       "auf": "08:01",
       "unter": "16:11"
@@ -157,8 +155,8 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 85,
+      "wind": 11,
+      "windAus": 77,
       "uv": 1.1,
       "auf": "08:03",
       "unter": "16:10"
@@ -168,185 +166,119 @@
       "code": 3,
       "max": 2,
       "min": -1,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 62,
+      "wind": 8,
+      "windAus": 65,
       "uv": 1.1,
       "auf": "08:05",
       "unter": "16:09"
      },
      {
       "datum": "2026-11-27",
-      "code": 2,
-      "max": 1,
-      "min": -3,
+      "code": 3,
+      "max": 2,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 107,
+      "wind": 15,
+      "windAus": 102,
       "uv": 1.1,
       "auf": "08:06",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
-      "max": -1,
-      "min": -3,
+      "code": 2,
+      "max": 0,
+      "min": -4,
       "regen": 0,
       "menge": 0,
       "wind": 14,
-      "windAus": 127,
+      "windAus": 115,
       "uv": 1.1,
       "auf": "08:08",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
-      "max": 2,
-      "min": -3,
-      "regen": 32,
-      "menge": 3.6,
+      "code": 2,
+      "max": -2,
+      "min": -5,
+      "regen": 8,
+      "menge": 0,
       "wind": 14,
-      "windAus": 165,
-      "uv": 1.1,
+      "windAus": 119,
+      "uv": 1,
       "auf": "08:10",
       "unter": "16:06"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
-      "max": 6,
-      "min": 2,
-      "regen": 33,
+      "code": 0,
+      "max": -1,
+      "min": -5,
+      "regen": 8,
       "menge": 0,
-      "wind": 16,
-      "windAus": 217,
-      "uv": 1.1,
+      "wind": 11,
+      "windAus": 114,
+      "uv": 1,
       "auf": "08:11",
       "unter": "16:05"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 0,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 0,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": -1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
+      "zeit": "05:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
       "zeit": "06:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
@@ -371,7 +303,73 @@
      {
       "zeit": "10:00",
       "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -382,15 +380,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 3,
-     "code": 2,
+     "grad": 2,
+     "code": 3,
      "gefuehlt": -1,
-     "wind": 9,
-     "windAus": 291,
-     "feuchte": 77,
-     "druck": 1023,
+     "wind": 3,
+     "windAus": 13,
+     "feuchte": 79,
+     "druck": 1022,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
@@ -400,20 +398,20 @@
      "regen": 3,
      "menge": 0,
      "wind": 14,
-     "windAus": 300,
-     "uv": 0.6,
+     "windAus": 299,
+     "uv": 0.7,
      "auf": "07:43",
      "unter": "16:02"
     },
     "morgen": {
      "datum": "2026-11-25",
-     "code": 3,
+     "code": 61,
      "max": 2,
      "min": 0,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 80,
+     "windAus": 71,
      "uv": 1.2,
      "auf": "07:45",
      "unter": "16:01"
@@ -427,20 +425,20 @@
       "regen": 3,
       "menge": 0,
       "wind": 14,
-      "windAus": 300,
-      "uv": 0.6,
+      "windAus": 299,
+      "uv": 0.7,
       "auf": "07:43",
       "unter": "16:02"
      },
      {
       "datum": "2026-11-25",
-      "code": 3,
+      "code": 61,
       "max": 2,
       "min": 0,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 80,
+      "windAus": 71,
       "uv": 1.2,
       "auf": "07:45",
       "unter": "16:01"
@@ -448,12 +446,12 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 2,
+      "max": 1,
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 64,
+      "wind": 14,
+      "windAus": 63,
       "uv": 1.2,
       "auf": "07:46",
       "unter": "16:00"
@@ -466,7 +464,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 78,
+      "windAus": 81,
       "uv": 1.2,
       "auf": "07:48",
       "unter": "15:59"
@@ -474,38 +472,38 @@
      {
       "datum": "2026-11-28",
       "code": 2,
-      "max": 0,
+      "max": -1,
       "min": -3,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 101,
+      "windAus": 90,
       "uv": 1.2,
       "auf": "07:49",
       "unter": "15:58"
      },
      {
       "datum": "2026-11-29",
-      "code": 3,
-      "max": 2,
-      "min": -4,
-      "regen": 13,
+      "code": 0,
+      "max": -1,
+      "min": -5,
+      "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 138,
-      "uv": 1.2,
+      "wind": 13,
+      "windAus": 106,
+      "uv": 1.1,
       "auf": "07:51",
       "unter": "15:57"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
-      "max": 4,
-      "min": 0,
-      "regen": 18,
+      "code": 0,
+      "max": -2,
+      "min": -6,
+      "regen": 5,
       "menge": 0,
-      "wind": 8,
-      "windAus": 208,
+      "wind": 11,
+      "windAus": 104,
       "uv": 1.2,
       "auf": "07:52",
       "unter": "15:57"
@@ -513,110 +511,44 @@
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 3
-     },
-     {
-      "zeit": "18:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 3,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 1,
-      "code": 2,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 1,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 2,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 2,
+      "code": 61,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 1,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 1,
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
@@ -640,13 +572,13 @@
      },
      {
       "zeit": "08:00",
-      "grad": 0,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 0,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
@@ -654,6 +586,72 @@
       "zeit": "10:00",
       "grad": 1,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -664,15 +662,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 2,
-     "code": 2,
-     "gefuehlt": -1,
-     "wind": 6,
-     "windAus": 260,
-     "feuchte": 76,
-     "druck": 1014,
+     "grad": 0,
+     "code": 0,
+     "gefuehlt": -3,
+     "wind": 5,
+     "windAus": 115,
+     "feuchte": 80,
+     "druck": 1011,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
@@ -682,20 +680,20 @@
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 259,
+     "windAus": 253,
      "uv": 1.4,
      "auf": "07:42",
      "unter": "16:11"
     },
     "morgen": {
      "datum": "2026-11-25",
-     "code": 3,
+     "code": 2,
      "max": 2,
-     "min": -1,
+     "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 73,
+     "windAus": 69,
      "uv": 1.4,
      "auf": "07:44",
      "unter": "16:10"
@@ -709,20 +707,20 @@
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 259,
+      "windAus": 253,
       "uv": 1.4,
       "auf": "07:42",
       "unter": "16:11"
      },
      {
       "datum": "2026-11-25",
-      "code": 3,
+      "code": 2,
       "max": 2,
-      "min": -1,
+      "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 73,
+      "windAus": 69,
       "uv": 1.4,
       "auf": "07:44",
       "unter": "16:10"
@@ -731,11 +729,11 @@
       "datum": "2026-11-26",
       "code": 3,
       "max": 1,
-      "min": -2,
-      "regen": 6,
+      "min": -3,
+      "regen": 5,
       "menge": 0,
       "wind": 11,
-      "windAus": 53,
+      "windAus": 58,
       "uv": 1.4,
       "auf": "07:45",
       "unter": "16:09"
@@ -745,121 +743,55 @@
       "code": 3,
       "max": -1,
       "min": -3,
-      "regen": 18,
+      "regen": 8,
       "menge": 0,
-      "wind": 8,
-      "windAus": 54,
-      "uv": 0.9,
+      "wind": 10,
+      "windAus": 61,
+      "uv": 1.2,
       "auf": "07:47",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-28",
-      "code": 2,
+      "code": 3,
       "max": 0,
-      "min": -3,
+      "min": -4,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 88,
-      "uv": 0.8,
+      "wind": 10,
+      "windAus": 76,
+      "uv": 1.3,
       "auf": "07:48",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-29",
-      "code": 3,
-      "max": 2,
-      "min": -3,
-      "regen": 13,
+      "code": 0,
+      "max": 0,
+      "min": -5,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 157,
+      "wind": 11,
+      "windAus": 82,
       "uv": 1.3,
       "auf": "07:50",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
-      "max": 4,
-      "min": 1,
-      "regen": 16,
+      "code": 0,
+      "max": 1,
+      "min": -4,
+      "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 211,
+      "wind": 11,
+      "windAus": 86,
       "uv": 1.3,
       "auf": "07:51",
       "unter": "16:06"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 0,
@@ -869,24 +801,24 @@
      {
       "zeit": "23:00",
       "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 0,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "01:00",
-      "grad": 0,
+      "zeit": "00:00",
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
      {
+      "zeit": "01:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
       "zeit": "02:00",
-      "grad": 0,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
@@ -904,36 +836,102 @@
      },
      {
       "zeit": "05:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
-      "code": 1,
+      "grad": -2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -1,
-      "code": 2,
+      "grad": -2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
       "grad": -1,
       "code": 2,
       "regen": 0
@@ -946,15 +944,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 2,
-     "code": 0,
-     "gefuehlt": -2,
-     "wind": 10,
-     "windAus": 132,
-     "feuchte": 71,
-     "druck": 1018,
+     "grad": 1,
+     "code": 3,
+     "gefuehlt": -3,
+     "wind": 9,
+     "windAus": 110,
+     "feuchte": 76,
+     "druck": 1014,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
@@ -964,7 +962,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 125,
+     "windAus": 128,
      "uv": 1.5,
      "auf": "08:02",
      "unter": "16:34"
@@ -974,11 +972,11 @@
      "code": 3,
      "max": 5,
      "min": 0,
-     "regen": 2,
+     "regen": 0,
      "menge": 0,
-     "wind": 13,
-     "windAus": 107,
-     "uv": 1.2,
+     "wind": 12,
+     "windAus": 104,
+     "uv": 1.4,
      "auf": "08:04",
      "unter": "16:33"
     },
@@ -991,7 +989,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 125,
+      "windAus": 128,
       "uv": 1.5,
       "auf": "08:02",
       "unter": "16:34"
@@ -1001,37 +999,37 @@
       "code": 3,
       "max": 5,
       "min": 0,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 107,
-      "uv": 1.2,
+      "wind": 12,
+      "windAus": 104,
+      "uv": 1.4,
       "auf": "08:04",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 3,
-      "min": -3,
+      "max": 2,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 10,
-      "uv": 1.3,
+      "wind": 11,
+      "windAus": 23,
+      "uv": 1.4,
       "auf": "08:05",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 1,
+      "code": 3,
       "max": 2,
       "min": -4,
-      "regen": 2,
+      "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 103,
-      "uv": 1.4,
+      "wind": 11,
+      "windAus": 104,
+      "uv": 1.5,
       "auf": "08:07",
       "unter": "16:32"
      },
@@ -1040,24 +1038,24 @@
       "code": 3,
       "max": 3,
       "min": -3,
-      "regen": 11,
+      "regen": 1,
       "menge": 0,
-      "wind": 15,
-      "windAus": 132,
+      "wind": 17,
+      "windAus": 133,
       "uv": 1.5,
       "auf": "08:08",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
-      "code": 51,
-      "max": 4,
+      "code": 3,
+      "max": 3,
       "min": 0,
-      "regen": 35,
-      "menge": 0.3,
-      "wind": 16,
-      "windAus": 140,
-      "uv": 1.4,
+      "regen": 14,
+      "menge": 0,
+      "wind": 17,
+      "windAus": 136,
+      "uv": 1.3,
       "auf": "08:10",
       "unter": "16:30"
      },
@@ -1065,111 +1063,45 @@
       "datum": "2026-11-30",
       "code": 3,
       "max": 6,
-      "min": 2,
-      "regen": 32,
+      "min": 1,
+      "regen": 16,
       "menge": 0,
-      "wind": 10,
-      "windAus": 146,
-      "uv": 1.4,
+      "wind": 8,
+      "windAus": 148,
+      "uv": 0.3,
       "auf": "08:11",
       "unter": "16:29"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 1,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 1,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
-      "code": 3,
+      "grad": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 0,
-      "code": 0,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 0,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1210,13 +1142,79 @@
      },
      {
       "zeit": "09:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 5,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 5,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
       "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 1,
       "code": 3,
       "regen": 0
      }
@@ -1229,24 +1227,24 @@
     "teil": "Westen",
     "jetzt": {
      "grad": -1,
-     "code": 2,
-     "gefuehlt": -5,
-     "wind": 5,
-     "windAus": 48,
-     "feuchte": 82,
-     "druck": 1015,
+     "code": 1,
+     "gefuehlt": -4,
+     "wind": 4,
+     "windAus": 66,
+     "feuchte": 80,
+     "druck": 1009,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
      "code": 48,
-     "max": 2,
+     "max": 1,
      "min": -4,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 53,
+     "wind": 7,
+     "windAus": 51,
      "uv": 1.6,
      "auf": "07:52",
      "unter": "16:31"
@@ -1258,8 +1256,8 @@
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
-     "windAus": 37,
+     "wind": 11,
+     "windAus": 36,
      "uv": 1.3,
      "auf": "07:53",
      "unter": "16:30"
@@ -1268,12 +1266,12 @@
      {
       "datum": "2026-11-24",
       "code": 48,
-      "max": 2,
+      "max": 1,
       "min": -4,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 53,
+      "wind": 7,
+      "windAus": 51,
       "uv": 1.6,
       "auf": "07:52",
       "unter": "16:31"
@@ -1285,8 +1283,8 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 37,
+      "wind": 11,
+      "windAus": 36,
       "uv": 1.3,
       "auf": "07:53",
       "unter": "16:30"
@@ -1298,8 +1296,8 @@
       "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 27,
+      "wind": 13,
+      "windAus": 26,
       "uv": 1.5,
       "auf": "07:55",
       "unter": "16:29"
@@ -1308,137 +1306,71 @@
       "datum": "2026-11-27",
       "code": 3,
       "max": 1,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 27,
+      "wind": 8,
+      "windAus": 33,
       "uv": 1.5,
       "auf": "07:56",
       "unter": "16:28"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
-      "max": 2,
-      "min": -4,
+      "code": 2,
+      "max": 1,
+      "min": -3,
       "regen": 0,
       "menge": 0,
       "wind": 7,
-      "windAus": 53,
+      "windAus": 41,
       "uv": 1.5,
       "auf": "07:58",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
+      "code": 3,
       "max": 1,
       "min": -3,
-      "regen": 33,
-      "menge": 0.9,
-      "wind": 5,
-      "windAus": 159,
-      "uv": 1.4,
+      "regen": 14,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 41,
+      "uv": 1.5,
       "auf": "07:59",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-30",
-      "code": 45,
-      "max": 3,
-      "min": 0,
-      "regen": 35,
+      "code": 3,
+      "max": 2,
+      "min": -3,
+      "regen": 15,
       "menge": 0,
-      "wind": 3,
-      "windAus": 214,
-      "uv": 1.4,
+      "wind": 7,
+      "windAus": 41,
+      "uv": 1,
       "auf": "08:00",
       "unter": "16:26"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": -2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": -1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": -1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": -1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
@@ -1451,19 +1383,19 @@
      {
       "zeit": "02:00",
       "grad": -2,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": -2,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -2,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -1475,7 +1407,7 @@
      {
       "zeit": "06:00",
       "grad": -2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -1501,6 +1433,72 @@
       "grad": -1,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -1510,15 +1508,15 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 2,
-     "code": 1,
-     "gefuehlt": -1,
-     "wind": 5,
-     "windAus": 113,
-     "feuchte": 60,
-     "druck": 995,
+     "grad": 0,
+     "code": 2,
+     "gefuehlt": -3,
+     "wind": 4,
+     "windAus": 143,
+     "feuchte": 69,
+     "druck": 989,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
@@ -1527,9 +1525,9 @@
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 10,
-     "windAus": 116,
-     "uv": 1.6,
+     "wind": 11,
+     "windAus": 114,
+     "uv": 1.7,
      "auf": "07:45",
      "unter": "16:34"
     },
@@ -1538,10 +1536,10 @@
      "code": 3,
      "max": 4,
      "min": -1,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
      "wind": 5,
-     "windAus": 90,
+     "windAus": 89,
      "uv": 1.5,
      "auf": "07:46",
      "unter": "16:33"
@@ -1554,9 +1552,9 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 116,
-      "uv": 1.6,
+      "wind": 11,
+      "windAus": 114,
+      "uv": 1.7,
       "auf": "07:45",
       "unter": "16:34"
      },
@@ -1565,10 +1563,10 @@
       "code": 3,
       "max": 4,
       "min": -1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 5,
-      "windAus": 90,
+      "windAus": 89,
       "uv": 1.5,
       "auf": "07:46",
       "unter": "16:33"
@@ -1576,25 +1574,25 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 0,
+      "max": 1,
       "min": -2,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
       "wind": 7,
-      "windAus": 25,
-      "uv": 1.4,
+      "windAus": 22,
+      "uv": 1.5,
       "auf": "07:48",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
-      "max": 1,
-      "min": -2,
+      "code": 85,
+      "max": 0,
+      "min": -1,
       "regen": 3,
-      "menge": 0,
-      "wind": 6,
-      "windAus": 34,
+      "menge": 0.2,
+      "wind": 8,
+      "windAus": 37,
       "uv": 1.4,
       "auf": "07:49",
       "unter": "16:31"
@@ -1602,125 +1600,59 @@
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 2,
-      "min": -1,
+      "max": 1,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 97,
+      "wind": 10,
+      "windAus": 79,
       "uv": 1.6,
       "auf": "07:50",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
-      "max": 3,
-      "min": -3,
-      "regen": 26,
-      "menge": 0.9,
-      "wind": 4,
-      "windAus": 176,
-      "uv": 1.4,
+      "code": 3,
+      "max": 2,
+      "min": -2,
+      "regen": 14,
+      "menge": 0,
+      "wind": 6,
+      "windAus": 116,
+      "uv": 1.6,
       "auf": "07:52",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-30",
-      "code": 45,
-      "max": 5,
-      "min": 1,
-      "regen": 28,
+      "code": 3,
+      "max": 1,
+      "min": -3,
+      "regen": 15,
       "menge": 0,
-      "wind": 3,
-      "windAus": 232,
-      "uv": 1.5,
+      "wind": 4,
+      "windAus": 90,
+      "uv": 1.3,
       "auf": "07:53",
       "unter": "16:30"
      }
     ],
     "stunden": [
      {
-      "zeit": "11:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 5,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
       "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
+      "zeit": "23:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
       "zeit": "00:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
@@ -1783,6 +1715,72 @@
       "grad": 0,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 4,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 4,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
      }
     ]
    },
@@ -1792,15 +1790,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 2,
-     "code": 0,
-     "gefuehlt": -2,
-     "wind": 10,
-     "windAus": 105,
-     "feuchte": 61,
-     "druck": 963,
+     "grad": -2,
+     "code": 3,
+     "gefuehlt": -6,
+     "wind": 11,
+     "windAus": 88,
+     "feuchte": 77,
+     "druck": 957,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-24",
@@ -1818,12 +1816,12 @@
     "morgen": {
      "datum": "2026-11-25",
      "code": 3,
-     "max": 1,
+     "max": 2,
      "min": -3,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
      "wind": 9,
-     "windAus": 79,
+     "windAus": 77,
      "uv": 1.7,
      "auf": "07:34",
      "unter": "16:26"
@@ -1845,12 +1843,12 @@
      {
       "datum": "2026-11-25",
       "code": 3,
-      "max": 1,
+      "max": 2,
       "min": -3,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 9,
-      "windAus": 79,
+      "windAus": 77,
       "uv": 1.7,
       "auf": "07:34",
       "unter": "16:26"
@@ -1859,12 +1857,12 @@
       "datum": "2026-11-26",
       "code": 77,
       "max": -1,
-      "min": -3,
-      "regen": 50,
-      "menge": 1.2,
+      "min": -2,
+      "regen": 51,
+      "menge": 0.2,
       "wind": 12,
-      "windAus": 39,
-      "uv": 0.5,
+      "windAus": 43,
+      "uv": 0.4,
       "auf": "07:36",
       "unter": "16:25"
      },
@@ -1875,119 +1873,53 @@
       "min": -2,
       "regen": 10,
       "menge": 0,
-      "wind": 8,
-      "windAus": 60,
-      "uv": 1.1,
+      "wind": 11,
+      "windAus": 75,
+      "uv": 1.5,
       "auf": "07:37",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 0,
-      "min": -2,
+      "max": -1,
+      "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 82,
-      "uv": 1.5,
+      "wind": 13,
+      "windAus": 85,
+      "uv": 1.8,
       "auf": "07:38",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-29",
-      "code": 45,
+      "code": 3,
       "max": 0,
-      "min": -4,
-      "regen": 24,
+      "min": -2,
+      "regen": 7,
       "menge": 0,
-      "wind": 4,
-      "windAus": 147,
-      "uv": 1,
+      "wind": 9,
+      "windAus": 93,
+      "uv": 1.8,
       "auf": "07:40",
       "unter": "16:23"
      },
      {
       "datum": "2026-11-30",
-      "code": 71,
-      "max": 3,
-      "min": -1,
-      "regen": 40,
-      "menge": 0.3,
-      "wind": 3,
-      "windAus": 131,
-      "uv": 1.3,
+      "code": 3,
+      "max": 0,
+      "min": -4,
+      "regen": 15,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 69,
+      "uv": 1.7,
       "auf": "07:41",
       "unter": "16:22"
      }
     ],
     "stunden": [
-     {
-      "zeit": "11:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": -2,
@@ -1997,24 +1929,24 @@
      {
       "zeit": "23:00",
       "grad": -2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": -2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -3,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -3,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
@@ -2065,14 +1997,80 @@
       "grad": -2,
       "code": 3,
       "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 3
+     },
+     {
+      "zeit": "20:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 3
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 2 und 5 Grad.",
+   "Heute liegen die Höchstwerte zwischen 1 und 5 Grad.",
    "Die Vorhersage für morgen, Mittwoch, im ganzen Land: bewölkt.",
-   "Die Temperaturen erreichen dann 1 bis 5 Grad.",
+   "Die Temperaturen erreichen dann 2 bis 5 Grad.",
    "Am wärmsten wird es in Köln mit 5 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
@@ -2091,7 +2089,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2114,13 +2112,13 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 2,
+       "grad": 3,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 2,
+       "grad": 1,
        "regen": 0.1
       }
      ]
@@ -2137,7 +2135,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2154,7 +2152,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 4,
+       "grad": 5,
        "regen": 0
       },
       {
@@ -2183,7 +2181,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 5,
+       "grad": 4,
        "regen": 0
       },
       {
@@ -2206,7 +2204,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 5,
+       "grad": 4,
        "regen": 0
       },
       {
@@ -2223,7 +2221,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 1,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2241,10 +2239,10 @@
      ]
     }
    ],
-   "spanneGrad": 3,
+   "spanneGrad": 2,
    "uneinigRegen": null,
    "saetze": [
-    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 2 und 5 Grad."
+    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 1 und 3 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2252,19 +2250,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 2 und 5 Grad. Die Vorhersage für morgen, M",
-   "d": "a49e42e628.mp3",
-   "l": 16.57,
-   "s": [
-    0.25,
-    3.56,
-    7.76,
-    10.94,
-    13.84
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -3313,1032 +3299,6 @@
       9.51,
       17.33,
       24.22
-     ]
-    }
-   ]
-  },
-  {
-   "id": "ukraine-bruenke-angriff",
-   "rubrik": "Welt",
-   "zeit": "2026-11-21T16:52:31.000Z",
-   "aktualisiert": "aktualisiert um 18:25 Uhr",
-   "titel": "Raketenangriffe auf ukrainische Städte und Berichte über Schäden",
-   "vorspann": "Bei Raketenangriffen auf ukrainische Städte wurden nach Angaben von Behörden und Medien Menschen getötet und verletzt. Gleichzeitig äußerte sich der ukrainische Präsident Selenskyj zur Krimbrücke.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Krywyj Rih und Kiew wurden mit ballistischen Raketen beschossen.",
-    "Laut Behörden und Medien gab es in Krywyj Rih Tote und Verletzte, während in Kiew nach Angaben der BBC ebenfalls Todesopfer zu beklagen waren.",
-    "Die Angriffe erfolgten nach Berichten nach Beschädigungen an der Krimbrücke.",
-    "Der ukrainische Präsident Selenskyj äußerte sich zu der Krimbrücke."
-   ],
-   "einig": [
-    [
-     "Der ukrainische Präsident heißt Wolodymyr Selenskyj.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "BBC"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Die genaue Opferzahl in Kiew unterscheidet sich in den Berichten: Die Tagesschau/ARD nennt mindestens sieben Tote, während die BBC von mindestens neun Toten spricht.",
-    "Das Ziel des Angriffs in Krywyj Rih ist strittig: Behörden sprechen von Wohnhäusern und einem Restaurant, während russische Militärblogger eine Pumpstation nennen."
-   ],
-   "positionen": [
-    [
-     "Wolodymyr Selenskyj (Ukrainischer Präsident)",
-     "Bezeichnete die Angriffe als einen der massivsten Schläge und äußerte sich zur Krimbrücke.",
-     "Deutschlandfunk,BBC"
-    ],
-    [
-     "Olexander Hanscha (Militärgouverneur Dnipropetrowsk)",
-     "Informierte über den Beschuss von Krywyj Rih sowie die Zahl der Toten und Verletzten.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Russische Militärblogger",
-     "Behaupteten, dass in Krywyj Rih eine Pumpstation angegriffen wurde.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Wladimir Putin (Russischer Präsident)",
-     "Kündigte Vergeltung für den Angriff auf die Krimbrücke an.",
-     "BBC"
-    ]
-   ],
-   "fehlend": "Stellungnahmen der Vereinten Nationen oder westlicher Regierungen zu den aktuellen Angriffen.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.11.26, 03:39",
-     "fokus": "Opferzahlen und Details zu Krywyj Rih",
-     "text": "Der Bericht konzentriert sich stark auf den Angriff in Krywyj Rih, nennt genaue Opferzahlen und verweist auf Berichte des Zivilschutzes sowie russischer Militärblogger.",
-     "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 1,
-      "woerter": 176,
-      "satzlaenge": 11,
-      "langeWoerter": 43
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.11.26, 17:52",
-     "fokus": "Drohung gegen die Krimbrücke",
-     "text": "Die Meldung fokussiert sich kurz und prägnant auf die verbale Drohung des ukrainischen Präsidenten Selenskyj bezüglich der Krimbrücke.",
-     "url": "https://www.deutschlandfunk.de/selenskyj-krimbruecke-wird-nicht-stehen-bleiben-102.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "20.11.26, 16:14",
-     "fokus": "Landesweiter Angriff und politischer Hintergrund",
-     "text": "Der Artikel beleuchtet den landesweiten Kontext der Angriffe auf Brücken in Kiew, nennt höhere Opferzahlen für die Hauptstadt und erwähnt diplomatische Verhandlungen.",
-     "url": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-     "video": true,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 1,
-      "woerter": 133,
-      "satzlaenge": 27,
-      "langeWoerter": 32
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Opferzahlen für Kiew",
-     "Die Tagesschau/ARD nennt mindestens sieben Tote, die BBC spricht von mindestens neun Toten."
-    ],
-    [
-     "Angriffsziel in Krywyj Rih",
-     "Der offizielle Bericht nennt Wohnhäuser und ein Restaurant, während russische Militärblogger eine Pumpstation nennen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Russische Streitkräfte und der ukrainische Präsident",
-    "was": "Raketenangriffe auf Städte und Reaktionen",
-    "wann": "21.11.2016 und Nächte davor",
-    "wo": "Krywyj Rih und Kiew, Ukraine",
-    "wie": "Durch Beschuss mit ballistischen Raketen",
-    "warum": "Laut BBC als Reaktion auf Angriffe auf die Krimbrücke",
-    "quellenlage": "Berichte von Tagesschau/ARD, Deutschlandfunk und BBC"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Die südukrainische Industriestadt Krywyj Rih wurde von der russischen Armee mit ballistischen Raketen beschossen. Laut Angaben des Militärgouverneurs Olexander Hanscha wurden dabei mindestens zwei Menschen getötet. Unter den Todesopfern befinden sich eine Sanitäterin und ein siebenjähriger Junge. Die Zahl der Verletzten stieg nach denselben Angaben auf 21 Personen an. Eine Rakete schlug im Zentrum der Stadt in der Nähe von Wohnhäusern und einem Restaurant ein. Fotos des Zivilschutzes zeigten ein weitgehend zerstörtes Gebäude. Die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj war früher ein Zentrum von Bergbau und Metallindustrie.",
-      "Laut Berichten gab es auch in der Hauptstadt Kiew einen Angriff. Die BBC berichtete unter Berufung auf den ukrainischen Präsidenten Wolodymyr Selenskyj von einem der massivsten Schläge des Krieges. Bei diesen Schlägen wurden in der Hauptstadt nach Angaben der BBC mindestens neun Menschen getötet. Die russischen Streitkräfte zielten dabei auf Brücken und Bahnstationen. Laut Tagesschau/ARD wurden in der Nacht auf Freitag in Kiew mindestens sieben Menschen getötet sowie zwei Brücken beschädigt.",
-      "Die Angriffe fanden zeitlich nach Beschädigungen an der Krimbrücke statt. Diese Brücke verbindet Russland mit der von Russland besetzten Halbinsel Krim. Der Kreml hatte die Verbindung nach Angaben der BBC gebaut, um das russische Festland mit dem besetzten Gebiet zu verbinden. Der ukrainische Präsident Wolodymyr Selenskyj äußerte sich zu der Brücke und drohte laut Deutschlandfunk mit deren vollständiger Zerstörung."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Der Angriff auf Krywyj Rih traf nach Angaben des Militärgouverneurs Olexander Hanscha städtische Wohngebiete. Das betroffene Einschlaggebiet lag in unmittelbarer Nähe zu Wohnungen und gastronomischen Betrieben. Der Zivilschutz veröffentlichte Fotomaterial, das die Zerstörungen an einem der Gebäude dokumentierte. Russische Militärblogger behaupteten dagegen, dass es sich bei dem Ziel des Angriffs um eine Pumpstation gehandelt habe. Gehäufte Angriffe in der Vergangenheit haben die lokale Industrie beeinträchtigt.",
-      "In der Hauptstadt Kiew schlugen ballistische Raketen in Verkehrswege ein. Laut der Berichterstattung der BBC zielte der Angriff auf Brücken und Bahnhöfe ab. Die BBC-Journalistin Sarah Rainsford berichtete aus Kiew über die Situation vor Ort nach der Nacht der Angriffe. Die Angriffe ereigneten sich wenige Tage nach einem ukrainischen Angriff, der die Krimbrücke beschädigt hatte. Der russische Präsident Wladimir Putin hatte daraufhin eine Reaktion angekündigt.",
-      "Die militärischen Handlungen fielen zeitlich mit politischen Gesprächen zusammen. Laut Angaben der BBC wies der Kreml eine US-amerikanische Behauptung zurück. Diese Behauptung besagte, Russland könnte für vom Westen unterstützte Sicherheitsgarantien für die Ukraine offen sein. Russland überzieht das Nachbarland Ukraine nach Angaben der Tagesschau/ARD bereits seit mehr als viereinhalb Jahren mit Krieg."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Der Konflikt zwischen Russland und der Ukraine dauert bereits seit mehr als viereinhalb Jahren an. In dieser Zeit hat das russische Militär wiederholt Infrastruktur in der Ukraine angegriffen. Die Industriestadt Krywyj Rih in der Südukraine war vor dem Krieg ein wichtiges Zentrum der Metallindustrie und des Bergbaus. Durch wiederholte Angriffe wurde die wirtschaftliche Produktion dort beeinträchtigt.",
-      "Die Krimbrücke hat eine strategische Bedeutung für die russische Kriegsführung. Sie dient als direkte Verbindung zwischen dem russischen Staatsgebiet und der ukrainischen Halbinsel Krim. Angriffe auf diese Verbindung führen zu Reaktionen der russischen Streitkräfte auf ukrainische Städte und Infrastruktur."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Ballistische Raketen sind Flugkörper, die nach einem anfangs angetriebenen Flug eine Wurfkurve beschreiben und sich dann frei durch die Atmosphäre und den Weltraum bewegen, bevor sie ihr Ziel treffen.",
-      "Als Militärgouverneur wird in diesem Zusammenhang ein regionaler Verwaltungschef bezeichnet."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnete den Angriff laut BBC als einen der massivsten Schläge des bisherigen Krieges. Zudem drohte er laut Deutschlandfunk mit der vollständigen Zerstörung der Krimbrücke.",
-      "Der Militärgouverneur des Gebietes Dnipropetrowsk, Olexander Hanscha, teilte auf Telegram mit, dass bei dem Angriff auf Krywyj Rih mindestens zwei Menschen getötet und 21 weitere verletzt wurden.",
-      "Russische Militärblogger erklärten laut Tagesschau/ARD abweichend von den offiziellen Angaben, dass in Krywyj Rih eine Pumpstation das Ziel gewesen sei.",
-      "Der russische Präsident Wladimir Putin hatte laut BBC zuvor Vergeltungsmaßnahmen für den Angriff auf die Krimbrücke angekündigt."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "In den Berichten wurden keine konkreten künftigen militärischen oder politischen Schritte angekündigt, abgesehen von den geäußerten Äußerungen des ukrainischen Präsidenten bezüglich der Krimbrücke."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "noch unklar",
-     "Berichte über Angriffe auf Brücken in Kiew in der Nacht auf Freitag."
-    ],
-    [
-     "vor den Angriffen",
-     "Ukrainische Kräfte beschädigen die Krimbrücke."
-    ],
-    [
-     "Nacht auf Freitag",
-     "Russische Raketen treffen Kiew und beschädigen Brücken sowie Bahnhöfe."
-    ],
-    [
-     "Abend desselben Tages",
-     "Russische Raketen schlagen in der Industriestadt Krywyj Rih ein."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "keins",
-     "suchbegriff": "keins",
-     "bildunterschrift": "Da das Thema Angriffe mit Toten und Verletzten behandelt wird, wird vereinbarungsgemäß kein Bild vorgeschlagen."
-    }
-   ],
-   "ort": {
-    "name": "Krywyj Rih und Kiew, Ukraine"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das Datum 21.11.2016 aus dem Quelltext der Tagesschau wurde übernommen, da keine anderen Datumsangaben im Text standen."
-   ],
-   "wortwarnung": [
-    "massivsten"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Ballistische Raketen",
-      "Das sind Flugkörper, die nach einem angetriebenen Flug eine Wurfkurve beschreiben und sich frei bewegen."
-     ],
-     [
-      "Militärgouverneur",
-      "Das ist ein regionaler Verwaltungschef, der in Krisenzeiten Aufgaben der Sicherheit übernimmt."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen unterschiedliche Quellen bei der Berichterstattung über Opferzahlen?",
-     "Wie beeinflussen Angriffe auf wichtige Verkehrswege wie Brücken den Verlauf eines Konflikts?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie hieß der Militärgouverneur des Gebietes Dnipropetrowsk laut Tagesschau?",
-      "optionen": [
-       "Olexander Hanscha",
-       "Wolodymyr Selenskyj",
-       "Wladimir Putin"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Tagesschau nennt Olexander Hanscha als den Militärgouverneur des Gebietes Dnipropetrowsk."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Bei Raketenangriffen in der Ukraine gab es nach Angaben von Behörden mehrere Tote und Verletzte.",
-    "absaetze": [
-     "Die russische Armee hat die ukrainischen Städte Krywyj Rih und Kiew mit Raketen beschossen.",
-     "In Krywyj Rih wurden nach Angaben des Militärgouverneurs mindestens zwei Menschen getötet und 21 verletzt.",
-     "In der Hauptstadt Kiew wurden nach Berichten ebenfalls Menschen getötet und Brücken beschädigt.",
-     "Die Angriffe geschahen nach Beschädigungen an der Krimbrücke, die Russland und die Krim verbindet.",
-     "Der ukrainische Präsident Wolodymyr Selenskyj drohte mit der Zerstörung dieser Brücke."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Russische Raketen haben die ukrainischen Städte Krywyj Rih und Kiew schwer getroffen. Dabei wurden nach Behördenangaben mehrere Menschen getötet und verletzt. Die Angriffe fanden nach Beschädigungen an der Krimbrücke statt."
-    ],
-    "lang": [
-     "Bei russischen Raketenangriffen auf ukrainische Städte wurden nach Angaben von Behörden mehrere Menschen getötet.",
-     "Die Angriffe trafen die Hauptstadt Kiew und die Industriestadt Krywyj Rih.",
-     "In Krywyj Rih wurden nach Angaben des Militärgouverneurs Olexander Hanscha mindestens zwei Menschen getötet.",
-     "Zudem wurden in der Stadt einundzwanzig Menschen verletzt.",
-     "In Kiew wurden nach Angaben der Tagesschau mindestens sieben und nach Angaben der BBC mindestens neun Menschen getötet.",
-     "Russische Streitkräfte zielten dabei auf Brücken und Bahnhöfe.",
-     "Die Angriffe folgten auf Beschädigungen an der strategisch wichtigen Krimbrücke durch ukrainische Kräfte.",
-     "Der russische Präsident Wladimir Putin hatte zuvor auf den Brückenangriff reagiert.",
-     "Der ukrainische Präsident Wolodymyr Selenskyj drohte mit der vollständigen Zerstörung der Krimbrücke.",
-     "Wie sich die Lage weiterentwickelt, ist derzeit noch unklar."
-    ],
-    "einfach": [
-     "Russische Raketen haben ukrainische Städte angegriffen.",
-     "Dabei gab es nach Angaben von Behörden Tote und Verletzte.",
-     "Getroffen wurden die Städte Krywyj Rih und Kiew.",
-     "Die Angriffe geschahen nach einem Angriff auf die Krimbrücke.",
-     "Der ukrainische Präsident Selenskyj drohte mit der Zerstörung dieser Brücke."
-    ]
-   },
-   "kurz": [
-    "Russische Streitkräfte haben die ukrainischen Städte Krywyj Rih und Kiew mit Raketen beschossen.",
-    "Nach Angaben von Behörden und Medien gab es mehrere Tote und Verletzte.",
-    "Die Angriffe erfolgten nach Beschädigungen an der strategisch wichtigen Krimbrücke."
-   ],
-   "fakten": [
-    [
-     "Getötete in Krywyj Rih laut Behörden",
-     "mindestens zwei"
-    ],
-    [
-     "Verletzte in Krywyj Rih laut Behörden",
-     "21"
-    ],
-    [
-     "Getötete in Kiew laut Tagesschau",
-     "mindestens sieben"
-    ],
-    [
-     "Getötete in Kiew laut BBC",
-     "mindestens neun"
-    ]
-   ],
-   "dossier": {
-    "slug": "konflikt-ukraine-russland-raketenangriffe",
-    "titel": "Krieg in der Ukraine und Raketenangriffe"
-   },
-   "bildInfos": [],
-   "version": 5,
-   "ton": [
-    {
-     "k": "Bei russischen Raketenangriffen auf ukrainische Städte wurden nach Angaben von B",
-     "d": "ee677329f0.mp3",
-     "l": 52.55,
-     "s": [
-      0.25,
-      7.02,
-      11.34,
-      17.79,
-      21.17,
-      28.14,
-      32.3,
-      38.2,
-      43.09,
-      49.09
-     ]
-    },
-    {
-     "k": "Russische Raketen haben die ukrainischen Städte Krywyj Rih und Kiew schwer getro",
-     "d": "7e0bc3b210.mp3",
-     "l": 12.62,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Russische Raketen haben ukrainische Städte angegriffen. Dabei gab es nach Angabe",
-     "d": "1f40e12306.mp3",
-     "l": 19.86,
-     "s": [
-      0.25,
-      4.02,
-      8.19,
-      11.43,
-      14.84
-     ]
-    },
-    {
-     "k": "Die genaue Opferzahl in Kiew unterscheidet sich in den Berichten: Die Tagesschau",
-     "d": "368e7d644d.mp3",
-     "l": 10.13,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Ballistische Raketen? Das sind Flugkörper, die nach eine",
-     "d": "39a1c09f28.mp3",
-     "l": 8.92,
-     "s": [
-      0.25,
-      2.96
-     ]
-    },
-    {
-     "k": "Die südukrainische Industriestadt Krywyj Rih wurde von der russischen Armee mit ",
-     "d": "72dd90ba56.mp3",
-     "l": 44.12,
-     "s": [
-      0.25,
-      6.91,
-      13.13,
-      18.16,
-      22.91,
-      28.42,
-      32.74,
-      40.2
-     ]
-    },
-    {
-     "k": "Der Angriff auf Krywyj Rih traf nach Angaben des Militärgouverneurs Olexander Ha",
-     "d": "b8dfdf846a.mp3",
-     "l": 46.47,
-     "s": [
-      0.25,
-      6.92,
-      12.77,
-      18.51,
-      25.29,
-      29.84,
-      34.02,
-      39.24
-     ]
-    },
-    {
-     "k": "Der Konflikt zwischen Russland und der Ukraine dauert bereits seit mehr als vier",
-     "d": "afc1e1aedb.mp3",
-     "l": 40.62,
-     "s": [
-      0.25,
-      5.73,
-      11.01,
-      18.13,
-      23.03,
-      27.49,
-      33.6
-     ]
-    },
-    {
-     "k": "Ballistische Raketen sind Flugkörper, die nach einem anfangs angetriebenen Flug ",
-     "d": "98d308bb94.mp3",
-     "l": 16.29,
-     "s": [
-      0.25,
-      10.82
-     ]
-    },
-    {
-     "k": "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnete den Angriff laut BBC a",
-     "d": "eadeb52d1a.mp3",
-     "l": 41.37,
-     "s": [
-      0.25,
-      8.48,
-      13.39,
-      25.02,
-      33.98
-     ]
-    },
-    {
-     "k": "In den Berichten wurden keine konkreten künftigen militärischen oder politischen",
-     "d": "e555a25d40.mp3",
-     "l": 11.2,
-     "s": [
-      0.25
-     ]
-    }
-   ]
-  },
-  {
-   "id": "anthropic-boersengang",
-   "rubrik": "Wirtschaft",
-   "zeit": "2026-11-21T16:52:31.000Z",
-   "aktualisiert": "aktualisiert um 18:25 Uhr",
-   "titel": "Kursrückgänge an internationalen Börsen nach dem Börsengang von Anthropic",
-   "vorspann": "Nach dem Börsengang des Technologieunternehmens Anthropic geraten weltweite Technologie- und Künstliche-Intelligenz-Aktien unter Druck. Anleger zeigen sich besorgt über die hohen Investitionen in Künstliche Intelligenz und die Dauer bis zu möglichen Gewinnen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Das KI-Unternehmen Anthropic hat an der US-Börse Nasdaq einen Börsengang absolviert, nach dem die Aktie nach anfänglichen Gewinnen an Wert verlor.",
-    "Ein weltweiter Ausverkauf von Technologie- und KI-Aktien zog wichtige US-Indizes sowie europäische und asiatische Börsen nach unten.",
-    "Anleger und Analysten diskutieren angesichts hoher Investitionen über eine mögliche Blasenbildung und die Rentabilität der Projekte.",
-    "Experten bewerten die Entwicklung als eine Beruhigung und Umschichtung der Märkte und nicht als einen umfassenden Börsencrash."
-   ],
-   "einig": [
-    [
-     "Anthropic verzeichnete am zweiten Handelstag an der Nasdaq einen Kurssturz von mehr als zehn Prozent.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ],
-    [
-     "Die Aktie von Anthropic startete am ersten Handelstag mit einem Kurs von 111,50 Dollar.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ],
-    [
-     "Der deutsche Leitindex Dax verzeichnete Verluste im Zuge des Technologie-Ausverkaufs.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "BBC"
-     ]
-    ],
-    [
-     "Große Technologiekonzerne haben im vergangenen Jahr mehr als eine Billion US-Dollar in Künstliche Intelligenz investiert.",
-     [
-      "Tagesschau/ARD",
-      "BBC"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob Nvidia tatsächlich von der US-Börsenaufsicht SEC wegen Bilanzierungspraktiken untersucht wird (laut BBC beruht dies auf unbestätigten Reuters-Berichten)."
-   ],
-   "positionen": [
-    [
-     "Eckhard Schulte (Portfoliomanager bei MainSky Asset Management)",
-     "Die Stimmung ist nicht gut, und der Anthropic-Börsengang konnte die Märkte nicht stützen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Ascan Iredi (Portfoliomanager bei Plutos)",
-     "KI ist der wichtigste Wachstumstreiber, aber Anleger fragen nun kritisch nach Bewertungen und Investitionserträgen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Thomas Rappold (Technologie-Investor)",
-     "Eine Verlangsamung und Abkühlung der Branche ist eine positive Phase zum Abbau überzogener Erwartungen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Oliver Roth (Kapitalmarktexperte bei ODDO BHF)",
-     "Es handelt sich noch nicht um einen Crash, sondern um Umschichtungen in den Portfolios.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Ed Moya (Stratege bei AlphaSense)",
-     "Wall Street verlagert den Fokus von Wachstum zu stärkerem Cashflow und klarem Weg zur Profitabilität.",
-     "BBC"
-    ]
-   ],
-   "fehlend": "Stellungnahmen von Anthropic selbst zu den aktuellen Kursverlusten sowie offizielle Aussagen der US-Börsenaufsicht SEC zu den Berichten über Nvidia.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "20.11.26, 17:20",
-     "fokus": "Börsengang und deutsche Marktauswirkungen",
-     "text": "Die Tagesschau beleuchtet den Verlauf des Anthropic-Börsengangs detailliert und bindet Aussagen mehrerer deutscher Finanzexperten und Portfoliomanager ein.",
-     "url": "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 10,
-      "minuten": 5,
-      "woerter": 970,
-      "satzlaenge": 14,
-      "langeWoerter": 36
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "21.11.26, 17:52",
-     "fokus": "Wochenbilanz des Dax",
-     "text": "Der Deutschlandfunk berichtet kurz und prägnant über den stark gefallenen Dax und den größten Wochenverlust seit März.",
-     "url": "https://www.deutschlandfunk.de/ausverkauf-bei-technologie-und-ki-werten-an-us-boersen-dax-faellt-unter-25-000-punkte-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Zeit",
-     "typ": "Wochenzeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "21.11.26, 07:13",
-     "fokus": "Vertrauensverlust an US-Börsen",
-     "text": "Die Zeit ordnet den Ausverkauf als Angstreaktion vor einer KI-Blase mit den stärksten Wochenverlusten seit der Coronapandeme ein.",
-     "url": "https://www.zeit.de/wirtschaft/2026-11/anthropic-boersengang-ki-unternehmen-aktie-nasdaq",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "20.11.26, 23:42",
-     "fokus": "Internationale Marktauswirkungen und US-Konzerne",
-     "text": "Die BBC liefert eine umfassende weltweite Übersicht der Aktienrückgänge und beleuchtet neben Anthropic auch Probleme bei Unternehmen wie Nvidia und Tesla.",
-     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "leicht",
-      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
-      "klasse": 7,
-      "minuten": 3,
-      "woerter": 680,
-      "satzlaenge": 24,
-      "langeWoerter": 23
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Geografischer Fokus",
-     "Während die Tagesschau stark auf deutsche Indizes und Experten eingeht, konzentriert sich die BBC auf globale Märkte und konkrete US-Techkonzerne wie Nvidia, Tesla und SpaceX."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Das KI-Unternehmen Anthropic und internationale Technologiekonzerne",
-    "was": "Ein Kursverlust bei Technologieaktien und Kursrückgänge an weltweiten Börsen",
-    "wann": "November 2026",
-    "wo": "Globale Finanzmärkte mit Schwerpunkt USA und Europa",
-    "wie": "Durch einen weltweiten Ausverkauf von Technologie- und KI-Werten nach dem Anthropic-Börsendebüt",
-    "warum": "Zweifel an der Höhe der Investitionen und der Rentabilität laut Marktbeobachtern",
-    "quellenlage": "Berichte von Tagesschau/ARD, Deutschlandfunk, Zeit und BBC"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Das Unternehmen Anthropic hat seinen Börsengang an der US-Technologiebörse Nasdaq durchgeführt. Nach einem ersten Handelstag mit Kursgewinnen verlor die Aktie am darauffolgenden zweiten Handelstag mehr als 10 Prozent ihres Wertes. Laut BBC fiel der Kurs zeitweise um mehr als 12 Prozent auf rund 85 Dollar, was nah am Ausgabepreis von 83 Dollar lag. Zum Handelsschluss schloss das Papier mit einem Minus von 8,5 Prozent und gab damit etwa die Hälfte der am Donnerstag erzielten Gewinne wieder ab. Der Börsengang galt als wichtiger Stimmungstest für die gesamte Technologiebranche.",
-      "Die erhoffte positive Signalwirkung auf die Märkte blieb jedoch aus. Stattdessen gerieten Technologie- und KI-Aktien weltweit unter Druck. Der US-Index Nasdaq verlor an dem Donnerstag mehr als zwei Prozent, während der breiter gefasste S&P 500 laut BBC um 3,7 Prozent nachgab. Auch der Dow Jones Industrial Average verzeichnete einen Rückgang von 1,9 Prozent. Beide Indizes wurden nach Angaben der BBC in den Korrekturbereich gedrückt, was bedeutet, dass sie mehr als zehn Prozent unter einem kürzlichen Höchststand handeln.",
-      "Die Verluste erfassten auch die europäischen Börsenmärkte. Der deutsche Leitindex Dax verzeichnete laut Deutschlandfunk und Tagesschau/ARD den größten Wochenverlust seit März und schloss um 2,6 Prozent tiefer. In Frankreich gab der CAC 40 um 1,9 Prozent nach, während der britische FTSE 100 um ein Prozent fiel. Auch asiatische Märkte wie in Südkorea, Japan und Taiwan verzeichneten Verluste. In Taiwan fiel der Aktienmarkt laut BBC um rund sechs Prozent, was den größten wöchentlichen Rückgang seit dem Jahr 1990 darstellte."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten des Anthropic-Börsengangs",
-     "absaetze": [
-      "Anthropic hatte laut den Berichten einen großen Börsengang hingelegt. Die Aktie eröffnete am ersten Handelstag bei 111,50 Dollar, was rund 34 Prozent über dem Ausgabepreis von 83 Dollar lag. Im Tagesverlauf stieg der Kurs zeitweise auf 115 Dollar. Zum Handelsschluss verblieb ein Kurs von 97,17 Dollar, was einem Plus von etwa 17 Prozent entsprach. Analysten wiesen darauf hin, dass eine gewisse Volatilität in den ersten Handelstagen zu erwarten war, da Anthropic das erste Unternehmen seiner Art im Bereich der Künstlichen Intelligenz ist, das an die Börse gegangen ist und somit keine direkten Vergleichswerte besitzt.",
-      "Der Entwickler des KI-Assistenten Claude ging somit als maßgebliches Unternehmen an den Markt. Den Anfangshype konnte die Aktie jedoch nicht halten, wie die Berichte übereinstimmend schildern. Der Portfoliomanager Eckhard Schulte von MainSky Asset Management erklärte gegenüber der ARD-Finanzredaktion, dass die Stimmung an den Märkten nicht gut sei und der Börsengang von Anthropic die Lage nicht habe stabilisieren können. Anleger würden zunehmend zwischen dem langfristigen Potenzial Künstlicher Intelligenz und den tatsächlichen Erwartungen an der Börse unterscheiden.",
-      "Zu den weiteren betroffenen Unternehmen zählten nach Angaben der BBC auch andere große Technologiekonzerne. Nvidia verzeichnete einen Kursverlust von 13,7 Prozent zum Handelsschluss. Die britische Nachrichtenquelle beruft sich dabei auf Berichte von Reuters, wonach Nvidia von der US-Börsenaufsicht Securities and Exchange Commission wegen seiner Bilanzierungspraktiken untersucht werde; dies wurde von der BBC jedoch nicht offiziell bestätigt. Die Unternehmen Tesla und SpaceX verzeichneten Kursrückgänge von jeweils mehr als 7,6 Prozent. SpaceX gab zuvor eine Anleiheemission bekannt, um den bisher größten Ankauf von Nvidia-Chips zu finanzieren."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund und Marktstrukturen",
-     "absaetze": [
-      "Künstliche Intelligenz hat sich in den vergangenen Jahren zu einem der wichtigsten Wachstumstreiber an den Börsen entwickelt. Laut Ascan Iredi, Portfoliomanager bei Plutos, suchten Anleger in einem wirtschaftlich schwierigen Umfeld mit schwachem Wachstum, steigenden Energiepreisen und geopolitischen Problemen nach neuen Wachstumsmodellen. Die Unternehmen innerhalb der Technologiebranche sind eng miteinander verflochten, investieren gegenseitig, finanzieren Infrastruktur und schließen langfristige Liefer- und Abnahmeverträge ab.",
-      "Ein wesentlicher Unsicherheitsfaktor besteht in den enormen Ausgaben der Technologiekonzerne für Rechenzentren, Chips und die notwendige Infrastruktur. Laut BBC wurden im vergangenen Jahr allein von einer kleinen Gruppe von Großkonzernen mehr als eine Billion US-Dollar ausgegeben. Es ist laut den Berichten noch nicht bei allen Unternehmen absehbar, wann sich diese Investitionen in hohe Gewinne verwandeln. Dies führt zu anhaltenden Diskussionen über die Bildung einer finanziellen Blase im Sektor der Künstlichen Intelligenz.",
-      "Zusätzliche Unsicherheit entsteht durch politische Entwicklungen. Nach Angaben der BBC wurden Anleger durch den Sieg der Demokraten bei den US-Zwischenwahlen im November verunsichert, da dies zu Befürchtungen hinsichtlich einer Verlangsamung der Entwicklung im Bereich der Künstlichen Intelligenz geführt habe. Auch in den USA wird intensiv über das Tempo des Rechenzentrenausbaus, Fragen der Finanzierung und die weitere Entwicklung des Chipgeschäfts diskutiert."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen von Experten und Analysten",
-     "absaetze": [
-      "Portfoliomanager Ascan Iredi von Plutos äußerte sich zu den möglichen Folgen einer größeren Korrektur an den Aktienmärkten. Da große Technologieunternehmen in vielen Aktienfonds stark vertreten seien, könne ein Renditerückgang auch breitere Anlegerschichten belasten. Iredi betonte jedoch, dass er nicht an der grundsätzlichen Bedeutung der Technologie zweifle und Künstliche Intelligenz ein fester Bestandteil bleiben werde.",
-      "Der Technologie-Investor Thomas Rappold bewertete die aktuelle Phase gegenüber der ARD-Finanzredaktion als eine Art Safety-Car-Phase, in der die Branche zur Normalität zurückkehren könne. Eine Verlangsamung des Ausbaus sei positiv zu bewerten, um überzogene Erwartungen abzubauen und die Entwicklung auf ein stabileres Fundament zu stellen, auch wenn der Markt dies vorerst negativ wahrnehme.",
-      "Oliver Roth, Kapitalmarktexperte bei ODDO BHF, erklärte im Gespräch mit der Tagesschau, dass es sich bei den aktuellen Kursbewegungen noch nicht um einen Crash handele. Vielmehr handle es sich um Umschichtungen in den Portfolios der Anleger. Roth hob zudem hervor, dass der deutsche Leitindex Dax weniger stark von der Technologiebranche abhängig sei als die US-Indizes, weshalb die Ausgangslage im Dax etwas positiver bewertet werden könne. Ed Moya, ein Stratege der Marktintellenzfirma AlphaSense, teilte der BBC mit, dass Investoren nun von der Belohnung von Wachstum zu Forderungen nach stärkeren Cashflows und klaren Wegen zur Profitabilität übergehen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Die Finanzmärkte beobachten weiterhin die Entwicklung der Investitionskosten und der Umsätze im Bereich der Künstlichen Intelligenz. Im Fokus stehen dabei insbesondere die Frage des Tempos beim Ausbau von Rechenzentren sowie die künftige Entwicklung des Chipgeschäfts bei Unternehmen wie Nvidia. Analysten erwarten, dass die genaue Überprüfung von Bewertungen und Profitabilität die Anlagestrategien an den Börsen in den kommenden Wochen bestimmen wird."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Juni",
-     "SpaceX stellt mit einem Börsengang einen bisherigen Bestwert auf"
-    ],
-    [
-     "2026-11-19",
-     "Anthropic geht an die Börse und erzielt einen Rekorderlös von 107,3 Milliarden Dollar"
-    ],
-    [
-     "2026-11-20",
-     "Erster Handelstag von Anthropic mit einem Handelskurs von 111,50 Dollar"
-    ],
-    [
-     "Juni",
-     "SpaceX stellt mit einem Börsengang einen bisherigen Bestwert auf."
-    ],
-    [
-     "2026-11-19",
-     "Anthropic geht an die Börse und erzielt einen Rekorderlös."
-    ],
-    [
-     "2026-11-20",
-     "Erster Handelstag von Anthropic mit einem Handelskurs von 111,50 Dollar und anschließender Kursverlust am zweiten Tag."
-    ],
-    [
-     "November 2026",
-     "Anthropic geht an die Börse und erzielt einen Börsenerfolg an Tag eins mit anschließendem Kursverlust am zweiten Tag sowie weltweiten Kursrückgängen an den Technologiebörsen."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "institution",
-     "suchbegriff": "Nasdaq MarketSite",
-     "bildunterschrift": "Das Gebäude der Technologiebörse Nasdaq in New York, an der der Handel mit den Aktien von Anthropic stattfand."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Deutsche Boerse Frankfurt",
-     "bildunterschrift": "Das Gebäude der Frankfurter Wertpapierbörse, an der der deutsche Leitindex Dax gehandelt wird."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Artificial intelligence stock market graph",
-     "bildunterschrift": "Symbolische Darstellung von Aktienkursen und Finanzdaten auf einem Bildschirm."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Securities and Exchange Commission headquarters Washington D.C.",
-     "bildunterschrift": "Der Hauptsitz der US-Börsenaufsicht SEC in Washington."
-    }
-   ],
-   "ort": {
-    "name": "New York, USA"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Entfernung von wertenden Begriffen wie 'fulminant', 'spektakulär' und 'krachend' aus dem Entwurf, um den neutralen journalistischen Vorgaben zu entsprechen."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Börsengang",
-      "Das erste Mal bietet ein Unternehmen seine Aktien öffentlich zum Kauf an einer Börse an."
-     ],
-     [
-      "Aktienindex",
-      "Eine statistische Kennzahl, die die Kursentwicklung einer bestimmten Gruppe von Aktien abbildet und so die Entwicklung eines Marktes zeigt."
-     ],
-     [
-      "Blasenbildung",
-      "Eine wirtschaftliche Situation, in der die Preise von Anlagen oder Aktien stark und übertrieben steigen, bis sie schließlich stark fallen."
-     ]
-    ],
-    "fragen": [
-     "Welche Rolle spielen Berichte über internationale Technologiekonzerne und Börsen bei der Einschätzung des weltweiten Marktes?",
-     "Wie bewerten verschiedene Experten die aktuellen Kursrückgänge an den Börsen, und welche Argumente nennen sie dafür?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie viel Prozent verlor die Anthropic-Aktie an ihrem zweiten Handelstag an der Nasdaq mindestens?",
-      "optionen": [
-       "Mehr als 10 Prozent",
-       "Genau 5 Prozent",
-       "Die Aktie gewann weiter an Wert"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Tagesschau und die BBC berichten übereinstimmend, dass die Anthropic-Aktie am zweiten Handelstag mehr als 10 Prozent an Wert verlor."
-     },
-     {
-      "frage": "Wie hoch waren die Investitionen einer kleinen Gruppe von Großkonzernen in Künstliche Intelligenz im vergangenen Jahr nach Angaben der Berichte?",
-      "optionen": [
-       "Mehr als eine Milliarde US-Dollar",
-       "Mehr als eine Billion US-Dollar",
-       "Mehr als eine Quadrillion US-Dollar"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die Tagesschau und die BBC berichten, dass im letzten Jahr mehr als eine Billion US-Dollar von einer kleinen Gruppe von Großkonzernen in Künstliche Intelligenz investiert wurden."
-     },
-     {
-      "frage": "Welchen Trend beobachtet Kapitalmarktexperte Oliver Roth bei den Anlegerportfolios?",
-      "optionen": [
-       "Einen kompletten Börsencrash",
-       "Starke und gesunde Umschichtungen",
-       "Einen dauerhaften Stopp aller Aktienkäufe"
-      ],
-      "richtig": 1,
-      "erklaerung": "Oliver Roth erklärte gegenüber der Tagesschau, dass es sich noch nicht um einen Crash handle, sondern um Umschichtungen in den Anlegerportfolios, die er als normal und gesund beschreibt."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Nach dem Börsengang des Technologieunternehmens Anthropic sind die Aktienkurse von Firmen für Künstliche Intelligenz weltweit stark gefallen.",
-    "absaetze": [
-     "Das Unternehmen Anthropic hat Aktien an der US-Börse Nasdaq verkauft. Am ersten Tag stieg der Kurs deutlich an. Am zweiten Tag verlor die Aktie jedoch mehr als zehn Prozent an Wert.",
-     "Wegen des Kurssturzes gerieten auch andere Technologieaktien weltweit unter Druck. Wichtige Börsenindizes in den Vereinigten Staaten, Europa und Asien gaben deutlich nach.",
-     "Große Technologiekonzerne haben im vergangenen Jahr mehr als eine Billion US-Dollar in Künstliche Intelligenz investiert. Viele Anleger fragen nun, ob sich diese hohen Ausgaben tatsächlich lohnen werden.",
-     "Einige Experten bewerten die Entwicklung als eine notwendige Beruhigung der Märkte nach einem großen Hype. Andere warnen vor den Risiken für Anleger und Aktienfonds."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Das KI-Unternehmen Anthropic hat an der Börse einen starken Start hingelegt, verlor am zweiten Tag aber mehr als zehn Prozent an Wert.",
-     "Weltweit gerieten Technologie- und KI-Aktien daraufhin stark unter Druck und zogen wichtige Börsenindizes nach unten.",
-     "Experten und Analysten diskutieren angesichts von Investitionen von über einer Billion US-Dollar über eine mögliche Blasenbildung an den Märkten."
-    ],
-    "lang": [
-     "Das Technologieunternehmen Anthropic hat an der US-Börse Nasdaq einen großen Börsengang absolviert.",
-     "Nach einem erfolgreichen ersten Handelstag verlor die Aktie am zweiten Tag mehr als zehn Prozent an Wert.",
-     "Weltweit gerieten Technologie- und KI-Aktien daraufhin stark unter Druck und zogen wichtige Indizes nach unten.",
-     "Der deutsche Leitindex Dax verzeichnete im Zuge des Ausverkaufs deutliche Verluste.",
-     "Große Technologiekonzerne haben im vergangenen Jahr nach übereinstimmenden Medienberichten mehr als eine Billion US-Dollar in Künstliche Intelligenz investiert.",
-     "Anleger und Analysten diskutieren angesichts dieser Summen über eine mögliche Blasenbildung an den Finanzmärkten.",
-     "Der Portfoliomanager Eckhard Schulte erklärte, dass die Stimmung an den Märkten nicht gut sei und der Börsengang die Lage nicht habe stützen können.",
-     "Der Kapitalmarktexperte Oliver Roth bewertete die Entwicklung im Gespräch mit der Tagesschau als normale und gesunde Umschichtung in den Portfolios.",
-     "Finanzmärkte und Analysten beobachten nun genau, wann sich die hohen Investitionen in Gewinne umwandeln werden."
-    ],
-    "einfach": [
-     "Das Unternehmen Anthropic ging an die Börse in den Vereinigten Staaten.",
-     "Am ersten Tag kauften viele Menschen die Aktie zu einem hohen Preis.",
-     "Am zweiten Tag fiel der Kurs der Aktie jedoch wieder stark ab.",
-     "Daraufhin sanken auch die Aktienkurse von vielen anderen Technologieunternehmen auf der ganzen Welt.",
-     "Experten diskutieren nun, ob die vielen Investitionen in Künstliche Intelligenz zu hoch waren."
-    ]
-   },
-   "kurz": [
-    "Das KI-Unternehmen Anthropic verlor nach einem starken ersten Börsentag am zweiten Tag über zehn Prozent an Wert.",
-    "Weltweit gerieten Technologie- und KI-Aktien stark unter Druck und zogen wichtige Indizes nach unten.",
-    "Anleger diskutieren angesichts von Investitionen von über einer Billion Dollar über eine mögliche Blasenbildung."
-   ],
-   "fakten": [
-    [
-     "Ausgabepreis der Anthropic-Aktie",
-     "83 Dollar"
-    ],
-    [
-     "Eröffnungskurs am ersten Handelstag",
-     "111,50 Dollar"
-    ],
-    [
-     "Kursverlust der Anthropic-Aktie am zweiten Tag",
-     "mehr als 10 Prozent"
-    ],
-    [
-     "Ausgaben großer Tech-Konzerne in KI im letzten Jahr",
-     "mehr als eine Billion US-Dollar"
-    ],
-    [
-     "Rückgang des Nasdaq am Donnerstag",
-     "mehr als 2 Prozent (laut BBC 5,3 Prozent)"
-    ],
-    [
-     "Rückgang des S und P 500",
-     "3,7 Prozent"
-    ],
-    [
-     "Rückgang des Dow Jones",
-     "1,9 Prozent"
-    ],
-    [
-     "Rückgang des deutschen Dax",
-     "2,6 Prozent"
-    ]
-   ],
-   "dossier": {
-    "slug": "borsengang-anthropic-ki-aktien",
-    "titel": "Börsengang von Anthropic und Kursrückgänge bei Technologie- und KI-Aktien"
-   },
-   "bildInfo": {
-    "titel": "Dario Amodei at TechCrunch Disrupt 2023 01.jpg",
-    "beschreibung": "Dario Amodei at TechCrunch Disrupt 2023",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg/1280px-Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg",
-    "urheber": "TechCrunch",
-    "lizenz": "CC BY 2.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-    "artikel": "Dario Amodei",
-    "sprache": "de",
-    "art": "person",
-    "suchbegriff": "Dario Amodei",
-    "bildunterschrift": "Dario Amodei, Vorstand des KI-Unternehmens Anthropic.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "Dario Amodei at TechCrunch Disrupt 2023 01.jpg",
-     "beschreibung": "Dario Amodei at TechCrunch Disrupt 2023",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg/1280px-Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/d/da/Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Dario_Amodei_at_TechCrunch_Disrupt_2023_01.jpg",
-     "urheber": "TechCrunch",
-     "lizenz": "CC BY 2.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
-     "artikel": "Dario Amodei",
-     "sprache": "de",
-     "art": "person",
-     "suchbegriff": "Dario Amodei",
-     "bildunterschrift": "Dario Amodei, Vorstand des KI-Unternehmens Anthropic.",
-     "hinweis": "Archivfoto"
-    },
-    {
-     "titel": "Nasdaq Tower May 2026.jpg",
-     "beschreibung": "Exterior of the Nasdaq Tower during the network upfronts in May 2026.",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Nasdaq_Tower_May_2026.jpg/1280px-Nasdaq_Tower_May_2026.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Nasdaq_Tower_May_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:Nasdaq_Tower_May_2026.jpg",
-     "urheber": "Nielsoncaetanosalmeron",
-     "lizenz": "CC BY 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
-     "artikel": "Nasdaq",
-     "sprache": "en",
-     "art": "institution",
-     "suchbegriff": "Nasdaq",
-     "bildunterschrift": "Der Nasdaq-Turm in den USA, an dem das Unternehmen seinen Börsengang absolvierte.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "New York, USA",
-    "lat": 40.713,
-    "lon": -74.006
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Das Technologieunternehmen Anthropic hat an der US-Börse Nasdaq einen großen Bör",
-     "d": "dcc17bff67.mp3",
-     "l": 64.29,
-     "s": [
-      0.25,
-      6.36,
-      12.81,
-      19.75,
-      25.05,
-      34.17,
-      40.88,
-      48.37,
-      57.41
-     ]
-    },
-    {
-     "k": "Das KI-Unternehmen Anthropic hat an der Börse einen starken Start hingelegt, ver",
-     "d": "f54a324829.mp3",
-     "l": 23.61,
-     "s": [
-      0.25,
-      8.04,
-      15.36
-     ]
-    },
-    {
-     "k": "Das Unternehmen Anthropic ging an die Börse in den Vereinigten Staaten. Am erste",
-     "d": "3aa442052f.mp3",
-     "l": 25.69,
-     "s": [
-      0.25,
-      4.98,
-      9.37,
-      13.34,
-      19.6
-     ]
-    },
-    {
-     "k": "Ob Nvidia tatsächlich von der US-Börsenaufsicht SEC wegen Bilanzierungspraktiken",
-     "d": "e1ed75379b.mp3",
-     "l": 10.61,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Börsengang? Das erste Mal bietet ein Unternehmen seine A",
-     "d": "51681e9901.mp3",
-     "l": 8.13,
-     "s": [
-      0.25,
-      2.64
-     ]
-    },
-    {
-     "k": "Das Unternehmen Anthropic hat seinen Börsengang an der US-Technologiebörse Nasda",
-     "d": "48af80c013.mp3",
-     "l": 55.59,
-     "s": [
-      0.25,
-      5.98,
-      13.85,
-      23.28,
-      31.91,
-      36.7,
-      40.87,
-      44.97
-     ]
-    },
-    {
-     "k": "Anthropic hatte laut den Berichten einen großen Börsengang hingelegt. Die Aktie ",
-     "d": "6267094d87.mp3",
-     "l": 61.33,
-     "s": [
-      0.25,
-      4.36,
-      14.55,
-      19.29,
-      26.76,
-      38.29,
-      43.92,
-      49.17
-     ]
-    },
-    {
-     "k": "Künstliche Intelligenz hat sich in den vergangenen Jahren zu einem der wichtigst",
-     "d": "f0303164bd.mp3",
-     "l": 63.52,
-     "s": [
-      0.25,
-      6.6,
-      18.74,
-      29.24,
-      37.48,
-      45.59,
-      52.91,
-      59.84
-     ]
-    },
-    {
-     "k": "Portfoliomanager Ascan Iredi von Plutos äußerte sich zu den möglichen Folgen ein",
-     "d": "e22020b135.mp3",
-     "l": 71.06,
-     "s": [
-      0.25,
-      7.6,
-      15.69,
-      24.12,
-      35.04,
-      45.88,
-      55.41,
-      59.5
-     ]
-    },
-    {
-     "k": "Die Finanzmärkte beobachten weiterhin die Entwicklung der Investitionskosten und",
-     "d": "547e2420df.mp3",
-     "l": 25.56,
-     "s": [
-      0.25,
-      7.5,
-      16.87
      ]
     }
    ]
