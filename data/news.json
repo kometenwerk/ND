@@ -2250,7 +2250,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 1 und 5 Grad. Die Vorhersage für morgen, M",
+   "d": "1a8b01dc5d.mp3",
+   "l": 16.03,
+   "s": [
+    0.25,
+    3.6,
+    7.35,
+    10.5,
+    13.36
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
