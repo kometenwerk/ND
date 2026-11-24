@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-23T12:20:52.339Z",
+ "stand": "2026-11-24T10:51:38.872Z",
  "gepusht": [
   "verbrenner-aus-aufweichung-deutschland-frankreich",
   "trump-russland-sanktionen-ausgesetzt",
@@ -91,8 +91,8 @@
   "russland-atomwaffe-all"
  ],
  "wetter": {
-  "stand": "2026-11-23T12:20:52.339Z",
-  "morgenTag": "Dienstag",
+  "stand": "2026-11-24T10:51:38.872Z",
+  "morgenTag": "Mittwoch",
   "orte": [
    {
     "name": "Hamburg",
@@ -100,65 +100,52 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 4,
-     "code": 0,
-     "gefuehlt": 0,
-     "wind": 12,
-     "windAus": 315,
-     "feuchte": 62,
-     "druck": 1021,
+     "grad": 1,
+     "code": 1,
+     "gefuehlt": -3,
+     "wind": 5,
+     "windAus": 256,
+     "feuchte": 79,
+     "druck": 1026,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 1,
-     "max": 4,
-     "min": -1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 15,
-     "windAus": 317,
-     "uv": 1.2,
-     "auf": "08:00",
-     "unter": "16:12"
-    },
-    "morgen": {
      "datum": "2026-11-24",
      "code": 2,
-     "max": 3,
-     "min": -1,
+     "max": 2,
+     "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 308,
+     "wind": 7,
+     "windAus": 295,
      "uv": 1.2,
      "auf": "08:01",
      "unter": "16:11"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 2,
+     "min": -1,
+     "regen": 0,
+     "menge": 0,
+     "wind": 13,
+     "windAus": 85,
+     "uv": 1.1,
+     "auf": "08:03",
+     "unter": "16:10"
+    },
     "tage": [
-     {
-      "datum": "2026-11-23",
-      "code": 1,
-      "max": 4,
-      "min": -1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 15,
-      "windAus": 317,
-      "uv": 1.2,
-      "auf": "08:00",
-      "unter": "16:12"
-     },
      {
       "datum": "2026-11-24",
       "code": 2,
-      "max": 3,
-      "min": -1,
+      "max": 2,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 308,
+      "wind": 7,
+      "windAus": 295,
       "uv": 1.2,
       "auf": "08:01",
       "unter": "16:11"
@@ -168,10 +155,10 @@
       "code": 3,
       "max": 2,
       "min": -1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 57,
+      "wind": 13,
+      "windAus": 85,
       "uv": 1.1,
       "auf": "08:03",
       "unter": "16:10"
@@ -179,25 +166,25 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 1,
-      "min": -3,
-      "regen": 3,
+      "max": 2,
+      "min": -1,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 68,
+      "wind": 7,
+      "windAus": 62,
       "uv": 1.1,
       "auf": "08:05",
       "unter": "16:09"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
-      "max": -1,
+      "code": 2,
+      "max": 1,
       "min": -3,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 97,
+      "windAus": 107,
       "uv": 1.1,
       "auf": "08:06",
       "unter": "16:08"
@@ -207,123 +194,148 @@
       "code": 3,
       "max": -1,
       "min": -3,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 14,
-      "windAus": 126,
-      "uv": 1,
+      "windAus": 127,
+      "uv": 1.1,
       "auf": "08:08",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-29",
-      "code": 66,
-      "max": 4,
-      "min": -2,
-      "regen": 35,
-      "menge": 9.6,
-      "wind": 15,
-      "windAus": 155,
-      "uv": 0.9,
+      "code": 61,
+      "max": 2,
+      "min": -3,
+      "regen": 32,
+      "menge": 3.6,
+      "wind": 14,
+      "windAus": 165,
+      "uv": 1.1,
       "auf": "08:10",
       "unter": "16:06"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 3,
+      "max": 6,
+      "min": 2,
+      "regen": 33,
+      "menge": 0,
+      "wind": 16,
+      "windAus": 217,
+      "uv": 1.1,
+      "auf": "08:11",
+      "unter": "16:05"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
-      "grad": 4,
+      "zeit": "11:00",
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
      {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
       "zeit": "14:00",
-      "grad": 4,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 4,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 3,
+      "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 3,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 2,
-      "code": 1,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 1,
-      "code": 1,
+      "grad": 0,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 1,
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 1,
-      "code": 1,
+      "grad": 0,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 0,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 0,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
+      "grad": -1,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 0,
+      "grad": -1,
       "code": 1,
       "regen": 0
      },
      {
+      "zeit": "02:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
       "zeit": "03:00",
-      "grad": 0,
+      "grad": -1,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -335,43 +347,31 @@
      {
       "zeit": "06:00",
       "grad": -1,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 0,
+      "code": 2,
       "regen": 0
      }
     ]
@@ -382,66 +382,53 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 4,
+     "grad": 3,
      "code": 2,
      "gefuehlt": -1,
-     "wind": 15,
-     "windAus": 306,
-     "feuchte": 68,
-     "druck": 1015,
+     "wind": 9,
+     "windAus": 291,
+     "feuchte": 77,
+     "druck": 1023,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 80,
-     "max": 4,
-     "min": 0,
-     "regen": 40,
-     "menge": 0.5,
-     "wind": 18,
-     "windAus": 297,
-     "uv": 1.3,
-     "auf": "07:41",
-     "unter": "16:03"
-    },
-    "morgen": {
      "datum": "2026-11-24",
-     "code": 51,
+     "code": 61,
      "max": 3,
      "min": 1,
-     "regen": 5,
+     "regen": 3,
      "menge": 0,
-     "wind": 13,
-     "windAus": 289,
-     "uv": 1.1,
+     "wind": 14,
+     "windAus": 300,
+     "uv": 0.6,
      "auf": "07:43",
      "unter": "16:02"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 2,
+     "min": 0,
+     "regen": 3,
+     "menge": 0,
+     "wind": 11,
+     "windAus": 80,
+     "uv": 1.2,
+     "auf": "07:45",
+     "unter": "16:01"
+    },
     "tage": [
      {
-      "datum": "2026-11-23",
-      "code": 80,
-      "max": 4,
-      "min": 0,
-      "regen": 40,
-      "menge": 0.5,
-      "wind": 18,
-      "windAus": 297,
-      "uv": 1.3,
-      "auf": "07:41",
-      "unter": "16:03"
-     },
-     {
       "datum": "2026-11-24",
-      "code": 51,
+      "code": 61,
       "max": 3,
       "min": 1,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 13,
-      "windAus": 289,
-      "uv": 1.1,
+      "wind": 14,
+      "windAus": 300,
+      "uv": 0.6,
       "auf": "07:43",
       "unter": "16:02"
      },
@@ -449,25 +436,25 @@
       "datum": "2026-11-25",
       "code": 3,
       "max": 2,
-      "min": -1,
-      "regen": 0,
+      "min": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 61,
-      "uv": 1.3,
+      "wind": 11,
+      "windAus": 80,
+      "uv": 1.2,
       "auf": "07:45",
       "unter": "16:01"
      },
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 0,
+      "max": 2,
       "min": -2,
-      "regen": 7,
+      "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 59,
-      "uv": 0.9,
+      "wind": 9,
+      "windAus": 64,
+      "uv": 1.2,
       "auf": "07:46",
       "unter": "16:00"
      },
@@ -475,138 +462,163 @@
       "datum": "2026-11-27",
       "code": 3,
       "max": 0,
-      "min": -2,
-      "regen": 13,
+      "min": -3,
+      "regen": 0,
       "menge": 0,
       "wind": 10,
-      "windAus": 79,
+      "windAus": 78,
       "uv": 1.2,
       "auf": "07:48",
       "unter": "15:59"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
+      "code": 2,
       "max": 0,
-      "min": -4,
-      "regen": 0,
+      "min": -3,
+      "regen": 3,
       "menge": 0,
-      "wind": 11,
-      "windAus": 109,
+      "wind": 12,
+      "windAus": 101,
       "uv": 1.2,
       "auf": "07:49",
       "unter": "15:58"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
+      "code": 3,
       "max": 2,
-      "min": -2,
-      "regen": 30,
-      "menge": 2.9,
+      "min": -4,
+      "regen": 13,
+      "menge": 0,
       "wind": 12,
-      "windAus": 148,
-      "uv": 1.1,
+      "windAus": 138,
+      "uv": 1.2,
       "auf": "07:51",
+      "unter": "15:57"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 3,
+      "max": 4,
+      "min": 0,
+      "regen": 18,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 208,
+      "uv": 1.2,
+      "auf": "07:52",
       "unter": "15:57"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
-      "grad": 4,
+      "zeit": "11:00",
+      "grad": 2,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "14:00",
-      "grad": 4,
+      "zeit": "12:00",
+      "grad": 3,
       "code": 2,
-      "regen": 15
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 4,
+      "grad": 3,
       "code": 3,
-      "regen": 40
+      "regen": 0
      },
      {
       "zeit": "16:00",
       "grad": 3,
-      "code": 80,
-      "regen": 8
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 3,
-      "code": 3,
-      "regen": 13
+      "code": 61,
+      "regen": 3
      },
      {
       "zeit": "18:00",
-      "grad": 2,
+      "grad": 3,
       "code": 61,
-      "regen": 13
+      "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 2,
-      "code": 71,
-      "regen": 13
+      "grad": 3,
+      "code": 61,
+      "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 1,
-      "code": 71,
-      "regen": 18
+      "grad": 2,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 15
+      "grad": 2,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 10
+      "grad": 2,
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 1,
-      "code": 3,
-      "regen": 8
+      "code": 2,
+      "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": 1,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 1,
       "code": 3,
-      "regen": 5
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": 1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": 1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "05:00",
@@ -623,36 +635,24 @@
      {
       "zeit": "07:00",
       "grad": 1,
-      "code": 51,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 2,
       "code": 3,
       "regen": 0
      }
@@ -664,139 +664,151 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 3,
+     "grad": 2,
      "code": 2,
      "gefuehlt": -1,
-     "wind": 12,
-     "windAus": 299,
-     "feuchte": 66,
-     "druck": 1008,
+     "wind": 6,
+     "windAus": 260,
+     "feuchte": 76,
+     "druck": 1014,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 61,
-     "max": 3,
-     "min": -1,
-     "regen": 48,
-     "menge": 0,
-     "wind": 13,
-     "windAus": 293,
-     "uv": 1.4,
-     "auf": "07:40",
-     "unter": "16:12"
-    },
-    "morgen": {
      "datum": "2026-11-24",
      "code": 3,
-     "max": 2,
+     "max": 3,
      "min": -1,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 265,
-     "uv": 1.1,
+     "windAus": 259,
+     "uv": 1.4,
      "auf": "07:42",
      "unter": "16:11"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 2,
+     "min": -1,
+     "regen": 0,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 73,
+     "uv": 1.4,
+     "auf": "07:44",
+     "unter": "16:10"
+    },
     "tage": [
-     {
-      "datum": "2026-11-23",
-      "code": 61,
-      "max": 3,
-      "min": -1,
-      "regen": 48,
-      "menge": 0,
-      "wind": 13,
-      "windAus": 293,
-      "uv": 1.4,
-      "auf": "07:40",
-      "unter": "16:12"
-     },
      {
       "datum": "2026-11-24",
       "code": 3,
-      "max": 2,
+      "max": 3,
       "min": -1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 265,
-      "uv": 1.1,
+      "windAus": 259,
+      "uv": 1.4,
       "auf": "07:42",
       "unter": "16:11"
      },
      {
       "datum": "2026-11-25",
       "code": 3,
-      "max": 1,
-      "min": -2,
+      "max": 2,
+      "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 71,
+      "wind": 12,
+      "windAus": 73,
       "uv": 1.4,
       "auf": "07:44",
       "unter": "16:10"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
-      "max": 0,
+      "code": 3,
+      "max": 1,
       "min": -2,
-      "regen": 29,
-      "menge": 0.4,
-      "wind": 12,
-      "windAus": 55,
-      "uv": 1.3,
+      "regen": 6,
+      "menge": 0,
+      "wind": 11,
+      "windAus": 53,
+      "uv": 1.4,
       "auf": "07:45",
       "unter": "16:09"
      },
      {
       "datum": "2026-11-27",
-      "code": 71,
+      "code": 3,
       "max": -1,
-      "min": -2,
-      "regen": 30,
-      "menge": 0.5,
+      "min": -3,
+      "regen": 18,
+      "menge": 0,
       "wind": 8,
-      "windAus": 61,
-      "uv": 1,
+      "windAus": 54,
+      "uv": 0.9,
       "auf": "07:47",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
+      "code": 2,
       "max": 0,
       "min": -3,
-      "regen": 5,
+      "regen": 0,
       "menge": 0,
-      "wind": 7,
-      "windAus": 100,
-      "uv": 1.3,
+      "wind": 8,
+      "windAus": 88,
+      "uv": 0.8,
       "auf": "07:48",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
+      "code": 3,
       "max": 2,
-      "min": -2,
-      "regen": 30,
-      "menge": 5.5,
-      "wind": 10,
-      "windAus": 171,
+      "min": -3,
+      "regen": 13,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 157,
       "uv": 1.3,
       "auf": "07:50",
       "unter": "16:07"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 3,
+      "max": 4,
+      "min": 1,
+      "regen": 16,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 211,
+      "uv": 1.3,
+      "auf": "07:51",
+      "unter": "16:06"
      }
     ],
     "stunden": [
      {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
       "zeit": "13:00",
-      "grad": 3,
+      "grad": 2,
       "code": 2,
       "regen": 0
      },
@@ -809,104 +821,104 @@
      {
       "zeit": "15:00",
       "grad": 3,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "17:00",
       "grad": 2,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 1,
-      "code": 0,
+      "grad": 2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 1,
-      "code": 0,
+      "grad": 2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 0,
-      "code": 0,
+      "grad": 1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 0,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": 0,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
+      "grad": 0,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": -1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": -1,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": -1,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "07:00",
       "grad": -1,
-      "code": 3,
-      "regen": 3
+      "code": 0,
+      "regen": 0
      },
      {
       "zeit": "08:00",
@@ -922,20 +934,8 @@
      },
      {
       "zeit": "10:00",
-      "grad": 0,
+      "grad": -1,
       "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 3,
       "regen": 0
      }
     ]
@@ -947,64 +947,51 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 2,
-     "code": 3,
-     "gefuehlt": 0,
-     "wind": 2,
-     "windAus": 299,
-     "feuchte": 85,
+     "code": 0,
+     "gefuehlt": -2,
+     "wind": 10,
+     "windAus": 132,
+     "feuchte": 71,
      "druck": 1018,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 45,
-     "max": 3,
-     "min": 0,
-     "regen": 0,
-     "menge": 0,
-     "wind": 12,
-     "windAus": 328,
-     "uv": 1.5,
-     "auf": "08:00",
-     "unter": "16:35"
-    },
-    "morgen": {
      "datum": "2026-11-24",
      "code": 3,
-     "max": 5,
+     "max": 4,
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 15,
-     "windAus": 128,
+     "wind": 13,
+     "windAus": 125,
      "uv": 1.5,
      "auf": "08:02",
      "unter": "16:34"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 5,
+     "min": 0,
+     "regen": 2,
+     "menge": 0,
+     "wind": 13,
+     "windAus": 107,
+     "uv": 1.2,
+     "auf": "08:04",
+     "unter": "16:33"
+    },
     "tage": [
-     {
-      "datum": "2026-11-23",
-      "code": 45,
-      "max": 3,
-      "min": 0,
-      "regen": 0,
-      "menge": 0,
-      "wind": 12,
-      "windAus": 328,
-      "uv": 1.5,
-      "auf": "08:00",
-      "unter": "16:35"
-     },
      {
       "datum": "2026-11-24",
       "code": 3,
-      "max": 5,
+      "max": 4,
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
-      "windAus": 128,
+      "wind": 13,
+      "windAus": 125,
       "uv": 1.5,
       "auf": "08:02",
       "unter": "16:34"
@@ -1013,37 +1000,37 @@
       "datum": "2026-11-25",
       "code": 3,
       "max": 5,
-      "min": -2,
+      "min": 0,
       "regen": 2,
       "menge": 0,
       "wind": 13,
-      "windAus": 105,
-      "uv": 1.4,
+      "windAus": 107,
+      "uv": 1.2,
       "auf": "08:04",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
-      "max": 2,
+      "code": 3,
+      "max": 3,
       "min": -3,
-      "regen": 4,
-      "menge": 0.3,
-      "wind": 11,
-      "windAus": 21,
+      "regen": 0,
+      "menge": 0,
+      "wind": 13,
+      "windAus": 10,
       "uv": 1.3,
       "auf": "08:05",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
+      "code": 1,
       "max": 2,
-      "min": -3,
+      "min": -4,
       "regen": 2,
       "menge": 0,
-      "wind": 9,
-      "windAus": 79,
+      "wind": 10,
+      "windAus": 103,
       "uv": 1.4,
       "auf": "08:07",
       "unter": "16:32"
@@ -1053,92 +1040,117 @@
       "code": 3,
       "max": 3,
       "min": -3,
-      "regen": 6,
+      "regen": 11,
       "menge": 0,
-      "wind": 18,
-      "windAus": 131,
-      "uv": 1.3,
+      "wind": 15,
+      "windAus": 132,
+      "uv": 1.5,
       "auf": "08:08",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
       "code": 51,
-      "max": 2,
-      "min": -1,
-      "regen": 26,
-      "menge": 2.2,
-      "wind": 17,
-      "windAus": 139,
-      "uv": 0.9,
+      "max": 4,
+      "min": 0,
+      "regen": 35,
+      "menge": 0.3,
+      "wind": 16,
+      "windAus": 140,
+      "uv": 1.4,
       "auf": "08:10",
       "unter": "16:30"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 3,
+      "max": 6,
+      "min": 2,
+      "regen": 32,
+      "menge": 0,
+      "wind": 10,
+      "windAus": 146,
+      "uv": 1.4,
+      "auf": "08:11",
+      "unter": "16:29"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
       "grad": 2,
-      "code": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 1,
-      "code": 3,
+      "grad": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 1,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
       "grad": 1,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 0,
-      "code": 3,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 0,
-      "code": 3,
+      "grad": 1,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 0,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
@@ -1151,13 +1163,13 @@
      {
       "zeit": "01:00",
       "grad": 0,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 0,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
@@ -1168,56 +1180,44 @@
      },
      {
       "zeit": "04:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -1,
-      "code": 0,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
-      "code": 0,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
-      "code": 0,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": 0,
-      "code": 0,
+      "grad": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
       "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 4,
-      "code": 1,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1228,65 +1228,52 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 4,
-     "code": 0,
-     "gefuehlt": 0,
-     "wind": 6,
-     "windAus": 43,
-     "feuchte": 67,
-     "druck": 1012,
+     "grad": -1,
+     "code": 2,
+     "gefuehlt": -5,
+     "wind": 5,
+     "windAus": 48,
+     "feuchte": 82,
+     "druck": 1015,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 2,
-     "max": 4,
-     "min": -1,
-     "regen": 0,
-     "menge": 0,
-     "wind": 7,
-     "windAus": 54,
-     "uv": 1.6,
-     "auf": "07:50",
-     "unter": "16:32"
-    },
-    "morgen": {
      "datum": "2026-11-24",
-     "code": 45,
-     "max": 1,
-     "min": -3,
+     "code": 48,
+     "max": 2,
+     "min": -4,
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 55,
+     "windAus": 53,
      "uv": 1.6,
      "auf": "07:52",
      "unter": "16:31"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 2,
+     "min": -2,
+     "regen": 0,
+     "menge": 0,
+     "wind": 12,
+     "windAus": 37,
+     "uv": 1.3,
+     "auf": "07:53",
+     "unter": "16:30"
+    },
     "tage": [
      {
-      "datum": "2026-11-23",
-      "code": 2,
-      "max": 4,
-      "min": -1,
-      "regen": 0,
-      "menge": 0,
-      "wind": 7,
-      "windAus": 54,
-      "uv": 1.6,
-      "auf": "07:50",
-      "unter": "16:32"
-     },
-     {
       "datum": "2026-11-24",
-      "code": 45,
-      "max": 1,
-      "min": -3,
+      "code": 48,
+      "max": 2,
+      "min": -4,
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 55,
+      "windAus": 53,
       "uv": 1.6,
       "auf": "07:52",
       "unter": "16:31"
@@ -1298,21 +1285,21 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 36,
-      "uv": 1.4,
+      "wind": 12,
+      "windAus": 37,
+      "uv": 1.3,
       "auf": "07:53",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-26",
-      "code": 71,
+      "code": 3,
       "max": 1,
       "min": -3,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 18,
+      "wind": 12,
+      "windAus": 27,
       "uv": 1.5,
       "auf": "07:55",
       "unter": "16:29"
@@ -1321,11 +1308,11 @@
       "datum": "2026-11-27",
       "code": 3,
       "max": 1,
-      "min": -1,
-      "regen": 3,
+      "min": -3,
+      "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 33,
+      "wind": 7,
+      "windAus": 27,
       "uv": 1.5,
       "auf": "07:56",
       "unter": "16:28"
@@ -1333,94 +1320,119 @@
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 1,
+      "max": 2,
       "min": -4,
-      "regen": 7,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 75,
-      "uv": 1.4,
+      "wind": 7,
+      "windAus": 53,
+      "uv": 1.5,
       "auf": "07:58",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-29",
-      "code": 80,
-      "max": 0,
+      "code": 61,
+      "max": 1,
       "min": -3,
-      "regen": 39,
-      "menge": 6,
-      "wind": 7,
-      "windAus": 178,
-      "uv": 1,
+      "regen": 33,
+      "menge": 0.9,
+      "wind": 5,
+      "windAus": 159,
+      "uv": 1.4,
       "auf": "07:59",
       "unter": "16:27"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 45,
+      "max": 3,
+      "min": 0,
+      "regen": 35,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 214,
+      "uv": 1.4,
+      "auf": "08:00",
+      "unter": "16:26"
      }
     ],
     "stunden": [
      {
+      "zeit": "11:00",
+      "grad": -2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
       "zeit": "13:00",
-      "grad": 4,
-      "code": 0,
+      "grad": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 4,
+      "grad": 1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 4,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 3,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
       "grad": 2,
       "code": 0,
       "regen": 0
      },
      {
-      "zeit": "19:00",
+      "zeit": "16:00",
       "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "20:00",
-      "grad": 1,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "21:00",
-      "grad": 0,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
-      "grad": 0,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 0,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
@@ -1432,74 +1444,62 @@
      },
      {
       "zeit": "01:00",
-      "grad": -1,
+      "grad": -2,
       "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -1,
-      "code": 45,
+      "grad": -2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": -2,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": -3,
-      "code": 45,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
       "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "12:00",
-      "grad": -1,
+      "zeit": "04:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": -2,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -1,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1510,65 +1510,52 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 3,
-     "code": 2,
-     "gefuehlt": 0,
+     "grad": 2,
+     "code": 1,
+     "gefuehlt": -1,
      "wind": 5,
-     "windAus": 17,
-     "feuchte": 77,
-     "druck": 993,
+     "windAus": 113,
+     "feuchte": 60,
+     "druck": 995,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 45,
-     "max": 3,
-     "min": -2,
-     "regen": 0,
-     "menge": 0,
-     "wind": 5,
-     "windAus": 11,
-     "uv": 1.7,
-     "auf": "07:43",
-     "unter": "16:35"
-    },
-    "morgen": {
      "datum": "2026-11-24",
      "code": 45,
-     "max": 4,
+     "max": 5,
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 114,
+     "wind": 10,
+     "windAus": 116,
      "uv": 1.6,
      "auf": "07:45",
      "unter": "16:34"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 4,
+     "min": -1,
+     "regen": 3,
+     "menge": 0,
+     "wind": 5,
+     "windAus": 90,
+     "uv": 1.5,
+     "auf": "07:46",
+     "unter": "16:33"
+    },
     "tage": [
-     {
-      "datum": "2026-11-23",
-      "code": 45,
-      "max": 3,
-      "min": -2,
-      "regen": 0,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 11,
-      "uv": 1.7,
-      "auf": "07:43",
-      "unter": "16:35"
-     },
      {
       "datum": "2026-11-24",
       "code": 45,
-      "max": 4,
+      "max": 5,
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 114,
+      "wind": 10,
+      "windAus": 116,
       "uv": 1.6,
       "auf": "07:45",
       "unter": "16:34"
@@ -1576,92 +1563,117 @@
      {
       "datum": "2026-11-25",
       "code": 3,
-      "max": 3,
-      "min": 0,
-      "regen": 13,
+      "max": 4,
+      "min": -1,
+      "regen": 3,
       "menge": 0,
-      "wind": 8,
-      "windAus": 63,
-      "uv": 1.6,
+      "wind": 5,
+      "windAus": 90,
+      "uv": 1.5,
       "auf": "07:46",
       "unter": "16:33"
      },
      {
       "datum": "2026-11-26",
-      "code": 45,
+      "code": 3,
       "max": 0,
-      "min": -1,
-      "regen": 18,
+      "min": -2,
+      "regen": 5,
       "menge": 0,
-      "wind": 6,
-      "windAus": 11,
-      "uv": 1.5,
+      "wind": 7,
+      "windAus": 25,
+      "uv": 1.4,
       "auf": "07:48",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 45,
+      "code": 3,
       "max": 1,
-      "min": -1,
-      "regen": 5,
+      "min": -2,
+      "regen": 3,
       "menge": 0,
-      "wind": 5,
-      "windAus": 40,
-      "uv": 1.3,
+      "wind": 6,
+      "windAus": 34,
+      "uv": 1.4,
       "auf": "07:49",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-28",
-      "code": 2,
+      "code": 3,
       "max": 2,
-      "min": -3,
-      "regen": 5,
+      "min": -1,
+      "regen": 0,
       "menge": 0,
-      "wind": 6,
-      "windAus": 131,
-      "uv": 1.5,
+      "wind": 7,
+      "windAus": 97,
+      "uv": 1.6,
       "auf": "07:50",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
       "code": 61,
-      "max": 4,
+      "max": 3,
       "min": -3,
-      "regen": 36,
-      "menge": 1.5,
-      "wind": 5,
-      "windAus": 199,
-      "uv": 1,
+      "regen": 26,
+      "menge": 0.9,
+      "wind": 4,
+      "windAus": 176,
+      "uv": 1.4,
       "auf": "07:52",
+      "unter": "16:30"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 45,
+      "max": 5,
+      "min": 1,
+      "regen": 28,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 232,
+      "uv": 1.5,
+      "auf": "07:53",
       "unter": "16:30"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
       "grad": 2,
-      "code": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 4,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 5,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 4,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1673,13 +1685,13 @@
      {
       "zeit": "18:00",
       "grad": 2,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
       "grad": 1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1697,91 +1709,79 @@
      {
       "zeit": "22:00",
       "grad": 0,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 0,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
-      "code": 0,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": -1,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": -1,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": -1,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 45,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -2,
-      "code": 45,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -2,
-      "code": 45,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -2,
-      "code": 45,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -2,
-      "code": 0,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 3,
-      "code": 0,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1792,65 +1792,52 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 3,
-     "code": 2,
-     "gefuehlt": -1,
-     "wind": 8,
-     "windAus": 328,
-     "feuchte": 65,
-     "druck": 959,
+     "grad": 2,
+     "code": 0,
+     "gefuehlt": -2,
+     "wind": 10,
+     "windAus": 105,
+     "feuchte": 61,
+     "druck": 963,
      "niederschlag": 0,
      "tag": 1
     },
     "heute": {
-     "datum": "2026-11-23",
-     "code": 3,
-     "max": 3,
-     "min": 0,
-     "regen": 0,
-     "menge": 0,
-     "wind": 8,
-     "windAus": 304,
-     "uv": 1.8,
-     "auf": "07:31",
-     "unter": "16:27"
-    },
-    "morgen": {
      "datum": "2026-11-24",
      "code": 3,
      "max": 3,
-     "min": -2,
+     "min": -3,
      "regen": 0,
      "menge": 0,
-     "wind": 12,
-     "windAus": 92,
+     "wind": 13,
+     "windAus": 90,
      "uv": 1.7,
      "auf": "07:33",
      "unter": "16:27"
     },
+    "morgen": {
+     "datum": "2026-11-25",
+     "code": 3,
+     "max": 1,
+     "min": -3,
+     "regen": 0,
+     "menge": 0,
+     "wind": 9,
+     "windAus": 79,
+     "uv": 1.7,
+     "auf": "07:34",
+     "unter": "16:26"
+    },
     "tage": [
-     {
-      "datum": "2026-11-23",
-      "code": 3,
-      "max": 3,
-      "min": 0,
-      "regen": 0,
-      "menge": 0,
-      "wind": 8,
-      "windAus": 304,
-      "uv": 1.8,
-      "auf": "07:31",
-      "unter": "16:27"
-     },
      {
       "datum": "2026-11-24",
       "code": 3,
       "max": 3,
-      "min": -2,
+      "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 12,
-      "windAus": 92,
+      "wind": 13,
+      "windAus": 90,
       "uv": 1.7,
       "auf": "07:33",
       "unter": "16:27"
@@ -1858,12 +1845,12 @@
      {
       "datum": "2026-11-25",
       "code": 3,
-      "max": 2,
+      "max": 1,
       "min": -3,
-      "regen": 21,
+      "regen": 0,
       "menge": 0,
-      "wind": 13,
-      "windAus": 80,
+      "wind": 9,
+      "windAus": 79,
       "uv": 1.7,
       "auf": "07:34",
       "unter": "16:26"
@@ -1872,188 +1859,69 @@
       "datum": "2026-11-26",
       "code": 77,
       "max": -1,
-      "min": -2,
-      "regen": 73,
-      "menge": 4.1,
-      "wind": 7,
-      "windAus": 351,
-      "uv": 1.4,
+      "min": -3,
+      "regen": 50,
+      "menge": 1.2,
+      "wind": 12,
+      "windAus": 39,
+      "uv": 0.5,
       "auf": "07:36",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-27",
-      "code": 3,
+      "code": 45,
       "max": 0,
       "min": -2,
-      "regen": 27,
+      "regen": 10,
       "menge": 0,
-      "wind": 5,
-      "windAus": 46,
-      "uv": 0.9,
+      "wind": 8,
+      "windAus": 60,
+      "uv": 1.1,
       "auf": "07:37",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": -2,
-      "min": -7,
-      "regen": 9,
+      "max": 0,
+      "min": -2,
+      "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 91,
-      "uv": 1.6,
+      "wind": 10,
+      "windAus": 82,
+      "uv": 1.5,
       "auf": "07:38",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
-      "max": 3,
-      "min": -7,
-      "regen": 22,
-      "menge": 2.2,
-      "wind": 13,
-      "windAus": 191,
-      "uv": 1.4,
+      "code": 45,
+      "max": 0,
+      "min": -4,
+      "regen": 24,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 147,
+      "uv": 1,
       "auf": "07:40",
       "unter": "16:23"
+     },
+     {
+      "datum": "2026-11-30",
+      "code": 71,
+      "max": 3,
+      "min": -1,
+      "regen": 40,
+      "menge": 0.3,
+      "wind": 3,
+      "windAus": 131,
+      "uv": 1.3,
+      "auf": "07:41",
+      "unter": "16:22"
      }
     ],
     "stunden": [
-     {
-      "zeit": "13:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 3,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": -1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": -1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "11:00",
       "grad": 1,
@@ -2065,19 +1933,151 @@
       "grad": 2,
       "code": 0,
       "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
+      "grad": -2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": -2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": -3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
      }
     ]
    }
   ],
   "text": [
-   "Heute liegen die Höchstwerte zwischen 3 und 4 Grad.",
-   "Die Vorhersage für morgen, Dienstag: im Norden und Osten teils bewölkt, im Süden und Westen neblig.",
+   "Heute liegen die Höchstwerte zwischen 2 und 5 Grad.",
+   "Die Vorhersage für morgen, Mittwoch, im ganzen Land: bewölkt.",
    "Die Temperaturen erreichen dann 1 bis 5 Grad.",
    "Am wärmsten wird es in Köln mit 5 Grad.",
    "Die Daten kommen vom Deutschen Wetterdienst."
   ],
   "modelle": {
-   "tag": "Dienstag",
+   "tag": "Mittwoch",
    "orte": [
     {
      "name": "Hamburg",
@@ -2085,7 +2085,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2108,20 +2108,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 3,
+       "grad": 2,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 3,
-       "regen": 0.2
+       "grad": 2,
+       "regen": 0.1
       }
      ]
     },
@@ -2166,7 +2166,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 4,
+       "grad": 5,
        "regen": 0
       }
      ]
@@ -2177,7 +2177,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 1,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2189,7 +2189,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 5,
+       "grad": 4,
        "regen": 0
       }
      ]
@@ -2223,7 +2223,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 3,
+       "grad": 1,
        "regen": 0
       },
       {
@@ -2235,16 +2235,16 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 2,
+       "grad": 3,
        "regen": 0
       }
      ]
     }
    ],
-   "spanneGrad": 4,
+   "spanneGrad": 3,
    "uneinigRegen": null,
    "saetze": [
-    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 1 und 5 Grad."
+    "Für Frankfurt gehen die Modelle am weitesten auseinander: zwischen 2 und 5 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2252,19 +2252,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 3 und 4 Grad. Die Vorhersage für morgen, D",
-   "d": "626ce966b4.mp3",
-   "l": 18.74,
-   "s": [
-    0.25,
-    3.64,
-    10.17,
-    13.48,
-    16.04
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2468,111 +2456,65 @@
  },
  "nachrichten": [
   {
-   "id": "klimakonferenz-antalya-cop31",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-11-23T12:17:41.000Z",
-   "aktualisiert": "aktualisiert um 13:20 Uhr",
-   "titel": "Weltklimakonferenz in Antalya ohne Abschlusserklärung beendet",
-   "vorspann": "Die Weltklimakonferenz COP31 in der Türkei ist nach zwei Wochen Verhandlungen ohne eine gemeinsame Abschlusserklärung zu Ende gegangen. Verschiedene Staaten und Verbände äußerten Enttäuschung über das Ausbleiben konkreter Festlegungen zu fossilen Energieträgern und Finanzhilfen.",
+   "id": "russland-atomwaffe-all",
+   "rubrik": "Welt",
+   "zeit": "2026-11-23T21:33:35.000Z",
+   "aktualisiert": "aktualisiert um 11:51 Uhr",
+   "titel": "Berichte über angebliche russische Atomwaffenpläne im Weltraum",
+   "vorspann": "Nach Medienberichten planen russische Stellen offenbar die Stationierung einer Atomwaffe im Erdorbit. Geheimdienste und Militärkreise beobachten die Entwicklungen im Weltraum.",
    "eil": false,
    "verstaendlich": {
     "stufe": "schwer",
     "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
    },
    "zusammenfassung": [
-    "Die Weltklimakonferenz COP31 in Antalya ist nach einer Rekordverlängerung ohne gemeinsame Abschlusserklärung zu Ende gegangen.",
-    "Ein Entwurf der Konferenzleitung scheiterte am Widerstand der EU und weiterer Staaten, da dieser keine ausdrückliche Erwähnung des Ausstiegs aus fossilen Energieträgern und keine konkreten Finanzierungszusagen enthielt.",
-    "Ölförderstaaten wie Russland und Saudi-Arabien verteidigten ihre Positionen und warnten vor den wirtschaftlichen Folgen eines zu schnellen Wandels.",
-    "Zahlreiche Politiker, Umweltorganisationen und der UN-Generalsekretär äußerten tiefe Enttäuschung über das Ergebnis.",
-    "Die nächste Weltklimakonferenz, COP32, ist für das Jahr 2027 in Äthiopien geplant."
+    "Westliche Geheimdienste und Militärs vermuten, dass Russland noch in diesem Jahr eine Atomwaffe im Weltraum stationieren will.",
+    "Ein solcher Einsatz könnte nach Analysen zum Ausfall zahlreicher Satelliten im niedrigen Erdorbit führen und wichtige Infrastruktur auf der Erde treffen.",
+    "Deutschland plant milliardenschwere Investitionen in die eigene Weltraumsicherheit, gilt derzeit jedoch nach Medienberichten als unzureichend vorbereitet.",
+    "Die russische Botschaft erklärte, keine Informationen zu den Vorgängen zu haben, während Bundeskanzler Friedrich Merz von einer massiven Eskalation sprach."
    ],
    "einig": [
     [
-     "Die UN-Klimakonferenz COP31 in Antalya endete ohne eine gemeinsame Abschlusserklärung.",
+     "Russland plant oder entwickelt Satelliten im Zusammenhang mit nuklearen Vorhaben im Weltraum.",
      [
       "Tagesschau/ARD",
-      "BBC",
-      "ORF"
-     ]
-    ],
-    [
-     "Der Verhandlungsverlauf erstreckte sich über eine Rekordlänge bis in den Sonntag hinein.",
-     [
-      "BBC",
-      "ORF"
-     ]
-    ],
-    [
-     "Die EU und weitere Staaten lehnten den finalen Textentwurf wegen des Fehlens von fossilen Brennstoffen ab.",
-     [
-      "BBC",
-      "ORF"
-     ]
-    ],
-    [
-     "UN-Generalsekretär António Guterres äußerte sich zutiefst enttäuscht über das Ergebnis.",
-     [
-      "BBC",
-      "ORF"
+      "Süddeutsche Zeitung"
      ]
     ]
    ],
    "unklar": [
-    "Ob und wie das Konsensprinzip des UN-Prozesses nach den Enttäuschungen von Antalya reformiert werden soll, ist laut den Berichten noch Gegenstand von Beratungen, die der UN-Klimachef einholen will."
+    "Ob Russland die Atomwaffe tatsächlich noch in diesem Jahr im All stationiert, ist laut den Berichten eine von Geheimdiensten und Nato-Staaten geteilte Einschätzung, die von der russischen Botschaft jedoch nicht bestätigt wird."
    ],
    "positionen": [
     [
-     "Darragh O’Brien (EU-Ratsvorsitz, irischer Minister)",
-     "Die Entscheidungen gehen bei weitem nicht weit genug und lassen jegliche Erwähnung fossiler Brennstoffe vermissen.",
-     "BBC, ORF"
+     "Russische Botschaft",
+     "Es liegen keine Informationen zu den beschriebenen Vorgängen vor.",
+     "Süddeutsche Zeitung"
     ],
     [
-     "António Guterres (UN-Generalsekretär)",
-     "Er zeigte sich zutiefst enttäuscht und kritisierte, dass Profiteure der Zerstörung nicht die Rettung bestimmen dürfen.",
-     "BBC, ORF"
+     "Friedrich Merz (Bundeskanzler, CDU)",
+     "Die Nachrichten über die geplante atomare Bewaffnung des Weltraums sind nicht neu, aber schockierend und zeigen Russlands Bereitschaft zur Eskalation.",
+     "Süddeutsche Zeitung"
     ],
     [
-     "Sergej Kononutschenko (Russische Delegation)",
-     "Ein zu schnelles Schrumpfen des Angebots an Öl und Gas führt zu Defiziten, Preisschocks und Energiearmut.",
-     "ORF"
-    ],
-    [
-     "Al Gore (Klimafolgen-Befürworter)",
-     "Es ist empörend, dass eine Handvoll Petrostaat-Länder ein Vetorecht über die Erwähnung fossiler Brennstoffe ausübt.",
-     "BBC"
-    ],
-    [
-     "Norbert Totschnig (Österreichischer Umweltminister)",
-     "Die Abschlusserklärung ist ein Rückschritt und reines Greenwashing auf Kosten globaler Maßnahmen.",
-     "ORF"
-    ],
-    [
-     "Chris Bowen (Australischer COP31-Präsident der Verhandlungen)",
-     "Es gab unüberbrückbare rote Linien in den Diskussionen innerhalb eines sehr komplizierten geopolitischen Umfelds.",
-     "BBC"
+     "Bundesverteidigungsministerium",
+     "Globale Entwicklungen im Weltraum und Aktivitäten anderer Staaten werden kontinuierlich und gewissenhaft beobachtet.",
+     "Süddeutsche Zeitung"
     ]
    ],
-   "fehlend": "Detaillierte Stellungnahmen von Vertretern aller knapp 200 teilnehmenden Einzelstaaten sowie spezifische Bilanzen der Gastgeber zur Organisation abseits der Kritik.",
+   "fehlend": "Stimmen der russischen Regierung oder des Kremls über die offizielle Botschaft hinaus sowie detaillierte Stellungnahmen der US-Regierung.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "23.11.26, 11:42",
-     "fokus": "Rolle der Präsidentschaft",
-     "text": "Der Bericht beleuchtet ausführlich die Doppelpräsidentschaft aus Türkei und Australien und kritisiert die ablaufbezogene Intransparenz im Plenum.",
-     "url": "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 4,
-      "woerter": 714,
-      "satzlaenge": 19,
-      "langeWoerter": 36
-     },
+     "datum": "23.11.26, 22:33",
+     "fokus": "Kurze Warnmeldung zu Geheimdiensten",
+     "text": "Die Tagesschau berichtet kurz über die Geheimdienstwarnungen bezüglich russischer Atomwaffenpläne im Weltraum.",
+     "url": "https://www.tagesschau.de/tagesthemen/video-1688798.html",
+     "video": true,
+     "lesbar": null,
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
      "publikumWert": 3.73
@@ -2582,584 +2524,19 @@
      "typ": "Nachrichtenmagazin",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "23.11.26, 11:00",
-     "fokus": "Unzusammenhängendes Nebenthema",
-     "text": "Der Spiegel enthält einen Schwerpunkt zu neuen Nachweismethoden für K.-o.-Tropfen in Deutschland.",
-     "url": "https://www.spiegel.de/wissenschaft/k-o-tropfen-koennen-kuenftig-wohl-laenger-im-koerper-nachgewiesen-werden-a-fdd95ccf-fd96-499c-909d-86ff0c9c57fd#ref=rss",
+     "datum": "23.11.26, 13:39",
+     "fokus": "Hinweise auf Gefahren für Datenströme",
+     "text": "Der Spiegel verweist auf mögliche Gefahren für dringend gebrauchte Geräte und weltweite Datenströme.",
+     "url": "https://www.spiegel.de/wissenschaft/technik/russland-soll-atomwaffe-im-weltraum-vorbereiten-was-die-zuendung-bedeuten-wuerde-a-ecdcaa74-f9e7-4d71-ac83-c81aeddd92d9#ref=rss",
      "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 3,
-      "woerter": 665,
-      "satzlaenge": 18,
-      "langeWoerter": 31
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.11.26, 13:17",
-     "fokus": "Einordnende Ministerreaktionen",
-     "text": "Der Sender verweist auf die Reaktionen von Bundesumweltminister Schneider.",
-     "url": "https://www.deutschlandfunk.de/umweltminister-schneider-spd-klimaschutz-braucht-keine-abschlusserklaerung-chinesische-regierung-zei-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "23.11.26, 06:15",
-     "fokus": "Internationale Stimmen und Rekorde",
-     "text": "Die BBC betont die historische Länge der Konferenz und zitiert zahlreiche internationale Politiker sowie Klimaschützer.",
-     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 8,
-      "minuten": 6,
-      "woerter": 1161,
-      "satzlaenge": 24,
-      "langeWoerter": 26
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    },
-    {
-     "name": "ORF",
-     "typ": "öffentlich-rechtlich (Österreich)",
-     "art": "öffentlich-rechtlich",
-     "stamm": false,
-     "datum": "22.11.26, 21:55",
-     "fokus": "NGO-Kritik und österreichische Reaktionen",
-     "text": "Der Beitrag stellt Aussagen von Umweltschutzorganisationen wie Germanwatch und Greenpeace sowie Statements der österreichischen Politik in den Vordergrund.",
-     "url": "https://orf.at/stories/3448954/",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 4,
-      "woerter": 875,
-      "satzlaenge": 20,
-      "langeWoerter": 38
-     },
-     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
-     "finanzierung": "Haushaltsabgabe",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Fokus auf Nebenthemen",
-     "Der Spiegel widmet sich primär einem medizinisch-forensischen Thema zu K.-o.-Tropfen, während alle anderen Medien über den Klimagipfel berichten."
-    ],
-    [
-     "Nennung nationaler Minister",
-     "Deutschlandfunk und ORF nennen jeweils spezifische nationale Minister (wie den deutschen und den österreichischen Umweltminister), die in internationalen Berichten wie von der BBC keine Rolle spielen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Fast 200 Staaten und die COP31-Präsidentschaft",
-    "was": "Scheitern einer gemeinsamen Abschlusserklärung",
-    "wann": "22. bis 23. November 2026",
-    "wo": "Antalya, Türkei",
-    "wie": "Durch formellen Widerspruch mehrerer Staaten und das Ausbleiben eines Konsenses",
-    "warum": "Tiefgreifende Meinungsverschiedenheiten über fossile Energien und Finanzierungen, laut Berichten",
-    "quellenlage": "Tagesschau/ARD, Spiegel, Deutschlandfunk, BBC, ORF"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Verlauf und Ende der Konferenz",
-     "absaetze": [
-      "Die Weltklimakonferenz COP31 in Antalya ist nach zwei Wochen Verhandlungen ohne eine gemeinsame Abschlusserklärung zu Ende gegangen. Die Konferenz war ursprünglich für den regulären Abschluss am Freitag vorgesehen, zog sich jedoch durch anhaltende Verhandlungen bis in den Sonntag hinein. Laut übereinstimmenden Berichten handelt es sich um die bislang längste UN-Klimakonferenz in der Geschichte. Das Schlussplenum begann nach mehreren Verschiebungen am Sonntagmittag gegen 13 Uhr Ortszeit und endete am Sonntagabend gegen 19.30 Uhr mit einem Hammerschlag. Ein Entwurf für eine Abschlusserklärung, den die Konferenzleitung in den frühen Morgenstunden des Sonntags vorgelegt hatte, stieß auf breiten Widerstand. Die Europäische Union und weitere Staaten legten formalen Widerspruch gegen den übergreifenden Beschlusstext ein.",
-      "Der türkische Umweltminister Murat Kurum, der als Gipfelpräsident fungierte, nahm die Einwände zur Kenntnis. Während der zwei Wochen dauernden Verhandlungen unterbrach der Präsident das Plenum mehrfach für Absprachen mit den Juristinnen des UN-Klimasekretariats. Delegierte kritisierten den Ablauf und das Vorgehen der Präsidentschaft als intransparent und schwer nachvollziehbar. Die Türkei hatte die organisatorische Leitung inne, während Australien die Verhandlungsführung verantwortete. Der australische Umweltminister Chris Bowen leitete die Verhandlungen, spielte nach Angaben der Berichte öffentlich jedoch keine tragende Rolle. Auch das UN-Klimasekretariat sei beim Endspurt nicht in dem Maße eingebunden worden, wie es laut Berichten aufgrund seiner langjährigen Expertise üblich gewesen wäre.",
-      "Im Mittelpunkt der inhaltlichen Kontroversen stand das Fehlen eines ausdrücklichen Bekenntnisses zur Abkehr von fossilen Energieträgern. Der zehnseitige Textentwurf der Konferenzleitung enthielt laut Berichten keine Erwähnung der Begriffe Öl, Kohle und Gas. Stattdessen verwies das Papier lediglich auf einen im Jahr 2023 in Dubai gefassten Beschluss, wonach sich die Welt schrittweise von fossilen Energieträgern verabschieden soll. Die EU sowie Länder wie Panama und die Marschallinseln lehnten den Entwurf ab, da er hinter den notwendigen Ambitionen zum Klimaschutz zurückbleibe. Der irische Klimaminister Darragh O’Brien betonte in seiner Funktion für den EU-Ratsvorsitz, dass Entscheidungen ohne Erwähnung fossiler Brennstoffe unzureichend seien."
-     ]
-    },
-    {
-     "ueberschrift": "Positionen und Argumente der Staaten",
-     "absaetze": [
-      "Ölfördernde Staaten und Länder mit Bedenken bezüglich eines raschen Ausstiegs äußerten konträre Positionen. Die russische Delegation warnte vor den wirtschaftlichen Folgen einer zu schnellen Abkehr von fossilen Energieträgern. Laut dem Delegierten Sergej Kononutschenko könne ein schnelleres Schrumpfen des Angebots im Vergleich zur Nachfrage zu einem Defizit, Preisschocks, dem Übergang zu umweltschädlicheren Brennstoffen und zu Energiearmut führen. Aus diesem Grund könne Russland keiner Formulierung zustimmen, die sich auf fossile Brennstoffe bezieht. Saudi-Arabien betonte laut Berichten, dass beim Klimawandel alle Lösungsansätze auf den Tisch gehören, womit mutmaßlich Technologien zur CO2-Abscheidung gemeint waren.",
-      "Ein weiterer zentraler Streitpunkt betraf die Klimafinanzierung für ärmere und besonders betroffene Länder. Das in Antalya vorgelegte Abkommen enthielt laut Berichten keine konkreten Zahlen oder eine feste Basislinie für Finanzzusagen, um ärmere Staaten bei der Anpassung an die Folgen der Erderwärmung zu unterstützen. Vertreter von Entwicklungsländern und des globalen Südens kritisierten das Fehlen verbindlicher Zusagen der Industriestaaten. Die Delegationen betonten, dass ohne ausreichende finanzielle Mittel keine wirksamen Klimaschutzmaßnahmen und Anpassungen umgesetzt werden könnten.",
-      "Auf internationaler Ebene rief das Scheitern der Abschlusserklärung bei zahlreichen Beobachtern und Regierungsvertretern Enttäuschung hervor. Der britische Minister für Energie und Klimawandel, Miatta Fahnbulleh, bezeichnete das Ausbleiben einer politischen Vereinbarung als immens enttäuschend. Gleichzeitig betonte sie, dass die in Antalya erzielten Fortschritte weiterverfolgt werden sollen. Die Konferenz in Antalya war die erste jährliche UN-Klimakonferenz, auf der formal darüber diskutiert wurde, dass eines der internationalen Hauptziele zur Begrenzung der Erderwärmung voraussichtlich verfehlt wird."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund und Reaktionen",
-     "absaetze": [
-      "Das Scheitern einer politischen Haupterklärung auf einer Weltklimakonferenz gab es laut den Berichten zuletzt im Jahr 2009 bei den Verhandlungen in Kopenhagen. Die internationale Gemeinschaft blickte in Antalya auf ein Jahr mit extremen Wetterereignissen und Naturgefahren zurück. Das Jahr 2026 droht demnach das wärmste Jahr seit Beginn der Aufzeichnungen zu werden. Im Rahmen des Pariser Abkommens von 2015 hatten rund 200 Staaten vereinbart, die globale Erwärmung auf 1,5 Grad Celsius über dem vorindustriellen Niveau zu begrenzen, um die schwerwiegendsten Folgen des Klimawandels zu vermeiden.",
-      "UN-Generalsekretär António Guterres zeigte sich zutiefst enttäuscht über den Ausgang der Konferenz. Er erklärte, er teile die Frustration all jener, die erwartet hatten, dass Regierungen den Anforderungen der Klimakrise gerecht werden. Guterres kritisierte profitierende Akteure aus dem Bereich der fossilen Energien und warf ihnen vor, den Klimaschutz zu verzögern. Auch der frühere US-Vizepräsident Al Gore äußerte Unmut und bezeichnete es als unhaltbar, dass eine kleine Gruppe von Förderstaaten ein Vetorecht ausübe.",
-      "Umweltschutz- und Menschenrechtsorganisationen äußerten scharfe Kritik an den Verhandlungen. Vertreter von Organisationen wie Germanwatch, Greenpeace, WWF und Südwind bemängelten die Blockadehaltung der erdölproduzierenden Staaten sowie eine schwache Verhandlungsführung der Präsidentschaft. Laut Germanwatch sei eine fehlende Abschlusserklärung in diesem Fall besser gewesen als ein Text, der den Wünschen der fossilen Industrie entgegengekommen wäre. Greenpeace und der WWF wiesen darauf hin, dass wesentliche Fortschritte aus früheren Konferenzen, wie etwa Fahrpläne zum Schutz von Regenwäldern, nicht weiterverfolgt werden konnten."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Weltklimakonferenzen, offiziell als COP bezeichnet, finden jährlich im Rahmen der Vereinten Nationen statt. Ziel dieser Konferenzen ist es, internationale Maßnahmen und Verträge zur Bekämpfung des Klimawandels und zur Verringerung von Treibhausgasen abzustimmen. Die Entscheidungen bei diesen Verhandlungen erfordern in der Regel einen Konsens aller teilnehmenden Staaten.",
-      "Das Pariser Abkommen ist ein völkerrechtlicher Vertrag aus dem Jahr 2015, der darauf abzielt, den Anstieg der globalen Durchschnittstemperatur auf möglichst 1,5 Grad Celsius im Vergleich zum vorindustriellen Zeitalter zu begrenzen. Die Klimafinanzierung umfasst finanzielle Mittel von Industrieländern an Entwicklungsländer, um diese beim Übergang zu sauberen Energien und bei der Anpassung an bereits eingetretene Klimafolgen zu unterstützen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Nach dem Abschluss der Konferenz in Antalya kündigte UN-Klimachef Simon Stiell an, er werde Beratungen über mögliche Reformen des UN-Verhandlungsprozesses einholen. Das Konsensprinzip müsse in einer geopolitisch gespaltenen Welt überprüft werden, auch wenn es in der Vergangenheit zu Erfolgen wie dem Pariser Abkommen geführt habe.",
-      "Die nächste UN-Klimakonferenz, die COP32, soll im November 2027 in Äthiopien stattfinden. Das Gastgeberland ist laut den Berichten selbst stark von den Folgen der Klimakrise betroffen, womit den kommenden Verhandlungen eine hohe Bedeutung zukommt."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Freitag",
-     "Planmäßiges Ende der COP31-Klimakonferenz, das jedoch verpasst wurde."
-    ],
-    [
-     "Samstag",
-     "Verhandlungen wurden fortgesetzt, zahlreiche Minister reisten ab."
-    ],
-    [
-     "Sonntagmorgen",
-     "Veröffentlichung des neuen Textentwurfs durch den türkischen COP31-Vorsitz und den australischen Verhandlungsvorsitz."
-    ],
-    [
-     "Sonntagmittag",
-     "Beginn des Schlussplenums nach mehreren Verschiebungen."
-    ],
-    [
-     "Sonntagabend",
-     "Beendigung der COP31 mit einem Hammerschlag nach einer Rekordverlängerung von über 49 Stunden."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "António Guterres politician",
-     "bildunterschrift": "UN-Generalsekretär António Guterres äußerte sich tief enttäuscht über den Ausgang der Verhandlungen."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Antalya cityscape",
-     "bildunterschrift": "Die türkische Stadt Antalya was Austragungsort der diesjährigen Weltklimakonferenz COP31."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Al Gore politician",
-     "bildunterschrift": "Der ehemalige US-Vizepräsident Al Gore kritisierte das Verhandlungsformat und den Einfluss von Förderstaaten."
-    },
-    {
-     "art": "building",
-     "suchbegriff": "United Nations Office at Geneva",
-     "bildunterschrift": "Das UN-Klimasekretariat begleitet die globalen Verhandlungen, die in Antalya ohne Abschlusserklärung blieben."
-    }
-   ],
-   "ort": {
-    "name": "Antalya, Türkei"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "UNO in UN geändert für einheitliche Schreibweise.",
-    "Bundesumweltminister Schneider Korrektur im Text angepasst."
-   ],
-   "wortwarnung": [
-    "Hammerschlag"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Abschlusserklärung",
-      "Ein offizielles Dokument am Ende einer Konferenz, in dem die Ergebnisse und Pläne der beteiligten Staaten festgehalten werden."
-     ]
-    ],
-    "fragen": [
-     "Welche Argumente nannten ölfördernde Staaten gegen ein sofortiges Verbot von fossilen Energieträgern?",
-     "Warum ist das Konsensprinzip bei UN-Klimakonferenzen sowohl eine Stärke als auch eine Schwäche?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wo fand die UN-Klimakonferenz COP31 im Jahr 2026 statt?",
-      "optionen": [
-       "Antalya, Türkei",
-       "Paris, Frankreich",
-       "Kopenhagen, Dänemark"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Konferenz wurde in Antalya in der Türkei ausgetragen."
-     },
-     {
-      "frage": "Warum lehnte die Europäische Union den letzten Textentwurf ab?",
-      "optionen": [
-       "Wegen zu hoher Kosten für die Industrieländer",
-       "Wegen des Fehlens von fossilen Brennstoffen im Text",
-       "Wegen einer zu kurzen Verhandlungszeit"
-      ],
-      "richtig": 1,
-      "erklaerung": "Die EU lehnte den Text ab, da er kein ausdrückliches Bekenntnis zur Abkehr von Kohle, Öl und Gas enthielt."
-     },
-     {
-      "frage": "Welches Land soll die nächste Klimakonferenz COP32 ausrichten?",
-      "optionen": [
-       "Australien",
-       "Brasilien",
-       "Äthiopien"
-      ],
-      "richtig": 2,
-      "erklaerung": "Die nächste COP soll im November 2027 in Äthiopien stattfinden."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Die Weltklimakonferenz ist in der Türkei ohne Einigung zu Ende gegangen.",
-    "absaetze": [
-     "Fast zweihundert Staaten haben zwei Wochen lang über das Klima verhandliert.",
-     "Es gab am Ende jedoch keine gemeinsame Abschlusserklärung.",
-     "Viele Länder und Umweltschutzorganisationen sind darüber sehr enttäuscht.",
-     "Ein Hauptgrund für den Streit war das Thema Kohle, Öl und Gas.",
-     "Im nächsten Jahr soll die Konferenz in Äthiopien stattfinden."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Die Weltschutzkonferenz in Antalya endete ohne eine gemeinsame Abschlusserklärung.",
-     "Grund für das Scheitern waren heftige Streitpunkte um fossile Energien.",
-     "Die Europäische Union lehnte den finalen Textentwurf am Sonntag ab.",
-     "Die nächste Weltklimakonferenz findet im Jahr 2027 in Äthiopien statt."
-    ],
-    "lang": [
-     "Die Weltklimakonferenz in Antalya ist nach zwei Wochen Verhandlungen ohne eine gemeinsame Abschlusserklärung zu Ende gegangen.",
-     "Das Treffen dauerte länger als jede Konferenz zuvor und endete am Sonntagabend nach einer Verlängerung.",
-     "Die Europäische Union und weitere Staaten legten formalen Widerspruch gegen den Entwurf ein.",
-     "Nach Angaben der Berichte fehlten in dem Text klare Vorgaben zum Ausstieg aus fossilen Energieträgern.",
-     "Auch UN-Generalsekretär António Guterres zeigte sich zutiefst enttäuscht über den Ausgang der Verhandlungen.",
-     "Ölförderstaaten wie Russland warnten hingegen vor wirtschaftlichen Problemen durch zu schnelle Änderungen.",
-     "Der irische Minister Darragh O Brien sagte im Namen der Europäischen Union, die Entscheidungen gehen bei weitem nicht weit genug.",
-     "Weltklimakonferenzen finden jährlich im Rahmen der Vereinten Nationen statt, um gemeinsame Regeln gegen die Erderwärmung zu beschließen.",
-     "Die nächste Klimakonferenz mit der Bezeichnung COP32 ist für das Jahr 2027 in Äthiopien geplant."
-    ],
-    "einfach": [
-     "In der Türkei ging eine wichtige Klimakonferenz zu Ende.",
-     "Die Länder konnten sich nach zwei Wochen nicht einigen.",
-     "Es gab am Ende keine gemeinsame Erklärung.",
-     "Ein Grund dafür war der Streit um Öl und Kohle.",
-     "Im nächsten Jahr findet das Treffen in Äthiopien statt."
-    ]
-   },
-   "kurz": [
-    "Die UN-Klimakonferenz COP31 in Antalya endete ohne eine gemeinsame Abschlusserklärung.",
-    "Die Verhandlungen dauerten länger als je zuvor und endeten am Sonntag.",
-    "Die Europäische Union lehnte den Entwurf wegen fehlender Vorgaben zu fossilen Brennstoffen ab.",
-    "Die nächste Klimakonferenz findet im Jahr 2027 in Äthiopien statt."
-   ],
-   "fakten": [
-    [
-     "Konferenzdauer-Verlängerung",
-     "über 49 Stunden"
-    ],
-    [
-     "Jahr des Pariser Abkommens",
-     "2015"
-    ],
-    [
-     "Geplante nächste Konferenz",
-     "November 2027"
-    ]
-   ],
-   "dossier": {
-    "slug": "weltklimakonferenz-antalya-2026",
-    "titel": "Weltklimakonferenz COP31 in Antalya"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Antalya, Türkei",
-    "lat": 36.887,
-    "lon": 30.703
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Die Weltklimakonferenz in Antalya ist nach zwei Wochen Verhandlungen ohne eine g",
-     "d": "4820d363de.mp3",
-     "l": 61.47,
-     "s": [
-      0.25,
-      7.78,
-      13.98,
-      19.63,
-      25.85,
-      32.86,
-      38.23,
-      45.53,
-      52.71
-     ]
-    },
-    {
-     "k": "Die Weltschutzkonferenz in Antalya endete ohne eine gemeinsame Abschlusserklärun",
-     "d": "7d8b6d3540.mp3",
-     "l": 19.72,
-     "s": [
-      0.25,
-      4.85,
-      9.01,
-      13.74
-     ]
-    },
-    {
-     "k": "In der Türkei ging eine wichtige Klimakonferenz zu Ende. Die Länder konnten sich",
-     "d": "4d16e4d05d.mp3",
-     "l": 17.73,
-     "s": [
-      0.25,
-      4.19,
-      7.76,
-      10.92,
-      14.05
-     ]
-    },
-    {
-     "k": "Ob und wie das Konsensprinzip des UN-Prozesses nach den Enttäuschungen von Antal",
-     "d": "a84cea0542.mp3",
-     "l": 11.33,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Abschlusserklärung? Ein offizielles Dokument am Ende ein",
-     "d": "435bcaabca.mp3",
-     "l": 10.83,
-     "s": [
-      0.25,
-      3.29
-     ]
-    },
-    {
-     "k": "Die Weltklimakonferenz COP31 in Antalya ist nach zwei Wochen Verhandlungen ohne ",
-     "d": "4f08235901.mp3",
-     "l": 56.28,
-     "s": [
-      0.25,
-      9.18,
-      17.78,
-      24.1,
-      32.49,
-      34.61,
-      43.04,
-      49.74
-     ]
-    },
-    {
-     "k": "Ölfördernde Staaten und Länder mit Bedenken bezüglich eines raschen Ausstiegs äu",
-     "d": "b043bc8cfa.mp3",
-     "l": 65.93,
-     "s": [
-      0.25,
-      6.48,
-      13.32,
-      25.07,
-      30.93,
-      41.03,
-      47.57,
-      58.73
-     ]
-    },
-    {
-     "k": "Das Scheitern einer politischen Haupterklärung auf einer Weltklimakonferenz gab ",
-     "d": "34fd397436.mp3",
-     "l": 67.37,
-     "s": [
-      0.25,
-      9.36,
-      16.34,
-      22.91,
-      36.45,
-      42.71,
-      49.97,
-      57.68
-     ]
-    },
-    {
-     "k": "Weltklimakonferenzen, offiziell als COP bezeichnet, finden jährlich im Rahmen de",
-     "d": "5948ee93ac.mp3",
-     "l": 46.54,
-     "s": [
-      0.25,
-      6.78,
-      15.94,
-      21.45,
-      35.34
-     ]
-    },
-    {
-     "k": "Nach dem Abschluss der Konferenz in Antalya kündigte UN-Klimachef Simon Stiell a",
-     "d": "f41eb7d0e5.mp3",
-     "l": 36.19,
-     "s": [
-      0.25,
-      10.7,
-      19.42,
-      27.59
-     ]
-    }
-   ]
-  },
-  {
-   "id": "russland-atomwaffe-all",
-   "rubrik": "Welt",
-   "zeit": "2026-11-23T12:17:41.000Z",
-   "titel": "Berichte über angebliche russische Atomwaffenpläne im Weltraum",
-   "vorspann": "Nach übereinstimmenden Medienberichten westlicher Geheimdienste soll Russland noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen. Moskau weist diese Vorstellungen als unbegründete Unterstellungen zurück.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Westliche Geheimdienste und die Bundeswehr warnen vor russischen Plänen, noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum zu bringen.",
-    "Ein solcher Einsatz könnte zahlreiche Satelliten zerstören und auf der Erde massive Schäden an Stromnetzen, Kommunikation und Navigation verursachen.",
-    "Die russische Botschaft weist die Berichte als unbegründete Propagandakampagne und ohne Informationen zu den Vorgängen zurück.",
-    "Deutschland und westliche Staaten zeigen sich auf ein solches Szenario nur unzureichend vorbereitet, während militärische und politische Gegenmaßnahmen diskutiert werden."
-   ],
-   "einig": [
-    [
-     "Russland plant laut westlichen Geheimdiensten die Stationierung eines Satelliten mit einem Atomsprengkopf im Weltraum.",
-     [
-      "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk",
-      "Spiegel",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Die russische Botschaft hat die Vorwürfe als unbegründete Unterstellungen und Propagandakampagne zurückgewiesen.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "Süddeutsche Zeitung"
-     ]
-    ],
-    [
-     "Das Bundesverteidigungsministerium hat auf konkrete Fragen zu den Moskauer Plänen nicht geantwortet und auf Vertraulichkeit verwiesen.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "Süddeutsche Zeitung"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob ein Start des Satelliten Sputnik-S tatsächlich noch in den kommenden Wochen stattfindet (während Geheimdienste und Bundeswehr dies vermuten, weist Russland jegliche Pläne zurück)."
-   ],
-   "positionen": [
-    [
-     "Westliche Geheimdienste und Militärs (darunter BND und Bundeswehr)",
-     "Russland plant noch in diesem Jahr den Start eines atomar bewaffneten Satelliten namens Sputnik-S.",
-     "Tagesschau/ARD,ZDFheute,Spiegel,Süddeutsche Zeitung"
-    ],
-    [
-     "Russische Botschaft",
-     "Die Berichte entbehren jeder Information und sind unbegründete Unterstellungen sowie eine Propagandakampagne.",
-     "Tagesschau/ARD,Spiegel,Süddeutsche Zeitung"
-    ],
-    [
-     "US-Militärgeheimdienst DIA",
-     "Russland entwickelt einen Satelliten für Nuklearwaffen und verstößt damit gegen den Weltraumvertrag von 1967.",
-     "Tagesschau/ARD,Süddeutsche Zeitung"
-    ]
-   ],
-   "fehlend": "Reaktionen oder Einschätzungen von Regierungsvertretern anderer NATO-Staaten (außerhalb Deutschlands und der USA) sowie direkte Stellungnahmen der russischen Regierung aus Moskau selbst (es liegt nur die Erklärung der Botschaft vor).",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.11.26, 08:38",
-     "fokus": "Umfassende Details und Hintergrundanalysen",
-     "text": "Die Tagesschau liefert die meisten Hintergrundinformationen zu historischen Versuchen, technischen Details und Aussagen von Militärs.",
-     "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 12,
-      "minuten": 5,
-      "woerter": 1096,
-      "satzlaenge": 21,
-      "langeWoerter": 39
-     },
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.11.26, 13:00",
-     "fokus": "Zusammenfassung und Live-Analyse",
-     "text": "ZDFheute fasst die wichtigsten Fakten kurz zusammen und kündigt eine Live-Diskussion mit Expertinnen an.",
-     "url": "https://www.zdfheute.de/video/zdfheute-live/russland-atomwaffe-all-video-100.html",
-     "video": true,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 9,
       "minuten": 1,
-      "woerter": 181,
-      "satzlaenge": 10,
-      "langeWoerter": 38
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.11.26, 13:17",
-     "fokus": "–",
-     "text": "Russland will nach Einschätzung westlicher Geheimdienste offenbar noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen.",
-     "url": "https://www.deutschlandfunk.de/russland-soll-erste-atomwaffen-stationierung-im-weltall-vorbereiten-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "23.11.26, 07:52",
-     "fokus": "–",
-     "text": "Westliche Geheimdienste gehen offenbar davon aus, dass Russland zeitnah einen Atomsprengkopf ins All bringen könnte. Das melden WDR, NDR und Süddeutsche Zeitung. Moskau weist die Berichte zurück.",
-     "url": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "schwer",
-      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
-      "klasse": 13,
-      "minuten": 2,
-      "woerter": 380,
-      "satzlaenge": 17,
-      "langeWoerter": 42
+      "woerter": 126,
+      "satzlaenge": 14,
+      "langeWoerter": 33
      },
      "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
      "finanzierung": "Abos und Werbung",
@@ -3170,9 +2547,9 @@
      "typ": "Tageszeitung",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "23.11.26, 06:00",
-     "fokus": "Hintergründe zu Verträgen und Aufrüstung",
-     "text": "Die Süddeutsche Zeitung beleuchtet den historischen Weltraumvertrag sowie die militärische Abhängigkeit Deutschlands detailliert.",
+     "datum": "23.11.26, 17:00",
+     "fokus": "Detaillierte sicherheitspolitische Recherchen",
+     "text": "Die Süddeutsche Zeitung liefert ausführliche Hintergründe zu Geheimdienstinformationen, den Reaktionen von Politikern sowie Plänen zur deutschen Weltraumsicherheit.",
      "url": "https://www.sueddeutsche.de/politik/russland-atomwaffe-weltraum-nato-sputnik-s-satelliten-bundeswehr-aufruestung-li.3582627",
      "video": false,
      "lesbar": {
@@ -3180,9 +2557,9 @@
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 12,
       "minuten": 4,
-      "woerter": 743,
+      "woerter": 763,
       "satzlaenge": 18,
-      "langeWoerter": 40
+      "langeWoerter": 41
      },
      "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
      "finanzierung": "Abos und Werbung",
@@ -3192,41 +2569,61 @@
    "unterschiede": [
     [
      "Ausführlichkeit",
-     "Während Deutschlandfunk eine sehr kurze Kurzmeldung verfasst, bieten Tagesschau, Spiegel und Süddeutsche Zeitung sehr ausführliche Recherchen."
+     "Während die Süddeutsche Zeitung einen sehr langen Hintergrundbericht mit zahlreichen Zitaten und Details liefert, bieten Tagesschau und Spiegel deutlich kürzere Meldungen oder verweisen auf Bezahlschranken."
     ]
    ],
    "wfragen": {
-    "wer": "Westliche Geheimdienste und Militärs, darunter Bundeswehr und BND",
-    "was": "Vorbreitung zur Stationierung einer Atomwaffe im Weltraum",
-    "wann": "noch in diesem Jahr",
-    "wo": "Weltraum und Erdumlaufbahn",
-    "wie": "Durch den Start eines Satelliten namens Sputnik-S",
-    "warum": "Militärische Vorteile und Abschreckung laut westlichen Sicherheitskreisen",
-    "quellenlage": "Recherchen von WDR, NDR, Süddeutscher Zeitung und Geheimdiensten"
+    "wer": "Westliche Geheimdienste und westliche Militärs",
+    "was": "Mögliche Stationierung einer Atomwaffe im Weltraum",
+    "wann": "23.11.2026",
+    "wo": "Weltraum und Moskau",
+    "wie": "Durch den Abschuss eines mit nuklearem Sprengstoff bestückten Satelliten",
+    "warum": "Laut westlichen Diensten zur Abschreckung, laut Süddeutsche Zeitung",
+    "quellenlage": "Süddeutsche Zeitung, Tagesschau/ARD, Spiegel"
    },
    "artikel": [
     {
-     "ueberschrift": "Aktuelle Erkenntnisse der Geheimdienste",
+     "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Westliche Geheimdienste und Militärs gehen davon aus, dass Russland noch in diesem Jahr einen Satelliten mit einem Atomsprengkopf in den Weltraum bringen will. Dies berichten übereinstimmend die Tagesschau, der Deutschlandfunk, der Spiegel und die Süddeutsche Zeitung. Die Bundeswehr schlägt nach diesen Recherchen intern bereits Alarm und hat Regierungsvertreter informiert. Entsprechende Erkenntnisse wurden kürzlich unter einigen NATO-Staaten ausgetauscht. Ein solcher Satellit trage laut den Berichten den Namen Sputnik-S und sei bereits seit mehreren Jahren im Großraum Moskau gelagert.",
-      "Nach Einschätzung des Weltraumkommandos der Bundeswehr könnte dieser Satellit noch im Dezember in den Weltraum geschossen werden und wäre dort innerhalb kurzer Zeit einsatzbereit. Das Bundesverteidigungsministerium antwortete auf konkrete Fragen zu diesen Plänen nicht und verwies auf die Vertraulichkeit interner Beratungen, wie die Tagesschau, der Spiegel und die Süddeutsche Zeitung berichten. Die russische Botschaft erklärte laut denselben Quellen, es lägen keine Informationen vor, und wies die Vorstellungen als unbegründete Unterstellungen zurück. Die Maßnahmen würden ausschließlich friedlichen Zwecken dienen.",
-      "Bereits im Oktober hatte der US-Militärgeheimdienst DIA eine Einschätzung veröffentlicht, nach der Russland einen Satelliten zur Beförderung einer Nuklearwaffe entwickelt. Die Stationierung einer solchen Waffe würde den Weltraumvertrag von 1967 verletzen, der das Platzieren von Massenvernichtungswaffen im All untersagt. Laut dem DIA gäbe es im Falle einer Stationierung kaum wirksame Gegenmaßnahmen, um den Einsatz der Waffe zu verhindern. Die Ausführung könnte zudem weitreichende Schäden auf der Erde verursachen."
+      "Westliche Geheimdienste und Militärs gehen davon aus, dass Russland noch in diesem Jahr die Stationierung einer Atomwaffe im Weltraum plant. Dies geht aus Recherchen der Süddeutschen Zeitung, des NDR und des WDR hervor. Demnach planen die Verantwortlichen in Moskau, einen mit nuklearem Sprengstoff bestückten Satelliten ins All zu schießen. Unter einigen Nato-Staaten wurden laut diesen Angaben kürzlich entsprechende Meldungen ausgetauscht. Ein solcher Schritt wäre der bisherige Höhepunkt einer seit Jahren zunehmenden Militarisierung des Weltraums.",
+      "Nach Angaben der Süddeutschen Zeitung soll der Satellit mit der Bezeichnung Sputnik-S bereits seit Jahren im Großraum Moskau lagern. Im Oktober hatte der US-Militärgeheimdienst DIA gewarnt, dass Russland einen Satelliten zur Transportierung einer Nuklearwaffe entwickelt. Sollten sich diese Pläne bestätigen, wäre dies laut den Berichten ein Verstoß gegen den Weltraumvertrag von 1967. Diese Vereinbarung verbietet es, Objekte mit Nuklearen oder anderen Massenvernichtungswaffen in eine Erdumlaufbahn zu bringen.",
+      "In den vergangenen Wochen sollen Bundeswehrexperten wichtige Politiker über diese Pläne informiert haben. Zu den unterrichteten Personen gehört demnach auch Bundesverteidigungsminister Boris Pistorius. Ein Sprecher des Bundesverteidigungsministeriums teilte auf Anfrage lediglich mit, man beobachte die globalen Entwicklungen im Weltraum sowie die Aktivitäten anderer Staaten kontinuierlich und gewissenhaft. Zudem verwies das Ministerium auf Geheimhaltung und die Vertraulichkeit von Unterrichtungen."
      ]
     },
     {
-     "ueberschrift": "Mögliche Folgen im All und auf der Erde",
+     "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Eine Atomexplosion im Weltraum könnte zahlreiche Satelliten beschädigen oder zerstören, was gravierende Folgen für das zivile Leben und Streitkräfte hätte. Der Leiter des US-Space-Commands, Stephen Whiting, erklärte dazu laut Tagesschau, dass wahrscheinlich innerhalb kurzer Zeit etwa ein Drittel aller Satelliten im niedrigen Erdorbit ausfallen würde. In den darauffolgenden Monaten würden demnach auch die restlichen Satelliten nach und nach ausfallen. Neben dem direkten Ausfall von Geräten entstünde eine Trümmerwolke, die auch unbeteiligte Satelliten gefährden könnte.",
-      "Ein starker elektromagnetischer Impuls einer solchen Explosion könnte zudem auf der Erde zu großflächigen technischen Ausfällen führen. Laut Generalmajor Armin Fleischmann vom Kommando Cyber- und Informationsraum der Bundeswehr wären die Folgen für das Leben in Deutschland unter anderem Stromausfälle sowie starke Einschränkungen für Kommunikation und Navigation. Betroffen wären im zivilen Bereich GPS-Systeme, Bankgeschäfte, Stromnetze und Mobilfunk. Auch die Leistungsfähigkeit des westlichen Militärs hängt laut Sicherheitskreisen stark von Satelliten ab, weshalb Russland im Kriegsfall kurzfristige Vorteile erlangen könnte.",
-      "Um auf solche Bedrohungen zu reagieren, plant das Bundesverteidigungsministerium Investitionen in die eigene Weltraumsicherheit. Laut Recherchen der Süddeutschen Zeitung sind jedoch viele der geplanten Neuanschaffungen und Fortentwicklungen noch im Entwicklungsstadium und erst in zehn Jahren einsatzfähig. Das Bundesinnenministerium hat laut Süddeutscher Zeitung auf Anfrage noch keinen konkreten Schutzplan für ein solches Szenario genannt, auch wenn erste Schritte geplant seien."
+      "Die potenziellen militärischen und zivilen Handlungen im Orbit könnten nach Einschätzung von Experten dramatische Folgen haben. Fast alle westlichen Dienste gehen davon aus, dass Moskau mit einem solchen Nuklearsatelliten vor allem auf Abschreckung setzt. Würde ein nuklearer Sprengkopf wie der von Sputnik-S im niedrigen Erdorbit explodieren, fielen innerhalb weniger Monate alle Satelliten in diesem Bereich aus. Betroffen wären davon Bereiche wie Navigation, Telekommunikation und Wettervorhersage.",
+      "Deutschland zeigt sich auf ein solches Szenario nach den Berichten unzureichend vorbereitet. Das Bundesinnenministerium kann auf Anfrage noch keinen konkreten Schutzplan nennen, teilt jedoch mit, dass erste Schritte geplant seien. Das Verteidigungsministerium plant nun Investitionen in Höhe von 35 Milliarden Euro für die eigene Weltraumsicherheit. Nach Recherchen der Medien sind jedoch 19 von 27 geplanten Neuanschaffungen oder Fortentwicklungen bis Ende des Jahrzehnts noch im Entwicklungsstadium und sollen erst zehn Jahre später einsatzfähig sein.",
+      "In militärischer Hinsicht wäre ein großflächiger Ausfall von Satelliten für den Westen ebenfalls gravierend. Russland hat nach Angaben der Süddeutschen Zeitung in den vergangenen Jahren die Ostsee zentimetergenau kartografieren lassen. Dadurch könnte Moskaus Marine auch ohne Satellitenunterstützung unter Wasser navigieren. Die französische Analyse-Firma Aldoria bestätigte zudem Angaben über zahlreiche Vorfälle, bei denen europäische Satelliten von russischen verfolgt wurden."
      ]
     },
     {
-     "ueberschrift": "Vorgeschichte und bisherige Entwicklungen",
+     "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Die Warnungen vor einer Stationierung von Atomwaffen im All bestehen seit einigen Jahren. Im Februar 2023 hatten die USA erstmals intern davor gewarnt, dass Russland an einer solchen Platzierung arbeitet. US-Abgeordnete sprachen damals von einer ernsthaften Bedrohung der nationalen Sicherheit. Im Dezember 2024 stimmte die UN-Generalversammlung über die Fortsetzung des Weltraumvertrages ab, wobei Russland dagegen votierte, wie die Süddeutsche Zeitung berichtet.",
-      "Westliche Beobachter und US-Geheimdienste hatten in den vergangenen Jahren insbesondere den russischen Satelliten Kosmos-2553 beobachtet, der im Februar 2022 kurz vor Beginn des russischen Angriffs auf die Ukraine gestartet worden war. Offizielle russische Angaben sprachen von wissenschaftlicher Strahlungsforschung im All. Deutsche Sicherheitskreisen gehen laut Tagesschau und Süddeutscher Zeitung jedoch davon aus, dass es sich dabei um einen Test für die Folgen eines Atomwaffeneinsatzes handelte. Mit dem als Dummy fungierenden Satelliten sollten demnach die Auswirkungen von Strahlung auf Satelliten und deren Flugfähigkeiten getestet werden.",
-      "Die Berichte verweisen zudem auf historische Vorkehrungen wie das US-Projekt Starfish Prime aus dem Jahr 1962, bei dem in großer Höhe eine Atombombe im Pazifik gezündet wurde. Damals führte die Detonation unter anderem zum Ausfall von Straßenlaternen auf Hawaii, Telekommunikationssystemen und mehreren Satelliten. Angesichts von heutzutage Zehntausenden Satelliten im All wären die Folgen eines erneuten Einsatzes wesentlich gravierender. Die Zunahme militärischer Aktionen im Orbit zeigt laut den Recherchen ein anhaltendes Wettrüsten zwischen den Großmächten."
+      "Die aktuellen Vermutungen knüpfen an frühere Beobachtungen an. Zunächst hatten US-Geheimdienste den russischen Satelliten Kosmos-2553 im Blick, der im Februar 2022 kurz vor dem Beginn des russischen Angriffs auf die Ukraine ins All gestartet wurde. Westliche Kreise zweifelten damals an den offiziellen Angaben aus Moskau, wonach der Satellit zur Strahlungsforschung diene. Stattdessen wurde vermutet, dass der Satellit als Test-Dummy diente, um die Auswirkungen von Strahlung auf Satelliten zu untersuchen. Im Dezember 2024 stimmte die UN-Generalversammlung über die Fortsetzung des Weltraumvertrages ab, wobei Russland dagegen votierte.",
+      "Die Militarisierung des Weltraums zeigt sich auch an anderen Vorfällen der vergangenen Jahre. Im November 2021 testete Russland nach den Berichten ein militärisches Manöver, bei dem ein eigener Satellit mit einer Rakete abgeschossen wurde. Trümmerteile dieses Abschusses gefährdeten damals die Astronauten auf der Internationalen Raumstation ISS. Im September räumten die USA ein, ebenfalls Waffen im Orbit stationiert zu haben, die offensiv eingesetzt werden könnten. Wenige Wochen danach näherte sich ein russischer Satellit einem westlichen Objekt bis auf rund hundert Meter an."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der Weltraumvertrag aus dem Jahr 1967 ist ein internationales Abkommen, das die Nutzung des Weltraums regelt. Er untersagt den Vertragsstaaten unter anderem die Stationierung von Massenvernichtungswaffen im Orbit oder auf Himmelskörpern. Satelliten im niedrigen Erdorbit umkreisen die Erde in verhältnismäßig geringer Höhe und sind für viele Aufgaben der modernen Kommunikation und Navigation von großer Bedeutung.",
+      "Geheimdienste und Militärbehörden analysieren kontinuierlich die Aktivitäten fremder Staaten im Weltall und zu Lande. Dazu werten sie Datenströme, Satellitenbahnen und diplomatische sowie militärische Informationen aus. Die Bundeswehr und das Bundesinnenministerium gehören zu den staatlichen Institutionen, die auf sicherheitspolitische Bedrohungen reagieren müssen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Bundeskanzler Friedrich Merz äußerte sich auf einer Pressekonferenz am Montag zu den Meldungen. Laut der Süddeutschen Zeitung sagte Merz, die Nachrichten über geplante atomare Bewaffnungen des Weltraums seien nicht neu, aber deswegen nicht weniger schockierend, und sie zeigten, zu welcher Eskalation Russland bereit sei.",
+      "Die russische Botschaft erklärte laut der Süddeutschen Zeitung auf Anfrage, ihr lägen keine Informationen zu den beschriebenen Vorgängen vor. Ein Sprecher des Bundesverteidigungsministeriums teilte mit, man beobachte die globalen Entwicklungen im Weltraum und die Aktivitäten anderer Staaten kontinuierlich und gewissenhaft.",
+      "Josef Aschbacher, der Generaldirektor der Europäischen Weltraumorganisation ESA, erklärte laut der Süddeutschen Zeitung, warum der Angriff auf die Ukraine im Weltall begonnen hat und wieso der Blick aus Sicherheitsgründen öfter zum Himmel gerichtet werden sollte."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Das deutsche Verteidigungsministerium plant Investitionen in Höhe von 35 Milliarden Euro für die eigene Weltraumsicherheit. Ein Großteil der geplanten Neuanschaffungen und Fortentwicklungen befindet sich gegenwärtig jedoch noch im Entwicklungsstadium und soll erst in den kommenden Jahren beziehungsweise Jahrzehnten einsatzfähig werden. Das Bundesinnenministerium kündigte an, dass erste Schritte für Schutzpläne gegen mögliche Satellitenausfälle geplant seien."
      ]
     }
    ],
@@ -3248,6 +2645,22 @@
      "Der US-Militärgeheimdienst DIA veröffentlicht eine Einschätzung zu russischen Nuklearsatelliten-Entwicklungen."
     ],
     [
+     "Februar 2022",
+     "Russland startet den Satelliten Kosmos-2553 in den Weltraum."
+    ],
+    [
+     "November 2021",
+     "Russland führt ein militärisches Manöver im All durch und schießt einen eigenen Satelliten ab."
+    ],
+    [
+     "Dezember 2024",
+     "Die UN-Generalversammlung stimmt über die Fortsetzung des Weltraumvertrages ab, wobei Russland dagegen votiert."
+    ],
+    [
+     "Oktober 2026",
+     "Der US-Militärgeheimdienst DIA warnt vor der Entwicklung von Nuklearsatelliten durch Russland."
+    ],
+    [
      "23.11.2026",
      "Medienberichte über bevorstehende russische Startpläne eines atomar bestückten Satelliten werden veröffentlicht."
     ]
@@ -3256,132 +2669,33 @@
     {
      "art": "person",
      "suchbegriff": "Boris Pistorius politician",
-     "bildunterschrift": "Bundesverteidigungsminister Boris Pistorius, über dessen Unterrichtung durch die Bundeswehr berichtet wurde."
+     "bildunterschrift": "Bundesverteidigungsminister Boris Pistorius, über dessen Ministerium und Unterrichtungen im Bericht informiert wurde."
     },
     {
-     "art": "institution",
-     "suchbegriff": "Bundesnachrichtendienst headquarters",
-     "bildunterschrift": "Der Sitz des Bundesnachrichtendienstes, der zu den beteiligten Diensten bei den Analysen gehört."
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz äußerte sich auf einer Pressekonferenz zu den Meldungen über die Weltraumbewaffnung."
     },
     {
      "art": "ort",
-     "suchbegriff": "Moscow skyline",
-     "bildunterschrift": "Moskau, wo sich der angebliche Lagerort des Satelliten Sputnik-S befinden soll."
+     "suchbegriff": "Moscow Kremlin",
+     "bildunterschrift": "Der Kreml in Moskau, von wo aus die russische Regierung agiert."
     },
     {
-     "art": "symbol",
-     "suchbegriff": "Artificial satellite",
-     "bildunterschrift": "Symbolbild eines Satelliten in der Erdumlaufbahn, deren Schutz im Mittelpunkt der Debatte steht."
+     "art": "institution",
+     "suchbegriff": "European Space Agency headquarters",
+     "bildunterschrift": "Sitz der Europäischen Weltraumorganisation ESA, deren Generaldirektor sich zur Sicherheit im All äußerte."
     }
    ],
    "ort": {
     "name": "Berlin, Deutschland"
    },
-   "geprueft": true,
-   "korrekturen": [
-    "Datum in wfragen von festem Tag auf 'noch in diesem Jahr' korrigiert, da das genaue Datum nicht in den Quellen steht."
-   ],
+   "geprueft": false,
+   "korrekturen": [],
    "wortwarnung": [
-    "massive"
-   ],
-   "lernen": {
-    "begriffe": [
-     [
-      "Satellit",
-      "Ein künstlicher Himmelskörper, der die Erde in einer Umlaufbahn umkreist und zum Beispiel für Nachrichten, Wetter oder Navigation genutzt wird."
-     ],
-     [
-      "Weltraumvertrag",
-      "Ein internationales Abkommen aus dem Jahr 1967, das unter anderem verbietet, Massenvernichtungswaffen in eine Erdumlaufbahn zu bringen."
-     ],
-     [
-      "Elektromagnetischer Impuls",
-      "Eine kurzzeitige, starke Energiequelle, die elektrische und elektronische Geräte beschädigen oder zerstören kann."
-     ]
-    ],
-    "fragen": [
-     "Welche Quellen nutzen die Berichte, und warum ist es für Journalisten wichtig, Informationen von Geheimdiensten kritisch zu prüfen?",
-     "Welche Folgen hätte ein weltweiter Ausfall von Satelliten für den Alltag der Menschen in Deutschland?"
-    ],
-    "quiz": [
-     {
-      "frage": "Welcher Name wird in den Berichten für den angeblichen russischen Satelliten genannt?",
-      "optionen": [
-       "Kosmos-2553",
-       "Sputnik-S",
-       "Starfish Prime"
-      ],
-      "richtig": 1,
-      "erklaerung": "In den Recherchen von WDR, NDR und Süddeutscher Zeitung wird der Satellit als Sputnik-S bezeichnet."
-     },
-     {
-      "frage": "Welches internationale Abkommen verbietet laut dem US-Militärgeheimdienst DIA das Mitführen von Nuklearwaffen im Orbit?",
-      "optionen": [
-       "Der Weltraumvertrag von 1967",
-       "Das Genfer Protokoll",
-       "Der Atomsperrvertrag"
-      ],
-      "richtig": 0,
-      "erklaerung": "Der US-Militärgeheimdienst DIA erklärte, dass Russland mit der Stationierung gegen den Weltraumvertrag von 1967 verstoßen würde."
-     },
-     {
-      "frage": "Wie reagierte die russische Botschaft auf die Medienanfragen zu den Berichten?",
-      "optionen": [
-       "Sie bestätigte die Pläne für das Jahresende.",
-       "Sie erklärte, es handele sich um rein wissenschaftliche Forschungen.",
-       "Sie wies die Vorwürfe als unbegründete Unterstellungen und Propagandakampagne zurück."
-      ],
-      "richtig": 2,
-      "erklaerung": "Die russische Botschaft erklärte, es lägen keine Informationen vor, und wies die Vorwürfe als unbegründete Unterstellungen und Propagandakampagne zurück."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Nach Berichten westlicher Geheimdienste plant Russland möglicherweise den Start eines Satelliten mit einer Atomwaffe.",
-    "absaetze": [
-     "Westliche Geheimdienste und die Bundeswehr sagen, dass Russland noch in diesem Jahr einen solchen Satelliten ins All bringen will.",
-     "Ein solcher Satellit könnte im Weltraum explodieren und viele andere Satelliten zerstören.",
-     "Das hätte große Folgen für die Erde, zum Beispiel Stromausfälle und Probleme bei der Handynavigation.",
-     "Die russische Botschaft in Deutschland weist die Vorwürfe zurück und spricht von einer Propagandakampagne.",
-     "Deutschland und andere NATO-Staaten beraten über diese Berichte und überlegen, wie sie sich schützen können."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Westliche Geheimdienste warnen vor russischen Plänen für einen atomar bewaffneten Satelliten im Weltraum. Eine Explosion könnte zahlreiche Satelliten zerstören und schwere Schäden auf der Erde verursachen. Die russische Botschaft weist die Vorwürfe als unbegründete Unterstellungen zurück."
-    ],
-    "lang": [
-     "Nach Berichten westlicher Geheimdienste plant Russland noch in diesem Jahr den Start eines Satelliten mit einem Atomsprengkopf.",
-     "Das meldeten unter anderem die ARD, der Spiegel und die Süddeutsche Zeitung am Montag nach Recherchen von verschiedenen Medien.",
-     "Die Bundeswehr und der Bundesnachrichtendienst gehen davon aus, dass der Satellit mit dem Namen Sputnik-S bereits im Großraum Moskau gelagert wird.",
-     "Eine Atomexplosion im Weltraum könnte zahlreiche Satelliten zerstören und auf der Erde zu massiven Problemen bei Navigation und Stromnetzen führen.",
-     "Nach Angaben des US-Militärgeheimdienstes DIA würde ein solcher Schritt gegen den Weltraumvertrag aus dem Jahr neunzehnhundertsiebenundsechzig verstossen.",
-     "Die russische Botschaft erklärte dagegen auf Anfrage, ihr lägen dazu keine Informationen vor, und wies die Vorwürfe als Propagandakampagne zurück.",
-     "Das Bundesverteidigungsministerium verwies auf Anfrage auf die Geheimhaltungspﬂicht interner Beratungen.",
-     "Militärs und Politiker beraten nun über mögliche Abwehrmaßnahmen und den Schutz der eigenen Systeme im Weltall."
-    ],
-    "einfach": [
-     "Westliche Geheimdienste warnen vor neuen russischen Plänen im Weltraum.",
-     "Russland will demnach noch in diesem Jahr einen Satelliten mit einer Atomwaffe starten.",
-     "Eine Explosion im All könnte viele Satelliten zerstören.",
-     "Das würde auch auf der Erde zu großen Problemen führen, wie zum Beispiel Stromausfällen.",
-     "Die russische Botschaft weist diese Berichte als unwahr zurück."
-    ]
-   },
-   "kurz": [
-    "Westliche Geheimdienste warnen vor russischen Plänen für einen atomar bewaffneten Satelliten im All.",
-    "Eine Explosion im Weltraum könnte Satelliten zerstören und weltweit zu massiven technischen Ausfällen führen.",
-    "Die russische Botschaft weist alle Vorwürfe als unbegründete Propagandakampagne zurück."
-   ],
-   "fakten": [
-    [
-     "Weltraumvertrag von",
-     "1967"
-    ],
-    [
-     "Jahr des US-Projekts Starfish Prime",
-     "1962"
-    ]
+    "dramatische",
+    "massiven",
+    "schockierend"
    ],
    "dossier": {
     "slug": "russische-weltraumaktivitaeten",
@@ -3393,106 +2707,372 @@
     "lat": 52.517,
     "lon": 13.395
    },
-   "version": 5,
-   "ton": [
+   "version": 5
+  },
+  {
+   "id": "klimakonferenz-antalya-cop31",
+   "rubrik": "Wissen & Klima",
+   "zeit": "2026-11-23T17:24:25.000Z",
+   "aktualisiert": "aktualisiert um 11:51 Uhr",
+   "titel": "Klimakonferenz COP31 ohne gemeinsame Abschlusserklärung beendet",
+   "vorspann": "Die Uno-Klimakonferenz COP31 ist ohne die Verabschiedung eines gemeinsamen Schlusstextes zu Ende gegangen. Grund für das Scheitern waren unter anderem Differenzen über einen Ausstieg aus fossilen Brennstoffen und Finanzierungsfragen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Die Uno-Klimakonferenz COP31 in Antalya ist ohne eine gemeinsame Abschlusserklärung zu Ende gegangen.",
+    "Hauptgründe für den Ausfall des Schlusstextes waren Streitigkeiten über einen Ausstieg aus Kohle, Öl und Gas sowie Fragen der internationalen Klimafinanzierung.",
+    "Während eine Mehrheit von rund 130 Staaten eine klare Abkehr von fossilen Energieträgern forderte, blockierten Länder wie Saudi-Arabien und Russland entsprechende Formulierungen.",
+    "Uno-Klimachef Simon Stiell kündigte an, mögliche Reformen des Verhandlungsprozesses zu prüfen."
+   ],
+   "einig": [
+    [
+     "Die Klimakonferenz COP31 in Antalya endete ohne eine gemeinsame Abschlusserklärung.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "BBC"
+     ]
+    ],
+    [
+     "Ölförderländer wie Saudi-Arabien und Russland lehnten Formulierungen zum Ausstieg aus fossilen Energieträgern ab.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "BBC"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob künftig bei den Uno-Klimakonferenzen anstelle des Konsensprinzips Mehrheitsabstimmungen eingeführt werden sollen, ist laut der BBC noch unklar und Gegenstand künftiger Prüfungen."
+   ],
+   "positionen": [
+    [
+     "China (Sprecher des Außenministeriums Guo Jiakun)",
+     "Das Scheitern der Konferenz ist enttäuschend, aber der globale Trend zur Energiewende ist unumkehrbar.",
+     "Spiegel"
+    ],
+    [
+     "EU und weitere Staaten (unter anderem vertreten durch den irischen Minister Darragh O'Brien)",
+     "Ein Entwurf ohne Erwähnung des Ausstiegs aus fossilen Brennstoffen ist unannehmbar und schwächt frühere Verträge.",
+     "Spiegel"
+    ],
+    [
+     "Saudi-Arabien (Verhandlungsführer Mohammad Ayoub für die Arabische Liga)",
+     "Arabische Nationen haben nur einen geringen Anteil an historischen Emissionen und müssen selbst über Klimaschutz entscheiden.",
+     "BBC"
+    ],
+    [
+     "Russland (Delegierter Sergei Kononuchenko)",
+     "Ein vorzeitiger Stopp von Öl und Gas führt zu Engpässen, zudem kritisierte er die Kreditvergabepraxis reicher Länder.",
+     "BBC"
+    ]
+   ],
+   "fehlend": "Reaktionen weiterer betroffener Entwicklungsländer oder spezifische Positionen der USA (da keine offizielle Delegation anwesend war).",
+   "medien": [
     {
-     "k": "Nach Berichten westlicher Geheimdienste plant Russland noch in diesem Jahr den S",
-     "d": "4901c06de4.mp3",
-     "l": 67.5,
-     "s": [
-      0.25,
-      7.11,
-      14.37,
-      22.73,
-      31.76,
-      40.39,
-      48.73,
-      60.55
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "23.11.26, 14:56",
+     "fokus": "Kompakter Überblick über das Scheitern",
+     "text": "Berichtet kurz und sachlich über das Ende der COP31 ohne Abschlusserklärung und den Druck von Ölförderländern.",
+     "url": "https://www.tagesschau.de/video/video-1688464.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "23.11.26, 10:28",
+     "fokus": "Haltung Chinas und beteiligte Staaten",
+     "text": "Beleuchtet Chinas Reaktion auf das Scheitern sowie die Rolle der EU, Panamas und kleiner Inselstaaten bei der Ablehnung des Entwurfs.",
+     "url": "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 209,
+      "satzlaenge": 23,
+      "langeWoerter": 34
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "BBC",
+     "typ": "öffentlich-rechtlich (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "23.11.26, 18:24",
+     "fokus": "Geopolitische Hintergründe und detaillierte Zitate",
+     "text": "Liefert ausführliche Aussagen von Verhandlungsführern aus Saudi-Arabien, Russland, Australien und der Türkei sowie Einblicke in die Finanzdebatte.",
+     "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 6,
+      "woerter": 1247,
+      "satzlaenge": 19,
+      "langeWoerter": 30
+     },
+     "traeger": "British Broadcasting Corporation, Großbritannien",
+     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit der Zitate",
+     "Die BBC liefert sehr detaillierte Zitate und Begründungen der Delegierten aus Russland und Saudi-Arabien, während Tagesschau und Spiegel sich auf die Kernpunkte konzentrieren."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Delegierte der Vereinten Nationen und Staatenvertreter",
+    "was": "Scheitern einer gemeinsamen Abschlusserklärung",
+    "wann": "noch unklar",
+    "wo": "Antalya, Türkei",
+    "wie": "nach langen Verhandlungen",
+    "warum": "Unüberbrückbare Differenzen bei fossilen Brennstoffen und Finanzfragen laut Berichten",
+    "quellenlage": "Berichte von Tagesschau/ARD, Spiegel und BBC"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Uno-Klimakonferenz COP31 ist in der türkischen Stadt Antalya ohne eine gemeinsame Abschlusserklärung zu Ende gegangen. Nach Angaben der Berichterstattung von Tagesschau/ARD, Spiegel und BBC scheiterten die langen Verhandlungen an unüberbrückbaren Gegensätzen. Ein zentraler Streitpunkt im Entwurf war die Erwähnung oder der Verzicht auf einen Ausstieg aus fossilen Energieträgern. Mehrere Staaten lehnten den Text ab, weil ein klares Bekenntnis zur Abkehr von Kohle, Öl und Gas fehlte.",
+      "Laut dem Bericht des Spiegel war vor allem die Europäische Union gegen den Entwurf. Auch Panama sowie Inselstaaten wie Vanuatu und die Marshall-Inseln schlossen sich dieser Ablehnung an. Die Berichte von Tagesschau/ARD und BBC verweisen zudem auf den Druck von ölproduzierenden Ländern. Staaten wie Saudi-Arabien und Russland hatten sich gegen jegliche Formulierung zu fossilen Brennstoffen ausgesprochen. Die Verhandlungen endeten laut der BBC nach einer langen Verlängerung.",
+      "Trotz des fehlenden Schlusstextes blieben viele Staaten in der Frage der Klimaschutzziele tief gespalten. Der australische Verhandlungsführer Chris Bowen sprach laut der BBC von einem äußerst komplizierten geopolitischen Umfeld. Der türkische Umweltminister und Konferenzpräsident Murat Kurum erklärte laut der BBC, dass man sich nicht an einzelnen Wörtern hätte aufhängen sollen. China bewertete das Scheitern in den Berichten des Spiegel als enttäuschend, betonte jedoch, dass der Weg der Energiewende unumkehrbar sei."
      ]
     },
     {
-     "k": "Westliche Geheimdienste warnen vor russischen Plänen für einen atomar bewaffnete",
-     "d": "c44955b398.mp3",
-     "l": 16.14,
-     "s": [
-      0.25
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Laut Angaben des Spiegels und der BBC wurde der Entwurf für den Abschlusstext vom türkischen COP31-Vorsitz und dem australischen Verhandlungsvorsitz veröffentlicht. Zu den Staaten, die eine explizite Formulierung zum Ausstieg aus fossilen Brennstoffen forderten, gehörte laut der BBC eine Mehrheit von etwa 130 Regierungen. Dies entsprach etwa zwei Dritteln der in Antalya vertretenen Länder. Diese Staaten argumentierten, dass ein bloßes Reduzieren von Emissionen ohne den Verzicht auf die verursachenden Brennstoffe einen Rückschritt im Vergleich zu früheren Beschlüssen bedeuten würde.",
+      "Auf der Gegenseite begründeten ölproduzierende Länder ihre Position ebenfalls. Mohammad Ayoub, ein Verhandlungsführer für Saudi-Arabien und Sprecher der 22 Arabischen Ligen, erklärte laut BBC, dass arabische Nationen weniger als zwei Prozent der historischen Treibhausgasemissionen verursacht hätten. Die Verantwortung liege bei den Industrienationen. Der russische Delegierte Sergei Kononuchenko warnte vor Engpässen und steigenden Preisen bei einer vorzeitigen Reduzierung von Öl und Gas. Kononuchenko kritisierte in dem BBC-Bericht zudem die Finanzierungspraxis, bei der Gelder für Entwicklungsländer oft als Kredite statt als Zuschüsse vergeben würden.",
+      "In den Berichten wird auch die Rolle der Vereinigten Staaten beleuchtet. Laut Spiegel und BBC nahm die US-Regierung nicht offiziell an den Verhandlungen in Antalya teil, da die USA aus dem Pariser Klimaabkommen ausgestiegen sind. Gleichzeitig veröffentlichten die USA, China und Russland laut der BBC eine gemeinsame Erklärung in Shenzhen, in der die Produktion von Raffinerieprodukten erhöht werden soll. Die EU war in den Verhandlungen unter anderem durch den irischen Minister Darragh O'Brien vertreten, der einen Text ohne Erwähnung fossiler Brennstoffe als unannehmbar bezeichnete. Simon Stiell, der Klimachef der Vereinten Nationen, kündigte an, Reformen des COP-Prozesses zu prüfen."
      ]
     },
     {
-     "k": "Westliche Geheimdienste warnen vor neuen russischen Plänen im Weltraum. Russland",
-     "d": "299b31f214.mp3",
-     "l": 23.99,
-     "s": [
-      0.25,
-      4.91,
-      10.11,
-      14.03,
-      19.8
+     "ueberschrift": "Hintergründe",
+     "absaetze": [
+      "Die Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzip des Konsenses. Laut den Erläuterungen der BBC bietet diese Einstimmigkeit kleineren und ärmeren Staaten einen Schutz vor dem Überstimmen durch mächtigere Länder. Auf der anderen Seite führt dieses Verfahren dazu, dass einzelne Blockierer Beschlüsse verhindern können. Der australische Verhandlungsführer Chris Bowen bezeichnete das diplomatische Umfeld als das schwierigste in der bisherigen Geschichte der Gespräche. Bereits drei Jahre zuvor war auf der Klimakonferenz COP28 in Dubai ein Ausstieg aus fossilen Brennstoffen vereinbart worden.",
+      "Ein weiterer Konflikt betrifft die Klimafinanzierung. Vertreter von Entwicklungsländern weisen laut den Berichten darauf hin, dass sie die Hauptlast von Klimaschäden tragen. Kritiker wie der russische Delegierte Kononuchenko warfen den Industrienationen vor, finanzielle Hilfen vor allem in Form von rückzahlbaren Krediten zu gewähren. Die Europäische Union hatte vor Beginn der Verhandlungen erhebliche zusätzliche Finanzhilfen ausgeschlossen."
      ]
     },
     {
-     "k": "Ob ein Start des Satelliten Sputnik-S tatsächlich noch in den kommenden Wochen s",
-     "d": "1c195ccdaa.mp3",
-     "l": 9.43,
-     "s": [
-      0.25
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Weltklimakonferenzen sind offizielle Zusammenkünfte der Vertragsstaaten der Klimarahmenkonvention der Vereinten Nationen. Das Hauptziel dieser Konferenzen besteht darin, globale Maßnahmen gegen den Klimawandel zu verhandeln und internationale Vereinbarungen zu treffen.",
+      "Das Verfahren bei solchen Gipfeln sieht vor, dass Delegierte aus aller Welt über Entwürfe beraten. Da die Entscheidungen im Konsens getroffen werden müssen, ist die Zustimmung aller teilnehmenden Staaten erforderlich. Wenn keine Einigung erzielt wird, kann eine Konferenz ohne formelle Abschlusserklärung enden."
      ]
     },
     {
-     "k": "Was bedeutet eigentlich Satellit? Ein künstlicher Himmelskörper, der die Erde in",
-     "d": "8802aae9a3.mp3",
-     "l": 10.85,
-     "s": [
-      0.25,
-      2.45
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Guo Jiakun, Sprecher des chinesischen Außenministeriums, bezeichnete das Scheitern der Konferenz laut dem Spiegel als enttäuschend. Er betonte jedoch, dass der weltweite Trend zur grünen Transformation unumkehrbar bleibe.",
+      "Darragh O'Brien, der irische Minister und Vertreter der Europäischen Union, erklärte laut der BBC, dass ein Verhandlungsergebnis ohne Erwähnung fossiler Brennstoffe unannehmbar sei.",
+      "Chris Bowen, der australische Verhandlungsleiter, sprach laut der BBC von unüberbrückbaren roten Linien infolge einer komplizierten Lage.",
+      "Murat Kurum, der türkische Umweltminister und Konferenzpräsident, rief dazu auf, sich nicht an einzelnen Wörtern festzubeißen.",
+      "Mohammad Ayoub, ein Verhandlungsführer für Saudi-Arabien, betonte laut der BBC, dass die arabischen Länder nur einen geringen Anteil der historischen Emissionen verursacht hätten.",
+      "Sergei Kononuchenko, der Delegierte Russlands, warnte vor Engpässen bei einem sofortigen Stopp fossiler Brennstoffe und kritisierte die Vergabe von Krediten laut BBC.",
+      "Christiana Figueres, die frühere Leiterin der UN-Klimaverhandlungen, erklärte laut der BBC, es sei richtig gewesen, den Text abzulehnen.",
+      "Mohamed Adow, ein kenianischer Aktivist, warf der Europäischen Union laut der BBC vor, die eigene Verantwortung bei der Klimafinanzierung nicht anzuerkennen."
      ]
     },
     {
-     "k": "Westliche Geheimdienste und Militärs gehen davon aus, dass Russland noch in dies",
-     "d": "c7b4bd2534.mp3",
-     "l": 63.18,
-     "s": [
-      0.25,
-      8.58,
-      14.73,
-      20.59,
-      25.03,
-      32.7,
-      43.12,
-      54.35
-     ]
-    },
-    {
-     "k": "Eine Atomexplosion im Weltraum könnte zahlreiche Satelliten beschädigen oder zer",
-     "d": "612ea2554f.mp3",
-     "l": 70.29,
-     "s": [
-      0.25,
-      9.51,
-      20.43,
-      26.41,
-      32.83,
-      41.01,
-      54.02,
-      60.35
-     ]
-    },
-    {
-     "k": "Die Warnungen vor einer Stationierung von Atomwaffen im All bestehen seit einige",
-     "d": "26782b1395.mp3",
-     "l": 66.64,
-     "s": [
-      0.25,
-      5.26,
-      13.13,
-      18.5,
-      29.18,
-      44.31,
-      49.02,
-      58.25
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Nach dem Abschluss der Konferenz kündigte der Uno-Klimachef Simon Stiell an, er werde Beratungen über mögliche Reformen des COP-Prozesses einleiten. Dazu gehört laut der BBC die Diskussion darüber, ob bei anhaltender Blockade künftig Mehrheitsentscheidungen eingeführt werden sollten. Alternativ wird geprüft, ob willige Staaten eigenständige Vereinbarungen abseits der formellen Verhandlungen treffen könnten. Das Fehlen einer offiziellen Erklärung stoppt jedoch nicht die weltweite Entwicklung von Solaranlagen, Batterien und Elektrofahrzeugen, die laut Berichten der BBC zunehmend wettbewerbsfähig sind."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "Freitag",
+     "Planmäßiges Ende der COP31-Klimakonferenz, das jedoch verpasst wurde."
+    ],
+    [
+     "Samstag",
+     "Verhandlungen wurden fortgesetzt, zahlreiche Minister reisten ab."
+    ],
+    [
+     "Sonntagmittag",
+     "Beginn des Schlussplenums nach mehreren Verschiebungen."
+    ],
+    [
+     "Sonntagabend",
+     "Beendigung der COP31 mit einem Hammerschlag nach einer Rekordverlängerung von über 49 Stunden."
+    ],
+    [
+     "Sonntagmorgen",
+     "Veröffentlichung des neuen Textentwurfs durch den türkischen COP31-Vorsitz und den australischen Verhandlungsvorsitz."
+    ],
+    [
+     "Sonntagabend",
+     "Beendigung der COP31 nach einer langen Verlängerung."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Simon Stiell politician",
+     "bildunterschrift": "Uno-Klimachef Simon Stiell kündigte nach dem Verhandlungsergebnis Reformen des Konferenzprozesses an."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Antalya cityscape",
+     "bildunterschrift": "Die türkische Stadt Antalya war der Austragungsort der diesjährigen Uno-Klimakonferenz."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Solar panels renewable energy",
+     "bildunterschrift": "Erneuerbare Energien gewinnen laut Berichten unabhängig von UN-Beschlüssen an Bedeutung."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "United Nations headquarters",
+     "bildunterschrift": "Die Vereinten Nationen organisieren die internationalen Klimakonferenzen und das Rahmenabkommen."
+    }
+   ],
+   "ort": {
+    "name": "Antalya, Türkei"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das Datum im W-Fragen-Block wurde auf noch unklar gesetzt, da im Text kein konkretes Datum stand.",
+    "Die Dauer der Verlängerung im Artikel wurde auf eine lange Verlängerung angepasst.",
+    "Unbelegte Zahlen und ungesicherte Hintergrunddetails aus dem Entwurf wurden entfernt."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Abschlusserklärung",
+      "Ein gemeinsames Dokument am Ende einer Konferenz, in dem die teilnehmenden Staaten ihre Beschlüsse festhalten."
+     ],
+     [
+      "Konsensprinzip",
+      "Eine Regel, nach der alle beteiligten Staaten einer Entscheidung zustimmen müssen, damit sie gültig ist."
+     ],
+     [
+      "Fossile Energieträger",
+      "Brennstoffe wie Kohle, Erdöl und Erdgas, deren Verbrennung Treibhausgase freisetzt."
+     ]
+    ],
+    "fragen": [
+     "Welche Vor- und Nachteile hat das Konsensprinzip bei internationalen Verhandlungen?",
+     "Wie bewerten verschiedene Länder ihre Verantwortung für den historischen Ausstoß von Treibhausgasen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wo fand die Klimakonferenz COP31 statt?",
+      "optionen": [
+       "In Antalya, Türkei",
+       "In Dubai, Vereinigte Arabische Emirate",
+       "In Shenzhen, China"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD, Spiegel und BBC fand die COP31 in Antalya in der Türkei statt."
+     },
+     {
+      "frage": "Warum scheiterte die gemeinsame Abschlusserklärung?",
+      "optionen": [
+       "Wegen eines Streits über den Ausstieg aus fossilen Energieträgern und Finanzierungsfragen",
+       "Wegen eines Streits über den Austritt der Vereinigten Staaten aus dem Klimaabkommen",
+       "Wegen fehlender technischer Ausrüstung für die Konferenz"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichte von Tagesschau/ARD, Spiegel und BBC nennen den Streit um fossile Energieträger und Finanzierungsfragen als Hauptgrund."
+     },
+     {
+      "frage": "Welche Position vertraten Ölförderländer wie Saudi-Arabien und Russland?",
+      "optionen": [
+       "Sie forderten einen sofortigen Stopp von Kohle, Öl und Gas.",
+       "Sie lehnten Formulierungen zum Ausstieg aus fossilen Energieträgern ab.",
+       "Sie forderten zusätzliche finanzielle Hilfe für Entwicklungsländer."
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten aller drei Quellen lehnten Ölförderländer wie Saudi-Arabien und Russland entsprechende Formulierungen ab."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Weltklimakonferenz COP31 ist ohne eine gemeinsame Einigung zu Ende gegangen.",
+    "absaetze": [
+     "Die Konferenz fand in der Stadt Antalya in der Türkei statt.",
+     "Ein Grund für das Scheitern war der Streit über Kohle, Öl und Gas.",
+     "Länder wie Saudi-Arabien und Russland wollten keinen Ausstieg aus diesen Energien im Text stehen haben.",
+     "Eine große Mehrheit von etwa 130 Staaten forderte dagegen einen klaren Ausstieg.",
+     "Der Uno-Klimachef Simon Stiell kündigte an, die Abläufe der Konferenzen zu überprüfen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Uno-Klimakonferenz COP31 in Antalya ging ohne gemeinsame Abschlusserklärung zu Ende.",
+     "Ölförderländer blockierten Textteile zum Ausstieg aus fossilen Energieträgern.",
+     "Uno-Klimachef Simon Stiell kündigte an, den Verhandlungsprozess zu reformieren."
+    ],
+    "lang": [
+     "Die Uno-Klimakonferenz COP31 in der türkischen Stadt Antalya endete ohne eine gemeinsame Abschlusserklärung.",
+     "Nach Angaben der Berichte scheiterten die Verhandlungen am letzten Tag an unüberbrückbaren Gegensätzen.",
+     "Ein zentraler Streitpunkt war die Erwähnung eines Ausstiegs aus fossilen Energieträgern.",
+     "Etwa 130 Staaten forderten eine klare Abkehr von Kohle, Öl und Gas.",
+     "Länder wie Saudi-Arabien und Russland lehnten entsprechende Formulierungen ab.",
+     "Der saudi-arabische Verhandlungsführer Mohammad Ayoub erklärte nach Angaben der British Broadcasting Corporation, arabische Nationen hätten weniger als zwei Prozent der historischen Emissionen verursacht.",
+     "Der russische Delegierte Sergei Kononuchenko warnte vor Engpässen bei einem vorzeitigen Stopp von Öl und Gas.",
+     "Der Sprecher des chinesischen Außenministeriums Guo Jiakun bezeichnete das Scheitern laut dem Spiegel als enttäuschend, nannte den Trend zur Energiewende aber unumkehrbar.",
+     "Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzip des Konsenses, bei dem alle Staaten zustimmen müssen.",
+     "Uno-Klimachef Simon Stiell kündigte an, mögliche Reformen des Verhandlungsprozesses zu prüfen."
+    ],
+    "einfach": [
+     "Die Weltklimakonferenz in der Türkei ist ohne Einigung beendet worden.",
+     "Ein Grund dafür war der Streit um Öl und Kohle.",
+     "Einige Länder wollten keinen Ausstieg aus diesen Energien vereinbaren.",
+     "Eine Mehrheit von etwa 130 Staaten forderte diesen Ausstieg jedoch.",
+     "Der Uno-Klimachef will nun die Regeln für die Gespräche prüfen."
+    ]
+   },
+   "kurz": [
+    "Die Uno-Klimakonferenz COP31 in Antalya endete ohne gemeinsame Abschlusserklärung.",
+    "Ölförderländer blockierten Formulierungen zum Ausstieg aus fossilen Energieträgern.",
+    "Etwa 130 Staaten forderten eine klare Abkehr von Kohle, Öl und Gas.",
+    "Uno-Klimachef Simon Stiell kündigte Prüfungen für mögliche Prozessreformen an."
+   ],
+   "fakten": [
+    [
+     "Anzahl Staaten für Ausstieg aus fossilen Brennstoffen",
+     "etwa 130"
+    ],
+    [
+     "Anteil arabischer Nationen an historischen Emissionen",
+     "weniger als zwei Prozent"
+    ]
+   ],
+   "dossier": {
+    "slug": "klimakonferenz-cop31",
+    "titel": "Klimakonferenz COP31"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Antalya, Türkei",
+    "lat": 36.887,
+    "lon": 30.703
+   },
+   "version": 5
   },
   {
    "id": "ukraine-bruenke-angriff",
