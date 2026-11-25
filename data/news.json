@@ -2260,7 +2260,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 1 und 5 Grad. Die Vorhersage für morgen, D",
+   "d": "73ff8b47bc.mp3",
+   "l": 16.93,
+   "s": [
+    0.25,
+    3.78,
+    8.14,
+    11.52,
+    14.25
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2274,173 +2286,173 @@
   },
   "ansagen": [
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Dienstag, 24. No",
-    "d": "4caa01b2ba.mp3",
-    "l": 10.86,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Hauptausgabe vom Mittwoch, 25. No",
+    "d": "ce0243cef9.mp3",
+    "l": 10.73,
     "s": [
      0.25,
-     2.79,
-     6.68
+     2.65,
+     6.62
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Dienstag",
-    "d": "49b1b7a878.mp3",
-    "l": 10.86,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Heft in hundert Sekunden vom Mittwoch",
+    "d": "7cdf7cf34d.mp3",
+    "l": 11.04,
+    "s": [
+     0.25,
+     2.77,
+     7.24
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Mittwoch, 25. Nov",
+    "d": "7f8880198b.mp3",
+    "l": 10.74,
+    "s": [
+     0.25,
+     2.86,
+     6.65
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Mittwoch, 25. Novem",
+    "d": "4d9e856958.mp3",
+    "l": 10.61,
     "s": [
      0.25,
      2.7,
-     7.1
+     6.53
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Einfach erklärt vom Dienstag, 24. Nov",
-    "d": "37fda10223.mp3",
-    "l": 11.54,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Mittwoch, 25.",
+    "d": "6a724cc756.mp3",
+    "l": 10.55,
     "s": [
      0.25,
-     3.02,
-     7.42
+     2.74,
+     6.63
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Kurzmeldungen vom Dienstag, 24. Novem",
-    "d": "8664d224f8.mp3",
-    "l": 10.64,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Mittwoch",
+    "d": "adc0084fab.mp3",
+    "l": 11.06,
     "s": [
      0.25,
-     2.71,
-     6.34
+     2.7,
+     7.0
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Der Wochenrückblick vom Dienstag, 24.",
-    "d": "e18ce717b4.mp3",
-    "l": 10.64,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Mittwoch,",
+    "d": "9e1df39cb2.mp3",
+    "l": 11.5,
     "s": [
      0.25,
-     2.94,
-     6.88
+     2.95,
+     7.4
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um sechs Uhr vom Dienstag",
-    "d": "22822a38e0.mp3",
-    "l": 11.07,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Mittwoch",
+    "d": "901b8cb84f.mp3",
+    "l": 11.33,
     "s": [
      0.25,
-     2.78,
-     7.15
+     2.7,
+     7.25
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um neun Uhr vom Dienstag,",
-    "d": "49198f0325.mp3",
-    "l": 11.21,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Mittw",
+    "d": "87ef2cd3f1.mp3",
+    "l": 11.3,
     "s": [
      0.25,
-     2.78,
-     7.29
+     2.62,
+     7.28
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um zwölf Uhr vom Dienstag",
-    "d": "41391258e8.mp3",
-    "l": 11.11,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Mittw",
+    "d": "5ded523ce2.mp3",
+    "l": 10.86,
     "s": [
      0.25,
-     2.56,
-     7.34
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um fünfzehn Uhr vom Diens",
-    "d": "ccb00d9430.mp3",
-    "l": 11.42,
-    "s": [
-     0.25,
-     2.69,
-     7.44
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um achtzehn Uhr vom Diens",
-    "d": "546845fea6.mp3",
-    "l": 11.09,
-    "s": [
-     0.25,
-     2.67,
-     7.35
+     2.65,
+     7.01
     ]
    },
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Die Ausgabe um einundzwanzig Uhr vom ",
-    "d": "b6ed0aa390.mp3",
-    "l": 11.47,
+    "d": "40956938ac.mp3",
+    "l": 11.77,
     "s": [
      0.25,
-     2.64,
-     7.68
+     2.58,
+     7.56
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Dienstag, 24. Novembe",
-    "d": "d3556f1c90.mp3",
-    "l": 10.36,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Deutschland vom Mittwoch, 25. Novembe",
+    "d": "5d00d842b5.mp3",
+    "l": 9.96,
     "s": [
      0.25,
-     2.87,
-     6.41
+     2.62,
+     6.14
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Dienstag, 24. November. Es m",
-    "d": "bcbd305890.mp3",
-    "l": 10.27,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Mittwoch, 25. November. Es m",
+    "d": "0b48148b4d.mp3",
+    "l": 10.12,
     "s": [
      0.25,
-     2.66,
+     2.67,
+     6.09
+    ]
+   },
+   {
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Mittwoch, 25. November",
+    "d": "6c363212c6.mp3",
+    "l": 10.35,
+    "s": [
+     0.25,
+     2.67,
      6.3
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wirtschaft vom Dienstag, 24. November",
-    "d": "f53cb7b451.mp3",
-    "l": 10.11,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Mittwoch, 25. No",
+    "d": "9f4ecb4c18.mp3",
+    "l": 10.91,
     "s": [
      0.25,
-     2.7,
-     6.1
+     2.74,
+     7.0
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Wissen und Klima vom Dienstag, 24. No",
-    "d": "981951601e.mp3",
-    "l": 10.27,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Mittwoch, 25. November. Es ",
+    "d": "e31126bc2f.mp3",
+    "l": 10.03,
     "s": [
      0.25,
-     2.7,
-     6.41
+     2.73,
+     6.18
     ]
    },
    {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Sport vom Dienstag, 24. November. Es ",
-    "d": "fd7cdfc432.mp3",
-    "l": 10.28,
+    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Mittwoch, 25. November. Es",
+    "d": "f0d1e5a819.mp3",
+    "l": 10.4,
     "s": [
      0.25,
-     2.7,
-     6.3
-    ]
-   },
-   {
-    "k": "Herzlich willkommen beim Nachrichten-Heft. Region vom Dienstag, 24. November. Es",
-    "d": "f54c6c963c.mp3",
-    "l": 10.44,
-    "s": [
-     0.25,
-     2.77,
-     6.63
+     2.76,
+     6.32
     ]
    },
    {
