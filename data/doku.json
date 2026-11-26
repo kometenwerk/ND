@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-26T09:27:37.418Z",
+ "stand": "2026-11-26T19:34:45.710Z",
  "inArbeit": {
   "id": "die-geschichte-der-erdatmosphaere",
   "titel": "Die Geschichte der Erdatmosphäre",
@@ -11,8 +11,9 @@
     "ueberschrift": "Der Blick auf die Lufthülle",
     "wikipedia": "Erdatmosphäre",
     "fokus": "Dieses Kapitel beschreibt den Aufbau und die heutige Zusammensetzung der Lufthülle.",
-    "versuche": 2,
-    "zuDuenn": 1
+    "versuche": 3,
+    "zuDuenn": 1,
+    "fehlgeschlagen": true
    },
    {
     "ueberschrift": "Die Entstehung der Ur-Erde",

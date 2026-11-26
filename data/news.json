@@ -1,10 +1,6 @@
 {
- "stand": "2026-11-26T09:27:37.418Z",
+ "stand": "2026-11-26T19:34:45.710Z",
  "gepusht": [
-  "verbrenner-aus-aufweichung-deutschland-frankreich",
-  "trump-russland-sanktionen-ausgesetzt",
-  "trump-sprecherin-zacharia-ruecktritt",
-  "bundesliga-frankfurt-koeln",
   "siedlergewalt-westjordanland",
   "frankreich-proteste-eskalation",
   "kanada-militaerbasis-zwischenfall",
@@ -80,16 +76,23 @@
   "commerzbank-uebernahme",
   "anthropic-boersengang",
   "ukraine-bruenke-angriff",
-  "russland-atomwaffe-all"
+  "russland-atomwaffe-all",
+  "ezb-chefin-nachfolge-hernandez-de-cos",
+  "pro-iranische-terrorzelle-festnahmen",
+  "doping-sperre-laura-freigang",
+  "metall-tarifstreit-einigung"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
  "notified": [
-  "klimakonferenz-antalya-cop31",
-  "russland-atomwaffe-all"
+  "russland-atomwaffe-all",
+  "ezb-chefin-nachfolge-hernandez-de-cos",
+  "pro-iranische-terrorzelle-festnahmen",
+  "doping-sperre-laura-freigang",
+  "metall-tarifstreit-einigung"
  ],
  "wetter": {
-  "stand": "2026-11-26T09:27:37.418Z",
+  "stand": "2026-11-26T19:34:45.710Z",
   "morgenTag": "Freitag",
   "orte": [
    {
@@ -98,25 +101,25 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": -1,
-     "code": 0,
-     "gefuehlt": -4,
-     "wind": 5,
-     "windAus": 63,
-     "feuchte": 77,
-     "druck": 1023,
+     "grad": 1,
+     "code": 3,
+     "gefuehlt": -3,
+     "wind": 6,
+     "windAus": 31,
+     "feuchte": 90,
+     "druck": 1022,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
      "code": 3,
-     "max": 2,
+     "max": 3,
      "min": -2,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
      "wind": 9,
-     "windAus": 62,
+     "windAus": 58,
      "uv": 1.1,
      "auf": "08:05",
      "unter": "16:09"
@@ -128,8 +131,8 @@
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 93,
+     "wind": 15,
+     "windAus": 91,
      "uv": 1.1,
      "auf": "08:06",
      "unter": "16:08"
@@ -138,12 +141,12 @@
      {
       "datum": "2026-11-26",
       "code": 3,
-      "max": 2,
+      "max": 3,
       "min": -2,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 9,
-      "windAus": 62,
+      "windAus": 58,
       "uv": 1.1,
       "auf": "08:05",
       "unter": "16:09"
@@ -155,8 +158,8 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 93,
+      "wind": 15,
+      "windAus": 91,
       "uv": 1.1,
       "auf": "08:06",
       "unter": "16:08"
@@ -165,11 +168,11 @@
       "datum": "2026-11-28",
       "code": 3,
       "max": 0,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 17,
-      "windAus": 126,
+      "wind": 18,
+      "windAus": 127,
       "uv": 1.1,
       "auf": "08:08",
       "unter": "16:07"
@@ -177,13 +180,13 @@
      {
       "datum": "2026-11-29",
       "code": 61,
-      "max": 2,
+      "max": 1,
       "min": -1,
-      "regen": 43,
-      "menge": 3.1,
+      "regen": 45,
+      "menge": 0.5,
       "wind": 17,
-      "windAus": 143,
-      "uv": 0.7,
+      "windAus": 141,
+      "uv": 0.8,
       "auf": "08:10",
       "unter": "16:06"
      },
@@ -191,107 +194,47 @@
       "datum": "2026-11-30",
       "code": 45,
       "max": 3,
-      "min": 2,
-      "regen": 44,
-      "menge": 0.2,
-      "wind": 7,
-      "windAus": 209,
-      "uv": 0.5,
+      "min": 1,
+      "regen": 32,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 183,
+      "uv": 1.1,
       "auf": "08:11",
       "unter": "16:05"
      },
      {
       "datum": "2026-12-01",
-      "code": 45,
-      "max": 4,
-      "min": 2,
-      "regen": 5,
+      "code": 3,
+      "max": 3,
+      "min": -1,
+      "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 177,
-      "uv": 1,
+      "wind": 8,
+      "windAus": 147,
+      "uv": 1.1,
       "auf": "08:13",
       "unter": "16:04"
      },
      {
       "datum": "2026-12-02",
-      "code": 61,
-      "max": 3,
-      "min": 0,
-      "regen": 43,
+      "code": 3,
+      "max": 0,
+      "min": -2,
+      "regen": 51,
       "menge": 0,
-      "wind": 11,
-      "windAus": 179,
-      "uv": 1,
+      "wind": 7,
+      "windAus": 148,
+      "uv": 0.9,
       "auf": "08:14",
       "unter": "16:03"
      }
     ],
     "stunden": [
      {
-      "zeit": "10:00",
-      "grad": -1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
       "grad": 1,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -304,17 +247,17 @@
       "zeit": "22:00",
       "grad": 1,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 2,
+      "grad": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
+      "grad": 1,
       "code": 2,
       "regen": 0
      },
@@ -326,20 +269,20 @@
      },
      {
       "zeit": "02:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -1,
-      "code": 0,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 1,
+      "code": 2,
       "regen": 0
      },
      {
@@ -369,7 +312,67 @@
      {
       "zeit": "09:00",
       "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -380,15 +383,15 @@
     "lon": 13.4,
     "teil": "Osten",
     "jetzt": {
-     "grad": 0,
-     "code": 1,
-     "gefuehlt": -4,
-     "wind": 10,
-     "windAus": 57,
-     "feuchte": 76,
-     "druck": 1020,
+     "grad": -1,
+     "code": 0,
+     "gefuehlt": -5,
+     "wind": 11,
+     "windAus": 56,
+     "feuchte": 80,
+     "druck": 1019,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
@@ -397,8 +400,8 @@
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 14,
-     "windAus": 66,
+     "wind": 13,
+     "windAus": 62,
      "uv": 1.2,
      "auf": "07:46",
      "unter": "16:00"
@@ -406,12 +409,12 @@
     "morgen": {
      "datum": "2026-11-27",
      "code": 3,
-     "max": 0,
+     "max": -1,
      "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 13,
-     "windAus": 71,
+     "windAus": 74,
      "uv": 1.2,
      "auf": "07:48",
      "unter": "15:59"
@@ -424,8 +427,8 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
-      "windAus": 66,
+      "wind": 13,
+      "windAus": 62,
       "uv": 1.2,
       "auf": "07:46",
       "unter": "16:00"
@@ -433,12 +436,12 @@
      {
       "datum": "2026-11-27",
       "code": 3,
-      "max": 0,
+      "max": -1,
       "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 13,
-      "windAus": 71,
+      "windAus": 74,
       "uv": 1.2,
       "auf": "07:48",
       "unter": "15:59"
@@ -450,7 +453,7 @@
       "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 13,
+      "wind": 15,
       "windAus": 101,
       "uv": 1.2,
       "auf": "07:49",
@@ -459,13 +462,13 @@
      {
       "datum": "2026-11-29",
       "code": 3,
-      "max": 1,
-      "min": -3,
+      "max": 0,
+      "min": -4,
       "regen": 5,
       "menge": 0,
-      "wind": 12,
-      "windAus": 128,
-      "uv": 1.1,
+      "wind": 13,
+      "windAus": 124,
+      "uv": 1,
       "auf": "07:51",
       "unter": "15:57"
      },
@@ -473,37 +476,37 @@
       "datum": "2026-11-30",
       "code": 3,
       "max": 1,
-      "min": 0,
-      "regen": 15,
+      "min": -2,
+      "regen": 10,
       "menge": 0,
       "wind": 8,
-      "windAus": 172,
-      "uv": 1.1,
+      "windAus": 145,
+      "uv": 0.9,
       "auf": "07:52",
       "unter": "15:57"
      },
      {
       "datum": "2026-12-01",
-      "code": 3,
-      "max": 1,
-      "min": -2,
-      "regen": 7,
+      "code": 0,
+      "max": -1,
+      "min": -4,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 151,
-      "uv": 1,
+      "wind": 7,
+      "windAus": 140,
+      "uv": 1.1,
       "auf": "07:54",
       "unter": "15:56"
      },
      {
       "datum": "2026-12-02",
-      "code": 2,
-      "max": 0,
-      "min": -3,
-      "regen": 23,
+      "code": 0,
+      "max": -1,
+      "min": -5,
+      "regen": 22,
       "menge": 0,
-      "wind": 9,
-      "windAus": 171,
+      "wind": 6,
+      "windAus": 159,
       "uv": 1.1,
       "auf": "07:55",
       "unter": "15:55"
@@ -511,105 +514,45 @@
     ],
     "stunden": [
      {
-      "zeit": "10:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
       "grad": -1,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "21:00",
       "grad": -1,
-      "code": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "22:00",
       "grad": -1,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": -1,
-      "code": 3,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": -1,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
-      "code": 2,
+      "grad": -2,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": -2,
-      "code": 3,
+      "code": 1,
       "regen": 0
      },
      {
@@ -620,37 +563,97 @@
      },
      {
       "zeit": "04:00",
-      "grad": -1,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -1,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -1,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
+      "grad": -2,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": -2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
       "code": 3,
       "regen": 0
      }
@@ -662,25 +665,25 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": -1,
-     "code": 2,
-     "gefuehlt": -6,
-     "wind": 12,
-     "windAus": 63,
-     "feuchte": 66,
-     "druck": 1008,
+     "grad": 0,
+     "code": 3,
+     "gefuehlt": -4,
+     "wind": 7,
+     "windAus": 34,
+     "feuchte": 76,
+     "druck": 1007,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
      "code": 71,
      "max": 1,
      "min": -2,
-     "regen": 0,
+     "regen": 3,
      "menge": 0,
      "wind": 13,
-     "windAus": 58,
+     "windAus": 59,
      "uv": 1.4,
      "auf": "07:45",
      "unter": "16:09"
@@ -688,13 +691,13 @@
     "morgen": {
      "datum": "2026-11-27",
      "code": 77,
-     "max": -1,
+     "max": 0,
      "min": -1,
-     "regen": 58,
-     "menge": 0.1,
-     "wind": 10,
-     "windAus": 53,
-     "uv": 1,
+     "regen": 48,
+     "menge": 0,
+     "wind": 9,
+     "windAus": 54,
+     "uv": 1.3,
      "auf": "07:47",
      "unter": "16:08"
     },
@@ -704,10 +707,10 @@
       "code": 71,
       "max": 1,
       "min": -2,
-      "regen": 0,
+      "regen": 3,
       "menge": 0,
       "wind": 13,
-      "windAus": 58,
+      "windAus": 59,
       "uv": 1.4,
       "auf": "07:45",
       "unter": "16:09"
@@ -715,13 +718,13 @@
      {
       "datum": "2026-11-27",
       "code": 77,
-      "max": -1,
+      "max": 0,
       "min": -1,
-      "regen": 58,
-      "menge": 0.1,
-      "wind": 10,
-      "windAus": 53,
-      "uv": 1,
+      "regen": 48,
+      "menge": 0,
+      "wind": 9,
+      "windAus": 54,
+      "uv": 1.3,
       "auf": "07:47",
       "unter": "16:08"
      },
@@ -729,10 +732,10 @@
       "datum": "2026-11-28",
       "code": 3,
       "max": 0,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
+      "wind": 11,
       "windAus": 87,
       "uv": 1.4,
       "auf": "07:48",
@@ -743,10 +746,10 @@
       "code": 3,
       "max": 2,
       "min": -2,
-      "regen": 5,
+      "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 138,
+      "wind": 6,
+      "windAus": 123,
       "uv": 1.2,
       "auf": "07:50",
       "unter": "16:07"
@@ -755,103 +758,43 @@
       "datum": "2026-11-30",
       "code": 3,
       "max": 2,
-      "min": 1,
-      "regen": 20,
+      "min": -1,
+      "regen": 15,
       "menge": 0,
       "wind": 6,
-      "windAus": 199,
-      "uv": 1,
+      "windAus": 167,
+      "uv": 0.9,
       "auf": "07:51",
       "unter": "16:06"
      },
      {
       "datum": "2026-12-01",
-      "code": 3,
-      "max": 2,
-      "min": -2,
-      "regen": 4,
+      "code": 0,
+      "max": 0,
+      "min": -3,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 155,
-      "uv": 1.2,
+      "wind": 7,
+      "windAus": 154,
+      "uv": 1.1,
       "auf": "07:53",
       "unter": "16:05"
      },
      {
       "datum": "2026-12-02",
-      "code": 2,
-      "max": 1,
-      "min": -3,
-      "regen": 32,
+      "code": 1,
+      "max": 0,
+      "min": -4,
+      "regen": 19,
       "menge": 0,
-      "wind": 10,
+      "wind": 7,
       "windAus": 185,
-      "uv": 1.3,
+      "uv": 1.2,
       "auf": "07:54",
       "unter": "16:05"
      }
     ],
     "stunden": [
-     {
-      "zeit": "10:00",
-      "grad": -1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": -1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 0,
@@ -872,69 +815,129 @@
      },
      {
       "zeit": "23:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
-      "regen": 0
+      "regen": 3
      },
      {
       "zeit": "00:00",
       "grad": -1,
-      "code": 71,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": -1,
-      "code": 71,
-      "regen": 3
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": -1,
-      "code": 3,
-      "regen": 5
+      "code": 71,
+      "regen": 0
      },
      {
       "zeit": "03:00",
       "grad": -1,
-      "code": 3,
-      "regen": 18
+      "code": 71,
+      "regen": 8
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 3,
-      "regen": 28
+      "code": 71,
+      "regen": 3
      },
      {
       "zeit": "05:00",
       "grad": -1,
       "code": 3,
-      "regen": 38
+      "regen": 0
      },
      {
       "zeit": "06:00",
       "grad": -1,
       "code": 3,
-      "regen": 48
+      "regen": 8
      },
      {
       "zeit": "07:00",
       "grad": -1,
-      "code": 71,
-      "regen": 50
+      "code": 3,
+      "regen": 13
      },
      {
       "zeit": "08:00",
       "grad": -1,
-      "code": 71,
-      "regen": 45
+      "code": 3,
+      "regen": 20
      },
      {
       "zeit": "09:00",
       "grad": -1,
-      "code": 71,
-      "regen": 58
+      "code": 3,
+      "regen": 43
+     },
+     {
+      "zeit": "10:00",
+      "grad": -1,
+      "code": 77,
+      "regen": 48
+     },
+     {
+      "zeit": "11:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 25
+     },
+     {
+      "zeit": "12:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 3
+     },
+     {
+      "zeit": "13:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
      }
     ]
    },
@@ -944,15 +947,15 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 0,
-     "code": 0,
-     "gefuehlt": -4,
-     "wind": 7,
-     "windAus": 64,
-     "feuchte": 70,
-     "druck": 1012,
+     "grad": 1,
+     "code": 3,
+     "gefuehlt": -3,
+     "wind": 10,
+     "windAus": 66,
+     "feuchte": 71,
+     "druck": 1013,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
@@ -961,8 +964,8 @@
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 65,
+     "wind": 10,
+     "windAus": 45,
      "uv": 1.4,
      "auf": "08:05",
      "unter": "16:32"
@@ -971,11 +974,11 @@
      "datum": "2026-11-27",
      "code": 3,
      "max": 2,
-     "min": -3,
+     "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 9,
-     "windAus": 102,
+     "windAus": 95,
      "uv": 1.5,
      "auf": "08:07",
      "unter": "16:32"
@@ -988,8 +991,8 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 65,
+      "wind": 10,
+      "windAus": 45,
       "uv": 1.4,
       "auf": "08:05",
       "unter": "16:32"
@@ -998,11 +1001,11 @@
       "datum": "2026-11-27",
       "code": 3,
       "max": 2,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 9,
-      "windAus": 102,
+      "windAus": 95,
       "uv": 1.5,
       "auf": "08:07",
       "unter": "16:32"
@@ -1014,7 +1017,7 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 18,
+      "wind": 21,
       "windAus": 134,
       "uv": 1.5,
       "auf": "08:08",
@@ -1022,39 +1025,39 @@
      },
      {
       "datum": "2026-11-29",
-      "code": 51,
-      "max": 4,
+      "code": 3,
+      "max": 3,
       "min": 0,
-      "regen": 53,
-      "menge": 1.7,
+      "regen": 72,
+      "menge": 0,
       "wind": 17,
-      "windAus": 134,
+      "windAus": 135,
       "uv": 1,
       "auf": "08:10",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-30",
-      "code": 51,
+      "code": 3,
       "max": 4,
       "min": 1,
-      "regen": 15,
-      "menge": 0.3,
-      "wind": 10,
-      "windAus": 157,
-      "uv": 0.7,
+      "regen": 24,
+      "menge": 0,
+      "wind": 8,
+      "windAus": 145,
+      "uv": 1.3,
       "auf": "08:11",
       "unter": "16:29"
      },
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": 5,
+      "max": 4,
       "min": 0,
-      "regen": 8,
+      "regen": 2,
       "menge": 0,
       "wind": 13,
-      "windAus": 146,
+      "windAus": 145,
       "uv": 1.3,
       "auf": "08:12",
       "unter": "16:29"
@@ -1063,20 +1066,104 @@
       "datum": "2026-12-02",
       "code": 55,
       "max": 5,
-      "min": 2,
-      "regen": 41,
+      "min": 1,
+      "regen": 46,
       "menge": 7.8,
       "wind": 14,
-      "windAus": 142,
-      "uv": 1.3,
+      "windAus": 141,
+      "uv": 1,
       "auf": "08:14",
       "unter": "16:28"
      }
     ],
     "stunden": [
      {
-      "zeit": "10:00",
+      "zeit": "20:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "22:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "23:00",
       "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "00:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "01:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "02:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "03:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "05:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": -2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": -2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
@@ -1088,133 +1175,49 @@
      },
      {
       "zeit": "12:00",
-      "grad": 2,
-      "code": 2,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "13:00",
-      "grad": 2,
-      "code": 3,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "14:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "15:00",
-      "grad": 3,
-      "code": 2,
+      "grad": 2,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "16:00",
-      "grad": 3,
-      "code": 1,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "17:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "18:00",
-      "grad": 3,
-      "code": 3,
+      "grad": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "19:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
       "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "23:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "00:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "01:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "02:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": -2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": -2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": -2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": -3,
       "code": 0,
       "regen": 0
      }
@@ -1226,15 +1229,15 @@
     "lon": 8.68,
     "teil": "Westen",
     "jetzt": {
-     "grad": 1,
+     "grad": 0,
      "code": 3,
-     "gefuehlt": -3,
+     "gefuehlt": -4,
      "wind": 9,
-     "windAus": 24,
+     "windAus": 40,
      "feuchte": 73,
-     "druck": 1006,
+     "druck": 1007,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
@@ -1243,21 +1246,21 @@
      "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 14,
+     "wind": 13,
      "windAus": 27,
-     "uv": 1.5,
+     "uv": 1.4,
      "auf": "07:55",
      "unter": "16:29"
     },
     "morgen": {
      "datum": "2026-11-27",
      "code": 3,
-     "max": 1,
-     "min": -2,
+     "max": 2,
+     "min": -1,
      "regen": 0,
      "menge": 0,
      "wind": 8,
-     "windAus": 36,
+     "windAus": 34,
      "uv": 1.5,
      "auf": "07:56",
      "unter": "16:28"
@@ -1270,34 +1273,34 @@
       "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 14,
+      "wind": 13,
       "windAus": 27,
-      "uv": 1.5,
+      "uv": 1.4,
       "auf": "07:55",
       "unter": "16:29"
      },
      {
       "datum": "2026-11-27",
       "code": 3,
-      "max": 1,
-      "min": -2,
+      "max": 2,
+      "min": -1,
       "regen": 0,
       "menge": 0,
       "wind": 8,
-      "windAus": 36,
+      "windAus": 34,
       "uv": 1.5,
       "auf": "07:56",
       "unter": "16:28"
      },
      {
       "datum": "2026-11-28",
-      "code": 3,
+      "code": 2,
       "max": 2,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 10,
-      "windAus": 77,
+      "wind": 7,
+      "windAus": 73,
       "uv": 1.5,
       "auf": "07:58",
       "unter": "16:27"
@@ -1307,11 +1310,11 @@
       "code": 61,
       "max": 1,
       "min": -2,
-      "regen": 67,
-      "menge": 2.5,
+      "regen": 50,
+      "menge": 0.1,
       "wind": 5,
-      "windAus": 119,
-      "uv": 1.3,
+      "windAus": 101,
+      "uv": 1.2,
       "auf": "07:59",
       "unter": "16:27"
      },
@@ -1319,103 +1322,43 @@
       "datum": "2026-11-30",
       "code": 61,
       "max": 2,
-      "min": 1,
-      "regen": 67,
-      "menge": 1.4,
+      "min": -1,
+      "regen": 50,
+      "menge": 0.5,
       "wind": 3,
-      "windAus": 45,
-      "uv": 1.3,
+      "windAus": 42,
+      "uv": 1.4,
       "auf": "08:00",
       "unter": "16:26"
      },
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": 4,
-      "min": 0,
-      "regen": 2,
+      "max": 0,
+      "min": -3,
+      "regen": 3,
       "menge": 0,
-      "wind": 6,
-      "windAus": 79,
-      "uv": 1.4,
+      "wind": 3,
+      "windAus": 80,
+      "uv": 1.5,
       "auf": "08:02",
       "unter": "16:25"
      },
      {
       "datum": "2026-12-02",
-      "code": 61,
-      "max": 5,
-      "min": 0,
-      "regen": 32,
-      "menge": 1.2,
-      "wind": 6,
-      "windAus": 171,
-      "uv": 1.4,
+      "code": 45,
+      "max": 2,
+      "min": -2,
+      "regen": 34,
+      "menge": 0,
+      "wind": 5,
+      "windAus": 124,
+      "uv": 1.2,
       "auf": "08:03",
       "unter": "16:25"
      }
     ],
     "stunden": [
-     {
-      "zeit": "10:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "20:00",
       "grad": 0,
@@ -1436,68 +1379,128 @@
      },
      {
       "zeit": "23:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -2,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -1508,39 +1511,39 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 0,
+     "grad": 1,
      "code": 3,
-     "gefuehlt": -4,
-     "wind": 7,
-     "windAus": 3,
+     "gefuehlt": -2,
+     "wind": 2,
+     "windAus": 351,
      "feuchte": 76,
-     "druck": 986,
+     "druck": 987,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
      "code": 61,
-     "max": 2,
+     "max": 1,
      "min": -1,
      "regen": 5,
      "menge": 0,
      "wind": 10,
-     "windAus": 29,
+     "windAus": 20,
      "uv": 1.5,
      "auf": "07:48",
      "unter": "16:32"
     },
     "morgen": {
      "datum": "2026-11-27",
-     "code": 71,
-     "max": 1,
+     "code": 77,
+     "max": 2,
      "min": -1,
-     "regen": 3,
+     "regen": 0,
      "menge": 0,
-     "wind": 8,
-     "windAus": 23,
-     "uv": 1.5,
+     "wind": 9,
+     "windAus": 17,
+     "uv": 1.1,
      "auf": "07:49",
      "unter": "16:31"
     },
@@ -1548,26 +1551,26 @@
      {
       "datum": "2026-11-26",
       "code": 61,
-      "max": 2,
+      "max": 1,
       "min": -1,
       "regen": 5,
       "menge": 0,
       "wind": 10,
-      "windAus": 29,
+      "windAus": 20,
       "uv": 1.5,
       "auf": "07:48",
       "unter": "16:32"
      },
      {
       "datum": "2026-11-27",
-      "code": 71,
-      "max": 1,
+      "code": 77,
+      "max": 2,
       "min": -1,
-      "regen": 3,
+      "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 23,
-      "uv": 1.5,
+      "wind": 9,
+      "windAus": 17,
+      "uv": 1.1,
       "auf": "07:49",
       "unter": "16:31"
      },
@@ -1578,60 +1581,60 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 8,
-      "windAus": 119,
+      "wind": 9,
+      "windAus": 116,
       "uv": 1.6,
       "auf": "07:50",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
-      "code": 61,
+      "code": 3,
       "max": 3,
-      "min": -3,
-      "regen": 56,
-      "menge": 0.1,
+      "min": -2,
+      "regen": 43,
+      "menge": 0,
       "wind": 4,
-      "windAus": 159,
+      "windAus": 156,
       "uv": 1.5,
       "auf": "07:52",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-30",
-      "code": 61,
+      "code": 45,
       "max": 3,
-      "min": 1,
-      "regen": 69,
-      "menge": 1.4,
-      "wind": 2,
-      "windAus": 315,
-      "uv": 1.3,
+      "min": 0,
+      "regen": 50,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 311,
+      "uv": 1.2,
       "auf": "07:53",
       "unter": "16:30"
      },
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": 3,
-      "min": 0,
+      "max": 2,
+      "min": -2,
       "regen": 3,
       "menge": 0,
-      "wind": 8,
-      "windAus": 105,
-      "uv": 1.5,
+      "wind": 4,
+      "windAus": 128,
+      "uv": 1.6,
       "auf": "07:54",
       "unter": "16:29"
      },
      {
       "datum": "2026-12-02",
-      "code": 61,
-      "max": 6,
-      "min": 0,
+      "code": 1,
+      "max": 3,
+      "min": -3,
       "regen": 20,
-      "menge": 0.2,
+      "menge": 0,
       "wind": 4,
-      "windAus": 183,
+      "windAus": 179,
       "uv": 1.4,
       "auf": "07:56",
       "unter": "16:28"
@@ -1639,68 +1642,8 @@
     ],
     "stunden": [
      {
-      "zeit": "10:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "11:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "12:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "13:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "20:00",
-      "grad": 2,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
@@ -1724,25 +1667,25 @@
      },
      {
       "zeit": "00:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
@@ -1750,7 +1693,7 @@
       "zeit": "04:00",
       "grad": 0,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "05:00",
@@ -1779,6 +1722,66 @@
      {
       "zeit": "09:00",
       "grad": 0,
+      "code": 77,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 1,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 61,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
       "code": 3,
       "regen": 0
      }
@@ -1790,39 +1793,39 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": -2,
-     "code": 71,
-     "gefuehlt": -5,
-     "wind": 7,
-     "windAus": 9,
-     "feuchte": 88,
-     "druck": 951,
-     "niederschlag": 0.1,
-     "tag": 1
+     "grad": -1,
+     "code": 77,
+     "gefuehlt": -4,
+     "wind": 4,
+     "windAus": 308,
+     "feuchte": 91,
+     "druck": 954,
+     "niederschlag": 0,
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-26",
      "code": 77,
      "max": 0,
      "min": -2,
-     "regen": 85,
-     "menge": 6.4,
+     "regen": 98,
+     "menge": 2.4,
      "wind": 11,
-     "windAus": 42,
+     "windAus": 39,
      "uv": 0.4,
      "auf": "07:36",
      "unter": "16:25"
     },
     "morgen": {
      "datum": "2026-11-27",
-     "code": 77,
+     "code": 51,
      "max": 0,
      "min": -1,
      "regen": 3,
      "menge": 0,
-     "wind": 7,
-     "windAus": 48,
-     "uv": 1.5,
+     "wind": 8,
+     "windAus": 63,
+     "uv": 1.6,
      "auf": "07:37",
      "unter": "16:24"
     },
@@ -1832,49 +1835,49 @@
       "code": 77,
       "max": 0,
       "min": -2,
-      "regen": 85,
-      "menge": 6.4,
+      "regen": 98,
+      "menge": 2.4,
       "wind": 11,
-      "windAus": 42,
+      "windAus": 39,
       "uv": 0.4,
       "auf": "07:36",
       "unter": "16:25"
      },
      {
       "datum": "2026-11-27",
-      "code": 77,
+      "code": 51,
       "max": 0,
       "min": -1,
       "regen": 3,
       "menge": 0,
-      "wind": 7,
-      "windAus": 48,
-      "uv": 1.5,
+      "wind": 8,
+      "windAus": 63,
+      "uv": 1.6,
       "auf": "07:37",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 0,
+      "max": 1,
       "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 89,
+      "wind": 12,
+      "windAus": 87,
       "uv": 1.7,
       "auf": "07:38",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-29",
-      "code": 45,
-      "max": 0,
+      "code": 48,
+      "max": -1,
       "min": -4,
-      "regen": 18,
+      "regen": 8,
       "menge": 0,
       "wind": 8,
-      "windAus": 109,
+      "windAus": 105,
       "uv": 1.7,
       "auf": "07:40",
       "unter": "16:23"
@@ -1882,12 +1885,12 @@
      {
       "datum": "2026-11-30",
       "code": 3,
-      "max": 2,
-      "min": -1,
-      "regen": 53,
+      "max": 1,
+      "min": -3,
+      "regen": 28,
       "menge": 0,
       "wind": 4,
-      "windAus": 31,
+      "windAus": 52,
       "uv": 1.3,
       "auf": "07:41",
       "unter": "16:22"
@@ -1895,160 +1898,100 @@
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": 0,
-      "min": -2,
-      "regen": 7,
+      "max": -3,
+      "min": -5,
+      "regen": 4,
       "menge": 0,
-      "wind": 9,
-      "windAus": 82,
-      "uv": 1.5,
+      "wind": 4,
+      "windAus": 134,
+      "uv": 1.7,
       "auf": "07:42",
       "unter": "16:22"
      },
      {
       "datum": "2026-12-02",
-      "code": 45,
-      "max": 2,
-      "min": -3,
-      "regen": 11,
+      "code": 2,
+      "max": 0,
+      "min": -5,
+      "regen": 1,
       "menge": 0,
       "wind": 4,
-      "windAus": 154,
-      "uv": 1.5,
+      "windAus": 109,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:21"
      }
     ],
     "stunden": [
      {
-      "zeit": "10:00",
-      "grad": -2,
-      "code": 71,
-      "regen": 23
-     },
-     {
-      "zeit": "11:00",
-      "grad": -2,
-      "code": 71,
-      "regen": 28
-     },
-     {
-      "zeit": "12:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 63
-     },
-     {
-      "zeit": "13:00",
-      "grad": -1,
-      "code": 73,
-      "regen": 68
-     },
-     {
-      "zeit": "14:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 75
-     },
-     {
-      "zeit": "15:00",
-      "grad": -1,
-      "code": 73,
-      "regen": 78
-     },
-     {
-      "zeit": "16:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 85
-     },
-     {
-      "zeit": "17:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 80
-     },
-     {
-      "zeit": "18:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 70
-     },
-     {
-      "zeit": "19:00",
-      "grad": -1,
-      "code": 71,
-      "regen": 53
-     },
-     {
       "zeit": "20:00",
       "grad": -1,
       "code": 71,
-      "regen": 35
+      "regen": 68
      },
      {
       "zeit": "21:00",
       "grad": -1,
-      "code": 3,
-      "regen": 15
+      "code": 77,
+      "regen": 28
      },
      {
       "zeit": "22:00",
       "grad": -1,
-      "code": 71,
+      "code": 3,
       "regen": 10
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 77,
-      "regen": 3
+      "grad": -1,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": 0,
-      "code": 77,
-      "regen": 3
+      "grad": -1,
+      "code": 3,
+      "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": 0,
-      "code": 77,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
-      "regen": 3
+      "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
       "regen": 3
      },
@@ -2061,6 +2004,66 @@
      {
       "zeit": "09:00",
       "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 0,
+      "code": 51,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 0,
       "code": 3,
       "regen": 0
      }
@@ -2106,19 +2109,19 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 0,
+       "grad": -1,
        "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 2,
+       "grad": 1,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 1,
+       "grad": 0,
        "regen": 0
       }
      ]
@@ -2129,20 +2132,20 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": -1,
-       "regen": 0.1
+       "grad": 0,
+       "regen": 0
       },
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 0,
-       "regen": 0.9
+       "grad": 1,
+       "regen": 0.7
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 0,
-       "regen": 0.4
+       "regen": 0.9
       }
      ]
     },
@@ -2175,7 +2178,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 0,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2198,7 +2201,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 1,
+       "grad": 2,
        "regen": 0
       },
       {
@@ -2227,7 +2230,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 1,
+       "grad": 0,
        "regen": 0
       },
       {
@@ -2242,7 +2245,7 @@
    "spanneGrad": 2,
    "uneinigRegen": null,
    "saetze": [
-    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen 0 und 2 Grad."
+    "Für Berlin gehen die Modelle am weitesten auseinander: zwischen -1 und 1 Grad."
    ],
    "dienste": [
     "ICON (Deutscher Wetterdienst)",
@@ -2250,19 +2253,7 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst",
-  "ton": {
-   "k": "Heute liegen die Höchstwerte zwischen 0 und 3 Grad. Die Vorhersage für morgen, F",
-   "d": "eb54b064a4.mp3",
-   "l": 17.06,
-   "s": [
-    0.25,
-    3.59,
-    7.98,
-    11.67,
-    14.39
-   ]
-  }
+  "quelle": "Open-Meteo / Deutscher Wetterdienst"
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2465,6 +2456,1616 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "ezb-chefin-nachfolge-hernandez-de-cos",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-26T19:29:26.000Z",
+   "titel": "Personalentscheidungen an der Spitze der Europäischen Zentralbank",
+   "vorspann": "Die Staats- und Regierungschefs der Europäischen Union haben sich auf Pablo Hernández de Cos als Nachfolger von EZB-Chefin Christine Lagarde geeinigt. Zudem wurden weitere personelle Vorschläge für das Direktorium der Notenbank bekannt.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Die Staats- und Regierungschefs der EU haben sich auf Pablo Hernández de Cos als Nachfolger von EZB-Chefin Christine Lagarde verständigt.",
+    "Lagarde tritt Anfang Februar von ihrem Posten bei der Europäischen Zentralbank zurück.",
+    "Für weitere Posten im EZB-Direktorium wurden der Deutsche Markus Brunnermeier als Chefvolkswirt und die Französin Laurence Boone benannt.",
+    "Der EU-Gipfel in Brüssel befasst sich parallel dazu mit Streitigkeiten um das EU-Budget und die Finanzierung der Ukraine."
+   ],
+   "einig": [
+    [
+     "Pablo Hernández de Cos soll neuer EZB-Chef werden.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung",
+      "ORF"
+     ]
+    ],
+    [
+     "Die Entscheidung fiel auf dem EU-Gipfel in Brüssel.",
+     [
+      "Deutschlandfunk",
+      "Süddeutsche Zeitung",
+      "ORF"
+     ]
+    ],
+    [
+     "Christine Lagarde tritt im Februar vorzeitig zurück.",
+     [
+      "Süddeutsche Zeitung",
+      "ORF"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die formale Bestätigung durch das Europäische Parlament und den EZB-Rat im Dezember reibungslos verläuft, ist noch abzuwarten."
+   ],
+   "positionen": [
+    [
+     "Emmanuel Macron (Französischer Präsident)",
+     "Teilte die Einigung der EU-Staats- und Regierungschefs auf de Cos mit.",
+     "Deutschlandfunk,ORF"
+    ],
+    [
+     "Christine Lagarde (Amtierende EZB-Präsidentin)",
+     "Begründete ihren Rücktritt mit dem Wunsch nach Redefreiheit und mangelnder Neutralität in der aktuellen Zeit.",
+     "Süddeutsche Zeitung"
+    ],
+    [
+     "Pedro Sanchez (Spaniens Regierungschef)",
+     "Erklärte, Spanien habe nun eine beispiellose Führungsrolle in Europa.",
+     "ORF"
+    ],
+    [
+     "Christian Stocker (Österreichischer Bundeskanzler)",
+     "Lehnte das aktuelle Budgetvolumen ab und betonte die Wichtigkeit der Landwirtschaft.",
+     "ORF"
+    ],
+    [
+     "Friedrich Merz (Deutscher Kanzler)",
+     "Kritisierte das zu hohe Budgetvolumen und sprach sich gegen neue Schulden aus.",
+     "ORF"
+    ],
+    [
+     "Andrej Babis (Tschechischer Premier)",
+     "Forderte separate Verhandlungen zur Ukraine-Finanzierung anstelle einer Verknüpfung mit dem EU-Budget.",
+     "ORF"
+    ]
+   ],
+   "fehlend": "Stimmen aus dem Europäischen Parlament oder von den betroffenen Kandidaten selbst (wie Hernández de Cos oder Knot) zu ihrer Nominierung bzw. Nichtnominierung.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 20:11",
+     "fokus": "Kompakte Ankündigung",
+     "text": "Die Tagesschau meldet in einer kurzen Meldung die Entscheidung über die Nachfolge von Christine Lagarde.",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1690620.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 20:29",
+     "fokus": "Meldung vom EU-Gipfel",
+     "text": "Der Deutschlandfunk nennt die Einigung der Staats- und Regierungschefs nach Mitteilung von Präsident Macron.",
+     "url": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-102.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "26.11.26, 16:08",
+     "fokus": "Hintergründe zur Personalie",
+     "text": "Die Süddeutsche Zeitung liefert ausführliche Details zu den Kandidaten, den Unterstützern und Lagardes Rücktrittsgründen.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/de-cos-lagarde-ezb-nachfolge-li.3586728",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 434,
+      "satzlaenge": 17,
+      "langeWoerter": 38
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "ORF",
+     "typ": "öffentlich-rechtlich (Österreich)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "26.11.26, 16:43",
+     "fokus": "EU-Gipfel und Budgetstreit",
+     "text": "Der ORF berichtet neben der EZB-Personalie detailliert über die Verhandlungen zum EU-Budget und zur Ukraine-Finanzierung.",
+     "url": "https://orf.at/stories/3449372/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 4,
+      "woerter": 864,
+      "satzlaenge": 17,
+      "langeWoerter": 36
+     },
+     "traeger": "Österreichischer Rundfunk, Stiftung öffentlichen Rechts",
+     "finanzierung": "Haushaltsabgabe",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Thematische Breite",
+     "Während Tagesschau und Deutschlandfunk sich fast ausschließlich auf die Personalie de Cos konzentrieren, behandeln Süddeutsche Zeitung und ORF auch die weiteren Direktoriumsposten sowie die breiteren Themen des EU-Sondergipfels."
+    ]
+   ],
+   "wfragen": {
+    "wer": "EU-Staats- und Regierungschefs, Pablo Hernández de Cos",
+    "was": "Einigung auf neuen EZB-Präsidenten",
+    "wann": "2026-11-26",
+    "wo": "Brüssel",
+    "wie": "Laut Berichten durch Einigung auf dem EU-Gipfel",
+    "warum": "Vorzeitiger Rücktritt von Christine Lagarde laut Süddeutsche Zeitung",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Süddeutsche Zeitung, ORF"
+   },
+   "artikel": [],
+   "zeitleiste": [
+    [
+     "Ende Oktober 2026",
+     "Christine Lagarde kündigte ihren vorzeitigen Rücktritt von der EZB-Spitze an."
+    ],
+    [
+     "26. November 2026",
+     "Die EU-Staats- und Regierungschefs einigten sich auf dem Gipfel in Brüssel auf Pablo Hernández de Cos als neuen EZB-Chef."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Pablo Hernandez de Cos economist",
+     "bildunterschrift": "Pablo Hernández de Cos ist als neuer Präsident der Europäischen Zentralbank vorgesehen."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "European Central Bank headquarters Frankfurt",
+     "bildunterschrift": "Das Hauptgebäude der Europäischen Zentralbank in Frankfurt am Main."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Christine Lagarde politician",
+     "bildunterschrift": "Die amtierende EZB-Präsidentin Christine Lagarde tritt im Februar vorzeitig von ihrem Amt zurück."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "European Council Brussels building",
+     "bildunterschrift": "Der Tagungsort des EU-Sondergipfels in Brüssel."
+    }
+   ],
+   "ort": {
+    "name": "Brüssel, Belgien"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Europäische Zentralbank",
+      "Die Bank für die Länder, die den Euro als Währung nutzen. Sie entscheidet über die Zinsen und sorgt für stabiles Geld."
+     ],
+     [
+      "Leitzins",
+      "Der Zins, zu dem sich Geschäftsbanken Geld bei der Zentralbank leihen können. Das beeinflusst Kredite und Sparzinsen für alle Bürger."
+     ],
+     [
+      "Nettozahler",
+      "Länder in der Europäischen Union, die mehr Geld an die Gemeinschaft bezahlen, als sie direkt als Förderung zurückerhalten."
+     ]
+    ],
+    "fragen": [
+     "Welche Aufgaben hat die Europäische Zentralbank und warum ist die Besetzung der Führungsposition wichtig für die Wirtschaft?",
+     "Wie bewertet ihr die Tatsache, dass wichtige Posten in der Europäischen Union von den Regierungschefs hinter verschlossenen Türen verhandelt werden?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer soll neuer Präsident der Europäischen Zentralbank werden?",
+      "optionen": [
+       "Klaas Knot",
+       "Pablo Hernández de Cos",
+       "Markus Brunnermeier"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Staats- und Regierungschefs einigten sich auf den Spanier Pablo Hernández de Cos als Nachfolger von Christine Lagarde."
+     },
+     {
+      "frage": "Wann tritt die amtierende EZB-Chefin Christine Lagarde zurück?",
+      "optionen": [
+       "Anfang Februar",
+       "Ende Oktober",
+       "Im Dezember"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut den Berichten tritt Christine Lagarde Anfang Februar vorzeitig von ihrem Posten ab."
+     },
+     {
+      "frage": "Wo fand das Treffen der EU-Staats- und Regierungschefs statt, bei dem die Entscheidung fiel?",
+      "optionen": [
+       "Frankfurt am Main",
+       "Paris",
+       "Brüssel"
+      ],
+      "richtig": 2,
+      "erklaerung": "Die Entscheidung wurde nach übereinstimmenden Berichten auf dem EU-Gipfel in Brüssel getroffen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Regierungen der Europäischen Union haben einen neuen Chef für die Europäische Zentralbank ausgesucht.",
+    "absaetze": [
+     "Der Spanier Pablo Hernández de Cos soll neuer Präsident der Europäischen Zentralbank werden. Darauf einigten sich die Staats- und Regierungschefs bei einem Treffen in Brüssel.",
+     "Die bisherige Chefin Christine Lagarde tritt im kommenden Februar vorzeitig von ihrem Posten zurück. Die Europäische Zentralbank bestimmt die Geldpolitik und die Zinsen im Euroraum.",
+     "Bevor der neue Chef sein Amt antreten kann, müssen das Europäische Parlament und der Rat der Zentralbank angehört werden. Die endgültige Ernennung ist für ein Gipfeltreffen im Dezember geplant."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Staats und Regierungschefs der Europäischen Union haben sich auf Pablo Hernandez de Cos als neuen Chef der Europäischen Zentralbank geeinigt.",
+     "Die bisherige Präsidentin Christine Lagarde tritt Anfang Februar vorzeitig von ihrem Amt zurück.",
+     "Auf dem Gipfel in Brüssel sprachen die Politiker zudem über den Haushalt der Europäischen Union."
+    ],
+    "lang": [
+     "Die Staats und Regierungschefs der Europäischen Union haben sich auf Pablo Hernandez de Cos als neuen Chef der Europäischen Zentralbank geeinigt.",
+     "Das teilte der französische Präsident Emmanuel Macron am Donnerstag mit.",
+     "Der Spanier soll die Nachfolge von Christine Lagarde antreten.",
+     "Lagarde tritt nach Berichten der Suddeutschen Zeitung Anfang Februar vorzeitig von ihrem Posten zurück.",
+     "Der fünfundfünfzigjährige Hernandez de Cos ist derzeit Chef der Bank für Internationalen Zahlungsausgleich.",
+     "Bevor er sein Amt antreten kann, müssen das Europäische Parlament und der Rat der Zentralbank angehört werden.",
+     "Nach Angaben des Senders ORF ging es auf dem Gipfel in Brüssel auch um Streitigkeiten beim Haushalt der Europäischen Union.",
+     "Die Europäische Zentralbank hat ihren Sitz in Frankfurt am Main und bestimmt die Zinsen im Euroraum.",
+     "Das oberste Ziel der Bank ist Preisstabilität und eine niedrige Inflation.",
+     "Die endgültige Ernennung der neuen Spitze ist für ein Gipfeltreffen im Dezember geplant."
+    ],
+    "einfach": [
+     "Die Europäische Union bekommt einen neuen Chef für die Geldpolitik.",
+     "Der Spanier Pablo Hernandez de Cos soll die Nachfolge der bisherigen Chefin antreten.",
+     "Christine Lagarde tritt im Februar vorzeitig von ihrem Posten zurück.",
+     "Darauf einigten sich die Regierungschefs bei einem Treffen in Brüssel.",
+     "Die Europäische Zentralbank entscheidet über die Zinsen für die Menschen in Europa."
+    ]
+   },
+   "kurz": [
+    "Die Staats- und Regierungschefs der Europäischen Union haben sich auf Pablo Hernández de Cos als neuen Chef der Europäischen Zentralbank geeinigt.",
+    "Die amtierende Präsidentin Christine Lagarde tritt Anfang Februar vorzeitig von ihrem Amt zurück.",
+    "Auf dem Gipfel in Brüssel gab es zudem Streitigkeiten über den Haushalt der Europäischen Union."
+   ],
+   "fakten": [
+    [
+     "Alter von Hernández de Cos",
+     "55 Jahre"
+    ],
+    [
+     "Amtszeit einer EZB-Präsidentschaft",
+     "acht Jahre"
+    ],
+    [
+     "Geplantes Gipfeltreffen zur Ernennung",
+     "Dezember"
+    ]
+   ],
+   "dossier": {
+    "slug": "ezb-fuehrungswechsel-2026",
+    "titel": "Wechsel an der Spitze der Europäischen Zentralbank"
+   },
+   "bildInfo": {
+    "titel": "Pablo Hernandez de Cos - official portrait 2025.jpg",
+    "beschreibung": "Pablo Hernández de Cos - General Manager at the Bank for International Settlements",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+    "urheber": "Chospo",
+    "lizenz": "CC0",
+    "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "artikel": "Pablo Hernández de Cos",
+    "sprache": "en",
+    "art": "person",
+    "suchbegriff": "Pablo Hernandez de Cos economist",
+    "bildunterschrift": "Pablo Hernández de Cos, der als Nachfolger von EZB-Chefin Christine Lagarde benannt wurde.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Pablo Hernandez de Cos - official portrait 2025.jpg",
+     "beschreibung": "Pablo Hernández de Cos - General Manager at the Bank for International Settlements",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Pablo_Hernandez_de_Cos_-_official_portrait_2025.jpg",
+     "urheber": "Chospo",
+     "lizenz": "CC0",
+     "lizenzUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+     "artikel": "Pablo Hernández de Cos",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Pablo Hernandez de Cos economist",
+     "bildunterschrift": "Pablo Hernández de Cos, der als Nachfolger von EZB-Chefin Christine Lagarde benannt wurde.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Europäische Zentralbank Frankfurt.jpg",
+     "beschreibung": "European Central Bank at Frankfurt , Germany",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg/1280px-Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Europ%C3%A4ische_Zentralbank_Frankfurt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Europ%C3%A4ische_Zentralbank_Frankfurt.jpg",
+     "urheber": "Thomas Wolf , www.foto-tw.de",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "institution",
+     "suchbegriff": "European Central Bank headquarters Frankfurt",
+     "bildunterschrift": "Die Europäische Zentralbank in Frankfurt am Main.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Brüssel, Belgien",
+    "lat": 50.847,
+    "lon": 4.352
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "pro-iranische-terrorzelle-festnahmen",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-26T19:29:26.000Z",
+   "titel": "Festnahmen in Köln und Heidelberg wegen mutmaßlicher Terrorpläne",
+   "vorspann": "Die Bundesanwaltschaft hat zwei Männer aus dem Irak in Köln und Heidelberg festnehmen lassen. Ihnen wird die Mitgliedschaft in einer inländischen terroristischen Vereinigung und die Planung von Anschlägen vorgeworfen.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Die Bundesanwaltschaft hat zwei irakische Staatsangehörige in Köln und Heidelberg festnehmen lassen.",
+    "Ihnen wird vorgeworfen, Mitglied in einer inländischen terroristischen Vereinigung zu sein und Anschläge geplant zu haben.",
+    "Dabei ging es unter anderem um mögliche Sprengstoffangriffe auf eine Synagoge in Köln im März 2026.",
+    "Die Ermittler sehen Verbindungen zu der pro-iranischen Gruppierung HAYI.",
+    "Zahlreiche Wohnungen und Objekte in drei Bundesländern wurden von der Polizei durchsucht."
+   ],
+   "einig": [
+    [
+     "Zwei Männer aus dem Irak wurden in Köln und Heidelberg festgenommen.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Die Bundesanwaltschaft führt die Ermittlungen wegen des Verdachts der Mitgliedschaft in einer terroristischen Vereinigung.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Es gab Durchsuchungen in Baden-Württemberg, Hessen und Nordrhein-Westfalen.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Die Gruppe soll Verbindungen zur Organisation HAYI haben.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutsche Welle"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Warum die potenziellen Attentäter ihre Anschlagspläne im März 2026 in Köln und einer weiteren europäischen Stadt nicht in die Tat umsetzten (laut Tagesschau/ARD, ZDFheute, Deutsche Welle).",
+    "Ob die HAYI-Gruppe tatsächlich existiert oder ob es sich um eine Inszenierung handelt (laut Deutsche Welle)."
+   ],
+   "positionen": [
+    [
+     "Heiko Teggatz (Bundesvorsitzender der Deutschen Polizeigewerkschaft)",
+     "Mahnt zur Wachsamkeit, warnt aber davor, sich von Verunsicherung die Weihnachtsstimmung nehmen zu lassen.",
+     "ZDFheute"
+    ]
+   ],
+   "fehlend": "Stellungnahmen der beschuldigten Personen oder deren Verteidiger sowie Äußerungen der iranischen Regierung zu den Vorwürfen.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 10:39",
+     "fokus": "Hintergründe zur HAYI-Gruppe und Radikalisierung",
+     "text": "Der Bericht beleuchtet die Entstehung der pro-iranischen Gruppe und verweist auf Recherchen zur Radikalisierung über Social Media.",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 349,
+      "satzlaenge": 21,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 15:01",
+     "fokus": "Details zu Durchsuchungen und Reaktionen",
+     "text": "ZDFheute nennt genaue Zahlen zu den eingesetzten Polizisten und erwähnt Reaktionen von Polizeigewerkschaft und Ministerien.",
+     "url": "https://www.zdfheute.de/politik/deutschland/festnahme-anschlagsplan-synagoge-koeln-islamismus-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 13,
+      "minuten": 2,
+      "woerter": 479,
+      "satzlaenge": 16,
+      "langeWoerter": 42
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 20:29",
+     "fokus": "Kurze Zusammenfassung des Einsatzes",
+     "text": "Der Sender liefert eine kompakte Meldung über die Festnahmen im Zusammenhang mit dem Synagogen-Anschlag.",
+     "url": "https://www.deutschlandfunk.de/zwei-mutmassliche-mitglieder-einer-pro-iranischen-terrorgruppe-in-koeln-und-heidelberg-festgenommen-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "26.11.26, 13:08",
+     "fokus": "Internationale Verknüpfungen und Namen",
+     "text": "Die Deutsche Welle nennt die vollen Namen der Verdächtigen und listet weitere europäische Anschlagsziele der Gruppe auf.",
+     "url": "https://www.dw.com/de/festnahmen-in-deutschland-wegen-anschlagsplänen-auf-synagogen/a-80060168?maca=de-rss-de-all-1119-rdf",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 312,
+      "satzlaenge": 16,
+      "langeWoerter": 39
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Nennung von Namen",
+     "Die Deutsche Welle nennt die Namen Mostafa Al-R. und Ameer J., während die anderen Berichte diese Namen weglassen."
+    ],
+    [
+     "Ausführlichkeit der Reaktionen",
+     "ZDFheute nennt Details zu einem Zehn-Punkte-Plan der Minister und ein Zitat der Polizeigewerkschaft, was in den anderen Artikeln nicht steht."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Bundesanwaltschaft und mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe",
+    "was": "Festnahme von zwei Verdächtigen und Durchsuchungen",
+    "wann": "26.11.2026",
+    "wo": "Köln und Heidelberg",
+    "wie": "Durch den Einsatz von mehr als 250 Polizeibeamten",
+    "warum": "Noch unklar, laut Berichten",
+    "quellenlage": "Bundesanwaltschaft, Bundeskriminalamt und Verfassungsschutz"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Bundesanwaltschaft hat in Köln und Heidelberg zwei mutmaßliche Mitglieder einer pro-iranischen Terrorgruppe festnehmen lassen. Die beiden Beschuldigten sind 31 und 34 Jahre alt und stammen aus dem Irak. Nach Angaben der Behörden handelt es sich bei den Festgenommenen um Mostafa Al-R. und Ameer J. Sie stehen im Verdacht, einer inländischen terroristischen Vereinigung anzugehören.",
+      "Im Zusammenhang mit den Festnahmen fanden am Morgen Durchsuchungen in mehreren Bundesländern statt. Laut den Berichten waren daran mehr als 250 Polizistinnen und Polizisten beteiligt. Die Ermittler durchsuchten insgesamt 17 Objekte in Baden-Württemberg, Hessen und Nordrhein-Westfalen.",
+      "Die Zielorte der Durchsuchungen umfassten den Rhein-Neckar-Kreis sowie den Landkreis Biberach in Baden-Württemberg. In Hessen war die Stadt Rüsselsheim am Main betroffen. In Nordrhein-Westfalen durchsuchten die Beamten Objekte in Bergisch Gladbach, Hürth, Kerpen, Remscheid und im Kreis Euskirchen."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Die Ermittlungsbehörden gehen davon aus, dass die Gruppierung Anschläge auf jüdische, israelische und amerikanische Einrichtungen geplant hat. Laut den vorliegenden Informationen gab es konkrete Spuren zu einer Synagoge in Köln. Der in Heidelberg festgenommene Verdächtige soll im März 2026 bereits mit einem Sprengsatz im Bereich einer Synagoge in Köln unterwegs gewesen sein.",
+      "Zusätzlich nennen die Berichte einen weiteren Vorfall Ende März 2026. Damals begaben sich nach Erkenntnissen der Ermittler unbekannte potentielle Attentäter in zwei aufeinanderfolgenden Nächten zu Synagogen in Köln und in einer weiteren europäischen Stadt. Sie führten dabei vermutlich Sprengsätze mit sich, setzten ihre Pläne jedoch nicht in die Tat um.",
+      "Die Hintergründe für das Abbrechen dieser Vorhaben sind den Behörden bislang unklar. Die Gruppierung soll sich laut den Mitteilungen der Bundesanwaltschaft Gelder beschafft und mehrere externe Personen für die Begehung von Sprengstoffanschlägen rekrutiert haben. In Hürth richtete sich eine Durchsuchung gegen eine weitere verdächtige Person."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die festgenommenen Männer sollen in Verbindung mit der international agierenden Gruppe HAYI stehen. Die Abkürzung HAYI steht für Harakat Ashab al-Yamin al-Islamiya, was übersetzt etwa Islamische Bewegung der Gefährten der Rechtgeleiteten bedeutet. Die Gruppierung wurde den Sicherheitsbehörden zufolge erstmals zu Beginn des Konflikts der USA und Israels gegen den Iran bekannt.",
+      "Sicherheitsbehörden mehrerer europäischer Länder bringen HAYI mit einer Reihe von Anschlägen in Verbindung. Betroffen waren demnach jüdische Einrichtungen in Großbritannien, Frankreich, Belgien und den Niederlanden sowie ein Restaurant in München. Die Gruppierung wird von Behörden eher dem Bereich der organisierten Kriminalität zugeordnet.",
+      "Der mutmaßliche Anführer von HAYI wurde Anfang 2026 in den USA festgenommen und sitzt dort in Haft. Vor seiner Festnahme soll er gemeinsam mit dem in Heidelberg festgenommenen Verdächtigen einen deutschen Ableger gegründet haben. Diese separate Vereinigung wurde Ende 2025 ins Leben gerufen, um weitere Anschläge in Deutschland und Europa vorzubereiten."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Die Bundesanwaltschaft ist die oberste Strafverfolgungsbehörde Deutschlands und für die Verfolgung von besonders schweren Staatsschutzdelikten wie Terrorismus zuständig. Sie führt Ermittlungen bei Verdacht auf Bildung einer terroristischen Vereinigung und vertritt die Anklage vor dem Bundesgerichtshof.",
+      "Der Bundesgerichtshof mit Sitz in Karlsruhe ist das oberste Gericht im deutschen Instanzenzug für Straf- und Zivilsachen. Ein Ermittlungsrichter des Bundesgerichtshofs entscheidet nach Vorführung von festgenommenen Beschuldigten über den Vollzug der Untersuchungshaft.",
+      "Das Bundeskriminalamt ist die zentrale Polizeibehörde des Bundes zur Bekämpfung der Kriminalität und arbeitet eng mit den Landeskriminalämtern und den Verfassungsschutzbehörden zusammen. Der Verfassungsschutz hat die Aufgabe, Informationen über Bestrebungen gegen die freiheitliche demokratische Grundordnung zu sammeln und auszuwerten."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Der Bundesvorsitzende der Deutschen Polizeigewerkschaft, Heiko Teggatz, mahnte angesichts der bekanntgewordenen Pläne zur Wachsamkeit. Gleichzeitig rief er dazu auf, sich von Verunsicherung nicht die Weihnachtsstimmung nehmen zu lassen, und betonte laut ZDFheute, dass die Freiheit nicht dem Terror weichen dürfe.",
+      "Laut ZDFheute stellten Bundesinnenminister Dobrindt und Justizministerin Hubig im September einen Zehn-Punkte-Plan vor. Dieser soll den islamistischen Terrorismus mit verschärften Strafen bekämpfen."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Nach den Festnahmen am Morgen sollten die beiden Verdächtigen im Laufe des Mittags dem Ermittlungsrichter am Bundesgerichtshof in Karlsruhe vorgeführt werden. Dieser entscheidet über den Erlass von Untersuchungshaft.",
+      "Das Verfahren gegen die Beschuldigten geht auf Erkenntnisse des Bundesamtes für Verfassungsschutz zurück. Die Ermittlungen der Bundesanwaltschaft und des Bundeskriminalamtes zu den Hintergründen und möglichen weiteren Beteiligten dauern an."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Ende 2025",
+     "Gründung einer separaten deutschen Vereinigung zur Vorbereitung von Anschlägen."
+    ],
+    [
+     "März 2026",
+     "Mutmaßliche Vorbereitungen für einen Anschlag auf eine Kölner Synagoge."
+    ],
+    [
+     "26.11.2026",
+     "Festnahme von zwei Verdächtigen in Köln und Heidelberg sowie Durchsuchungen in drei Bundesländern."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Es wird kein Bild gezeigt, da es sich um ein Verfahren wegen einer Straftat handelt."
+    }
+   ],
+   "ort": {
+    "name": "Köln und Heidelberg, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Bundesanwaltschaft",
+      "Die oberste Anklagebehörde in Deutschland. Sie ermittelt bei schweren Verbrechen wie Terrorismus."
+     ],
+     [
+      "Synagoge",
+      "Ein Gebäude, in dem Menschen jüdischen Glaubens zusammenkommen und beten."
+     ],
+     [
+      "Terrorismus",
+      "Gewalttaten gegen Menschen oder Einrichtungen, um politische Ziele zu erreichen und Angst zu verbreiten."
+     ]
+    ],
+    "fragen": [
+     "Warum ist es wichtig, dass Medien zwischen bewiesenen Fakten und ungeklärten Fragen unterscheiden?",
+     "Welche Rolle spielen Sicherheitsbehörden wie der Verfassungsschutz bei der Verhinderung von Straftaten?"
+    ],
+    "quiz": [
+     {
+      "frage": "In welchen Städten wurden die beiden Verdächtigen festgenommen?",
+      "optionen": [
+       "In Berlin und München",
+       "In Köln und Heidelberg",
+       "In Frankfurt und Hamburg"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, ZDFheute und Deutscher Welle wurden die beiden Männer aus dem Irak in Köln und Heidelberg festgenommen."
+     },
+     {
+      "frage": "Welche Organisation wird von den Ermittlern mit den Verdächtigen in Verbindung gebracht?",
+      "optionen": [
+       "Die Gruppe HAYI",
+       "Eine europäische Umweltorganisation",
+       "Ein internationaler Sportverband"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichte stimmen überein, dass die Verdächtigen Verbindungen zu der pro-iranischen Gruppierung HAYI haben sollen."
+     },
+     {
+      "frage": "In welchen Bundesländern fanden Durchsuchungen statt?",
+      "optionen": [
+       "Nur in Bayern",
+       "In Baden-Württemberg, Hessen und Nordrhein-Westfalen",
+       "In ganz Deutschland flächendeckend"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Bundesanwaltschaft ließ Durchsuchungen in den Bundesländern Baden-Württemberg, Hessen und Nordrhein-Westfalen durchführen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Polizei hat in Köln und Heidelberg zwei Männer aus dem Irak festgenommen.",
+    "absaetze": [
+     "Die Bundesanwaltschaft wirft den beiden Männern vor, in einer terroristischen Vereinigung zu sein.",
+     "Sie sollen Anschläge auf jüdische Einrichtungen wie Synagogen geplant haben.",
+     "Im März 2026 gab es nach Angaben der Ermittler bereits Pläne für einen Anschlag in Köln.",
+     "Am Donnerstag durchsuchten mehr als zweihundertfünfzig Polizisten Wohnungen in drei Bundesländern.",
+     "Ein Richter entscheidet nun über die Untersuchungshaft für die beiden Verdächtigen."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Bundesanwaltschaft hat zwei Männer aus dem Irak festgenommen.",
+     "Ihnen wird die Mitgliedschaft in einer terroristischen Vereinigung vorgeworfen.",
+     "Sie sollen Anschläge auf Synagogen in Deutschland und Europa geplant haben.",
+     "Am Donnerstag durchsuchte die Polizei siebzehn Objekte in drei Bundesländern."
+    ],
+    "lang": [
+     "Die Bundesanwaltschaft hat in Köln und Heidelberg zwei mutmaßliche Mitglieder einer terroristischen Vereinigung festnehmen lassen.",
+     "Die beiden Männer stammen aus dem Irak und sind einunddreißig und vierunddreißig Jahre alt.",
+     "Nach Angaben der Behörden planten sie Anschläge auf jüdische Einrichtungen wie eine Synagoge in Köln.",
+     "Im März zweitausendsechsundzwanzig gab es nach Erkenntnissen der Ermittler bereits konkrete Vorbereitungen für solche Taten.",
+     "Die Gruppe soll Verbindungen zu einer pro-iranischen Gruppierung namens HAYI haben.",
+     "Mehr als zweihundertfünfzig Polizeibeamte durchsuchten am Donnerstag siebzehn Objekte in drei Bundesländern.",
+     "Laut der Deutschen Polizeigewerkschaft mahnen die Pläne zur Wachsamkeit, aber die Freiheit dürfe nicht dem Terror weichen.",
+     "Die Bundesanwaltschaft ist die oberste Strafverfolgungsbehörde für schwere Staatsschutzdelikte in Deutschland.",
+     "Die Verdächtigen sollten noch am Tag der Festnahme dem Bundesgerichtshof vorgeführt werden.",
+     "Ein Ermittlungsrichter entscheidet dort über den Vollzug der Untersuchungshaft."
+    ],
+    "einfach": [
+     "Die Polizei hat zwei Männer aus dem Irak festgenommen.",
+     "Die Festnahmen fanden in Köln und Heidelberg statt.",
+     "Die Männer sollen Anschläge auf Synagogen geplant haben.",
+     "Dazu durchsuchte die Polizei am Donnerstag viele Wohnungen in ganz Deutschland.",
+     "Ein Richter entscheidet nun, ob die Männer im Gefängnis bleiben müssen."
+    ]
+   },
+   "kurz": [
+    "Die Bundesanwaltschaft ließ zwei Männer aus dem Irak in Köln und Heidelberg festnehmen.",
+    "Ihnen wird die Mitgliedschaft in einer terroristischen Vereinigung vorgeworfen.",
+    "Sie sollen Anschläge auf Synagogen, darunter eine in Köln, geplant haben.",
+    "In drei Bundesländern gab es am Donnerstag zahlreiche Durchsuchungen durch die Polizei."
+   ],
+   "fakten": [
+    [
+     "Anzahl der festgenommenen Männer",
+     "zwei"
+    ],
+    [
+     "Datum des Einsatzes",
+     "26. November 2026"
+    ],
+    [
+     "Anzahl der durchsuchten Objekte",
+     "17"
+    ],
+    [
+     "Eingesetzte Polizeibeamte laut ZDFheute",
+     "mehr als 250"
+    ]
+   ],
+   "dossier": {
+    "slug": "festnahmen-und-terrorverdacht-deutschland",
+    "titel": "Festnahmen und Terrorverdacht"
+   },
+   "bildInfos": [],
+   "version": 5
+  },
+  {
+   "id": "doping-sperre-laura-freigang",
+   "rubrik": "Sport",
+   "zeit": "2026-11-26T18:18:00.000Z",
+   "titel": "Sperre für Nationalspielerin Laura Freigang wegen verpasster Dopingtests",
+   "vorspann": "Die Fußballnationalspielerin Laura Freigang erhält wegen dreier Meldeversäumnisse eine Sperre von 16 Monaten. Damit verpasst die Kapitänin von Eintracht Frankfurt die Weltmeisterschaft im kommenden Jahr.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Laura Freigang ist wegen verpasster Dopingtests für 16 Monate gesperrt worden.",
+    "Die Sperre ist das Ergebnis einer Vereinbarung zwischen der Spielerin, WADA, NADA und dem DFB.",
+    "Durch die Sanktion verpasst die Nationalspielerin die Weltmeisterschaft in Brasilien.",
+    "Die beteiligten Organisationen und die Spielerin äußerten sich zu den menschlichen und sportlichen Folgen."
+   ],
+   "einig": [
+    [
+     "Sperre von 16 Monaten für Laura Freigang",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "BBC"
+     ]
+    ],
+    [
+     "Verfehlung von drei Meldepflichten im genannten Zeitraum",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "BBC"
+     ]
+    ],
+    [
+     "Vergleich durch WADA, NADA, DFB und Freigang",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "BBC"
+     ]
+    ],
+    [
+     "Verpassung der Weltmeisterschaft 2027 in Brasilien",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel",
+      "BBC"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob der DFB einen noch kürzeren als den letztlich vereinbarten Ausschluss durchsetzen wollte (laut Tagesschau/ARD und ZDFheute nach SID-Informationen, von anderen Quellen nicht explizit genannt)"
+   ],
+   "positionen": [
+    [
+     "Laura Freigang",
+     "Betont laut Tagesschau/ARD, ZDFheute und Spiegel, dass nie der Verdacht auf Doping bestand und der Vergleich zur Vermeidung hoher Belastungen geschlossen wurde",
+     "Tagesschau/ARD,ZDFheute,Spiegel"
+    ],
+    [
+     "Nia Künzer (DFB-Sportdirektorin)",
+     "Bedauert die Situation menschlich und kündigt laut Tagesschau/ARD, ZDFheute und Spiegel Unterstützung für die Spielerin an",
+     "Tagesschau/ARD,ZDFheute,Spiegel"
+    ],
+    [
+     "Katharina Kiel (Vertreterin Eintracht Frankfurt)",
+     "Betont laut BBC die durch den Vergleich geschaffene Klarheit und würdigt die Leistungen der Spielerin",
+     "BBC"
+    ],
+    [
+     "Giulia Gwinn (Mitspielerin)",
+     "Nennt die Entscheidung laut ZDFheute dramatisch und zeigt sich beeindruckt vom Umgang mit der Situation",
+     "ZDFheute"
+    ]
+   ],
+   "fehlend": "Stimmen von Vertretern der Anti-Doping-Agenturen WADA und NADA über deren offizielle Mitteilungen hinaus",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 14:20",
+     "fokus": "Hintergründe und Zitate",
+     "text": "Die Tagesschau liefert detaillierte Informationen zum Ablauf der Sperre, den Reaktionen der Spielerin und des DFB sowie zu den emotionalen Reaktionen in den vergangenen Wochen.",
+     "url": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 525,
+      "satzlaenge": 20,
+      "langeWoerter": 34
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 19:18",
+     "fokus": "Reaktionen der Mannschaft",
+     "text": "ZDFheute ergänzt die Meldung um Aussagen von Mitspielerin Giulia Gwinn zur emotionalen Belastung und den Reaktionen aus dem Nationalteam.",
+     "url": "https://www.zdfheute.de/sport/fussball-dfb-frauen-wada-sperrt-laura-freigang-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 634,
+      "satzlaenge": 16,
+      "langeWoerter": 32
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "26.11.26, 13:53",
+     "fokus": "Regelwerk und Details",
+     "text": "Der Spiegel beleuchtet die genauen Artikel des Anti-Doping-Codes und schildert die emotionalen Aussagen der Spielerin im Detail.",
+     "url": "https://www.spiegel.de/sport/fussball/laura-freigang-nationalspielerin-wegen-verpasster-dopingtests-gesperrt-a-95f6c7e9-6ee6-435b-b0cb-fb09eeb29041#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 8,
+      "minuten": 2,
+      "woerter": 406,
+      "satzlaenge": 14,
+      "langeWoerter": 32
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "BBC",
+     "typ": "öffentlich-rechtlich (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "26.11.26, 18:12",
+     "fokus": "Statistiken und Vereinssicht",
+     "text": "Die BBC liefert eine Übersicht über die sportlichen Statistiken der Spielerin sowie eine Einschätzung der Vereinsverantwortlichen von Eintracht Frankfurt.",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cqlym4rd3y52o?at_medium=RSS&at_campaign=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 318,
+      "satzlaenge": 23,
+      "langeWoerter": 35
+     },
+     "traeger": "British Broadcasting Corporation, Großbritannien",
+     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Zusätzliche Zitate",
+     "ZDFheute und BBC enthalten spezifische Aussagen von Teamkolleginnen oder Vereinsvertreterinnen, die in anderen Berichten nicht in gleicher Ausführlichkeit vorkommen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Laura Freigang",
+    "was": "Sperre wegen verpasster Dopingtests",
+    "wann": "2026-11-26",
+    "wo": "Deutschland",
+    "wie": "Durch eine Vereinbarung zur Streitbeilegung",
+    "warum": "Drei Meldepflichtverstöße laut WADA, NADA und DFB",
+    "quellenlage": "Mitteilungen von DFB, NADA und Medienberichte"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Fußballnationalspielerin Laura Freigang ist für eine Dauer von 16 Monaten gesperrt worden. Grund für diese Sanktion sind drei Meldeversäumnisse im Zusammenhang mit Dopingkontrollen. Diese Information wurde von den beteiligten Organisationen veröffentlicht. Die Spielerin verpasst dadurch auch die anstehende Weltmeisterschaft.",
+      "Die Sperre ist das Ergebnis einer offiziellen Vereinbarung zur Streitbeilegung. An diesem Vergleich waren neben der Sportlerin selbst die Welt-Anti-Doping-Agentur, die Nationale Anti Doping Agentur sowie der Deutsche Fußball-Bund beteiligt. Die betroffene Spielerin akzeptierte den Vergleich nach Angaben der Berichte.",
+      "Die genaue zeitliche Einordnung der Sperre sieht vor, dass sie rückwirkend ab dem Datum der Benachrichtigung durch den Deutschen Fußball-Bund am 8. Juni wirksam wird. Damit ist die Angreiferin ab dem 8. Oktober wieder spielberechtigt. Dieser Termin liegt zeitlich nach dem Ende der Weltmeisterschaftsendrunde.",
+      "Zusätzlich zu den Wettkampfsperren gibt es Regelungen für die Wiederaufnahme des Trainingsbetriebs. Zwei Monate vor dem offiziellen Ablauf der Sperre darf Laura Freigang wieder mit einer Mannschaft trainieren. Dieser Zeitpunkt ist für den Monat August angesetzt."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Der Zeitraum der festgestellten Versäumnisse erstreckt sich laut den Angaben vom 11. März des Jahres 2025 bis zum 23. Februar des Jahres 2026. In dieser Zeitspanne soll es zu drei Kontroll- beziehungsweise Meldepflichtversäumnissen gekommen sein. Diese Verstöße führten zur Anwendung der entsprechenden Anti-Doping-Bestimmungen.",
+      "Nach den Bestimmungen waren grundsätzlich Sperren von bis zu zwei Jahren möglich. Der Deutsche Fußball-Bund hatte nach Angaben von Tagesschau/ARD und ZDFheute einen noch kürzeren Ausschluss angestrebt, als letztlich vereinbart wurde. Dennoch einigten sich die Parteien auf den Zeitraum von 16 Monaten.",
+      "Alle persönlichen Wettkampfergebnisse der Athletin seit dem 23. Februar werden mit allen Konsequenzen annulliert. Dazu gehört der Verlust von Medaillen, Auszeichnungen, Punkten und Preisen. Die von den jeweiligen Mannschaften erzielten Spielergebnisse in den betreffenden Partien bleiben von dieser Annullierung jedoch unberührt.",
+      "In der laufenden Saison bestritt die Spielerin mehrere Partien für ihren Verein und das Nationalteam. Sie kam im Ligabetrieb sowie bei internationalen Begegnungen zum Einsatz. Laut den Berichten ergeben sich aus diesen Einsätzen im Nachhinein keine sportlichen Strafen für die beteiligten Mannschaften."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Der Fall wurde von der Nationalen Anti Doping Agentur an den Deutschen Fußball-Bund weitergeleitet. Der Verband prüfte die möglichen Verstöße gegen die Bestimmungen seit Anfang Juni. Die Untersuchungen dauerten mehrere Monate an, bevor sie durch den Vergleich abgeschlossen wurden.",
+      "Die sportliche Situation der Spielerin war in den vergangenen Wochen von Einsätzen geprägt. Sie stand im Aufgebot des Nationalteams für Länderspiele im Oktober. Dabei zeigte sie sich in emotionalen Szenen nach Begegnungen in der Öffentlichkeit und bei Vereinsspielen.",
+      "Die betroffene Spielerin steht bei Eintracht Frankfurt unter Vertrag. Das Arbeitspapier der Stürmerin läuft regulär bis zum Sommer des Jahres 2027. Der Verein kündigte an, zeitnah Gespräche über die Ausgestaltung des zukünftigen Arbeitsverhältnisses zu führen.",
+      "Die Spielerin blickt auf eine umfangreiche Karriere zurück. Sie absolvierte zahlreiche Länderspiele und erzielte viele Treffer für den Verein. Zuletzt zählte sie bei der Nationalmannschaft allerdings nicht mehr zum festen Stammkorsett."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Die Welt-Anti-Doping-Agentur ist eine internationale Organisation zur Bekämpfung von Doping im Sport. Der Welt-Anti-Doping-Code regelt die Bestimmungen für Sportler weltweit.",
+      "Die Nationale Anti Doping Agentur ist die zuständige Institution für die Umsetzung der Anti-Doping-Regeln auf nationaler Ebene in Deutschland. Zu ihren Aufgaben gehört auch die Verfolgung von Verstößen gegen die Meldepflichten.",
+      "Meldepflichten für Sportler im Testpool sehen vor, dass diese ihren Aufenthaltsort für unangekündigte Dopingkontrollen angeben müssen. Das wiederholte Versäumen dieser Angaben gilt als Verstoß gegen die Anti-Doping-Bestimmungen.",
+      "Ein Verfahren zur Streitbeilegung ist eine rechtliche Möglichkeit, um einen Konflikt ohne ein langes Verfahren zu beenden. Dabei verständigen sich die beteiligten Parteien auf einen Kompromiss."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Laura Freigang betonte nach Angaben von Tagesschau/ARD, ZDFheute und Spiegel in einer Erklärung, dass zu keinem Zeitpunkt der Verdacht auf Doping bestand. Sie erklärte zu ihrer Zustimmung zu dem Vergleich, dass ein weiteres Verfahren mit hohen Belastungen verbunden gewesen wäre. Sie äußerte sich enttäuscht darüber, vorerst nicht auf dem Platz stehen zu können, und bat den Verband, den Verein sowie die Fans um Entschuldigung.",
+      "Die Sportdirektorin des Deutschen Fußball-Bundes, Nia Künzer, äußerte sich nach Angaben von Tagesschau/ARD, ZDFheute und Spiegel zu der Situation. Sie erklärte, dass die Lage menschlich leid tue und die Spielerin sehr geschätzt werde. Der Verband werde weiterhin im Austausch bleiben und die Sportlerin nach Kräften unterstützen.",
+      "Die Vereinsvertreterin Katharina Kiel von Eintracht Frankfurt erklärte laut BBC-Bericht, dass die getroffene Vereinbarung Klarheit bringe. Sie lobte den Umgang der Mannschaft und der Spielerin mit der Situation. Der Ausfall der Leistungsträgerin bedeute einen Verlust für das Team.",
+      "Mitspielerin Giulia Gwinn bezeichnete die Entscheidung nach Angaben von ZDFheute als dramatisch und zeigte sich beeindruckt von dem Umgang der Spielerin mit der Situation."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die betroffene Spielerin darf bis zum Ablauf der Sperre im Oktober des kommenden Jahres keine Pflichtspiele bestreiten. Sie wird erst ab August wieder am Mannschaftstraining teilnehmen können. Die Teilnahme an der Weltmeisterschaft ist ausgeschlossen.",
+      "Eintracht Frankfurt und die Spielerin werden zeitnah Gespräche aufnehmen. Dabei soll die Ausgestaltung des zukünftigen Arbeitsverhältnisses auf Grundlage der ausgesprochenen Sperre festgelegt werden. Der bestehende Vertrag läuft im Sommer 2027 aus.",
+      "Der Deutsche Fußball-Bund kündigte an, die Spielerin im Rahmen seiner Möglichkeiten zu unterstützen. Der Kontakt soll während der Sperre aufrechterhalten werden. Weitere Verfahren in dieser Angelegenheit sind durch den geschlossenen Vergleich nicht zu erwarten."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "8. Juni 2026",
+     "Benachrichtigung der Spielerin durch den DFB über mögliche Verstöße"
+    ],
+    [
+     "26. November 2026",
+     "Bekanntgabe der 16-monatigen Sperre nach einer Streitbeilegungsvereinbarung"
+    ],
+    [
+     "8. August 2027",
+     "Erlaubnis zur Wiederaufnahme des Mannschaftstrainings"
+    ],
+    [
+     "8. Oktober 2027",
+     "Ende der Sperre und Wiedererlangung der Spielberechtigung"
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Laura Freigang footballer",
+     "bildunterschrift": "Die Fußballnationalspielerin Laura Freigang ist von einer langjährigen Sperre betroffen."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Deutscher Fußball-Bund headquarters",
+     "bildunterschrift": "Der Deutsche Fußball-Bund war an den Verhandlungen zur Streitbeilegung beteiligt."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Frankfurt am Main skyline",
+     "bildunterschrift": "Die Sportlerin steht beim Verein Eintracht Frankfurt unter Vertrag."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Doping control symbol",
+     "bildunterschrift": "Der Fall steht im Zusammenhang mit Meldeversäumnissen bei Kontrollen."
+    }
+   ],
+   "ort": {
+    "name": "Frankfurt, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Kennzeichnung der Aussagen von Laura Freigang, Nia Künzer und Giulia Gwinn mit den entsprechenden Quellen ergänzt."
+   ],
+   "wortwarnung": [
+    "dramatisch"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Meldepflicht",
+      "Die Verpflichtung von Sportlern, ihren Aufenthaltsort für unangekündigte Dopingkontrollen genau anzugeben."
+     ],
+     [
+      "Streitbeilegung",
+      "Eine Einigung zwischen beteiligten Parteien außerhalb eines regulären Gerichtsverfahrens, um einen Konflikt zu beenden."
+     ]
+    ],
+    "fragen": [
+     "Welche Gründe nannte Laura Freigang für ihre Zustimmung zu der Vereinbarung?",
+     "Welche Auswirkungen hat die Sperre auf die bisherigen Wettkampfergebnisse der Spielerin?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie lange dauert die Sperre für Laura Freigang?",
+      "optionen": [
+       "12 Monate",
+       "16 Monate",
+       "24 Monate"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die beteiligten Organisationen einigten sich auf eine Sperre von 16 Monaten."
+     },
+     {
+      "frage": "Welches Turnier verpasst die Spielerin durch die Sperre?",
+      "optionen": [
+       "Europameisterschaft 2028",
+       "Weltmeisterschaft 2027",
+       "Olympische Spiele"
+      ],
+      "richtig": 1,
+      "erklaerung": "Durch die Sperre verpasst Laura die Fußball-WM im Jahr 2027 in Brasilien."
+     },
+     {
+      "frage": "Von welcher Organisation wurde der Fall an den Deutschen Fußball-Bund weitergeleitet?",
+      "optionen": [
+       "Nationale Anti Doping Agentur",
+       "Welt-Anti-Doping-Agentur",
+       "Europäischer Fußballverband"
+      ],
+      "richtig": 0,
+      "erklaerung": "Der Fall wurde von der NADA an den DFB weitergeleitet."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Fußballspielerin Laura Freigang darf für sechzehn Monate keine Spiele bestreiten.",
+    "absaetze": [
+     "Die Spielerin von Eintracht Frankfurt hat dreimal vergessen, ihren genauen Aufenthaltsort für Dopingkontrollen anzugeben. Deshalb haben sich die Anti-Doping-Agenturen und der Deutsche Fußball-Bund auf eine Strafe geeinigt. Wegen dieser Sperre verpasst die Sportlerin die Weltmeisterschaft im kommenden Jahr. Laura Freigang betonte, dass es zu keinem Zeitpunkt den Verdacht auf Doping gab. Ab August zweitausend siebenundzwanzig darf sie wieder mit einer Mannschaft trainieren."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die Fußballnationalspielerin Laura Freigang ist für sechzehn Monate gesperrt worden.",
+     "Grund sind drei verpasste Meldepflichten bei Dopingkontrollen.",
+     "Die Spielerin verpasst dadurch die Weltmeisterschaft im kommenden Jahr in Brasilien."
+    ],
+    "lang": [
+     "Die deutsche Fußballnationalspielerin Laura Freigang erhält wegen verpasster Dopingtests eine Sperre von sechzehn Monaten.",
+     "Das gaben die Welt-Anti-Doping-Agentur, die Nationale Anti Doping Agentur und der Deutsche Fußball-Bund bekannt.",
+     "Die Spielerin verfehlte demnach dreimal ihre Meldepflichten für Kontrollen in einem Zeitraum zwischen März zweitausendfünfundzwanzig und Februar zweitausendsechsundzwanzig.",
+     "Durch diese Sperre verpasst die Kapitänin von Eintracht Frankfurt die Fußball-Weltmeisterschaft zweitausend siebenundzwanzig in Brasilien.",
+     "Die Strafe gilt rückwirkend ab dem achten Juni zweitausendsechsundzwanzig.",
+     "Ab dem achten Oktober zweitausend siebenundzwanzig ist die Sportlerin wieder spielberechtigt.",
+     "Laura Freigang erklärte nach Angaben von Tagesschau, ZDF und Spiegel, dass gegen sie zu keinem Zeitpunkt der Verdacht auf Doping bestand.",
+     "Die Sportdirektorin des Deutschen Fußball-Bundes, Nia Künzer, äußerte nach Angaben der Medien ihr Bedauern über die menschliche Situation der Spielerin.",
+     "Ein Vereinbarungsprozess zwischen den beteiligten Organisationen und der Spielerin führte zu diesem Kompromiss.",
+     "Eintracht Frankfurt und die Spielerin wollen nun zeitnah Gespräche über das zukünftige Arbeitsverhältnis führen."
+    ],
+    "einfach": [
+     "Laura Freigang spielt Fußball für Deutschland und Eintracht Frankfurt.",
+     "Sie hat dreimal vergessen, ihren Aufenthaltsort für Kontrollen zu melden.",
+     "Deshalb darf sie sechzehn Monate lang nicht spielen.",
+     "Nach Angaben der Medien verpasst sie dadurch die Weltmeisterschaft.",
+     "Die Spielerin betonte, dass sie kein Doping genommen hat."
+    ]
+   },
+   "kurz": [
+    "Die deutsche Fußballnationalspielerin Laura Freigang wurde für sechzehn Monate gesperrt.",
+    "Grund für die Sperre sind drei verpasste Meldepflichten bei Dopingkontrollen.",
+    "Durch die Strafe verpasst die Spielerin die Fußball Weltmeisterschaft im Jahr zweitausend siebenundzwanzig."
+   ],
+   "fakten": [
+    [
+     "Dauer der Sperre",
+     "16 Monate"
+    ],
+    [
+     "Zeitraum der Versäumnisse",
+     "11. März 2025 bis 23. Februar 2026"
+    ],
+    [
+     "Ende der Sperre",
+     "7. Oktober 2027"
+    ],
+    [
+     "Tore für die Nationalmannschaft",
+     "17"
+    ]
+   ],
+   "dossier": {
+    "slug": "laura-freigang-doping-sperre",
+    "titel": "Sperre für Laura Freigang"
+   },
+   "bildInfo": {
+    "titel": "2023-07-03 Fussball, Frauen, Deutsche Nationalmannschaft, Media Day 1DX 6580 by Stepro-2.jpg",
+    "beschreibung": "Fussball, Frauen, Deutsche Nationalmannschaft, Media Day: Laura Freigang (GER, 10); Porträt, Einzelbild",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg/1280px-2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2023-07-03_Fussball,_Frauen,_Deutsche_Nationalmannschaft,_Media_Day_1DX_6580_by_Stepro-2.jpg",
+    "urheber": "Steffen Prößdorf",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Laura Freigang",
+    "sprache": "en",
+    "art": "person",
+    "suchbegriff": "Laura Freigang footballer",
+    "bildunterschrift": "Die Fußballnationalspielerin Laura Freigang, die eine Sperre von 16 Monaten erhält.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2023-07-03 Fussball, Frauen, Deutsche Nationalmannschaft, Media Day 1DX 6580 by Stepro-2.jpg",
+     "beschreibung": "Fussball, Frauen, Deutsche Nationalmannschaft, Media Day: Laura Freigang (GER, 10); Porträt, Einzelbild",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg/1280px-2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2023-07-03_Fussball%2C_Frauen%2C_Deutsche_Nationalmannschaft%2C_Media_Day_1DX_6580_by_Stepro-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2023-07-03_Fussball,_Frauen,_Deutsche_Nationalmannschaft,_Media_Day_1DX_6580_by_Stepro-2.jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Laura Freigang",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Laura Freigang footballer",
+     "bildunterschrift": "Die Fußballnationalspielerin Laura Freigang, die eine Sperre von 16 Monaten erhält.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Frankfurt, Deutschland",
+    "lat": 50.111,
+    "lon": 8.682
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "metall-tarifstreit-einigung",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-26T17:38:00.000Z",
+   "titel": "Tarifeinigung in der Metall- und Elektroindustrie erzielt",
+   "vorspann": "Nach Verhandlungen haben sich die IG Metall und Arbeitgeber auf einen Pilotabschluss geeinigt. Beschäftigte erhalten mehr Lohn sowie eine Einmalzahlung.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Nach Verhandlungen haben sich IG Metall und Arbeitgeber auf einen Tarifabschluss geeinigt.",
+    "Die Beschäftigten erhalten in zwei Stufen insgesamt 4,3 Prozent mehr Lohn sowie eine Einmalzahlung.",
+    "Der Vertrag sieht bei einer Laufzeit von 25 Monaten auch optionale Ausnahmen von der 35-Stunden-Woche vor.",
+    "Vorausgegangen waren Warnstreiks der Gewerkschaft."
+   ],
+   "einig": [
+    [
+     "Die Beschäftigten erhalten insgesamt 4,3 Prozent mehr Lohn in zwei Stufen.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Die Verhandlungen fanden im Mannheimer Congress Center Rosengarten statt.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Die Laufzeit des Tarifvertrags beträgt 25 Monate.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Die IG Metall stimmte optionalen Abweichungen von der 35-Stunden-Woche zu.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Höhe der Einmalzahlung wird unterschiedlich genannt: Tagesschau/ARD spricht von bis zu 450 Euro, die Süddeutsche Zeitung nennt eine Staffelung von 150 bis 450 Euro abhängig von der Gewinnlage."
+   ],
+   "positionen": [
+    [
+     "IG Metall (Gewerkschaft)",
+     "Forderung nach fünf Prozent mehr Entgelt bei einer einjährigen Laufzeit",
+     "ZDFheute,Spiegel"
+    ],
+    [
+     "Arbeitgeber / Gesamtmetall",
+     "Angebot von 1,3 Prozent mehr Lohn und flexiblen Regelungen bei längerer Laufzeit",
+     "Spiegel,Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Detaillierte Einzelstimmen von konkreten Betriebsratsmitgliedern oder betroffenen Arbeitern aus den Werkhallen.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 17:43",
+     "fokus": "Überblick über den Pilotabschluss",
+     "text": "Die Tagesschau informiert umfassend über die Stufen der Lohnerhöhung und die Beteiligung an den Warnstreiks.",
+     "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 328,
+      "satzlaenge": 13,
+      "langeWoerter": 41
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "26.11.26, 18:38",
+     "fokus": "Hintergrund zur Branchenkrise",
+     "text": "ZDFheute beleuchtet die wirtschaftliche Situation der Autoindustrie und den Verlust von Arbeitsplätzen seit 2019.",
+     "url": "https://www.zdfheute.de/wirtschaft/unternehmen/ig-metall-tarifstreit-einigung-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 2,
+      "woerter": 336,
+      "satzlaenge": 15,
+      "langeWoerter": 39
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "26.11.26, 16:28",
+     "fokus": "Details zu den Verhandlungen",
+     "text": "Der Spiegel beschreibt detailliert die Forderungen beider Seiten und den genauen Ablauf im Verhandlungsort in Mannheim.",
+     "url": "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 318,
+      "satzlaenge": 16,
+      "langeWoerter": 41
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "26.11.26, 17:45",
+     "fokus": "Auswirkungen auf Volkswagen",
+     "text": "Die Süddeutsche Zeitung verknüpft den Abschluss mit den anstehenden harten Tarifauseinandersetzungen bei Volkswagen.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/streiks-autoindustrie-elektroindustrie-gesamtmetall-loehne-ig-metall-tarifabschluss-vw-mercedes-inflation-tarifrunde-einigung-li.3585685",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 136,
+      "satzlaenge": 17,
+      "langeWoerter": 35
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Einmalzahlung",
+     "Tagesschau/ARD nennt eine Zahlung von bis zu 450 Euro, während die Süddeutsche Zeitung einen Betrag zwischen 150 und 450 Euro je nach Unternehmensgewinn angibt."
+    ],
+    [
+     "Verhandlungsdauer",
+     "Tagesschau/ARD und Spiegel berichten von mehr als 24 Stunden, ZDFheute nennt fast 27 Stunden."
+    ]
+   ],
+   "wfragen": {
+    "wer": "IG Metall und Arbeitgeber",
+    "was": "Tarifabschluss in der Metall- und Elektroindustrie",
+    "wann": "26. November 2026",
+    "wo": "Mannheim",
+    "wie": "Nach Verhandlungen",
+    "warum": "Zur Beilegung des Tarifkonflikts laut Tagesschau/ARD",
+    "quellenlage": "Berichte von öffentlich-rechtlichen Sendern und Tageszeitungen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich die Arbeitgeber und die Gewerkschaft IG Metall geeinigt. Der Pilotabschluss ermöglicht zudem optionale Ausnahmen von der bisherigen Arbeitszeitregelung. Die Verhandlungen fanden im Congress Center Rosengarten in Mannheim statt. Die Einigung wurde am Donnerstagnachmittag nach einem stundenlangen Verhandlungsmarathon verkündet.",
+      "Die vierte Verhandlungsrunde für die Bezirke Baden-Württemberg und Nordrhein-Westfalen dauerte laut Tagesschau/ARD mehr als 24 Stunden. Laut ZDFheute zogen sich die Verhandlungen über fast 27 Stunden hin. Seit Mittwochmittag um 13 Uhr hatten die Vertreterinnen und Vertreter beider Seiten zusammengesessen. Die Einigung gilt als sogenannter Pilotabschluss, der für insgesamt 3,7 Millionen Beschäftigte in Deutschland übernommen werden kann. Damit sollen zentrale Bereiche der Industrie vorerst befriedet sein."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten des Abschlusses",
+     "absaetze": [
+      "Die Lohnerhöhung von insgesamt 4,3 Prozent verteilt sich auf zwei Stufen. Die erste Stufe sieht 2,0 Prozent mehr Lohn zum 1. Mai 2027 vor. Die zweite Stufe bringt weitere 2,3 Prozent ab dem 1. April 2028. Die Süddeutsche Zeitung nennt für die Jahre 2027 und 2028 exakt dieselben prozentualen Erhöhungen. Zusätzlich ist eine Einmalzahlung vorgesehen.",
+      "Laut Tagesschau/ARD beträgt diese Einmalzahlung bis zu 450 Euro. Die Süddeutsche Zeitung präzisiert, dass die Einmalzahlung zwischen 150 und 450 Euro liegt und von der Gewinnlage des jeweiligen Unternehmens abhängt. Die Gesamtlaufzeit des Tarifvertrags beträgt 25 Monate. Der Pilotabschluss soll auf die übrigen Tarifgebiete übertragen werden, wodurch er für rund 3,7 Millionen Menschen gelten kann."
+     ]
+    },
+    {
+     "ueberschrift": "Arbeitszeit und Ausnahmen",
+     "absaetze": [
+      "Die IG Metall stimmte in den Verhandlungen optionalen Abweichungen von der klassischen 35-Stunden-Woche zu. Unbezahlte Mehrarbeit und Lohnverzicht sollen zeitlich begrenzt möglich sein. Dies dient laut den Berichten dazu, zukunftsträchtige Investitionen mit Arbeitnehmerbeiträgen zu stützen. Für diese Maßnahmen wurde eine Obergrenze von acht Prozent der tariflichen Entgelte der Beschäftigten festgelegt.",
+      "Die Süddeutsche Zeitung ergänzt, dass Firmen durch diese Regelung zeitweise weniger Gehalt zahlen oder Arbeitszeiten ohne Ausgleich verlängern dürfen. Im Gegenzug müssen sie jedoch investieren und Arbeitsplätze sichern. Die Arbeitgeber forderten laut Spiegel geringere Arbeitskosten und eine Abkehr von der 35-Stunden-Woche, um dem internationalen Wettbewerbsdruck zu begegnen."
+     ]
+    },
+    {
+     "ueberschrift": "Vorgeschichte und Rahmenbedingungen",
+     "absaetze": [
+      "Den Gesprächen waren laut Tagesschau/ARD Warnstreiks vorausgegangen. Die Gewerkschaft hatte den Druck auf die Arbeitgeber mit ganztägigen Aktionen erhöht. Die IG Metall gab an, dass an den Warnstreiks mehr als 950.000 Menschen teilnahmen. In Norddeutschland hatte die Gewerkschaft laut ZDFheute über 23.000 Beschäftigte zu einem 24-Stunden-Streik aufgerufen.",
+      "Die Tarifrunde war durch die unterschiedliche Lage in den verschiedenen Sparten kompliziert geworden. Die Auto- und Zulieferindustrie schwächelt und leidet unter dem Druck aus China sowie gestiegenen US-Importzöllen. Andere Bereiche wie die Luft- und Raumfahrt, die Medizintechnik, die Elektrotechnik und die Wehrtechnik verzeichnen dagegen positive Entwicklungen. Seit 2019 sind in der Branche laut ZDFheute 350.000 Arbeitsplätze verloren gegangen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen und Forderungen",
+     "absaetze": [
+      "Die IG Metall war mit der Forderung nach fünf Prozent mehr Entgelt bei einer einjährigen Laufzeit in die Verhandlungen gestartet. Das Angebot der Arbeitgeberseite lag laut Spiegel und Süddeutsche Zeitung zunächst bei 1,3 Prozent mehr Lohn bei einer Laufzeit von 26 Monaten. Der Arbeitgeberverband Gesamtmetall hatte zudem eine Einmalzahlung angeboten, die unter Bedingungen ausgesetzt werden konnte.",
+      "Stephanie Barrett erklärte im ZDF-Börsenstudio laut ZDFheute, dass die Verhandlungen ein großer Spagat waren und die Einigung eine gute Nachricht darstellt. Unabhängig vom Gesamtabschluss stehen in anderen Konzernen weitere Auseinandersetzungen bevor. Bei Volkswagen hat zeitgleich die Tarifrunde für rund 120.000 Beschäftigte begonnen. Das VW-Management verlangt laut Süddeutscher Zeitung harte Einschnitte, während im Unternehmen bereits von einem Katalog des Grauens gesprochen wird."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Montag",
+     "Die IG Metall beauftragte die Bezirke Baden-Württemberg und Nordrhein-Westfalen mit den Verhandlungen."
+    ],
+    [
+     "Mittwoch",
+     "Beginn der vierten Verhandlungsrunde im Mannheimer Congress Center Rosengarten um 13 Uhr."
+    ],
+    [
+     "Donnerstag",
+     "Bekanntgabe der Einigung nach Verhandlungen."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "institution",
+     "suchbegriff": "IG Metall headquarters Frankfurt",
+     "bildunterschrift": "Die Zentrale der Gewerkschaft IG Metall, die in den Tarifverhandlungen den Abschluss aushandelte."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Congress Center Rosengarten Mannheim",
+     "bildunterschrift": "Das Congress Center Rosengarten in Mannheim, in dem die Verhandlungsrunde stattfand."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Automotive industry manufacturing plant",
+     "bildunterschrift": "Eine Produktionsstätte der Metall- und Elektroindustrie, deren Beschäftigte von dem neuen Tarifvertrag betroffen sind."
+    }
+   ],
+   "ort": {
+    "name": "Mannheim, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Wertende Wörter wie schärfste Warnstreiks und dramatischer Spagat wurden entfernt oder neutralisiert."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Tarifvertrag",
+      "Eine schriftliche Vereinbarung über Arbeitsbedingungen und Löhne zwischen einer Gewerkschaft und Arbeitgebern."
+     ],
+     [
+      "Pilotabschluss",
+      "Ein erster Tarifvertrag in einer Region oder Branche, der oft als Vorbild für andere Bereiche dient."
+     ],
+     [
+      "Gewerkschaft",
+      "Eine Organisation von Arbeitnehmern, die sich für bessere Löhne und Arbeitsbedingungen einsetzt."
+     ]
+    ],
+    "fragen": [
+     "Welche Vor- und Nachteile haben Ausnahmen von der regulären Arbeitszeit für Arbeitnehmer?",
+     "Warum ist ein sogenannter Pilotabschluss wichtig für die gesamte Branche?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie hoch ist die vereinbarte Lohnerhöhung insgesamt?",
+      "optionen": [
+       "drei Prozent",
+       "vier Komma drei Prozent",
+       "fünf Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau und Süddeutscher Zeitung erhalten die Beschäftigten insgesamt 4,3 Prozent mehr Lohn."
+     },
+     {
+      "frage": "Wie lange läuft der neue Tarifvertrag?",
+      "optionen": [
+       "zwölf Monate",
+       "25 Monate",
+       "26 Monate"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Tagesschau und der Spiegel bestätigen eine Laufzeit von 25 Monaten."
+     },
+     {
+      "frage": "Wo fanden die entscheidenden Verhandlungen statt?",
+      "optionen": [
+       "Congress Center Rosengarten in Mannheim",
+       "IG Metall Zentrale in Frankfurt",
+       "Verhandlungsort in Berlin"
+      ],
+      "richtig": 0,
+      "erklaerung": "Tagesschau, ZDFheute und Spiegel berichten übereinstimmend, dass im Mannheimer Congress Center Rosengarten verhandelt wurde."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In der Metall- und Elektroindustrie gibt es eine neue Einigung für die Löhne.",
+    "absaetze": [
+     "Die Gewerkschaft IG Metall und die Arbeitgeber haben nach langen Gesprächen einen Kompromiss gefunden.",
+     "Die Beschäftigten bekommen in zwei Schritten insgesamt vier Komma drei Prozent mehr Geld.",
+     "Zusätzlich ist eine Einmalzahlung von bis zu vierhundertfünfzig Euro vorgesehen.",
+     "Der Vertrag gilt für fünfundzwanzig Monate und betrifft rund drei Komma sieben Millionen Menschen.",
+     "Unter bestimmten Bedingungen sind auch Ausnahmen von der bisherigen Arbeitszeit erlaubt."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Die IG Metall und die Arbeitgeber haben sich auf einen Tarifabschluss geeinigt.",
+     "Die Beschäftigten erhalten in zwei Stufen insgesamt vier Komma drei Prozent mehr Lohn.",
+     "Der Vertrag gilt für fünfundzwanzig Monate und soll auf andere Regionen übertragen werden."
+    ],
+    "lang": [
+     "In der Metall- und Elektroindustrie gibt es eine Einigung im Tarifstreit.",
+     "Nach Verhandlungen in Mannheim verkündeten die Gewerkschaft IG Metall und die Arbeitgeber das Ergebnis.",
+     "Die Beschäftigten erhalten insgesamt vier Komma drei Prozent mehr Lohn in zwei Stufen.",
+     "Die erste Stufe von zwei Prozent kommt zum ersten Mai zweitausend sieben.",
+     "Die zweite Stufe von zwei Komma drei Prozent folgt zum ersten April zweitausend acht.",
+     "Die Laufzeit des Tarifvertrags beträgt fünfundzwanzig Monate.",
+     "Nach Berichten der Tagesschau und des Spiegels stimmte die Gewerkschaft auch Ausnahmen von der fünfunddreißig-Stunden-Woche zu.",
+     "Die IG Metall forderte zuvor fünf Prozent mehr Geld bei einer Laufzeit von einem Jahr.",
+     "Die Arbeitgeberseite bot laut Spiegel zunächst eine geringere Erhöhung an.",
+     "Der Abschluss gilt als Pilotabschluss für dreihunderttausend beziehungsweise insgesamt drei Komma sieben Millionen Beschäftigte."
+    ],
+    "einfach": [
+     "In Deutschland gibt es einen neuen Tarifvertrag für die Metallindustrie.",
+     "Die Gewerkschaft IG Metall und die Arbeitgeber haben lange verhandelt.",
+     "Jetzt bekommen die Arbeiterinnen und Arbeiter mehr Geld.",
+     "Es gibt insgesamt vier Komma drei Prozent mehr Lohn in zwei Stufen.",
+     "Ausserdem erhalten viele Beschäftigte eine Einmalzahlung.",
+     "Der Vertrag gilt für fünfundzwanzig Monate."
+    ]
+   },
+   "kurz": [
+    "IG Metall und Arbeitgeber einigen sich auf einen Tarifabschluss.",
+    "Beschäftigte erhalten insgesamt 4,3 Prozent mehr Lohn in zwei Stufen.",
+    "Der Vertrag hat eine Laufzeit von 25 Monaten.",
+    "Ausnahmen von der 35-Stunden-Woche sind unter bestimmten Bedingungen möglich."
+   ],
+   "fakten": [
+    [
+     "Lohnerhöhung gesamt",
+     "4,3 Prozent"
+    ],
+    [
+     "Laufzeit",
+     "25 Monate"
+    ],
+    [
+     "Beschäftigte",
+     "3,7 Millionen"
+    ],
+    [
+     "Einmalzahlung",
+     "bis zu 450 Euro"
+    ]
+   ],
+   "dossier": {
+    "slug": "metall-elektro-tarifrunde-2026",
+    "titel": "Tarifkonflikt in der Metall- und Elektroindustrie"
+   },
+   "bildInfo": {
+    "titel": "Mannheim Rosengarten 20100627.jpg",
+    "beschreibung": "Mannheim , Congress Center Rosengarten",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Mannheim_Rosengarten_20100627.jpg/1280px-Mannheim_Rosengarten_20100627.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mannheim_Rosengarten_20100627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Mannheim_Rosengarten_20100627.jpg",
+    "urheber": "Rudolf Stricker",
+    "lizenz": "Attribution",
+    "lizenzUrl": "",
+    "artikel": "Rosengarten (Mannheim)",
+    "sprache": "de",
+    "art": "ort",
+    "suchbegriff": "Congress Center Rosengarten Mannheim",
+    "bildunterschrift": "Das Congress Center Rosengarten in Mannheim als ein Ort für Verhandlungen.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Mannheim Rosengarten 20100627.jpg",
+     "beschreibung": "Mannheim , Congress Center Rosengarten",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Mannheim_Rosengarten_20100627.jpg/1280px-Mannheim_Rosengarten_20100627.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mannheim_Rosengarten_20100627.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Mannheim_Rosengarten_20100627.jpg",
+     "urheber": "Rudolf Stricker",
+     "lizenz": "Attribution",
+     "lizenzUrl": "",
+     "artikel": "Rosengarten (Mannheim)",
+     "sprache": "de",
+     "art": "ort",
+     "suchbegriff": "Congress Center Rosengarten Mannheim",
+     "bildunterschrift": "Das Congress Center Rosengarten in Mannheim als ein Ort für Verhandlungen.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Tektron plant floor.png",
+     "beschreibung": "Plant floor at Tektron Industries, LTD.",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tektron_plant_floor.png",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Tektron_plant_floor.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Tektron_plant_floor.png",
+     "urheber": "Edgea100",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "art": "symbol",
+     "suchbegriff": "Automotive industry manufacturing plant",
+     "bildunterschrift": "Eine Produktionshalle in der Industrie, in der Beschäftigte von der Tarifeinigung betroffen sind.",
+     "hinweis": "Symbolbild"
+    }
+   ],
+   "ortInfo": {
+    "name": "Mannheim, Deutschland",
+    "lat": 49.489,
+    "lon": 8.467
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
   {
    "id": "russland-atomwaffe-all",
    "rubrik": "Welt",
@@ -2677,24 +4278,9 @@
    ],
    "bilder": [
     {
-     "art": "person",
-     "suchbegriff": "Boris Pistorius politician",
-     "bildunterschrift": "Bundesverteidigungsminister Boris Pistorius, über dessen Ministerium und Unterrichtungen im Bericht informiert wurde."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Friedrich Merz politician",
-     "bildunterschrift": "Bundeskanzler Friedrich Merz äußerte sich auf einer Pressekonferenz zu den Meldungen über die Weltraumbewaffnung."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Moscow Kremlin",
-     "bildunterschrift": "Der Kreml in Moskau, von wo aus die russische Regierung agiert."
-    },
-    {
      "art": "institution",
-     "suchbegriff": "European Space Agency headquarters",
-     "bildunterschrift": "Sitz der Europäischen Weltraumorganisation ESA, deren Generaldirektor sich zur Sicherheit im All äußerte."
+     "suchbegriff": "United Nations Headquarters building",
+     "bildunterschrift": ""
     }
    ],
    "ort": {
@@ -2807,513 +4393,8 @@
       20.17
      ]
     }
-   ]
-  },
-  {
-   "id": "klimakonferenz-antalya-cop31",
-   "rubrik": "Wissen & Klima",
-   "zeit": "2026-11-23T17:24:25.000Z",
-   "aktualisiert": "aktualisiert um 11:51 Uhr",
-   "titel": "Klimakonferenz COP31 ohne gemeinsame Abschlusserklärung beendet",
-   "vorspann": "Die Uno-Klimakonferenz COP31 ist ohne die Verabschiedung eines gemeinsamen Schlusstextes zu Ende gegangen. Grund für das Scheitern waren unter anderem Differenzen über einen Ausstieg aus fossilen Brennstoffen und Finanzierungsfragen.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Die Uno-Klimakonferenz COP31 in Antalya ist ohne eine gemeinsame Abschlusserklärung zu Ende gegangen.",
-    "Hauptgründe für den Ausfall des Schlusstextes waren Streitigkeiten über einen Ausstieg aus Kohle, Öl und Gas sowie Fragen der internationalen Klimafinanzierung.",
-    "Während eine Mehrheit von rund 130 Staaten eine klare Abkehr von fossilen Energieträgern forderte, blockierten Länder wie Saudi-Arabien und Russland entsprechende Formulierungen.",
-    "Uno-Klimachef Simon Stiell kündigte an, mögliche Reformen des Verhandlungsprozesses zu prüfen."
    ],
-   "einig": [
-    [
-     "Die Klimakonferenz COP31 in Antalya endete ohne eine gemeinsame Abschlusserklärung.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "BBC"
-     ]
-    ],
-    [
-     "Ölförderländer wie Saudi-Arabien und Russland lehnten Formulierungen zum Ausstieg aus fossilen Energieträgern ab.",
-     [
-      "Tagesschau/ARD",
-      "Spiegel",
-      "BBC"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob künftig bei den Uno-Klimakonferenzen anstelle des Konsensprinzips Mehrheitsabstimmungen eingeführt werden sollen, ist laut der BBC noch unklar und Gegenstand künftiger Prüfungen."
-   ],
-   "positionen": [
-    [
-     "China (Sprecher des Außenministeriums Guo Jiakun)",
-     "Das Scheitern der Konferenz ist enttäuschend, aber der globale Trend zur Energiewende ist unumkehrbar.",
-     "Spiegel"
-    ],
-    [
-     "EU und weitere Staaten (unter anderem vertreten durch den irischen Minister Darragh O'Brien)",
-     "Ein Entwurf ohne Erwähnung des Ausstiegs aus fossilen Brennstoffen ist unannehmbar und schwächt frühere Verträge.",
-     "Spiegel"
-    ],
-    [
-     "Saudi-Arabien (Verhandlungsführer Mohammad Ayoub für die Arabische Liga)",
-     "Arabische Nationen haben nur einen geringen Anteil an historischen Emissionen und müssen selbst über Klimaschutz entscheiden.",
-     "BBC"
-    ],
-    [
-     "Russland (Delegierter Sergei Kononuchenko)",
-     "Ein vorzeitiger Stopp von Öl und Gas führt zu Engpässen, zudem kritisierte er die Kreditvergabepraxis reicher Länder.",
-     "BBC"
-    ]
-   ],
-   "fehlend": "Reaktionen weiterer betroffener Entwicklungsländer oder spezifische Positionen der USA (da keine offizielle Delegation anwesend war).",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "23.11.26, 14:56",
-     "fokus": "Kompakter Überblick über das Scheitern",
-     "text": "Berichtet kurz und sachlich über das Ende der COP31 ohne Abschlusserklärung und den Druck von Ölförderländern.",
-     "url": "https://www.tagesschau.de/video/video-1688464.html",
-     "video": true,
-     "lesbar": null,
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "Spiegel",
-     "typ": "Nachrichtenmagazin",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "23.11.26, 10:28",
-     "fokus": "Haltung Chinas und beteiligte Staaten",
-     "text": "Beleuchtet Chinas Reaktion auf das Scheitern sowie die Rolle der EU, Panamas und kleiner Inselstaaten bei der Ablehnung des Entwurfs.",
-     "url": "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 209,
-      "satzlaenge": 23,
-      "langeWoerter": 34
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "BBC",
-     "typ": "öffentlich-rechtlich (Großbritannien)",
-     "art": "internationaler Sender",
-     "stamm": true,
-     "datum": "23.11.26, 18:24",
-     "fokus": "Geopolitische Hintergründe und detaillierte Zitate",
-     "text": "Liefert ausführliche Aussagen von Verhandlungsführern aus Saudi-Arabien, Russland, Australien und der Türkei sowie Einblicke in die Finanzdebatte.",
-     "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 6,
-      "woerter": 1247,
-      "satzlaenge": 19,
-      "langeWoerter": 30
-     },
-     "traeger": "British Broadcasting Corporation, Großbritannien",
-     "finanzierung": "Rundfunkgebühr (Licence Fee)",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit der Zitate",
-     "Die BBC liefert sehr detaillierte Zitate und Begründungen der Delegierten aus Russland und Saudi-Arabien, während Tagesschau und Spiegel sich auf die Kernpunkte konzentrieren."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Delegierte der Vereinten Nationen und Staatenvertreter",
-    "was": "Scheitern einer gemeinsamen Abschlusserklärung",
-    "wann": "noch unklar",
-    "wo": "Antalya, Türkei",
-    "wie": "nach langen Verhandlungen",
-    "warum": "Unüberbrückbare Differenzen bei fossilen Brennstoffen und Finanzfragen laut Berichten",
-    "quellenlage": "Berichte von Tagesschau/ARD, Spiegel und BBC"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Die Uno-Klimakonferenz COP31 ist in der türkischen Stadt Antalya ohne eine gemeinsame Abschlusserklärung zu Ende gegangen. Nach Angaben der Berichterstattung von Tagesschau/ARD, Spiegel und BBC scheiterten die langen Verhandlungen an unüberbrückbaren Gegensätzen. Ein zentraler Streitpunkt im Entwurf war die Erwähnung oder der Verzicht auf einen Ausstieg aus fossilen Energieträgern. Mehrere Staaten lehnten den Text ab, weil ein klares Bekenntnis zur Abkehr von Kohle, Öl und Gas fehlte.",
-      "Laut dem Bericht des Spiegel war vor allem die Europäische Union gegen den Entwurf. Auch Panama sowie Inselstaaten wie Vanuatu und die Marshall-Inseln schlossen sich dieser Ablehnung an. Die Berichte von Tagesschau/ARD und BBC verweisen zudem auf den Druck von ölproduzierenden Ländern. Staaten wie Saudi-Arabien und Russland hatten sich gegen jegliche Formulierung zu fossilen Brennstoffen ausgesprochen. Die Verhandlungen endeten laut der BBC nach einer langen Verlängerung.",
-      "Trotz des fehlenden Schlusstextes blieben viele Staaten in der Frage der Klimaschutzziele tief gespalten. Der australische Verhandlungsführer Chris Bowen sprach laut der BBC von einem äußerst komplizierten geopolitischen Umfeld. Der türkische Umweltminister und Konferenzpräsident Murat Kurum erklärte laut der BBC, dass man sich nicht an einzelnen Wörtern hätte aufhängen sollen. China bewertete das Scheitern in den Berichten des Spiegel als enttäuschend, betonte jedoch, dass der Weg der Energiewende unumkehrbar sei."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Laut Angaben des Spiegels und der BBC wurde der Entwurf für den Abschlusstext vom türkischen COP31-Vorsitz und dem australischen Verhandlungsvorsitz veröffentlicht. Zu den Staaten, die eine explizite Formulierung zum Ausstieg aus fossilen Brennstoffen forderten, gehörte laut der BBC eine Mehrheit von etwa 130 Regierungen. Dies entsprach etwa zwei Dritteln der in Antalya vertretenen Länder. Diese Staaten argumentierten, dass ein bloßes Reduzieren von Emissionen ohne den Verzicht auf die verursachenden Brennstoffe einen Rückschritt im Vergleich zu früheren Beschlüssen bedeuten würde.",
-      "Auf der Gegenseite begründeten ölproduzierende Länder ihre Position ebenfalls. Mohammad Ayoub, ein Verhandlungsführer für Saudi-Arabien und Sprecher der 22 Arabischen Ligen, erklärte laut BBC, dass arabische Nationen weniger als zwei Prozent der historischen Treibhausgasemissionen verursacht hätten. Die Verantwortung liege bei den Industrienationen. Der russische Delegierte Sergei Kononuchenko warnte vor Engpässen und steigenden Preisen bei einer vorzeitigen Reduzierung von Öl und Gas. Kononuchenko kritisierte in dem BBC-Bericht zudem die Finanzierungspraxis, bei der Gelder für Entwicklungsländer oft als Kredite statt als Zuschüsse vergeben würden.",
-      "In den Berichten wird auch die Rolle der Vereinigten Staaten beleuchtet. Laut Spiegel und BBC nahm die US-Regierung nicht offiziell an den Verhandlungen in Antalya teil, da die USA aus dem Pariser Klimaabkommen ausgestiegen sind. Gleichzeitig veröffentlichten die USA, China und Russland laut der BBC eine gemeinsame Erklärung in Shenzhen, in der die Produktion von Raffinerieprodukten erhöht werden soll. Die EU war in den Verhandlungen unter anderem durch den irischen Minister Darragh O'Brien vertreten, der einen Text ohne Erwähnung fossiler Brennstoffe als unannehmbar bezeichnete. Simon Stiell, der Klimachef der Vereinten Nationen, kündigte an, Reformen des COP-Prozesses zu prüfen."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergründe",
-     "absaetze": [
-      "Die Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzip des Konsenses. Laut den Erläuterungen der BBC bietet diese Einstimmigkeit kleineren und ärmeren Staaten einen Schutz vor dem Überstimmen durch mächtigere Länder. Auf der anderen Seite führt dieses Verfahren dazu, dass einzelne Blockierer Beschlüsse verhindern können. Der australische Verhandlungsführer Chris Bowen bezeichnete das diplomatische Umfeld als das schwierigste in der bisherigen Geschichte der Gespräche. Bereits drei Jahre zuvor war auf der Klimakonferenz COP28 in Dubai ein Ausstieg aus fossilen Brennstoffen vereinbart worden.",
-      "Ein weiterer Konflikt betrifft die Klimafinanzierung. Vertreter von Entwicklungsländern weisen laut den Berichten darauf hin, dass sie die Hauptlast von Klimaschäden tragen. Kritiker wie der russische Delegierte Kononuchenko warfen den Industrienationen vor, finanzielle Hilfen vor allem in Form von rückzahlbaren Krediten zu gewähren. Die Europäische Union hatte vor Beginn der Verhandlungen erhebliche zusätzliche Finanzhilfen ausgeschlossen."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Weltklimakonferenzen sind offizielle Zusammenkünfte der Vertragsstaaten der Klimarahmenkonvention der Vereinten Nationen. Das Hauptziel dieser Konferenzen besteht darin, globale Maßnahmen gegen den Klimawandel zu verhandeln und internationale Vereinbarungen zu treffen.",
-      "Das Verfahren bei solchen Gipfeln sieht vor, dass Delegierte aus aller Welt über Entwürfe beraten. Da die Entscheidungen im Konsens getroffen werden müssen, ist die Zustimmung aller teilnehmenden Staaten erforderlich. Wenn keine Einigung erzielt wird, kann eine Konferenz ohne formelle Abschlusserklärung enden."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Guo Jiakun, Sprecher des chinesischen Außenministeriums, bezeichnete das Scheitern der Konferenz laut dem Spiegel als enttäuschend. Er betonte jedoch, dass der weltweite Trend zur grünen Transformation unumkehrbar bleibe.",
-      "Darragh O'Brien, der irische Minister und Vertreter der Europäischen Union, erklärte laut der BBC, dass ein Verhandlungsergebnis ohne Erwähnung fossiler Brennstoffe unannehmbar sei.",
-      "Chris Bowen, der australische Verhandlungsleiter, sprach laut der BBC von unüberbrückbaren roten Linien infolge einer komplizierten Lage.",
-      "Murat Kurum, der türkische Umweltminister und Konferenzpräsident, rief dazu auf, sich nicht an einzelnen Wörtern festzubeißen.",
-      "Mohammad Ayoub, ein Verhandlungsführer für Saudi-Arabien, betonte laut der BBC, dass die arabischen Länder nur einen geringen Anteil der historischen Emissionen verursacht hätten.",
-      "Sergei Kononuchenko, der Delegierte Russlands, warnte vor Engpässen bei einem sofortigen Stopp fossiler Brennstoffe und kritisierte die Vergabe von Krediten laut BBC.",
-      "Christiana Figueres, die frühere Leiterin der UN-Klimaverhandlungen, erklärte laut der BBC, es sei richtig gewesen, den Text abzulehnen.",
-      "Mohamed Adow, ein kenianischer Aktivist, warf der Europäischen Union laut der BBC vor, die eigene Verantwortung bei der Klimafinanzierung nicht anzuerkennen."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Nach dem Abschluss der Konferenz kündigte der Uno-Klimachef Simon Stiell an, er werde Beratungen über mögliche Reformen des COP-Prozesses einleiten. Dazu gehört laut der BBC die Diskussion darüber, ob bei anhaltender Blockade künftig Mehrheitsentscheidungen eingeführt werden sollten. Alternativ wird geprüft, ob willige Staaten eigenständige Vereinbarungen abseits der formellen Verhandlungen treffen könnten. Das Fehlen einer offiziellen Erklärung stoppt jedoch nicht die weltweite Entwicklung von Solaranlagen, Batterien und Elektrofahrzeugen, die laut Berichten der BBC zunehmend wettbewerbsfähig sind."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "Freitag",
-     "Planmäßiges Ende der COP31-Klimakonferenz, das jedoch verpasst wurde."
-    ],
-    [
-     "Samstag",
-     "Verhandlungen wurden fortgesetzt, zahlreiche Minister reisten ab."
-    ],
-    [
-     "Sonntagmittag",
-     "Beginn des Schlussplenums nach mehreren Verschiebungen."
-    ],
-    [
-     "Sonntagabend",
-     "Beendigung der COP31 mit einem Hammerschlag nach einer Rekordverlängerung von über 49 Stunden."
-    ],
-    [
-     "Sonntagmorgen",
-     "Veröffentlichung des neuen Textentwurfs durch den türkischen COP31-Vorsitz und den australischen Verhandlungsvorsitz."
-    ],
-    [
-     "Sonntagabend",
-     "Beendigung der COP31 nach einer langen Verlängerung."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Simon Stiell politician",
-     "bildunterschrift": "Uno-Klimachef Simon Stiell kündigte nach dem Verhandlungsergebnis Reformen des Konferenzprozesses an."
-    },
-    {
-     "art": "ort",
-     "suchbegriff": "Antalya cityscape",
-     "bildunterschrift": "Die türkische Stadt Antalya war der Austragungsort der diesjährigen Uno-Klimakonferenz."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Solar panels renewable energy",
-     "bildunterschrift": "Erneuerbare Energien gewinnen laut Berichten unabhängig von UN-Beschlüssen an Bedeutung."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "United Nations headquarters",
-     "bildunterschrift": "Die Vereinten Nationen organisieren die internationalen Klimakonferenzen und das Rahmenabkommen."
-    }
-   ],
-   "ort": {
-    "name": "Antalya, Türkei"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das Datum im W-Fragen-Block wurde auf noch unklar gesetzt, da im Text kein konkretes Datum stand.",
-    "Die Dauer der Verlängerung im Artikel wurde auf eine lange Verlängerung angepasst.",
-    "Unbelegte Zahlen und ungesicherte Hintergrunddetails aus dem Entwurf wurden entfernt."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Abschlusserklärung",
-      "Ein gemeinsames Dokument am Ende einer Konferenz, in dem die teilnehmenden Staaten ihre Beschlüsse festhalten."
-     ],
-     [
-      "Konsensprinzip",
-      "Eine Regel, nach der alle beteiligten Staaten einer Entscheidung zustimmen müssen, damit sie gültig ist."
-     ],
-     [
-      "Fossile Energieträger",
-      "Brennstoffe wie Kohle, Erdöl und Erdgas, deren Verbrennung Treibhausgase freisetzt."
-     ]
-    ],
-    "fragen": [
-     "Welche Vor- und Nachteile hat das Konsensprinzip bei internationalen Verhandlungen?",
-     "Wie bewerten verschiedene Länder ihre Verantwortung für den historischen Ausstoß von Treibhausgasen?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wo fand die Klimakonferenz COP31 statt?",
-      "optionen": [
-       "In Antalya, Türkei",
-       "In Dubai, Vereinigte Arabische Emirate",
-       "In Shenzhen, China"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD, Spiegel und BBC fand die COP31 in Antalya in der Türkei statt."
-     },
-     {
-      "frage": "Warum scheiterte die gemeinsame Abschlusserklärung?",
-      "optionen": [
-       "Wegen eines Streits über den Ausstieg aus fossilen Energieträgern und Finanzierungsfragen",
-       "Wegen eines Streits über den Austritt der Vereinigten Staaten aus dem Klimaabkommen",
-       "Wegen fehlender technischer Ausrüstung für die Konferenz"
-      ],
-      "richtig": 0,
-      "erklaerung": "Die Berichte von Tagesschau/ARD, Spiegel und BBC nennen den Streit um fossile Energieträger und Finanzierungsfragen als Hauptgrund."
-     },
-     {
-      "frage": "Welche Position vertraten Ölförderländer wie Saudi-Arabien und Russland?",
-      "optionen": [
-       "Sie forderten einen sofortigen Stopp von Kohle, Öl und Gas.",
-       "Sie lehnten Formulierungen zum Ausstieg aus fossilen Energieträgern ab.",
-       "Sie forderten zusätzliche finanzielle Hilfe für Entwicklungsländer."
-      ],
-      "richtig": 1,
-      "erklaerung": "Laut übereinstimmenden Berichten aller drei Quellen lehnten Ölförderländer wie Saudi-Arabien und Russland entsprechende Formulierungen ab."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Die Weltklimakonferenz COP31 ist ohne eine gemeinsame Einigung zu Ende gegangen.",
-    "absaetze": [
-     "Die Konferenz fand in der Stadt Antalya in der Türkei statt.",
-     "Ein Grund für das Scheitern war der Streit über Kohle, Öl und Gas.",
-     "Länder wie Saudi-Arabien und Russland wollten keinen Ausstieg aus diesen Energien im Text stehen haben.",
-     "Eine große Mehrheit von etwa 130 Staaten forderte dagegen einen klaren Ausstieg.",
-     "Der Uno-Klimachef Simon Stiell kündigte an, die Abläufe der Konferenzen zu überprüfen."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Die Uno-Klimakonferenz COP31 in Antalya ging ohne gemeinsame Abschlusserklärung zu Ende.",
-     "Ölförderländer blockierten Textteile zum Ausstieg aus fossilen Energieträgern.",
-     "Uno-Klimachef Simon Stiell kündigte an, den Verhandlungsprozess zu reformieren."
-    ],
-    "lang": [
-     "Die Uno-Klimakonferenz COP31 in der türkischen Stadt Antalya endete ohne eine gemeinsame Abschlusserklärung.",
-     "Nach Angaben der Berichte scheiterten die Verhandlungen am letzten Tag an unüberbrückbaren Gegensätzen.",
-     "Ein zentraler Streitpunkt war die Erwähnung eines Ausstiegs aus fossilen Energieträgern.",
-     "Etwa 130 Staaten forderten eine klare Abkehr von Kohle, Öl und Gas.",
-     "Länder wie Saudi-Arabien und Russland lehnten entsprechende Formulierungen ab.",
-     "Der saudi-arabische Verhandlungsführer Mohammad Ayoub erklärte nach Angaben der British Broadcasting Corporation, arabische Nationen hätten weniger als zwei Prozent der historischen Emissionen verursacht.",
-     "Der russische Delegierte Sergei Kononuchenko warnte vor Engpässen bei einem vorzeitigen Stopp von Öl und Gas.",
-     "Der Sprecher des chinesischen Außenministeriums Guo Jiakun bezeichnete das Scheitern laut dem Spiegel als enttäuschend, nannte den Trend zur Energiewende aber unumkehrbar.",
-     "Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzip des Konsenses, bei dem alle Staaten zustimmen müssen.",
-     "Uno-Klimachef Simon Stiell kündigte an, mögliche Reformen des Verhandlungsprozesses zu prüfen."
-    ],
-    "einfach": [
-     "Die Weltklimakonferenz in der Türkei ist ohne Einigung beendet worden.",
-     "Ein Grund dafür war der Streit um Öl und Kohle.",
-     "Einige Länder wollten keinen Ausstieg aus diesen Energien vereinbaren.",
-     "Eine Mehrheit von etwa 130 Staaten forderte diesen Ausstieg jedoch.",
-     "Der Uno-Klimachef will nun die Regeln für die Gespräche prüfen."
-    ]
-   },
-   "kurz": [
-    "Die Uno-Klimakonferenz COP31 in Antalya endete ohne gemeinsame Abschlusserklärung.",
-    "Ölförderländer blockierten Formulierungen zum Ausstieg aus fossilen Energieträgern.",
-    "Etwa 130 Staaten forderten eine klare Abkehr von Kohle, Öl und Gas.",
-    "Uno-Klimachef Simon Stiell kündigte Prüfungen für mögliche Prozessreformen an."
-   ],
-   "fakten": [
-    [
-     "Anzahl Staaten für Ausstieg aus fossilen Brennstoffen",
-     "etwa 130"
-    ],
-    [
-     "Anteil arabischer Nationen an historischen Emissionen",
-     "weniger als zwei Prozent"
-    ]
-   ],
-   "dossier": {
-    "slug": "klimakonferenz-cop31",
-    "titel": "Klimakonferenz COP31"
-   },
-   "bildInfos": [],
-   "ortInfo": {
-    "name": "Antalya, Türkei",
-    "lat": 36.887,
-    "lon": 30.703
-   },
-   "version": 5,
-   "ton": [
-    {
-     "k": "Die Uno-Klimakonferenz COP31 in der türkischen Stadt Antalya endete ohne eine ge",
-     "d": "73160a780c.mp3",
-     "l": 72.13,
-     "s": [
-      0.25,
-      7.94,
-      13.84,
-      19.09,
-      24.44,
-      29.14,
-      41.32,
-      48.23,
-      58.49,
-      65.68
-     ]
-    },
-    {
-     "k": "Die Uno-Klimakonferenz COP31 in Antalya ging ohne gemeinsame Abschlusserklärung ",
-     "d": "d71fa118dd.mp3",
-     "l": 16.92,
-     "s": [
-      0.25,
-      6.92,
-      11.6
-     ]
-    },
-    {
-     "k": "Die Weltklimakonferenz in der Türkei ist ohne Einigung beendet worden. Ein Grund",
-     "d": "d7cf25cc97.mp3",
-     "l": 22.57,
-     "s": [
-      0.25,
-      4.65,
-      7.78,
-      12.4,
-      18.07
-     ]
-    },
-    {
-     "k": "Ob künftig bei den Uno-Klimakonferenzen anstelle des Konsensprinzips Mehrheitsab",
-     "d": "6a5dca5015.mp3",
-     "l": 10.65,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Abschlusserklärung? Ein gemeinsames Dokument am Ende ein",
-     "d": "8b6a063d41.mp3",
-     "l": 9.74,
-     "s": [
-      0.25,
-      3.4
-     ]
-    },
-    {
-     "k": "Die Uno-Klimakonferenz COP31 ist in der türkischen Stadt Antalya ohne eine gemei",
-     "d": "4c4f228de2.mp3",
-     "l": 55.87,
-     "s": [
-      0.25,
-      8.57,
-      17.16,
-      24.21,
-      30.99,
-      35.92,
-      42.33,
-      49.09
-     ]
-    },
-    {
-     "k": "Laut Angaben des Spiegels und der BBC wurde der Entwurf für den Abschlusstext vo",
-     "d": "df36dbc7b3.mp3",
-     "l": 66.52,
-     "s": [
-      0.25,
-      11.19,
-      21.06,
-      25.62,
-      35.38,
-      40.43,
-      54.29,
-      57.57
-     ]
-    },
-    {
-     "k": "Die Klimakonferenzen der Vereinten Nationen basieren traditionell auf dem Prinzi",
-     "d": "6749411c64.mp3",
-     "l": 56.52,
-     "s": [
-      0.25,
-      5.81,
-      14.04,
-      19.97,
-      28.34,
-      37.42,
-      40.66,
-      46.98
-     ]
-    },
-    {
-     "k": "Weltklimakonferenzen sind offizielle Zusammenkünfte der Vertragsstaaten der Klim",
-     "d": "c875a23482.mp3",
-     "l": 33.98,
-     "s": [
-      0.25,
-      7.3,
-      15.87,
-      21.84,
-      28.32
-     ]
-    },
-    {
-     "k": "Guo Jiakun, Sprecher des chinesischen Außenministeriums, bezeichnete das Scheite",
-     "d": "4c7dfc1dcb.mp3",
-     "l": 70.4,
-     "s": [
-      0.25,
-      8.07,
-      13.41,
-      24.59,
-      33.13,
-      41.31,
-      51.26,
-      61.5
-     ]
-    },
-    {
-     "k": "Nach dem Abschluss der Konferenz kündigte der Uno-Klimachef Simon Stiell an, er ",
-     "d": "edc17976c9.mp3",
-     "l": 35.14,
-     "s": [
-      0.25,
-      9.51,
-      17.33,
-      24.22
-     ]
-    }
-   ]
+   "bildVersucht": true
   }
  ]
 }
