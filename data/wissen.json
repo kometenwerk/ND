@@ -206,7 +206,24 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Chamäleons sind an ihren spezialisierten Augen und ihrer Greiffuß-Anatomie zu erkennen."
-   }
+   },
+   "ton": [
+    {
+     "k": "Chamäleons sind faszinierende Reptilien mit mehr als zweihundert beschriebenen A",
+     "d": "d3280fafb4.mp3",
+     "l": 39.05,
+     "s": [
+      0.25,
+      5.7,
+      11.07,
+      16.02,
+      21.13,
+      24.83,
+      29.19,
+      33.97
+     ]
+    }
+   ]
   },
   {
    "id": "wie-polarlichter-am-nachthimmel-entstehen",
@@ -1373,24 +1390,7 @@
     "art": "symbol",
     "hinweis": "Bild aus der Wikipedia",
     "bildunterschrift": "Gebärdensprachen nutzen Hände, Gesichtsmimik und den Körper zur Kommunikation."
-   },
-   "ton": [
-    {
-     "k": "Gebärdensprachen sind visuell wahrnehmbare Formen von Sprache. Sie werden von ge",
-     "d": "47044d1edb.mp3",
-     "l": 28.31,
-     "s": [
-      0.25,
-      4.34,
-      7.8,
-      11.71,
-      15.93,
-      18.77,
-      21.79,
-      24.9
-     ]
-    }
-   ]
+   }
   },
   {
    "id": "wie-funktioniert-eigentlich-das-menschliche-ohr",

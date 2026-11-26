@@ -2253,7 +2253,19 @@
     "ECMWF (Europa)"
    ]
   },
-  "quelle": "Open-Meteo / Deutscher Wetterdienst"
+  "quelle": "Open-Meteo / Deutscher Wetterdienst",
+  "ton": {
+   "k": "Heute liegen die Höchstwerte zwischen 0 und 3 Grad. Die Vorhersage für morgen, F",
+   "d": "eb54b064a4.mp3",
+   "l": 17.24,
+   "s": [
+    0.25,
+    3.54,
+    7.81,
+    11.54,
+    14.46
+   ]
+  }
  },
  "ton": {
   "basis": "https://raw.githubusercontent.com/kometenwerk/ND/ton/",
@@ -2830,7 +2842,49 @@
     "lon": 4.352
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Die Staats und Regierungschefs der Europäischen Union haben sich auf Pablo Herna",
+     "d": "9e6e86b9bb.mp3",
+     "l": 20.6,
+     "s": [
+      0.25,
+      9.14,
+      15.0
+     ]
+    },
+    {
+     "k": "Die Europäische Union bekommt einen neuen Chef für die Geldpolitik. Der Spanier ",
+     "d": "b015f59720.mp3",
+     "l": 25.69,
+     "s": [
+      0.25,
+      4.83,
+      11.33,
+      16.33,
+      20.47
+     ]
+    },
+    {
+     "k": "Ob die formale Bestätigung durch das Europäische Parlament und den EZB-Rat im De",
+     "d": "b2a06b3f40.mp3",
+     "l": 8.53,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Europäische Zentralbank? Die Bank für die Länder, die de",
+     "d": "52201400f1.mp3",
+     "l": 10.93,
+     "s": [
+      0.25,
+      3.5,
+      7.02
+     ]
+    }
+   ]
   },
   {
    "id": "pro-iranische-terrorzelle-festnahmen",
@@ -3194,7 +3248,130 @@
     "titel": "Festnahmen und Terrorverdacht"
    },
    "bildInfos": [],
-   "version": 5
+   "version": 5,
+   "ton": [
+    {
+     "k": "Die Bundesanwaltschaft hat zwei Männer aus dem Irak festgenommen. Ihnen wird die",
+     "d": "73d2d54286.mp3",
+     "l": 17.95,
+     "s": [
+      0.25,
+      3.89,
+      8.48,
+      13.04
+     ]
+    },
+    {
+     "k": "Die Polizei hat zwei Männer aus dem Irak festgenommen. Die Festnahmen fanden in ",
+     "d": "0eb158b125.mp3",
+     "l": 20.6,
+     "s": [
+      0.25,
+      3.96,
+      7.59,
+      10.88,
+      16.18
+     ]
+    },
+    {
+     "k": "Warum die potenziellen Attentäter ihre Anschlagspläne im März 2026 in Köln und e",
+     "d": "96fe0165a9.mp3",
+     "l": 13.19,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Bundesanwaltschaft? Die oberste Anklagebehörde in Deutsc",
+     "d": "502b40295f.mp3",
+     "l": 9.54,
+     "s": [
+      0.25,
+      2.92,
+      5.9
+     ]
+    },
+    {
+     "k": "Die Bundesanwaltschaft hat in Köln und Heidelberg zwei mutmaßliche Mitglieder ei",
+     "d": "2c96ba9ff7.mp3",
+     "l": 42.55,
+     "s": [
+      0.25,
+      7.63,
+      13.96,
+      18.65,
+      19.8,
+      24.24,
+      30.06,
+      36.11
+     ]
+    },
+    {
+     "k": "Die Ermittlungsbehörden gehen davon aus, dass die Gruppierung Anschläge auf jüdi",
+     "d": "a935259a2e.mp3",
+     "l": 58.79,
+     "s": [
+      0.25,
+      8.26,
+      13.65,
+      23.13,
+      28.64,
+      38.65,
+      44.32,
+      48.8
+     ]
+    },
+    {
+     "k": "Die festgenommenen Männer sollen in Verbindung mit der international agierenden ",
+     "d": "b73481df94.mp3",
+     "l": 56.32,
+     "s": [
+      0.25,
+      5.93,
+      14.64,
+      22.4,
+      28.16,
+      36.34,
+      41.61,
+      49.33
+     ]
+    },
+    {
+     "k": "Die Bundesanwaltschaft ist die oberste Strafverfolgungsbehörde Deutschlands und ",
+     "d": "b8ae8b099f.mp3",
+     "l": 51.06,
+     "s": [
+      0.25,
+      9.38,
+      16.64,
+      23.57,
+      31.6,
+      42.34
+     ]
+    },
+    {
+     "k": "Der Bundesvorsitzende der Deutschen Polizeigewerkschaft, Heiko Teggatz, mahnte a",
+     "d": "936fd06da4.mp3",
+     "l": 29.71,
+     "s": [
+      0.25,
+      7.64,
+      17.07,
+      25.0
+     ]
+    },
+    {
+     "k": "Nach den Festnahmen am Morgen sollten die beiden Verdächtigen im Laufe des Mitta",
+     "d": "6e34787363.mp3",
+     "l": 25.14,
+     "s": [
+      0.25,
+      8.79,
+      11.95,
+      17.78
+     ]
+    }
+   ]
   },
   {
    "id": "doping-sperre-laura-freigang",
@@ -3638,7 +3815,155 @@
     "lon": 8.682
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "Die deutsche Fußballnationalspielerin Laura Freigang erhält wegen verpasster Dop",
+     "d": "1533db5d0c.mp3",
+     "l": 72.12,
+     "s": [
+      0.25,
+      7.61,
+      14.36,
+      23.8,
+      31.94,
+      36.72,
+      42.33,
+      50.37,
+      59.01,
+      65.49
+     ]
+    },
+    {
+     "k": "Die Fußballnationalspielerin Laura Freigang ist für sechzehn Monate gesperrt wor",
+     "d": "af258f5c99.mp3",
+     "l": 13.76,
+     "s": [
+      0.25,
+      5.17,
+      8.74
+     ]
+    },
+    {
+     "k": "Laura Freigang spielt Fußball für Deutschland und Eintracht Frankfurt. Sie hat d",
+     "d": "42d451b511.mp3",
+     "l": 20.37,
+     "s": [
+      0.25,
+      4.97,
+      9.37,
+      12.45,
+      16.7
+     ]
+    },
+    {
+     "k": "Ob der DFB einen noch kürzeren als den letztlich vereinbarten Ausschluss durchse",
+     "d": "5a4ab15d3c.mp3",
+     "l": 12.13,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Meldepflicht? Die Verpflichtung von Sportlern, ihren Auf",
+     "d": "bf36acdb46.mp3",
+     "l": 9.27,
+     "s": [
+      0.25,
+      2.85
+     ]
+    },
+    {
+     "k": "Die Fußballnationalspielerin Laura Freigang ist für eine Dauer von 16 Monaten ge",
+     "d": "d87f69cec5.mp3",
+     "l": 46.6,
+     "s": [
+      0.25,
+      6.01,
+      11.47,
+      15.61,
+      19.58,
+      24.11,
+      33.54,
+      37.98
+     ]
+    },
+    {
+     "k": "Der Zeitraum der festgestellten Versäumnisse erstreckt sich laut den Angaben vom",
+     "d": "64f5bd721e.mp3",
+     "l": 42.29,
+     "s": [
+      0.25,
+      5.61,
+      10.04,
+      13.23,
+      19.12,
+      23.87,
+      28.48,
+      37.76
+     ]
+    },
+    {
+     "k": "Der Fall wurde von der Nationalen Anti Doping Agentur an den Deutschen Fußball-B",
+     "d": "e801b5e461.mp3",
+     "l": 43.04,
+     "s": [
+      0.25,
+      6.5,
+      11.16,
+      16.69,
+      21.92,
+      26.02,
+      32.35,
+      36.5
+     ]
+    },
+    {
+     "k": "Die Welt-Anti-Doping-Agentur ist eine internationale Organisation zur Bekämpfung",
+     "d": "4e10205e80.mp3",
+     "l": 48.26,
+     "s": [
+      0.25,
+      6.44,
+      11.04,
+      19.83,
+      24.39,
+      32.55,
+      37.86,
+      44.34
+     ]
+    },
+    {
+     "k": "Laura Freigang betonte nach Angaben von Tagesschau/ARD, ZDFheute und Spiegel in ",
+     "d": "0f87e727f0.mp3",
+     "l": 56.14,
+     "s": [
+      0.25,
+      9.63,
+      15.93,
+      23.74,
+      33.61,
+      38.57,
+      43.74,
+      51.65
+     ]
+    },
+    {
+     "k": "Die betroffene Spielerin darf bis zum Ablauf der Sperre im Oktober des kommenden",
+     "d": "b552ed3fe0.mp3",
+     "l": 39.6,
+     "s": [
+      0.25,
+      7.01,
+      10.98,
+      14.37,
+      18.6,
+      25.58,
+      30.35,
+      36.02
+     ]
+    }
+   ]
   },
   {
    "id": "metall-tarifstreit-einigung",
@@ -4064,7 +4389,140 @@
     "lon": 8.467
    },
    "version": 5,
-   "bildVersucht": true
+   "bildVersucht": true,
+   "ton": [
+    {
+     "k": "In der Metall- und Elektroindustrie gibt es eine Einigung im Tarifstreit. Nach V",
+     "d": "8c158b6d93.mp3",
+     "l": 54.07,
+     "s": [
+      0.25,
+      4.94,
+      10.91,
+      15.77,
+      20.31,
+      25.55,
+      29.49,
+      36.68,
+      42.0,
+      46.41
+     ]
+    },
+    {
+     "k": "Die IG Metall und die Arbeitgeber haben sich auf einen Tarifabschluss geeinigt. ",
+     "d": "ae91bf42d0.mp3",
+     "l": 15.38,
+     "s": [
+      0.25,
+      5.04,
+      9.74
+     ]
+    },
+    {
+     "k": "In Deutschland gibt es einen neuen Tarifvertrag für die Metallindustrie. Die Gew",
+     "d": "348f4b1f9c.mp3",
+     "l": 25.68,
+     "s": [
+      0.25,
+      4.94,
+      9.59,
+      13.04,
+      17.96,
+      21.99
+     ]
+    },
+    {
+     "k": "Die genaue Höhe der Einmalzahlung wird unterschiedlich genannt: Tagesschau/ARD s",
+     "d": "865a16540b.mp3",
+     "l": 14.19,
+     "s": [
+      0.25
+     ]
+    },
+    {
+     "k": "Was bedeutet eigentlich Tarifvertrag? Eine schriftliche Vereinbarung über Arbeit",
+     "d": "978653049f.mp3",
+     "l": 9.61,
+     "s": [
+      0.25,
+      2.83
+     ]
+    },
+    {
+     "k": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insg",
+     "d": "44ba8d083f.mp3",
+     "l": 47.81,
+     "s": [
+      0.25,
+      7.51,
+      12.05,
+      18.0,
+      22.08,
+      27.64,
+      36.26,
+      41.5
+     ]
+    },
+    {
+     "k": "Die Lohnerhöhung von insgesamt 4,3 Prozent verteilt sich auf zwei Stufen. Die er",
+     "d": "ab6396c54a.mp3",
+     "l": 36.56,
+     "s": [
+      0.25,
+      5.37,
+      9.32,
+      12.04,
+      16.16,
+      18.99,
+      27.51,
+      30.23
+     ]
+    },
+    {
+     "k": "Die IG Metall stimmte in den Verhandlungen optionalen Abweichungen von der klass",
+     "d": "79a63aa27b.mp3",
+     "l": 46.9,
+     "s": [
+      0.25,
+      7.43,
+      12.09,
+      18.09,
+      24.62,
+      33.22,
+      37.6
+     ]
+    },
+    {
+     "k": "Den Gesprächen waren laut Tagesschau/ARD Warnstreiks vorausgegangen. Die Gewerks",
+     "d": "9615834a03.mp3",
+     "l": 38.68,
+     "s": [
+      0.25,
+      4.72,
+      9.66,
+      14.28,
+      16.41,
+      21.72,
+      26.42,
+      31.9
+     ]
+    },
+    {
+     "k": "Die IG Metall war mit der Forderung nach fünf Prozent mehr Entgelt bei einer ein",
+     "d": "3772062367.mp3",
+     "l": 53.69,
+     "s": [
+      0.25,
+      7.63,
+      16.94,
+      24.13,
+      33.51,
+      38.82,
+      43.49,
+      45.76
+     ]
+    }
+   ]
   },
   {
    "id": "russland-atomwaffe-all",
