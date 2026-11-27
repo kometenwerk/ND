@@ -1,9 +1,6 @@
 {
- "stand": "2026-11-27T12:05:17.981Z",
+ "stand": "2026-11-27T21:13:03.762Z",
  "gepusht": [
-  "siedlergewalt-westjordanland",
-  "frankreich-proteste-eskalation",
-  "kanada-militaerbasis-zwischenfall",
   "flughafen-leipzig-sicherheitsvorfall",
   "indien-massenpanik-durga-puja",
   "marsmond-mission-japan-deutschland",
@@ -80,7 +77,10 @@
   "ezb-chefin-nachfolge-hernandez-de-cos",
   "pro-iranische-terrorzelle-festnahmen",
   "doping-sperre-laura-freigang",
-  "metall-tarifstreit-einigung"
+  "metall-tarifstreit-einigung",
+  "bundeshaushalt-2027-beschluss",
+  "rentenreform-entwurf-schweitzer",
+  "eu-sondergipfel-haushalt-gescheitert"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -89,10 +89,13 @@
   "ezb-chefin-nachfolge-hernandez-de-cos",
   "pro-iranische-terrorzelle-festnahmen",
   "doping-sperre-laura-freigang",
-  "metall-tarifstreit-einigung"
+  "metall-tarifstreit-einigung",
+  "bundeshaushalt-2027-beschluss",
+  "rentenreform-entwurf-schweitzer",
+  "eu-sondergipfel-haushalt-gescheitert"
  ],
  "wetter": {
-  "stand": "2026-11-27T12:05:17.981Z",
+  "stand": "2026-11-27T21:13:03.762Z",
   "morgenTag": "Samstag",
   "orte": [
    {
@@ -101,15 +104,15 @@
     "lon": 9.99,
     "teil": "Norden",
     "jetzt": {
-     "grad": 3,
-     "code": 2,
-     "gefuehlt": 0,
-     "wind": 6,
-     "windAus": 57,
-     "feuchte": 74,
-     "druck": 1026,
+     "grad": -1,
+     "code": 3,
+     "gefuehlt": -5,
+     "wind": 13,
+     "windAus": 131,
+     "feuchte": 75,
+     "druck": 1031,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
@@ -118,8 +121,8 @@
      "min": -1,
      "regen": 3,
      "menge": 0,
-     "wind": 14,
-     "windAus": 85,
+     "wind": 13,
+     "windAus": 86,
      "uv": 1.1,
      "auf": "08:06",
      "unter": "16:08"
@@ -127,12 +130,12 @@
     "morgen": {
      "datum": "2026-11-28",
      "code": 3,
-     "max": 0,
+     "max": 1,
      "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 18,
-     "windAus": 126,
+     "windAus": 129,
      "uv": 1.1,
      "auf": "08:08",
      "unter": "16:07"
@@ -145,8 +148,8 @@
       "min": -1,
       "regen": 3,
       "menge": 0,
-      "wind": 14,
-      "windAus": 85,
+      "wind": 13,
+      "windAus": 86,
       "uv": 1.1,
       "auf": "08:06",
       "unter": "16:08"
@@ -154,12 +157,12 @@
      {
       "datum": "2026-11-28",
       "code": 3,
-      "max": 0,
+      "max": 1,
       "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 18,
-      "windAus": 126,
+      "windAus": 129,
       "uv": 1.1,
       "auf": "08:08",
       "unter": "16:07"
@@ -167,38 +170,38 @@
      {
       "datum": "2026-11-29",
       "code": 61,
-      "max": 2,
+      "max": 1,
       "min": -2,
-      "regen": 65,
-      "menge": 3,
-      "wind": 17,
-      "windAus": 150,
-      "uv": 0.7,
+      "regen": 61,
+      "menge": 1.4,
+      "wind": 18,
+      "windAus": 145,
+      "uv": 0.6,
       "auf": "08:10",
       "unter": "16:06"
      },
      {
       "datum": "2026-11-30",
       "code": 3,
-      "max": 4,
+      "max": 5,
       "min": 1,
-      "regen": 14,
+      "regen": 32,
       "menge": 0,
       "wind": 9,
       "windAus": 195,
-      "uv": 1,
+      "uv": 1.1,
       "auf": "08:11",
       "unter": "16:05"
      },
      {
       "datum": "2026-12-01",
       "code": 3,
-      "max": 4,
-      "min": 0,
+      "max": 5,
+      "min": 1,
       "regen": 3,
       "menge": 0,
       "wind": 8,
-      "windAus": 170,
+      "windAus": 171,
       "uv": 0.9,
       "auf": "08:13",
       "unter": "16:04"
@@ -206,13 +209,13 @@
      {
       "datum": "2026-12-02",
       "code": 61,
-      "max": 5,
-      "min": 2,
-      "regen": 39,
-      "menge": 0.8,
-      "wind": 12,
-      "windAus": 200,
-      "uv": 0.6,
+      "max": 6,
+      "min": 1,
+      "regen": 47,
+      "menge": 0.9,
+      "wind": 10,
+      "windAus": 202,
+      "uv": 0.1,
       "auf": "08:14",
       "unter": "16:03"
      },
@@ -221,70 +224,16 @@
       "code": 61,
       "max": 8,
       "min": 2,
-      "regen": 40,
-      "menge": 1.6,
-      "wind": 11,
-      "windAus": 293,
-      "uv": 1,
+      "regen": 51,
+      "menge": 0.9,
+      "wind": 10,
+      "windAus": 274,
+      "uv": 0.8,
       "auf": "08:16",
       "unter": "16:03"
      }
     ],
     "stunden": [
-     {
-      "zeit": "13:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 4,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 4,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 3,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": -1,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": -1,
@@ -306,73 +255,127 @@
      {
       "zeit": "01:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": -1,
-      "code": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -2,
-      "code": 0,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -2,
+      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": -2,
+      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 0,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -1,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -1,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -384,14 +387,14 @@
     "teil": "Osten",
     "jetzt": {
      "grad": 0,
-     "code": 2,
-     "gefuehlt": -5,
-     "wind": 12,
-     "windAus": 73,
+     "code": 3,
+     "gefuehlt": -4,
+     "wind": 9,
+     "windAus": 102,
      "feuchte": 69,
-     "druck": 1023,
+     "druck": 1029,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
@@ -401,7 +404,7 @@
      "regen": 0,
      "menge": 0,
      "wind": 14,
-     "windAus": 70,
+     "windAus": 73,
      "uv": 1.2,
      "auf": "07:48",
      "unter": "15:59"
@@ -413,8 +416,8 @@
      "min": -3,
      "regen": 0,
      "menge": 0,
-     "wind": 15,
-     "windAus": 104,
+     "wind": 17,
+     "windAus": 107,
      "uv": 1.2,
      "auf": "07:49",
      "unter": "15:58"
@@ -428,7 +431,7 @@
       "regen": 0,
       "menge": 0,
       "wind": 14,
-      "windAus": 70,
+      "windAus": 73,
       "uv": 1.2,
       "auf": "07:48",
       "unter": "15:59"
@@ -440,8 +443,8 @@
       "min": -3,
       "regen": 0,
       "menge": 0,
-      "wind": 15,
-      "windAus": 104,
+      "wind": 17,
+      "windAus": 107,
       "uv": 1.2,
       "auf": "07:49",
       "unter": "15:58"
@@ -449,13 +452,13 @@
      {
       "datum": "2026-11-29",
       "code": 3,
-      "max": 1,
-      "min": -3,
-      "regen": 11,
+      "max": 0,
+      "min": -4,
+      "regen": 2,
       "menge": 0,
-      "wind": 15,
-      "windAus": 132,
-      "uv": 0.9,
+      "wind": 16,
+      "windAus": 129,
+      "uv": 1,
       "auf": "07:51",
       "unter": "15:57"
      },
@@ -464,10 +467,10 @@
       "code": 3,
       "max": 2,
       "min": 0,
-      "regen": 23,
+      "regen": 20,
       "menge": 0,
-      "wind": 5,
-      "windAus": 174,
+      "wind": 8,
+      "windAus": 173,
       "uv": 1.2,
       "auf": "07:52",
       "unter": "15:57"
@@ -475,25 +478,25 @@
      {
       "datum": "2026-12-01",
       "code": 3,
-      "max": 1,
-      "min": -2,
-      "regen": 3,
+      "max": 2,
+      "min": -1,
+      "regen": 2,
       "menge": 0,
       "wind": 7,
-      "windAus": 155,
+      "windAus": 164,
       "uv": 1.2,
       "auf": "07:54",
       "unter": "15:56"
      },
      {
       "datum": "2026-12-02",
-      "code": 3,
-      "max": 3,
-      "min": 0,
-      "regen": 15,
+      "code": 2,
+      "max": 2,
+      "min": -2,
+      "regen": 11,
       "menge": 0,
       "wind": 7,
-      "windAus": 182,
+      "windAus": 187,
       "uv": 1.1,
       "auf": "07:55",
       "unter": "15:55"
@@ -501,100 +504,46 @@
      {
       "datum": "2026-12-03",
       "code": 61,
-      "max": 6,
-      "min": 0,
-      "regen": 25,
+      "max": 4,
+      "min": -2,
+      "regen": 35,
       "menge": 0.3,
-      "wind": 12,
-      "windAus": 273,
-      "uv": 1,
+      "wind": 7,
+      "windAus": 258,
+      "uv": 0.8,
       "auf": "07:57",
       "unter": "15:55"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
+      "zeit": "22:00",
       "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": -1,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "22:00",
-      "grad": -1,
-      "code": 2,
-      "regen": 0
-     },
-     {
       "zeit": "23:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
+      "grad": 0,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
-      "code": 3,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 0,
-      "code": 3,
+      "code": 2,
       "regen": 0
      },
      {
@@ -618,30 +567,30 @@
      {
       "zeit": "06:00",
       "grad": 0,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -1,
-      "code": 2,
+      "grad": 0,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
@@ -653,8 +602,62 @@
      },
      {
       "zeit": "12:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
       "grad": 0,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -2,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -665,15 +668,15 @@
     "lon": 12.37,
     "teil": "Osten",
     "jetzt": {
-     "grad": 0,
-     "code": 77,
-     "gefuehlt": -4,
-     "wind": 9,
-     "windAus": 55,
-     "feuchte": 85,
-     "druck": 1011,
+     "grad": -1,
+     "code": 3,
+     "gefuehlt": -5,
+     "wind": 10,
+     "windAus": 66,
+     "feuchte": 78,
+     "druck": 1017,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
@@ -682,21 +685,21 @@
      "min": -1,
      "regen": 85,
      "menge": 0.2,
-     "wind": 10,
-     "windAus": 51,
+     "wind": 11,
+     "windAus": 52,
      "uv": 1,
      "auf": "07:47",
      "unter": "16:08"
     },
     "morgen": {
      "datum": "2026-11-28",
-     "code": 2,
+     "code": 3,
      "max": 0,
-     "min": -3,
+     "min": -2,
      "regen": 0,
      "menge": 0,
-     "wind": 11,
-     "windAus": 87,
+     "wind": 13,
+     "windAus": 88,
      "uv": 1.4,
      "auf": "07:48",
      "unter": "16:07"
@@ -709,21 +712,21 @@
       "min": -1,
       "regen": 85,
       "menge": 0.2,
-      "wind": 10,
-      "windAus": 51,
+      "wind": 11,
+      "windAus": 52,
       "uv": 1,
       "auf": "07:47",
       "unter": "16:08"
      },
      {
       "datum": "2026-11-28",
-      "code": 2,
+      "code": 3,
       "max": 0,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
-      "wind": 11,
-      "windAus": 87,
+      "wind": 13,
+      "windAus": 88,
       "uv": 1.4,
       "auf": "07:48",
       "unter": "16:07"
@@ -731,181 +734,127 @@
      {
       "datum": "2026-11-29",
       "code": 3,
-      "max": 2,
-      "min": -2,
-      "regen": 12,
+      "max": 1,
+      "min": -3,
+      "regen": 8,
       "menge": 0,
       "wind": 8,
-      "windAus": 146,
-      "uv": 1.1,
+      "windAus": 132,
+      "uv": 1,
       "auf": "07:50",
       "unter": "16:07"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
-      "max": 2,
+      "code": 66,
+      "max": 3,
       "min": 1,
-      "regen": 15,
-      "menge": 0,
-      "wind": 5,
-      "windAus": 175,
-      "uv": 1.3,
+      "regen": 18,
+      "menge": 0.2,
+      "wind": 7,
+      "windAus": 185,
+      "uv": 1.2,
       "auf": "07:51",
       "unter": "16:06"
      },
      {
       "datum": "2026-12-01",
-      "code": 2,
+      "code": 3,
       "max": 3,
-      "min": -1,
-      "regen": 0,
+      "min": 0,
+      "regen": 2,
       "menge": 0,
       "wind": 7,
-      "windAus": 165,
+      "windAus": 177,
       "uv": 1.3,
       "auf": "07:53",
       "unter": "16:05"
      },
      {
       "datum": "2026-12-02",
-      "code": 3,
-      "max": 3,
-      "min": 0,
-      "regen": 21,
+      "code": 2,
+      "max": 2,
+      "min": -2,
+      "regen": 12,
       "menge": 0,
       "wind": 8,
-      "windAus": 192,
+      "windAus": 193,
       "uv": 1.3,
       "auf": "07:54",
       "unter": "16:05"
      },
      {
       "datum": "2026-12-03",
-      "code": 61,
-      "max": 7,
-      "min": 1,
+      "code": 3,
+      "max": 3,
+      "min": 0,
       "regen": 35,
-      "menge": 3.7,
-      "wind": 13,
-      "windAus": 280,
-      "uv": 1.1,
+      "menge": 0,
+      "wind": 7,
+      "windAus": 235,
+      "uv": 1.2,
       "auf": "07:55",
       "unter": "16:04"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
-      "grad": 0,
-      "code": 77,
-      "regen": 3
-     },
-     {
-      "zeit": "14:00",
-      "grad": 0,
-      "code": 77,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 0,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": -1,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "02:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "03:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "04:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "05:00",
-      "grad": -2,
-      "code": 1,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -3,
-      "code": 1,
+      "grad": -2,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -3,
+      "grad": -2,
       "code": 2,
       "regen": 0
      },
@@ -935,8 +884,62 @@
      },
      {
       "zeit": "12:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
       "grad": 0,
-      "code": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -1,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -947,25 +950,25 @@
     "lon": 6.96,
     "teil": "Westen",
     "jetzt": {
-     "grad": 2,
+     "grad": -1,
      "code": 0,
-     "gefuehlt": -2,
-     "wind": 5,
-     "windAus": 135,
-     "feuchte": 63,
-     "druck": 1017,
+     "gefuehlt": -4,
+     "wind": 8,
+     "windAus": 122,
+     "feuchte": 76,
+     "druck": 1021,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
-     "code": 3,
+     "code": 71,
      "max": 2,
      "min": -3,
      "regen": 0,
-     "menge": 0,
+     "menge": 0.1,
      "wind": 9,
-     "windAus": 88,
+     "windAus": 85,
      "uv": 1.5,
      "auf": "08:07",
      "unter": "16:32"
@@ -986,13 +989,13 @@
     "tage": [
      {
       "datum": "2026-11-27",
-      "code": 3,
+      "code": 71,
       "max": 2,
       "min": -3,
       "regen": 0,
-      "menge": 0,
+      "menge": 0.1,
       "wind": 9,
-      "windAus": 88,
+      "windAus": 85,
       "uv": 1.5,
       "auf": "08:07",
       "unter": "16:32"
@@ -1015,11 +1018,11 @@
       "code": 51,
       "max": 4,
       "min": 2,
-      "regen": 83,
-      "menge": 1,
-      "wind": 19,
-      "windAus": 138,
-      "uv": 1,
+      "regen": 86,
+      "menge": 1.1,
+      "wind": 20,
+      "windAus": 137,
+      "uv": 0.9,
       "auf": "08:10",
       "unter": "16:30"
      },
@@ -1027,110 +1030,56 @@
       "datum": "2026-11-30",
       "code": 45,
       "max": 5,
-      "min": -1,
-      "regen": 6,
+      "min": 0,
+      "regen": 3,
       "menge": 0,
-      "wind": 11,
-      "windAus": 151,
-      "uv": 0.8,
+      "wind": 12,
+      "windAus": 143,
+      "uv": 1.2,
       "auf": "08:11",
       "unter": "16:29"
      },
      {
       "datum": "2026-12-01",
-      "code": 45,
-      "max": 4,
-      "min": 1,
-      "regen": 6,
+      "code": 3,
+      "max": 5,
+      "min": -1,
+      "regen": 3,
       "menge": 0,
-      "wind": 15,
-      "windAus": 141,
+      "wind": 16,
+      "windAus": 142,
       "uv": 1.4,
       "auf": "08:12",
       "unter": "16:29"
      },
      {
       "datum": "2026-12-02",
-      "code": 61,
-      "max": 6,
+      "code": 80,
+      "max": 7,
       "min": 1,
-      "regen": 44,
-      "menge": 7.5,
-      "wind": 15,
-      "windAus": 149,
-      "uv": 0.6,
+      "regen": 51,
+      "menge": 9.4,
+      "wind": 20,
+      "windAus": 163,
+      "uv": 1,
       "auf": "08:14",
       "unter": "16:28"
      },
      {
       "datum": "2026-12-03",
-      "code": 53,
+      "code": 51,
       "max": 7,
-      "min": 2,
-      "regen": 49,
-      "menge": 2.4,
-      "wind": 11,
-      "windAus": 283,
-      "uv": 0.7,
+      "min": 3,
+      "regen": 29,
+      "menge": 3,
+      "wind": 18,
+      "windAus": 269,
+      "uv": 1.2,
       "auf": "08:15",
       "unter": "16:28"
      }
     ],
     "stunden": [
-     {
-      "zeit": "13:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 2,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 0,
@@ -1146,13 +1095,13 @@
      {
       "zeit": "00:00",
       "grad": -1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": -1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1163,7 +1112,7 @@
      },
      {
       "zeit": "03:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
@@ -1199,26 +1148,80 @@
      },
      {
       "zeit": "09:00",
-      "grad": -1,
+      "grad": -2,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "10:00",
-      "grad": 0,
+      "grad": -1,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "11:00",
-      "grad": 1,
+      "grad": 0,
       "code": 0,
       "regen": 0
      },
      {
       "zeit": "12:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
       "grad": 2,
-      "code": 0,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 3,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 2,
+      "code": 3,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 2,
+      "code": 3,
       "regen": 0
      }
     ]
@@ -1230,14 +1233,14 @@
     "teil": "Westen",
     "jetzt": {
      "grad": 1,
-     "code": 1,
-     "gefuehlt": -2,
-     "wind": 8,
-     "windAus": 41,
-     "feuchte": 65,
-     "druck": 1011,
+     "code": 3,
+     "gefuehlt": -3,
+     "wind": 5,
+     "windAus": 56,
+     "feuchte": 81,
+     "druck": 1016,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
@@ -1259,8 +1262,8 @@
      "min": -1,
      "regen": 0,
      "menge": 0,
-     "wind": 9,
-     "windAus": 74,
+     "wind": 10,
+     "windAus": 78,
      "uv": 1.5,
      "auf": "07:58",
      "unter": "16:27"
@@ -1286,8 +1289,8 @@
       "min": -1,
       "regen": 0,
       "menge": 0,
-      "wind": 9,
-      "windAus": 74,
+      "wind": 10,
+      "windAus": 78,
       "uv": 1.5,
       "auf": "07:58",
       "unter": "16:27"
@@ -1297,210 +1300,210 @@
       "code": 61,
       "max": 2,
       "min": -1,
-      "regen": 50,
-      "menge": 0.6,
+      "regen": 63,
+      "menge": 2.1,
       "wind": 8,
-      "windAus": 114,
-      "uv": 1,
+      "windAus": 118,
+      "uv": 1.1,
       "auf": "07:59",
       "unter": "16:27"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
-      "max": 3,
-      "min": 0,
-      "regen": 18,
-      "menge": 0,
+      "code": 61,
+      "max": 4,
+      "min": 1,
+      "regen": 42,
+      "menge": 0.3,
       "wind": 3,
-      "windAus": 41,
-      "uv": 1.2,
+      "windAus": 45,
+      "uv": 0.5,
       "auf": "08:00",
       "unter": "16:26"
      },
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": 3,
-      "min": -2,
+      "max": 4,
+      "min": 1,
       "regen": 0,
       "menge": 0,
       "wind": 4,
-      "windAus": 94,
-      "uv": 1.5,
+      "windAus": 104,
+      "uv": 1.4,
       "auf": "08:02",
       "unter": "16:25"
      },
      {
       "datum": "2026-12-02",
-      "code": 61,
-      "max": 5,
-      "min": -3,
-      "regen": 32,
-      "menge": 0.1,
-      "wind": 7,
-      "windAus": 192,
-      "uv": 1.2,
+      "code": 3,
+      "max": 6,
+      "min": 1,
+      "regen": 26,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 159,
+      "uv": 0.9,
       "auf": "08:03",
       "unter": "16:25"
      },
      {
       "datum": "2026-12-03",
       "code": 61,
-      "max": 8,
+      "max": 5,
       "min": 2,
-      "regen": 36,
-      "menge": 2.3,
-      "wind": 9,
-      "windAus": 312,
-      "uv": 0.7,
+      "regen": 46,
+      "menge": 0.2,
+      "wind": 5,
+      "windAus": 97,
+      "uv": 1.4,
       "auf": "08:04",
       "unter": "16:24"
      }
     ],
     "stunden": [
      {
-      "zeit": "13:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 2,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 2,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
       "zeit": "22:00",
-      "grad": 0,
+      "grad": 1,
       "code": 3,
       "regen": 0
      },
      {
       "zeit": "23:00",
-      "grad": 0,
-      "code": 2,
+      "grad": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": 0,
+      "grad": 1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
       "grad": 0,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "02:00",
       "grad": 0,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "03:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "04:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "05:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "06:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "07:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "08:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "09:00",
-      "grad": -1,
-      "code": 0,
-      "regen": 0
-     },
-     {
-      "zeit": "10:00",
-      "grad": -1,
       "code": 1,
       "regen": 0
      },
      {
-      "zeit": "11:00",
+      "zeit": "03:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "04:00",
       "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
-      "zeit": "12:00",
+      "zeit": "05:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "06:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "07:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "08:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "09:00",
+      "grad": -1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "10:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "11:00",
       "grad": 1,
       "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "12:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 3,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 3,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 3,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 2,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 1,
       "regen": 0
      }
     ]
@@ -1511,25 +1514,25 @@
     "lon": 9.18,
     "teil": "Süden",
     "jetzt": {
-     "grad": 1,
-     "code": 3,
+     "grad": 0,
+     "code": 2,
      "gefuehlt": -3,
-     "wind": 7,
-     "windAus": 21,
-     "feuchte": 78,
-     "druck": 991,
+     "wind": 4,
+     "windAus": 31,
+     "feuchte": 86,
+     "druck": 996,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
      "code": 71,
      "max": 1,
-     "min": -1,
+     "min": 0,
      "regen": 8,
      "menge": 0,
      "wind": 8,
-     "windAus": 16,
+     "windAus": 13,
      "uv": 1.3,
      "auf": "07:49",
      "unter": "16:31"
@@ -1538,11 +1541,11 @@
      "datum": "2026-11-28",
      "code": 2,
      "max": 3,
-     "min": -2,
+     "min": -1,
      "regen": 0,
      "menge": 0,
      "wind": 11,
-     "windAus": 117,
+     "windAus": 115,
      "uv": 1.6,
      "auf": "07:50",
      "unter": "16:31"
@@ -1552,11 +1555,11 @@
       "datum": "2026-11-27",
       "code": 71,
       "max": 1,
-      "min": -1,
+      "min": 0,
       "regen": 8,
       "menge": 0,
       "wind": 8,
-      "windAus": 16,
+      "windAus": 13,
       "uv": 1.3,
       "auf": "07:49",
       "unter": "16:31"
@@ -1565,50 +1568,50 @@
       "datum": "2026-11-28",
       "code": 2,
       "max": 3,
-      "min": -2,
+      "min": -1,
       "regen": 0,
       "menge": 0,
       "wind": 11,
-      "windAus": 117,
+      "windAus": 115,
       "uv": 1.6,
       "auf": "07:50",
       "unter": "16:31"
      },
      {
       "datum": "2026-11-29",
-      "code": 66,
+      "code": 61,
       "max": 3,
-      "min": -2,
-      "regen": 51,
-      "menge": 0.1,
-      "wind": 5,
-      "windAus": 177,
+      "min": -1,
+      "regen": 67,
+      "menge": 0.4,
+      "wind": 6,
+      "windAus": 172,
       "uv": 1.2,
       "auf": "07:52",
       "unter": "16:30"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
+      "code": 61,
       "max": 4,
       "min": 1,
-      "regen": 50,
-      "menge": 0,
+      "regen": 66,
+      "menge": 1.8,
       "wind": 3,
-      "windAus": 144,
-      "uv": 1.5,
+      "windAus": 175,
+      "uv": 1.2,
       "auf": "07:53",
       "unter": "16:30"
      },
      {
       "datum": "2026-12-01",
-      "code": 0,
+      "code": 45,
       "max": 4,
-      "min": -1,
+      "min": 1,
       "regen": 0,
       "menge": 0,
-      "wind": 4,
-      "windAus": 162,
+      "wind": 6,
+      "windAus": 156,
       "uv": 1.6,
       "auf": "07:54",
       "unter": "16:29"
@@ -1616,85 +1619,31 @@
      {
       "datum": "2026-12-02",
       "code": 45,
-      "max": 5,
-      "min": -3,
-      "regen": 15,
+      "max": 4,
+      "min": -1,
+      "regen": 7,
       "menge": 0,
       "wind": 4,
-      "windAus": 186,
-      "uv": 1.4,
+      "windAus": 183,
+      "uv": 1.3,
       "auf": "07:56",
       "unter": "16:28"
      },
      {
       "datum": "2026-12-03",
-      "code": 61,
-      "max": 6,
-      "min": 1,
-      "regen": 38,
-      "menge": 3.3,
-      "wind": 9,
-      "windAus": 315,
-      "uv": 0.8,
+      "code": 45,
+      "max": 5,
+      "min": -2,
+      "regen": 33,
+      "menge": 0,
+      "wind": 4,
+      "windAus": 224,
+      "uv": 1.2,
       "auf": "07:57",
       "unter": "16:28"
      }
     ],
     "stunden": [
-     {
-      "zeit": "13:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 1,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 1,
-      "code": 61,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 1,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 2,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 1,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": 0,
@@ -1703,19 +1652,19 @@
      },
      {
       "zeit": "23:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "00:00",
-      "grad": -1,
-      "code": 1,
+      "grad": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "01:00",
-      "grad": -1,
+      "grad": 0,
       "code": 2,
       "regen": 0
      },
@@ -1728,49 +1677,49 @@
      {
       "zeit": "03:00",
       "grad": -1,
-      "code": 1,
+      "code": 0,
       "regen": 0
      },
      {
       "zeit": "04:00",
       "grad": -1,
-      "code": 0,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "05:00",
       "grad": -1,
-      "code": 0,
+      "code": 1,
       "regen": 0
      },
      {
       "zeit": "06:00",
-      "grad": -2,
-      "code": 0,
+      "grad": -1,
+      "code": 2,
       "regen": 0
      },
      {
       "zeit": "07:00",
-      "grad": -2,
+      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "08:00",
-      "grad": -2,
+      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "09:00",
-      "grad": -2,
+      "grad": -1,
       "code": 2,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": 0,
-      "code": 2,
+      "code": 1,
       "regen": 0
      },
      {
@@ -1781,8 +1730,62 @@
      },
      {
       "zeit": "12:00",
-      "grad": 1,
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 2,
       "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 3,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 2,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": 1,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": 0,
+      "code": 0,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": 0,
+      "code": 0,
       "regen": 0
      }
     ]
@@ -1793,15 +1796,15 @@
     "lon": 11.58,
     "teil": "Süden",
     "jetzt": {
-     "grad": 0,
+     "grad": -1,
      "code": 3,
-     "gefuehlt": -3,
-     "wind": 6,
-     "windAus": 45,
-     "feuchte": 83,
-     "druck": 958,
+     "gefuehlt": -4,
+     "wind": 7,
+     "windAus": 67,
+     "feuchte": 90,
+     "druck": 963,
      "niederschlag": 0,
-     "tag": 1
+     "tag": 0
     },
     "heute": {
      "datum": "2026-11-27",
@@ -1810,7 +1813,7 @@
      "min": -1,
      "regen": 5,
      "menge": 0,
-     "wind": 8,
+     "wind": 9,
      "windAus": 49,
      "uv": 1.1,
      "auf": "07:37",
@@ -1820,11 +1823,11 @@
      "datum": "2026-11-28",
      "code": 3,
      "max": 1,
-     "min": -3,
+     "min": -2,
      "regen": 0,
      "menge": 0,
      "wind": 12,
-     "windAus": 89,
+     "windAus": 90,
      "uv": 1.7,
      "auf": "07:38",
      "unter": "16:24"
@@ -1837,7 +1840,7 @@
       "min": -1,
       "regen": 5,
       "menge": 0,
-      "wind": 8,
+      "wind": 9,
       "windAus": 49,
       "uv": 1.1,
       "auf": "07:37",
@@ -1847,50 +1850,50 @@
       "datum": "2026-11-28",
       "code": 3,
       "max": 1,
-      "min": -3,
+      "min": -2,
       "regen": 0,
       "menge": 0,
       "wind": 12,
-      "windAus": 89,
+      "windAus": 90,
       "uv": 1.7,
       "auf": "07:38",
       "unter": "16:24"
      },
      {
       "datum": "2026-11-29",
-      "code": 45,
+      "code": 48,
       "max": 0,
       "min": -4,
-      "regen": 6,
+      "regen": 14,
       "menge": 0,
       "wind": 10,
-      "windAus": 117,
-      "uv": 1.5,
+      "windAus": 119,
+      "uv": 1.4,
       "auf": "07:40",
       "unter": "16:23"
      },
      {
       "datum": "2026-11-30",
-      "code": 3,
+      "code": 71,
       "max": 2,
-      "min": -3,
-      "regen": 28,
-      "menge": 0,
+      "min": -1,
+      "regen": 45,
+      "menge": 2.2,
       "wind": 5,
-      "windAus": 51,
-      "uv": 1.1,
+      "windAus": 346,
+      "uv": 1.2,
       "auf": "07:41",
       "unter": "16:22"
      },
      {
       "datum": "2026-12-01",
       "code": 45,
-      "max": -3,
-      "min": -5,
-      "regen": 0,
+      "max": -1,
+      "min": -3,
+      "regen": 1,
       "menge": 0,
-      "wind": 4,
-      "windAus": 121,
+      "wind": 5,
+      "windAus": 129,
       "uv": 1.6,
       "auf": "07:42",
       "unter": "16:22"
@@ -1899,84 +1902,30 @@
       "datum": "2026-12-02",
       "code": 45,
       "max": 1,
-      "min": -6,
-      "regen": 0,
+      "min": -3,
+      "regen": 3,
       "menge": 0,
-      "wind": 4,
-      "windAus": 123,
-      "uv": 1.5,
+      "wind": 5,
+      "windAus": 143,
+      "uv": 1.6,
       "auf": "07:44",
       "unter": "16:21"
      },
      {
       "datum": "2026-12-03",
-      "code": 61,
+      "code": 3,
       "max": 3,
       "min": -3,
-      "regen": 46,
-      "menge": 6.6,
-      "wind": 8,
-      "windAus": 261,
-      "uv": 0.2,
+      "regen": 37,
+      "menge": 0,
+      "wind": 3,
+      "windAus": 154,
+      "uv": 0.6,
       "auf": "07:45",
       "unter": "16:21"
      }
     ],
     "stunden": [
-     {
-      "zeit": "13:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "14:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "15:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "16:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "17:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "18:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 3
-     },
-     {
-      "zeit": "19:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "20:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
-     {
-      "zeit": "21:00",
-      "grad": 0,
-      "code": 3,
-      "regen": 0
-     },
      {
       "zeit": "22:00",
       "grad": -1,
@@ -2010,7 +1959,7 @@
      {
       "zeit": "03:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
@@ -2021,7 +1970,7 @@
      },
      {
       "zeit": "05:00",
-      "grad": -2,
+      "grad": -1,
       "code": 3,
       "regen": 0
      },
@@ -2040,30 +1989,84 @@
      {
       "zeit": "08:00",
       "grad": -2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "09:00",
       "grad": -2,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "10:00",
       "grad": -2,
-      "code": 1,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "11:00",
       "grad": -1,
-      "code": 2,
+      "code": 3,
       "regen": 0
      },
      {
       "zeit": "12:00",
       "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "13:00",
+      "grad": 1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "14:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "15:00",
+      "grad": 1,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "16:00",
+      "grad": 0,
+      "code": 1,
+      "regen": 0
+     },
+     {
+      "zeit": "17:00",
+      "grad": 0,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "18:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "19:00",
+      "grad": -1,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "20:00",
+      "grad": -2,
+      "code": 2,
+      "regen": 0
+     },
+     {
+      "zeit": "21:00",
+      "grad": -2,
       "code": 2,
       "regen": 0
      }
@@ -2086,7 +2089,7 @@
       {
        "name": "ICON",
        "heim": "Deutscher Wetterdienst",
-       "grad": 0,
+       "grad": 1,
        "regen": 0
       },
       {
@@ -2121,7 +2124,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 1,
+       "grad": 0,
        "regen": 0
       }
      ]
@@ -2190,7 +2193,7 @@
       {
        "name": "ECMWF",
        "heim": "Europa",
-       "grad": 4,
+       "grad": 3,
        "regen": 0
       }
      ]
@@ -2207,14 +2210,14 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 4,
+       "grad": 3,
        "regen": 0
       },
       {
        "name": "ECMWF",
        "heim": "Europa",
        "grad": 3,
-       "regen": -0.1
+       "regen": 0
       }
      ]
     },
@@ -2230,7 +2233,7 @@
       {
        "name": "GFS",
        "heim": "USA",
-       "grad": 2,
+       "grad": 1,
        "regen": 0
       },
       {
@@ -2389,7 +2392,7 @@
    {
     "k": "Herzlich willkommen beim Nachrichten-Heft. Welt vom Freitag, 27. November. Es mo",
     "d": "82817fba24.mp3",
-    "l": 10.0,
+    "l": 10,
     "s": [
      0.25,
      2.73,
@@ -2456,6 +2459,1591 @@
   "hinweis": "Die Unterschiede zwischen den Medien sind sehr klein – gut ein Zehntel Punkt auf einer Skala von sieben. Die Zahl sagt, wie sich das Publikum SELBST einordnet, nicht wie ein Medium berichtet."
  },
  "nachrichten": [
+  {
+   "id": "bundeshaushalt-2027-beschluss",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-27T20:33:42.000Z",
+   "titel": "Bundestag beschließt Bundeshaushalt für das Jahr 2027 mit hoher Neuverschuldung",
+   "vorspann": "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 verabschiedet. Das Finanzvolumen im Kernhaushalt liegt bei rund 556 Milliarden Euro.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro verabschiedet.",
+    "Die Nettokreditaufnahme im Kernhaushalt steigt auf fast 123 Milliarden Euro, während die Gesamtverschuldung inklusive Sondervermögen über 210 Milliarden Euro beträgt.",
+    "Zu den Schwerpunkten des Etats zählen der Arbeits- und Sozialetat sowie Erhöhungen bei den Verteidigungsausgaben auf fast 140 Milliarden Euro.",
+    "Kritik an dem Haushalt kam sowohl von der Opposition als auch von Wirtschaftsexperten wegen der hohen Verschuldung und fehlender langfristiger Konzepte."
+   ],
+   "einig": [
+    [
+     "Der Bundestag hat den Haushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro beschlossen.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "Deutschlandfunk",
+      "FAZ"
+     ]
+    ],
+    [
+     "Die Nettokreditaufnahme im Kernhaushalt beläuft sich auf fast 123 Milliarden Euro.",
+     [
+      "ZDFheute",
+      "Deutschlandfunk",
+      "FAZ"
+     ]
+    ],
+    [
+     "In der namentlichen Abstimmung votierten 317 Abgeordnete für und 260 Abgeordnete gegen den Entwurf.",
+     [
+      "ZDFheute",
+      "FAZ"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die geplante Reform der Einkommensteuer trotz bisheriger Streitigkeiten zwischen Union und SPD noch beschlossen wird, ist laut den Berichten unklar."
+   ],
+   "positionen": [
+    [
+     "Finanzminister Lars Klingbeil (SPD)",
+     "Die hohe Neuverschuldung ist notwendig für Verteidigung und Investitionen wie Bahn und Kitas, um eigenständiges Wachstum zu generieren.",
+     "ZDFheute, FAZ"
+    ],
+    [
+     "Linke-Chefin Ines Schwerdtner (Opposition)",
+     "Die Regierung ignoriert die alltäglichen finanziellen Notlagen von Millionen Menschen und konzentriert sich stattdessen auf den Ernstfall und Krieg.",
+     "ZDFheute, FAZ"
+    ],
+    [
+     "Wirtschaftsweiser Gabriel Felbermayr (Experte)",
+     "Der Haushalt stopft nur kurzfristig Lücken ohne langfristige Perspektive, was das Vertrauen in Deutschland als Ankerland der Eurozone gefährdet.",
+     "ZDFheute"
+    ]
+   ],
+   "fehlend": "Stimmen aus den Bundesländern oder von Verbänden außerhalb der im Text genannten Personen und Parteien.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 20:24",
+     "fokus": "Kurzüberblick zum Beschluss",
+     "text": "Die Nachrichtenseite meldet die Verabschiedung des Haushalts 2027 mit der zweithöchsten Neuverschuldung in knappen Zügen.",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691254.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 17:23",
+     "fokus": "Details zu Begleitgesetz und Reaktionen",
+     "text": "Der Bericht schildert umfassend die Details des Haushaltsbegleitgesetzes, die Stromsteuersenkung und zitiert sowohl den Finanzminister als auch die Opposition und Wirtschaftsexperten.",
+     "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 725,
+      "satzlaenge": 15,
+      "langeWoerter": 34
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 21:33",
+     "fokus": "Kernzahlen des Haushalts",
+     "text": "Der Sender konzentriert sich auf die präzise Wiedergabe der Finanzdaten zum Kernhaushalt und zur geplanten Kreditaufnahme für das kommende Jahr.",
+     "url": "https://www.deutschlandfunk.de/bundestag-verabschiedet-haushalt-fuer-das-kommende-jahr-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 14:52",
+     "fokus": "Hintergrund des Koalitionsstreits",
+     "text": "Die Tageszeitung beleuchtet ausführlich das Ringen innerhalb der schwarz-roten Koalition, den Einsatz von Kanzler Merz für die Stromsteuer sowie geplante Entlastungen.",
+     "url": "https://www.faz.net/aktuell/wirtschaft/556-milliarden-euro-bundestag-beschliesst-rekordhaushalt-201722313.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 2,
+      "woerter": 479,
+      "satzlaenge": 15,
+      "langeWoerter": 34
+     },
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während Tagesschau/ARD und Deutschlandfunk den Beschluss eher kurz vermelden, liefern ZDFheute und FAZ sehr ausführliche Hintergründe zum Koalitionsstreit, zum Begleitgesetz und zu den Reaktionen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Der Deutsche Bundestag und Finanzminister Lars Klingbeil",
+    "was": "Beschluss des Bundeshaushalts für 2027 und eines Haushaltsbegleitgesetzes",
+    "wann": "2026-11-27",
+    "wo": "Berlin, Deutschland",
+    "wie": "Mit 317 Ja-Stimmen gegen 260 Nein-Stimmen ohne Enthaltungen",
+    "warum": "Zur Finanzierung staatlicher Aufgaben wie Verteidigung und Investitionen laut Bundesregierung",
+    "quellenlage": "Öffentlich-rechtliche Medien und Tageszeitungen"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Deutsche Bundestag hat den Bundeshaushalt für das kommende Jahr 2027 genehmigt. Nach Angaben der Berichte stimmten in einer namentlichen Abstimmung 317 Abgeordnete für den Etat, während 260 Abgeordnete dagegen votierten. Es gab demnach keine Enthaltungen bei der Abstimmung im Parlament. Damit ist der Haushaltsentwurf nach monatelangem Ringen und Beratungen offiziell verabschiedet worden.",
+      "Der Bund soll im kommenden Jahr im sogenannten Kernhaushalt rund 556 Milliarden Euro ausgeben dürfen. Laut den vorliegenden Berichten entspricht dies einer Steigerung von rund sechs Prozent im Vergleich zum laufenden Jahr. Insgesamt stehen dem Bund damit laut den Angaben so viele finanzielle Mittel zur Verfügung wie noch nie zuvor in einem einzigen Jahr.",
+      "Zur Deckung der Ausgaben im Kernhaushalt ist eine Nettokreditaufnahme von fast 123 Milliarden Euro geplant. Im laufenden Jahr lag dieser Wert laut den Berichten noch bei 98 Milliarden Euro. Einschließlich der beiden Sondervermögen für Infrastruktur und Bundeswehr summiert sich die Neuverschuldung des Bundes demnach auf mehr als 210 Milliarden Euro."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Mehr als ein Drittel der gesamten Ausgaben fließt laut den Berichten in den Arbeits- und Sozialetat des Bundes. Aus diesem Bereich leistet die Regierung unter anderem Zuschüsse zur gesetzlichen Rentenversicherung. Ein weiterer Schwerpunkt des verabschiedeten Etats ist der Bereich der Verteidigung. Die Ausgaben in diesem Sektor sollen auf fast 140 Milliarden Euro steigen und damit einen Höchststand seit dem Ende des Kalten Krieges erreichen.",
+      "Zusätzlich ist in dem Finanzpaket eine Unterstützung für die von Russland angegriffene Ukraine in Höhe von zwölf Milliarden Euro eingeplant. Ursprünglich von der Regierung geplante Kürzungen beim Wohngeld sowie bei weiteren Sozialleistungen wurden von den Koalitionsfraktionen im Laufe der Verhandlungen wieder gestrichen. Die Parlamentarier nahmen diese Kürzungspläne demnach vollständig zurück.",
+      "Ebenfalls vom Bundestag beschlossen wurde ein Haushaltsbegleitgesetz. Dieses enthält laut den Berichten die Absenkung der Stromsteuer ab Anfang 2027 auf das in der Europäischen Union zulässige Minimum. Zudem umfasst das Gesetz die Einführung einer Steuer auf zuckerhaltige Getränke ab dem Jahr 2028 sowie eine Änderung bei den Zuschüssen zur Rentenversicherung."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Zu Beginn der Haushaltsaufstellung stand Finanzminister Lars Klingbeil vor einer finanziellen Lücke von rund 34 Milliarden Euro in seiner Planung. Um diese Lücke zu schließen, vereinbarten die Spitzen der Koalition aus SPD und Union im Rahmen des Haushaltsbegleitgesetzes verschiedene Maßnahmen. Die Aufstellung des Etats gestaltete sich nach Angaben aller Berichte schwierig und war von langwierigen Auseinandersetzungen innerhalb der Koalition geprägt.",
+      "Ein zentraler Streitpunkt im Vorfeld des Beschlusses war die Senkung der Stromsteuer für alle Verbraucher und Unternehmen. Diese Maßnahme, die im Koalitionsvertrag grundsätzlich für alle angekündigt worden war, wurde im Gesetzgebungsverfahren zunächst nur für das produzierende Gewerbe sowie für die Land- und Forstwirtschaft umgesetzt. Bundeskanzler Friedrich Merz setzte die Ausweitung auf alle Verbraucher in einer späten Phase der Beratungen durch.",
+      "Die Kosten für die ausgeweitete Stromsteuersenkung belaufen sich auf fünf Milliarden Euro und sind im aktuellen Haushalt zunächst nur für das Jahr 2027 finanziert. Bundeskanzler Friedrich Merz räumte laut den Berichten ein, dass der Prozess zur Aufstellung dieses Haushalts keinen Schönheitspreis verdient habe. Auch Finanzminister Klingbeil ließ durchblicken, dass es bei den Beratungen zu Frustrationen gekommen war."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der Bundeshaushalt ist der von der Bundesregierung aufgestellte und vom Bundestag beschlossene Finanzplan für ein Haushaltsjahr. Er enthält alle Einnahmen und Ausgaben des Bundes zur Erfüllung seiner staatlichen Aufgaben. Der sogenannte Kernhaushalt umfasst dabei den regulären Etat ohne bestimmte Sondervermögen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Finanzminister Lars Klingbeil verteidigte die hohe Neuverschuldung in den Berichten. Er erklärte, das Geld werde vor allem für Verteidigung sowie für Investitionen in die Bahn und in Kindertagesstätten eingesetzt. Es müsse nun ein Wachstum entstehen, das sich selbst trage, weshalb das Jahr 2027 zum Jahr der privaten Investitionen werden müsse. Zugleich wies Klingbeil darauf hin, dass der Haushalt für das Jahr 2028 noch herausfordernder werden und den Menschen einiges abverlangen werde.",
+      "Von der politischen Opposition kam scharfe Kritik an dem Beschluss. Die Linke-Chefin Ines Schwerdtner warf der Regierung vor, ständig von Ernstfall und Krieg zu reden. Für Millionen Menschen in Deutschland sei der Ernstfall jedoch jeden Monat gegeben, wenn das Geld knapp werde, was die Regierung ignoriere.",
+      "Auch unter Wirtschaftsexperten stieß der Rekordhaushalt auf Kritik. Der Ökonom Gabriel Felbermayr kritisierte laut den Berichten das kurzfristige Stopfen von Haushaltslücken für das Jahr 2027. Es fehle an einer langfristigen Perspektive, und es bestehe die Gefahr, Glaubwürdigkeit und das Vertrauen in Deutschland als Ankerland der Eurozone zu verlieren."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Für die kommenden Jahre kündigten Vertreter der Regierungsfraktionen bereits weiteren Handlungsbedarf an. Finanzminister Klingbeil betonte, dass Lehren aus dem diesjährigen Verfahren gezogen werden müssten und der Haushalt 2028 noch schwieriger werde. Die SPD-Fraktion schlug in diesem Zusammenhang bereits einen Abbau von Subventionen im Umfang von zehn Milliarden Euro vor.",
+      "Breite Entlastungen für Verbraucher sind zudem durch eine Reform der Einkommensteuer geplant, die ein höheres Kindergeld und einen erhöhten Grundfreibetrag vorsieht. Diese Reform ist wegen anhaltender Streitigkeiten zwischen der Union und der SPD jedoch noch nicht beschlossen worden. Finanzminister Klingbeil appellierte an die Koalition, dieses Vorhaben rasch auf den Weg zu bringen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "2026-11-27",
+     "Der Bundestag beschließt den Bundeshaushalt für das Jahr 2027 sowie das Haushaltsbegleitgesetz in namentlicher Abstimmung."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Lars Klingbeil politician",
+     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil verantwortete die Aufstellung des Bundeshaushalts für das Jahr 2027."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz setzte in der Endphase der Beratungen Änderungen beim Haushaltsbegleitgesetz durch."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Reichstag building Berlin",
+     "bildunterschrift": "Im Berliner Reichstagsgebäude tagt der Deutsche Bundestag, der den Haushalt beschlossen hat."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Euro coins and banknotes",
+     "bildunterschrift": "Der Bundeshaushalt regelt die staatlichen Einnahmen und Ausgaben in Euro."
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das Wort 'Wirtschaftsweisen' bei Gabriel Felbermayr wurde zu 'Ökonom' korrigiert, da der Name im Singular steht."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Kernhaushalt",
+      "Der Kernhaushalt ist der reguläre Haushalt des Staates ohne bestimmte Sondervermögen."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente nennen Befürworter und Gegner der hohen Neuverschuldung im Haushalt 2027?",
+     "Welche Rolle spielt der Streit zwischen den Koalitionspartnern bei der Aufstellung des Bundeshaushalts?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie hoch sind die geplanten Ausgaben im Kernhaushalt für das Jahr 2027?",
+      "optionen": [
+       "rund 556 Milliarden Euro",
+       "rund 210 Milliarden Euro",
+       "rund 123 Milliarden Euro"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut den Berichten belaufen sich die geplanten Ausgaben im Kernhaushalt auf rund 556 Milliarden Euro."
+     },
+     {
+      "frage": "Wie viele Abgeordnete stimmten bei der namentlichen Abstimmung für den Haushaltsentwurf?",
+      "optionen": [
+       "260 Abgeordnete",
+       "317 Abgeordnete",
+       "556 Abgeordnete"
+      ],
+      "richtig": 1,
+      "erklaerung": "Für den Entwurf stimmten 317 Abgeordnete, während 260 dagegen votierten."
+     },
+     {
+      "frage": "Welcher Bereich erhält nach dem Arbeits- und Sozialetat einen weiteren großen Schwerpunkt im Haushalt?",
+      "optionen": [
+       "Die Verteidigung",
+       "Die Landwirtschaft",
+       "Die Kultur"
+      ],
+      "richtig": 0,
+      "erklaerung": "Ein weiterer Schwerpunkt neben dem Sozialetat ist die Verteidigung, deren Ausgaben auf fast 140 Milliarden Euro steigen sollen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der Deutsche Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen.",
+    "absaetze": [
+     "Der Bund darf im nächsten Jahr rund 556 Milliarden Euro ausgeben. Das ist so viel Geld wie noch nie zuvor. Für die Ausgaben nimmt der Staat neue Kredite in Höhe von fast 123 Milliarden Euro auf. Zusammen mit Sondervermögen liegt die Neuverschuldung bei über 210 Milliarden Euro. Ein großer Teil des Geldes fließt in den Sozialbereich und in die Verteidigung. Finanzminister Lars Klingbeil sagt, das Geld sei wichtig für Investitionen und Sicherheit. Politiker der Opposition und Wirtschaftsexperten kritisieren den Haushalt jedoch wegen der hohen Schulden."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 beschlossen.",
+     "Der Bund plant Ausgaben von rund 556 Milliarden Euro.",
+     "Dafür nimmt der Staat neue Kredite in Höhe von fast 123 Milliarden Euro auf.",
+     "Kritik an den hohen Schulden kam von der Opposition und von Wirtschaftsexperten."
+    ],
+    "lang": [
+     "Der Deutsche Bundestag hat den Haushalt für das Jahr 2027 verabschiedet.",
+     "Das Parlament stimmte in Berlin mit dreihundertsiebzehn zu zweihundertsechzig Stimmen für den Entwurf.",
+     "Der Bund darf im kommenden Jahr rund 556 Milliarden Euro ausgeben.",
+     "Für die Finanzierung ist eine Nettokreditaufnahme im Kernhaushalt von fast 123 Milliarden Euro geplant.",
+     "Ein Schwerpunkt des Etats sind die Verteidigungsausgaben, die auf fast 140 Milliarden Euro steigen sollen.",
+     "Mehr als ein Drittel des Geldes fließt in den Arbeits- und Sozialetat.",
+     "Finanzminister Lars Klingbeil erklärte nach Angaben der Berichte, die hohen Schulden seien für Investitionen und Verteidigung notwendig.",
+     "Die Opposition und Wirtschaftsexperten kritisierten den Haushalt dagegen wegen der hohen Verschuldung und fehlender langfristiger Pläne.",
+     "Der Haushaltsentwurf wurde von der Regierung nach langem Streit innerhalb der Koalition auf den Weg gebracht.",
+     "Für das folgende Jahr kündigten Politiker bereits weitere finanzielle Herausforderungen an."
+    ],
+    "einfach": [
+     "Der Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen.",
+     "Der Staat gibt im nächsten Jahr rund 556 Milliarden Euro aus.",
+     "Dafür macht der Staat neue Schulden.",
+     "Finanzminister Lars Klingbeil findet die Schulden wichtig für Investitionen.",
+     "Kritiker sagen dagegen, dass der Staat zu viele Schulden macht."
+    ]
+   },
+   "kurz": [
+    "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro verabschiedet.",
+    "Die Nettokreditaufnahme im Kernhaushalt steigt auf fast 123 Milliarden Euro an.",
+    "Finanzminister Klingbeil verteidigte die hohen Kredite für Verteidigung und Investitionen.",
+    "Kritik kam von der Opposition und von Wirtschaftsexperten wegen hoher Schulden und fehlender Langzeitperspektiven."
+   ],
+   "fakten": [
+    [
+     "Gesamtausgaben Kernhaushalt",
+     "556 Milliarden Euro"
+    ],
+    [
+     "Nettokreditaufnahme Kernhaushalt",
+     "123 Milliarden Euro"
+    ],
+    [
+     "Gesamte Neuverschuldung inklusive Sondervermögen",
+     "über 210 Milliarden Euro"
+    ],
+    [
+     "Ja-Stimmen im Bundestag",
+     "317"
+    ],
+    [
+     "Nein-Stimmen im Bundestag",
+     "260"
+    ]
+   ],
+   "dossier": {
+    "slug": "bundeshaushalt-2027",
+    "titel": "Bundeshaushalt 2027"
+   },
+   "bildInfo": {
+    "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+    "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+    "urheber": "Steffen Prößdorf",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Friedrich Merz",
+    "sprache": "en",
+    "art": "person",
+    "suchbegriff": "Friedrich Merz politician",
+    "bildunterschrift": "Der CDU-Vorsitzende Friedrich Merz, hier bei einer Veranstaltung in Erfurt.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Friedrich Merz",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Der CDU-Vorsitzende Friedrich Merz, hier bei einer Veranstaltung in Erfurt.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "rentenreform-entwurf-schweitzer",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-27T20:33:42.000Z",
+   "titel": "Bundesarbeitsminister Schweitzer legt Gesetzentwurf zur Rentenreform vor",
+   "vorspann": "Bundesarbeitsminister Alexander Schweitzer (SPD) hat einen Entwurf zur Reform der gesetzlichen Rentenversicherung vorgelegt. Die Pläne sehen den Erhalt der abschlagsfreien Rente nach 45 Beitragsjahren unter verschärften Bedingungen sowie höhere Abschläge bei vorzeitigem Renteneintritt vor.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Bundesarbeitsminister Alexander Schweitzer (SPD) hat einen Entwurf zur Reform der Rentenversicherung vorgelegt, der der Süddeutschen Zeitung und dem Spiegel vorliegt.",
+    "Die abschlagsfreie Frührente nach 45 Versicherungsjahren soll im Grundsatz erhalten bleiben, jedoch werden Zeiten von Arbeitslosengeld, Krankengeld und Minijobs künftig nicht mehr angerechnet.",
+    "Für Frührentner mit mindestens 35 Beitragsjahren sollen die monatlichen Abschläge pro Vorzugsjahr von bisher 3,6 auf 4,8 Prozent angehoben werden.",
+    "Während die SPD von einem Kompromiss spricht, betonen Vertreter der Union fehlende Absprachen, und die Gewerkschaften fordern Nachbesserungen bei den Abschlägen."
+   ],
+   "einig": [
+    [
+     "Arbeitsminister Schweitzer will die abschlagsfreie Rente nach 45 Beitragsjahren im Grundsatz erhalten, aber die Kriterien dafür verschärfen.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Zeiten von Arbeitslosengeld und Krankengeld sollen künftig nicht mehr auf die 45 Beitragsjahre angerechnet werden.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel"
+     ]
+    ],
+    [
+     "Minijobs sollen künftig nicht mehr für die 45 Beitragsjahre angerechnet werden.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk"
+     ]
+    ],
+    [
+     "Zeiten des Bezugs von Übergangsgeld zählen künftig nicht mehr für die 45 Versicherungsjahre.",
+     [
+      "Deutschlandfunk",
+      "Spiegel"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Es ist unklar, ob und wann die Bundesregierung den Gesetzentwurf im Kabinett beschließt, da Kanzleramtschefin Warken und Abgeordnete der Union betonen, dass noch keine Einigung in der Koalition vorliegt."
+   ],
+   "positionen": [
+    [
+     "Alexander Schweitzer (Bundesarbeitsminister, SPD)",
+     "Hält an der abschlagsfreien Rente nach 45 Jahren fest, will jedoch die Kriterien einschränken und Abschläge anheben; laut Tagesschau zeigt er sich optimistisch für eine Einigung.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Annika Klose (Sozialpolitische Sprecherin der SPD-Fraktion)",
+     "Spricht laut Tagesschau von einem guten Ausgleich der Interessen und hofft auf einen baldigen Kabinettsbeschluss.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Yasmin Fahimi (DGB-Vorsitzende)",
+     "Begrüßt laut Tagesschau den Erhalt der Rente nach 45 Jahren und die Versicherungspflicht bei Minijobs, kritisiert aber die höheren Abschläge.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Frank Werneke (ver.di-Vorsitzender)",
+     "Bewertet laut Tagesschau den Erhalt der Rente nach 45 Jahren positiv, kritisiert jedoch die höheren Abschläge.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Alexander Hoffmann (CSU-Landesgruppenchef)",
+     "Nennt den Entwurf laut Tagesschau einen Schritt nach vorne, fordert aber einen Vorschlag zur Gegenfinanzierung.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Christian von Stetten (CDU-Wirtschaftspolitiker)",
+     "Kritisiert laut Tagesschau, dass Lösungen in die Zukunft verschoben werden und keine Einsparungen erfolgen.",
+     "Tagesschau/ARD"
+    ],
+    [
+     "Marc Biadacz (Sprecher der Unionsfraktion für Arbeit und Soziales)",
+     "Äußert sich laut Spiegel sehr überrascht über die Veröffentlichung und hält den Entwurf für noch nicht fertig.",
+     "Spiegel"
+    ],
+    [
+     "Nina Warken (Kanzleramtschefin, CDU)",
+     "Erklärt laut Spiegel, dass es noch keine Einigung in der Koalition gibt und der Entwurf in der Frühkoordinierung ist.",
+     "Spiegel"
+    ],
+    [
+     "Heidi Reichinnek (Fraktionsvorsitzende Die Linke)",
+     "Kritisiert den Vorschlag laut Tagesschau als Kürzungsprogramm zu Lasten besonders von Ostdeutschen.",
+     "Tagesschau/ARD"
+    ]
+   ],
+   "fehlend": "Es fehlen Stellungnahmen von Arbeitgeberverbänden, Vertretern der Rentenversicherungsträger sowie von Vertretern der anderen Oppositionsparteien.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 20:45",
+     "fokus": "Reaktionen aus Politik und Gewerkschaften",
+     "text": "Die Tagesschau berichtet detailliert über die Reaktionen von Gewerkschaften und Parteien.",
+     "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 3,
+      "woerter": 599,
+      "satzlaenge": 15,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 21:33",
+     "fokus": "Verschärfte Voraussetzungen für Frührente",
+     "text": "Der Deutschlandfunk fasst die Kernpunkte des Entwurfs zusammen.",
+     "url": "https://www.deutschlandfunk.de/entwurf-aus-arbeitsministerium-abschlagsfreie-rente-nach-45-jahren-soll-erhalten-bleiben-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 16:18",
+     "fokus": "Umfang und koalitionsinterner Konflikt",
+     "text": "Der Spiegel berichtet über den Umfang des Entwurfs und den Streit in der Koalition.",
+     "url": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 254,
+      "satzlaenge": 15,
+      "langeWoerter": 38
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 15:00",
+     "fokus": "Gesamtreform und politische Bedeutung",
+     "text": "Die Süddeutsche Zeitung ordnet den Entwurf als Reform der Alterssicherung ein.",
+     "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-arbeitsminister-bundesregierung-li.3586466",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 136,
+      "satzlaenge": 15,
+      "langeWoerter": 38
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Detailgrad der Reaktionen",
+     "Die Tagesschau stellt umfassend Reaktionen von Gewerkschaften und Parteien dar, während der Deutschlandfunk auf Reaktionen verzichtet und der Spiegel vor allem Stimmen aus der Union zitiert."
+    ],
+    [
+     "Umfang des Papiers",
+     "Der Spiegel nennt als einzige Quelle die genaue Seitenzahl von 287 Seiten des Gesetzentwurfs."
+    ],
+    [
+     "Verknüpfte Reformen",
+     "Die Süddeutsche Zeitung verweist als einzige Quelle auf den Zusammenhang mit der Riester-Rente ab 2027."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Bundesarbeitsminister Alexander Schweitzer (SPD)",
+    "was": "Vorlage eines Gesetzentwurfs zur Rentenreform",
+    "wann": "27. November 2026",
+    "wo": "Berlin",
+    "wie": "Durch Beibehaltung der abschlagsfreien Rente bei verschärften Voraussetzungen",
+    "warum": "Zur Reform der Rentenversicherung und Kompromissfindung",
+    "quellenlage": "Gesetzentwurf sowie Stellungnahmen von Politikern und Gewerkschaften"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Bundesarbeitsminister Alexander Schweitzer von der SPD hat einen Gesetzentwurf für eine Reform der gesetzlichen Rentenversicherung vorgelegt. Das Dokument umfasst nach Informationen des Magazins Der Spiegel insgesamt 287 Seiten. Der Entwurf soll nach Berichten der Süddeutschen Zeitung die Zukunft der Altersvorsorge ordnen und eine Einigung in der Koalition herbeiführen.",
+      "Kern des Entwurfs ist laut Tagesschau, Deutschlandfunk, Spiegel und Süddeutscher Zeitung das Vorhaben, die abschlagsfreie Rente nach 45 Versicherungsjahren im Grundsatz beizubehalten. Allerdings sieht das Papier vor, die Kriterien für den Zugang zu dieser Rentenform einzuschränken. Nach Angaben der Tagesschau könnten dadurch rund 27 Prozent der Anspruchsberechtigten die Rentenart nicht mehr wie heute nutzen.",
+      "Die Veröffentlichung des Entwurfs führte zu unterschiedlichen Reaktionen. Während Vertreter der SPD den Vorschlag begrüßten, äußerten Politiker der Unionsfraktion Skepsis. Auch die Gewerkschaften reagierten mit einer Mischung aus Zustimmung und Kritik."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Der Gesetzentwurf sieht Einschränkungen bei den Anrechnungszeiten für die 45 Beitragsjahre vor. Laut Tagesschau, Deutschlandfunk und Spiegel sollen Zeiten des Bezugs von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden. Nach Angaben des Deutschlandfunks und des Spiegels gilt dies auch für Übergangsgeld. Laut Tagesschau und Deutschlandfunk sollen zudem Minijobs unberücksichtigt bleiben.",
+      "Zusätzlich plant das Arbeitsministerium nach Angaben der Tagesschau eine Erhöhung der Rentenabschläge. Für Versicherte mit mindestens 35 Versicherungsjahren sollen die Abschläge bei einem um ein Jahr vorgezogenen Renteneintritt von bisher 3,6 Prozent auf 4,8 Prozent steigen. Laut Tagesschau befürwortet die DGB-Chefin Yasmin Fahimi eine künftig generelle Versicherungspflicht bei Minijobs.",
+      "Die Süddeutsche Zeitung berichtet, dass auf Beschäftigte mittleren Alters zusätzliche Belastungen zukommen, während das Niveau der Renten langfristig steigen soll."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die Bundesregierung verhandelt über eine Neuausrichtung der Rentenversicherung. Die abschlagsfreie Frühverrentung war dabei ein Streitpunkt zwischen SPD und Union. Vertreter des CDU-Wirtschaftsflügels sprachen sich laut Spiegel für eine vollständige Abschaffung aus, gestützt auf Empfehlungen einer Rentenkommission aus dem Sommer. Die SPD beharrte dagegen auf der Fortführung.",
+      "Die Unionsfraktion hatte einen Kompromissvorschlag in die Debatte eingebracht. Arbeitsminister Schweitzer reagierte darauf mit der Vorlage seines Gesetzentwurfs. Laut Süddeutscher Zeitung steht parallel dazu das Modell der Riester-Rente vor dem Ende, während für 2027 eine neue Förderung geplant ist."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Die gesetzliche Rentenversicherung in Deutschland funktioniert nach dem Umlageverfahren. Dabei werden die aktuellen Beitragszahlungen der Erwerbstätigen direkt zur Finanzierung der laufenden Renten verwendet.",
+      "Als Rentenabschlag wird die Minderung der monatlichen Auszahlung bezeichnet, wenn Versicherte vor der Regelaltersgrenze in den Ruhestand treten."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Aus den Gewerkschaften kamen gemischte Rückmeldungen. DGB-Chefin Yasmin Fahimi kritisierte laut Tagesschau die Erhöhung der Abschläge für Menschen mit 35 Beitragsjahren, lobte aber den Erhalt der Rente nach 45 Jahren. ver.di-Chef Frank Werneke bewertete den Erhalt ebenfalls positiv, kritisierte aber die Abschläge als nicht fair.",
+      "Die Reaktionen aus den Regierungsparteien fielen unterschiedlich aus. Annika Klose von der SPD sprach laut Tagesschau von einem guten Ausgleich der Interessen. Kanzleramtschefin Nina Warken erklärte laut Spiegel hingegen, es gebe noch keine Einigung in der Koalition. CSU-Landesgruppenchef Alexander Hoffmann sprach von einem Schritt nach vorne, forderte aber einen Vorschlag zur Gegenfinanzierung. CDU-Wirtschaftspolitiker Christian von Stetten kritisierte laut Tagesschau den Entwurf.",
+      "Die Fraktionsvorsitzende der Linken, Heidi Reichinnek, kritisierte den Vorschlag laut Tagesschau scharf als Kürzungsprogramm."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Der Gesetzentwurf befindet sich nach Angaben des Spiegels in der Frühkoordinierung innerhalb der Bundesregierung. Arbeitsminister Schweitzer zeigte sich nach Angaben der Tagesschau optimistisch, dass es bald zu einer Einigung kommt. Die Unionsfraktion betonte dagegen, dass der Entwurf noch nicht fertig sei."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "Sommer 2026",
+     "Rentenkommission empfiehlt die vollständige Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren"
+    ],
+    [
+     "Dienstag, 24. November 2026",
+     "Unionsfraktion legt einen eigenen Kompromissvorschlag zur Reform der Altersversorgung vor"
+    ],
+    [
+     "Freitag, 27. November 2026",
+     "Bundesarbeitsminister Schweitzer veröffentlicht seinen Gesetzentwurf"
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Alexander Schweitzer",
+     "bildunterschrift": "Bundesarbeitsminister Alexander Schweitzer (SPD) hat den Gesetzentwurf zur Rentenreform vorgelegt."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Yasmin Fahimi",
+     "bildunterschrift": "DGB-Chefin Yasmin Fahimi kritisierte die geplanten höheren Abschläge für Frührentner."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Federal Ministry of Labour and Social Affairs Germany",
+     "bildunterschrift": "Das Bundesministerium für Arbeit und Soziales in Berlin hat den Reformgesetzentwurf erarbeitet."
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Formulierungen aus dem Entwurf wurden streng an den Text der Originalberichte angepasst."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Gesetzentwurf",
+      "Ein Entwurf ist ein Vorschlag für ein neues Gesetz, das von der Regierung erarbeitet wurde."
+     ],
+     [
+      "Rentenabschlag",
+      "Ein Abschlag ist eine dauerhafte Kürzung der monatlichen Rente, wenn jemand früher in den Ruhestand geht."
+     ],
+     [
+      "Umlageverfahren",
+      "Das Umlageverfahren bedeutet, dass die heutigen Beiträge der Arbeitnehmer direkt für die heutigen Renten verwendet werden."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente bringen Gewerkschaften und Politiker gegen die geplanten Abschläge vor?",
+     "Warum ist eine Einigung innerhalb der Regierungskoalition vor einem Beschluss notwendig?"
+    ],
+    "quiz": [
+     {
+      "frage": "Was plant Arbeitsminister Schweitzer für die abschlagsfreie Rente nach 45 Beitragsjahren?",
+      "optionen": [
+       "Sie soll vollständig abgeschafft werden.",
+       "Sie soll im Grundsatz erhalten bleiben, aber die Kriterien sollen verschärft werden.",
+       "Sie soll für alle Arbeitnehmer auf 50 Jahre verlängert werden."
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau, Deutschlandfunk, Spiegel und Süddeutscher Zeitung soll die Rente im Grundsatz erhalten bleiben, aber die Kriterien werden verschärft."
+     },
+     {
+      "frage": "Welche Zeiten sollen nach übereinstimmenden Berichten künftig nicht mehr auf die 45 Beitragsjahre angerechnet werden?",
+      "optionen": [
+       "Zeiten von Arbeitslosengeld und Krankengeld",
+       "Reguläre Urlaubszeiten",
+       "Zeiten einer abgeschlossenen Berufsausbildung"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut Tagesschau, Deutschlandfunk und Spiegel sollen Zeiten des Bezugs von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden."
+     },
+     {
+      "frage": "Wie hoch sollen die Abschläge bei vorzeitigem Renteneintritt nach 35 Jahren steigen?",
+      "optionen": [
+       "Auf zwei Komma fünf Prozent",
+       "Auf vier Komma acht Prozent",
+       "Auf sechs Komma null Prozent"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau sollen die Abschläge von bisher 3,6 Prozent auf 4,8 Prozent steigen."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der deutsche Arbeitsminister Alexander Schweitzer hat neue Pläne für die Rente vorgestellt.",
+    "absaetze": [
+     "Die sogenannte Rente nach 45 Jahren soll grundsätzlich bleiben.",
+     "Wer früher in Rente gehen will, muss aber strengere Regeln erfüllen.",
+     "Zeiten mit Arbeitslosengeld oder Krankengeld sollen nicht mehr für die Rente zählen.",
+     "Gewerkschaften kritisieren höhere Abzüge für Frührentner.",
+     "In der Regierung gibt es noch Streit über die Pläne."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Bundesarbeitsminister Alexander Schweitzer hat einen Entwurf zur Rentenreform vorgelegt.",
+     "Die abschlagsfreie Rente nach 45 Jahren soll unter verschärften Bedingungen erhalten bleiben.",
+     "In der Regierungskoalition gibt es nach Angaben von Kanzleramtschefin Nina Warken noch keine Einigung."
+    ],
+    "lang": [
+     "Bundesarbeitsminister Alexander Schweitzer hat einen neuen Gesetzentwurf zur Rentenreform vorgelegt.",
+     "Das Dokument umfasst nach Angaben des Spiegels 287 Seiten und stammt aus dem Arbeitsministerium in Berlin.",
+     "Kern des Entwurfs ist der Erhalt der abschlagsfreien Rente nach 45 Jahren unter verschärften Bedingungen.",
+     "Nach übereinstimmenden Berichten sollen Zeiten von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden.",
+     "Für Frührentner mit 35 Versicherungsjahren sollen die monatlichen Abschläge von drei Komma sechs auf vier Komma acht Prozent steigen.",
+     "Die DGB-Chefin Yasmin Fahimi kritisierte die höheren Abschläge nach Angaben der Tagesschau als ungerecht.",
+     "Annika Klose von der SPD sprach dagegen von einem guten Ausgleich der Interessen.",
+     "Kanzleramtschefin Nina Warken betonte nach Angaben des Spiegels, dass es in der Koalition noch keine Einigung gibt.",
+     "Das Gesetz muss vor einer Abstimmung im Bundestag von der Regierung beschlossen werden."
+    ],
+    "einfach": [
+     "Arbeitsminister Alexander Schweitzer will die Rente reformieren.",
+     "Die Rente nach 45 Jahren soll grundsätzlich erhalten bleiben.",
+     "Aber die Regeln dafür sollen strenger werden.",
+     "Zeiten von Arbeitslosengeld zählen künftig nicht mehr dazu.",
+     "Gewerkschaften kritisieren die Pläne der Regierung.",
+     "In der Politik wird darüber noch gestritten."
+    ]
+   },
+   "kurz": [
+    "Arbeitsminister Schweitzer hat einen Entwurf zur Reform der Rentenversicherung vorgelegt.",
+    "Die abschlagsfreie Rente nach 45 Jahren soll im Grundsatz erhalten bleiben.",
+    "Zeiten von Arbeitslosengeld und Krankengeld sollen künftig nicht mehr angerechnet werden.",
+    "In der Koalition gibt es nach Angaben der Union noch keine Einigung über den Entwurf."
+   ],
+   "fakten": [
+    [
+     "Seiten des Gesetzentwurfs",
+     "287"
+    ],
+    [
+     "Geplante Abschläge bei vorzeitigem Renteneintritt nach 35 Jahren",
+     "vier Komma acht Prozent"
+    ],
+    [
+     "Bisherige Abschläge",
+     "drei Komma sechs Prozent"
+    ]
+   ],
+   "dossier": {
+    "slug": "rentenreform-2026",
+    "titel": "Rentenreform in Deutschland"
+   },
+   "bildInfo": {
+    "titel": "2014-02-20 - Alexander Schweitzer - Landesregierung Rheinland-Pfalz - 2676.jpg",
+    "beschreibung": "Alexander Schweitzer (* 17. September 1973 in Landau in der Pfalz ) ist ein deutscher Politiker ( SPD ) und Sozialminister des Landes Rheinland-Pfalz .",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg/1280px-2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg",
+    "urheber": "Sven Teschke",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "art": "person",
+    "suchbegriff": "Alexander Schweitzer",
+    "bildunterschrift": "Bundesarbeitsminister Alexander Schweitzer hat den Entwurf zur Rentenreform vorgelegt.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2014-02-20 - Alexander Schweitzer - Landesregierung Rheinland-Pfalz - 2676.jpg",
+     "beschreibung": "Alexander Schweitzer (* 17. September 1973 in Landau in der Pfalz ) ist ein deutscher Politiker ( SPD ) und Sozialminister des Landes Rheinland-Pfalz .",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg/1280px-2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/e/e8/2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2014-02-20_-_Alexander_Schweitzer_-_Landesregierung_Rheinland-Pfalz_-_2676.jpg",
+     "urheber": "Sven Teschke",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "person",
+     "suchbegriff": "Alexander Schweitzer",
+     "bildunterschrift": "Bundesarbeitsminister Alexander Schweitzer hat den Entwurf zur Rentenreform vorgelegt.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Yasmin Fahimi - Vorsitzende des Deutschen Gewerkschaftsbundes.webp",
+     "beschreibung": "Yasmin Fahimi - ist seit Mai 2022 Vorsitzende des Deutschen Gewerkschaftsbundes",
+     "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yasmin_Fahimi_-_Vorsitzende_des_Deutschen_Gewerkschaftsbundes.webp",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/07/Yasmin_Fahimi_-_Vorsitzende_des_Deutschen_Gewerkschaftsbundes.webp?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Yasmin_Fahimi_-_Vorsitzende_des_Deutschen_Gewerkschaftsbundes.webp",
+     "urheber": "DGB / Benno Kraehahn",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "artikel": "Yasmin Fahimi",
+     "sprache": "de",
+     "art": "person",
+     "suchbegriff": "Yasmin Fahimi",
+     "bildunterschrift": "Yasmin Fahimi ist die Vorsitzende des Deutschen Gewerkschaftsbundes.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Berlin - Bundesministerium für Arbeit und Soziales.jpg",
+     "beschreibung": "Mitte. Mauerstraße The former Reichsministerium für Volksaufklärung und Propaganda - Reich Ministry of Public Enlightenment and Propaganda - was a Nazi government agency to enforce Nazi ideology. It w",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Berlin_-_Bundesministerium_f%C3%BCr_Arbeit_und_Soziales.jpg/1280px-Berlin_-_Bundesministerium_f%C3%BCr_Arbeit_und_Soziales.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Berlin_-_Bundesministerium_f%C3%BCr_Arbeit_und_Soziales.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Berlin_-_Bundesministerium_f%C3%BCr_Arbeit_und_Soziales.jpg",
+     "urheber": "Fred Romero from Paris, France",
+     "lizenz": "CC BY 2.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/2.0",
+     "art": "institution",
+     "suchbegriff": "Federal Ministry of Labour and Social Affairs Germany",
+     "bildunterschrift": "Das Gebäude des Bundesministeriums für Arbeit und Soziales in Berlin.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "eu-sondergipfel-haushalt-gescheitert",
+   "rubrik": "Welt",
+   "zeit": "2026-11-27T20:33:42.000Z",
+   "titel": "EU-Haushaltsgipfel ohne Einigung beendet",
+   "vorspann": "Der Sondergipfel der Europäischen Union zum künftigen Finanzrahmen ist vorzeitig ohne Einigung zu Ende gegangen. Die Verhandlungen über den Haushalt sollen nun bis zu einem weiteren Treffen im Dezember fortgesetzt werden.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Der EU-Sondergipfel zum künftigen Finanzrahmen endete in Brüssel vorzeitig ohne Einigung.",
+    "Bundeskanzler Friedrich Merz begründete den Abbruch damit, dass die Positionen der Mitgliedstaaten zu weit auseinanderliegen.",
+    "Während Nettozahler wie Deutschland weitere Kürzungen fordern, lehnen Netto-Empfänger sowie Länder wie Frankreich und Italien Einbußen ab.",
+    "Die Verhandlungen sollen im Dezember fortgesetzt werden, wenn auch über die neuen Posten der Europäischen Zentralbank entschieden werden soll."
+   ],
+   "einig": [
+    [
+     "Der EU-Sondergipfel zum Finanzrahmen wurde ohne Einigung beendet.",
+     [
+      "Tagesschau/ARD",
+      "Deutsche Welle"
+     ]
+    ],
+    [
+     "Bundeskanzler Friedrich Merz erklärte, dass die Verhandlungspositionen zu weit auseinanderliegen.",
+     [
+      "Deutschlandfunk",
+      "Deutsche Welle"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Welche konkreten Kompromisslinien für den Haushalt nach dem gescheiterten Gipfel verfolgt werden sollen."
+   ],
+   "positionen": [
+    [
+     "Bundeskanzler Friedrich Merz",
+     "Die Verhandlungspositionen liegen zu weit auseinander, und Haushaltsverhandlungen müssen mit Ukraine-Hilfen verknüpft werden.",
+     "Deutschlandfunk,Deutsche Welle"
+    ],
+    [
+     "Tschechischer Regierungschef Andrej Babis",
+     "Die Ukraine-Hilfsgelder sollen separat betrachtet werden.",
+     "Deutsche Welle"
+    ],
+    [
+     "Italienische Ministerpräsidentin Giorgia Meloni",
+     "Man ist nicht bereit, ein Budget zu unterschreiben, bei dem man mehr einzahlt, um weniger zu bekommen.",
+     "Deutsche Welle"
+    ]
+   ],
+   "fehlend": "Stimmen aus den Parlamenten der EU-Mitgliedstaaten oder der EU-Kommission",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 20:26",
+     "fokus": "Kurzmeldung zum Gipfelende",
+     "text": "Die Tagesschau meldet knapp das Ende des EU-Gipfels ohne Ergebnisse.",
+     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691256.html",
+     "video": true,
+     "lesbar": null,
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 21:33",
+     "fokus": "Druck auf Regierungen",
+     "text": "Der Deutschlandfunk berichtet über den gestiegenen Druck auf die Staats- und Regierungschefs.",
+     "url": "https://www.deutschlandfunk.de/beendigung-des-sondergipfels-zum-eu-haushalt-cdu-europapolitiker-herbst-warnt-vor-feilschen-um-betra-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Deutsche Welle",
+     "typ": "Auslandssender (öffentlich finanziert)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "27.11.26, 11:00",
+     "fokus": "Ausführliche Hintergründe zum Haushalt und EZB-Personal",
+     "text": "Die Deutsche Welle liefert detaillierte Zahlen zum Haushaltsentwurf von António Costa sowie Länderpositionen.",
+     "url": "https://www.dw.com/de/eu-haushaltsgipfel-endet-vorzeitig-ohne-konsens/a-80071476?maca=de-rss-de-all-1119-rdf",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 392,
+      "satzlaenge": 18,
+      "langeWoerter": 39
+     },
+     "traeger": "Deutsche Welle, Anstalt des öffentlichen Rechts (Auslandsrundfunk)",
+     "finanzierung": "Steuermittel des Bundes",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Ausführlichkeit",
+     "Während die Tagesschau und der Deutschlandfunk kurz über das Ende des Gipfels und die Aussagen von Merz berichten, liefert die Deutsche Welle umfassende Details zu den Haushaltszahlen, Länderpositionen und den Personalien der Europäischen Zentralbank."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Staats- und Regierungschefs der EU",
+    "was": "Vorzeitiges Ende des EU-Sondertreffens",
+    "wann": "Unbekannt",
+    "wo": "Brüssel",
+    "wie": "Vorzeitig ohne Einigung abgebrochen",
+    "warum": "Positionen liegen zu weit auseinander, laut Bundeskanzler Merz",
+    "quellenlage": "Tagesschau/ARD, Deutschlandfunk, Deutsche Welle"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Sondergipfel der Europäischen Union über den künftigen europäischen Finanzrahmen ist ohne Einigung vorzeitig beendet worden. Nach Angaben der Deutschen Welle wurde das Treffen abgebrochen, nachdem die Verhandlungen zu keinem Ergebnis führten. Ursprünglich war geplant, die Beratungen an einem Freitag fortzusetzen. Bundeskanzler Friedrich Merz erklärte dazu, dass man das Treffen wegen der großen Differenzen nicht weiterführen werde.",
+      "Laut dem Deutschlandfunk steigt nach dem Abbruch des Sondertreffens zum EU-Finanzplan der Druck auf die Staats- und Regierungschefs. Auch die Tagesschau berichtete über das Ende des EU-Gipfels ohne Ergebnisse. Auf Arbeitsebene sollen die Gespräche fortgeführt werden. Ein weiterer Gipfel ist für Dezember kurz vor Weihnachten angesetzt.",
+      "Bei dem kommenden Treffen im Dezember soll neben den Haushaltsfragen auch das neue Führungspersonal der Europäischen Zentralbank formell ernannt werden. Vor dem Sondergipfel verständigten sich die Staats- und Regierungschefs der Eurogruppe bereits auf die künftigen Spitzenposten. Dies geht aus Berichten der Deutschen Welle hervor."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "EU-Ratspräsident António Costa hatte in der vergangenen Woche einen neuen Haushaltsentwurf für die Jahre zweitausendachtundzwanzig bis zweitausendvierunddreißig vorgelegt. Der Gesamtumfang dieses Entwurfs lag bei eins Komma sieben acht Billionen Euro. Laut den Angaben der Deutschen Welle waren das zweihundertvier Milliarden Euro weniger als im Vorschlag der EU-Kommission vorgesehen.",
+      "Bundeskanzler Friedrich Merz forderte zusätzliche Kürzungen um mehrere Hundert Milliarden Euro. Diese Forderung teilte er laut Deutscher Welle mit den Regierungschefs weiterer Nettozahler-Staaten. Zu diesen Ländern gehören die Niederlande, Österreich, Schweden, Finnland, Dänemark und Belgien.",
+      "Zugleich verlangte der deutsche Kanzler eine Verknüpfung der Haushaltsverhandlungen mit der künftigen Ukraine-Hilfe. Die Finanzierung von Kyjiw sei eine gemeinsame Aufgabe. Zur Europäischen Union gehörten siebenundzwanzig und nicht dreiundzwanzig oder vierundzwanzig Mitglieder, mahnte Merz laut Deutscher Welle an.",
+      "Der tschechische Regierungschef Andrej Babis forderte hingegen eine separate Betrachtung der Ukraine-Hilfsgelder. Für Tschechien gibt es laut Deutscher Welle ebenso wie für die Slowakei und Ungarn eine Ausnahme. Diese Länder müssen sich wegen einer ausgehandelten Regelung beim laufenden neunzig-Milliarden-Euro-Kredit nicht an der Finanzierung beteiligen."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Gegen weitere Kürzungen des mehrjährigen Finanzrahmens sprachen sich vor allem Staaten in Süd- und Osteuropa aus. Diese Länder sind Netto-Empfänger aus dem EU-Haushalt. Dies berichtete die Deutsche Welle.",
+      "Teilweise erhielten diese Länder Unterstützung von Staaten wie Frankreich und Italien. Obwohl diese Länder Nettozahler sind, wollen sie Einbußen für ihre Landwirte und Regionen vermeiden. Dies geht ebenfalls aus den Berichten der Deutschen Welle hervor."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der mehrjährige Finanzrahmen legt den langfristigen Haushalt der Europäischen Union fest und bestimmt die Obergrenzen für die Ausgaben in verschiedenen Politikbereichen. Nettozahler sind Mitgliedstaaten, die mehr Geld in den Haushalt einzahlen, als sie an direkten Mitteln zurückerhalten. Netto-Empfänger erhalten hingegen mehr finanzielle Mittel aus dem Haushalt, als sie selbst einzahlen."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Bundeskanzler Friedrich Merz erklärte in Brüssel laut Deutschlandfunk und Deutscher Welle, dass die Verhandlungspositionen noch zu weit auseinander lägen. Daher werde das Treffen nicht wie geplant fortgesetzt.",
+      "Die italienische Ministerpräsidentin Giorgia Meloni sagte laut Deutscher Welle, man sei nicht bereit, eine Unterschrift unter ein Budget zu setzen, bei dem man mehr einzahle, um weniger zu bekommen."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Auf Arbeitsebene sollen die Verhandlungen fortgesetzt werden. Ein weiterer Gipfel ist für Dezember kurz vor Weihnachten geplant.",
+      "Bei diesem Treffen im Dezember soll auch das neue Führungspersonal der Europäischen Zentralbank formell ernannt werden. Als Nachfolger der im Februar ausscheidenden EZB-Präsidentin Christine Lagarde ist der Spanier Pablo Hernández de Cos vorgesehen. Der deutsche Ökonom Markus Brunnermeier soll neuer Chefvolkswirt werden, und die Französin Laurence Boone soll in das EZB-Direktorium einrücken."
+     ]
+    }
+   ],
+   "zeitleiste": [],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz äußerte sich in Brüssel zu den auseinanderliegenden Verhandlungspositionen."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "European Central Bank headquarters",
+     "bildunterschrift": "Der Sitz der Europäischen Zentralbank in Frankfurt am Main."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Brussels cityscape",
+     "bildunterschrift": "Blick auf Brüssel, den Tagungsort des abgebrochenen EU-Sondergipfels."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "António Costa politician",
+     "bildunterschrift": "EU-Ratspräsident António Costa hatte den Haushaltsentwurf für die kommenden Jahre vorgelegt."
+    }
+   ],
+   "ort": {
+    "name": "Brüssel, Belgien"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Das ungenaue Datum im Entwurf wurde aus der Zeitleiste und den wfragen entfernt, da es in den Berichten nicht explizit genannt wurde.",
+    "Die Erwähnung des CDU-Europapolitikers Herbst wurde aus dem Artikel entfernt, da sie nicht in den Anforderungen für den belegten Inhalt abgeglichen war.",
+    "Das Datum in der Zeitleiste wurde entfernt, da die Originalberichte kein konkretes Datum für den Gipfel nennen."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Nettozahler",
+      "Länder, die mehr Geld in den Haushaltsplan der Europäischen Union einzahlen, als sie selbst als finanzielle Mittel zurückerhalten."
+     ],
+     [
+      "Netto-Empfänger",
+      "Länder, die mehr finanzielle Mittel aus dem Haushalt der Europäischen Union erhalten, als sie selbst dorthin einzahlen."
+     ],
+     [
+      "Europäische Zentralbank",
+      "Die zentrale Notenbank für die Mitgliedstaaten der Eurozone, die die Geldpolitik steuert."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente führen Nettozahler und Netto-Empfänger bei den Haushaltsverhandlungen an?",
+     "Warum kann es bei internationalen Verhandlungen zu einem vorzeitigen Abbruch kommen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Warum wurde der EU-Sondergipfel nach Angaben von Bundeskanzler Friedrich Merz abgebrochen?",
+      "optionen": [
+       "Wegen zu großer Differenzen bei den Verhandlungspositionen",
+       "Wegen des Beginns von Feiertagen",
+       "Wegen technischer Probleme im Gebäude"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bundeskanzler Friedrich Merz erklärte, dass die Verhandlungspositionen noch zu weit auseinanderlagen."
+     },
+     {
+      "frage": "Wer hat den neuen Haushaltsentwurf für die Jahre 2028 bis 2034 vorgelegt?",
+      "optionen": [
+       "Die Europäische Zentralbank",
+       "EU-Ratspräsident António Costa",
+       "Bundeskanzler Friedrich Merz"
+      ],
+      "richtig": 1,
+      "erklaerung": "EU-Ratspräsident António Costa hatte den neuen Haushaltsentwurf vorgelegt."
+     },
+     {
+      "frage": "Wann soll der nächste Gipfel stattfinden?",
+      "optionen": [
+       "Im Januar",
+       "Im Dezember",
+       "Im kommenden Sommer"
+      ],
+      "richtig": 1,
+      "erklaerung": "Die Verhandlungen sollen bis zu einem weiteren Gipfel im Dezember fortgesetzt werden."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Staats- und Regierungschefs der Europäischen Union haben sich bei einem Sondergipfel nicht auf einen neuen Haushaltsplan einigen können.",
+    "absaetze": [
+     "Das Treffen in Brüssel wurde vorzeitig abgebrochen.",
+     "Bundeskanzler Friedrich Merz sagte, dass die Vorstellungen der Länder noch zu weit auseinanderliegen.",
+     "Einige Länder fordern, dass die Europäische Union weniger Geld ausgibt.",
+     "Andere Länder wollen keine Kürzungen hinnehmen.",
+     "Im Dezember soll ein neuer Versuch gestartet werden."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der EU-Sondergipfel zum Finanzrahmen ist ohne Einigung zu Ende gegangen.",
+     "Bundeskanzler Friedrich Merz nannte zu große Differenzen als Grund.",
+     "Die Verhandlungen sollen im Dezember fortgesetzt werden."
+    ],
+    "lang": [
+     "Der Sondergipfel der Europäischen Union zum künftigen Finanzrahmen ist vorzeitig ohne Einigung zu Ende gegangen.",
+     "Das Treffen fand in Brüssel statt.",
+     "Bundeskanzler Friedrich Merz erklärte, dass die Verhandlungspositionen zu weit auseinanderlagen.",
+     "Deshalb wurde das Treffen abgebrochen.",
+     "EU-Ratspräsident António Costa hatte zuvor einen Haushaltsentwurf von eins Komma sieben acht Billionen Euro vorgelegt.",
+     "Deutschland und andere Nettozahler fordern weitere Kürzungen.",
+     "Staaten aus Süd- und Osteuropa lehnen zusätzliche Kürzungen hingegen ab.",
+     "Nach Angaben der Deutschen Welle soll im Dezember ein weiterer Gipfel stattfinden.",
+     "Dann wird auch über das neue Führungspersonal der Europäischen Zentralbank entschieden."
+    ],
+    "einfach": [
+     "Die EU-Staaten haben sich bei einem Sondergipfel nicht geeinigt.",
+     "Das Treffen in Brüssel wurde vorzeitig abgebrochen.",
+     "Bundeskanzler Friedrich Merz sagte, die Meinungen liegen zu weit auseinander.",
+     "Einige Länder fordern weniger Ausgaben.",
+     "Im Dezember soll weiterverhandelt werden."
+    ]
+   },
+   "kurz": [
+    "Der EU-Sondergipfel zum künftigen Finanzrahmen endete in Brüssel vorzeitig ohne Einigung.",
+    "Bundeskanzler Friedrich Merz nannte zu große Differenzen als Grund für den Abbruch.",
+    "Nettozahler fordern stärkere Kürzungen, während Netto-Empfänger diese ablehnen.",
+    "Im Dezember soll ein weiterer Gipfel stattfinden."
+   ],
+   "fakten": [
+    [
+     "Haushaltsentwurf Gesamtumfang",
+     "1,78 Billionen Euro"
+    ],
+    [
+     "Kürzung gegenüber EU-Kommission",
+     "204 Milliarden Euro"
+    ],
+    [
+     "Laufzeit des Finanzrahmens",
+     "2028 bis 2034"
+    ]
+   ],
+   "dossier": {
+    "slug": "eu-finanzrahmen-gipfel",
+    "titel": "EU-Haushalt und Finanzrahmen"
+   },
+   "bildInfo": {
+    "titel": "View of Brussels (Marolles) from Palais de Justice.jpg",
+    "beschreibung": "View of Brussels (Marolles, Chapelle, Sablon Tower) from Palais de Justice",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg/1280px-View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:View_of_Brussels_(Marolles)_from_Palais_de_Justice.jpg",
+    "urheber": "Trougnouf",
+    "lizenz": "CC BY 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+    "art": "ort",
+    "suchbegriff": "Brussels cityscape",
+    "bildunterschrift": "Blick auf Brüssel, den Verhandlungsort des EU-Sondergipfels.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "View of Brussels (Marolles) from Palais de Justice.jpg",
+     "beschreibung": "View of Brussels (Marolles, Chapelle, Sablon Tower) from Palais de Justice",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg/1280px-View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/View_of_Brussels_%28Marolles%29_from_Palais_de_Justice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:View_of_Brussels_(Marolles)_from_Palais_de_Justice.jpg",
+     "urheber": "Trougnouf",
+     "lizenz": "CC BY 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by/4.0",
+     "art": "ort",
+     "suchbegriff": "Brussels cityscape",
+     "bildunterschrift": "Blick auf Brüssel, den Verhandlungsort des EU-Sondergipfels.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Brüssel, Belgien",
+    "lat": 50.847,
+    "lon": 4.352
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "sap-stellenabbau-sicherheitsvorfall",
+   "rubrik": "Wirtschaft",
+   "zeit": "2026-11-27T14:20:18.000Z",
+   "titel": "Berichte über möglichen Stellenabbau beim Softwarekonzern SAP",
+   "vorspann": "Beim Softwarekonzern SAP steht laut Medienberichten ein größerer Stellenabbau bevor. Das Unternehmen äußert sich bisher nicht zu den genauen Zahlen und verweist auf eine kontinuierliche Transformation durch Künstliche Intelligenz.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Beim Softwarekonzern SAP in Walldorf steht laut Medienberichten ein größerer Stellenabbau bevor.",
+    "Bloomberg und das Handelsblatt nennen mögliche Zahlen zwischen 10.000 und 15.000 betroffenen Stellen.",
+    "Das Unternehmen selbst kommentiert die Zahlen nicht, verweist jedoch auf eine kontinuierliche Transformation durch Künstliche Intelligenz.",
+    "In Deutschland wird ein möglicher Stellenabbau voraussichtlich durch freiwillige Programme ohne betriebsbedingte Kündigungen umgesetzt."
+   ],
+   "einig": [
+    [
+     "SAP prüft kontinuierlich die Weiterentwicklung von Organisation und Belegschaft wegen der Veränderungen durch Künstliche Intelligenz.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "Medienberichte über einen möglichen Stellenabbau basieren auf internen Quellen.",
+     [
+      "Tagesschau/ARD",
+      "Süddeutsche Zeitung"
+     ]
+    ],
+    [
+     "SAP hat verdächtige Aktivitäten in der IT-Sicherheit festgestellt und Schutzmaßnahmen ergriffen.",
+     [
+      "Zeit",
+      "Süddeutsche Zeitung"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Die genaue Anzahl der betroffenen Stellen ist unklar; Bloomberg nennt bis zu 10.000 Stellen, ein Insider sprach gegenüber dem Handelsblatt von bis zu 15.000 Stellen.",
+    "Ob ein tatsächlicher Hackerangriff stattgefunden hat, ist unklar; SAP wollte dies laut Tagesschau/ARD nicht bestätigen, meldete aber laut Zeit und Süddeutscher Zeitung verdächtige Aktivitäten."
+   ],
+   "positionen": [
+    [
+     "SAP (Unternehmensleitung)",
+     "Kommentiert Spekulationen nicht und erklärt, dass KI das Geschäftsumfeld verändert und Organisation sowie Belegschaft kontinuierlich überprüft werden.",
+     "Tagesschau/ARD,Süddeutsche Zeitung"
+    ],
+    [
+     "Christian Klein (SAP-Chef)",
+     "Erklärte, dass die Zahl der Beschäftigten zurückgehen dürfte, SAP gleichzeitig aber auch neue Fachkräfte wie Data Scientists aufbaut.",
+     "Tagesschau/ARD,Süddeutsche Zeitung"
+    ],
+    [
+     "Betriebsrat",
+     "Geht in Deutschland davon aus, dass ein Stellenabbau ohne betriebsbedingte Kündigungen vonstattengehen wird, war laut Reuters aber noch nicht offiziell informiert.",
+     "Tagesschau/ARD,Süddeutsche Zeitung"
+    ]
+   ],
+   "fehlend": "Stimmen von betroffenen Mitarbeitern außerhalb des Betriebsrates sowie Aussagen von Branchenverbänden oder Gewerkschaften.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 12:09",
+     "fokus": "Mögliche Stellenstreichungen durch KI",
+     "text": "Die Tagesschau berichtet umfassend über die genannten Zahlen von Bloomberg und dem Handelsblatt sowie über die Aussagen der Unternehmensführung.",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "schwer",
+      "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 392,
+      "satzlaenge": 15,
+      "langeWoerter": 42
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 07:42",
+     "fokus": "IT-Sicherheit und Vorfälle",
+     "text": "Die Zeit konzentriert sich kurz auf den Vorfall in der IT-Sicherheit bei dem Unternehmen aus Walldorf und den Schutz von Kundendaten.",
+     "url": "https://www.zeit.de/digital/2026-11/sap-verdaechtige-aktivitaeten-it-sicherheit-hackerangriff-dax-konzern-gxe",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 15:20",
+     "fokus": "Hintergrund zu KI und Personal",
+     "text": "Die Süddeutsche Zeitung beleuchtet zusätzlich den gleichzeitigen Aufbau von neuen Stellen in bestimmten Bereichen und den aktuellen Sicherheitsvorfall.",
+     "url": "https://www.sueddeutsche.de/wirtschaft/sap-stellenabbau-ki-software-cyberangriff-li.3587054",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 3,
+      "woerter": 513,
+      "satzlaenge": 16,
+      "langeWoerter": 39
+     },
+     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Themenschwerpunkte",
+     "Während Tagesschau/ARD und Süddeutsche Zeitung ausführlich auf den möglichen Stellenabbau und die Rolle von KI eingehen, legt die Zeit den Fokus auf die Meldung zu IT-Sicherheit und verdächtigen Aktivitäten bei SAP."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Der Softwarekonzern SAP",
+    "was": "Möglicher Stellenabbau",
+    "wann": "27.11.2026",
+    "wo": "Walldorf, Deutschland",
+    "wie": "Durch mögliche Entlassungen, Abfindungen und Vorruhestand",
+    "warum": "Automatisierung durch Künstliche Intelligenz laut Medienberichten",
+    "quellenlage": "Handelsblatt, Bloomberg, WirtschaftsWoche, Nachrichtenagenturen Reuters und dpa"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Softwarekonzern SAP steuert Medienberichten zufolge auf einen größeren Stellenabbau zu. Laut Tagesschau/ARD berichten mehrere Medien übereinstimmend über diese Pläne. Die genaue Größenordnung steht laut den Berichten bislang noch nicht fest. Der Nachrichtenagentur Bloomberg zufolge könnten bis zu 10.000 Arbeitsplätze wegfallen.",
+      "Ein Insider nannte gegenüber dem Handelsblatt sogar eine Zahl von bis zu 15.000 potenziell entfallenden Stellen. Das Unternehmen hat diese konkreten Zahlen bisher nicht bestätigt. Auf Nachfragen betonte der Konzern, dass noch keine finalen Entscheidungen getroffen wurden.",
+      "Die Süddeutsche Zeitung berichtet ebenfalls über diese Pläne und verweist auf interne Quellen. Demnach seien sämtliche Abteilungen aufgefordert worden, Kürzungsvorschläge einzureichen. Im Mittelpunkt stünden dabei die Produktentwicklung und der Vertrieb."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Laut Tagesschau/ARD dürften Beschluss und Ankündigung voraussichtlich Anfang 2027 erfolgen. Anschließend muss der Vorstand die Mitbestimmungsgremien einbeziehen. Nach Informationen der WirtschaftsWoche sollen die Pläne um die Zeit der Veröffentlichung der Jahreszahlen im Januar 2027 verkündet werden.",
+      "Gegenüber der Nachrichtenagentur Reuters erklärten mit der Angelegenheit vertraute Personen, dass der Betriebsrat über die Pläne noch nicht offiziell informiert worden sei. Für Beschäftigte in Deutschland dürfte es laut Tagesschau/ARD vor allem um einen freiwilligen Stellenabbau gehen. SAP hat erst Anfang Oktober für die Mitarbeiter in Deutschland eine neue Beschäftigungssicherung bis Ende 2028 vereinbart.",
+      "Die Süddeutsche Zeitung berichtet, dass in Deutschland ein Abfindungs- und Vorruhestandsprogramm naheliegend ist. Auch die Süddeutsche Zeitung verweist darauf, dass der Betriebsrat von einem Ablauf ohne betriebsbedingte Kündigungen in Deutschland ausgeht. Im Jahr 2024 hatte SAP zuletzt ein Abfindungsprogramm angeboten, das von etwa 3.500 älteren Angestellten angenommen wurde."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Konzernchef Christian Klein und Finanzvorstand Dominik Asam hatten bei Investorenveranstaltungen in den vergangenen Wochen laut Tagesschau/ARD bereits signalisiert, dass die Zahl der aktuell mehr als 110.000 Beschäftigten zurückgehen dürfte. Die Automatisierung mithilfe Künstlicher Intelligenz spielt dabei eine zentrale Rolle. Bereits Anfang März 2026 hatte der SAP-Chef die Mitarbeiter in einer internen E-Mail auf einen anstehenden Konzernumbau eingeschworen.",
+      "Die Süddeutsche Zeitung ergänzt, dass der weltweit tätige Konzern in bestimmten Bereichen gleichzeitig massiv Personal aufbaut. SAP-Chef Christian Klein sagte der Süddeutschen Zeitung im August 2026, dass das Unternehmen etwa 400 bis 500 neue Data Scientists benötigt. Auch für die Einführung neuer Produkte bei Kunden werden neue Angestellte gebraucht.",
+      "Die rasanten Entwicklungen im Bereich der Künstlichen Intelligenz zwingen den Konzern laut Süddeutscher Zeitung zu einer neuen Aufstellung. Durch den Einsatz von KI sei SAP in der Softwareentwicklung nach Angaben von Christian Klein bereits um 30 Prozent produktiver geworden. Neben den Umbauplänen war SAP laut Zeit und Süddeutscher Zeitung zuletzt auch von einem Vorfall in der IT-Sicherheit betroffen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "SAP mit Hauptsitz im baden-württembergischen Walldorf ist Europas größter Softwarekonzern. Das Unternehmen entwickelt Unternehmenssoftware zur Steuerung von Geschäftsprozessen für Kunden weltweit. Zu den Kunden gehören zahlreiche große internationale Unternehmen und Organisationen.",
+      "Eine Beschäftigungssicherung ist eine vertragliche Vereinbarung zwischen Arbeitgeber und Arbeitnehmervertretungen, die betriebsbedingte Kündigungen für einen bestimmten Zeitraum ausschließt. Bei Umstrukturierungen greifen Unternehmen oft auf freiwillige Instrumente wie Abfindungen oder Vorruhestandsprogramme zurück."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Das Unternehmen SAP erklärte in einer Stellungnahme laut Tagesschau/ARD und Süddeutscher Zeitung: \"KI verändert unser Geschäftsumfeld rasant. Deshalb überprüfen wir kontinuierlich, wie sich unsere Organisation und Belegschaft weiterentwickeln müssen, um langfristig erfolgreich zu bleiben.\" Spekulationen zu konkreten Zahlen wollte der Konzern nicht kommentieren.",
+      "SAP-Chef Christian Klein erklärte gegenüber der Süddeutschen Zeitung im August 2026, dass er einen Stellenabbau nicht komplett ausschließen könne. Man müsse sich die Entwicklung ansehen und entscheiden, wie viele Mitarbeiter in Zukunft in jeder Funktion benötigt werden.",
+      "Nach Angaben der Süddeutschen Zeitung geht der Betriebsrat davon aus, dass ein möglicher Stellenabbau in Deutschland ohne betriebsbedingte Kündigungen ablaufen wird. Der Betriebsrat war laut Reuters von der Unternehmensführung über die konkreten Pläne zunächst noch nicht offiziell informiert worden."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Laut Tagesschau/ARD und Süddeutscher Zeitung ist Anfang 2027 mit einem offiziellen Beschluss und einer Ankündigung der Pläne zu rechnen. Die WirtschaftsWoche nennt in diesem Zusammenhang den Zeitraum der Veröffentlichung der Jahreszahlen Ende Januar 2027.",
+      "Nach einer Bekanntgabe muss der Vorstand laut Tagesschau/ARD die Mitbestimmungsgremien wie den Betriebsrat einbeziehen. Bei der IT-Sicherheit hat das Unternehmen nach Angaben der Zeit und der Süddeutschen Zeitung umgehend Maßnahmen ergriffen, um die Systeme und Kundendaten zu schützen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "März 2026",
+     "SAP-Chef kündigt in interner E-Mail einen kommenden Konzernumbau an."
+    ],
+    [
+     "August 2026",
+     "SAP-Chef schließt Stellenabbau nicht aus und kündigt die Einstellung neuer Fachkräfte an."
+    ],
+    [
+     "Oktober 2026",
+     "Vereinbarung einer neuen Beschäftigungssicherung für Mitarbeiter in Deutschland bis Ende 2028."
+    ],
+    [
+     "Ende November 2026",
+     "Medienberichte über Pläne zum Stellenabbau und Bekanntwerden verdächtiger IT-Aktivitäten."
+    ],
+    [
+     "Anfang 2027",
+     "Erwarteter Beschluss und offizielle Ankündigung der Pläne durch den Vorstand."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Christian Klein businessman",
+     "bildunterschrift": "SAP-Vorstandschef Christian Klein, der den Konzern auf den Einsatz von Künstlicher Intelligenz ausrichtet."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Walldorf Baden-Württemberg",
+     "bildunterschrift": "Die Stadt Walldorf in Baden-Württemberg, wo sich der Hauptsitz des Softwarekonzerns SAP befindet."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "SAP headquarters",
+     "bildunterschrift": "Gebäude des Softwarekonzerns SAP, der weltweit mehr als 110.000 Mitarbeiter beschäftigt."
+    },
+    {
+     "art": "symbol",
+     "suchbegriff": "Artificial intelligence technology",
+     "bildunterschrift": "Ein Symbolbild für Künstliche Intelligenz, die beim Konzernumbau und der Automatisierung eine zentrale Rolle spielt."
+    }
+   ],
+   "ort": {
+    "name": "Walldorf, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [
+    "massiv"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Künstliche Intelligenz",
+      "Computerprogramme, die Aufgaben lösen können, für die normalerweise menschliches Denken nötig ist."
+     ],
+     [
+      "Betriebsrat",
+      "Eine Vertretung der Arbeitnehmer in einem Betrieb, die sich für die Interessen der Mitarbeiter einsetzt."
+     ]
+    ],
+    "fragen": [
+     "Welche Rolle spielt Künstliche Intelligenz bei den aktuellen Plänen von Unternehmen?",
+     "Wie gehen Unternehmen mit dem Konflikt zwischen neuen Technologien und Arbeitsplätzen um?"
+    ],
+    "quiz": [
+     {
+      "frage": "Welche Zahlen zu einem möglichen Stellenabbau nennen Medienberichte?",
+      "optionen": [
+       "Bis zu zehntausend bis fünfzehntausend Stellen",
+       "Genau fünfundzwanzigtausend Stellen",
+       "Keine einzige Stelle"
+      ],
+      "richtig": 0,
+      "erklaerung": "Bloomberg und das Handelsblatt nennen Zahlen zwischen zehntausend und fünfzehntausend potenziell betroffenen Stellen."
+     },
+     {
+      "frage": "Wie reagiert das Unternehmen SAP offiziell auf die Spekulationen zum Stellenabbau?",
+      "optionen": [
+       "Das Unternehmen bestätigt die Zahlen sofort.",
+       "Das Unternehmen kommentiert die Spekulationen nicht.",
+       "Das Unternehmen schließt jeglichen Umbau aus."
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau/ARD und Süddeutscher Zeitung will sich SAP zu den Zahlen zunächst nicht äußern und kommentiert Spekulationen nicht."
+     },
+     {
+      "frage": "Was wurde für Mitarbeiter in Deutschland erst im Oktober vereinbart?",
+      "optionen": [
+       "Eine Gehaltserhöhung von zwanzig Prozent",
+       "Eine neue Beschäftigungssicherung bis Ende 2028",
+       "Ein sofortiger Wechsel in andere Berufe"
+      ],
+      "richtig": 1,
+      "erklaerung": "SAP hat laut Tagesschau/ARD erst Anfang Oktober für die Mitarbeiter in Deutschland eine neue Beschäftigungssicherung bis Ende 2028 vereinbart."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Beim Softwarekonzern SAP gibt es Berichte über einen möglichen Stellenabbau.",
+    "absaetze": [
+     "Der große Softwarekonzern SAP hat seinen Sitz in der Stadt Walldorf. Medien berichten, dass dort in Zukunft viele Arbeitsplätze wegfallen könnten. Als Grund nennen die Berichte den Einsatz von Künstlicher Intelligenz. Das Unternehmen selbst will diese Berichte bisher nicht bestätigen. Für die Mitarbeiter in Deutschland gibt es Verträge, die betriebsbedingte Kündigungen verhindern sollen. Zusätzlich hat das Unternehmen verdächtige Aktivitäten in seiner Computer-Sicherheit gemeldet."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Beim Softwarekonzern SAP steht Medienberichten zufolge ein größerer Stellenabbau bevor. Interne Quellen nennen bis zu fünfzehntausend betroffene Arbeitsplätze. SAP selbst kommentiert die Zahlen bisher nicht."
+    ],
+    "lang": [
+     "Beim Softwarekonzern SAP steht Medienberichten zufolge ein größerer Stellenabbau bevor. Interne Quellen nennen mögliche Zahlen zwischen zehntausend und fünfzehntausend betroffenen Arbeitsplätzen. Das Unternehmen hat diese Zahlen bisher nicht offiziell bestätigt. Als Hintergrund für den Umbau nennen Medienberichte den Einsatz von Künstlicher Intelligenz. SAP-Chef Christian Klein erklärte, dass die Zahl der Beschäftigten zurückgehen dürfte. Gleichzeitig baut das Unternehmen in bestimmten Bereichen neue Fachkräfte auf. In Deutschland soll ein möglicher Abbau nach Angaben des Betriebsrates ohne betriebsbedingte Kündigungen ablaufen. Zusätzlich hat SAP nach Berichten von Zeit und Süddeutscher Zeitung verdächtige Aktivitäten in der IT-Sicherheit festgestellt. Anfang des kommenden Jahres werden offizielle Entscheidungen des Vorstandes erwartet."
+    ],
+    "einfach": [
+     "Beim Softwarekonzern SAP könnten viele Arbeitsplätze wegfallen. Das berichten verschiedene Medien aus internen Quellen. Künstliche Intelligenz verändert die Arbeit bei dem Unternehmen stark. SAP will sich zu den genauen Zahlen bisher nicht äußern. In Deutschland soll es aber keine Kündigungen gegen den Willen der Mitarbeiter geben."
+    ]
+   },
+   "kurz": [
+    "Beim Softwarekonzern SAP steht Medienberichten zufolge ein größerer Stellenabbau bevor.",
+    "Interne Quellen nennen mögliche Zahlen zwischen zehntausend und fünfzehntausend betroffenen Stellen.",
+    "Das Unternehmen kommentiert die Zahlen nicht und verweist auf eine Transformation durch Künstliche Intelligenz.",
+    "Zusätzlich meldete das Unternehmen verdächtige Aktivitäten in der IT-Sicherheit."
+   ],
+   "fakten": [
+    [
+     "Mögliche Stellenstreichungen",
+     "Bis zu 10.000 bis 15.000"
+    ],
+    [
+     "Weltweite Beschäftigte",
+     "Mehr als 110.000"
+    ],
+    [
+     "Datum der Beschäftigungssicherung",
+     "Bis Ende 2028"
+    ]
+   ],
+   "dossier": {
+    "slug": "sap-stellenabbau-ki",
+    "titel": "Möglicher Stellenabbau beim Softwarekonzern SAP"
+   },
+   "bildInfo": {
+    "titel": "Walldorf Rathaus 20100707.jpg",
+    "beschreibung": "Walldorf (Baden) , Rathaus",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Walldorf_Rathaus_20100707.jpg/1280px-Walldorf_Rathaus_20100707.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Walldorf_Rathaus_20100707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:Walldorf_Rathaus_20100707.jpg",
+    "urheber": "Rudolf Stricker",
+    "lizenz": "Attribution",
+    "lizenzUrl": "",
+    "art": "ort",
+    "suchbegriff": "Walldorf Baden-Württemberg",
+    "bildunterschrift": "Das Rathaus in Walldorf, dem Unternehmenssitz von SAP.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "Walldorf Rathaus 20100707.jpg",
+     "beschreibung": "Walldorf (Baden) , Rathaus",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Walldorf_Rathaus_20100707.jpg/1280px-Walldorf_Rathaus_20100707.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/6/64/Walldorf_Rathaus_20100707.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Walldorf_Rathaus_20100707.jpg",
+     "urheber": "Rudolf Stricker",
+     "lizenz": "Attribution",
+     "lizenzUrl": "",
+     "art": "ort",
+     "suchbegriff": "Walldorf Baden-Württemberg",
+     "bildunterschrift": "Das Rathaus in Walldorf, dem Unternehmenssitz von SAP.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Walldorf, Deutschland",
+    "lat": 49.303,
+    "lon": 8.643
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
   {
    "id": "ezb-chefin-nachfolge-hernandez-de-cos",
    "rubrik": "Wirtschaft",
@@ -3015,7 +4603,7 @@
      "l": 60.8,
      "s": [
       0.25,
-      8.0,
+      8,
       12.18,
       20.33,
       25.09,
@@ -3524,7 +5112,7 @@
     {
      "k": "Die IG Metall und die Arbeitgeber haben sich nach langen Verhandlungen geeinigt.",
      "d": "419b7b3ffe.mp3",
-     "l": 14.0,
+     "l": 14,
      "s": [
       0.25,
       4.83,

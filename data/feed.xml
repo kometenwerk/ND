@@ -4,7 +4,7 @@
   <title>Nachrichten-Heft · neutral</title>
   <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Fri, 27 Nov 2026 12:05:17 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 21:13:03 GMT</lastBuildDate>
   <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
@@ -15,6 +15,17 @@
   <itunes:category text="News"/>
   <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
   <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
+  <item>
+    <title>Hauptausgabe vom 2026-11-27</title>
+    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Personalentscheidungen an der Spitze der Europäischen Zentralbank · Einigung im Tarifstreit der Metall- und Elektroindustrie · Festnahmen in Deutschland wegen mutmaßlicher Terrorpläne · Berichte über angebliche russische Atomwaffenpläne im Weltraum · Sperre für Nationalspielerin Laura Freigang nach verpassten Dopingtests</description>
+    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Personalentscheidungen an der Spitze der Europäischen Zentralbank · Einigung im Tarifstreit der Metall- und Elektroindustrie · Festnahmen in Deutschland wegen mutmaßlicher Terrorpläne · Berichte über angebliche russische Atomwaffenpläne im Weltraum · Sperre für Nationalspielerin Laura Freigang nach verpassten Dopingtests</itunes:summary>
+    <pubDate>Fri, 27 Nov 2026 12:05:17 GMT</pubDate>
+    <guid isPermaLink="false">hauptausgabe-2026-11-27</guid>
+    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-27.mp3" length="1203644" type="audio/mpeg"/>
+    <itunes:duration>00:03:21</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
+  </item>
   <item>
     <title>Personalentscheidungen an der Spitze der Europäischen Zentralbank</title>
     <description>In dieser Folge besprechen wir den Führungswechsel an der Spitze der Europäischen Zentralbank und den EU-Gipfel in Brüssel. Dabei beleuchten wir die Personalien und die parallel laufenden Haushaltsstreitigkeiten.</description>
@@ -34,17 +45,6 @@
     <guid isPermaLink="false">wissen-wie-chamaeleons-leben-jagen-und-die-farbe-wechseln</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/d3280fafb4.mp3" length="234668" type="audio/mpeg"/>
     <itunes:duration>00:00:39</itunes:duration>
-    <itunes:explicit>false</itunes:explicit>
-    <link>https://nilsscherer3008-design.github.io/ND/data</link>
-  </item>
-  <item>
-    <title>Hauptausgabe vom 2026-11-26</title>
-    <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Berichte über angebliche russische Atomwaffenpläne im Weltraum · Klimakonferenz COP31 ohne gemeinsame Abschlusserklärung beendet</description>
-    <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Berichte über angebliche russische Atomwaffenpläne im Weltraum · Klimakonferenz COP31 ohne gemeinsame Abschlusserklärung beendet</itunes:summary>
-    <pubDate>Thu, 26 Nov 2026 09:27:37 GMT</pubDate>
-    <guid isPermaLink="false">hauptausgabe-2026-11-26</guid>
-    <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-26.mp3" length="570044" type="audio/mpeg"/>
-    <itunes:duration>00:01:35</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
