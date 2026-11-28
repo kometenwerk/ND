@@ -2,136 +2,150 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Nachrichten-Heft · neutral</title>
-  <description>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</description>
+  <description>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</description>
   <language>de-de</language>
-  <lastBuildDate>Sat, 28 Nov 2026 00:17:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 12:54:26 GMT</lastBuildDate>
+  <generator>Nachrichten-Heft</generator>
   <link>https://nilsscherer3008-design.github.io/ND/data</link>
   <atom:link href="https://nilsscherer3008-design.github.io/ND/data/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>Nachrichten-Heft</itunes:author>
-  <itunes:summary>Ein Thema, mehrere Stimmen: Worin sich die Medien einig sind und wo sie auseinandergehen. Alle Sprecher sind Computerstimmen, alle Angaben stammen aus den verlinkten Berichten. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
+  <itunes:summary>Nachrichten, die erst dann hier landen, wenn mehrere unabhängige Medien sie berichten. Zusammengefasst von einer KI, jede Angabe mit Quelle. Dazu erklärende Stücke und lange Dokumentationen. Ein Schulprojekt für Gemeinschaftskunde.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <itunes:category text="News"/>
-  <itunes:image href="https://nilsscherer3008-design.github.io/ND/data/icon-512.png"/>
+  <itunes:image href="https://nilsscherer3008-design.github.io/ND/icon-512.png"/>
+  <image><url>https://nilsscherer3008-design.github.io/ND/icon-512.png</url><title>Nachrichten-Heft · neutral</title><link>https://nilsscherer3008-design.github.io/ND/data</link></image>
   <item>
     <title>Einigung im Tarifstreit der Metall- und Elektroindustrie</title>
     <description>Nach langen Verhandlungen gibt es einen neuen Tarifvertrag in der Metall- und Elektroindustrie. Wir beleuchten die Details der Einigung und die Positionen der Beteiligten.</description>
     <itunes:summary>Nach langen Verhandlungen gibt es einen neuen Tarifvertrag in der Metall- und Elektroindustrie. Wir beleuchten die Details der Einigung und die Positionen der Beteiligten.</itunes:summary>
-    <pubDate>Sat, 28 Nov 2026 00:17:04 +0000</pubDate>
+    <pubDate>Sat, 28 Nov 2026 00:17:04 GMT</pubDate>
     <guid isPermaLink="false">podcast-metall-tarifstreit-einigung</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-metall-tarifstreit-einigung.mp3" length="1995692" type="audio/mpeg"/>
     <itunes:duration>00:04:09</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Hauptausgabe vom 2026-11-27</title>
     <description>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Personalentscheidungen an der Spitze der Europäischen Zentralbank · Einigung im Tarifstreit der Metall- und Elektroindustrie · Festnahmen in Deutschland wegen mutmaßlicher Terrorpläne · Berichte über angebliche russische Atomwaffenpläne im Weltraum · Sperre für Nationalspielerin Laura Freigang nach verpassten Dopingtests</description>
     <itunes:summary>Die wichtigsten Themen des Tages, verglichen aus mehreren Quellen. Personalentscheidungen an der Spitze der Europäischen Zentralbank · Einigung im Tarifstreit der Metall- und Elektroindustrie · Festnahmen in Deutschland wegen mutmaßlicher Terrorpläne · Berichte über angebliche russische Atomwaffenpläne im Weltraum · Sperre für Nationalspielerin Laura Freigang nach verpassten Dopingtests</itunes:summary>
-    <pubDate>Fri, 27 Nov 2026 12:05:17 +0000</pubDate>
+    <pubDate>Fri, 27 Nov 2026 12:05:17 GMT</pubDate>
     <guid isPermaLink="false">hauptausgabe-2026-11-27</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-hauptausgabe-2026-11-27.mp3" length="1203644" type="audio/mpeg"/>
     <itunes:duration>00:03:21</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Personalentscheidungen an der Spitze der Europäischen Zentralbank</title>
     <description>In dieser Folge besprechen wir den Führungswechsel an der Spitze der Europäischen Zentralbank und den EU-Gipfel in Brüssel. Dabei beleuchten wir die Personalien und die parallel laufenden Haushaltsstreitigkeiten.</description>
     <itunes:summary>In dieser Folge besprechen wir den Führungswechsel an der Spitze der Europäischen Zentralbank und den EU-Gipfel in Brüssel. Dabei beleuchten wir die Personalien und die parallel laufenden Haushaltsstreitigkeiten.</itunes:summary>
-    <pubDate>Fri, 27 Nov 2026 00:53:22 +0000</pubDate>
+    <pubDate>Fri, 27 Nov 2026 00:53:22 GMT</pubDate>
     <guid isPermaLink="false">podcast-ezb-chefin-nachfolge-hernandez-de-cos</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-ezb-chefin-nachfolge-hernandez-de-cos.mp3" length="2600684" type="audio/mpeg"/>
     <itunes:duration>00:05:25</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie Chamäleons leben, jagen und die Farbe wechseln</title>
     <description>Chamäleons sind eine eigene Familie von Reptilien mit mehr als zweihundert bekannten Arten. Sie sind vor allem für ihre unabhängig voneinander bewegbaren Augen und ihren schnellen Farbwechsel bekannt.</description>
     <itunes:summary>Chamäleons sind eine eigene Familie von Reptilien mit mehr als zweihundert bekannten Arten. Sie sind vor allem für ihre unabhängig voneinander bewegbaren Augen und ihren schnellen Farbwechsel bekannt.</itunes:summary>
-    <pubDate>Thu, 26 Nov 2026 19:39:26 +0000</pubDate>
+    <pubDate>Thu, 26 Nov 2026 19:39:26 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-chamaeleons-leben-jagen-und-die-farbe-wechseln</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/d3280fafb4.mp3" length="234668" type="audio/mpeg"/>
     <itunes:duration>00:00:39</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Berichte über angebliche russische Atomwaffenpläne im Weltraum</title>
     <description>In dieser Episode beleuchten wir die Berichte über angebliche russische Atomwaffenpläne im Erdorbit und analysieren die Reaktionen der Geheimdienste und der Politik.</description>
     <itunes:summary>In dieser Episode beleuchten wir die Berichte über angebliche russische Atomwaffenpläne im Erdorbit und analysieren die Reaktionen der Geheimdienste und der Politik.</itunes:summary>
-    <pubDate>Wed, 25 Nov 2026 01:07:02 +0000</pubDate>
+    <pubDate>Wed, 25 Nov 2026 01:07:02 GMT</pubDate>
     <guid isPermaLink="false">podcast-russland-atomwaffe-all</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-russland-atomwaffe-all.mp3" length="2486252" type="audio/mpeg"/>
     <itunes:duration>00:05:11</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Verhandlungen bei der COP dreiunddreißig in Antalya</title>
     <description>Wir blicken auf die Verlängerung der UN-Klimakonferenz in der Türkei. Dabei geht es um den neuen Textentwurf zur Abschlusserklärung.</description>
     <itunes:summary>Wir blicken auf die Verlängerung der UN-Klimakonferenz in der Türkei. Dabei geht es um den neuen Textentwurf zur Abschlusserklärung.</itunes:summary>
-    <pubDate>Sun, 22 Nov 2026 22:03:37 +0000</pubDate>
+    <pubDate>Sun, 22 Nov 2026 22:03:37 GMT</pubDate>
     <guid isPermaLink="false">podcast-klimakonferenz-antalya-cop31</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-klimakonferenz-antalya-cop31.mp3" length="2396972" type="audio/mpeg"/>
     <itunes:duration>00:05:00</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Raketenangriffe auf ukrainische Städte und Berichte über Schäden</title>
     <description>In dieser Ausgabe beleuchten wir die jüngsten Raketenangriffe auf ukrainische Städte und die Berichte über Opfer sowie Schäden. Dabei gehen wir auf die unterschiedlichen Quellen und offenen Fragen ein.</description>
     <itunes:summary>In dieser Ausgabe beleuchten wir die jüngsten Raketenangriffe auf ukrainische Städte und die Berichte über Opfer sowie Schäden. Dabei gehen wir auf die unterschiedlichen Quellen und offenen Fragen ein.</itunes:summary>
-    <pubDate>Sat, 21 Nov 2026 21:52:22 +0000</pubDate>
+    <pubDate>Sat, 21 Nov 2026 21:52:22 GMT</pubDate>
     <guid isPermaLink="false">podcast-ukraine-bruenke-angriff</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-ukraine-bruenke-angriff.mp3" length="4121708" type="audio/mpeg"/>
     <itunes:duration>00:08:35</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Börsengang von Anthropic</title>
     <description>Der Börsengang des KI-Unternehmens Anthropic sorgt für Rekorderlöse und Kursverluste. Experten diskutieren über die Rentabilität der Branche.</description>
     <itunes:summary>Der Börsengang des KI-Unternehmens Anthropic sorgt für Rekorderlöse und Kursverluste. Experten diskutieren über die Rentabilität der Branche.</itunes:summary>
-    <pubDate>Fri, 20 Nov 2026 22:50:18 +0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 22:50:18 GMT</pubDate>
     <guid isPermaLink="false">podcast-anthropic-boersengang</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-anthropic-boersengang.mp3" length="2488940" type="audio/mpeg"/>
     <itunes:duration>00:05:11</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie Polarlichter am Nachthimmel entstehen</title>
     <description>Bunte Leuchterscheinungen am Nachthimmel faszinieren Menschen seit Jahrhunderten. Sie entstehen durch geladene Teilchen der Sonne in der Erdatmosphäre.</description>
     <itunes:summary>Bunte Leuchterscheinungen am Nachthimmel faszinieren Menschen seit Jahrhunderten. Sie entstehen durch geladene Teilchen der Sonne in der Erdatmosphäre.</itunes:summary>
-    <pubDate>Fri, 20 Nov 2026 20:16:06 +0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 20:16:06 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-polarlichter-am-nachthimmel-entstehen</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/a8f0611f30.mp3" length="186428" type="audio/mpeg"/>
     <itunes:duration>00:00:31</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Wie entsteht eigentlich ein Vulkanausbruch?</title>
     <description>Ein Vulkan entsteht, wenn geschmolzenes Gestein aus dem Erdinneren nach oben steigt. Bei einer Eruption kommen Magma, Gase und feste Stoffe an die Oberfläche.</description>
     <itunes:summary>Ein Vulkan entsteht, wenn geschmolzenes Gestein aus dem Erdinneren nach oben steigt. Bei einer Eruption kommen Magma, Gase und feste Stoffe an die Oberfläche.</itunes:summary>
-    <pubDate>Fri, 20 Nov 2026 11:42:21 +0000</pubDate>
+    <pubDate>Fri, 20 Nov 2026 11:42:21 GMT</pubDate>
     <guid isPermaLink="false">wissen-wie-entsteht-eigentlich-ein-vulkanausbruch</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/bac8ff535b.mp3" length="198812" type="audio/mpeg"/>
     <itunes:duration>00:00:33</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Internationaler Gerichtshof verurteilt Myanmar wegen Völkermord</title>
     <description>Der Internationale Gerichtshof hat das Vorgehen gegen die Rohingya als Völkermord eingestuft. Wir besprechen das historische Urteil und die Reaktionen.</description>
     <itunes:summary>Der Internationale Gerichtshof hat das Vorgehen gegen die Rohingya als Völkermord eingestuft. Wir besprechen das historische Urteil und die Reaktionen.</itunes:summary>
-    <pubDate>Thu, 19 Nov 2026 23:16:52 +0000</pubDate>
+    <pubDate>Thu, 19 Nov 2026 23:16:52 GMT</pubDate>
     <guid isPermaLink="false">podcast-voelkermord-rohingya</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-voelkermord-rohingya.mp3" length="2362412" type="audio/mpeg"/>
     <itunes:duration>00:04:55</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
   <item>
     <title>Pläne für gemeinsames Abschiebezentrum in Ruanda</title>
     <description>Deutschland und vier weitere EU-Staaten planen ein Abschiebezentrum in Ruanda ab 2027. Wir sprechen über die Hintergründe, die Positionen und die Kritik.</description>
     <itunes:summary>Deutschland und vier weitere EU-Staaten planen ein Abschiebezentrum in Ruanda ab 2027. Wir sprechen über die Hintergründe, die Positionen und die Kritik.</itunes:summary>
-    <pubDate>Wed, 18 Nov 2026 23:23:31 +0000</pubDate>
+    <pubDate>Wed, 18 Nov 2026 23:23:31 GMT</pubDate>
     <guid isPermaLink="false">podcast-abschiebezentrum-ruanda</guid>
     <enclosure url="https://raw.githubusercontent.com/kometenwerk/ND/ton/folge-podcast-abschiebezentrum-ruanda.mp3" length="3407276" type="audio/mpeg"/>
     <itunes:duration>00:07:06</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
+    <link>https://nilsscherer3008-design.github.io/ND/data</link>
   </item>
 </channel>
 </rss>

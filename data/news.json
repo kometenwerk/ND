@@ -1,9 +1,6 @@
 {
- "stand": "2026-11-27T21:13:03.762Z",
+ "stand": "2026-11-28T12:54:26.179Z",
  "gepusht": [
-  "flughafen-leipzig-sicherheitsvorfall",
-  "indien-massenpanik-durga-puja",
-  "marsmond-mission-japan-deutschland",
   "investitionsgipfel-berlin-nvidia",
   "afd-hackerangriff",
   "tesla-spacex-fusion",
@@ -80,7 +77,10 @@
   "metall-tarifstreit-einigung",
   "bundeshaushalt-2027-beschluss",
   "rentenreform-entwurf-schweitzer",
-  "eu-sondergipfel-haushalt-gescheitert"
+  "eu-sondergipfel-haushalt-gescheitert",
+  "explosion-afghanistan-schulen",
+  "bsw-parteitag-afd-streit",
+  "aerzte-ohne-grenzen-tote-gaza"
  ],
  "ntfyTopic": "nd-heft-gk-7x4q9m2p",
  "fehlerTopic": "nd-heft-gk-7x4q9m2p-fehler",
@@ -92,7 +92,10 @@
   "metall-tarifstreit-einigung",
   "bundeshaushalt-2027-beschluss",
   "rentenreform-entwurf-schweitzer",
-  "eu-sondergipfel-haushalt-gescheitert"
+  "eu-sondergipfel-haushalt-gescheitert",
+  "explosion-afghanistan-schulen",
+  "bsw-parteitag-afd-streit",
+  "aerzte-ohne-grenzen-tote-gaza"
  ],
  "wetter": {
   "stand": "2026-11-27T21:13:03.762Z",
@@ -2460,658 +2463,98 @@
  },
  "nachrichten": [
   {
-   "id": "bundeshaushalt-2027-beschluss",
-   "rubrik": "Deutschland",
-   "zeit": "2026-11-27T20:33:42.000Z",
-   "titel": "Bundestag beschließt Bundeshaushalt für das Jahr 2027 mit hoher Neuverschuldung",
-   "vorspann": "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 verabschiedet. Das Finanzvolumen im Kernhaushalt liegt bei rund 556 Milliarden Euro.",
+   "id": "explosion-afghanistan-schulen",
+   "rubrik": "Welt",
+   "zeit": "2026-11-28T12:49:44.000Z",
+   "titel": "Explosion in der Provinz Kunar in Afghanistan",
+   "vorspann": "In der ostafghanischen Provinz Kunar hat sich eine Explosion in der Nähe einer Schule ereignet. Laut Behördenangaben gibt es mehrere getötete und verletzte Schüler.",
    "eil": false,
    "verstaendlich": {
     "stufe": "mittel",
     "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
    },
    "zusammenfassung": [
-    "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro verabschiedet.",
-    "Die Nettokreditaufnahme im Kernhaushalt steigt auf fast 123 Milliarden Euro, während die Gesamtverschuldung inklusive Sondervermögen über 210 Milliarden Euro beträgt.",
-    "Zu den Schwerpunkten des Etats zählen der Arbeits- und Sozialetat sowie Erhöhungen bei den Verteidigungsausgaben auf fast 140 Milliarden Euro.",
-    "Kritik an dem Haushalt kam sowohl von der Opposition als auch von Wirtschaftsexperten wegen der hohen Verschuldung und fehlender langfristiger Konzepte."
+    "In der ostafghanischen Provinz Kunar hat sich eine Explosion in der Nähe einer Schule ereignet.",
+    "Nach Behördenangaben wurden mindestens sieben Schüler getötet und fast 100 verletzt, während ein einzelner Sprecher höhere Zahlen nannte.",
+    "Als Ursache wird ein Sprengstofflager eines Bergbauunternehmens genannt, in dem es laut Innenministerium zu Fahrlässigkeit kam.",
+    "Es ist der dritte tödliche Vorfall an einer Bildungseinrichtung in Afghanistan innerhalb kurzer Zeit."
    ],
    "einig": [
     [
-     "Der Bundestag hat den Haushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro beschlossen.",
+     "Eine Explosion ereignete sich nahe einer Schule in der Provinz Kunar.",
      [
       "Tagesschau/ARD",
-      "ZDFheute",
-      "Deutschlandfunk",
-      "FAZ"
-     ]
-    ],
-    [
-     "Die Nettokreditaufnahme im Kernhaushalt beläuft sich auf fast 123 Milliarden Euro.",
-     [
-      "ZDFheute",
-      "Deutschlandfunk",
-      "FAZ"
-     ]
-    ],
-    [
-     "In der namentlichen Abstimmung votierten 317 Abgeordnete für und 260 Abgeordnete gegen den Entwurf.",
-     [
-      "ZDFheute",
-      "FAZ"
-     ]
-    ]
-   ],
-   "unklar": [
-    "Ob die geplante Reform der Einkommensteuer trotz bisheriger Streitigkeiten zwischen Union und SPD noch beschlossen wird, ist laut den Berichten unklar."
-   ],
-   "positionen": [
-    [
-     "Finanzminister Lars Klingbeil (SPD)",
-     "Die hohe Neuverschuldung ist notwendig für Verteidigung und Investitionen wie Bahn und Kitas, um eigenständiges Wachstum zu generieren.",
-     "ZDFheute, FAZ"
-    ],
-    [
-     "Linke-Chefin Ines Schwerdtner (Opposition)",
-     "Die Regierung ignoriert die alltäglichen finanziellen Notlagen von Millionen Menschen und konzentriert sich stattdessen auf den Ernstfall und Krieg.",
-     "ZDFheute, FAZ"
-    ],
-    [
-     "Wirtschaftsweiser Gabriel Felbermayr (Experte)",
-     "Der Haushalt stopft nur kurzfristig Lücken ohne langfristige Perspektive, was das Vertrauen in Deutschland als Ankerland der Eurozone gefährdet.",
-     "ZDFheute"
-    ]
-   ],
-   "fehlend": "Stimmen aus den Bundesländern oder von Verbänden außerhalb der im Text genannten Personen und Parteien.",
-   "medien": [
-    {
-     "name": "Tagesschau/ARD",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "27.11.26, 20:24",
-     "fokus": "Kurzüberblick zum Beschluss",
-     "text": "Die Nachrichtenseite meldet die Verabschiedung des Haushalts 2027 mit der zweithöchsten Neuverschuldung in knappen Zügen.",
-     "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1691254.html",
-     "video": true,
-     "lesbar": null,
-     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.73
-    },
-    {
-     "name": "ZDFheute",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "27.11.26, 17:23",
-     "fokus": "Details zu Begleitgesetz und Reaktionen",
-     "text": "Der Bericht schildert umfassend die Details des Haushaltsbegleitgesetzes, die Stromsteuersenkung und zitiert sowohl den Finanzminister als auch die Opposition und Wirtschaftsexperten.",
-     "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 4,
-      "woerter": 725,
-      "satzlaenge": 15,
-      "langeWoerter": 34
-     },
-     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": 3.66
-    },
-    {
-     "name": "Deutschlandfunk",
-     "typ": "öffentlich-rechtlich",
-     "art": "öffentlich-rechtlich",
-     "stamm": true,
-     "datum": "27.11.26, 21:33",
-     "fokus": "Kernzahlen des Haushalts",
-     "text": "Der Sender konzentriert sich auf die präzise Wiedergabe der Finanzdaten zum Kernhaushalt und zur geplanten Kreditaufnahme für das kommende Jahr.",
-     "url": "https://www.deutschlandfunk.de/bundestag-verabschiedet-haushalt-fuer-das-kommende-jahr-100.html",
-     "video": false,
-     "lesbar": null,
-     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
-     "finanzierung": "Rundfunkbeitrag",
-     "publikumWert": null
-    },
-    {
-     "name": "FAZ",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "27.11.26, 14:52",
-     "fokus": "Hintergrund des Koalitionsstreits",
-     "text": "Die Tageszeitung beleuchtet ausführlich das Ringen innerhalb der schwarz-roten Koalition, den Einsatz von Kanzler Merz für die Stromsteuer sowie geplante Entlastungen.",
-     "url": "https://www.faz.net/aktuell/wirtschaft/556-milliarden-euro-bundestag-beschliesst-rekordhaushalt-201722313.html",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 9,
-      "minuten": 2,
-      "woerter": 479,
-      "satzlaenge": 15,
-      "langeWoerter": 34
-     },
-     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    }
-   ],
-   "unterschiede": [
-    [
-     "Ausführlichkeit",
-     "Während Tagesschau/ARD und Deutschlandfunk den Beschluss eher kurz vermelden, liefern ZDFheute und FAZ sehr ausführliche Hintergründe zum Koalitionsstreit, zum Begleitgesetz und zu den Reaktionen."
-    ]
-   ],
-   "wfragen": {
-    "wer": "Der Deutsche Bundestag und Finanzminister Lars Klingbeil",
-    "was": "Beschluss des Bundeshaushalts für 2027 und eines Haushaltsbegleitgesetzes",
-    "wann": "2026-11-27",
-    "wo": "Berlin, Deutschland",
-    "wie": "Mit 317 Ja-Stimmen gegen 260 Nein-Stimmen ohne Enthaltungen",
-    "warum": "Zur Finanzierung staatlicher Aufgaben wie Verteidigung und Investitionen laut Bundesregierung",
-    "quellenlage": "Öffentlich-rechtliche Medien und Tageszeitungen"
-   },
-   "artikel": [
-    {
-     "ueberschrift": "Das ist passiert",
-     "absaetze": [
-      "Der Deutsche Bundestag hat den Bundeshaushalt für das kommende Jahr 2027 genehmigt. Nach Angaben der Berichte stimmten in einer namentlichen Abstimmung 317 Abgeordnete für den Etat, während 260 Abgeordnete dagegen votierten. Es gab demnach keine Enthaltungen bei der Abstimmung im Parlament. Damit ist der Haushaltsentwurf nach monatelangem Ringen und Beratungen offiziell verabschiedet worden.",
-      "Der Bund soll im kommenden Jahr im sogenannten Kernhaushalt rund 556 Milliarden Euro ausgeben dürfen. Laut den vorliegenden Berichten entspricht dies einer Steigerung von rund sechs Prozent im Vergleich zum laufenden Jahr. Insgesamt stehen dem Bund damit laut den Angaben so viele finanzielle Mittel zur Verfügung wie noch nie zuvor in einem einzigen Jahr.",
-      "Zur Deckung der Ausgaben im Kernhaushalt ist eine Nettokreditaufnahme von fast 123 Milliarden Euro geplant. Im laufenden Jahr lag dieser Wert laut den Berichten noch bei 98 Milliarden Euro. Einschließlich der beiden Sondervermögen für Infrastruktur und Bundeswehr summiert sich die Neuverschuldung des Bundes demnach auf mehr als 210 Milliarden Euro."
-     ]
-    },
-    {
-     "ueberschrift": "Die Einzelheiten",
-     "absaetze": [
-      "Mehr als ein Drittel der gesamten Ausgaben fließt laut den Berichten in den Arbeits- und Sozialetat des Bundes. Aus diesem Bereich leistet die Regierung unter anderem Zuschüsse zur gesetzlichen Rentenversicherung. Ein weiterer Schwerpunkt des verabschiedeten Etats ist der Bereich der Verteidigung. Die Ausgaben in diesem Sektor sollen auf fast 140 Milliarden Euro steigen und damit einen Höchststand seit dem Ende des Kalten Krieges erreichen.",
-      "Zusätzlich ist in dem Finanzpaket eine Unterstützung für die von Russland angegriffene Ukraine in Höhe von zwölf Milliarden Euro eingeplant. Ursprünglich von der Regierung geplante Kürzungen beim Wohngeld sowie bei weiteren Sozialleistungen wurden von den Koalitionsfraktionen im Laufe der Verhandlungen wieder gestrichen. Die Parlamentarier nahmen diese Kürzungspläne demnach vollständig zurück.",
-      "Ebenfalls vom Bundestag beschlossen wurde ein Haushaltsbegleitgesetz. Dieses enthält laut den Berichten die Absenkung der Stromsteuer ab Anfang 2027 auf das in der Europäischen Union zulässige Minimum. Zudem umfasst das Gesetz die Einführung einer Steuer auf zuckerhaltige Getränke ab dem Jahr 2028 sowie eine Änderung bei den Zuschüssen zur Rentenversicherung."
-     ]
-    },
-    {
-     "ueberschrift": "Hintergrund",
-     "absaetze": [
-      "Zu Beginn der Haushaltsaufstellung stand Finanzminister Lars Klingbeil vor einer finanziellen Lücke von rund 34 Milliarden Euro in seiner Planung. Um diese Lücke zu schließen, vereinbarten die Spitzen der Koalition aus SPD und Union im Rahmen des Haushaltsbegleitgesetzes verschiedene Maßnahmen. Die Aufstellung des Etats gestaltete sich nach Angaben aller Berichte schwierig und war von langwierigen Auseinandersetzungen innerhalb der Koalition geprägt.",
-      "Ein zentraler Streitpunkt im Vorfeld des Beschlusses war die Senkung der Stromsteuer für alle Verbraucher und Unternehmen. Diese Maßnahme, die im Koalitionsvertrag grundsätzlich für alle angekündigt worden war, wurde im Gesetzgebungsverfahren zunächst nur für das produzierende Gewerbe sowie für die Land- und Forstwirtschaft umgesetzt. Bundeskanzler Friedrich Merz setzte die Ausweitung auf alle Verbraucher in einer späten Phase der Beratungen durch.",
-      "Die Kosten für die ausgeweitete Stromsteuersenkung belaufen sich auf fünf Milliarden Euro und sind im aktuellen Haushalt zunächst nur für das Jahr 2027 finanziert. Bundeskanzler Friedrich Merz räumte laut den Berichten ein, dass der Prozess zur Aufstellung dieses Haushalts keinen Schönheitspreis verdient habe. Auch Finanzminister Klingbeil ließ durchblicken, dass es bei den Beratungen zu Frustrationen gekommen war."
-     ]
-    },
-    {
-     "ueberschrift": "Zum Verständnis",
-     "absaetze": [
-      "Der Bundeshaushalt ist der von der Bundesregierung aufgestellte und vom Bundestag beschlossene Finanzplan für ein Haushaltsjahr. Er enthält alle Einnahmen und Ausgaben des Bundes zur Erfüllung seiner staatlichen Aufgaben. Der sogenannte Kernhaushalt umfasst dabei den regulären Etat ohne bestimmte Sondervermögen."
-     ]
-    },
-    {
-     "ueberschrift": "Reaktionen",
-     "absaetze": [
-      "Finanzminister Lars Klingbeil verteidigte die hohe Neuverschuldung in den Berichten. Er erklärte, das Geld werde vor allem für Verteidigung sowie für Investitionen in die Bahn und in Kindertagesstätten eingesetzt. Es müsse nun ein Wachstum entstehen, das sich selbst trage, weshalb das Jahr 2027 zum Jahr der privaten Investitionen werden müsse. Zugleich wies Klingbeil darauf hin, dass der Haushalt für das Jahr 2028 noch herausfordernder werden und den Menschen einiges abverlangen werde.",
-      "Von der politischen Opposition kam scharfe Kritik an dem Beschluss. Die Linke-Chefin Ines Schwerdtner warf der Regierung vor, ständig von Ernstfall und Krieg zu reden. Für Millionen Menschen in Deutschland sei der Ernstfall jedoch jeden Monat gegeben, wenn das Geld knapp werde, was die Regierung ignoriere.",
-      "Auch unter Wirtschaftsexperten stieß der Rekordhaushalt auf Kritik. Der Ökonom Gabriel Felbermayr kritisierte laut den Berichten das kurzfristige Stopfen von Haushaltslücken für das Jahr 2027. Es fehle an einer langfristigen Perspektive, und es bestehe die Gefahr, Glaubwürdigkeit und das Vertrauen in Deutschland als Ankerland der Eurozone zu verlieren."
-     ]
-    },
-    {
-     "ueberschrift": "Wie geht es weiter?",
-     "absaetze": [
-      "Für die kommenden Jahre kündigten Vertreter der Regierungsfraktionen bereits weiteren Handlungsbedarf an. Finanzminister Klingbeil betonte, dass Lehren aus dem diesjährigen Verfahren gezogen werden müssten und der Haushalt 2028 noch schwieriger werde. Die SPD-Fraktion schlug in diesem Zusammenhang bereits einen Abbau von Subventionen im Umfang von zehn Milliarden Euro vor.",
-      "Breite Entlastungen für Verbraucher sind zudem durch eine Reform der Einkommensteuer geplant, die ein höheres Kindergeld und einen erhöhten Grundfreibetrag vorsieht. Diese Reform ist wegen anhaltender Streitigkeiten zwischen der Union und der SPD jedoch noch nicht beschlossen worden. Finanzminister Klingbeil appellierte an die Koalition, dieses Vorhaben rasch auf den Weg zu bringen."
-     ]
-    }
-   ],
-   "zeitleiste": [
-    [
-     "2026-11-27",
-     "Der Bundestag beschließt den Bundeshaushalt für das Jahr 2027 sowie das Haushaltsbegleitgesetz in namentlicher Abstimmung."
-    ]
-   ],
-   "bilder": [
-    {
-     "art": "person",
-     "suchbegriff": "Lars Klingbeil politician",
-     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil verantwortete die Aufstellung des Bundeshaushalts für das Jahr 2027."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Friedrich Merz politician",
-     "bildunterschrift": "Bundeskanzler Friedrich Merz setzte in der Endphase der Beratungen Änderungen beim Haushaltsbegleitgesetz durch."
-    },
-    {
-     "art": "institution",
-     "suchbegriff": "Reichstag building Berlin",
-     "bildunterschrift": "Im Berliner Reichstagsgebäude tagt der Deutsche Bundestag, der den Haushalt beschlossen hat."
-    },
-    {
-     "art": "symbol",
-     "suchbegriff": "Euro coins and banknotes",
-     "bildunterschrift": "Der Bundeshaushalt regelt die staatlichen Einnahmen und Ausgaben in Euro."
-    }
-   ],
-   "ort": {
-    "name": "Berlin, Deutschland"
-   },
-   "geprueft": true,
-   "korrekturen": [
-    "Das Wort 'Wirtschaftsweisen' bei Gabriel Felbermayr wurde zu 'Ökonom' korrigiert, da der Name im Singular steht."
-   ],
-   "wortwarnung": [],
-   "lernen": {
-    "begriffe": [
-     [
-      "Kernhaushalt",
-      "Der Kernhaushalt ist der reguläre Haushalt des Staates ohne bestimmte Sondervermögen."
-     ]
-    ],
-    "fragen": [
-     "Welche Argumente nennen Befürworter und Gegner der hohen Neuverschuldung im Haushalt 2027?",
-     "Welche Rolle spielt der Streit zwischen den Koalitionspartnern bei der Aufstellung des Bundeshaushalts?"
-    ],
-    "quiz": [
-     {
-      "frage": "Wie hoch sind die geplanten Ausgaben im Kernhaushalt für das Jahr 2027?",
-      "optionen": [
-       "rund 556 Milliarden Euro",
-       "rund 210 Milliarden Euro",
-       "rund 123 Milliarden Euro"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut den Berichten belaufen sich die geplanten Ausgaben im Kernhaushalt auf rund 556 Milliarden Euro."
-     },
-     {
-      "frage": "Wie viele Abgeordnete stimmten bei der namentlichen Abstimmung für den Haushaltsentwurf?",
-      "optionen": [
-       "260 Abgeordnete",
-       "317 Abgeordnete",
-       "556 Abgeordnete"
-      ],
-      "richtig": 1,
-      "erklaerung": "Für den Entwurf stimmten 317 Abgeordnete, während 260 dagegen votierten."
-     },
-     {
-      "frage": "Welcher Bereich erhält nach dem Arbeits- und Sozialetat einen weiteren großen Schwerpunkt im Haushalt?",
-      "optionen": [
-       "Die Verteidigung",
-       "Die Landwirtschaft",
-       "Die Kultur"
-      ],
-      "richtig": 0,
-      "erklaerung": "Ein weiterer Schwerpunkt neben dem Sozialetat ist die Verteidigung, deren Ausgaben auf fast 140 Milliarden Euro steigen sollen."
-     }
-    ]
-   },
-   "einfach": {
-    "vorspann": "Der Deutsche Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen.",
-    "absaetze": [
-     "Der Bund darf im nächsten Jahr rund 556 Milliarden Euro ausgeben. Das ist so viel Geld wie noch nie zuvor. Für die Ausgaben nimmt der Staat neue Kredite in Höhe von fast 123 Milliarden Euro auf. Zusammen mit Sondervermögen liegt die Neuverschuldung bei über 210 Milliarden Euro. Ein großer Teil des Geldes fließt in den Sozialbereich und in die Verteidigung. Finanzminister Lars Klingbeil sagt, das Geld sei wichtig für Investitionen und Sicherheit. Politiker der Opposition und Wirtschaftsexperten kritisieren den Haushalt jedoch wegen der hohen Schulden."
-    ]
-   },
-   "video": {
-    "kurz": [
-     "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 beschlossen.",
-     "Der Bund plant Ausgaben von rund 556 Milliarden Euro.",
-     "Dafür nimmt der Staat neue Kredite in Höhe von fast 123 Milliarden Euro auf.",
-     "Kritik an den hohen Schulden kam von der Opposition und von Wirtschaftsexperten."
-    ],
-    "lang": [
-     "Der Deutsche Bundestag hat den Haushalt für das Jahr 2027 verabschiedet.",
-     "Das Parlament stimmte in Berlin mit dreihundertsiebzehn zu zweihundertsechzig Stimmen für den Entwurf.",
-     "Der Bund darf im kommenden Jahr rund 556 Milliarden Euro ausgeben.",
-     "Für die Finanzierung ist eine Nettokreditaufnahme im Kernhaushalt von fast 123 Milliarden Euro geplant.",
-     "Ein Schwerpunkt des Etats sind die Verteidigungsausgaben, die auf fast 140 Milliarden Euro steigen sollen.",
-     "Mehr als ein Drittel des Geldes fließt in den Arbeits- und Sozialetat.",
-     "Finanzminister Lars Klingbeil erklärte nach Angaben der Berichte, die hohen Schulden seien für Investitionen und Verteidigung notwendig.",
-     "Die Opposition und Wirtschaftsexperten kritisierten den Haushalt dagegen wegen der hohen Verschuldung und fehlender langfristiger Pläne.",
-     "Der Haushaltsentwurf wurde von der Regierung nach langem Streit innerhalb der Koalition auf den Weg gebracht.",
-     "Für das folgende Jahr kündigten Politiker bereits weitere finanzielle Herausforderungen an."
-    ],
-    "einfach": [
-     "Der Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen.",
-     "Der Staat gibt im nächsten Jahr rund 556 Milliarden Euro aus.",
-     "Dafür macht der Staat neue Schulden.",
-     "Finanzminister Lars Klingbeil findet die Schulden wichtig für Investitionen.",
-     "Kritiker sagen dagegen, dass der Staat zu viele Schulden macht."
-    ]
-   },
-   "kurz": [
-    "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro verabschiedet.",
-    "Die Nettokreditaufnahme im Kernhaushalt steigt auf fast 123 Milliarden Euro an.",
-    "Finanzminister Klingbeil verteidigte die hohen Kredite für Verteidigung und Investitionen.",
-    "Kritik kam von der Opposition und von Wirtschaftsexperten wegen hoher Schulden und fehlender Langzeitperspektiven."
-   ],
-   "fakten": [
-    [
-     "Gesamtausgaben Kernhaushalt",
-     "556 Milliarden Euro"
-    ],
-    [
-     "Nettokreditaufnahme Kernhaushalt",
-     "123 Milliarden Euro"
-    ],
-    [
-     "Gesamte Neuverschuldung inklusive Sondervermögen",
-     "über 210 Milliarden Euro"
-    ],
-    [
-     "Ja-Stimmen im Bundestag",
-     "317"
-    ],
-    [
-     "Nein-Stimmen im Bundestag",
-     "260"
-    ]
-   ],
-   "dossier": {
-    "slug": "bundeshaushalt-2027",
-    "titel": "Bundeshaushalt 2027"
-   },
-   "bildInfo": {
-    "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
-    "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
-    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
-    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
-    "urheber": "Steffen Prößdorf",
-    "lizenz": "CC BY-SA 4.0",
-    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "artikel": "Friedrich Merz",
-    "sprache": "en",
-    "art": "person",
-    "suchbegriff": "Friedrich Merz politician",
-    "bildunterschrift": "Der CDU-Vorsitzende Friedrich Merz, hier bei einer Veranstaltung in Erfurt.",
-    "hinweis": "Archivfoto"
-   },
-   "bildInfos": [
-    {
-     "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
-     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
-     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
-     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
-     "urheber": "Steffen Prößdorf",
-     "lizenz": "CC BY-SA 4.0",
-     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-     "artikel": "Friedrich Merz",
-     "sprache": "en",
-     "art": "person",
-     "suchbegriff": "Friedrich Merz politician",
-     "bildunterschrift": "Der CDU-Vorsitzende Friedrich Merz, hier bei einer Veranstaltung in Erfurt.",
-     "hinweis": "Archivfoto"
-    }
-   ],
-   "ortInfo": {
-    "name": "Berlin, Deutschland",
-    "lat": 52.517,
-    "lon": 13.395
-   },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
-    {
-     "k": "Der Deutsche Bundestag hat den Haushalt für das Jahr 2027 verabschiedet. Das Par",
-     "d": "a98540e80a.mp3",
-     "l": 62.34,
-     "s": [
-      0.25,
-      5.79,
-      11.55,
-      17.29,
-      25.04,
-      32.05,
-      36.19,
-      43.82,
-      51.1,
-      56.92
-     ]
-    },
-    {
-     "k": "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 beschlossen. Der Bund pla",
-     "d": "5dd558149e.mp3",
-     "l": 21.54,
-     "s": [
-      0.25,
-      5.53,
-      10.49,
-      16.41
-     ]
-    },
-    {
-     "k": "Der Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen. Der St",
-     "d": "daa27b977a.mp3",
-     "l": 23.13,
-     "s": [
-      0.25,
-      6.4,
-      12.15,
-      14.59,
-      19.4
-     ]
-    },
-    {
-     "k": "Ob die geplante Reform der Einkommensteuer trotz bisheriger Streitigkeiten zwisc",
-     "d": "fbf58facdd.mp3",
-     "l": 9.19,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Kernhaushalt? Der Kernhaushalt ist der reguläre Haushalt",
-     "d": "7abe5f698d.mp3",
-     "l": 8.52,
-     "s": [
-      0.25,
-      2.99
-     ]
-    },
-    {
-     "k": "Der Deutsche Bundestag hat den Bundeshaushalt für das kommende Jahr 2027 genehmi",
-     "d": "de5804a140.mp3",
-     "l": 54.6,
-     "s": [
-      0.25,
-      6.49,
-      15.66,
-      19.5,
-      25.05,
-      32.66,
-      39.02,
-      46.62
-     ]
-    },
-    {
-     "k": "Mehr als ein Drittel der gesamten Ausgaben fließt laut den Berichten in den Arbe",
-     "d": "10c53637a6.mp3",
-     "l": 52.14,
-     "s": [
-      0.25,
-      6.42,
-      11.83,
-      16.79,
-      25.62,
-      33.38,
-      43.1,
-      47.73
-     ]
-    },
-    {
-     "k": "Zu Beginn der Haushaltsaufstellung stand Finanzminister Lars Klingbeil vor einer",
-     "d": "301c4d330c.mp3",
-     "l": 70.41,
-     "s": [
-      0.25,
-      8.8,
-      18.0,
-      26.51,
-      33.43,
-      45.06,
-      51.76,
-      62.03
-     ]
-    },
-    {
-     "k": "Der Bundeshaushalt ist der von der Bundesregierung aufgestellte und vom Bundesta",
-     "d": "7781f315fa.mp3",
-     "l": 18.08,
-     "s": [
-      0.25,
-      7.32,
-      12.4
-     ]
-    },
-    {
-     "k": "Finanzminister Lars Klingbeil verteidigte die hohe Neuverschuldung in den Berich",
-     "d": "9c3673b8ec.mp3",
-     "l": 51.94,
-     "s": [
-      0.25,
-      5.15,
-      12.89,
-      21.34,
-      30.1,
-      34.04,
-      39.7,
-      47.51
-     ]
-    },
-    {
-     "k": "Für die kommenden Jahre kündigten Vertreter der Regierungsfraktionen bereits wei",
-     "d": "72af8dff87.mp3",
-     "l": 44.92,
-     "s": [
-      0.25,
-      6.57,
-      15.74,
-      23.5,
-      32.57,
-      39.02
-     ]
-    }
-   ]
-  },
-  {
-   "id": "rentenreform-entwurf-schweitzer",
-   "rubrik": "Deutschland",
-   "zeit": "2026-11-27T20:33:42.000Z",
-   "titel": "Bundesarbeitsminister Schweitzer legt Gesetzentwurf zur Rentenreform vor",
-   "vorspann": "Bundesarbeitsminister Alexander Schweitzer (SPD) hat einen Entwurf zur Reform der gesetzlichen Rentenversicherung vorgelegt. Die Pläne sehen den Erhalt der abschlagsfreien Rente nach 45 Beitragsjahren unter verschärften Bedingungen sowie höhere Abschläge bei vorzeitigem Renteneintritt vor.",
-   "eil": false,
-   "verstaendlich": {
-    "stufe": "schwer",
-    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
-   },
-   "zusammenfassung": [
-    "Bundesarbeitsminister Alexander Schweitzer (SPD) hat einen Entwurf zur Reform der Rentenversicherung vorgelegt, der der Süddeutschen Zeitung und dem Spiegel vorliegt.",
-    "Die abschlagsfreie Frührente nach 45 Versicherungsjahren soll im Grundsatz erhalten bleiben, jedoch werden Zeiten von Arbeitslosengeld, Krankengeld und Minijobs künftig nicht mehr angerechnet.",
-    "Für Frührentner mit mindestens 35 Beitragsjahren sollen die monatlichen Abschläge pro Vorzugsjahr von bisher 3,6 auf 4,8 Prozent angehoben werden.",
-    "Während die SPD von einem Kompromiss spricht, betonen Vertreter der Union fehlende Absprachen, und die Gewerkschaften fordern Nachbesserungen bei den Abschlägen."
-   ],
-   "einig": [
-    [
-     "Arbeitsminister Schweitzer will die abschlagsfreie Rente nach 45 Beitragsjahren im Grundsatz erhalten, aber die Kriterien dafür verschärfen.",
-     [
-      "Tagesschau/ARD",
-      "Deutschlandfunk",
       "Spiegel",
-      "Süddeutsche Zeitung"
+      "Welt"
      ]
     ],
     [
-     "Zeiten von Arbeitslosengeld und Krankengeld sollen künftig nicht mehr auf die 45 Beitragsjahre angerechnet werden.",
+     "Mindestens sieben Schüler wurden getötet und knapp 100 verletzt.",
      [
       "Tagesschau/ARD",
-      "Deutschlandfunk",
-      "Spiegel"
+      "Spiegel",
+      "Welt"
      ]
     ],
     [
-     "Minijobs sollen künftig nicht mehr für die 45 Beitragsjahre angerechnet werden.",
+     "Die Ursache war ein Sprengstofflager eines Bergbauunternehmens in der Nähe.",
      [
       "Tagesschau/ARD",
-      "Deutschlandfunk"
+      "Spiegel",
+      "BBC",
+      "Welt"
      ]
     ],
     [
-     "Zeiten des Bezugs von Übergangsgeld zählen künftig nicht mehr für die 45 Versicherungsjahre.",
+     "Die Behörden gehen von Fahrlässigkeit aus.",
      [
-      "Deutschlandfunk",
-      "Spiegel"
+      "Tagesschau/ARD",
+      "Spiegel",
+      "BBC",
+      "Welt"
      ]
     ]
    ],
    "unklar": [
-    "Es ist unklar, ob und wann die Bundesregierung den Gesetzentwurf im Kabinett beschließt, da Kanzleramtschefin Warken und Abgeordnete der Union betonen, dass noch keine Einigung in der Koalition vorliegt."
+    "Die genaue Opferzahl ist unklar; das Innenministerium nennt mindestens sieben Tote und 99 Verletzte, während ein Sprecher gegenüber der BBC mindestens zehn Tote und mehr als 100 Verletzte angibt."
    ],
    "positionen": [
     [
-     "Alexander Schweitzer (Bundesarbeitsminister, SPD)",
-     "Hält an der abschlagsfreien Rente nach 45 Jahren fest, will jedoch die Kriterien einschränken und Abschläge anheben; laut Tagesschau zeigt er sich optimistisch für eine Einigung.",
-     "Tagesschau/ARD"
+     "Innenministerium der Taliban-Regierung (Sprecher Abdul Mateen Qani)",
+     "Die Explosion wurde durch Fahrlässigkeit in einem Sprengstofflager von Bergbauunternehmen verursacht.",
+     "Tagesschau/ARD,BBC,Welt"
     ],
     [
-     "Annika Klose (Sozialpolitische Sprecherin der SPD-Fraktion)",
-     "Spricht laut Tagesschau von einem guten Ausgleich der Interessen und hofft auf einen baldigen Kabinettsbeschluss.",
-     "Tagesschau/ARD"
+     "Kultur- und Informationsdirektor Sami ul Haq Bayan",
+     "Der Vorfall ereignete sich in einem Haus in der Nähe der Schule, als Sprengstoff für den Bergbau vorbereitet wurde.",
+     "BBC,Welt"
     ],
     [
-     "Yasmin Fahimi (DGB-Vorsitzende)",
-     "Begrüßt laut Tagesschau den Erhalt der Rente nach 45 Jahren und die Versicherungspflicht bei Minijobs, kritisiert aber die höheren Abschläge.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Frank Werneke (ver.di-Vorsitzender)",
-     "Bewertet laut Tagesschau den Erhalt der Rente nach 45 Jahren positiv, kritisiert jedoch die höheren Abschläge.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Alexander Hoffmann (CSU-Landesgruppenchef)",
-     "Nennt den Entwurf laut Tagesschau einen Schritt nach vorne, fordert aber einen Vorschlag zur Gegenfinanzierung.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Christian von Stetten (CDU-Wirtschaftspolitiker)",
-     "Kritisiert laut Tagesschau, dass Lösungen in die Zukunft verschoben werden und keine Einsparungen erfolgen.",
-     "Tagesschau/ARD"
-    ],
-    [
-     "Marc Biadacz (Sprecher der Unionsfraktion für Arbeit und Soziales)",
-     "Äußert sich laut Spiegel sehr überrascht über die Veröffentlichung und hält den Entwurf für noch nicht fertig.",
-     "Spiegel"
-    ],
-    [
-     "Nina Warken (Kanzleramtschefin, CDU)",
-     "Erklärt laut Spiegel, dass es noch keine Einigung in der Koalition gibt und der Entwurf in der Frühkoordinierung ist.",
-     "Spiegel"
-    ],
-    [
-     "Heidi Reichinnek (Fraktionsvorsitzende Die Linke)",
-     "Kritisiert den Vorschlag laut Tagesschau als Kürzungsprogramm zu Lasten besonders von Ostdeutschen.",
+     "Polizeisprecher Farid Dehkan",
+     "Mehrere Schüler wurden bei der Detonation in der Gegend Andar Ser verletzt oder getötet.",
      "Tagesschau/ARD"
     ]
    ],
-   "fehlend": "Es fehlen Stellungnahmen von Arbeitgeberverbänden, Vertretern der Rentenversicherungsträger sowie von Vertretern der anderen Oppositionsparteien.",
+   "fehlend": "Stimmen von Vertretern der betroffenen Schulen, Eltern oder internationalen Hilfsorganisationen kommen in den Berichten nicht vor.",
    "medien": [
     {
      "name": "Tagesschau/ARD",
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "27.11.26, 20:45",
-     "fokus": "Reaktionen aus Politik und Gewerkschaften",
-     "text": "Die Tagesschau berichtet detailliert über die Reaktionen von Gewerkschaften und Parteien.",
-     "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+     "datum": "28.11.26, 12:07",
+     "fokus": "Hintergründe und frühere Angriffe",
+     "text": "Der Sender nennt Details zu früheren Vorfällen in Afghanistan und verweist auf die Rolle von Blindgängern sowie früheren Anschlägen.",
+     "url": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 10,
-      "minuten": 3,
-      "woerter": 599,
-      "satzlaenge": 15,
-      "langeWoerter": 36
+      "minuten": 1,
+      "woerter": 235,
+      "satzlaenge": 13,
+      "langeWoerter": 33
      },
      "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
      "finanzierung": "Rundfunkbeitrag",
@@ -3122,10 +2565,10 @@
      "typ": "öffentlich-rechtlich",
      "art": "öffentlich-rechtlich",
      "stamm": true,
-     "datum": "27.11.26, 21:33",
-     "fokus": "Verschärfte Voraussetzungen für Frührente",
-     "text": "Der Deutschlandfunk fasst die Kernpunkte des Entwurfs zusammen.",
-     "url": "https://www.deutschlandfunk.de/entwurf-aus-arbeitsministerium-abschlagsfreie-rente-nach-45-jahren-soll-erhalten-bleiben-100.html",
+     "datum": "28.11.26, 13:45",
+     "fokus": "Kurzmeldung zum Ereignis",
+     "text": "Der Bericht beschränkt sich auf die Grundinformationen zu den Opfern und der Explosion in Afghanistan.",
+     "url": "https://www.deutschlandfunk.de/mindestens-sieben-tote-bei-sprengstoff-explosion-ursache-unbekannt-102.html",
      "video": false,
      "lesbar": null,
      "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
@@ -3137,114 +2580,479 @@
      "typ": "Nachrichtenmagazin",
      "art": "privates Medium",
      "stamm": true,
-     "datum": "27.11.26, 16:18",
-     "fokus": "Umfang und koalitionsinterner Konflikt",
-     "text": "Der Spiegel berichtet über den Umfang des Entwurfs und den Streit in der Koalition.",
-     "url": "https://www.spiegel.de/politik/deutschland/rente-arbeitsminister-alexander-schweitzer-legt-gesetzentwurf-zur-rentenreform-vor-a-78332671-b923-4dc6-addc-399722e6d309#ref=rss",
-     "video": false,
-     "lesbar": {
-      "stufe": "mittel",
-      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
-      "klasse": 11,
-      "minuten": 1,
-      "woerter": 254,
-      "satzlaenge": 15,
-      "langeWoerter": 38
-     },
-     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
-     "finanzierung": "Abos und Werbung",
-     "publikumWert": null
-    },
-    {
-     "name": "Süddeutsche Zeitung",
-     "typ": "Tageszeitung",
-     "art": "privates Medium",
-     "stamm": true,
-     "datum": "27.11.26, 15:00",
-     "fokus": "Gesamtreform und politische Bedeutung",
-     "text": "Die Süddeutsche Zeitung ordnet den Entwurf als Reform der Alterssicherung ein.",
-     "url": "https://www.sueddeutsche.de/politik/rente-rentenreform-arbeitsminister-bundesregierung-li.3586466",
+     "datum": "28.11.26, 11:54",
+     "fokus": "Opferzahlen und Schulvorfälle",
+     "text": "Das Nachrichtenmagazin beleuchtet die Reihe von tödlichen Vorfällen an afghanischen Bildungseinrichtungen in den vergangenen Tagen.",
+     "url": "https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss",
      "video": false,
      "lesbar": {
       "stufe": "mittel",
       "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
       "klasse": 10,
       "minuten": 1,
-      "woerter": 136,
-      "satzlaenge": 15,
-      "langeWoerter": 38
+      "woerter": 176,
+      "satzlaenge": 14,
+      "langeWoerter": 36
      },
-     "traeger": "Süddeutscher Verlag, gehört zur Südwestdeutschen Medien Holding",
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "BBC",
+     "typ": "öffentlich-rechtlich (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "28.11.26, 13:49",
+     "fokus": "Aussagen von Regierungssprechern",
+     "text": "Der Sender nennt abweichende Opferzahlen und zitiert Kultur- und Informationsdirektor Sami ul Haq Bayan zu den Vorbereitungen für den Bergbau.",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 1,
+      "woerter": 235,
+      "satzlaenge": 29,
+      "langeWoerter": 31
+     },
+     "traeger": "British Broadcasting Corporation, Großbritannien",
+     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "publikumWert": null
+    },
+    {
+     "name": "Welt",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "28.11.26, 12:04",
+     "fokus": "Uhrzeit und regionale Einordnung",
+     "text": "Die Tageszeitung nennt die genaue Uhrzeit der Detonation und ordnet den Ort geografisch an der Grenze zu Pakistan ein.",
+     "url": "https://www.welt.de/politik/ausland/article6b0aaf12e6dce45621984d6a/afghanistan-sprengstofflager-explodiert-neben-schule-mindestens-sieben-schueler-tot.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 1,
+      "woerter": 228,
+      "satzlaenge": 13,
+      "langeWoerter": 39
+     },
+     "traeger": "WeltN24 GmbH, gehört zur Axel Springer SE",
      "finanzierung": "Abos und Werbung",
      "publikumWert": null
     }
    ],
    "unterschiede": [
     [
-     "Detailgrad der Reaktionen",
-     "Die Tagesschau stellt umfassend Reaktionen von Gewerkschaften und Parteien dar, während der Deutschlandfunk auf Reaktionen verzichtet und der Spiegel vor allem Stimmen aus der Union zitiert."
-    ],
-    [
-     "Umfang des Papiers",
-     "Der Spiegel nennt als einzige Quelle die genaue Seitenzahl von 287 Seiten des Gesetzentwurfs."
-    ],
-    [
-     "Verknüpfte Reformen",
-     "Die Süddeutsche Zeitung verweist als einzige Quelle auf den Zusammenhang mit der Riester-Rente ab 2027."
+     "Opferzahlen",
+     "Die Berichte nennen teils abweichende Zahlen; während die meisten Quellen von sieben Toten und 99 Verletzten sprechen, nennt die BBC zehn Tote und über 100 Verletzte."
     ]
    ],
    "wfragen": {
-    "wer": "Bundesarbeitsminister Alexander Schweitzer (SPD)",
-    "was": "Vorlage eines Gesetzentwurfs zur Rentenreform",
-    "wann": "27. November 2026",
-    "wo": "Berlin",
-    "wie": "Durch Beibehaltung der abschlagsfreien Rente bei verschärften Voraussetzungen",
-    "warum": "Zur Reform der Rentenversicherung und Kompromissfindung",
-    "quellenlage": "Gesetzentwurf sowie Stellungnahmen von Politikern und Gewerkschaften"
+    "wer": "Schülerinnen und Schüler in Afghanistan",
+    "was": "Todesfälle und Verletzungen durch eine Explosion",
+    "wann": "28.11.2026",
+    "wo": "Provinz Kunar, Afghanistan",
+    "wie": "durch die Detonation eines Sprengstofflagers",
+    "warum": "Fahrlässigkeit laut Angaben des Innenministeriums",
+    "quellenlage": "Berichte von Behörden und Nachrichtenagenturen"
    },
    "artikel": [
     {
      "ueberschrift": "Das ist passiert",
      "absaetze": [
-      "Bundesarbeitsminister Alexander Schweitzer von der SPD hat einen Gesetzentwurf für eine Reform der gesetzlichen Rentenversicherung vorgelegt. Das Dokument umfasst nach Informationen des Magazins Der Spiegel insgesamt 287 Seiten. Der Entwurf soll nach Berichten der Süddeutschen Zeitung die Zukunft der Altersvorsorge ordnen und eine Einigung in der Koalition herbeiführen.",
-      "Kern des Entwurfs ist laut Tagesschau, Deutschlandfunk, Spiegel und Süddeutscher Zeitung das Vorhaben, die abschlagsfreie Rente nach 45 Versicherungsjahren im Grundsatz beizubehalten. Allerdings sieht das Papier vor, die Kriterien für den Zugang zu dieser Rentenform einzuschränken. Nach Angaben der Tagesschau könnten dadurch rund 27 Prozent der Anspruchsberechtigten die Rentenart nicht mehr wie heute nutzen.",
-      "Die Veröffentlichung des Entwurfs führte zu unterschiedlichen Reaktionen. Während Vertreter der SPD den Vorschlag begrüßten, äußerten Politiker der Unionsfraktion Skepsis. Auch die Gewerkschaften reagierten mit einer Mischung aus Zustimmung und Kritik."
+      "In Afghanistan hat sich am Morgen eine Explosion in der Nähe einer Bildungseinrichtung ereignet. Der Vorfall fand im Osten des Landes statt. Die Detonation ereignete sich in der Gegend Andar Ser in der Provinz Kunar. Nach Angaben von Polizeisprecher Farid Dehkan wurden mehrere Schüler verletzt oder getötet. Die genaue Zahl der betroffenen Personen variiert in den verschiedenen Berichten der Behörden.",
+      "Das Innenministerium der Taliban-Regierung gab an, dass mindestens sieben Schüler getötet und 99 verletzt wurden. Ein Sprecher der Provinzregierung nannte ebenfalls die Zahl von mindestens sieben getöteten Kindern und 99 verletzten Schülern. Laut einer anderen Darstellung, die ein Sprecher gegenüber der BBC äußerte, starben mindestens zehn Schüler und mehr als 100 wurden verletzt.",
+      "Die Explosion beschädigte sowohl das Schulgebäude als auch benachbarte Häuser. Auf Videoaufnahmen in sozialen Netzwerken war zu sehen, wie verletzte Kinder in das Krankenhaus der Provinzhauptstadt Asadabad gebracht wurden. Einige der Leichtverletzten konnten das Krankenhaus nach einer Behandlung bereits wieder verlassen. Bis zu 15 verletzte Personen blieben laut Angaben des Kultur- und Informationsdirektors Sami ul Haq Bayan zunächst im Krankenhaus."
      ]
     },
     {
      "ueberschrift": "Die Einzelheiten",
      "absaetze": [
-      "Der Gesetzentwurf sieht Einschränkungen bei den Anrechnungszeiten für die 45 Beitragsjahre vor. Laut Tagesschau, Deutschlandfunk und Spiegel sollen Zeiten des Bezugs von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden. Nach Angaben des Deutschlandfunks und des Spiegels gilt dies auch für Übergangsgeld. Laut Tagesschau und Deutschlandfunk sollen zudem Minijobs unberücksichtigt bleiben.",
-      "Zusätzlich plant das Arbeitsministerium nach Angaben der Tagesschau eine Erhöhung der Rentenabschläge. Für Versicherte mit mindestens 35 Versicherungsjahren sollen die Abschläge bei einem um ein Jahr vorgezogenen Renteneintritt von bisher 3,6 Prozent auf 4,8 Prozent steigen. Laut Tagesschau befürwortet die DGB-Chefin Yasmin Fahimi eine künftig generelle Versicherungspflicht bei Minijobs.",
-      "Die Süddeutsche Zeitung berichtet, dass auf Beschäftigte mittleren Alters zusätzliche Belastungen zukommen, während das Niveau der Renten langfristig steigen soll."
+      "Die Detonation ereignete sich am Samstagmorgen um zehn Uhr Ortszeit am Stadtrand der Provinzhauptstadt Asadabad. Nach übereinstimmenden Behördenangaben befand sich das Explosionszentrum in der Nähe der Shagai Middle School. Der Kultur- und Informationsdirektor der Provinz, Sami ul Haq Bayan, erklärte, dass die Explosion in einem Haus stattfand, während Sprengstoff für den Bergbau und das Sprengen von Gestein vorbereitet wurde.",
+      "Ein Regierungsvertreter sowie der Sprecher des Innenministeriums, Abdul Mateen Qani, teilten mit, dass sich die Explosion in einem Sprengstofflager eines Bergbauunternehmens ereignete. Die Bergbauunternehmen befanden sich nach diesen Angaben in der unmittelbaren Umgebung der Schule. Das Innenministerium stuft den Vorfall nach ersten Ermittlungen als Folge von Fahrlässigkeit und Unachtsamkeit ein.",
+      "Kunar liegt im Osten von Afghanistan direkt an der Grenze zu Pakistan. Bergbau ist in Afghanistan ein bedeutender Wirtschaftszweig. In diesem Sektor sind die Sicherheitsstandards jedoch oft unzureichend, was in der Vergangenheit bereits zu verschiedenen Unfällen geführt hat."
      ]
     },
     {
      "ueberschrift": "Hintergrund",
      "absaetze": [
-      "Die Bundesregierung verhandelt über eine Neuausrichtung der Rentenversicherung. Die abschlagsfreie Frühverrentung war dabei ein Streitpunkt zwischen SPD und Union. Vertreter des CDU-Wirtschaftsflügels sprachen sich laut Spiegel für eine vollständige Abschaffung aus, gestützt auf Empfehlungen einer Rentenkommission aus dem Sommer. Die SPD beharrte dagegen auf der Fortführung.",
-      "Die Unionsfraktion hatte einen Kompromissvorschlag in die Debatte eingebracht. Arbeitsminister Schweitzer reagierte darauf mit der Vorlage seines Gesetzentwurfs. Laut Süddeutscher Zeitung steht parallel dazu das Modell der Riester-Rente vor dem Ende, während für 2027 eine neue Förderung geplant ist."
+      "In Afghanistan kommt es wiederholt zu Explosionen im Umfeld von Bildungseinrichtungen. Behörden führen derartige Vorfälle neben Anschlägen von Gruppen wie dem Islamischen Staat auch auf Blindgänger aus früheren bewaffneten Konflikten zurück. Erst im August war es zu einem Handgranatenangriff auf eine Schulanlage in der Hauptstadt Kabul gekommen, bei dem mehr als 40 Kinder im Alter zwischen neun und 14 Jahren verletzt wurden.",
+      "Der Vorfall in der Provinz Kunar ist bereits der dritte tödliche Vorfall in einer afghanischen Bildungseinrichtung innerhalb kurzer Zeit. Am Dienstag zuvor war bei einer Explosion in der Provinz Kapisa mindestens ein Schüler getötet worden. Wenige Tage vor diesem Ereignis starben vier Schüler bei einer Explosion in der Provinz Farah, während zwei weitere verletzt wurden.",
+      "Für die beiden Vorfälle in den Provinzen Kapisa und Farah machten die örtlichen Behörden jeweils Blindgänger aus früheren Konflikten verantwortlich. Die Untersuchung des aktuellen Vorfalls in der Provinz Kunar dauert derweil an. Die zuständigen Ministerien und lokalen Behörden prüfen die Hintergründe weiterhin."
      ]
     },
     {
      "ueberschrift": "Zum Verständnis",
      "absaetze": [
-      "Die gesetzliche Rentenversicherung in Deutschland funktioniert nach dem Umlageverfahren. Dabei werden die aktuellen Beitragszahlungen der Erwerbstätigen direkt zur Finanzierung der laufenden Renten verwendet.",
-      "Als Rentenabschlag wird die Minderung der monatlichen Auszahlung bezeichnet, wenn Versicherte vor der Regelaltersgrenze in den Ruhestand treten."
+      "Eine Behörde ist eine staatliche Einrichtung oder Dienststelle, die Verwaltungsaufgaben im Auftrag einer Regierung wahrnimmt. Sie setzt Gesetze und Verordnungen um, führt Kontrollen durch und regelt öffentliche Angelegenheiten.",
+      "Ein Sprengstofflager ist eine gesicherte Einrichtung zur Aufbewahrung von explosiven Stoffen. Solche Depots werden häufig in der Nähe von Industrie- oder Bergbauprojekten eingerichtet, um dort benötigte Materialien kurzfristig bereitzustellen."
      ]
     },
     {
      "ueberschrift": "Reaktionen",
      "absaetze": [
-      "Aus den Gewerkschaften kamen gemischte Rückmeldungen. DGB-Chefin Yasmin Fahimi kritisierte laut Tagesschau die Erhöhung der Abschläge für Menschen mit 35 Beitragsjahren, lobte aber den Erhalt der Rente nach 45 Jahren. ver.di-Chef Frank Werneke bewertete den Erhalt ebenfalls positiv, kritisierte aber die Abschläge als nicht fair.",
-      "Die Reaktionen aus den Regierungsparteien fielen unterschiedlich aus. Annika Klose von der SPD sprach laut Tagesschau von einem guten Ausgleich der Interessen. Kanzleramtschefin Nina Warken erklärte laut Spiegel hingegen, es gebe noch keine Einigung in der Koalition. CSU-Landesgruppenchef Alexander Hoffmann sprach von einem Schritt nach vorne, forderte aber einen Vorschlag zur Gegenfinanzierung. CDU-Wirtschaftspolitiker Christian von Stetten kritisierte laut Tagesschau den Entwurf.",
-      "Die Fraktionsvorsitzende der Linken, Heidi Reichinnek, kritisierte den Vorschlag laut Tagesschau scharf als Kürzungsprogramm."
+      "Der Polizeisprecher Farid Dehkan bestätigte den Vorfall und erklärte, dass mehrere Schüler verletzt oder getötet wurden. Das Innenministerium äußerte sich ebenfalls über die Gesamtzahl der Opfer. Ein Sprecher des Innenministeriums der Taliban-Regierung, Abdul Mateen Qani, teilte mit, dass die Detonation laut ersten Ermittlungen auf Fahrlässigkeit und Unachtsamkeit zurückzuführen ist.",
+      "Der Kultur- und Informationsdirektor der Provinz Kunar, Sami ul Haq Bayan, erläuterte Details zu dem Haus in der Nähe der Schule, in dem der Sprengstoff für Bergbauarbeiten vorbereitet worden sei. Zudem gab er Auskunft über den Zustand der verletzten Personen im Krankenhaus in Asadabad.",
+      "Ein ungenannter Vertreter der Provinzregierung berichtete der Nachrichtenagentur dpa von den Auswirkungen der Detonation auf das Schulgebäude sowie auf benachbarte Häuser."
      ]
     },
     {
      "ueberschrift": "Wie geht es weiter?",
      "absaetze": [
-      "Der Gesetzentwurf befindet sich nach Angaben des Spiegels in der Frühkoordinierung innerhalb der Bundesregierung. Arbeitsminister Schweitzer zeigte sich nach Angaben der Tagesschau optimistisch, dass es bald zu einer Einigung kommt. Die Unionsfraktion betonte dagegen, dass der Entwurf noch nicht fertig sei."
+      "Die Behörden in Afghanistan haben eine offizielle Untersuchung des Vorfalls eingeleitet. Dabei sollen weitere Details zu den Hintergründen der Explosion ermittelt werden. Die Überprüfung der Sicherheitsstandards bei Bergbauunternehmen in der Umgebung der betroffenen Schule ist Teil der laufenden Maßnahmen."
+     ]
+    }
+   ],
+   "zeitleiste": [],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Es wird kein Bild angezeigt, da der Artikel ein Unglück mit verletzten und getöteten Kindern behandelt."
+    }
+   ],
+   "ort": {
+    "name": "Kunar, Afghanistan"
+   },
+   "geprueft": true,
+   "korrekturen": [],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Fahrlässigkeit",
+      "Wenn jemand nicht gut aufpasst und dadurch ein Fehler passiert, der einen Schaden verursacht."
+     ],
+     [
+      "Bergbau",
+      "Das Herausholen von Rohstoffen wie Kohle oder Erzen aus der Erde."
+     ],
+     [
+      "Detonation",
+      "Eine plötzliche und heftige Explosion mit einem lauten Knall."
+     ]
+    ],
+    "fragen": [
+     "Wie gehen unterschiedliche Medien mit abweichenden Opferzahlen um?",
+     "Welche Gefahren können von Industrieanlagen in Wohn- oder Schulnähe ausgehen?"
+    ],
+    "quiz": [
+     {
+      "frage": "In welcher afghanischen Provinz ereignete sich die Explosion?",
+      "optionen": [
+       "Kunar",
+       "Kabul",
+       "Herat"
+      ],
+      "richtig": 0,
+      "erklaerung": "Die Berichte von Tagesschau, Spiegel und Welt stimmen überein, dass die Explosion in der Provinz Kunar stattfand."
+     },
+     {
+      "frage": "Was war laut Innenministerium die Ursache für das Unglück?",
+      "optionen": [
+       "Ein absichtlicher Anschlag",
+       "Fahrlässigkeit in einem Sprengstofflager",
+       "Ein Erdbeben"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut dem Innenministerium und weiteren Quellen war ein Sprengstofflager eines Bergbauunternehmens die Ursache, wobei von Fahrlässigkeit ausgegangen wird."
+     },
+     {
+      "frage": "Wie viele Schüler wurden nach Angaben des Innenministeriums mindestens getötet?",
+      "optionen": [
+       "Zwei Schüler",
+       "Sieben Schüler",
+       "Vierzig Schüler"
+      ],
+      "richtig": 1,
+      "erklaerung": "Das Innenministerium teilte mit, dass mindestens sieben Schüler getötet wurden."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "In Afghanistan hat es eine schwere Explosion in der Nähe einer Schule gegeben.",
+    "absaetze": [
+     "Das Unglück passierte am Samstagmorgen in der Provinz Kunar im Osten des Landes.",
+     "Nach Angaben der Behörden starben mindestens sieben Schüler und fast einhundert wurden verletzt.",
+     "In der Nähe der Schule war Sprengstoff für den Bergbau gelagert.",
+     "Das Innenministerium in Afghanistan spricht von Fahrlässigkeit als Ursache für die Detonation.",
+     "Die Ermittlungen zu dem Vorfall dauern an."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "In Afghanistan gab es eine Explosion nahe einer Schule.",
+     "Nach Behördenangaben starben mindestens sieben Schüler.",
+     "Die Ursache war laut Innenministerium ein Sprengstofflager."
+    ],
+    "lang": [
+     "In der ostafghanischen Provinz Kunar hat sich eine Explosion in der Nähe einer Schule ereignet.",
+     "Der Vorfall geschah am Samstagmorgen am Stadtrand der Stadt Asadabad.",
+     "Nach Angaben des Innenministeriums wurden mindestens sieben Schüler getötet und neunzigundneunzig verletzt.",
+     "Ein Sprecher der Provinzregierung nannte ebenfalls diese Opferzahlen für den Vorfall.",
+     "Die britische Rundfunkanstalt BBC berichtete dagegen unter Berufung auf einen Sprecher von mindestens zehn Toten.",
+     "Die Detonation ereignete sich nach Angaben von Behörden in einem Sprengstofflager eines Bergbauunternehmens.",
+     "Ein Sprecher des Innenministeriums erklärte, dass erste Ermittlungen auf Fahrlässigkeit hindeuten.",
+     "Das Schulgebäude und benachbarte Häuser wurden durch die Wucht der Explosion beschädigt.",
+     "Die Behörden in Afghanistan haben eine offizielle Untersuchung eingeleitet.",
+     "Es ist bereits der dritte tödliche Vorfall an einer Bildungseinrichtung im Land innerhalb kurzer Zeit."
+    ],
+    "einfach": [
+     "In Afghanistan gab es eine Explosion an einer Schule.",
+     "Dabei starben mindestens sieben Kinder.",
+     "Fast einhundert Schüler wurden verletzt.",
+     "Sprengstoff in einem Lager war der Grund.",
+     "Das Innenministerium spricht von Fahrlässigkeit.",
+     "Die Polizei untersucht den Vorfall."
+    ]
+   },
+   "kurz": [
+    "In Afghanistan hat sich eine Explosion in der Nähe einer Schule ereignet.",
+    "Nach Behördenangaben wurden mindestens sieben Schüler getötet und 99 verletzt.",
+    "Als Ursache wird ein Sprengstofflager eines Bergbauunternehmens genannt.",
+    "Das Innenministerium geht von Fahrlässigkeit aus."
+   ],
+   "fakten": [
+    [
+     "Mindesttote Schüler",
+     "sieben"
+    ],
+    [
+     "Verletzte Schüler",
+     "neunzigundneunzig"
+    ],
+    [
+     "Datum",
+     "28. November 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "explosion-schule-afghanistan",
+    "titel": "Explosion an einer Schule in Afghanistan"
+   },
+   "bildInfos": [],
+   "ortInfo": {
+    "name": "Kunar, Afghanistan",
+    "lat": 34.95,
+    "lon": 71.133
+   },
+   "version": 5
+  },
+  {
+   "id": "rentenreform-entwurf-schweitzer",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-28T12:45:43.000Z",
+   "aktualisiert": "aktualisiert um 13:54 Uhr",
+   "titel": "Debatte über Rentenreformpläne von Bundesarbeitsminister Alexander Schweitzer",
+   "vorspann": "Bundesarbeitsminister Alexander Schweitzer hat seinen Gesetzentwurf zur Rentenreform vorgelegt und stößt damit auf Kritik bei Koalitionspartnern und Arbeitgebern. Im Zentrum der Diskussion steht die Beibehaltung der abschlagsfreien Frührente nach 45 Beitragsjahren.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Bundesarbeitsminister Alexander Schweitzer hat seinen Gesetzentwurf zur Rentenreform vorgelegt und sieht darin eine tragfähige Verhandlungsgrundlage.",
+    "Die Union und Arbeitgeberverbände kritisieren insbesondere das Festhalten an der abschlagsfreien Frührente und warnen vor finanziellen Belastungen für jüngere Generationen.",
+    "Gewerkschaften bewerten einzelne Punkte wie die Beibehaltung der Frührente positiv, lehnen jedoch geplante Erhöhungen von Abschlägen ab.",
+    "Kanzleramtschefin Nina Warken und andere Unionsvertreter bemängeln das fehlende Einvernehmen vor der Veröffentlichung des Entwurfs."
+   ],
+   "einig": [
+    [
+     "Arbeitsminister Alexander Schweitzer hat seinen Gesetzentwurf zur Rentenreform vorgelegt.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Welt"
+     ]
+    ],
+    [
+     "Der Entwurf sieht vor, die abschlagsfreie Frührente nach 45 Beitragsjahren im Kern zu erhalten, aber den Zugang einzuschränken.",
+     [
+      "Tagesschau/ARD",
+      "Deutschlandfunk",
+      "Spiegel",
+      "Welt"
+     ]
+    ],
+    [
+     "Durch die Einschränkungen sollen rund 27 Prozent der bisher Anspruchsberechtigten ihren Anspruch verlieren.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "Welt"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob sich die Koalitionspartner zeitnah auf eine gemeinsame Fassung des Gesetzentwurfs einigen können, ist zwischen Arbeitsminister Schweitzer und der Unionsführung unstrittig offen."
+   ],
+   "positionen": [
+    [
+     "Florian Dorn (CSU, Rentenkommission)",
+     "Der Entwurf stabilisiert die Rente nicht nachhaltig und belastet die junge Generation.",
+     "Tagesschau/ARD,Spiegel,Welt"
+    ],
+    [
+     "Thorsten Frei (CDU-Unionsfraktionschef)",
+     "Das Festhalten an Maximalforderungen gefährdet die Finanzierbarkeit und belastet junge Menschen.",
+     "Tagesschau/ARD,Spiegel,Welt"
+    ],
+    [
+     "Steffen Kampeter (BDA-Hauptgeschäftsführer)",
+     "Der Entwurf führt zu einem massiven Beitragsanstieg und ist ein vermurkster Versuch.",
+     "Tagesschau/ARD,Welt"
+    ],
+    [
+     "Annika Klose (SPD-Fraktion)",
+     "Der Entwurf stellt einen guten Ausgleich der Interessen dar.",
+     "Tagesschau/ARD,Spiegel"
+    ]
+   ],
+   "fehlend": "Stimmen von Betroffenen oder Rentnern direkt wurden in den Berichten nicht abgebildet.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "28.11.26, 11:11",
+     "fokus": "Umfassende Reaktionen und Zitate",
+     "text": "Berichtet detailliert über die Reaktionen aus Koalition, Arbeitgeberverbänden und Gewerkschaften auf den Entwurf.",
+     "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 4,
+      "woerter": 844,
+      "satzlaenge": 17,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "Deutschlandfunk",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "28.11.26, 13:45",
+     "fokus": "Kompakter Überblick",
+     "text": "Fasst die anhaltende Diskussion und die Kritik der Union an der Frührente kurz zusammen.",
+     "url": "https://www.deutschlandfunk.de/union-und-spd-diskutieren-weiter-ueber-rentenreform-kritik-der-arbeitgeber-100.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Deutschlandradio, Körperschaft des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "28.11.26, 07:56",
+     "fokus": "Hintergrunddetails zum Entwurf",
+     "text": "Nennt konkrete Zahlen zu Abschlägen, Altersgrenzen und listet Reaktionen verschiedener Politiker auf.",
+     "url": "https://www.spiegel.de/politik/rente-arbeitsminister-schweitzer-veraergert-union-mit-eigenem-rentenplan-die-stimmen-a-55dea0b2-3d47-4c29-89c2-3bc1ad73b4f7#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 736,
+      "satzlaenge": 16,
+      "langeWoerter": 32
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Welt",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "28.11.26, 11:51",
+     "fokus": "Arbeitgeberperspektive und Beitragsentwicklung",
+     "text": "Betont die Kritik der Arbeitgeberverbände und die befürchtete Steigerung des Rentenbeitragssatzes auf 22 Prozent.",
+     "url": "https://www.welt.de/politik/deutschland/article6b0aa5447df78695bac96940/rentenreform-arbeitgeber-schlagen-alarm-und-warnen-vor-einem-belastungsschub.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 4,
+      "woerter": 713,
+      "satzlaenge": 17,
+      "langeWoerter": 37
+     },
+     "traeger": "WeltN24 GmbH, gehört zur Axel Springer SE",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Detailgrad der Arbeitgeberkritik",
+     "Die Welt nennt konkrete Zahlen zur Erhöhung des Beitragssatzes auf 22 Prozent, während andere Medien dies weniger ausführlich darstellen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Bundesarbeitsminister Alexander Schweitzer",
+    "was": "Vorstellung eines Gesetzentwurfs zur Rentenreform",
+    "wann": "2026-11-27 bis 2026-11-28",
+    "wo": "Berlin, Deutschland",
+    "wie": "Durch einen vorgelegten Gesetzentwurf trotz fehlender Einigung in Verhandlungen",
+    "warum": "Zur Regelung der künftigen Altersversorgung und Stabilisierung der Rentenversicherung",
+    "quellenlage": "Meldungen von Tagesschau/ARD, Deutschlandfunk, Spiegel und Welt"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Vorstellung des Gesetzentwurfs",
+     "absaetze": [
+      "Bundesminister Alexander Schweitzer hat am Freitag seinen Gesetzentwurf für eine Reform der gesetzlichen Rentenversicherung vorgestellt. Die Präsentation des Entwurfs erfolgte nach Angaben der Berichte überraschend, nachdem am Donnerstagabend noch Unterhändler von Union und SPD zusammengesessen hatten, ohne eine Einigung zu erzielen. Laut den Berichten von Tagesschau/ARD, Spiegel und Welt sieht der Entwurf vor, die sogenannte Rente mit 63 im Grundsatz zu erhalten. Allerdings soll der Zugang zu dieser abschlagsfreien Frührente nach 45 Beitragsjahren erschwert werden. Nach Angaben des Ministeriums sollen künftig Zeiten der Arbeitslosigkeit und geringfügiger Beschäftigung nicht mehr auf die erforderlichen Versicherungsjahre angerechnet werden. Dies würde nach Angaben Schweitzers dazu führen, dass rund 27 Prozent der bisher Anspruchsberechtigten diesen Anspruch verlieren.",
+      "Neben den Bestimmungen zur Frührente enthält der Entwurf laut dem Magazin Spiegel weitere Änderungen für Versicherte. Wer demnach nach 35 Versicherungsjahren mit Abschlägen in Rente gehen möchte, soll dies künftig erst ab dem Alter von 64 statt bisher 63 Jahren tun können. Zudem soll der monatliche Abschlag von 0,3 auf 0,4 Prozent steigen. Ferner plant das Ministerium laut Spiegel die Einführung einer gesetzlichen Kapitalrente, die Einbeziehung von Minijobs in die Rentenversicherungspflicht sowie die Koppelung des regulären Rentenalters an die Lebenserwartung. Das Bundeskanzleramt ließ laut den Berichten bereits vor der Erklärung des Ministers mitteilen, dass eine Verständigung innerhalb der Regierung noch nicht erzielt worden sei."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen aus der Union",
+     "absaetze": [
+      "Die Pläne des SPD-Ministers stoßen beim Koalitionspartner CDU und CSU auf Widerstand und Kritik. Unionsfraktionschef Thorsten Frei warf dem Minister vor, an Maximalforderungen der SPD festzuhalten, und äußerte laut den Berichten die Ansicht, dass die Finanzierbarkeit der Reform dadurch infrage gestellt werde. Der CSU-Bundestagsabgeordnete und stellvertretende Vorsitzende der Rentenkommission, Florian Dorn, kritisierte laut Tagesschau/ARD, dass die Rente durch den Entwurf nicht nachhaltig stabilisiert und die junge Generation zusätzlich belastet werde. Dorn und andere Unionspolitiker äußerten zudem Irritation darüber, dass der Minister einen nicht intern geeinten Entwurf vorgelegt habe. Auch der CDU-Wirtschaftspolitiker Christian von Stetten lehnte den Entwurf ab und verglich ihn in Aussagen gegenüber dem Magazin Stern mit einem Antrag für einen Parteitag.",
+      "Einige Stimmen aus der Union sehen jedoch auch positive Aspekte oder fordern Verhandlungen. CSU-Landesgruppenchef Alexander Hoffmann bezeichnete den Entwurf in der Neuen Osnabrücker Zeitung als einen Schritt nach vorne, bemängelte jedoch das Fehlen einer Gegenfinanzierung. Der Chef des CDU-Arbeitnehmerflügels CDA, Dennis Radtke, erklärte laut den Funke-Medien, dass eine Einigung mit gutem Willen möglich sei und sich die SPD in Teilen bewegen müsse. CDU-Generalsekretärin Franziska Hoppermann kritisierte hingegen das Verfahren und betonte laut dem Stern, dass Medienarbeit zu nicht abgestimmten Entwürfen wenig hilfreich sei."
+     ]
+    },
+    {
+     "ueberschrift": "Positionen von Arbeitgebern und Gewerkschaften",
+     "absaetze": [
+      "Die Bundesvereinigung der Deutschen Arbeitgeberverbände übte Kritik an den vorgelegten Plänen des Bundesarbeitsministeriums. Der Hauptgeschäftsführer Steffen Kampeter bezeichnete den Entwurf laut Tagesschau/ARD und Welt als vermurksten Versuch, von der eigenen Reformunwilligkeit abzulenken, und warnte vor einer Belastung für Beschäftigte und Unternehmen. Laut Berechnungen des BDA könnte der Rentenbeitragssatz infolge der Reformpläne innerhalb von fünf Jahren von 18,6 auf rund 22 Prozent steigen. Kampeter kritisierte zudem eine Unwucht zwischen zusätzlichen Belastungen und Entlastungen und forderte die Abschaffung der abschlagsfreien Frührente.",
+      "Das Echo bei den Gewerkschaften fiel gemischt aus. Vertretungen wie der Deutsche Gewerksbund und die IG Metall begrüßten, dass die abschlagsfreie Frührente im Kern erhalten bleiben soll. DGB-Chefin Yasmin Fahimi befürwortete zudem die geplante Rentenversicherungspflicht für Minijobs, kritisierte jedoch die Koppelung des Rentenalters an die Lebenserwartung. Auch ver.di-Chef Frank Werneke forderte Nachbesserungen und kritisierte die geplante Erhöhung der Abschläge als versicherungsmathematisch nicht fair."
+     ]
+    },
+    {
+     "ueberschrift": "Stimmen weiterer Parteien",
+     "absaetze": [
+      "Aus den übrigen Parteien im Bundestag gab es ablehnende Reaktionen auf den Entwurf des Arbeitsministers. Die Grünen-Fraktionsvorsitzende Katharina Dröge äußerte Skepsis und befürchtete eine neue Runde an Streit innerhalb der Koalition. Die FDP-Führung kritisierte das Vorkommen ebenfalls; Generalsekretär Martin Hagen nannte den Entwurf eine Frechheit und warf der SPD vor, die Union zu provozieren. Die Linken-Fraktionschefin Heidi Reichinnek bewertete die Vorschläge laut den Berichten als ein Kürzungsprogramm. Die AfD-Bundestagsabgeordnete Diana Zimmer erklärte, dass sich die Beitragszahler auf längeres Arbeiten und höhere Abgaben einstellen müssten.",
+      "Innerhalb der SPD wird der Entwurf von Ministern und Abgeordneten verteidigt. Die sozialpolitische Sprecherin der SPD-Fraktion, Annika Klose, sprach von einem guten Ausgleich der Interessen, der Forderungen der Union aufnehme. Niedersachsens Ministerpräsident Olaf Lies stützte den Minister und bezeichnete den Entwurf in der Neuen Osnabrücker Zeitung als tragfähige Grundlage für weitere Diskussionen. Der Juso-Chef Philipp Türmer forderte eine stärkere Umverteilung in der Rente."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Die Reform der Alterssicherung ist Gegenstand von Beratungen in der Bundesregierung und der Koalition aus SPD und Union. Im Sommer hatte eine eingesetzte Alterssicherungskommission Empfehlungen erarbeitet, zu denen unter anderem die vollständige Abschaffung der abschlagsfreien Frührente nach 45 Beitragsjahren gehörte. Die Union fordert seitdem die Umsetzung dieser Empfehlungen. Die SPD verweist demgegenüber darauf, dass der Erhalt dieser Rentenform im Koalitionsvertrag vereinbart wurde."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Arbeitsminister Alexander Schweitzer zeigte sich in Interviews zuversichtlich, dass es nach weiteren Beratungen zu einer Einigung innerhalb der Koalition kommen wird. Bundeskanzler Friedrich Merz strebt laut Medienberichten an, dass das Bundeskabinett die Reform in wesentlichen Teilen noch vor Weihnachten beschließt. Die Beteiligten in Berlin werden die Gespräche in den kommenden Tagen fortsetzen."
      ]
     }
    ],
@@ -3260,23 +3068,40 @@
     [
      "Freitag, 27. November 2026",
      "Bundesarbeitsminister Schweitzer veröffentlicht seinen Gesetzentwurf"
+    ],
+    [
+     "Sommer 2026",
+     "Rentenkommission empfiehlt die vollständige Abschaffung der abschlagsfreien Rente nach 45 Beitragsjahren."
+    ],
+    [
+     "Dienstag, 24. November 2026",
+     "Unionsfraktion legt einen eigenen Kompromissvorschlag zur Reform der Altersversorgung vor."
+    ],
+    [
+     "Freitag, 27. November 2026",
+     "Bundesarbeitsminister Schweitzer veröffentlicht seinen Gesetzentwurf zur Rentenreform."
     ]
    ],
    "bilder": [
     {
      "art": "person",
-     "suchbegriff": "Alexander Schweitzer",
-     "bildunterschrift": "Bundesarbeitsminister Alexander Schweitzer (SPD) hat den Gesetzentwurf zur Rentenreform vorgelegt."
-    },
-    {
-     "art": "person",
-     "suchbegriff": "Yasmin Fahimi",
-     "bildunterschrift": "DGB-Chefin Yasmin Fahimi kritisierte die geplanten höheren Abschläge für Frührentner."
+     "suchbegriff": "Alexander Schweitzer politician",
+     "bildunterschrift": "Bundesarbeitsminister Alexander Schweitzer hat den Gesetzentwurf zur Rentenreform vorgestellt."
     },
     {
      "art": "institution",
-     "suchbegriff": "Federal Ministry of Labour and Social Affairs Germany",
-     "bildunterschrift": "Das Bundesministerium für Arbeit und Soziales in Berlin hat den Reformgesetzentwurf erarbeitet."
+     "suchbegriff": "German Federal Ministry of Labour and Social Affairs",
+     "bildunterschrift": "Das Bundesministerium für Arbeit und Soziales hat die Reformpläne ausgearbeitet."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Thorsten Frei politician",
+     "bildunterschrift": "Unionsfraktionschef Thorsten Frei kritisierte die Pläne des Bundesarbeitsministers."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Reichstag building Berlin",
+     "bildunterschrift": "Der Bundestag in Berlin ist der Ort, an dem über die Gesetzesvorhaben beraten wird."
     }
    ],
    "ort": {
@@ -3284,120 +3109,124 @@
    },
    "geprueft": true,
    "korrekturen": [
-    "Formulierungen aus dem Entwurf wurden streng an den Text der Originalberichte angepasst."
+    "Das Wort Kanzleramtschefin wurde im JSON korrigiert, und wertende Adjektive wurden in den Textabschnitten entfernt oder als Aussagen gekennzeichnet."
    ],
    "wortwarnung": [],
    "lernen": {
     "begriffe": [
      [
       "Gesetzentwurf",
-      "Ein Entwurf ist ein Vorschlag für ein neues Gesetz, das von der Regierung erarbeitet wurde."
+      "Ein schriftlicher Vorschlag für ein neues oder geändertes Gesetz, der von der Regierung oder Parlamentariern eingebracht wird."
      ],
      [
-      "Rentenabschlag",
-      "Ein Abschlag ist eine dauerhafte Kürzung der monatlichen Rente, wenn jemand früher in den Ruhestand geht."
+      "Rentenversicherungspflicht",
+      "Die gesetzliche Pflicht für bestimmte Arbeitnehmer, Beiträge in die Rentenkasse einzuzahlen, um später Ansprüche zu erwerben."
      ],
      [
-      "Umlageverfahren",
-      "Das Umlageverfahren bedeutet, dass die heutigen Beiträge der Arbeitnehmer direkt für die heutigen Renten verwendet werden."
+      "Abschläge",
+      "Ein finanzieller Abzug bei der Rente, wenn jemand früher als vorgesehen in den Ruhestand geht."
      ]
     ],
     "fragen": [
-     "Welche Argumente bringen Gewerkschaften und Politiker gegen die geplanten Abschläge vor?",
-     "Warum ist eine Einigung innerhalb der Regierungskoalition vor einem Beschluss notwendig?"
+     "Welche Argumente führen Kritiker gegen das Festhalten an der abschlagsfreien Frührente an?",
+     "Warum kritisieren Vertreter der Union das Vorgehen von Bundesminister Schweitzer bei der Veröffentlichung des Entwurfs?",
+     "Welche Teile des Gesetzentwurfs werden von den Gewerkschaften unterschiedlich bewertet?"
     ],
     "quiz": [
      {
-      "frage": "Was plant Arbeitsminister Schweitzer für die abschlagsfreie Rente nach 45 Beitragsjahren?",
+      "frage": "Was sieht der Gesetzentwurf von Bundesminister Schweitzer in Bezug auf die Frührente vor?",
       "optionen": [
-       "Sie soll vollständig abgeschafft werden.",
-       "Sie soll im Grundsatz erhalten bleiben, aber die Kriterien sollen verschärft werden.",
-       "Sie soll für alle Arbeitnehmer auf 50 Jahre verlängert werden."
+       "Die abschlagsfreie Frührente wird sofort vollständig abgeschafft.",
+       "Die abschlagsfreie Frührente nach 45 Jahren bleibt im Kern erhalten, aber der Zugang wird eingeschränkt.",
+       "Das Rentenalter wird für alle Arbeitnehmer auf 70 Jahre angehoben."
       ],
       "richtig": 1,
-      "erklaerung": "Laut Tagesschau, Deutschlandfunk, Spiegel und Süddeutscher Zeitung soll die Rente im Grundsatz erhalten bleiben, aber die Kriterien werden verschärft."
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau, Spiegel und Welt bleibt die Rente nach 45 Beitragsjahren im Kern erhalten, der Zugang wird jedoch erschwert."
      },
      {
-      "frage": "Welche Zeiten sollen nach übereinstimmenden Berichten künftig nicht mehr auf die 45 Beitragsjahre angerechnet werden?",
+      "frage": "Wie bewertet die Union den vorgelegten Entwurf?",
       "optionen": [
-       "Zeiten von Arbeitslosengeld und Krankengeld",
-       "Reguläre Urlaubszeiten",
-       "Zeiten einer abgeschlossenen Berufsausbildung"
-      ],
-      "richtig": 0,
-      "erklaerung": "Laut Tagesschau, Deutschlandfunk und Spiegel sollen Zeiten des Bezugs von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden."
-     },
-     {
-      "frage": "Wie hoch sollen die Abschläge bei vorzeitigem Renteneintritt nach 35 Jahren steigen?",
-      "optionen": [
-       "Auf zwei Komma fünf Prozent",
-       "Auf vier Komma acht Prozent",
-       "Auf sechs Komma null Prozent"
+       "Sie unterstützt den Entwurf uneingeschränkt und fordert eine sofortige Annahme.",
+       "Sie kritisiert, dass der Entwurf die junge Generation zusätzlich belastet und die Rente nicht nachhaltig stabilisiert.",
+       "Sie schlägt vor, die Altersgrenze für alle Bürger abzusenken."
       ],
       "richtig": 1,
-      "erklaerung": "Laut Tagesschau sollen die Abschläge von bisher 3,6 Prozent auf 4,8 Prozent steigen."
+      "erklaerung": "Politiker der Union wie Florian Dorn und Thorsten Frei kritisierten, dass die Pläne die junge Generation belasten und die Finanzierbarkeit gefährden."
+     },
+     {
+      "frage": "Welchen Effekt hat die Einschränkung laut Angaben des Ministeriums auf die Anspruchsberechtigten?",
+      "optionen": [
+       "Niemand verliert seinen Anspruch.",
+       "Rund 27 Prozent der bisher Anspruchsberechtigten verlieren ihren Anspruch.",
+       "Alle Arbeitnehmer erhalten sofort mehr Rente."
+      ],
+      "richtig": 1,
+      "erklaerung": "Nach Angaben von Arbeitsminister Schweitzer verlieren rund 27 Prozent der bisher Berechtigten ihren Anspruch durch die neuen Regeln."
      }
     ]
    },
    "einfach": {
-    "vorspann": "Der deutsche Arbeitsminister Alexander Schweitzer hat neue Pläne für die Rente vorgestellt.",
+    "vorspann": "Bundesarbeitsminister Alexander Schweitzer hat einen Entwurf für die Rentenreform vorgestellt. Daran gibt es viel Kritik.",
     "absaetze": [
-     "Die sogenannte Rente nach 45 Jahren soll grundsätzlich bleiben.",
-     "Wer früher in Rente gehen will, muss aber strengere Regeln erfüllen.",
-     "Zeiten mit Arbeitslosengeld oder Krankengeld sollen nicht mehr für die Rente zählen.",
-     "Gewerkschaften kritisieren höhere Abzüge für Frührentner.",
-     "In der Regierung gibt es noch Streit über die Pläne."
+     "Der Minister will, dass Menschen nach fünfundvierzig Arbeitsjahren weiter abschlagsfrei früh in Rente gehen können. Das nennt man oft Rente mit dreiundsechzig.",
+     "Der Zugang zu dieser Frührente soll jedoch schwerer werden. Zeiten von Arbeitslosigkeit sollen nicht mehr zählen. Nach Angaben des Ministeriums verlieren dadurch rund siebenundzwanzig Prozent der bisher Berechtigten diesen Anspruch.",
+     "Parteien aus der Union und Arbeitgeberverbände kritisieren den Entwurf scharf. Sie sagen, dass die Pläne die junge Generation zu stark belasten.",
+     "Gewerkschaften finden es gut, dass die Frührente im Kern bleibt, kritisieren aber geplante Erhöhungen von Abschlägen."
     ]
    },
    "video": {
     "kurz": [
-     "Bundesarbeitsminister Alexander Schweitzer hat einen Entwurf zur Rentenreform vorgelegt.",
-     "Die abschlagsfreie Rente nach 45 Jahren soll unter verschärften Bedingungen erhalten bleiben.",
-     "In der Regierungskoalition gibt es nach Angaben von Kanzleramtschefin Nina Warken noch keine Einigung."
+     "Bundesarbeitsminister Alexander Schweitzer hat einen Gesetzentwurf zur Rentenreform vorgelegt.",
+     "Daran gibt es heftige Kritik von der Union und von Arbeitgeberverbänden.",
+     "Die Koalitionspartner wollen in den nächsten Tagen weiter verhandeln."
     ],
     "lang": [
-     "Bundesarbeitsminister Alexander Schweitzer hat einen neuen Gesetzentwurf zur Rentenreform vorgelegt.",
-     "Das Dokument umfasst nach Angaben des Spiegels 287 Seiten und stammt aus dem Arbeitsministerium in Berlin.",
-     "Kern des Entwurfs ist der Erhalt der abschlagsfreien Rente nach 45 Jahren unter verschärften Bedingungen.",
-     "Nach übereinstimmenden Berichten sollen Zeiten von Arbeitslosengeld und Krankengeld künftig nicht mehr angerechnet werden.",
-     "Für Frührentner mit 35 Versicherungsjahren sollen die monatlichen Abschläge von drei Komma sechs auf vier Komma acht Prozent steigen.",
-     "Die DGB-Chefin Yasmin Fahimi kritisierte die höheren Abschläge nach Angaben der Tagesschau als ungerecht.",
-     "Annika Klose von der SPD sprach dagegen von einem guten Ausgleich der Interessen.",
-     "Kanzleramtschefin Nina Warken betonte nach Angaben des Spiegels, dass es in der Koalition noch keine Einigung gibt.",
-     "Das Gesetz muss vor einer Abstimmung im Bundestag von der Regierung beschlossen werden."
+     "Bundesarbeitsminister Alexander Schweitzer hat am Freitag seinen Gesetzentwurf zur Rentenreform vorgestellt.",
+     "Das hat der Minister in Berlin getan, obwohl sich die Koalitionspartner zuvor nicht geeinigt hatten.",
+     "Der Entwurf sieht vor, dass die abschlagsfreie Frührente nach fünfundvierzig Beitragsjahren im Kern erhalten bleibt.",
+     "Der Zugang dazu soll jedoch eingeschränkt werden, so dass rund siebenundzwanzig Prozent der Berechtigten ihren Anspruch verlieren.",
+     "Die Union und die Arbeitgeberverbände kritisieren die Pläne scharf und warnen vor finanziellen Belastungen für die junge Generation.",
+     "Der Unionsfraktionschef Thorsten Frei warf dem Minister vor, an Maximalforderungen festzuhalten.",
+     "Gewerkschaften bewerten die Beibehaltung der Frührente positiv, lehnen aber höhere Abschläge ab.",
+     "Das Bundeskanzleramt teilte mit, dass eine Verständigung innerhalb der Regierung bisher nicht existiert.",
+     "Schweitzer selbst zeigt sich zuversichtlich, dass es bald zu einer Einigung kommen wird.",
+     "In den kommenden Tagen werden die Gespräche zwischen den Koalitionspartnern fortgesetzt."
     ],
     "einfach": [
-     "Arbeitsminister Alexander Schweitzer will die Rente reformieren.",
-     "Die Rente nach 45 Jahren soll grundsätzlich erhalten bleiben.",
-     "Aber die Regeln dafür sollen strenger werden.",
-     "Zeiten von Arbeitslosengeld zählen künftig nicht mehr dazu.",
-     "Gewerkschaften kritisieren die Pläne der Regierung.",
-     "In der Politik wird darüber noch gestritten."
+     "Bundesarbeitsminister Schweitzer hat neue Pläne für die Rente vorgestellt.",
+     "Darin soll die Frührente nach fünfundvierzig Arbeitsjahren im Kern bleiben.",
+     "Aber nicht mehr jeder soll sie bekommen.",
+     "Die Partei der Union kritisiert die Pläne sehr.",
+     "Sie sagt, das kostet die junge Generation zu viel Geld.",
+     "Nun wollen die Politiker weiter miteinander reden."
     ]
    },
    "kurz": [
-    "Arbeitsminister Schweitzer hat einen Entwurf zur Reform der Rentenversicherung vorgelegt.",
-    "Die abschlagsfreie Rente nach 45 Jahren soll im Grundsatz erhalten bleiben.",
-    "Zeiten von Arbeitslosengeld und Krankengeld sollen künftig nicht mehr angerechnet werden.",
-    "In der Koalition gibt es nach Angaben der Union noch keine Einigung über den Entwurf."
+    "Bundesarbeitsminister Alexander Schweitzer hat seinen Gesetzentwurf zur Rentenreform vorgelegt.",
+    "Die Union und Arbeitgeber kritisieren das Festhalten an der abschlagsfreien Frührente.",
+    "Gewerkschaften bewerten einige Punkte positiv, lehnen aber höhere Abschläge ab."
    ],
    "fakten": [
     [
-     "Seiten des Gesetzentwurfs",
-     "287"
+     "Aktueller Rentenbeitragssatz",
+     "18,6 Prozent"
     ],
     [
-     "Geplante Abschläge bei vorzeitigem Renteneintritt nach 35 Jahren",
-     "vier Komma acht Prozent"
+     "Befürchteter Beitragssatz nach Arbeitgeberangaben",
+     "22 Prozent"
     ],
     [
-     "Bisherige Abschläge",
-     "drei Komma sechs Prozent"
+     "Anteil der betroffenen Frührentner ohne Anspruch nach neuen Regeln",
+     "27 Prozent"
+    ],
+    [
+     "Erforderliche Beitragsjahre für die Frührente",
+     "45 Jahre"
     ]
    ],
    "dossier": {
     "slug": "rentenreform-2026",
-    "titel": "Rentenreform in Deutschland"
+    "titel": "Reform der gesetzlichen Rente in Deutschland"
    },
    "bildInfo": {
     "titel": "2014-02-20 - Alexander Schweitzer - Landesregierung Rheinland-Pfalz - 2676.jpg",
@@ -3464,145 +3293,798 @@
     "lat": 52.517,
     "lon": 13.395
    },
-   "version": 5,
-   "bildVersucht": true,
-   "ton": [
+   "version": 5
+  },
+  {
+   "id": "bsw-parteitag-afd-streit",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-28T12:45:30.000Z",
+   "titel": "Parteitag des Bündnisses Sahra Wagenknecht berät über den Kurs zur AfD",
+   "vorspann": "Das Bündnis Sahra Wagenknecht berät bei seinem Parteitag in Dresden über den zukünftigen Umgang mit der AfD. Dabei stehen eine mögliche sachbezogene Zusammenarbeit und innerparteiliche Konflikte im Mittelpunkt.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Das Bündnis Sahra Wagenknecht berät auf einem Parteitag in Dresden über den künftigen Kurs und den Umgang mit der AfD.",
+    "Parteichef Fabio de Masi und Gründerin Sahra Wagenknecht warben für eine sachbezogene Zusammenarbeit und parlamentarische Absprachen nach dem Vorbild des sogenannten Magdeburger Wegs in Sachsen-Anhalt.",
+    "Kritiker innerhalb der Partei, darunter Mitgründer Klaus Ernst, fordern hingegen eine klare Abgrenzung und warnen vor Austritten.",
+    "Eine formelle Koalition wird von der Parteispitze ausgeschlossen, während gemeinsame Sachanträge und schriftliche Vereinbarungen umstritten bleiben."
+   ],
+   "einig": [
+    [
+     "Das BSW hält eine formelle Koalition mit der AfD für ausgeschlossen.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "SWR Baden-Württemberg"
+     ]
+    ],
+    [
+     "Fabio de Masi warb beim Parteitag in Dresden für eine sachbezogene Zusammenarbeit.",
+     [
+      "Tagesschau/ARD",
+      "Spiegel",
+      "SWR Baden-Württemberg"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die Partei den Leitantrag der Führung unverändert annimmt oder den Antrag der Kritiker auf schärfere Abgrenzung beschließt, ist offen."
+   ],
+   "positionen": [
+    [
+     "Fabio de Masi (BSW-Chef)",
+     "Wirbt für sachbezogene Zusammenarbeit und parlamentarische Absprachen, schließt aber Koalitionen aus.",
+     "Tagesschau/ARD, Spiegel, SWR Baden-Württemberg"
+    ],
+    [
+     "Sahra Wagenknecht (BSW-Gründerin)",
+     "Plädiert für einen differenzierten Umgang und das Nutzen von Zeitfenstern für Verbesserungen.",
+     "Tagesschau/ARD, SWR Baden-Württemberg"
+    ],
+    [
+     "Klaus Ernst (BSW-Gründungsmitglied)",
+     "Fordert eine klare Abgrenzung und lehnt schriftliche Vereinbarungen sowie gemeinsame Projekte ab.",
+     "ZDFheute, Spiegel"
+    ]
+   ],
+   "fehlend": "Stimmen oder offizielle Stellungnahmen der AfD zu den Debatten auf dem BSW-Parteitag.",
+   "medien": [
     {
-     "k": "Bundesarbeitsminister Alexander Schweitzer hat einen neuen Gesetzentwurf zur Ren",
-     "d": "49a9230a0b.mp3",
-     "l": 59.38,
-     "s": [
-      0.25,
-      5.92,
-      13.98,
-      20.37,
-      27.07,
-      35.29,
-      42.39,
-      47.69,
-      54.17
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "28.11.26, 13:20",
+     "fokus": "Reden auf dem Parteitag",
+     "text": "Berichtet über die Aussagen von Fabio de Masi und Sahra Wagenknecht in Dresden sowie über die Hintergründe in Sachsen-Anhalt.",
+     "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 598,
+      "satzlaenge": 16,
+      "langeWoerter": 31
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "28.11.26, 11:27",
+     "fokus": "Interview mit Klaus Ernst",
+     "text": "Klaus Ernst fordert auf dem Parteitag eine klare Abgrenzung zur AfD und denkt über einen Austritt nach.",
+     "url": "https://www.zdfheute.de/politik/deutschland/bsw-klaus-ernst-afd-abgrenzung-parteitag-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "leicht",
+      "fuerWen": "kurze Sätze, wenig Fachwörter – gut zum Einstieg",
+      "klasse": 7,
+      "minuten": 3,
+      "woerter": 558,
+      "satzlaenge": 15,
+      "langeWoerter": 25
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "Spiegel",
+     "typ": "Nachrichtenmagazin",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "28.11.26, 13:27",
+     "fokus": "Details zum Magdeburger Weg",
+     "text": "Beleuchtet die parlamentarischen Vorgänge in Sachsen-Anhalt und zitiert aus den Reden des Parteitags.",
+     "url": "https://www.spiegel.de/politik/deutschland/bsw-und-afd-fabio-de-masi-wirbt-fuer-sachbezogene-zusammenarbeit-a-858dd2c9-8a00-41ef-925a-90558ed76c30#ref=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 8,
+      "minuten": 2,
+      "woerter": 460,
+      "satzlaenge": 18,
+      "langeWoerter": 27
+     },
+     "traeger": "SPIEGEL-Verlag Rudolf Augstein GmbH & Co. KG; die Mitarbeiter halten die Mehrheit",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "Zeit",
+     "typ": "Wochenzeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "28.11.26, 13:45",
+     "fokus": "–",
+     "text": "",
+     "url": "https://www.zeit.de/news/2026-11/28/bsw-parteitag-lehnt-schaerfere-abgrenzung-gegen-afd-ab",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Zeitverlag Gerd Bucerius, mehrheitlich DvH Medien (Dieter von Holtzbrinck)",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "SWR Baden-Württemberg",
+     "typ": "öffentlich-rechtlich (Region)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "28.11.26, 13:30",
+     "fokus": "Regionale Einordnung",
+     "text": "Übernimmt Meldungen zum Verlauf und den Streitpunkten des BSW-Parteitags.",
+     "url": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 598,
+      "satzlaenge": 16,
+      "langeWoerter": 31
+     },
+     "traeger": "Südwestrundfunk, ARD-Anstalt für Baden-Württemberg und Rheinland-Pfalz",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Fokus auf innerparteiliche Konflikte",
+     "ZDFheute legt einen Schwerpunkt auf das Interview mit Klaus Ernst und dessen persönliche Enttäuschung, während Tagesschau und Spiegel die Reden der Parteispitze in den Vordergrund stellen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Fabio de Masi, Sahra Wagenknecht, Klaus Ernst und Delegierte",
+    "was": "Debatte über die künftige Zusammenarbeit mit der AfD",
+    "wann": "An diesem Wochenende (28. November 2026)",
+    "wo": "Dresden",
+    "wie": "Auf einem Bundesparteitag mit Anträgen und Debatten",
+    "warum": "Wegen unterschiedlicher Auffassungen nach der Zusammenarbeit in Sachsen-Anhalt",
+    "quellenlage": "Öffentlich-rechtliche Medien und Nachrichtenmagazine"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Der Parteitag in Dresden",
+     "absaetze": [
+      "Das Bündnis Sahra Wagenknecht berät an diesem Wochenende in Dresden über seinen künftigen politischen Kurs. Im Mittelpunkt der Beratungen steht die Frage, wie die Partei künftig mit der AfD umgehen soll. Der Streit über diese Ausrichtung droht die Partei nach Angaben von Tagesschau/ARD und SWR Baden-Württemberg zu entzweien.",
+      "Mehrere Vorstandsmitglieder fordern eine klare Abgrenzung, während die Parteispitze für mehr Spielraum wirbt. Die Debatte findet vor dem Hintergrund früherer Entscheidungen auf Landesebene statt. Die Partei ringt um eine verbindliche Festlegung.",
+      "Das BSW wurde im Jahr 2024 gegründet. Nach Erfolgen bei der Europawahl und ostdeutschen Landtagswahlen scheiterte die Partei 2025 knapp an der Fünf-Prozent-Hürde bei der Bundestagswahl. Im September 2026 ging der Einzug in Berlin und Mecklenburg-Vorpommern verloren, während in Sachsen-Anhalt der Einzug ins Landesparlament gelang."
      ]
     },
     {
-     "k": "Bundesarbeitsminister Alexander Schweitzer hat einen Entwurf zur Rentenreform vo",
-     "d": "91c01cbe42.mp3",
-     "l": 17.47,
-     "s": [
-      0.25,
-      5.16,
-      11.06
+     "ueberschrift": "Positionen der Parteispitze",
+     "absaetze": [
+      "BSW-Chef Fabio de Masi sprach sich bei dem Parteitag für eine sachbezogene Zusammenarbeit aus. Wenn das BSW Unzufriedenheit abbauen wolle, müsse die Partei auch mit der AfD parlamentarische Absprachen führen, erklärte er laut Tagesschau/ARD und SWR Baden-Württemberg. Gleichzeitig betonte er laut Spiegel, dass man sich einig sei, dass es fundamentale Unterschiede zur AfD gebe.",
+      "Parteigründerin Sahra Wagenknecht warb in Dresden ebenfalls für einen differenzierten Umgang mit der AfD. Die AfD sei eine widersprüchliche Partei, sagte sie laut Tagesschau/ARD und SWR Baden-Württemberg. Mit pauschalen Urteilen mache man sich bei Wählern unglaubwürdig. Die AfD sei kein langfristiger strategischer Partner, aber man müsse Zeitfenster für konkrete Verbesserungen nutzen.",
+      "De Masi erklärte laut Spiegel weiter, dass die Politik der reinen Abgrenzung die AfD nur stärker gemacht habe. In Sachfragen wie Untersuchungsausschüssen oder gemeinsamen Anträgen müsse eine Zusammenarbeit möglich sein. Eine formelle Koalition schloss er aus, da die politischen Gemeinsamkeiten zu gering seien."
      ]
     },
     {
-     "k": "Arbeitsminister Alexander Schweitzer will die Rente reformieren. Die Rente nach ",
-     "d": "9fb514edb6.mp3",
-     "l": 22.44,
-     "s": [
-      0.25,
-      4.39,
-      9.42,
-      12.21,
-      16.27,
-      19.55
+     "ueberschrift": "Innerparteiliche Kritik",
+     "absaetze": [
+      "Die Annäherung an die AfD sorgt im BSW für Widerstand. Mehrere prominente Gründungsmitglieder forderten vor dem Parteitag eine Klarstellung. Laut Tagesschau/ARD und SWR Baden-Württemberg verlangten sie, dass das BSW nicht nur Koalitionen ausschließt, sondern auch eine Tolerierung, die Stützung einer AfD-geführten Regierung sowie auf Dauer angelegte Absprachen untersagt.",
+      "Zu den Kritikern gehört das Gründungsmitglied Klaus Ernst. Laut ZDFheute forderte er eine eindeutige Linie der Partei und äußerte die Erwartung, dass der Parteitag eine feste Abgrenzung beschließt. Ernst kritisierte, dass der Leitantrag der Führung kein Kompromiss sei, da mit den Antragstellern nie gesprochen worden sei. Er warnte vor einer Austrittswelle und erwog im ZDF-Interview auch persönlich einen Austritt.",
+      "Ernst begründete seine Bedenken damit, dass eine Zusammenarbeit die Partei in die Nähe der AfD rücke. Co-Parteichefin Amira Mohamed Ali erklärte laut ZDFheute dazu, dass man guten Anträgen unabhängig vom Absender zustimme."
      ]
     },
     {
-     "k": "Es ist unklar, ob und wann die Bundesregierung den Gesetzentwurf im Kabinett bes",
-     "d": "9d60847f8d.mp3",
-     "l": 11.76,
-     "s": [
-      0.25
-     ]
-    },
-    {
-     "k": "Was bedeutet eigentlich Gesetzentwurf? Ein Entwurf ist ein Vorschlag für ein neu",
-     "d": "85751c5d48.mp3",
-     "l": 8.67,
-     "s": [
-      0.25,
-      2.96
-     ]
-    },
-    {
-     "k": "Bundesarbeitsminister Alexander Schweitzer von der SPD hat einen Gesetzentwurf f",
-     "d": "f2d271d1fc.mp3",
-     "l": 57.44,
-     "s": [
-      0.25,
-      7.85,
-      14.65,
-      22.52,
-      33.43,
-      38.92,
-      46.97,
-      51.06
-     ]
-    },
-    {
-     "k": "Der Gesetzentwurf sieht Einschränkungen bei den Anrechnungszeiten für die 45 Bei",
-     "d": "a544ffea63.mp3",
-     "l": 57.86,
-     "s": [
-      0.25,
-      6.52,
-      14.93,
-      20.02,
-      25.06,
-      31.1,
-      41.6,
-      49.21
-     ]
-    },
-    {
-     "k": "Die Bundesregierung verhandelt über eine Neuausrichtung der Rentenversicherung. ",
-     "d": "da21632d58.mp3",
-     "l": 40.24,
-     "s": [
-      0.25,
-      4.69,
-      10.07,
-      19.29,
-      22.22,
-      26.66,
-      31.55
-     ]
-    },
-    {
-     "k": "Die gesetzliche Rentenversicherung in Deutschland funktioniert nach dem Umlageve",
-     "d": "4b40665a11.mp3",
-     "l": 19.92,
-     "s": [
-      0.25,
-      4.99,
-      11.88
-     ]
-    },
-    {
-     "k": "Aus den Gewerkschaften kamen gemischte Rückmeldungen. DGB-Chefin Yasmin Fahimi k",
-     "d": "287a8f3947.mp3",
-     "l": 46.31,
-     "s": [
-      0.25,
-      3.18,
-      14.47,
-      15.41,
-      21.89,
-      25.97,
-      31.95,
-      38.54
-     ]
-    },
-    {
-     "k": "Der Gesetzentwurf befindet sich nach Angaben des Spiegels in der Frühkoordinieru",
-     "d": "8a2dec6015.mp3",
-     "l": 17.64,
-     "s": [
-      0.25,
-      6.31,
-      12.82
+     "ueberschrift": "Hintergrund des Streits",
+     "absaetze": [
+      "Hintergrund der Debatte ist die Zusammenarbeit zwischen dem BSW und der AfD in Sachsen-Anhalt. Dieses Vorgehen wird innerhalb der Partei als Magdeburger Weg bezeichnet. Die AfD hatte dort die Landtagswahl im September mit deutlichem Abstand gewonnen. Der Verfassungsschutz stuft die AfD in diesem Bundesland als gesichert rechtsextrem ein, während sie bundesweit als rechtsextremer Verdachtsfall gilt, wie der Spiegel berichtet.",
+      "Das BSW ist in Sachsen-Anhalt keine Koalition eingegangen, hat jedoch mehrmals im Landtag mit der AfD kooperiert. Dazu gehört laut Spiegel die Unterstützung der Wahl von Tobias Rausch zum Landtagspräsidenten sowie das gemeinsame Stimmen für beitragsfreie Kitas, wie das ZDF anmerkt."
      ]
     }
-   ]
+   ],
+   "zeitleiste": [
+    [
+     "September 2026",
+     "Die AfD gewinnt die Landtagswahl in Sachsen-Anhalt, woraufhin es zu parlamentarischen Kooperationen mit dem BSW kommt."
+    ],
+    [
+     "28. November 2026",
+     "Der BSW-Bundesparteitag beginnt in Dresden mit Debatten über den Kurs zur AfD."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Sahra Wagenknecht politician",
+     "bildunterschrift": "Sahra Wagenknecht, Mitgründerin des BSW, plädiert auf dem Parteitag für einen differenzierten Umgang mit der AfD."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Fabio de Masi politician",
+     "bildunterschrift": "BSW-Chef Fabio de Masi warb auf dem Bundesparteitag in Dresden für eine sachbezogene Zusammenarbeit."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Klaus Ernst politician",
+     "bildunterschrift": "Gründungsmitglied Klaus Ernst forderte eine klare Abgrenzung zur AfD."
+    },
+    {
+     "art": "ort",
+     "suchbegriff": "Dresden skyline",
+     "bildunterschrift": "Die Stadt Dresden bildet den Austragungsort für den Parteitag."
+    }
+   ],
+   "ort": {
+    "name": "Dresden, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Spekulative oder unbestätigte Zusätze im Abschnitt 'Zum Verständnis' entfernt.",
+    "Formulierungen in den W-Fragen und im Text strikt an die Angaben der Originalberichte angepasst."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Koalition",
+      "Eine Koalition ist ein Bündnis von mindestens zwei Parteien, um gemeinsam eine Regierung zu bilden."
+     ],
+     [
+      "Parteitag",
+      "Ein Parteitag ist eine Versammlung von Mitgliedern oder Delegierten einer Partei, um über den politischen Kurs zu beraten."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente nennen Befürworter und Kritiker für oder gegen eine Zusammenarbeit mit der AfD?",
+     "Welche Folgen kann ein interner Streit für eine junge Partei wie das BSW haben?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wo findet der Bundesparteitag des BSW statt?",
+      "optionen": [
+       "Berlin",
+       "Dresden",
+       "Magdeburg"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut übereinstimmenden Berichten findet der Parteitag an diesem Wochenende in Dresden statt."
+     },
+     {
+      "frage": "Wie steht die Parteispitze des BSW zu einer formellen Koalition mit der AfD?",
+      "optionen": [
+       "Sie wird angestrebt",
+       "Sie wird ausgeschlossen",
+       "Sie ist bereits beschlossen"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut Tagesschau, Spiegel und SWR Baden-Württemberg scheint eine Koalition für das BSW weiterhin ausgeschlossen."
+     },
+     {
+      "frage": "Wer kritisierte den Kurs der Parteispitze und forderte eine klare Abgrenzung?",
+      "optionen": [
+       "Fabio de Masi",
+       "Sahra Wagenknecht",
+       "Klaus Ernst"
+      ],
+      "richtig": 2,
+      "erklaerung": "Laut ZDFheute und Spiegel fordert das Gründungsmitglied Klaus Ernst eine klare Abgrenzung zur AfD."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Die Partei Bündnis Sahra Wagenknecht streitet über den Umgang mit der AfD.",
+    "absaetze": [
+     "Das Bündnis Sahra Wagenknecht hält an diesem Wochenende einen Parteitag in Dresden ab.",
+     "Dort streiten die Mitglieder darüber, wie sie in Parlamenten mit der AfD zusammenarbeiten sollen.",
+     "Parteichef Fabio de Masi will in Sachfragen mit der AfD sprechen, weil man Unzufriedenheit abbauen müsse.",
+     "Kritiker wie das Gründungsmitglied Klaus Ernst fordern dagegen eine strenge Trennung von der AfD.",
+     "Eine feste Koalition schließt die Parteispitze jedoch für beide Seiten aus."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Das Bündnis Sahra Wagenknecht berät in Dresden über den künftigen Kurs zur AfD.",
+     "Parteichef Fabio de Masi schlägt eine sachbezogene Zusammenarbeit vor.",
+     "Kritiker fordern eine strikte Abgrenzung und warnen vor Austritten.",
+     "Eine formelle Koalition lehnen alle beteiligten Seiten ab."
+    ],
+    "lang": [
+     "Das Bündnis Sahra Wagenknecht hält an diesem Wochenende einen Bundesparteitag in Dresden ab.",
+     "Im Mittelpunkt steht dabei der Streit über den künftigen Umgang mit der AfD.",
+     "Nach Angaben der Tagesschau wirbt Parteichef Fabio de Masi für eine sachbezogene Zusammenarbeit.",
+     "Auch Parteigründerin Sahra Wagenknecht spricht sich für ein Nutzen von Zeitfenstern für Verbesserungen aus.",
+     "Als Hintergrund gilt die Zusammenarbeit beider Parteien in Sachsen-Anhalt.",
+     "Kritiker innerhalb der Partei wie das Gründungsmitglied Klaus Ernst fordern dagegen eine klare Abgrenzung.",
+     "Ernst warnt nach Angaben des ZDF vor einer Austrittswelle und denkt selbst über einen Austritt nach.",
+     "Eine formelle Koalition mit der AfD ist für das Bündnis nach übereinstimmenden Berichten ausgeschlossen.",
+     "Ob sich die Parteispitze mit ihrem Kurs durchsetzt, ist nach Angaben der Medien noch offen."
+    ],
+    "einfach": [
+     "Die Partei Bündnis Sahra Wagenknecht trifft sich zu einem Parteitag in Dresden.",
+     "Dabei geht es um die Frage der Zusammenarbeit mit der AfD.",
+     "Parteichef Fabio de Masi möchte in Sachfragen mit der AfD stimmen.",
+     "Kritiker wie Klaus Ernst finden das falsch und wollen eine klare Trennung.",
+     "Eine echte Koalition will die Partei mit der AfD aber nicht eingehen."
+    ]
+   },
+   "kurz": [
+    "Das Bündnis Sahra Wagenknecht berät auf einem Parteitag in Dresden über den Kurs zur AfD.",
+    "Die Parteispitze wirbt für eine sachbezogene Zusammenarbeit nach dem Vorbild in Sachsen-Anhalt.",
+    "Kritiker wie Klaus Ernst fordern eine klare Abgrenzung und drohen mit Parteiaustritten.",
+    "Eine formelle Koalition mit der AfD wird von der Parteispitze weiterhin ausgeschlossen."
+   ],
+   "fakten": [
+    [
+     "Wahlergebnis BSW Sachsen-Anhalt",
+     "5,3 Prozent"
+    ],
+    [
+     "Datum des Parteitags",
+     "Ende November 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "bsw-parteitag-afd",
+    "titel": "BSW-Parteitag und Kurs zur AfD"
+   },
+   "bildInfo": {
+    "titel": "2014-09-11 - Sahra Wagenknecht MdB - 8301.jpg",
+    "beschreibung": "Sahra Wagenknecht (* 16. Juli 1969 in Jena als Sarah Wagenknecht)[2] ist eine deutsche Politikerin der Partei Die Linke, promovierte Volkswirtin und Publizistin.",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg/1280px-2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg",
+    "urheber": "Sven Teschke",
+    "lizenz": "CC BY-SA 3.0 de",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "art": "person",
+    "suchbegriff": "Sahra Wagenknecht politician",
+    "bildunterschrift": "Die Politikerin Sahra Wagenknecht, deren Partei BSW über den Umgang mit der AfD berät.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2014-09-11 - Sahra Wagenknecht MdB - 8301.jpg",
+     "beschreibung": "Sahra Wagenknecht (* 16. Juli 1969 in Jena als Sarah Wagenknecht)[2] ist eine deutsche Politikerin der Partei Die Linke, promovierte Volkswirtin und Publizistin.",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg/1280px-2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2014-09-11_-_Sahra_Wagenknecht_MdB_-_8301.jpg",
+     "urheber": "Sven Teschke",
+     "lizenz": "CC BY-SA 3.0 de",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+     "art": "person",
+     "suchbegriff": "Sahra Wagenknecht politician",
+     "bildunterschrift": "Die Politikerin Sahra Wagenknecht, deren Partei BSW über den Umgang mit der AfD berät.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "2024-05-28-Fabio De Masi-Hart aber fair-5388.jpg",
+     "beschreibung": "Fabio De Masi in WDR-Show hart aber fair at 2024-05-28",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/2024-05-28-Fabio_De_Masi-Hart_aber_fair-5388.jpg/1280px-2024-05-28-Fabio_De_Masi-Hart_aber_fair-5388.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/2024-05-28-Fabio_De_Masi-Hart_aber_fair-5388.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-05-28-Fabio_De_Masi-Hart_aber_fair-5388.jpg",
+     "urheber": "Superbass",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Fabio De Masi",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Fabio de Masi politician",
+     "bildunterschrift": "Der Politiker Fabio de Masi in einer Fernsehsendung.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Klaus ernst 050825 08.jpg",
+     "beschreibung": "Klaus Ernst",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Klaus_ernst_050825_08.jpg/1280px-Klaus_ernst_050825_08.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Klaus_ernst_050825_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Klaus_ernst_050825_08.jpg",
+     "urheber": "Unknown author Unknown author",
+     "lizenz": "Attribution",
+     "lizenzUrl": "",
+     "art": "person",
+     "suchbegriff": "Klaus Ernst politician",
+     "bildunterschrift": "Der Politiker Klaus Ernst.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Dresden, Deutschland",
+    "lat": 51.049,
+    "lon": 13.738
+   },
+   "version": 5,
+   "bildVersucht": true
+  },
+  {
+   "id": "aerzte-ohne-grenzen-tote-gaza",
+   "rubrik": "Welt",
+   "zeit": "2026-11-28T12:22:00.000Z",
+   "titel": "Tötung von zwei Mitarbeitern von Ärzte ohne Grenzen im Gazastreifen",
+   "vorspann": "Bei einem Luftangriff im Gazastreifen sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden. Die Organisation und das israelische Militär machten dazu unterschiedliche Angaben.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "schwer",
+    "fuerWen": "lange Sätze und viele Fachwörter – Vorwissen hilft"
+   },
+   "zusammenfassung": [
+    "Zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen sind bei einem Angriff in Gaza-Stadt getötet worden.",
+    "Die Hilfsorganisation spricht von einem Angriff auf eine gekennzeichnete Klinik, während das israelische Militär erklärt, es habe sich um Hamas-Terroristen gehandelt.",
+    "Die Weltgesundheitsorganisation verurteilte Angriffe auf Gesundheitseinrichtungen.",
+    "Der Vorfall ereignet sich im Gaza-Krieg, in dem eine Waffenruhe gilt, die laut Berichten häufig verletzt wird."
+   ],
+   "einig": [
+    [
+     "Zwei Wachleute von Ärzte ohne Grenzen wurden bei einem Angriff in Gaza-Stadt getötet.",
+     [
+      "Tagesschau/ARD",
+      "BBC",
+      "taz"
+     ]
+    ],
+    [
+     "Ärzte ohne Grenzen zeigte sich erschüttert und empört über die Tötung der Kollegen.",
+     [
+      "Tagesschau/ARD",
+      "BBC",
+      "taz"
+     ]
+    ],
+    [
+     "Das israelische Militär erklärte, bei den getöteten Männern habe es sich um Hamas-Terroristen oder Operative gehandelt.",
+     [
+      "Tagesschau/ARD",
+      "BBC",
+      "taz"
+     ]
+    ],
+    [
+     "WHO-Chef Tedros Adhanom Ghebreyesus verurteilte Angriffe auf Gesundheitseinrichtungen als inakzeptabel.",
+     [
+      "BBC",
+      "taz"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob es sich bei den getöteten Wachleuten um Mitglieder der Hamas handelte oder um Zivilpersonen.",
+    "Ob der Angriff gezielt auf die Personen oder die medizinische Einrichtung gerichtet war."
+   ],
+   "positionen": [
+    [
+     "Ärzte ohne Grenzen (MSF)",
+     "Der Angriff galt einer deutlich gekennzeichneten Klinik und forderte das Leben von zwei Wachleuten; die Verantwortlichen müssen zur Rechenschaft gezogen werden.",
+     "Tagesschau/ARD, BBC, taz"
+    ],
+    [
+     "Israels Armee (IDF)",
+     "Die getöteten Männer waren Hamas-Terroristen, die sich als humanitäre Helfer ausgaben; der Angriff richtete sich nicht gegen ein Krankenhaus.",
+     "Tagesschau/ARD, BBC, taz"
+    ],
+    [
+     "Tedros Adhanom Ghebreyesus (WHO-Chef)",
+     "Angriffe auf Gesundheitseinrichtungen und medizinisches Personal im Gazastreifen sind empörend und inakzeptabel.",
+     "BBC, taz"
+    ]
+   ],
+   "fehlend": "Stimmen der Hamas-Führung zu diesem konkreten Vorfall.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "28.11.26, 10:58",
+     "fokus": "Überblick und israelische Vorwürfe",
+     "text": "Der Bericht beleuchtet sowohl die Position der Hilfsorganisation als auch die Vorwürfe des israelischen Militärs bezüglich vermeintlicher Hamas-Tarnungen.",
+     "url": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 346,
+      "satzlaenge": 15,
+      "langeWoerter": 36
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "28.11.26, 04:48",
+     "fokus": "–",
+     "text": "Israels Armee spricht von Angriff auf Terroristen der islamistischen Hamas.",
+     "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-aerzte-ohne-grenzen-mitarbeiter-in-gaza-getoetet-israel-spricht-von-terroristen-faz-200583539.html",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "BBC",
+     "typ": "öffentlich-rechtlich (Großbritannien)",
+     "art": "internationaler Sender",
+     "stamm": true,
+     "datum": "28.11.26, 11:34",
+     "fokus": "Augenzeugenberichte und Details",
+     "text": "Die BBC liefert zusätzliche Details von Augenzeugen, namentliche Nennungen der Getöteten sowie Angaben des Zivilschutzes.",
+     "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 708,
+      "satzlaenge": 30,
+      "langeWoerter": 24
+     },
+     "traeger": "British Broadcasting Corporation, Großbritannien",
+     "finanzierung": "Rundfunkgebühr (Licence Fee)",
+     "publikumWert": null
+    },
+    {
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "28.11.26, 13:22",
+     "fokus": "Reaktionen und Opferzahlen",
+     "text": "Die taz konzentriert sich auf die Erklärung von Ärzte ohne Grenzen, die WHO-Reaktion und die Opferbilanzen seit Beginn der Waffenruhe.",
+     "url": "https://taz.de/Aerzte-ohne-Grenzen-im-Gazastreifen/!6234031/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 12,
+      "minuten": 2,
+      "woerter": 466,
+      "satzlaenge": 16,
+      "langeWoerter": 39
+     },
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
+     "publikumWert": null
+    },
+    {
+     "name": "SRF",
+     "typ": "öffentlich-rechtlich (Schweiz)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "28.11.26, 02:31",
+     "fokus": "–",
+     "text": "Zwei Mitarbeiter der Hilfsorganisation Ärzte ohne Grenzen wurden bei einem Angriff der israelischen Armee getötet.",
+     "url": "https://www.srf.ch/news/international/nahost/krieg-im-nahen-osten-aerzte-ohne-grenzen-mitarbeiter-bei-israelischem-angriff-getoetet",
+     "video": false,
+     "lesbar": null,
+     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
+     "finanzierung": "Rundfunkabgabe",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Namentliche Nennung der Opfer",
+     "Die BBC nennt die beiden getöteten Männer namentlich, während andere Berichte sie nur allgemein als Wachleute beschreiben."
+    ],
+    [
+     "Augenzeugen und visuelle Details",
+     "Die BBC schildert konkrete Beobachtungen von Augenzeugen vor Ort sowie Spuren an der Klinik, die in den anderen Texten nicht vorkommen."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Zwei Wachleute von Ärzte ohne Grenzen",
+    "was": "Getötete Mitarbeiter bei Angriff",
+    "wann": "28.11.2026",
+    "wo": "Gazastreifen, Gaza-Stadt",
+    "wie": "Durch einen Luftangriff",
+    "warum": "Konflikt im Gazastreifen, laut israelischem Militär handelte es sich um Terroristen",
+    "quellenlage": "Meldungen von Hilfsorganisationen, israelischem Militär und Medien"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Bei einem Angriff im Gazastreifen sind zwei Mitarbeiter der Hilfsorganisation Ärzte ohne Grenzen getötet worden. Die Organisation bestätigte den Tod von zwei Wachleuten bei einem Vorfall in Gaza-Stadt. Die betroffene Einrichtung ist laut Angaben der Hilfsorganisation eine Klinik. Nach Darstellung der Organisation war der Standort dem Militär bekannt. Die Gebäude trugen demnach deutliche Kennzeichnungen mit Logos der Organisation.",
+      "Die israelische Armee erklärte zu dem Vorfall, es habe sich bei den getöteten Männern um Hamas-Terroristen gehandelt. Laut Angaben des Militärs hätten sich diese als humanitäre Helfer ausgegeben. Einer der Männer wurde von der Armee als Kommandeur im militärischen Flügel der Hamas bezeichnet. Das Militär betonte, dass der Angriff nicht auf ein Krankenhaus gezielt habe. Die medizinische Infrastruktur in dem Gebiet sei durch den Einsatz nicht beschädigt worden.",
+      "Augenzeugen berichteten laut Angaben der BBC, dass die beiden Männer vor dem Eingang der Klinik saßen. Ein israelisches Drohnenflugzeug habe sich demnach genähert und eine Rakete abgefeuert. Videomaterial zeigte laut BBC einen kleinen Krater neben einem Plastikstuhl sowie Blutspuren am Ort des Geschehens. Später fand eine Bestattung statt, bei der Hunderte Menschen die in weiße Plastikstoffe gehüllten Körper trugen."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten",
+     "absaetze": [
+      "Die Hilfsorganisation Ärzte ohne Grenzen erklärte auf der Plattform X, sie sei zutiefst erschüttert und empört über die Tötung. Laut Angaben der Organisation erhöht sich die Gesamtzahl ihrer im Gaza-Krieg getöteten Mitarbeitenden damit auf 17 Personen. Die Organisation forderte, die Verantwortlichen für den Angriff zur Rechenschaft zu ziehen. Auf den Vorwurf des israelischen Militärs, es habe sich um Terroristen gehandelt, ging die Organisation in ihrer ersten Stellungnahme laut Tagesschau und ARD zunächst nicht ein.",
+      "Das israelische Militär nannte die Namen der beiden getöteten Männer als Ahmed Sufyan Muhammad Ali Abu Hasira und Moaz Yousef Alitsbach, wie die BBC berichtet. Die Armee erklärte ferner, die Männer hätten Angriffe gegen israelische Zivilisten und Soldaten vorbereitet. Vor dem Luftangriff seien laut Militärangaben Maßnahmen getroffen worden, um den Schaden für Zivilisten so weit wie möglich zu minimieren.",
+      "Ein enger Freund eines der getöteten Männer äußerte sich gegenüber der BBC zu dem Vorfall. Er beschrieb den Getöteten als friedlichen Menschen, dessen Sorge seiner Familie gegolten habe. Der Bekannte erklärte laut BBC, der Getötete sei mit keiner bewaffneten Gruppe verbunden gewesen und habe lange an der Klinik gearbeitet. Nach Angaben des Gaza-Zivilschutzes wurden an dem Tag insgesamt acht Palästinenser bei israelischen Angriffen im gesamten Streifen getötet."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund",
+     "absaetze": [
+      "Der Gaza-Krieg wurde durch einen Großangriff der im Gazastreifen regierenden Hamas auf Israel am 7. Oktober 2023 ausgelöst. Bei diesem Überfall wurden nach Angaben von taz und BBC 1.200 beziehungsweise 1.221 Menschen getötet und 251 Personen als Geiseln verschleppt. Israel reagierte darauf mit einem massiven Militäreinsatz im Gazastreifen. Nach Angaben des von der Hamas kontrollierten Gesundheitsministeriums wurden dabei mehr als 74.500 beziehungsweise 74.770 Menschen getötet.",
+      "Seit Oktober 2025 gilt im Gazastreifen eigentlich eine Waffenruhe, die durch Vermittlung der Vereinigten Staaten zustande kam. Israel und die Hamas werfen sich jedoch regelmäßig gegenseitig Verstöße gegen diese Vereinbarung vor. Seit dem Inkrafttreten der Waffenruhe wurden nach Zählungen auf Grundlage des Gesundheitsministeriums mehr als 1.650 Palästinenser getötet. Die israelische Armee meldete für denselben Zeitraum den Tod von sieben Soldaten und einem zivilen Vertragsmitarbeiter.",
+      "Israel wirft der Hamas laut den Berichten regelmäßig vor, sich als humanitäre Helfer auszugeben und sich in Gesundheitseinrichtungen zu verschanzen. Kritiker werfen Israel wiederum vor, internationale Normen zu missachten und Einrichtungen des Gesundheitswesens gezielt anzugreifen. Zum Jahresstart hatte Israel zudem 37 internationalen Organisationen die Lizenz entzogen."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Ärzte ohne Grenzen ist eine internationale medizinische Hilfsorganisation, die in Krisen- und Kriegsgebieten medizinische Nothilfe leistet. Die Organisation beschäftigt medizinisches Personal und Unterstützungskräfte wie Wachleute, um den Betrieb von Kliniken und Behandlungszentren abzusichern.",
+      "Nach dem internationalen humanitären Völkerrecht genießen medizinische Einrichtungen und Hilfspersonal einen besonderen Schutzstatus in Konflikten. Angriffe auf solche ausdrücklich geschützten Infrastrukturen sind unter bestimmten Bedingungen völkerrechtlich untersagt."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Die Hilfsorganisation Ärzte ohne Grenzen zeigte sich empört und forderte Aufklärung sowie Bestrafung der Verantwortlichen, wie Tagesschau und ARD, die taz und die BBC berichten. Die Organisation betonte, die Klinik sei klar als solche gekennzeichnet gewesen.",
+      "Das israelische Militär erklärte über die Plattform Telegram und die Plattform X, dass es sich bei den getöteten Personen um Hamas-Mitglieder gehandelt habe, die als Wachleute getarnt waren, wie Tagesschau und ARD, die taz und die BBC berichten. Das Militär betonte zudem, keine medizinische Infrastruktur beschädigt zu haben.",
+      "Der Chef der Weltgesundheitsorganisation, Tedros Adhanom Ghebreyesus, verurteilte den Vorfall scharf. Auf der Plattform X schrieb er laut der BBC und der taz, dass Angriffe auf Gesundheitseinrichtungen und humanitäres Personal in Gaza inakzeptabel seien."
+     ]
+    },
+    {
+     "ueberschrift": "Wie geht es weiter?",
+     "absaetze": [
+      "Die Berichte enthalten keine konkreten Ankündigungen über künftige Schritte der beteiligten Parteien im Zusammenhang mit diesem spezifischen Vorfall, abgesehen von Forderungen nach juristischer Aufarbeitung.",
+      "Die Vereinten Nationen und Partnerorganisationen forderten Israel auf, den Einlass von Hilfsgütern für den Winter zu ermöglichen."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "7. Oktober 2023",
+     "Ein Großangriff der Hamas auf Israel löst den Gaza-Krieg aus."
+    ],
+    [
+     "Oktober 2025",
+     "Eine durch die Vereinigten Staaten vermittelte Waffenruhe tritt im Gazastreifen in Kraft."
+    ],
+    [
+     "28. November 2026",
+     "Zwei Mitarbeiter von Ärzte ohne Grenzen werden bei einem Angriff in Gaza-Stadt getötet."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "keins",
+     "suchbegriff": "keins",
+     "bildunterschrift": "Es wird kein Bild angezeigt, da der Artikel ein Gewaltverbrechen mit getöteten Personen behandelt."
+    }
+   ],
+   "ort": {
+    "name": "Gaza-Stadt, Palästinensische Gebiete"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Fakten und Aussagen streng nach den Originalberichten geprüft und angepasst."
+   ],
+   "wortwarnung": [
+    "massiven"
+   ],
+   "lernen": {
+    "begriffe": [
+     [
+      "Ärzte ohne Grenzen",
+      "Eine internationale Organisation, die in Krisengebieten medizinische Hilfe leistet."
+     ],
+     [
+      "Völkerrecht",
+      "Regeln für das Zusammenleben von Staaten, die auch in Kriegen gelten sollen."
+     ],
+     [
+      "Waffenruhe",
+      "Eine Vereinbarung zwischen Konfliktparteien, für eine bestimmte Zeit nicht zu kämpfen."
+     ]
+    ],
+    "fragen": [
+     "Welche Probleme entstehen, wenn Angaben von Hilfsorganisationen und Militärs sich widersprechen?",
+     "Welche Bedeutung hat das Völkerrecht für den Schutz von Krankenhäusern in Kriegen?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wer wurde bei dem Angriff in Gaza-Stadt getötet?",
+      "optionen": [
+       "Zwei Wachleute von Ärzte ohne Grenzen",
+       "Zwei Soldaten der israelischen Armee",
+       "Zwei Mitglieder der Weltgesundheitsorganisation"
+      ],
+      "richtig": 0,
+      "erklaerung": "Laut übereinstimmenden Berichten von Tagesschau/ARD, BBC und taz wurden zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Bei einem Luftangriff in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen gestorben.",
+    "absaetze": [
+     "Die Hilfsorganisation Ärzte ohne Grenzen teilte mit, dass eine ihrer Kliniken getroffen wurde.",
+     "Das israelische Militär erklärte dagegen, dass es sich bei den getöteten Männern um Terroristen der Organisation Hamas handelte.",
+     "Ärzte ohne Grenzen zeigte sich empört über die Tötung der beiden Kollegen und forderte Aufklärung.",
+     "Die Weltgesundheitsorganisation verurteilte den Angriff und betonte, dass medizinisches Personal geschützt werden muss."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Bei einem Angriff in Gaza-Stadt starben zwei Wachleute der Organisation Ärzte ohne Grenzen.",
+     "Das israelische Militär erklärte, die Männer seien Hamas-Terroristen gewesen.",
+     "Die Organisation Ärzte ohne Grenzen forderte Aufklärung über den Vorfall."
+    ],
+    "lang": [
+     "Bei einem Luftangriff in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden.",
+     "Der Vorfall ereignete sich am achtundzwanzigsten November des Jahres zweitausendsechsundzwanzig.",
+     "Nach Angaben der Organisation handelte es sich um eine deutlich gekennzeichnete Klinik.",
+     "Die Hilfsorganisation erklärte, sie sei zutiefst erschüttert und empört über die Tötung ihrer Kollegen.",
+     "Nach Angaben des israelischen Militärs waren die beiden getöteten Männer jedoch Hamas-Terroristen.",
+     "Die Armee erklärte weiter, dass der Angriff nicht auf ein Krankenhaus gezielt habe.",
+     "Der Chef der Weltgesundheitsorganisation, Tedros Adhanom Ghebreyesus, nannte Angriffe auf Gesundheitseinrichtungen inakzeptabel.",
+     "Der Vorfall geschieht vor dem Hintergrund des Gaza-Krieges und einer seit Oktober zweitausendfünfundzwanzig geltenden Waffenruhe.",
+     "Die Angaben beider Seiten konnten zunächst nicht unabhängig überprüft werden.",
+     "Bisher gibt es keine Angaben darüber, wie die beteiligten Parteien weiter vorgehen werden."
+    ],
+    "einfach": [
+     "In Gaza-Stadt starben zwei Wachleute der Organisation Ärzte ohne Grenzen.",
+     "Die Organisation sagte, eine ihrer Kliniken wurde angegriffen.",
+     "Das israelische Militär erklärte, die Männer waren Terroristen.",
+     "Die Hilfsorganisation forderte Aufklärung über den Angriff.",
+     "Die Weltgesundheitsorganisation verurteilte die Tat scharf.",
+     "Menschen in medizinischen Berufen sollen im Krieg geschützt werden."
+    ]
+   },
+   "kurz": [
+    "Bei einem Luftangriff in Gaza-Stadt sind zwei Wachleute der Hilfsorganisation Ärzte ohne Grenzen getötet worden.",
+    "Die Organisation fordert Aufklärung, während das israelische Militär erklärt, die Getöteten seien Hamas-Terroristen gewesen.",
+    "Die Weltgesundheitsorganisation verurteilte den Angriff scharf und betonte den Schutz von medizinischem Personal."
+   ],
+   "fakten": [
+    [
+     "Getötete Mitarbeiter",
+     "17"
+    ],
+    [
+     "Getötete Geiseln am 7. Oktober 2023",
+     "251"
+    ],
+    [
+     "Datum des Angriffs",
+     "28. November 2026"
+    ]
+   ],
+   "dossier": {
+    "slug": "gaza-konflikt-aerzte-ohne-grenzen",
+    "titel": "Angriff auf Klinik im Gazastreifen"
+   },
+   "bildInfos": [],
+   "version": 5
   },
   {
    "id": "eu-sondergipfel-haushalt-gescheitert",
@@ -4087,6 +4569,464 @@
      ]
     }
    ]
+  },
+  {
+   "id": "bundeshaushalt-2027-beschluss",
+   "rubrik": "Deutschland",
+   "zeit": "2026-11-27T18:39:09.000Z",
+   "aktualisiert": "aktualisiert um 13:54 Uhr",
+   "titel": "Bundestag beschließt Bundeshaushalt für das Jahr 2027 mit hoher Neuverschuldung",
+   "vorspann": "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro verabschiedet. Das Parlament stimmte zudem über das Haushaltsbegleitgesetz und die Aufnahme neuer Kredite ab.",
+   "eil": false,
+   "verstaendlich": {
+    "stufe": "mittel",
+    "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar"
+   },
+   "zusammenfassung": [
+    "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 in namentlicher Abstimmung mit 317 zu 260 Stimmen beschlossen.",
+    "Das Volumen des Kernhaushalts beläuft sich auf rund 556 Milliarden Euro, wobei die Nettokreditaufnahme ansteigt.",
+    "Zu den Schwerpunkten des Etats zählen der Sozialetat sowie die Verteidigungsausgaben.",
+    "Das Parlament verabschiedete begleitend eine Absenkung der Stromsteuer für alle Verbraucher sowie diverse weitere gesetzliche Änderungen."
+   ],
+   "einig": [
+    [
+     "Der Bundestag hat den Haushalt für 2027 in namentlicher Abstimmung mit 317 Ja- und 260 Nein-Stimmen beschlossen.",
+     [
+      "ZDFheute",
+      "taz"
+     ]
+    ],
+    [
+     "Das Ausgabevolumen des Bundeshaushalts 2027 liegt bei rund 556 Milliarden Euro.",
+     [
+      "Tagesschau/ARD",
+      "ZDFheute",
+      "taz",
+      "SRF"
+     ]
+    ],
+    [
+     "Finanzminister Lars Klingbeil warnte vor schwierigeren Haushaltsberatungen im kommenden Jahr 2028.",
+     [
+      "ZDFheute",
+      "taz",
+      "SRF"
+     ]
+    ]
+   ],
+   "unklar": [
+    "Ob die geplante Einkommensteuerreform trotz anhaltender Streitigkeiten zwischen Union und SPD zeitnah beschlossen wird, ist laut ZDFheute und taz noch offen."
+   ],
+   "positionen": [
+    [
+     "Lars Klingbeil (Bundesfinanzminister, SPD)",
+     "Verteidigt die hohe Neuverschuldung für Investitionen und Verteidigung und fordert privates Wachstum sowie Einsparungen für 2028.",
+     "ZDFheute,taz,SRF"
+    ],
+    [
+     "Ines Schwerdtner (Vorsitzende der Linken)",
+     "Kritisiert, dass die Regierung den Fokus auf Kriege lege und die alltäglichen finanziellen Sorgen der Bürger ignoriere.",
+     "ZDFheute,taz"
+    ],
+    [
+     "Gabriel Felbermayr (Wirtschaftsweiser / Ökonom)",
+     "Kritisiert das kurzfristige Stopfen von Haushaltslücken und das Fehlen einer langfristigen Perspektive.",
+     "ZDFheute"
+    ]
+   ],
+   "fehlend": "Reaktionen weiterer Oppositionsparteien wie der AfD oder des BSW sowie Stimmen aus Wirtschaftsverbänden und Gewerkschaften zur Steuerreform.",
+   "medien": [
+    {
+     "name": "Tagesschau/ARD",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 14:55",
+     "fokus": "Detaillierte Etat-Übersicht der Ressorts",
+     "text": "Die Tagesschau liefert eine umfangreiche Aufstellung aller Ministerien und deren genaue Haushaltszahlen für 2027.",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 11,
+      "minuten": 5,
+      "woerter": 973,
+      "satzlaenge": 12,
+      "langeWoerter": 38
+     },
+     "traeger": "ARD – Gemeinschaft der Landesrundfunkanstalten",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.73
+    },
+    {
+     "name": "ZDFheute",
+     "typ": "öffentlich-rechtlich",
+     "art": "öffentlich-rechtlich",
+     "stamm": true,
+     "datum": "27.11.26, 17:23",
+     "fokus": "Gesamtsummen und Expertenkritik",
+     "text": "ZDFheute beleuchtet neben den Ausgabensummen auch die Kritik von Wirtschaftsexperten an der hohen Neuverschuldung.",
+     "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 4,
+      "woerter": 725,
+      "satzlaenge": 15,
+      "langeWoerter": 34
+     },
+     "traeger": "ZDF, Anstalt des öffentlichen Rechts",
+     "finanzierung": "Rundfunkbeitrag",
+     "publikumWert": 3.66
+    },
+    {
+     "name": "FAZ",
+     "typ": "Tageszeitung",
+     "art": "privates Medium",
+     "stamm": true,
+     "datum": "27.11.26, 16:34",
+     "fokus": "–",
+     "text": "Das Haushaltsbegleitgesetz senkt die Stromsteuer für alle Verbraucher auf das europäische Mindestniveau.",
+     "url": "https://www.faz.net/video/bundestag-verabschiedet-haushalt-2027-mit-555-9-milliarden-euro-201724554.html",
+     "video": true,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 1,
+      "woerter": 69,
+      "satzlaenge": 9,
+      "langeWoerter": 39
+     },
+     "traeger": "Frankfurter Allgemeine Zeitung GmbH, Gesellschafterin ist die FAZIT-Stiftung",
+     "finanzierung": "Abos und Werbung",
+     "publikumWert": null
+    },
+    {
+     "name": "taz",
+     "typ": "Tageszeitung (Genossenschaft)",
+     "art": "privates Medium",
+     "stamm": false,
+     "datum": "27.11.26, 16:13",
+     "fokus": "Koalitionsstreit und Sondertöpfe",
+     "text": "Die taz legt den Schwerpunkt auf das Ringen in der Koalition um die Stromsteuer und die Details der Kredittöpfe.",
+     "url": "https://taz.de/Hoechststand-bei-Verteidigungsausgaben/!6233979/",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 9,
+      "minuten": 3,
+      "woerter": 647,
+      "satzlaenge": 17,
+      "langeWoerter": 33
+     },
+     "traeger": "taz Verlags- und Vertriebs GmbH, getragen von der Genossenschaft taz eG (rund 23.000 Mitglieder)",
+     "finanzierung": "Genossenschaft, Abos, freiwillige Zahlungen",
+     "publikumWert": null
+    },
+    {
+     "name": "SRF",
+     "typ": "öffentlich-rechtlich (Schweiz)",
+     "art": "öffentlich-rechtlich",
+     "stamm": false,
+     "datum": "27.11.26, 19:39",
+     "fokus": "Finanzlücken für 2028",
+     "text": "SRF betont besonders die Herausforderungen für den kommenden Bundeshaushalt 2028.",
+     "url": "https://www.srf.ch/news/international/budgetdebatte-in-deutschland-deutscher-bundestag-beschliesst-haushalt-fuer-2027",
+     "video": false,
+     "lesbar": {
+      "stufe": "mittel",
+      "fuerWen": "normale Nachrichtensprache – ab etwa Klasse 9 gut lesbar",
+      "klasse": 10,
+      "minuten": 2,
+      "woerter": 358,
+      "satzlaenge": 14,
+      "langeWoerter": 37
+     },
+     "traeger": "Schweizer Radio und Fernsehen, Teil der SRG SSR",
+     "finanzierung": "Rundfunkabgabe",
+     "publikumWert": null
+    }
+   ],
+   "unterschiede": [
+    [
+     "Zahlenangaben",
+     "Die Tagesschau nennt präzise 555,9 Milliarden Euro, während andere Berichte den Betrag auf 556 Milliarden Euro runden."
+    ]
+   ],
+   "wfragen": {
+    "wer": "Der Deutsche Bundestag",
+    "was": "Beschluss des Bundeshaushalts für 2027",
+    "wann": "2026-11-27",
+    "wo": "Berlin, Deutschland",
+    "wie": "In namentlicher Abstimmung mit 317 zu 260 Stimmen",
+    "warum": "Zur Finanzierung staatlicher Aufgaben, Investitionen und Verteidigung, laut Koalition",
+    "quellenlage": "Tagesschau/ARD, ZDFheute, FAZ, taz, SRF"
+   },
+   "artikel": [
+    {
+     "ueberschrift": "Das ist passiert",
+     "absaetze": [
+      "Der Deutsche Bundestag hat den Bundeshaushalt für das kommende Jahr 2027 in einer namentlichen Abstimmung beschlossen. Dafür stimmten 317 Abgeordnete, während 260 Abgeordnete mit Nein votierten, wie unter anderem ZDFheute und die taz berichten. Enthaltungen gab es bei der Abstimmung keine. Mit diesem Beschluss können die Ministerien ab Januar mit den zugewiesenen Finanzmitteln arbeiten.",
+      "Insgesamt sind im Kernhaushalt Ausgaben in Höhe von 555,9 Milliarden Euro vorgesehen, was laut Tagesschau und SRF rund sechs Prozent beziehungsweise 31,4 Milliarden Euro mehr als im Vorjahr entspricht. Der Bund verfügt damit nach Angaben der Quellen über so viel Geld wie noch nie zuvor in einem Jahr. Die Nettokreditaufnahme im Kernhaushalt erhöht sich von 98 auf 123 Milliarden Euro.",
+      "Einschließlich der beiden Sondervermögen für Infrastruktur und Bundeswehr summiert sich die Neuverschuldung des Bundes nach übereinstimmenden Berichten auf mehr als 210 Milliarden Euro. Laut SRF wurde eine derart hohe Neuverschuldung in Deutschland bisher nur im Corona-Jahr 2021 mit 215,4 Milliarden Euro übertroffen. Jeder dritte Euro im Haushalt 2027 ist demnach schuldenfinanziert."
+     ]
+    },
+    {
+     "ueberschrift": "Die Einzelheiten des Haushalts",
+     "absaetze": [
+      "Die Etats der einzelnen Bundesministerien fallen sehr unterschiedlich aus, wobei das Arbeitsministerium mit über einem Drittel den größten Anteil beansprucht. Laut Tagesschau stehen Arbeitsminister Alexander Schweitzer rund 203,3 Milliarden Euro zur Verfügung, was etwa 36,2 Prozent des Gesamthaushalts ausmacht. Das Verteidigungsministerium verzeichnet ebenfalls einen starken Anstieg der Mittel. Im regulären Wehretat sind 109,7 Milliarden Euro eingeplant, während Minister Boris Pistorius über das Sondervermögen Bundeswehr weitere 29,9 Milliarden Euro einsetzen kann.",
+      "Die gesamten Verteidigungsausgaben steigen damit auf fast 140 Milliarden Euro, was laut Berichten den höchsten Stand seit Ende des Kalten Krieges darstellt. Darin enthalten sind auch zwölf Milliarden Euro zur Unterstützung der von Russland angegriffenen Ukraine, wie ZDFheute und taz aufführen. Demgegenüber müssen andere Ressorts wie das Gesundheitsministerium und das Bildungsministerium Kürzungen hinnehmen.",
+      "Der Gesundheitsetat von Minister Carsten Linnemann sinkt von 21,77 Milliarden auf 15,12 Milliarden Euro, da der Bund den Etat kürzt. Das Bildungsministerium von Ministerin Karin Prien erhält 15,93 Milliarden Euro nach 16,66 Milliarden Euro im Vorjahr. Das Verkehrsministerium unter Steffen Bilger erhält 25,35 Milliarden Euro, während das Innenministerium von Alexander Dobrindt über 16,81 Milliarden Euro verfügen kann."
+     ]
+    },
+    {
+     "ueberschrift": "Das Haushaltsbegleitgesetz",
+     "absaetze": [
+      "Neben dem eigentlichen Haushaltsgesetz verabschiedete der Bundestag auch ein dazugehöriges Begleitgesetz. Dieses enthält laut SRF und ZDFheute die Absenkung der Stromsteuer für alle Verbraucher auf das in der EU zulässige Minimum zu Beginn des Jahres 2027. Diese Maßnahme war zuvor ein Streitthema in der Koalition, bei dem Kanzler Friedrich Merz auf eine Umsetzung für alle Verbraucher und Unternehmen pochte, was den Bund rund fünf Milliarden Euro kostet.",
+      "Im Begleitgesetz sind zudem das Einfrieren der Regelsätze in der Grundsicherung bis Mitte 2028 sowie eine Kürzung des Bundeszuschusses zur Rentenversicherung um drei Milliarden Euro für 2027 verankert. Ebenfalls beschlossen wurden Steuererhöhungen auf Spirituosen ab Anfang 2027 sowie die Einführung einer Steuer auf zuckerhaltige Getränke zum 1. Januar 2028. Der Beginn der Tilgung für die Kredite des Sondervermögens Bundeswehr wird zudem auf das Jahr 2033 verschoben.",
+      "Die Koalitionsfraktionen kassierten im Laufe der Beratungen von der Regierung ursprünglich geplante Kürzungen beim Wohngeld und anderen Sozialleistungen wieder ein. Die Verabschiedung einer vereinbarten Einkommensteuerreform zur Entlastung von kleinen und mittleren Einkommen sowie Familien blieb jedoch wegen Streitigkeiten zwischen Union und SPD vorerst aus."
+     ]
+    },
+    {
+     "ueberschrift": "Hintergrund und Vorgeschichte",
+     "absaetze": [
+      "Die Aufstellung des Bundeshaushalts für 2027 war von langwierigen Verhandlungen innerhalb der Koalition geprägt. Die Union hatte nach den Festlegungen des Haushaltsausschusses auf die Stromsteuersenkung bestanden, was zu einem langen Gezerre führte. Bundeskanzler Friedrich Merz räumte laut taz ein, dass der Prozess keinen Schönheitspreis verdient habe.",
+      "Die Verteidigungsausgaben sind seit dem Jahr 2022 deutlich gestiegen, nachdem der Bundestag damals ein Sondervermögen Bundeswehr über 100 Milliarden Euro beschlossen hatte. Vor der Bildung der neuen Regierung hatte das Parlament zudem beschlossen, die Verteidigungsausgaben von den Beschränkungen der Schuldenbremse zu befreien. Die beiden zusätzlichen Sondertöpfe für Infrastruktur und Klimaschutz sowie für die Bundeswehr sind mit Krediten in Höhe von 57,8 Milliarden beziehungsweise 29,6 Milliarden Euro gefüllt, wie die taz ausführt."
+     ]
+    },
+    {
+     "ueberschrift": "Zum Verständnis",
+     "absaetze": [
+      "Der Bundeshaushalt ist der von der Bundesregierung aufgestellte und vom Bundestag beschlossene Finanzplan für ein Kalenderjahr. Er legt fest, wie viel Geld der Staat einnimmt und wofür die Ministerien es ausgeben dürfen. Der Kernhaushalt umfasst die regulären Einnahmen und Ausgaben, während zusätzliche Kredite oder Sondervermögen separat verwaltet werden.",
+      "Die Schuldenbremse ist eine im Grundgesetz verankerte Regel, die die Neuverschuldung von Bund und Ländern grundsätzlich begrenzt, um eine nachhaltige Finanzpolitik zu sichern."
+     ]
+    },
+    {
+     "ueberschrift": "Reaktionen",
+     "absaetze": [
+      "Finanzminister Lars Klingbeil (SPD) verteidigte die hohe Neuverschuldung im Parlament und erklärte laut ZDFheute und taz, dass die Mittel vor allem für Verteidigung und Investitionen eingesetzt würden. 2027 müsse das Jahr der privaten Investitionen werden. Gleichzeitig wies Klingbeil auf einen noch herausfordernderen Haushalt für 2028 hin und erklärte, dass der Bevölkerung einiges zugemutet werden müsse, wobei die Gerechtigkeit gewahrt bleiben solle.",
+      "Kritik kam von der Opposition. Linke-Chefin Ines Schwerdtner kritisierte laut ZDFheute und taz, dass die Regierung vom Ernstfall und Krieg rede, während für Millionen Menschen der monatliche Mangel an Geld der eigentliche Ernstfall sei. Auch von wirtschaftswissenschaftlicher Seite gab es Einwände; der Wirtschaftsweisen Gabriel Felbermayr kritisierte laut ZDFheute das kurzfristige Stopfen von Haushaltslücken ohne langfristige Perspektive."
+     ]
+    }
+   ],
+   "zeitleiste": [
+    [
+     "2026-11-27",
+     "Der Bundestag beschließt den Bundeshaushalt für das Jahr 2027 sowie das Haushaltsbegleitgesetz in namentlicher Abstimmung."
+    ],
+    [
+     "2026-11-27",
+     "Der Deutsche Bundestag beschließt den Bundeshaushalt für das Jahr 2027 sowie das Haushaltsbegleitgesetz."
+    ]
+   ],
+   "bilder": [
+    {
+     "art": "person",
+     "suchbegriff": "Lars Klingbeil politician",
+     "bildunterschrift": "Bundesfinanzminister Lars Klingbeil stellte den Haushaltsentwurf im Parlament vor."
+    },
+    {
+     "art": "institution",
+     "suchbegriff": "Reichstag building Berlin",
+     "bildunterschrift": "Der Deutsche Bundestag in Berlin beriet und stimmte über den Etat ab."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Bundeskanzler Friedrich Merz pochte auf die Senkung der Stromsteuer."
+    },
+    {
+     "art": "person",
+     "suchbegriff": "Boris Pistorius politician",
+     "bildunterschrift": "Verteidigungsminister Boris Pistorius verfügt über ein aufgestocktes Budget."
+    }
+   ],
+   "ort": {
+    "name": "Berlin, Deutschland"
+   },
+   "geprueft": true,
+   "korrekturen": [
+    "Entfernung von spekulativen oder nicht belegten Aussagen aus dem Abschnitt Zum Verständnis.",
+    "Anpassung von Formulierungen zur Vermeidung wertender Ausdrücke im gesamten Text."
+   ],
+   "wortwarnung": [],
+   "lernen": {
+    "begriffe": [
+     [
+      "Bundeshaushalt",
+      "Der Finanzplan des Staates für ein Jahr, in dem Einnahmen und Ausgaben festgelegt werden."
+     ],
+     [
+      "Neuverschuldung",
+      "Die Summe neuer Kredite, die der Staat in einem Jahr aufnimmt, um seine Ausgaben zu bezahlen."
+     ],
+     [
+      "Schuldenbremse",
+      "Eine Regel im Grundgesetz, die die Neuverschuldung von Bund und Ländern grundsätzlich begrenzt."
+     ]
+    ],
+    "fragen": [
+     "Welche Argumente nennen Befürworter und Kritiker der hohen Neuverschuldung im Bundeshaushalt 2027?",
+     "Warum ist die Aufstellung des Haushalts nach Ansicht von Finanzminister Klingbeil für das Jahr 2028 noch schwieriger?"
+    ],
+    "quiz": [
+     {
+      "frage": "Wie hoch sind die geplanten Ausgaben im Kernhaushalt für das Jahr 2027?",
+      "optionen": [
+       "rund 450 Milliarden Euro",
+       "rund 556 Milliarden Euro",
+       "rund 650 Milliarden Euro"
+      ],
+      "richtig": 1,
+      "erklaerung": "Mehrere Quellen wie Tagesschau und ZDFheute nennen ein Ausgabevolumen von rund 556 Milliarden Euro."
+     },
+     {
+      "frage": "Wie stimmte der Bundestag über den Haushaltsentwurf ab?",
+      "optionen": [
+       "Mit 317 zu 260 Stimmen dafür",
+       "Einstimmig ohne Gegenstimmen",
+       "Mit 400 zu 100 Stimmen dafür"
+      ],
+      "richtig": 0,
+      "erklaerung": "ZDFheute und taz berichten übereinstimmend über 317 Ja-Stimmen und 260 Nein-Stimmen bei keinen Enthaltungen."
+     },
+     {
+      "frage": "Wer kritisierte den Haushalt als kurzfristiges Stopfen von Lücken ohne langfristige Perspektive?",
+      "optionen": [
+       "Bundeskanzler Friedrich Merz",
+       "Der Wirtschaftsweise Gabriel Felbermayr",
+       "Finanzminister Lars Klingbeil"
+      ],
+      "richtig": 1,
+      "erklaerung": "Laut ZDFheute übte der Wirtschaftsweisen Gabriel Felbermayr diese Kritik an dem Haushaltsentwurf."
+     }
+    ]
+   },
+   "einfach": {
+    "vorspann": "Der Bundestag hat den neuen Bundeshaushalt für das Jahr 2027 beschlossen. Der Staat gibt damit so viel Geld aus wie nie zuvor.",
+    "absaetze": [
+     "Der Bundestag in Berlin hat den Haushalt für das Jahr 2027 mit 317 zu 260 Stimmen beschlossen.",
+     "Der Kernhaushalt umfasst Ausgaben von rund 556 Milliarden Euro. Ein Drittel davon geht in den Sozialbereich.",
+     "Zusätzlich steigen die Ausgaben für die Verteidigung auf fast 140 Milliarden Euro an.",
+     "Wegen hoher Kredite und Sondervermögen steigt die Neuverschuldung auf über 210 Milliarden Euro.",
+     "Finanzminister Lars Klingbeil warnte bereits vor schwierigen Verhandlungen für das Jahr 2028."
+    ]
+   },
+   "video": {
+    "kurz": [
+     "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 mit rund 556 Milliarden Euro beschlossen.",
+     "Die Neuverschuldung steigt durch Kredite und Sondervermögen auf über 210 Milliarden Euro an.",
+     "Finanzminister Lars Klingbeil verteidigte den Etat und verwies auf kommende Belastungen."
+    ],
+    "lang": [
+     "Der Deutsche Bundestag hat den Bundeshaushalt für das Jahr 2027 verabschiedet.",
+     "Dafür stimmten 317 Abgeordnete, während 260 Abgeordnete mit Nein stimmten.",
+     "Der Bund plant im Kernhaushalt Ausgaben von rund 556 Milliarden Euro.",
+     "Einschließlich zweier Sondervermögen summiert sich die Neuverschuldung auf mehr als 210 Milliarden Euro.",
+     "Größte Schwerpunkte im Etat sind der Arbeits- und Sozialetat sowie die Verteidigungsausgaben.",
+     "Nach Angaben von ZDFheute und taz steigen die Verteidigungsausgaben auf fast 140 Milliarden Euro an.",
+     "Finanzminister Lars Klingbeil verteidigte die hohen Kredite im Parlament.",
+     "Kritik kam unter anderem von der Linken-Chefin Ines Schwerdtner.",
+     "Der Haushalt soll im kommenden Januar in Kraft treten.",
+     "Finanzminister Klingbeil warnte bereits vor schwierigen Haushaltsberatungen für das Jahr 2028."
+    ],
+    "einfach": [
+     "Der Bundestag hat den Haushalt für das Jahr 2027 beschlossen.",
+     "Der Staat gibt rund 556 Milliarden Euro aus.",
+     "Ein Drittel des Geldes fließt in den Bereich Soziales.",
+     "Auch die Ausgaben für die Verteidigung steigen stark an.",
+     "Die Neuverschuldung erreicht einen sehr hohen Wert."
+    ]
+   },
+   "kurz": [
+    "Der Bundestag hat den Bundeshaushalt für das Jahr 2027 mit Ausgaben von rund 556 Milliarden Euro beschlossen.",
+    "Die Neuverschuldung steigt durch neue Kredite und Sondervermögen auf über 210 Milliarden Euro an.",
+    "Die Ausgaben für Verteidigung und Soziales bilden die größten Schwerpunkte im neuen Etat."
+   ],
+   "fakten": [
+    [
+     "Gesamtausgaben Kernhaushalt",
+     "rund 556 Milliarden Euro"
+    ],
+    [
+     "Nettokreditaufnahme Kernhaushalt",
+     "123 Milliarden Euro"
+    ],
+    [
+     "Gesamte Neuverschuldung inklusive Sondervermögen",
+     "mehr als 210 Milliarden Euro"
+    ],
+    [
+     "Abstimmung im Bundestag",
+     "317 zu 260 Stimmen"
+    ]
+   ],
+   "dossier": {
+    "slug": "bundeshaushalt-2027",
+    "titel": "Bundeshaushalt 2027"
+   },
+   "bildInfo": {
+    "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+    "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+    "urheber": "Steffen Prößdorf",
+    "lizenz": "CC BY-SA 4.0",
+    "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "artikel": "Friedrich Merz",
+    "sprache": "en",
+    "art": "person",
+    "suchbegriff": "Friedrich Merz politician",
+    "bildunterschrift": "Der CDU-Parteivorsitzende Friedrich Merz.",
+    "hinweis": "Archivfoto"
+   },
+   "bildInfos": [
+    {
+     "titel": "2024-08-21 Friedrich Merz in Erfurt 2024 STP 3041 by Stepro (3x4 cropped).jpg",
+     "beschreibung": "Event, CDU, Wahlkampf mit Friedrich Merz in Erfurt 2024: Friedrich Merz (CDU-Parteivorsitzender)",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg/1280px-2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/0/0b/2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_%283x4_cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:2024-08-21_Friedrich_Merz_in_Erfurt_2024_STP_3041_by_Stepro_(3x4_cropped).jpg",
+     "urheber": "Steffen Prößdorf",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Friedrich Merz",
+     "sprache": "en",
+     "art": "person",
+     "suchbegriff": "Friedrich Merz politician",
+     "bildunterschrift": "Der CDU-Parteivorsitzende Friedrich Merz.",
+     "hinweis": "Archivfoto"
+    },
+    {
+     "titel": "Reichstagsgebäude von Westen.jpg",
+     "beschreibung": "Reichstag building, seen from west",
+     "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg/1280px-Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+     "original": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Reichstagsgeb%C3%A4ude_von_Westen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+     "seite": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+     "urheber": "Jörg Braukmann",
+     "lizenz": "CC BY-SA 4.0",
+     "lizenzUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+     "artikel": "Reichstagsgebäude",
+     "sprache": "de",
+     "art": "institution",
+     "suchbegriff": "Reichstag building Berlin",
+     "bildunterschrift": "Das Reichstagsgebäude in Berlin, in dem der Deutsche Bundestag über den Haushalt entschieden hat.",
+     "hinweis": "Archivfoto"
+    }
+   ],
+   "ortInfo": {
+    "name": "Berlin, Deutschland",
+    "lat": 52.517,
+    "lon": 13.395
+   },
+   "version": 5,
+   "bildVersucht": true
   },
   {
    "id": "sap-stellenabbau-sicherheitsvorfall",
